@@ -2,5 +2,6 @@ collections:
   programmes:
     output: true
     order:
+      - Counselling.md
       - School Green Awards (SGA).md
       - Special Education Needs.md
