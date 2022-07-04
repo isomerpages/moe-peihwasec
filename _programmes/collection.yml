@@ -2,6 +2,7 @@ collections:
   programmes:
     output: true
     order:
+      - "Direct School Admission/DSA: Guzheng.md"
       - Direct School Admission/Direct School Admission.md
       - Direct School Admission/.keep
       - ICT Enrichment.md
