@@ -100,28 +100,27 @@ third_nav_title: Performing Arts
 <p><em>Vice-President of Choir, Mikella</em></p>
 <h4><strong>CCA Details</strong></h4>
 <div>
-<table border="1" width="100%">
+<table style="width: 100%;" border="1" width="100%">
 <tbody>
 <tr>
-<td width="24%"><strong>Teacher-in-Charge</strong></td>
-<td width="76%">Mr Yeo Wei Qiang, Kenneth</td>
+<td style="width: 24%;" width="24%"><strong>Teacher-in-Charge</strong></td>
+<td style="width: 76%;" width="76%">Mr Yeo Wei Qiang, Kenneth</td>
 </tr>
 <tr>
-<td width="24%"><strong>CCA Teacher(s)</strong></td>
-<td width="76%">Ms Tan Jiewen
-<p>Ms Oh Shu Ying, Serene</p>
-<p>Ms Hannah Zulaihah Gwynne</p>
+<td style="width: 24%;" width="24%"><strong>CCA Teacher(s)</strong></td>
+<td style="width: 76%;" width="76%">
+<p>Ms Tan Jiewen<br />Ms Oh Shu Ying, Serene<br />Ms Hannah Zulaihah Gwynne</p>
 </td>
 </tr>
 <tr>
-<td width="24%"><strong>CCA Schedule</strong></td>
-<td width="76%">Tues, 3.30 pm &ndash; 6pm
+<td style="width: 24%;" width="24%"><strong>CCA Schedule</strong></td>
+<td style="width: 76%;" width="76%">Tues, 3.30 pm &ndash; 6pm
 <p>Fri, 2.30 pm &ndash; 6pm</p>
 </td>
 </tr>
 <tr>
-<td width="24%"><strong>Venues</strong></td>
-<td width="76%">AVA Room/ Passion 1 Classroom</td>
+<td style="width: 24%;" width="24%"><strong>Venues</strong></td>
+<td style="width: 76%;" width="76%">AVA Room/ Passion 1 Classroom</td>
 </tr>
 </tbody>
 </table>
