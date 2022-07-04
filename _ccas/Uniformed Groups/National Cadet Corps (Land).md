@@ -78,3 +78,38 @@ third_nav_title: Uniformed Groups
 <p><strong>The Precision Drill Squad and Freestyle D</strong><strong>rill Competitions</strong>&nbsp;not only tests the cadet&rsquo;s mental strength, but also their hand-to-eye coordination and physical endurance. Beyond that, there is a certain self-discipline required for the cadet to be able to undergo the rigorous training as well. Teamwork and trust also comes into play if the routine is to go smoothly and in perfect sync.</p>
 <img style="width: 65%;" src="/images/NCC-09.png" />
 <img style="width: 85%;" src="/images/NCC-10.png" />
+<p><strong>Student Testament</strong></p>
+<img style="width: 30%;" src= "/images/download.jpg" align = "left" />
+<p><em>Unit Sergeant Major (USM) 2021 &ndash; 2022, RYAN TEO YEE KIAT (3I3)</em>&nbsp;&ndash; Here in NCC, it is not just about discipline, marching and ranks. It is about the precious interaction and bonds created between you and the platoon mates in your CCA. Through the various and different activities this CCA planned, you will inevitably make friends in your CCA. You are never alone in this CCA, everyone will work together and strive for excellence. I went through thick and thin here and faced countless challenges. However, this was a blessing in disguise as it taught me the importance of teamwork, communication and resilience. This CCA also gave me the chance to become a leader which gave me the opportunity to lead others and plan activities. I truly enjoyed my time in NCC!</p>
+<img style="width: 30%" src= "/images/download%20(1).jpg" align = "right" />
+<p><em>Assistant Unit Sergeant Major (ASM) 2021 &ndash; 2022,</em>&nbsp;<em>TAN KANG XUAN JASPER (3I8)</em>&nbsp;&ndash; Throughout the years I have spent in NCC, NCC has helped me become a better person in many different ways. NCC allowed me to step out of my comfort zone and experience things I have never done before. It also helped me to become a better person by being more caring to my friends, more disciplined, and being responsible in anything I do. It gave me the courage to face the challenges and the mistakes I made. Thanks to the time I have spent in NCC, I developed my leadership skills and SEL competencies. NCC not only helped me develop these values, but also brought me joy through spending time with my platoon mates and participating in the variety of activities. NCC has allowed me to enjoy my CCA to the fullest. With every session teaching me new skills and allowing me to challenge my limits, I am glad that I am part of NCC. To serve with pride and dedication! NCC!</p>
+<p><strong>CCA Details</strong></p>
+<div>
+<table border="1" width="100%">
+<tbody>
+<tr>
+<td width="24%"><strong>Teacher-in-Charge</strong></td>
+<td width="76%">Mr Harrick Tu</td>
+</tr>
+<tr>
+<td width="24%"><strong>CCA Teacher(s)</strong></td>
+<td width="76%">Mr Ng Tiong Ghee
+<p>Ms Syairah Azahari</p>
+<p>Ms Kristen Su</p>
+</td>
+</tr>
+<tr>
+<td width="24%"><strong>CCA Schedule</strong></td>
+<td width="76%">Tuesday 3.30PM to 6.00PM
+<p>Friday 2.30PM to 6.00PM</p>
+</td>
+</tr>
+<tr>
+<td width="24%"><strong>Venues</strong></td>
+<td width="76%">Quadrangle
+<p>Classrooms</p>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
