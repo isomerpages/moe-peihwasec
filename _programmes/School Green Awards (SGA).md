@@ -7,3 +7,7 @@ description: ""
 <hr>
 <p>2019 Achievement</p>
 <p>We are pleased to announce that the school has achieved the Yellow Flame Award tier at the SEC-StarHub School Green Awards 2019. We were also recognized for actively communicating spreading environment awareness to our community through our outreach projects, where we were conferred the prestigious Outstanding Outreach Projects Award for Secondary Schools.</p>
+<img style="width: 65%;" src="/images/Green-Award-Yellow-Flame.jpg" />
+<p><strong>SGA Yellow Flame Award&nbsp;</strong></p>
+<img style="width: 65%;" src="/images/SGA-Outstanding-Outreach-Recipients-768x373.jpg" />
+<p><strong>SGA Outstanding Outreach Recipients</strong></p>
