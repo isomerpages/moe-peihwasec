@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Direct School Admission/.keep
-      - Direct School Admission.md
       - ICT Enrichment.md
       - Sexuality Education.md
       - Family Matters @ School.md
