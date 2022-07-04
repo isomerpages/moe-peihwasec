@@ -2,6 +2,7 @@ collections:
   programmes:
     output: true
     order:
+      - Student Leadership.md
       - Distinctive Programmes/.keep
       - Distinctive Programmes/Learning for Life Programme – Community Youth
         Leadership (LLP – CYL).md
