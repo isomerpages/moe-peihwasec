@@ -1,5 +1,14 @@
 logo: /images/isomer-logo.svg
 links:
+  - title: Our Partners
+    url: /our-partners/parents-support-group/
+    sublinks:
+      - title: Parents Support Group
+        url: /our-partners/parents-support-group/
+      - title: Pei Hwa Alumni
+        url: /our-partners/pei-hwa-alumni/
+      - title: School Advisory Committee
+        url: /our-partners/school-advisory-committee/
   - title: Links
     url: /links/links-for-teachers/
     sublinks:
