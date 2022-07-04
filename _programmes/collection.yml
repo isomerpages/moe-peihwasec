@@ -2,6 +2,8 @@ collections:
   programmes:
     output: true
     order:
+      - Distinctive Programmes/Applied Learning Programme – Robotics and
+        Programming.md
       - Distinctive Programmes/Learning for Life Programme – Community Youth
         Leadership (LLP – CYL).md
       - Distinctive Programmes/.keep
