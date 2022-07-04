@@ -93,10 +93,7 @@ third_nav_title: Uniformed Groups
 </tr>
 <tr>
 <td width="24%"><strong>CCA Teacher(s)</strong></td>
-<td width="76%">Mr Ng Tiong Ghee
-<p>Ms Syairah Azahari</p>
-<p>Ms Kristen Su</p>
-</td>
+<td width="76%">Mr Ng Tiong Ghee<br />Ms Syairah Azahari<br />Ms Kristen Su</td>
 </tr>
 <tr>
 <td width="24%"><strong>CCA Schedule</strong></td>
