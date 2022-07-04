@@ -2,6 +2,7 @@ collections:
   programmes:
     output: true
     order:
+      - ICT Enrichment.md
       - Sexuality Education.md
       - Family Matters @ School.md
       - Counselling.md
