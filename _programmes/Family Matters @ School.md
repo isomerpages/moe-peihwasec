@@ -9,13 +9,12 @@ description: ""
 <p>To improve parental skills, knowledge and confidence as well as the quality of parent-child relationships and prevent behavioural, emotional, skills and developmental problems in children.</p>
 <p><strong><em>Delivery Format:</em></strong></p>
 <ul>
-<li>Triple P (Level 2): Three 90-minute seminars
+<li>Triple P (Level 2): Three 90-minute seminars</li>
 <ul>
 <li>Seminar 1: Raising responsible teenagers</li>
 <li>Seminar 2: Raising competent teenagers</li>
 <li>Seminar 3: Getting teenagers connected</li>
 </ul>
-</li>
 <li>Triple P (Level 3): Delivered as intervention with a trained Triple P service provider. Approximately four individual consultations.</li>
 </ul>
 <p>For more information on the Positive Parenting Programme (Triple P), please check on the link:&nbsp;<a href="https://www.msf.gov.sg/policies/Strong-and-Stable-Families/Supporting-Families/Pages/Parenting.aspx">https://www.msf.gov.sg/policies/Strong-and-Stable-Families/Supporting-Families/Pages/Parenting.aspx</a></p>
