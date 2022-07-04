@@ -5,7 +5,7 @@ description: ""
 ---
 <h4>Administration</h4>
 <ol>
-<li><a href="https://form.gov.sg/5fdaf670f80bcd0012506a58" target="_blank" rel="noopener noreferrer">FormSG Student Transfer</a> (after release of S1 Posting Results)</li>
+<li><a href="https://form.gov.sg/5fdaf670f80bcd0012506a58" target="_blank" rel="noopener noreferrer">FormSG Student Transfer</a> [NEW] (after release of S1 Posting Results)</li>
 <li><a href="https://go.gov.sg/phss-loa-form" target="_blank" rel="noopener noreferrer">Leave of Absence (LOA) Application</a>
 <div class="mceTemp">&nbsp;</div>
 </li>
