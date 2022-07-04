@@ -86,3 +86,44 @@ third_nav_title: Uniformed Groups
 <p>&ndash; Fire Safety, Medical Response and Urban Rescue courses</p>
 <img src="/images/NCDCC-2.png">
 <img src="/images/NCDCC-3.png">
+<h4><strong>Student Testament</strong></h4>
+<img style="width: 45%;" src="/images/NCDCC-4.jpg" align = "left" />
+<p>During our CCA day camp, we were able to bond with our other level CCA mates and learned how important it is to use teamwork to accomplish everything. We built a tent together, we tied knots together and even just go to know each other a little better. Apart from those activities, we also have learnt foot drills. Foot drills may be very tedious and tiring but when you and your batch mates able to do it consistently and well, you would also feel so good especially when you perform it for other people to see.</p>
+<p><strong>-CPL Brenan Kuan (ROTA 20 cadet)</strong></p>
+<img style="width: 45%;" src="/images/NCDCC-5.jpg" align = "right" />
+<p>NCDCC has really made an impact in my life. Especially through this year&rsquo;s NCO course, I really got a chance to discover my strengths and weaknesses. It helped me to nurture my strengths and work on my weaknesses. Through this course I also got a chance get to know my batchmates better as we face the challenges together, it gave us the opportunity to work together as a ROTA and help one another out. This course really made me understand the saying &ldquo;All for one, one for all&rdquo; it made me realized that we should always look out for the people around us and if we work together, we can come out stronger.</p>
+<p><strong><em>&ndash;&nbsp;</em>SSG Avan Ang (ROTA 19 cadet)</strong></p>
+<h4><strong>CCA Details</strong></h4>
+<div>
+<table border="1" width="100%">
+<tbody>
+<tr>
+<td width="24%"><strong>Teacher-in-Charge</strong></td>
+<td width="76%">Mr Song Hoo Khim</td>
+</tr>
+<tr>
+<td width="24%"><strong>CCA Teacher(s)</strong></td>
+<td width="76%">Ms Shalini Tashnamurthi
+<p>Mdm Chen Peishi</p>
+<p>Mr Gary Ong</p>
+</td>
+</tr>
+<tr>
+<td><strong>Honorary Officer</strong></td>
+<td>LTA Daryl Toh (Alumni)</td>
+</tr>
+<tr>
+<td><strong>Cadet Lieutenants</strong></td>
+<td>SCLT Nazrul (Alumni), CLT Aidil (Alumni)</td>
+</tr>
+<tr>
+<td width="24%"><strong>CCA Schedule</strong></td>
+<td width="76%">Fridays (2.30pm &ndash; 5.40pm)</td>
+</tr>
+<tr>
+<td width="24%"><strong>Venues</strong></td>
+<td width="76%">IP1, 1P2 and Fire Engine Access area</td>
+</tr>
+</tbody>
+</table>
+</div>
