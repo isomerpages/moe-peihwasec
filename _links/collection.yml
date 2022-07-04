@@ -2,6 +2,7 @@ collections:
   links:
     output: true
     order:
+      - Example Title.md
       - MySkillsFuture Portal.md
       - Links for Teachers.md
       - Links for Students.md
