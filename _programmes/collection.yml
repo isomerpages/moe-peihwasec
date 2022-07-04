@@ -2,6 +2,7 @@ collections:
   programmes:
     output: true
     order:
+      - Sexuality Education.md
       - Family Matters @ School.md
       - Counselling.md
       - School Green Awards (SGA).md
