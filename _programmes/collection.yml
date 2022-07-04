@@ -2,11 +2,11 @@ collections:
   programmes:
     output: true
     order:
-      - Distinctive Programmes/Applied Learning Programme – Robotics and
-        Programming.md
+      - Distinctive Programmes/.keep
       - Distinctive Programmes/Learning for Life Programme – Community Youth
         Leadership (LLP – CYL).md
-      - Distinctive Programmes/.keep
+      - Distinctive Programmes/Applied Learning Programme – Robotics and
+        Programming.md
       - "Direct School Admission/DSA: Robotics.md"
       - "Direct School Admission/DSA: Guzheng.md"
       - Direct School Admission/Direct School Admission.md
