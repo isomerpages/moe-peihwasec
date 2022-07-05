@@ -1,6 +1,6 @@
 title: Pei Hwa Secondary School
 url: ""
-favicon: /images/favicon-isomer.ico
+favicon: /images/logo.png
 colors:
   primary-color: "#fade1c"
   secondary-color: "#000000"
@@ -51,7 +51,7 @@ plugins:
   - jekyll-remote-theme
 staging: https://moe-peihwasec-staging.netlify.app
 prod: https://moe-peihwasec-prod.netlify.app
-shareicon: /images/isomer-logo.svg
+shareicon: /images/logo.png
 is_government: false
 facebook-pixel: ""
 google_analytics: ""
