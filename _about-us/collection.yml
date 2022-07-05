@@ -2,5 +2,6 @@ collections:
   about-us:
     output: true
     order:
+      - Staff Information.md
       - Assessment and Homework Policy.md
       - Corporate Videos & Video Gallery.md
