@@ -71,6 +71,29 @@ third_nav_title: Sports & Games
 <img style="width: 44%;" src="/images/wushu3.jpeg" align = "left" />
 <p>&ldquo;I enjoy this CCA because of our strong team spirit. We will constantly cheer one another on and strive for the best especially during the competition periods. We focus on helping every member improve because no one is bigger than the team. With this mindset, the team trains hard together and works towards a common goal. We have grown closer together and this team spirit is something that I really like about Pei Hwa Wushu&rdquo;</p>
 <p><em>Leader for Lower Sec, Zayne from Int 6</em></p>
-<img style="width: 30%;" src="/images/wushu4.jpg" align = "left" />
+<img style="width: 25%;" src="/images/wushu4.jpg" align = "left" />
 <p>&ldquo;I started Wushu at the age of 6 years old and my passion in this sport has grown over the years! I always believe that hard work, perseverance and endurance are the key to achieve my goal in Wushu. The CCA has taught me the importance of team spirit and sportsmanship. I look forward in all my training session with my team mates as I enjoy spending time together with them!</p>
-<p><em>C Boys, Cedric Lim from 2E3</em></p>
+<p><em>C Boys, Cedric Lim from 2E3</em></p><br>
+<h4><strong>CCA Details</strong></h4>
+<div>
+<table border="2" width="100%">
+<tbody>
+<tr>
+<td width="24%"><strong>Teacher-in-Charge</strong></td>
+<td width="76%">Mr Chen Zhenjie</td>
+</tr>
+<tr>
+<td width="24%"><strong>CCA Teacher(s)</strong></td>
+<td width="76%">Ms Ong Xinyi<br />Mdm Helen Lee</td>
+</tr>
+<tr>
+<td width="24%"><strong>CCA Schedule</strong></td>
+<td width="76%">Tue, 3.30pm &ndash; 6.00pm<br />Fri, 2.30pm &ndash; 6.00pm</td>
+</tr>
+<tr>
+<td width="24%"><strong>Venues</strong></td>
+<td width="76%">School Hall</td>
+</tr>
+</tbody>
+</table>
+</div>
