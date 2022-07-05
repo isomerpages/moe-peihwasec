@@ -28,4 +28,11 @@ third_nav_title: Sports & Games
 <p>4) Singapore National Abseiling Standards (SNAS) Level 1 and 2</p>
 <p>5) Kayaking Orienteering Expedition Certification</p>
 <p>6) Orienteering Course (school based)</p>
-<img style="width: 100%;" src="/images/odac4.png" />
+<img style="width: 80%;" src="/images/odac4.png" />
+<h4><strong>Student Testament</strong></h4>
+<img style="width: 40%;" src="/images/odac5.jpeg" align = "right" />
+<p>My journey in Outdoor Adventure Club (ODAC) has been filled with ups and downs. Initially, I struggled and had to adapt to the various activities planned for us, including having to overcome my fear of water when we had to take our Kayaking course. However, over time, the experiences in ODAC have been incredible. From adventure camps to outdoor activities, the inclusive and caring members showed me that ODAC is more than just a CCA. It is a family.</p>
+<p>With our usual sessions planned and executed by students, leadership opportunities are also aplenty. As the President, I had to work with my committee members, allowing opportunities to understand my peers and further strengthen my bonds with them.</p>
+<p>ODAC has also taught me important values. Other than just learning the ropes of leading, we had to quickly adapt to the &lsquo;new normal&rsquo; due to Covid-19. With uncertain and changing rules about CCA, we had to toggle between physical and online sessions. Our usual activities also had to be tweaked to follow Safety Management Measures. These are challenging times as we tried to still engage our members despite the numerous limitations but through it, I am able to develop myself to become more adaptable and resilient.</p>
+<p>To sum up my experience in ODAC, it was nothing short of amazing. I definitely have no regrets joining ODAC. Under the influence of the motto set in the cca &ndash; ALL FOR ONE, ONE FOR ALL, it really means that we go through thick and thin together, supporting each other endlessly like a family.</p>
+<p>Nixon&nbsp;<em>&nbsp;(3I1), President (2021-2022)</em></p>
