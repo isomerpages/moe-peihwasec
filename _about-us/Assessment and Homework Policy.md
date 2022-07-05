@@ -110,3 +110,69 @@ description: ""
 <p>A medical certificate or a copy of the death certificate has to be given to the form teacher when the student returns to school. All other reasons are to be considered on a case-by-case basis subject to the school&rsquo;s approval.</p>
 <p>For students who are absent for a weighted assessment with no valid reason, they will be given a zero mark for that assessment and this assessment mark will be included in the computation of the subject and overall total.&nbsp;</p>
 <p>For other detailed examination regulations, please refer to page 20 of the student handbook.</p>
+<h4><span style="text-decoration: underline;"><strong>HOMEWORK POLICY 2022</strong></span></h4>
+<p>Homework is work that is set to be done outside the time-tabled curriculum. Pei Hwa Secondary School believes that&nbsp;reasonable amounts of academic effort outside the class can enhance student learning,&nbsp;improve achievement&nbsp;and&nbsp;develop students&rsquo; study skills. Homework provides an opportunity for students to revisit the concepts or skills taught during lessons.&nbsp;</p>
+<p>Homework refers to any task which students are required to carry out for a subject outside of time-tabled curriculum time, regardless of the mode of delivery. This includes projects or research work, but not revision of school work or studying for tests and examinations.</p>
+<p><strong>Suggested Homework Duration</strong></p>
+<p>Suggested homework maximum average duration per day (including weekends):</p>
+<div>
+<table>
+<tbody>
+<tr>
+<td>Lower Secondary&nbsp;&ndash; 2&nbsp;hours</td>
+</tr>
+<tr>
+<td>Upper Secondary&nbsp;&ndash; 2&frac12; hours</td>
+</tr>
+</tbody>
+</table>
+</div>
+<p><strong>Other Guidelines on Homework</strong></p>
+<ol>
+<li aria-level="1">During the school holidays:
+<div>
+<table border="1">
+<tbody>
+<tr>
+<td>
+<p>March Holidays&nbsp;</p>
+</td>
+<td>
+<p>9 hours for Sec 1 and 2</p>
+<p>12 hours for Sec 3, 4 and 5</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>June Holidays&nbsp;</p>
+</td>
+<td>
+<p>18 hours for Sec 1 and 2</p>
+<p>24 hours for Sec 3, 4 and 5</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>September Holidays&nbsp;</p>
+</td>
+<td>
+<p>9 hours for Sec 1 and 2</p>
+<p>12 hours for Sec 3, 4 and 5</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Year-End Holidays</p>
+</td>
+<td>
+<p>18 hours for Sec 1 and 2</p>
+<p>24 hours for Sec 3, 4 and 5</p>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</li>
+<li>Homework assignments will not be given over festive periods during term time, e.g. Chinese New Year, Deepavali and Hari Raya Puasa.</li>
+<li>Teachers are mindful that students will not be overloaded with homework and practice papers in the week before Semester Assessments. Students are to use the time to revise for their subjects.</li>
+</ol>
