@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Logo, Motto and School Song.md
       - Vision, Mission and Values.md
       - Staff Information.md
       - Assessment and Homework Policy.md
