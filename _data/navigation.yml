@@ -1,5 +1,28 @@
 logo: /images/isomer-logo.svg
 links:
+  - title: Programmes
+    url: /innovation-talent-development-programme/
+    sublinks:
+      - title: Innovation & Talent Developmen
+        url: /innovation-talent-development-programme/
+      - title: Student Leadership
+        url: /programmes/student-leadership/
+      - title: " Distinctive Programmes"
+        url: /school-distinctive-programme/learning-for-life-programme-community-youth-leadership-llp-cyl/
+      - title: Direct School Admission
+        url: /programmes/direct-school-admission-dsa/
+      - title: ICT Enrichment
+        url: /programmes/ict-enrichment/
+      - title: Sexuality Education
+        url: /programmes/sexuality-education/
+      - title: Family Matters @ School
+        url: /programmes/family-matters-at-school/
+      - title: Counselling
+        url: /programmes/counselling/
+      - title: School Green Awards (SGA)
+        url: /sga/
+      - title: Special Education Needs
+        url: /programmes/special-education-needs/
   - title: Our Partners
     url: /our-partners/parents-support-group/
     sublinks:
