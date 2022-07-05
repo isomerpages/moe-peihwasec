@@ -2,7 +2,7 @@ collections:
   about-us:
     output: true
     order:
-      - Example Title.md
+      - Vision, Mission and Values.md
       - Staff Information.md
       - Assessment and Homework Policy.md
       - Corporate Videos & Video Gallery.md
