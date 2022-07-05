@@ -120,6 +120,16 @@ third_nav_title: Clubs & Societies
 <li>Robocup Singapore Open (Cospace Rescue, Cospace Grand Prix, OnStage)</li>
 </ol>
 <img src="/images/robo1.jpg">
+<p>Award winners of the 2019 RobocupJunior Singapore Open</p>
+<ol>
+<li>Introduction to Python Programming Language, Data Science with Python</li>
+<li>Internal LEGO EV3 robotics competition</li>
+<li>AI with Halocode, Machine Learning with Huskylens</li>
+<li>Codomo Potato Pirates Coding Card Games</li>
+</ol>
+<img src="/images/robo2.jpg">
+<p>Workshop on machine learning with Huskylens and&nbsp;Micro:bit</p>
+<h4><strong>Student Testament</strong></h4>
 <h4><strong>CCA Details</strong></h4>
 <div>
 <table border="1" width="100%">
