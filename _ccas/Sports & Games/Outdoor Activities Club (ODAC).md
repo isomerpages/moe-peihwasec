@@ -36,3 +36,26 @@ third_nav_title: Sports & Games
 <p>ODAC has also taught me important values. Other than just learning the ropes of leading, we had to quickly adapt to the &lsquo;new normal&rsquo; due to Covid-19. With uncertain and changing rules about CCA, we had to toggle between physical and online sessions. Our usual activities also had to be tweaked to follow Safety Management Measures. These are challenging times as we tried to still engage our members despite the numerous limitations but through it, I am able to develop myself to become more adaptable and resilient.</p>
 <p>To sum up my experience in ODAC, it was nothing short of amazing. I definitely have no regrets joining ODAC. Under the influence of the motto set in the cca &ndash; ALL FOR ONE, ONE FOR ALL, it really means that we go through thick and thin together, supporting each other endlessly like a family.</p>
 <p>Nixon&nbsp;<em>&nbsp;(3I1), President (2021-2022)</em></p>
+<h4><strong>CCA Details</strong></h4>
+<div class="table-responsive">
+<table border="1" width="100%">
+<tbody>
+<tr>
+<td width="24%"><strong>Teacher-in-Charge</strong></td>
+<td width="76%">Mr Riyaz Huseni</td>
+</tr>
+<tr>
+<td width="24%"><strong>CCA Teacher(s)</strong></td>
+<td width="76%">Miss Lee Sixian<br />Mr Lai Mun Chun<br />Mrs Kamini Lam</td>
+</tr>
+<tr>
+<td width="24%"><strong>CCA Schedule</strong></td>
+<td width="76%">Tuesdays: 3.30pm to 5pm<br />Fridays: 2.30pm to 6pm</td>
+</tr>
+<tr>
+<td width="24%"><strong>Venues</strong></td>
+<td width="76%">Outside ODAC room</td>
+</tr>
+</tbody>
+</table>
+</div>
