@@ -13,3 +13,26 @@ third_nav_title: Departments
 <h4><strong>Our Programmes</strong></h4>
 <p><strong>Project Moolah by SMU</strong></p>
 <p>Collaboration with Singapore Management University (SMU) business students to inculcate Financial Literacy and reinforce understanding of accounting concepts and practices.</p>
+<img style="width: 80%;" src="/images/poa1.png" />
+<p><strong>EBS Learning Journey</strong></p>
+<p>Field trips to heritage attractions, places of interest and tourist attractions to let students explore and learn beyond classroom environment.</p>
+<img style="width: 60%;" src="/images/poa2.jpg" />
+<h4><strong>Our Student Learning</strong></h4>
+<p>We strive to provide a conducive learning classroom environment which excites and engages students to excel. The department employs teaching strategies such as questioning techniques and scenario-based questions/examples. These strategies arouse students&rsquo; interest, focus their learning, prepare them to acquire new concepts and help develop students&rsquo; decision-making skills.</p>
+<p>With the introduction of HBL, we have become more accustomed to innovation and agency towards digital learning. Thus, creating new learning possibilities afforded by digital technologies such as ClassCraft, Google Classroom and Student Learning Space (SLS). POA and EBS teachers leveraged on theses platforms to accelerate and deepen learning by making it more active and personalized for students in and out of classrooms. Integrating education technology within the curriculum can be a catalyst to transform teaching and learning.</p>
+<p><strong>HBL POA Lesson (Using Google Classroom and ClassCraft)</strong></p>
+<p>Using Video function to arouse interest. (Google Classroom)</p>
+<img style="width: 80%;" src="/images/poa3.png" />
+<p>Submission of work by students and returned by teachers. (Google Classroom)</p>
+<img style="width: 80%;" src="/images/poa4.png" />
+<p>Elements of game playing in ClassCraft, like scoring points and competing with others to engage students. (ClassCraft)</p>
+<img style="width: 80%;" src="/images/poa5.png" />
+<p>Grouping students to have collaborative learning. (ClassCraft)</p>
+<img style="width: 80%;" src="/images/poa6.png" />
+<p><strong>HBL EBS Lesson (Using SLS)</strong></p>
+<p>Trigger video for students to arouse students&rsquo; interest on the topic. (SLS)</p>
+<img style="width: 80%;" src="/images/poa7.png" />
+<p>Pictures and questions for further development of the lesson. (SLS)</p>
+<img style="width: 80%;" src="/images/poa8.png" />
+<p>Reflection at the end of the lesson. (SLS)</p>
+<img style="width: 80%;" src="/images/poa9.png" />
