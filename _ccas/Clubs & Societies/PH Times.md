@@ -95,3 +95,37 @@ third_nav_title: Clubs & Societies
 <p>&ndash; school events and celebrations</p>
 <p>&ndash; Pei Hwa CCA Photo</p>
 <p>&ndash; student-led CCA activities/ projects</p>
+<img style="width: 85%;" src="/images/ph1.jpg" />
+<p style="text-align: center;"><strong>NCC CCA photo taking by PH Times</strong></p>
+<p>Our CCA also encourages members to take part in the following competitions:</p>
+<p>&ndash; Our School, Our Stories Photo Contest</p>
+<p>&ndash; Anti Drug Video Competition</p>
+<h4><strong>&nbsp;Student Testament</strong></h4>
+<p>&ldquo;In PH Times, I have learnt about photography and photo editing skills which I use in doing what I like; editing pictures of cars by enhancing the visuals of the picture. My friends and relatives would also ask me to take photos of them after finding out what I do in the CCA. I was able to take better photos and apply different types of shots from different angles like the bird&rsquo;s eye view and over the shoulder shots. As a leader, I was able to communicate better with others and manage situations where different people have contrasting views and ideas.&rdquo;</p>
+<p><em>Vice-president 2021</em></p>
+<img style="width: 40%;" src="/images/ph2.jpg" align = "left" />
+<p>&ldquo;One of my greatest achievements in PH Times was being able to conduct CCA sessions on videography with my CCA members successfully. It was sometimes hard for me to find time to plan meaningful sessions for my members especially when we leaders had to discuss plans online because it was difficult to find a common time to meet up. Thus, I was glad to have been able to overcome this obstacle of not being able to meet with my other fellow leaders but still being able to plan sessions for my members. I have also made new friends in the CCA and I will definitely miss the times I spent with my seniors and juniors in PH Times.&rdquo;</p>
+<p><em>Head of Video</em></p>
+<h4><strong>CCA Details</strong></h4>
+<div>
+<table border="1" width="100%">
+<tbody>
+<tr>
+<td width="24%"><strong>Teacher-in-Charge</strong></td>
+<td width="76%">Mdm Rasyidah Binte Ramli</td>
+</tr>
+<tr>
+<td width="24%"><strong>CCA Teacher(s)</strong></td>
+<td width="76%">Ms Ari Sutanti Binte Haji Mispan<br />Mr Tan Aik Fong<br />Mrs Yueh See Hwei</td>
+</tr>
+<tr>
+<td width="24%"><strong>CCA Schedule</strong></td>
+<td width="76%">Tuesdays, 3.00 &ndash; 5.30 pm (Sec 1 and Sec 3)<br />Fridays, 2.30 &ndash; 5.30 pm (Sec 2, Sec 4 and Sec 5)</td>
+</tr>
+<tr>
+<td width="24%"><strong>Venues</strong></td>
+<td width="76%">Resilience 7, Resilience A, Computer Lab 2, Passion A, Media Production Studio</td>
+</tr>
+</tbody>
+</table>
+</div>
