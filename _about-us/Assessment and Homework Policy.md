@@ -138,8 +138,7 @@ description: ""
 <p>March Holidays&nbsp;</p>
 </td>
 <td>
-<p>9 hours for Sec 1 and 2</p>
-<p>12 hours for Sec 3, 4 and 5</p>
+<p>9 hours for Sec 1 and 2<br />12 hours for Sec 3, 4 and 5</p>
 </td>
 </tr>
 <tr>
@@ -147,8 +146,7 @@ description: ""
 <p>June Holidays&nbsp;</p>
 </td>
 <td>
-<p>18 hours for Sec 1 and 2</p>
-<p>24 hours for Sec 3, 4 and 5</p>
+<p>18 hours for Sec 1 and 2<br />24 hours for Sec 3, 4 and 5</p>
 </td>
 </tr>
 <tr>
@@ -156,8 +154,7 @@ description: ""
 <p>September Holidays&nbsp;</p>
 </td>
 <td>
-<p>9 hours for Sec 1 and 2</p>
-<p>12 hours for Sec 3, 4 and 5</p>
+<p>9 hours for Sec 1 and 2<br />12 hours for Sec 3, 4 and 5</p>
 </td>
 </tr>
 <tr>
@@ -165,8 +162,7 @@ description: ""
 <p>Year-End Holidays</p>
 </td>
 <td>
-<p>18 hours for Sec 1 and 2</p>
-<p>24 hours for Sec 3, 4 and 5</p>
+<p>18 hours for Sec 1 and 2<br />24 hours for Sec 3, 4 and 5</p>
 </td>
 </tr>
 </tbody>
