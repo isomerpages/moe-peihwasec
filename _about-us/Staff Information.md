@@ -581,9 +581,142 @@ description: ""
 </table>
 </div>
 </li>
-<li><input id="accordion5" type="checkbox" /> <label for="accordion5">Simple</label>
+<li><input id="accordion5" type="checkbox" /> <label for="accordion5">Secondary 4/5 Classes 2022</label>
 <div>
-<p>This is a simple one line item</p>
+<table style="height: 858px;" border="1">
+<tbody>
+<tr style="height: 18px;">
+<td style="height: 18px; width: 123px;">
+<p><strong>Class</strong></p>
+</td>
+<td style="height: 18px; width: 255px;">
+<p><strong>Name of Form Teacher</strong></p>
+</td>
+<td style="height: 18px; width: 285px;">
+<p><strong>Email</strong></p>
+</td>
+</tr>
+<tr style="height: 88px;">
+<td style="height: 88px; width: 123px;">
+<p><strong>Diligence 1</strong></p>
+</td>
+<td style="height: 88px; width: 255px;">
+<p><strong>Miss Tan Jiewen</strong></p>
+<p><strong>Ms Jaime Toh Guek Peng</strong></p>
+</td>
+<td style="height: 88px; width: 285px;">
+<p>tan_jiewen@moe.edu.sg</p>
+<p>jaime_toh_guek_peng@moe.edu.sg</p>
+</td>
+</tr>
+<tr style="height: 88px;">
+<td style="height: 88px; width: 123px;">
+<p><strong>Diligence 2</strong></p>
+</td>
+<td style="height: 88px; width: 255px;">
+<p><strong>Mdm Lin Airong Michelle (Mrs Michelle Neo)</strong></p>
+<p><strong>Mrs Hannah Zulaihah Gwynne</strong></p>
+</td>
+<td style="height: 88px; width: 285px;">
+<p>lin_airong_michelle@moe.edu.sg</p>
+<p>hannah_zulaihah_gwynne@moe.edu.sg</p>
+</td>
+</tr>
+<tr style="height: 88px;">
+<td style="height: 88px; width: 123px;">
+<p><strong>Diligence 3</strong></p>
+</td>
+<td style="height: 88px; width: 255px;">
+<p><strong>Mdm Jennie Tan Puay Cheng</strong></p>
+<p><strong>Mr Fahmie B Ali Abdat</strong></p>
+</td>
+<td style="height: 88px; width: 285px;">
+<p>tan_puay_cheng@moe.edu.sg</p>
+<p>fahmie_ali_abdat@moe.edu.sg</p>
+</td>
+</tr>
+<tr style="height: 88px;">
+<td style="height: 88px; width: 123px;">
+<p><strong>Diligence 4</strong></p>
+</td>
+<td style="height: 88px; width: 255px;">
+<p><strong>Ms Teo Shi Hui Joanne</strong></p>
+<p><strong>Mr Ng Tiong Ghee</strong></p>
+</td>
+<td style="height: 88px; width: 285px;">
+<p>teo_shi_hui_joanne@moe.edu.sg</p>
+<p>ng_tiong_ghee@moe.edu.sg</p>
+</td>
+</tr>
+<tr style="height: 88px;">
+<td style="height: 88px; width: 123px;">
+<p><strong>Diligence 5</strong></p>
+</td>
+<td style="height: 88px; width: 255px;">
+<p><strong>Mdm Lu Yitong</strong></p>
+<p><strong>Mrs Tan Pan Ying Ranice</strong></p>
+</td>
+<td style="height: 88px; width: 285px;">
+<p>lu_yitong@smoe.edu.sg</p>
+<p>tan_pan_ying_ranice@moe.edu.sg</p>
+</td>
+</tr>
+<tr style="height: 88px;">
+<td style="height: 88px; width: 123px;">
+<p><strong>Diligence 6</strong></p>
+</td>
+<td style="height: 88px; width: 255px;">
+<p><strong>Mr Ng Pit Shen Nicholas</strong></p>
+<p><strong>Mdm Wong Ping Fang Claire</strong></p>
+</td>
+<td style="height: 88px; width: 285px;">
+<p>ng_pit_shen@moe.edu.sg</p>
+<p>wong_ping_fang@moe.edu.sg</p>
+</td>
+</tr>
+<tr style="height: 138px;">
+<td style="height: 138px; width: 123px;">
+<p><strong>Diligence 7</strong></p>
+</td>
+<td style="height: 138px; width: 255px;">
+<p><strong>Mdm Lee Helen</strong></p>
+<p><strong>Miss Lee Ya Yu</strong></p>
+<p><strong>Miss Chan Xin Hui Michelle (Mrs Jonathan)</strong></p>
+</td>
+<td style="height: 138px; width: 285px;">
+<p>lee_helen_a@moe.edu.sg</p>
+<p>lee_ya_yu@moe.edu.sg</p>
+<p>chan_xin_hui_michelle@moe.edu.sg</p>
+</td>
+</tr>
+<tr style="height: 88px;">
+<td style="height: 88px; width: 123px;">
+<p><strong>Diligence 8</strong></p>
+</td>
+<td style="height: 88px; width: 255px;">
+<p><strong>Miss Ong Xin Yi</strong></p>
+<p><strong>Miss Lim Sin Ee Rachel</strong></p>
+</td>
+<td style="height: 88px; width: 285px;">
+<p>ong_xin_yi@moe.edu.sg</p>
+<p>lim_sin_ee_rachel@moe.edu.sg</p>
+</td>
+</tr>
+<tr style="height: 86px;">
+<td style="height: 86px; width: 123px;">
+<p><strong>Excellence 1</strong></p>
+</td>
+<td style="height: 86px; width: 255px;">
+<p><strong>Miss Lim Guat Hong</strong></p>
+<p><strong>Mr Foo Chang Yong John</strong></p>
+</td>
+<td style="height: 86px; width: 285px;">
+<p>lim_guat_hong@moe.edu.sg</p>
+<p>foo_chang_yong_john@moe.edu.sg</p>
+</td>
+</tr>
+</tbody>
+</table>
 </div>
 </li>
 </ul>
