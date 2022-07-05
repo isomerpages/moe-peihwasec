@@ -71,3 +71,18 @@ links:
         url: /links/links-for-parents/
       - title: School Safety
         url: /links/school-safety/
+  - title: About Us
+    url: /about-us/logo-motto-and-school-song/
+    sublinks:
+      - title: Logo, Motto and School Song
+        url: /about-us/logo-motto-and-school-song/
+      - title: Vision, Mission and Values
+        url: /about-us/vision-mission-and-values/
+      - title: Staff Information
+        url: /about-us/staff-contact-info/
+      - title: Assessment and Homework Policy
+        url: /assessment-and-homework-policy/
+      - title: Departments
+        url: /about-us/departments/english-language-literature/
+      - title: Corporate Videos/Video Gallery
+        url: /news-media/videos/
