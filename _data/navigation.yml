@@ -1,5 +1,16 @@
 logo: /images/isomer-logo.svg
 links:
+  - title: CCAS
+    url: /ccas/
+    sublinks:
+      - title: Clubs & Societies
+        url: /ccas/clubs-societies/infocomm-club/
+      - title: Sports & Games
+        url: /ccas/sports-games/badminton/
+      - title: Performing Arts
+        url: /ccas/performing-arts/dance/
+      - title: Uniformed Groups
+        url: /ccas/uniformed-groups/ncc-land/
   - title: Programmes
     url: /innovation-talent-development-programme/
     sublinks:
