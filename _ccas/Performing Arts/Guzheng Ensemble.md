@@ -4,4 +4,4 @@ permalink: /ccas/performing-arts/guzheng/
 description: ""
 third_nav_title: Performing Arts
 ---
-<img src="/images/guzehgn.jpg">
+<img src="/images/guzheng1.jpg">
