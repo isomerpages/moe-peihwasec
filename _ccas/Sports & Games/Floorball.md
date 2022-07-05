@@ -86,3 +86,37 @@ third_nav_title: Sports & Games
 <p>We are also actively involved in workshops, camps and clinics for the betterment of our members. Some of these activities that our members have attended included a Blindsave Goalie Camp conducted by Andis Blinds from Latvia in 2018 and floorball clinics and sports conference held by David Jansson, Head coach for the Swiss National Mens&rsquo; Floorball Team in 2018.</p>
 <p>There are also plenty of opportunities for our members to be developed as student leaders in the CCA. Student leaders in the CCA are given the opportunity to facilitate events such as our annual CCA Fiesta, Open House and CCA Camps. You will also lead the team for training and competitions. Student leaders are also given the opportunity to hone their leadership further when they are sent to participate in the annual Sec 2 Basic Student Leadership Camp and Sec 3 Advance Student Leadership Camp.</p>
 <h4><strong>Student Testament</strong></h4>
+<img style="width: 65%;" src="/images/floorball2.jpg" />
+<p>&ldquo;I look forward to training sessions every week and I really enjoy spending time with my teammates! Floorball has allowed me to hone my communication and leadership skills. Through my position as CCA President and B Division Captain, I have been given a plethora of opportunities that helped me to grow as a person. The relationships forged with my CCA members will always be something I hold close to my heart.&rdquo;</p>
+<p><em>President and B Division Captain 2019, Jolyn Lye, 4E5 (2020) &ndash; left in the picture</em></p>
+<p>&ldquo;Being a part of Pei Hwa Phoenix has given me the chance to realise my interest in Floorball. The time spent on and off court has forged the friendship with my fellow teammates which in turn allowed us to establish good rapport for success. Through the years, with the training and support from our coaches and CCA teachers, the team emerged to be one of the best. All the above has attributed to motivating me to work hard to gain a spot in the Under-19 Womens&rsquo; National Team.&rdquo;</p>
+<p><em>C-Div Captain 2018 &amp; U19 Womens&rsquo; National Team, Christie Lim, 4E5 (2020) &ndash; right in the picture</em></p>
+<img style="width: 40%;" src="/images/floorball23.jpg" align = "right" />
+<p><em>&ldquo;Who would have thought that a sport CCA like floorball could bring so much benefit to your life? Well that was where I was completely wrong. Pei Hwa Floorball has made my years in secondary school the best years of my life because of the culture that has always been supportive and nurturing. From a seemingly ordinary group of students into talented teenagers who are capable of reaching for the stars. I owe a great deal to Pei Hwa Floorball as I would not be the resilient, confident person I am today who had countless opportunities to grow and expand my potential.&rdquo;</em></p>
+<p><em>-Ulfah Irdina (B Div Vice-Captain 2018, currently Victoria Junior College Floorball Womens&rsquo; Captain 2020)</em></p>
+<img style="width: 40%;" src="/images/floorball3.jpg" align = "left" />
+<p><em>&ldquo;Pei Hwa Phoenix has benefitted me in so many ways, on and off the court. I have picked up many skills and values during this journey, such as learning how to be a better leader and being more disciplined. I have grown to become a better individual ever since I first embarked on this floorball journey. I am able to better manage my time and my resilience for my studies has improved. I have been exposed to many opportunities to grow myself as a leader. I am extremely grateful for all the care, guidance and support showered on me by my Phoenix family. It has been a great joy to be part of and leading this incredible team. I have forged strong bonds and created memories that will be deeply treasured. I have no regrets. Thank you, Pei Hwa Phoenix for being one of my greatest highlights in Pei Hwa.&rdquo;</em></p>
+<p><em>President and B Division Captain 2020, Siti Nur Insyirah binte Mohsin, Integrity 6 (2020)</em></p>
+<h4><strong>CCA Details</strong></h4>
+<div>
+<table border="1" width="0">
+<tbody>
+<tr>
+<td width="150"><strong>Teacher-in-Charge</strong></td>
+<td width="473">Mr Mohamad Arizal Bin Ahmad</td>
+</tr>
+<tr>
+<td width="150"><strong>CCA Teacher(s)</strong></td>
+<td width="473">Ms Yasmin Yeow<br />Ms Shanthini d/o Sinivasan<br />Mrs Jeslyn Chong<br />Ms Lee Ya Yu</td>
+</tr>
+<tr>
+<td width="150"><strong>CCA Schedule</strong></td>
+<td width="473">Wednesday, 3.30pm &ndash; 6.00pm<br />Friday, 2.30pm &ndash; 6.00pm</td>
+</tr>
+<tr>
+<td width="150"><strong>Venues</strong></td>
+<td width="473">Wednesday &ndash; ISH Level 2<br />Friday &ndash; ISH Level 1</td>
+</tr>
+</tbody>
+</table>
+</div>
