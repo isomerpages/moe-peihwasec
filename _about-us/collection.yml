@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Departments/POA & EBS.md
       - Departments/Humanities.md
       - Departments/Craft & Technology.md
       - Departments/Physical Education.md
