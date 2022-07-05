@@ -130,6 +130,12 @@ third_nav_title: Clubs & Societies
 <img src="/images/robo2.jpg">
 <p>Workshop on machine learning with Huskylens and&nbsp;Micro:bit</p>
 <h4><strong>Student Testament</strong></h4>
+<img style="width: 33%;" src="/images/robo3.jpg" align = "left" />
+<p>&ldquo;I really enjoy the competitive ambience and the adrenaline rush during Robotics competitions. I like interacting with my CCA friends and bouncing off ideas and strategies with them to overcome challenges in coding&rdquo;.</p>
+<p><em>Logistics Manager, Antho Siow Jia Jun, Int 5</em></p>
+<img style="width: 33%;" src="/images/robo4.jpg" align = "right" /><p>&ldquo;Even though these past 2 years have been quite uneventful due to Covid-19, I still really enjoy my time learning new skills, making new friends, and working together with my peers and teachers.</p>
+<p>The Robotics Club has given me the opportunity to be a leader, to express my creativity and improve on my social skills. I look forward to what&rsquo;s more to come.&rdquo;</p>
+<p><em>Lower Secondary Coordinator, Grace Lai Le Xin, Res 4</em></p>
 <h4><strong>CCA Details</strong></h4>
 <div>
 <table border="1" width="100%">
