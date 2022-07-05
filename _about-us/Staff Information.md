@@ -199,9 +199,129 @@ description: ""
 </table>
 </div>
 </li>
-<li><input id="accordion2" type="checkbox" /> <label for="accordion2">Simple</label>
+<li><input id="accordion2" type="checkbox" /> <label for="accordion2">Secondary 1 Classes 2022</label>
 <div>
-<p>This is a simple one line item</p>
+<table border="1">
+<tbody>
+<tr>
+<td style="width: 103px;">
+<p><strong>Class</strong></p>
+</td>
+<td style="width: 271px;">
+<p><strong>Name of Form Teacher</strong></p>
+</td>
+<td style="width: 290.438px;">
+<p><strong>Email</strong></p>
+</td>
+</tr>
+<tr>
+<td style="width: 103px;">
+<p><strong>Passion 1</strong></p>
+</td>
+<td style="width: 271px;">
+<p><strong>Mrs Yeo-Kwok Coleen</strong></p>
+<p><strong>Mr Li Hong Jin</strong></p>
+</td>
+<td style="width: 290.438px;">
+<p>coleen_kwok_siew_yun@moe.edu.sg</p>
+<p>li_hong_jin@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td style="width: 103px;">
+<p><strong>Passion 2</strong></p>
+</td>
+<td style="width: 271px;">
+<p><strong>Mr Teo Eng Hao</strong></p>
+<p><strong>Ms Nur Fateha Binte Kamsani</strong></p>
+</td>
+<td style="width: 290.438px;">
+<p>teo_eng_hao@moe.edu.sg</p>
+<p>nur_fateha_kamsani@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td style="width: 103px;">
+<p><strong>Passion 3</strong></p>
+</td>
+<td style="width: 271px;">
+<p><strong>Mdm Tai Bee Chuan (Mrs Cheow)</strong></p>
+<p><strong>Mr Bahtiar Bin Kassim</strong></p>
+<p><strong>Mdm Woo Nan Cam</strong></p>
+</td>
+<td style="width: 290.438px;">
+<p>tai_bee_chuan@moe.edu.sg</p>
+<p>bahtiar_kassim@moe.edu.sg</p>
+<p>woo_nan_cam@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td style="width: 103px;">
+<p><strong>Passion 4</strong></p>
+</td>
+<td style="width: 271px;">
+<p><strong>Mr Koh Chong Peng</strong></p>
+<p><strong>Mdm Zhong Qian</strong></p>
+</td>
+<td style="width: 290.438px;">
+<p>koh_chong_peng@moe.edu.sg</p>
+<p>zhong_qian@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td style="width: 103px;">
+<p><strong>Passion 5</strong></p>
+</td>
+<td style="width: 271px;">
+<p><strong>Mr Chen Zhenjie</strong></p>
+<p><strong>Mdm Seveeneshwary D/O Rajarethinam</strong></p>
+</td>
+<td style="width: 290.438px;">
+<p>chen_zhenjie@moe.edu.sg</p>
+<p>seveeneshwary_a_rajarethi@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td style="width: 103px;">
+<p><strong>Passion 6</strong></p>
+</td>
+<td style="width: 271px;">
+<p><strong>Miss Su Yiying Kristen</strong></p>
+<p><strong>Mr Tan Tong Lun</strong></p>
+</td>
+<td style="width: 290.438px;">
+<p>su_yi_ying@moe.edu.sg</p>
+<p>tan_tong_lun@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td style="width: 103px;">
+<p><strong>Passion 7</strong></p>
+</td>
+<td style="width: 271px;">
+<p><strong>Miss Chan Yen Lin Charlotte</strong></p>
+<p><strong>Mdm Liyana Filzah Binte Anuar</strong></p>
+</td>
+<td style="width: 290.438px;">
+<p>charlotte_chan@moe.edu.sg</p>
+<p>liyana_filzah_anuar@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td style="width: 103px;">
+<p><strong>Passion 8</strong></p>
+</td>
+<td style="width: 271px;">
+<p><strong>Mr Mohamad Arizal Bin Ahmad</strong></p>
+<p><strong>Miss Wong Ser Ching</strong></p>
+</td>
+<td style="width: 290.438px;">
+<p>mohamad_arizal_ahmad@moe.edu.sg</p>
+<p>wong_ser_ching@moe.edu.sg</p>
+</td>
+</tr>
+</tbody>
+</table>
 </div>
 </li>
 <li><input id="accordion3" type="checkbox" /> <label for="accordion3">Simple</label>
