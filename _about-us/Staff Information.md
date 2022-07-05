@@ -460,9 +460,125 @@ description: ""
 </table>
 </div>
 </li>
-<li><input id="accordion4" type="checkbox" /> <label for="accordion4">Simple</label>
+<li><input id="accordion4" type="checkbox" /> <label for="accordion4">Secondary 3 Classes 2022</label>
 <div>
-<p>This is a simple one line item</p>
+<table border="1">
+<tbody>
+<tr>
+<td style="width: 113px;">
+<p><strong>Class</strong></p>
+</td>
+<td style="width: 232px;">
+<p><strong>Name of Form Teacher</strong></p>
+</td>
+<td style="width: 319.078px;">
+<p><strong>Email</strong></p>
+</td>
+</tr>
+<tr>
+<td style="width: 113px;">
+<p><strong>Integrity 1</strong></p>
+</td>
+<td style="width: 232px;">
+<p><strong>Ms Lee Sixian</strong></p>
+<p><strong>Mr Goh Kok Soon Ronnie</strong></p>
+</td>
+<td style="width: 319.078px;">
+<p>lee_sixian@moe.edu.sg</p>
+<p>goh_kok_soon@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td style="width: 113px;">
+<p><strong>Integrity 2</strong></p>
+</td>
+<td style="width: 232px;">
+<p><strong>Ms Nur Syairah Bte Azahari</strong></p>
+</td>
+<td style="width: 319.078px;">
+<p>nur_syairah_azahari@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td style="width: 113px;">
+<p><strong>Integrity 3</strong></p>
+</td>
+<td style="width: 232px;">
+<p><strong>Mdm Ong Bee Bee</strong></p>
+<p><strong>Mohamad Yussof Bin Abdul Khalid</strong></p>
+</td>
+<td style="width: 319.078px;">
+<p>ong_bee_bee@moe.edu.sg</p>
+<p>mohamad_yussof_abdul_khalid@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td style="width: 113px;">
+<p><strong>Integrity 4</strong></p>
+</td>
+<td style="width: 232px;">
+<p><strong>Mr Huang Weiqiang</strong></p>
+<p><strong>Mdm Afizah Binte Shaik Abdul Rahim</strong></p>
+</td>
+<td style="width: 319.078px;">
+<p>huang_weiqiang@moe.edu.sg</p>
+<p>afizah_shaik_abdul_rahim@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td style="width: 113px;">
+<p><strong>Integrity 5</strong></p>
+</td>
+<td style="width: 232px;">
+<p><strong>Mr Neo Peck Wee Joel</strong></p>
+<p><strong>Ms Yasmin Yeow</strong></p>
+</td>
+<td style="width: 319.078px;">
+<p>neo_peck_wee_joel@moe.edu.sg</p>
+<p>yeow_yasmin@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td style="width: 113px;">
+<p><strong>Integrity 6</strong></p>
+</td>
+<td style="width: 232px;">
+<p><strong>Miss Shangeetha Devi D/O Panesilvam</strong></p>
+<p><strong>Mr Yeo Wei Qiang Kenneth</strong></p>
+</td>
+<td style="width: 319.078px;">
+<p>shangeetha_devi_panesilvam@moe.edu.sg</p>
+<p>kenneth_yeo_wei_qiang@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td style="width: 113px;">
+<p><strong>Integrity 7</strong></p>
+</td>
+<td style="width: 232px;">
+<p><strong>Mdm Nordiana Bte Abbas</strong></p>
+<p><strong>Mr Yang Chuanzhi</strong></p>
+</td>
+<td style="width: 319.078px;">
+<p>nordiana_abbas@moe.edu.sg</p>
+<p>yang_chuanzhi@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td style="width: 113px;">
+<p><strong>Integrity 8</strong></p>
+</td>
+<td style="width: 232px;">
+<p><strong>Mrs Kamini Lam</strong></p>
+<p><strong>Ms Tang Wai Sim Wendy</strong></p>
+</td>
+<td style="width: 319.078px;">
+<p>kamini_lam@moe.edu.sg</p>
+<p>tang_wai_sim_wendy@moe.edu.sg</p>
+</td>
+</tr>
+</tbody>
+</table>
 </div>
 </li>
 <li><input id="accordion5" type="checkbox" /> <label for="accordion5">Simple</label>
