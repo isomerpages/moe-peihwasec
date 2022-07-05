@@ -120,3 +120,26 @@ third_nav_title: Clubs & Societies
 <li>Robocup Singapore Open (Cospace Rescue, Cospace Grand Prix, OnStage)</li>
 </ol>
 <img src="/images/robo1.jpg">
+<h4><strong>CCA Details</strong></h4>
+<div>
+<table border="1" width="100%">
+<tbody>
+<tr>
+<td width="24%"><strong>Teacher-in-Charge</strong></td>
+<td width="76%">Mr Nicholas Ng</td>
+</tr>
+<tr>
+<td width="24%"><strong>CCA Teacher(s)</strong></td>
+<td width="76%">Mr Joel Neo<br />Mr Ronnie Goh<br />Ms Jane Lian</td>
+</tr>
+<tr>
+<td width="24%"><strong>CCA Schedule</strong></td>
+<td width="76%">Tue, 3.30pm &ndash; 6.00pm<br />Fri, 2.30pm &ndash; 6.00pm</td>
+</tr>
+<tr>
+<td width="24%"><strong>Venues</strong></td>
+<td width="76%">Tue: Technology Room &amp; Computer Lab<br />Fri: Technology Room &amp; Computer Lab 4</td>
+</tr>
+</tbody>
+</table>
+</div>
