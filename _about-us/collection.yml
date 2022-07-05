@@ -1,4 +1,5 @@
 collections:
   about-us:
     output: true
-    order: []
+    order:
+      - Corporate Videos & Video Gallery.md
