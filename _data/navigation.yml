@@ -1,5 +1,12 @@
 logo: /images/isomer-logo.svg
 links:
+  - title: Achievements
+    url: /news-media/pride-of-pei-hwa/
+    sublinks:
+      - title: Pride of Pei Hwa
+        url: /news-media/pride-of-pei-hwa/
+      - title: Student Achievements
+        url: /student-achievements/
   - title: CCAS
     url: /ccas/
     sublinks:
