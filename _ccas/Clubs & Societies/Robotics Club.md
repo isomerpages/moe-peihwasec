@@ -119,3 +119,4 @@ third_nav_title: Clubs & Societies
 <ol>
 <li>Robocup Singapore Open (Cospace Rescue, Cospace Grand Prix, OnStage)</li>
 </ol>
+<img src="/images/robo1.jpg">
