@@ -29,4 +29,4 @@ third_nav_title: Departments
 <li>Food Literacy &amp; Consumer Literacy</li>
 <li>Food Science</li>
 </ul>
-<img style="width: 40%;" src="/images/ct6.jpg"/>
+<img style="width: 40%;" src="/images/ct6.jpg" align = "left" />
