@@ -61,3 +61,39 @@ description: ""
 <p>Name&nbsp;&nbsp;&nbsp; :&nbsp;<strong>Sahra Bte Sulaiman</strong></p>
 <p>Course&nbsp; : Diploma in Business</p>
 <p>Award &nbsp; : Kelly Services Prize</p>
+<a href="/files/zhangzhaohui.pdf">
+<img style="width: 65%;" src="/images/pride4.jpg" />
+</a>
+<p>Name:&nbsp;<strong>Zhang Zhao Hui</strong></p>
+<p>Course: Diploma in Green Building and Sustainability</p>
+<p>Award: Course Silver Medal</p>
+<p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Director&rsquo;s List Award</p>
+<p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; CDL Prize</p>
+<img style="width: 65%;" src="/images/pride5.jpg" />
+<p>Name:&nbsp;<strong>Teh Min Yang</strong></p>
+<p>Course: Diploma in Electronics</p>
+<p>Award: Course Silver Medal,</p>
+<p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Director&rsquo;s List Award,</p>
+<p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Wizlogix Prize</p>
+<p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Microchip Technology Singapore Prize</p>
+<p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;IEEE&nbsp;Singapore IA/PEL Joint Chapter Prize</p><hr>
+<p><strong>Teaching Scholarship Presentation Ceremony 2019</strong></p>
+<p>Our former student, Chua Wei Ting, was awarded the teaching scholarship this year.</p>
+<img src="/images/pride6.png">
+<p>Name :&nbsp;<strong>Chua Wei Ting</strong><br />Award : Teaching Scholarship</p><hr>
+<img src="/images/pride7.jpg">
+<p>Our former students have graduated from Ngee Ann Polytechnic (NP) this year with the following academic achievements:</p>
+<p>Name :&nbsp;<strong>Leaw Kai Wei, Lashanda</strong></p>
+<p>Course : Diploma in Child Psychology &amp; Early Education</p>
+<p>Award : Diploma with Merit</p>
+<p>Diploma Plus: Certificate in Japanese</p>
+<p>Name :&nbsp;<strong>Samuel Chin Wei Kiat</strong></p>
+<p>Course : Diploma in Banking &amp; Financial Services</p>
+<p>Awards : Diploma with Merit</p>
+<p>UOB Prize</p>
+<img style="width: 50%;" src="/images/pride8.jpg" />
+<p>We are proud of the achievements of our former student and believe that she will&nbsp;continue to do Singapore Polytechnic and Pei Hwa Secondary School proud.</p>
+<p>Name:&nbsp;<strong>Foo Ji Gi</strong></p>
+<p>Course: DIPLOMA IN ACCOUNTANCY</p>
+<p>Awards : Diploma with Merit</p>
+<p>Institute of Singapore Chartered Accountants Gold Medal</p>
