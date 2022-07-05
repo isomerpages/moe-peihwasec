@@ -69,3 +69,27 @@ third_nav_title: Clubs & Societies
 <p>Sec 3: Video/Video editing</p>
 <p><strong>Competitions:</strong></p>
 <p>SDMA, NEmation</p>
+<img src="/images/info2.jpeg">
+<h4><strong>CCA Details</strong></h4>
+<div>
+<table style="height: 118px; width: 100%;" border="1" width="100%" cellspacing="1" cellpadding="1">
+<tbody>
+<tr style="height: 18px;">
+<td style="height: 18px;"><strong>Teacher-in-Charge</strong></td>
+<td style="height: 18px;">Mr Chen Yong Hong</td>
+</tr>
+<tr style="height: 64px;">
+<td style="height: 64px;"><strong>CCA Teacher(s)</strong></td>
+<td style="height: 64px;">Mr John Foo<br />Ms Wendy Tang</td>
+</tr>
+<tr style="height: 18px;">
+<td style="height: 18px;"><strong>CCA Schedule</strong></td>
+<td style="height: 18px;">Fri, 2.30pm &ndash; 6.00pm</td>
+</tr>
+<tr style="height: 18px;">
+<td style="height: 18px;"><strong>Venues</strong></td>
+<td style="height: 18px;">Computer Lab 3, iMac Lab</td>
+</tr>
+</tbody>
+</table>
+</div>
