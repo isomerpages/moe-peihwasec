@@ -45,5 +45,5 @@ third_nav_title: Departments
 <li><strong>Avoid riding at night</strong>. It is more dangerous to ride at night than during the day because visibility is usually poor at night. If you have to ride at night, wear something that makes you visible. Make sure you have reflectors on the front and rear of your bicycle.</li>
 </ol>
 <img style="width: 65%;" src="/images/se3.jpg" />
-<img style="width: 65%;" src="/images/se4.png" />
+<img style="width: 85%;" src="/images/se4.png" />
 <img style="width: 65%;" src="/images/se5.png" />
