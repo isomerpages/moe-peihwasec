@@ -7,4 +7,4 @@ description: ""
 image: ""
 ---
 <p>The End-Of-Year examinations will commence soon.</p>
-<p>Please [click here](https://drive.google.com/drive/folders/1EK1x0gT2hee9ZNRCuI9C7FAkcW-D-a60?usp=sharing) for the schedule.
+<p>Please <a href="https://drive.google.com/drive/folders/1EK1x0gT2hee9ZNRCuI9C7FAkcW-D-a60?usp=sharing">click here</a> for the schedule.
