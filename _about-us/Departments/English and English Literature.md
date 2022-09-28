@@ -6,26 +6,28 @@ third_nav_title: Departments
 ---
 <h3><strong>Our Goals</strong></h3>
 <p>Through English and Literature, we endeavour to inculcate in students a love for the English language, and an appreciation of the intricacies of the language in creating meaning, in order to develop them into confident communicators.</p>
-<p>We aim to give students the opportunity to formulate their ideas and share their thoughts during discussions and presentations in class.</p>
+<p>We aim to give students the opportunity to formulate their ideas and share their thoughts during discussions and presentations in class.</p><br/>
 <hr>
 
 <h3><strong>Our Programmes</strong></h3>
-<p><strong>Slice of Life</strong></p>
+<h5><strong>Slice of Life</strong></h5>
 <p>Our students take to the stage on Friday mornings to share their thoughts and viewpoints on our student outcomes, school values and current affairs. These &lsquo;slices&rsquo; of their lives are savoured by the Pei Hwa Family.</p>
 <img style="width: 75%;" src="/images/eng1.png" />
-<p><strong>PHeature</strong></p>
+<h5><strong>PHeature</strong></h5>
 <p>PHeature is a broadcast programme in PHSS where student leaders take turns to share interesting news with the school to encourage the reading of current affairs.</p>
 <p>Please <a href="/files/March-PHeature.pdf">click here</a>&nbsp;for our March broadcast.</p>
 <img style="width: 50%;" src="/images/eng2.jpg" />
-<p><strong>National Schools Literature Festival (NSLF)</strong></p>
+<h5><strong>National Schools Literature Festival (NSLF)</strong></h5>
 <p>To promote the love of Literature, the department brings our Literature students to soak in the atmosphere at the NSLF where schools around Singapore come together to share their learning in the subject.</p>
-<img style="width: 75%;" src="/images/eng3.jpg" /><hr>
+<img style="width: 75%;" src="/images/eng3.jpg" />
+<br/><br/>
+<hr>
 
 <h3><strong>Our Student Learning</strong></h3>
-<p><strong>Upper Secondary English Literature</strong></p>
+<h5><strong>Upper Secondary English Literature</strong></h5>
 <p>During HBL, the Literature teachers leveraged the circuit breaker opportunity to get students to watch the play streaming for free online together. They also used props to make the drama lessons come alive and made real world connections with images found online, such as this image connecting the hand washing practice during this time of the Covid Virus to the play, Macbeth, to make the text more memorable for students!</p>
 <img style="width: 100%;" src="/images/eng4.png" />
-<p><strong>Lower Secondary English</strong></p>
+<h5><strong>Lower Secondary English</strong></h5>
 <p>With the new syllabus for English introduced in 2020 for Secondary 1 students, our students were given time to further develop their narrative writing skills and to also demonstrate their creativity by illustrating their work. This is an example of their innovative entries, written by Ang Kai Jie.</p>
 
 <img style="width: 50%;" src="/images/eng5.jpg" />
