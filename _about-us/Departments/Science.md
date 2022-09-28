@@ -33,7 +33,7 @@ third_nav_title: Departments
 <p><strong>Topic: Photosynthesis &amp; Respiration</strong></p>
 <p>As students are not able to carry out the experiment in the laboratory due to social distancing measures, virtual practical lessons were designed to allow students to have the concrete experience in order to conceptualize learning. One of such lesson is carried out in our Secondary One level where students are to investigate if chlorophyll is necessary for photosynthesis</p>
 <ol>
-<li>Student were provided with a picture of a variegated leaf to practise on biological drawing. They were taught to calculate magnification using the formula of widest length of drawing / widest length of specimen</li>
+<li>Student were provided with a picture of a variegated leaf to practice on biological drawing. They were taught to calculate magnification using the formula of widest length of drawing / widest length of specimen</li>
 </ol>
 <img style="width: 40%;" src="/images/sci6.jpg" />
 <p style="text-align: center;"><em>variegated leaf sample</em></p>
@@ -73,7 +73,7 @@ third_nav_title: Departments
 <p><strong>Sample answers:</strong></p>
 <img style="width: 80%;" src="/images/sci11.jpg" />
 <ol start="4">
-<li>Online videos were also used as a source of learning in addition to the powerpoint slides. After watching the videos, they answer questions to reinforce their learning. Some online resources used were</li>
+<li>Online videos were also used as a source of learning in addition to the powerpoint slides. After watching the videos, they answer questions to reinforce their learning. Some online resources used were:</li>
 </ol>
 <p><a href="https://www.youtube.com/watch?v=Gc1wVdbVI0E">https://www.youtube.com/watch?v=Gc1wVdbVI0E</a></p>
 <p><a href="https://www.youtube.com/watch?v=bF3OyQ3HwfU">https://www.youtube.com/watch?v=bF3OyQ3HwfU</a></p>
@@ -104,7 +104,7 @@ third_nav_title: Departments
 </ol>
 <p><strong>&nbsp;</strong>The team is given the patient&rsquo;s details and history, just like how it would be provided for in the hospital.</p>
 <img style="width: 100%;" src="/images/sci17.png" />
-<ol start="2">
+	<ol start="2">
 <li><strong>Medical Report Analysis</strong></li>
 </ol>
 <p>Students then are required to</p>
