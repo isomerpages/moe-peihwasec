@@ -5,11 +5,11 @@ description: ""
 third_nav_title: Departments
 ---
 <h3><strong>Our Vision</strong></h3>
-<p>To add value to each student's potential in Mathematics.</p>
+<p>To add value to each student's potential in Mathematics.</p><br/>
 <hr>
 
 <h3><strong>Our Mission</strong></h3>
-<p>To equip our students with Mathematical skills, processes and concepts, as well as the metacognitive skills to appreciate Mathematics. These will empower them to become problem-solvers who will make sound decisions and be critical thinkers, life-long learners and contributors of society.</p>
+<p>To equip our students with Mathematical skills, processes and concepts, as well as the metacognitive skills to appreciate Mathematics. These will empower them to become problem-solvers who will make sound decisions and be critical thinkers, life-long learners and contributors of society.</p><br/>
 <hr>
 
 <h3><strong>Our Goals</strong></h3>
