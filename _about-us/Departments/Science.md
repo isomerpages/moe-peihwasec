@@ -13,19 +13,19 @@ third_nav_title: Departments
 <p><strong><em>Chemical Powered Car</em></strong></p>
 <p>Students designed and created chemically powered cars out of everyday normal plastic bottles and the cars were propelled forward by a non-toxic chemical reaction. Examples of such reactions include baking soda mixed with vinegar.</p>
 <img style="width: 80%;" src="/images/sci1.png" />
-<p><strong><em>Fun With Electronics&rsquo; Workshop at Science Center</em></strong></p>
-<p>Students attended&nbsp;a workshop in Science&nbsp;Center. They were introduced to several basic electronic components (resistors, LEDs, capacitors, transistors) and were given the opportunity to build electronic circuits utilising their properties on a breadboard (prototyping board).</p>
+<p><strong><em>Fun With Electronics Workshop at Science Center</em></strong></p>
+<p>Students attended a workshop in Science Center. They were introduced to several basic electronic components (resistors, LEDs, capacitors, transistors) and were given the opportunity to build electronic circuits utilising their properties on a breadboard (prototyping board).</p>
 <img style="width: 50%;" src="/images/sci2.png" />
 <p><strong><em>Cosmetic Science Workshop</em></strong></p>
 <p>During a Cosmetic Science workshop, students learnt about emulsification and how creams are made as emulsions. They made their own cold cream and sunscreen using natural products.</p>
 <img style="width: 80%;" src="/images/sci3.png" />
-<p><strong>&nbsp;</strong><strong>Competitions</strong></p>
+<p><strong></strong><strong>Competitions</strong></p>
 <p><strong><em>NUS Crystal Growing Competition</em></strong></p>
-<p>The NUS Crystal Growing Competition is held bi-annually, organised by the Chemistry Department. Students from secondary schools, international schools, junior colleges, ITE colleges and polytechnics in Singapores were invited to take part in the competition. Through the mastery of the art of crystal growing, our students had the opportunity to exercise their creativity, individuality and discover the elegant science during the process.</p>
+<p>The NUS Crystal Growing Competition is held bi-annually, organised by the Chemistry Department. Students from secondary schools, international schools, junior colleges, ITE colleges and polytechnics in Singapore were invited to take part in the competition. Through the mastery of the art of crystal growing, our students had the opportunity to exercise their creativity, individuality and discover the elegant science during the process.</p>
 <p>Using their scientific knowledge and conducting their research, our students had to determine the mass of starting chemicals to use and derive a suitable method to make the required salt crystals. Our students managed to grow seed crystals that are of appropriate size and shape after multiple attempts over a few weeks.</p>
 <img style="width: 50%;" src="/images/sci4.png" />
 <p>The choice of chemicals and method of crystallisation were left to the students to decide. Our students went on to do their research and discussion with the teacher mentor on the possible chemicals and methods to prepare the crystals for this category. Finally, they decided on growing potassium aluminium sulfate (alum). The students encountered many issues such as unable to grow the seed crystals and failure to stain the alum red permanently during the process. With their perseverance and determination, they overcome the challenges and managed to grow their first seed crystals after some weeks. Even though the students did not manage to continue with the crystallization due to Covid-19, our students had learnt a lot during the process. They realized that not every experiment will be successful and in fact, it takes a long time to research, experimenting and continuous trying so as to achieve some positive results.</p>
-<p><strong><em>18<sup>th</sup>&nbsp;Elementz Science Project Competition and Exhibition</em></strong></p>
+<p><strong><em>18<sup>th</sup> Elementz Science Project Competition and Exhibition</em></strong></p>
 <p>A group of students, who were concerned about the unpredictable haze situation in Singapore and the high cost of air filters, investigated how low-cost air filters could be developed to improve the quality of lives of Singaporeans. After conducting research, they developed two low-cost air filters and tested the efficiency of these air filters. These air filters were placed in metal tins and a mosquito coil was lit to mimic a very hazy atmosphere. The concentrations of particulate matters (PM10 and PM2.5), Formaldehyde and Total Volatile Organic Compounds (TVOC) were measured every 5 minutes over a 30-minute period, using an indoor air quality detector. The students concluded that the air filter with activated carbon attached to a fan was effective in reducing harmful substances in the surrounding air. The objective of making a significantly cheaper air filter was also achieved. The students presented their findings to the judges and were awarded the Gold Award. Throughout the entire journey, the students nurtured their interest in investigative-type projects in science and developed their communication skills.</p>
 <img style="width: 90%;" src="/images/sci5.png" />
 <h4><strong>Our Student Learning</strong></h4>
@@ -41,14 +41,14 @@ third_nav_title: Departments
 <li>As students do not get to carry out the experiment. They are provided with a video and an animation to show the steps to test for starch in leaf. The video also included the explanation to why each step is being carried out.</li>
 </ol>
 <p>The links to the video/animation are as follow</p>
-<p>&ndash;&nbsp;<a href="https://www.youtube.com/watch?v=VeU7ULL9Usw&amp;t=6s">https://www.youtube.com/watch?v=VeU7ULL9Usw&amp;t=6s</a></p>
-<p>&ndash;&nbsp;https://www.footprints-science.co.uk/index.php?type=Starch%20in%20leaf%20test</p>
+<p><a href="https://www.youtube.com/watch?v=VeU7ULL9Usw&amp;t=6s">https://www.youtube.com/watch?v=VeU7ULL9Usw&amp;t=6s</a></p>
+<p><a href="https://www.footprints-science.co.uk/index.php?type=Starch%20in%20leaf%20test"></a></p>
 <img style="width: 80%;" src="/images/sci7.jpg" />
 <ol start="3">
 <li>After understanding the experiment, students were to deduce the result of experiment by drawing the iodine test result of the variegated leaf shown earlier in the assignment. While teachers were not able to conduct face-to-face lessons in the laboratory during HBL, resources online and on SLS platform made the experiential learning possible and students&rsquo; learning is still complete with this virtual practical lesson.</li>
 </ol>
 <p><strong>HBL Virtual Practical Lesson for Sec 1NT Science</strong></p>
-<p>Students were directed to this website:&nbsp;<a href="https://phet.colorado.edu/en/simulation/circuit-construction-kit-dc">https://phet.colorado.edu/en/simulation/circuit-construction-kit-dc</a>&nbsp;for a virtual practical session, where students can learn to arrange the electrical components in a circuit. These online simulation has allowed students to observe the changes in current and voltage in parallel and series circuits, and in turn strengthen their understanding in the concepts.</p>
+<p>Students were directed to this website:&nbsp;<a href="https://phet.colorado.edu/en/simulation/circuit-construction-kit-dc">https://phet.colorado.edu/en/simulation/circuit-construction-kit-dc</a>for a virtual practical session, where students can learn to arrange the electrical components in a circuit. These online simulation has allowed students to observe the changes in current and voltage in parallel and series circuits, and in turn strengthen their understanding in the concepts.</p>
 <img style="width: 80%;" src="/images/sci8.png" />
 <p style="text-align: center;"><em>creenshot of simulation used during HBL</em></p>
 <p><strong>HBL for Sec 3NT Science</strong></p>
