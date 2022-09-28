@@ -5,19 +5,20 @@ description: ""
 third_nav_title: Departments
 ---
 <p><strong>Principles of Accounts (POA) &amp; Elements of Business Skills (EBS)</strong></p>
-<h4><strong>Our Goals</strong></h4>
-<p><u>POA</u></p>
+<h3><strong>Our Goals</strong></h3>
+<h5><u>POA</u></h5>
 <p>The study of POA helps students understand how businesses measure and communicate their performance, and make use of both accounting and non-accounting information related to their businesses to make decisions. They will acquire transferrable skills such as organising and analysing information for decision-making, and apply these skills in their daily lives. Students will also understand the importance of values such as integrity and objectivity when communicating and making decisions.</p>
-<p><u>EBS</u></p>
+<h5><u>EBS</u></h5>
 <p>Through the study of EBS, students will develop decision-making skills and an enterprising mindset as they conduct research and evaluate information to make reasoned recommendations for businesses to make improvements. As students gain knowledge and exposure to trends and innovations in the Singapore business landscape, they also become more aware of the opportunities and challenges they may face in the future.</p>
-<h4><strong>Our Programmes</strong></h4>
-<p><strong>Project Moolah by SMU</strong></p>
+<h3><strong>Our Programmes</strong></h3>
+<h6><strong>Project Moolah by SMU</strong></h6>
 <p>Collaboration with Singapore Management University (SMU) business students to inculcate Financial Literacy and reinforce understanding of accounting concepts and practices.</p>
 <img style="width: 80%;" src="/images/poa1.png" />
 <p><strong>EBS Learning Journey</strong></p>
 <p>Field trips to heritage attractions, places of interest and tourist attractions to let students explore and learn beyond classroom environment.</p>
 <img style="width: 60%;" src="/images/poa2.jpg" />
-<h4><strong>Our Student Learning</strong></h4>
+
+<h3><strong>Our Student Learning</strong></h3>
 <p>We strive to provide a conducive learning classroom environment which excites and engages students to excel. The department employs teaching strategies such as questioning techniques and scenario-based questions/examples. These strategies arouse students&rsquo; interest, focus their learning, prepare them to acquire new concepts and help develop students&rsquo; decision-making skills.</p>
 <p>With the introduction of HBL, we have become more accustomed to innovation and agency towards digital learning. Thus, creating new learning possibilities afforded by digital technologies such as ClassCraft, Google Classroom and Student Learning Space (SLS). POA and EBS teachers leveraged on theses platforms to accelerate and deepen learning by making it more active and personalized for students in and out of classrooms. Integrating education technology within the curriculum can be a catalyst to transform teaching and learning.</p>
 <p><strong>HBL POA Lesson (Using Google Classroom and ClassCraft)</strong></p>
