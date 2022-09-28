@@ -4,10 +4,11 @@ permalink: /about-us/departments/science/
 description: ""
 third_nav_title: Departments
 ---
-<h4><strong>Our Goals</strong></h4>
+<h3><strong>Our Goals</strong></h3>
 <p>We endeavor to develop students into inquisitive and keen learners of the Sciences and the natural world and to enable them to view the pursuit of science as meaningful and useful. In alignment to the Science Curriculum Framework, we aim to prepare our students to be sufficiently adept as effective citizens, able to function in, make informed decisions and to contribute to an increasingly technologically-driven world.</p>
 <p>In the Science department, teaching strategy such as collaborative learning is deployed to nurture students into self-directed learners. Science lessons are inquiry in nature and the teachers of Sciences facilitate and role model the inquiry process in the classrooms. In the teaching and learning of the Sciences, understanding of scientific content, knowledge and skills is reinforced and enhanced through experiential learning such as practical sessions as well as beyond the classroom experiences though enrichment programs.</p>
-<h4><strong>Our Programmes</strong></h4>
+
+<h3><strong>Our Programmes</strong></h3>
 <p>The Science Department seeks to provide meaningful learning experiences for students through various enrichment programs and competitions to provide students with the opportunity to learn science outside of the classrooms. Through partnership with external organisations, students are exposed to science and technologies it entails beyond the textbooks. By participating in competitions, we can nurture a greater passion for science in our students.</p>
 <p><strong>Enrichment Programmes</strong></p>
 <p><strong><em>Chemical Powered Car</em></strong></p>
@@ -28,7 +29,8 @@ third_nav_title: Departments
 <p><strong><em>18<sup>th</sup> Elementz Science Project Competition and Exhibition</em></strong></p>
 <p>A group of students, who were concerned about the unpredictable haze situation in Singapore and the high cost of air filters, investigated how low-cost air filters could be developed to improve the quality of lives of Singaporeans. After conducting research, they developed two low-cost air filters and tested the efficiency of these air filters. These air filters were placed in metal tins and a mosquito coil was lit to mimic a very hazy atmosphere. The concentrations of particulate matters (PM10 and PM2.5), Formaldehyde and Total Volatile Organic Compounds (TVOC) were measured every 5 minutes over a 30-minute period, using an indoor air quality detector. The students concluded that the air filter with activated carbon attached to a fan was effective in reducing harmful substances in the surrounding air. The objective of making a significantly cheaper air filter was also achieved. The students presented their findings to the judges and were awarded the Gold Award. Throughout the entire journey, the students nurtured their interest in investigative-type projects in science and developed their communication skills.</p>
 <img style="width: 90%;" src="/images/sci5.png" />
-<h4><strong>Our Student Learning</strong></h4>
+
+<h3><strong>Our Student Learning</strong></h3>
 <p><strong>HBL LSS Virtual Practical</strong></p>
 <p><strong>Topic: Photosynthesis &amp; Respiration</strong></p>
 <p>As students are not able to carry out the experiment in the laboratory due to social distancing measures, virtual practical lessons were designed to allow students to have the concrete experience in order to conceptualize learning. One of such lesson is carried out in our Secondary One level where students are to investigate if chlorophyll is necessary for photosynthesis</p>
