@@ -24,4 +24,4 @@ third_nav_title: Departments
 <p>The CL department curates reads for our students and encourages students to read through reading competitions. During this year&rsquo;s Circuit Breaker, a reading competition was conducted with the use of SLS. Students get to choose the curated read they like and then express their reflections in the mode they are most comfortable with, be it through a drawing, a vodcast or even through a song.</p>
 <img style="width: 85%;" src="/images/mt4.jpg" />
 <p><strong>Game Based Learning</strong></p>
-<p>The ML department makes it point for learning to be fun. The teachers created a game for students to grasp the concept of&nbsp;<em>pantun</em>&nbsp;and have conducted the game both physically and virtually. This interesting way of learning was also selected to be shared in Teacher Led Workshops with other schools.</p>
+<p>The ML department makes it point for learning to be fun. The teachers created a game for students to grasp the concept of <em>pantun</em> and have conducted the game both physically and virtually. This interesting way of learning was also selected to be shared in Teacher Led Workshops with other schools.</p>
