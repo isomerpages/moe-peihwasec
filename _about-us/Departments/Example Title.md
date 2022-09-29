@@ -4,8 +4,6 @@ permalink: /about-us/Departments/permalink/
 description: ""
 third_nav_title: Departments
 ---
-
-
 <div style="max-width: 1000px;
   position: relative;
   margin: auto;" class="slideshow-container">
@@ -16,7 +14,7 @@ third_nav_title: Departments
   padding: 8px 12px;
   position: absolute;
   top: 0;" class="numbertext">1 / 3</div>
-  <img style="width:100%" src="img_nature_wide.jpg">
+  <img style="width:100%" src="/images/eng2.jpg">
 
 </div>
 
@@ -26,7 +24,7 @@ third_nav_title: Departments
   padding: 8px 12px;
   position: absolute;
   top: 0;" class="numbertext">2 / 3</div>
-  <img style="width:100%" src="img_snow_wide.jpg">
+  <img style="width:100%" src="/images/eng2.jpg">
 </div>
 
 <div class="mySlides fade">
@@ -35,7 +33,7 @@ third_nav_title: Departments
   padding: 8px 12px;
   position: absolute;
   top: 0;" class="numbertext">3 / 3</div>
-  <img style="width:100%" src="img_mountains_wide.jpg">
+  <img style="width:100%" src="/images/eng2.jpg">
 </div>
 
 <a style="cursor: pointer;
@@ -66,9 +64,3 @@ third_nav_title: Departments
 
 </div>
 <br>
-
-
-
-
-
- 
