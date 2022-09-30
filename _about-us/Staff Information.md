@@ -18,18 +18,21 @@ description: ""
 <p><strong>Principal</strong></p>
 </td>
 <td style="width: 207.25px;"><strong>Mr Mohd Azhar B Terimo</strong></td>
+<td style="width: 321.359px;"></td>
 </tr>
 <tr>
 <td style="text-align: center; width: 136.391px;">
 <p><strong>Vice-Principal</strong></p>
 </td>
 <td style="width: 207.25px;"><strong>Mr Tan Cher Hui Philip</strong></td>
+	<td style="width: 321.359px;"></td>
 </tr>
 <tr>
 <td style="text-align: center; width: 136.391px;">
 <p><strong>Vice-Principal</strong></p>
 </td>
 <td style="width: 207.25px;"><strong>Mrs Michelle Willman</strong></td>
+	<td style="width: 321.359px;"></td>
 </tr>
 <tr>
 <td style="text-align: center; width: 136.391px;">
