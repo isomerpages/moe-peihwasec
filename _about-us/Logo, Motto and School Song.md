@@ -9,6 +9,7 @@ description: ""
 
 <h4><strong>Motto</strong></h4>
 <p>Nurturing Talents (meaning of the word &lsquo;Pei Hwa&rsquo; in Chinese)</p><hr>
+
 <h4><strong>School Song</strong></h4>
 <p>In Pei Hwa Secondary School<br />We are the pride of the community<br />To lead and serve with integrity<br />We grow in our resiliency</p>
 <p>Though there be many challenges<br />Our passion remains strong<br />We learn and work diligently<br />To be the best that we can be</p>
