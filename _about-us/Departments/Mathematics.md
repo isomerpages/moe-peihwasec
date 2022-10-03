@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Departments
 ---
 <h3><strong>Our Vision</strong></h3>
-<p>To add value to each student's potential in Mathematics.</p><br>
+<p>To add value to each student's potential in Mathematics.</p>
 <hr>
 
 <h3><strong>Our Mission</strong></h3>
