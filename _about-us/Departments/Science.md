@@ -101,7 +101,7 @@ As students are not able to carry out the experiment in the laboratory due to so
 <p><strong>1. Preliminary Diagnosis</strong></p>
 <p>The team is given the patient&rsquo;s details and history, just like how it would be provided for in the hospital.</p>
 <img style="width: 100%;" src="/images/sci17.png" />
-<p style="font-size:18px"><strong>2. Medical Report Analysis</strong></p>
+<p><strong>2. Medical Report Analysis</strong></p>
 
 <p>Students then are required to</p>
 <p style="margin-left: 20px;"> 1. analyse the results of three diagnostic tests: a) MRI scan of the patient's heart, b) angiogram of the patient's coronary arteries, and c) blood smear,</p>
