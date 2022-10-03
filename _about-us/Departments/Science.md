@@ -29,7 +29,7 @@ third_nav_title: Departments
 <p><strong><em>NUS Crystal Growing Competition</em></strong></p>
 
 <p style="font-size:15px;">The NUS Crystal Growing Competition is held bi-annually, organised by the Chemistry Department. Students from secondary schools, international schools, junior colleges, ITE colleges and polytechnics in Singapore were invited to take part in the competition. Through the mastery of the art of crystal growing, our students had the opportunity to exercise their creativity, individuality and discover the elegant science during the process.</p>
-<p>Using their scientific knowledge and conducting their research, our students had to determine the mass of starting chemicals to use and derive a suitable method to make the required salt crystals. Our students managed to grow seed crystals that are of appropriate size and shape after multiple attempts over a few weeks.</p>
+<p style="font-size:15px;">Using their scientific knowledge and conducting their research, our students had to determine the mass of starting chemicals to use and derive a suitable method to make the required salt crystals. Our students managed to grow seed crystals that are of appropriate size and shape after multiple attempts over a few weeks.</p>
 <img style="width: 50%;" src="/images/sci4.png" />
 <p style="font-size:15px;">The choice of chemicals and method of crystallisation were left to the students to decide. Our students went on to do their research and discussion with the teacher mentor on the possible chemicals and methods to prepare the crystals for this category. Finally, they decided on growing potassium aluminium sulfate (alum). The students encountered many issues such as unable to grow the seed crystals and failure to stain the alum red permanently during the process. With their perseverance and determination, they overcome the challenges and managed to grow their first seed crystals after some weeks. Even though the students did not manage to continue with the crystallization due to Covid-19, our students had learnt a lot during the process. They realized that not every experiment will be successful and in fact, it takes a long time to research, experimenting and continuous trying so as to achieve some positive results.</p>
 
@@ -44,19 +44,21 @@ third_nav_title: Departments
 <p style="font-size:15px;"><strong>Topic: Photosynthesis &amp; Respiration</strong></p>
 <p style="font-size:15px;">As students are not able to carry out the experiment in the laboratory due to social distancing measures, virtual practical lessons were designed to allow students to have the concrete experience in order to conceptualize learning. One of such lesson is carried out in our Secondary One level where students are to investigate if chlorophyll is necessary for photosynthesis</p>
 <ol>
-<li style="margin-left: 20px; font-size:15px;">Student were provided with a picture of a variegated leaf to practice on biological drawing. They were taught to calculate magnification using the formula of widest length of drawing / widest length of specimen.</li>
+<li style="margin-left:20px; font-size:15px;">Student were provided with a picture of a variegated leaf to practice on biological drawing. They were taught to calculate magnification using the formula of widest length of drawing / widest length of specimen.</li>
 	
 <img style="width: 40%;" src="/images/sci6.jpg" />
-<p style="text-align: center;"><em>variegated leaf sample</em></p>
-<li style="margin-left: 25px; font-size:15px;">As students do not get to carry out the experiment. They are provided with a video and an animation to show the steps to test for starch in leaf. The video also included the explanation to why each step is being carried out.</li>
+<p style="text-align: center; font-size:13px"><em>variegated leaf sample</em></p>
+<li style="margin-left:20px; font-size:15px;">As students do not get to carry out the experiment. They are provided with a video and an animation to show the steps to test for starch in leaf. The video also included the explanation to why each step is being carried out.</li>
+	</ol>
 <p style="font-size:15px;">The links to the video/animation are as follow:</p>
-<ol style= "list-style:inside;">
+<ul>
 <li style="margin-left:20px; font-size:15px;"><a href="https://www.youtube.com/watch?v=VeU7ULL9Usw&amp;t=6s">https://www.youtube.com/watch?v=VeU7ULL9Usw&amp;t=6s</a></li>
 <li style="margin-left:20px; font-size:15px;"><a href="https://www.footprints-science.co.uk/index.php?type=Starch%20in%20leaf%20test">https://www.footprints-science.co.uk/index.php?type=Starch%20in%20leaf%20tes</a></li>
-</ol>
+</ul>
 <img style="width: 80%;" src="/images/sci7.jpg" />
-
-<p style="margin-left: 20px; font-size:15px">3. After understanding the experiment, students were to deduce the result of experiment by drawing the iodine test result of the variegated leaf shown earlier in the assignment. While teachers were not able to conduct face-to-face lessons in the laboratory during HBL, resources online and on SLS platform made the experiential learning possible and students&rsquo; learning is still complete with this virtual practical lesson.</p>
+<ol start=3>
+<li style="margin-left: 20px; font-size:15px">After understanding the experiment, students were to deduce the result of experiment by drawing the iodine test result of the variegated leaf shown earlier in the assignment. While teachers were not able to conduct face-to-face lessons in the laboratory during HBL, resources online and on SLS platform made the experiential learning possible and students&rsquo; learning is still complete with this virtual practical lesson.</li>
+	</ol>
 	
 <p><strong>HBL Virtual Practical Lesson for Sec 1NT Science</strong></p>
 <p style="font-size:15px;">Students were directed to this website:&nbsp;<a href="https://phet.colorado.edu/en/simulation/circuit-construction-kit-dc">https://phet.colorado.edu/en/simulation/circuit-construction-kit-dc</a>for a virtual practical session, where students can learn to arrange the electrical components in a circuit. These online simulation has allowed students to observe the changes in current and voltage in parallel and series circuits, and in turn strengthen their understanding in the concepts.</p>
@@ -64,28 +66,32 @@ third_nav_title: Departments
 <p style="text-align: center; font-size:13px"><em>screenshot of simulation used during HBL</em></p>
 
 <p><strong>HBL for Sec 3NT Science</strong></p>
-<p>Besides the usual powerpoint slides and SLS lessons, students were asked to do some hands-on activities and a research for the topic of Electrical Safety:</p>
-<p style="margin-left: 20px;">1. To capture images of unsafe electrical practices/hazards at home and upload onto online platform to share with their classmates. Students actively looked out for samples at the comfort of their homes. Some samples are shown below. This activity has heightened the awareness of presence of unsafe electrical hazards at home and ways to eradicate such hazards.</p>
+<p style="font-size:15px;">Besides the usual powerpoint slides and SLS lessons, students were asked to do some hands-on activities and a research for the topic of Electrical Safety:</p>
+<ol>
+	<li style="margin-left: 20px; font-size:15px;">To capture images of unsafe electrical practices/hazards at home and upload onto online platform to share with their classmates. Students actively looked out for samples at the comfort of their homes. Some samples are shown below. This activity has heightened the awareness of presence of unsafe electrical hazards at home and ways to eradicate such hazards.</li>
 <img style="width: 80%;" src="/images/sci9.png" />
-<p style="margin-left: 20px;">2. As a follow-up exercise, students are to identify the electrical hazards from the source provided to evaluate their understanding.</p>
+<li style="margin-left: 20px; font-size:15px;"> As a follow-up exercise, students are to identify the electrical hazards from the source provided to evaluate their understanding.</li>
 <img style="width: 80%;" src="/images/sci10.jpg" />
-<p style="text-align: center;"><em>Source containing electrical hazards</em></p>
-<p style="margin-left: 20px;">3. To pique the interest and to empower them to explore beyond the textbook, the students conducted a simple research on electric eels to find out:
+<p style="text-align: center; font-size:13px;"><em>Source containing electrical hazards</em></p>
+	
+<li style="margin-left: 20px; font-size:15px;"> To pique the interest and to empower them to explore beyond the textbook, the students conducted a simple research on electric eels to find out:
 <ul>
-<li style="margin-left: 20px;">how electric eels generate electricity,</li>
-<li style="margin-left: 20px;">how the electrical eels do not get electrocuted,</li>
-<li style="margin-left: 20px;">how to protect oneself when one is faced with an electric eel.</li>
-</ul></p>
+<li style="margin-left: 20px; font-size:15px;">how electric eels generate electricity,</li>
+<li style="margin-left: 20px; font-size:15px;">how the electrical eels do not get electrocuted,</li>
+<li style="margin-left: 20px; font-size:15px;">how to protect oneself when one is faced with an electric eel.</li>
+</ul>
 <img style="width: 80%;" src="/images/sci11.jpg" />
-<p style="text-align: center;"><em>Sample answers</em></p>
-<p style="margin-left: 20px;">4. Online videos were also used as a source of learning in addition to the powerpoint slides. After watching the videos, they answer questions to reinforce their learning. Some online resources used were:
+<p style="text-align: center; font-size:13px"><em>Sample answers</em></p>
+<li style="margin-left: 20px; font-size:15px;"> Online videos were also used as a source of learning in addition to the powerpoint slides. After watching the videos, they answer questions to reinforce their learning. Some online resources used were:</li>
 <ul>
-<li style="margin-left: 20px;"><a href="https://www.youtube.com/watch?v=Gc1wVdbVI0E">https://www.youtube.com/watch?v=Gc1wVdbVI0E</a></li>
-<li style="margin-left: 20px;"><a href="https://www.youtube.com/watch?v=bF3OyQ3HwfU">https://www.youtube.com/watch?v=bF3OyQ3HwfU</a></li></p>
+<li style="margin-left: 20px; font-size:15px;"><a href="https://www.youtube.com/watch?v=Gc1wVdbVI0E">https://www.youtube.com/watch?v=Gc1wVdbVI0E</a></li>
+<li style="margin-left: 20px; font-size:15px;"><a href="https://www.youtube.com/watch?v=bF3OyQ3HwfU">https://www.youtube.com/watch?v=bF3OyQ3HwfU</a></li>
 
-<img style="width: 80%;" src="/images/sci12.jpg" /><p style="text-align: center;"><em>Sample answers</em></p>
-<p style="margin-left: 20px;">5. As a closure and consolidation to the lesson, students are to assess their learning via a crossword puzzle. This injected some fun element for students to summarise their learning for the chapter.
-</p>
+<img style="width: 80%;" src="/images/sci12.jpg" /><p style="text-align: center; font-size:15px;"><em>Sample answers</em></p>
+	</ul>
+<li style="margin-left: 20px; font-size:15px;"> As a closure and consolidation to the lesson, students are to assess their learning via a crossword puzzle. This injected some fun element for students to summarise their learning for the chapter.
+</li>
+	</ol>
 
 <p style="font-size:25px"><strong>HBL Sec 3 Chemistry</strong></p>
 <p>The Salts chapter can be abstract and very dry and Chemistry students tend to struggle in visualizing, understanding and making sense of the multiple steps in preparing a salt. During HBL, students watch the videos uploaded by teachers to have a deeper understanding of the concepts.</p>
