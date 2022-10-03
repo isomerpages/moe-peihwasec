@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Departments
 ---
 <h4><strong>Our Goals</strong></h4>
-<p>We endeavor to develop students into inquisitive and keen learners of the Sciences and the natural world and to enable them to view the pursuit of science as meaningful and useful. In alignment to the Science Curriculum Framework, we aim to prepare our students to be sufficiently adept as effective citizens, able to function in, make informed decisions and to contribute to an increasingly technologically-driven world.</p>
+<p style="font-size:15px;">We endeavor to develop students into inquisitive and keen learners of the Sciences and the natural world and to enable them to view the pursuit of science as meaningful and useful. In alignment to the Science Curriculum Framework, we aim to prepare our students to be sufficiently adept as effective citizens, able to function in, make informed decisions and to contribute to an increasingly technologically-driven world.</p>
 <p>In the Science department, teaching strategy such as collaborative learning is deployed to nurture students into self-directed learners. Science lessons are inquiry in nature and the teachers of Sciences facilitate and role model the inquiry process in the classrooms. In the teaching and learning of the Sciences, understanding of scientific content, knowledge and skills is reinforced and enhanced through experiential learning such as practical sessions as well as beyond the classroom experiences though enrichment programs.</p>
 
 <hr>
