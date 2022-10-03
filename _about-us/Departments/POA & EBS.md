@@ -14,7 +14,7 @@ third_nav_title: Departments
 <hr>
 
 <h3><strong>Our Programmes</strong></h3>
-<p style="font-size:23px;"><strong>Project Moolah by SMU</strong></h6>
+<p style="font-size:23px;"><strong>Project Moolah by SMU</strong></p>
 <p>Collaboration with Singapore Management University (SMU) business students to inculcate Financial Literacy and reinforce understanding of accounting concepts and practices.</p>
 <img style="width: 80%;" src="/images/poa1.png" />
 
