@@ -43,7 +43,7 @@ third_nav_title: Departments
 <p style="font-size:25px"><strong>HBL LSS Virtual Practical</strong></p>
 <p style="font-size:19px;"><strong>Topic: Photosynthesis &amp; Respiration</strong></p>
 <p>As students are not able to carry out the experiment in the laboratory due to social distancing measures, virtual practical lessons were designed to allow students to have the concrete experience in order to conceptualize learning. One of such lesson is carried out in our Secondary One level where students are to investigate if chlorophyll is necessary for photosynthesis</p>
-	<p style="margin-left: 20px;">1. Student were provided with a picture of a variegated leaf to practice on biological drawing. They were taught to calculate magnification using the formula of widest length of drawing / widest length of specimen.</p>
+<p style="margin-left: 20px;">1. Student were provided with a picture of a variegated leaf to practice on biological drawing. They were taught to calculate magnification using the formula of widest length of drawing / widest length of specimen.</p>
 	
 <img style="width: 40%;" src="/images/sci6.jpg" />
 <p style="text-align: center;"><em>variegated leaf sample</em></p>
