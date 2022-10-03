@@ -16,7 +16,7 @@ third_nav_title: Departments
 <br>
 <p style="font-size:20px;"><strong>PHeature</strong></p>
 <p>PHeature is a broadcast programme in PHSS where student leaders take turns to share interesting news with the school to encourage the reading of current affairs.</p>
-<p>Please <a href="/files/March-PHeature.pdf">click here</a> for our March broadcast.</p>
+<p>Please<a href="/files/March-PHeature.pdf">click here</a> for our March broadcast.</p>
 <img style="width: 50%;" src="/images/eng2.jpg" /><br>
 <p style="font-size:20px;"><strong>National Schools Literature Festival (NSLF)</strong></p>
 <p>To promote the love of Literature, the department brings our Literature students to soak in the atmosphere at the NSLF where schools around Singapore come together to share their learning in the subject.</p>
