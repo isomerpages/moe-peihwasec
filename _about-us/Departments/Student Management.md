@@ -6,6 +6,9 @@ third_nav_title: Departments
 ---
 <h4><strong>Our Goals</strong></h4>
 <p>The Student Management Department looks into the holistic development of the students. It assists the teachers in classroom management and is responsible for the development of students&rsquo; life skills and the ability to learn collaboratively. It is upheld by our 5 core school values of Passion for Learning, Resilience, Integrity, Diligence and Excellence for Self and Others (PRIDE). These values are also translated into the school rules and regulations. The Department works hand-in-hand with parents, the community and other external agencies in helping the students realise the school&rsquo;s vision.</p>
+
+<hr>
+
 <h4><strong>Our Programmes</strong></h4>
 <p><strong>Best Class Awards (BCA)</strong></p>
 <p>The Best Class Awards aim to:</p>
