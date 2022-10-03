@@ -13,23 +13,32 @@ third_nav_title: Departments
 <p><strong>Best Class Awards (BCA)</strong></p>
 <p>The Best Class Awards aim to:</p>
 <ol>
-<li>Foster a sense of unity, class spirit and sense of pride as classmates work collaboratively to earn points for the class</li>
-<li>Teach students to be responsible for themselves</li>
-<li>Recognise classes for their efforts and achievements</li>
+<li style="margin-left:20px; font-size:17px;">Foster a sense of unity, class spirit and sense of pride as classmates work collaboratively to earn points for the class</li>
+<li style="margin-left:20px; font-size:17px;">Teach students to be responsible for themselves</li>
+<li style="margin-left:20px; font-size:17px;">Recognise classes for their efforts and achievements</li>
 </ol>
 <img style="width: 75%;" src="/images/se1.png" />
+
 <p><strong>Caught in the Act</strong></p>
 <p>The Caught in the Act awards aim to recongise students who demonstrate the school&rsquo;s PRIDE values and encourage the rest of the student population to be the PRIDE of the community.</p>
 <img style="width: 75%;" src="/images/se2.jpg" />
+
 <p><strong>Affirmation Post Cards</strong></p>
 <p>The affirmation post cards aim to recongise students who demonstrate the school&rsquo;s PRIDE values by getting the school staff to write a message and &lsquo;surprise&rsquo; parents and students by mailing it to their home.</p>
+
 <p><strong>Punctuality Education Programme (PEP)</strong></p>
-<p>This proactive and preventive measure is used to instill in students the habit of being punctual for school and all other activities. After all, punctuality is a life skill that everyone should possess. The programme hopes to work with all parents to inculcate this habit in all our students.</p><hr>
+<p>This proactive and preventive measure is used to instill in students the habit of being punctual for school and all other activities. After all, punctuality is a life skill that everyone should possess. The programme hopes to work with all parents to inculcate this habit in all our students.</p>
+
+<hr>
+
 <h4><strong>Simple Tips to Have Better Self-Discipline</strong></h4>
 <p><strong>Plan.</strong>&nbsp;Have a daily planner to keep track of the tasks to be accomplished for each day. A small amount of planning keeps you on track.</p>
 <p><strong>Set goals.</strong>&nbsp;You can only achieve your goals if you know what they are.</p>
 <p><strong>Get a coach.</strong>&nbsp;This person can be a friend. A coach tends to push, remind and helps to keep you on track.</p>
-<p>Source:<br />12 Tips on Developing Self Discipline. (<a href="http://ezinearticles.com/?12-Tips-on-Developing-Self-Discipline&amp;id=2636464" target="_blank" rel="noopener noreferrer">http://ezinearticles.com/?12-Tips-on-Developing-Self-Discipline&amp;id=2636464</a>)</p><hr>
+<p>Source:<br />12 Tips on Developing Self Discipline. (<a href="http://ezinearticles.com/?12-Tips-on-Developing-Self-Discipline&amp;id=2636464" target="_blank" rel="noopener noreferrer">http://ezinearticles.com/?12-Tips-on-Developing-Self-Discipline&amp;id=2636464</a>)</p>
+
+<hr>
+
 <h4><strong>Bicycle Riding Safety Information</strong></h4>
 <p><strong>3 Simple Rules</strong></p>
 <ol>
