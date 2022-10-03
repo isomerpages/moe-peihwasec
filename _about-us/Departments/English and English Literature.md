@@ -25,7 +25,7 @@ third_nav_title: Departments
 <hr>
 
 <h3><strong>Our Student Learning</strong></h3>
-	<p style="font-size:20px;"><strong>Upper Secondary English Literature</strong></p>
+<p style="font-size:20px;"><strong>Upper Secondary English Literature</strong></p>
 <p>During HBL, the Literature teachers leveraged the circuit breaker opportunity to get students to watch the play streaming for free online together. They also used props to make the drama lessons come alive and made real world connections with images found online, such as this image connecting the hand washing practice during this time of the Covid Virus to the play, Macbeth, to make the text more memorable for students!</p>
 <img style="width: 100%;" src="/images/eng4.png" /><br>
 <p style="font-size:20px;"><strong>Lower Secondary English</strong></p>
