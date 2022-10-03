@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Departments
 ---
 <h4><strong>Our Goals</strong></h4>
-<p>Through English and Literature, we endeavour to inculcate in students a love for the English language, and an appreciation of the intricacies of the language in creating meaning, in order to develop them into confident communicators.</p>
+<p style="font-size:14px;">Through English and Literature, we endeavour to inculcate in students a love for the English language, and an appreciation of the intricacies of the language in creating meaning, in order to develop them into confident communicators.</p>
 <p>We aim to give students the opportunity to formulate their ideas and share their thoughts during discussions and presentations in class.</p>
 <hr>
 
