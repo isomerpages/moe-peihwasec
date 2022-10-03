@@ -19,9 +19,6 @@ description: ""
 <p><a href="https://drive.google.com/open?id=1zze4BCpJELyFj3Ym0pwRQEtZmpvV3ob3" target="_blank" rel="noopener noreferrer">Student&rsquo;s Guide on Zoom and Google Meet</a></p>
 </li>
 <li>
-<p><a href="/lp_announcement/google-suite/" target="_blank" rel="noopener noreferrer">Google Suite</a></p>
-</li>
-<li>
 <p><a href="/lp_announcement/quick-start/" target="_blank" rel="noopener noreferrer">Quick Start in Using Zoom</a></p>
 </li>
 </ul>
