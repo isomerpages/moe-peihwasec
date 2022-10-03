@@ -21,7 +21,7 @@ third_nav_title: Departments
 <p style="font-size:20px;"><strong>National Schools Literature Festival (NSLF)</strong></p>
 <p style="font-size:15px;">To promote the love of Literature, the department brings our Literature students to soak in the atmosphere at the NSLF where schools around Singapore come together to share their learning in the subject.</p>
 <img style="width: 75%;" src="/images/eng3.jpg" />
-<br>
+
 <hr>
 
 <h4><strong>Our Student Learning</strong></h4>
