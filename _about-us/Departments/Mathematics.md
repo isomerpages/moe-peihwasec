@@ -10,7 +10,8 @@ third_nav_title: Departments
 <hr>
 
 <h4><strong>Our Mission</strong></h4>
-<p>To equip our students with Mathematical skills, processes and concepts, as well as the metacognitive skills to appreciate Mathematics. These will empower them to become problem-solvers who will make sound decisions and be critical thinkers, life-long learners and contributors of society.</p><br/>
+<p>To equip our students with Mathematical skills, processes and concepts, as well as the metacognitive skills to appreciate Mathematics. These will empower them to become problem-solvers who will make sound decisions and be critical thinkers, life-long learners and contributors of society.</p>
+
 <hr>
 
 <h4><strong>Our Goals</strong></h4>
