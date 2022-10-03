@@ -4,43 +4,43 @@ permalink: /about-us/departments/science/
 description: ""
 third_nav_title: Departments
 ---
-<h3><strong>Our Goals</strong></h3>
+<h4><strong>Our Goals</strong></h4>
 <p>We endeavor to develop students into inquisitive and keen learners of the Sciences and the natural world and to enable them to view the pursuit of science as meaningful and useful. In alignment to the Science Curriculum Framework, we aim to prepare our students to be sufficiently adept as effective citizens, able to function in, make informed decisions and to contribute to an increasingly technologically-driven world.</p>
 <p>In the Science department, teaching strategy such as collaborative learning is deployed to nurture students into self-directed learners. Science lessons are inquiry in nature and the teachers of Sciences facilitate and role model the inquiry process in the classrooms. In the teaching and learning of the Sciences, understanding of scientific content, knowledge and skills is reinforced and enhanced through experiential learning such as practical sessions as well as beyond the classroom experiences though enrichment programs.</p>
 
 <hr>
 
-<h3><strong>Our Programmes</strong></h3>
+<h4><strong>Our Programmes</strong></h4>
 <p>The Science Department seeks to provide meaningful learning experiences for students through various enrichment programs and competitions to provide students with the opportunity to learn science outside of the classrooms. Through partnership with external organisations, students are exposed to science and technologies it entails beyond the textbooks. By participating in competitions, we can nurture a greater passion for science in our students.</p>
-<p style="font-size:25px;"><strong>Enrichment Programmes</strong></p>
+<p><strong>Enrichment Programmes</strong></p>
 <p style="font-size:19px;"><strong><em>Chemical Powered Car</em></strong></p>
 <p>Students designed and created chemically powered cars out of everyday normal plastic bottles and the cars were propelled forward by a non-toxic chemical reaction. Examples of such reactions include baking soda mixed with vinegar.</p>
 <img style="width: 100%;" src="/images/sci1.png" />
 
-<p style="font-size:19px;"><strong><em>Fun With Electronics Workshop at Science Center</em></strong></p>
+<p><strong><em>Fun With Electronics Workshop at Science Center</em></strong></p>
 <p>Students attended a workshop in Science Center. They were introduced to several basic electronic components (resistors, LEDs, capacitors, transistors) and were given the opportunity to build electronic circuits utilising their properties on a breadboard (prototyping board).</p>
 <img style="width: 50%;" src="/images/sci2.png" />
 
-<p style="font-size:19px;"><strong><em>Cosmetic Science Workshop</em></strong></p>
+<p><strong><em>Cosmetic Science Workshop</em></strong></p>
 <p>During a Cosmetic Science workshop, students learnt about emulsification and how creams are made as emulsions. They made their own cold cream and sunscreen using natural products.</p>
 <img style="width: 80%;" src="/images/sci3.png" />
 
-<p style="font-size:25px;" ><strong>Competitions</strong></p>
-<p style="font-size:19px;"><strong><em>NUS Crystal Growing Competition</em></strong></p>
+<p><strong>Competitions</strong></p>
+<p><strong><em>NUS Crystal Growing Competition</em></strong></p>
 
 <p>The NUS Crystal Growing Competition is held bi-annually, organised by the Chemistry Department. Students from secondary schools, international schools, junior colleges, ITE colleges and polytechnics in Singapore were invited to take part in the competition. Through the mastery of the art of crystal growing, our students had the opportunity to exercise their creativity, individuality and discover the elegant science during the process.</p>
 <p>Using their scientific knowledge and conducting their research, our students had to determine the mass of starting chemicals to use and derive a suitable method to make the required salt crystals. Our students managed to grow seed crystals that are of appropriate size and shape after multiple attempts over a few weeks.</p>
 <img style="width: 50%;" src="/images/sci4.png" />
 <p>The choice of chemicals and method of crystallisation were left to the students to decide. Our students went on to do their research and discussion with the teacher mentor on the possible chemicals and methods to prepare the crystals for this category. Finally, they decided on growing potassium aluminium sulfate (alum). The students encountered many issues such as unable to grow the seed crystals and failure to stain the alum red permanently during the process. With their perseverance and determination, they overcome the challenges and managed to grow their first seed crystals after some weeks. Even though the students did not manage to continue with the crystallization due to Covid-19, our students had learnt a lot during the process. They realized that not every experiment will be successful and in fact, it takes a long time to research, experimenting and continuous trying so as to achieve some positive results.</p>
 
-<p style="font-size:19px;"><strong><em>18<sup>th</sup> Elementz Science Project Competition and Exhibition</em></strong></p>
+<p><strong><em>18<sup>th</sup> Elementz Science Project Competition and Exhibition</em></strong></p>
 <p>A group of students, who were concerned about the unpredictable haze situation in Singapore and the high cost of air filters, investigated how low-cost air filters could be developed to improve the quality of lives of Singaporeans. After conducting research, they developed two low-cost air filters and tested the efficiency of these air filters. These air filters were placed in metal tins and a mosquito coil was lit to mimic a very hazy atmosphere. The concentrations of particulate matters (PM10 and PM2.5), Formaldehyde and Total Volatile Organic Compounds (TVOC) were measured every 5 minutes over a 30-minute period, using an indoor air quality detector. The students concluded that the air filter with activated carbon attached to a fan was effective in reducing harmful substances in the surrounding air. The objective of making a significantly cheaper air filter was also achieved. The students presented their findings to the judges and were awarded the Gold Award. Throughout the entire journey, the students nurtured their interest in investigative-type projects in science and developed their communication skills.</p>
 <img style="width: 90%;" src="/images/sci5.png" /><br>
 
 <hr>
 
-<h3><strong>Our Student Learning</strong></h3>
-<p style="font-size:25px"><strong>HBL LSS Virtual Practical</strong></p>
+<h4><strong>Our Student Learning</strong></h4>
+<p><strong>HBL LSS Virtual Practical</strong></p>
 <p style="font-size:19px;"><strong>Topic: Photosynthesis &amp; Respiration</strong></p>
 <p>As students are not able to carry out the experiment in the laboratory due to social distancing measures, virtual practical lessons were designed to allow students to have the concrete experience in order to conceptualize learning. One of such lesson is carried out in our Secondary One level where students are to investigate if chlorophyll is necessary for photosynthesis</p>
 <p style="margin-left: 20px;">1. Student were provided with a picture of a variegated leaf to practice on biological drawing. They were taught to calculate magnification using the formula of widest length of drawing / widest length of specimen.</p>
@@ -55,7 +55,7 @@ third_nav_title: Departments
 
 <p style="margin-left: 20px;">3. After understanding the experiment, students were to deduce the result of experiment by drawing the iodine test result of the variegated leaf shown earlier in the assignment. While teachers were not able to conduct face-to-face lessons in the laboratory during HBL, resources online and on SLS platform made the experiential learning possible and students&rsquo; learning is still complete with this virtual practical lesson.</p>
 	
-<p style="font-size:25px"><strong>HBL Virtual Practical Lesson for Sec 1NT Science</strong></p>
+<p><strong>HBL Virtual Practical Lesson for Sec 1NT Science</strong></p>
 <p>Students were directed to this website:&nbsp;<a href="https://phet.colorado.edu/en/simulation/circuit-construction-kit-dc">https://phet.colorado.edu/en/simulation/circuit-construction-kit-dc</a>for a virtual practical session, where students can learn to arrange the electrical components in a circuit. These online simulation has allowed students to observe the changes in current and voltage in parallel and series circuits, and in turn strengthen their understanding in the concepts.</p>
 <img style="width: 80%;" src="/images/sci8.png" />
 <p style="text-align: center;"><em>screenshot of simulation used during HBL</em></p>
