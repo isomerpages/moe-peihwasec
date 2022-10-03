@@ -16,6 +16,7 @@ third_nav_title: Departments
 
 <p><strong>Cultural Enrichment</strong></p>
 <p style="font-size:15px;">Other than Mother Tongue Fortnight, Pei Hwa students also have additional cultural enrichment classes which ranges from martial arts to calligraphy.</p>
+
 <img style="width: 85%;" src="/images/mt1.png" />
 
 <p><strong>Reading Programme</strong></p>
