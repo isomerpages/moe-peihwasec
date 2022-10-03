@@ -24,7 +24,7 @@ third_nav_title: Departments
 <p style="font-size:25px;"><strong>External Competitions</strong></p>
 <p>Tier 2 and 3 students are trained and given the opportunities to participate in national competitions such as National Theatresports, National Chinese Creative Reading Competition and&nbsp;<em>Xin Kong Xia</em>&nbsp;in which our students have received accolades for.</p>
 <img style="width: 85%;" src="/images/mt3.png" />
-<br>
+
 <hr>
 
 <h3><strong>Our Student Learning</strong></h3>
