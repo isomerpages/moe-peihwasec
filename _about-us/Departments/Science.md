@@ -93,37 +93,50 @@ third_nav_title: Departments
 </li>
 	</ol>
 
-<p style="font-size:25px"><strong>HBL Sec 3 Chemistry</strong></p>
-<p>The Salts chapter can be abstract and very dry and Chemistry students tend to struggle in visualizing, understanding and making sense of the multiple steps in preparing a salt. During HBL, students watch the videos uploaded by teachers to have a deeper understanding of the concepts.</p>
+<p><strong>HBL Sec 3 Chemistry</strong></p>
+<p style="font-size:15px;">The Salts chapter can be abstract and very dry and Chemistry students tend to struggle in visualizing, understanding and making sense of the multiple steps in preparing a salt. During HBL, students watch the videos uploaded by teachers to have a deeper understanding of the concepts.</p>
 <img style="width: 100%;" src="/images/sci13.jpg" />
-<p style="text-align: center;"><em>Screenshot of Youtube video filmed as an educational tool for our students</em></p>
-<p>The videos featured step-by-step explanation and visualization of the various preparation methods. Filmed by our very own chemistry teacher, these videos have value-added to the learning of this chapter even at home. Students can playback the video anytime for self-directed learning and fill up the blanks in the consolidation mind-maps. The students will be more ready for experiential learning in the lab when they are back in school.</p>
+<p style="text-align: center; font-size:13px;"><em>Screenshot of Youtube video filmed as an educational tool for our students</em></p>
 
-<p style="font-size:25px"><strong>HBL Sec 3 Physics Lesson</strong></p>
-<p>Technology has allowed teachers to make abstract concepts more concrete for our students so that they understand better. Before full HBL, when learning about Kinematics, students were tasked to investigate the motion of the ball in a few scenarios. They used the Vernier Video Physics applet on iPads to track the trajectory of a ball.</p>
+<p style="font-size:15px;">The videos featured step-by-step explanation and visualization of the various preparation methods. Filmed by our very own chemistry teacher, these videos have value-added to the learning of this chapter even at home. Students can playback the video anytime for self-directed learning and fill up the blanks in the consolidation mind-maps. The students will be more ready for experiential learning in the lab when they are back in school.</p>
+
+<p><strong>HBL Sec 3 Physics Lesson</strong></p>
+<p style="font-size:15px;">Technology has allowed teachers to make abstract concepts more concrete for our students so that they understand better. Before full HBL, when learning about Kinematics, students were tasked to investigate the motion of the ball in a few scenarios. They used the Vernier Video Physics applet on iPads to track the trajectory of a ball.</p>
 <img style="width: 80%;" src="/images/sci14.png" />
-<p style="text-align: center;"><em>Students using the Vernier Video Physics applet on iPads to </em><em>track the trajectory of a ball</em></p>
-<p>After recording themselves and tracking the trajectory of the ball, students could view the displacement-time and velocity-time graphs of the ball throughout its entire motion. Students better understood how the graphs were drawn and the relationship between the two graphs.</p>
+<p style="text-align: center; font-size:13px;"><em>Students using the Vernier Video Physics applet on iPads to track the trajectory of a ball</em></p>
+
+<p style="font-size:15px;">After recording themselves and tracking the trajectory of the ball, students could view the displacement-time and velocity-time graphs of the ball throughout its entire motion. Students better understood how the graphs were drawn and the relationship between the two graphs.</p>
+
 <img style="width: 40%;" src="/images/sci15.png" />
-<p style="text-align: center;"><em>Graphs showing the trajectory of a ball</em></p>
-<p>During full HBL, to understand the Principle of Conservation of Energy better, energy cubes were used so that students could visualise abstract concepts better. A video was recorded to explain the principle, with the aid of energy cubes.</p>
+<p style="text-align: center; font-size:13px;"><em>Graphs showing the trajectory of a ball</em></p>
+
+<p style="font-size:15px;">During full HBL, to understand the Principle of Conservation of Energy better, energy cubes were used so that students could visualise abstract concepts better. A video was recorded to explain the principle, with the aid of energy cubes.</p>
+
 <img style="width: 100%;" src="/images/sci16.png" />
-<p style="text-align: center;"><em>Screenshot of video to explain Conservation of Energy filmed by our Physics teacher</em></p>
+<p style="text-align: center; font-size:13px"><em>Screenshot of video to explain Conservation of Energy filmed by our Physics teacher</em></p>
 
-<p style="font-size:25px"><strong>HBL Sec 4 Biology Lesson on</strong><strong>Transport in Humans (Circulatory System)</strong></p>
-<p>Students role play as a team of medical interns in the Emergency Response Unit of Sengkang Hospital. A 66-year-old female was sent to the hospital because while on her way to the supermarket, she experienced chest pains, faintness and then she collapsed.</p>
+<p><strong>HBL Sec 4 Biology Lesson on</strong><strong>Transport in Humans (Circulatory System)</strong></p>
+<p style="font-size:15px;">Students role play as a team of medical interns in the Emergency Response Unit of Sengkang Hospital. A 66-year-old female was sent to the hospital because while on her way to the supermarket, she experienced chest pains, faintness and then she collapsed.</p>
 
-<p style="font-size:19px;"><strong>1. Preliminary Diagnosis</strong></p>
-<p>The team is given the patient&rsquo;s details and history, just like how it would be provided for in the hospital.</p>
+<ul>
+	<li style="font-size:16px;">
+ <strong>Preliminary Diagnosis</strong></li>
+<p style="font-size:15px;">The team is given the patient&rsquo;s details and history, just like how it would be provided for in the hospital.</p>
 <img style="width: 100%;" src="/images/sci17.png" />
-<p style="font-size:19px;"><strong>2. Medical Report Analysis</strong></p>
 
-<p>Students then are required to</p>
-<p style="margin-left: 20px;"> 1. analyse the results of three diagnostic tests: a) MRI scan of the patient's heart, b) angiogram of the patient's coronary arteries, and c) blood smear,</p>
-<p style="margin-left: 20px;">2. determine the cause of your patient's condition based on the evidence provided to you and</p>
-<p style="margin-left: 20px;">3. account for all signs and symptoms according to your diagnosis.</p>
+<li style="font-size:16px;"><strong>Medical Report Analysis</strong></p>
 
-<p>All the pictures shown provided a more engaging and relevant learning experience for the students. Furthermore, the students are actually already equipped with the knowledge and skills to solve the problem, thus the lesson serves to be an extension to the content learnt in the subject.</p>
+<p style="font-size:15px;">Students then are required to</p>
+<ol>
+	<li style="margin-left: 20px; font-size:16px;"> analyse the results of three diagnostic tests: a) MRI scan of the patient's heart, b) angiogram of the patient's coronary arteries, and c) blood smear,</li>
+	<li style="margin-left: 20px; font-size:16px;"> determine the cause of your patient's condition based on the evidence provided to you and</p>
+<li style="margin-left: 20px; font-size:16px;"> account for all signs and symptoms according to your diagnosis.</li>
+</ol>
+
+<p style="font-size:15px;">All the pictures shown provided a more engaging and relevant learning experience for the students. Furthermore, the students are actually already equipped with the knowledge and skills to solve the problem, thus the lesson serves to be an extension to the content learnt in the subject.</p>
+
 <img style="width: 100%;" src="/images/sci18.png" />
-<p>Students then answer the following free response questions, which are part of the process of medical diagnosis. Students are then tasked to comment on the diagnosis and explanation in their respective groups, via Student Learning Spaces (SLS). These learning experiences provided a more authentic context to the students and will in turn make the learning more enduring.</p>
+
+<p style="font-size:15px;">Students then answer the following free response questions, which are part of the process of medical diagnosis. Students are then tasked to comment on the diagnosis and explanation in their respective groups, via Student Learning Spaces (SLS). These learning experiences provided a more authentic context to the students and will in turn make the learning more enduring.</p>
+
 <img style="width: 100%;" src="/images/sci19.png" />
