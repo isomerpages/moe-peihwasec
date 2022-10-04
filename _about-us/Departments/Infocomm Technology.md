@@ -4,9 +4,11 @@ permalink: /about-us/departments/ict/
 description: ""
 third_nav_title: Departments
 ---
-<p><strong>Objective</strong></p>
-<p>In alignment with the Smart Nation initiative, Pei Hwa Secondary School&rsquo;s ICT vision is to promote the creative and effective use of Information Technology to achieve excellence in teaching and learning through the following 4 processes:</p>
-<p><strong>Pupil-Focused Processes</strong></p>
+<h4><strong>Objective</strong></h4>
+
+<p style="font-size:15px;">In alignment with the Smart Nation initiative, Pei Hwa Secondary School&rsquo;s ICT vision is to promote the creative and effective use of Information Technology to achieve excellence in teaching and learning through the following 4 processes:</p>
+
+<p style="">strong>Pupil-Focused Processes</strong></p>
 <p>To equip pupils with Baseline ICT Standards. To promote independent and interdisciplinary learning.</p>
 <p><strong>Staff Development Processes</strong></p>
 <p>To increase the&nbsp;level of ICT competency of all teachers and ensure they meet the baseline ICT Standards for teachers.</p>
