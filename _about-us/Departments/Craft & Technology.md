@@ -32,16 +32,18 @@ third_nav_title: Departments
 <p style="font-size:15px; margin-top:15px">All lower Secondary classes will cover Food and Consumer Education (FCE). The syllabus provide students with a broad understanding of concepts in nutrition and health, food literacy and principles of food science. Students will be exposed to authentic real world contexts through hands on practical and projects, through these learning experiences, the syllabus aims to develop students to:</p>
 
 <ul>
-<li style="font-size:15px; margin-left:17px ">Lead a healthier lifestyle proactively through proper diet and nutrition;</li>
+<li style="font-size:15px; margin-left:17px;">Lead a healthier lifestyle proactively through proper diet and nutrition;</li>
 <li style="font-size:15px; margin-left:17px">Advocate sustainable food consumption by panning and making appropriate food choices;</li>
 <li style="font-size:15px; margin-left:17px">Apply principles of culinary science creatively n food preparation and cooking</li>
 <li style="font-size:15px; margin-left:17px">Develops skills in investigative, creativity and awareness in making informed decisions in food and nutrition- related issues.</li>
 	
 </ul>
-<p>The Big ideas of the subject are as follows:</p>
+<p style="font-size:15px;">The Big ideas of the subject are as follows:</p>
 <ul>
-<li>Nutrition &amp; Health</li>
-<li>Food Literacy &amp; Consumer Literacy</li>
-<li>Food Science</li>
+<li style="font-size:15px; margin-left:17px">Nutrition &amp; Health</li>
+<li style="font-size:15px; margin-left:17px">Food Literacy &amp; Consumer Literacy</li>
+<li style="font-size:15px; margin-left:17px">Food Science</li>
+
 </ul>
-<img style="width: 40%;" src="/images/ct6.jpg" align = "left" />
+
+<img style="width: 100%;" src="/images/ct6.jpg" align = "left" />
