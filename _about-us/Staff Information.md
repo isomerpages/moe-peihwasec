@@ -168,17 +168,17 @@ lee_wei_ying@moe.edu.sg
 </tr>
 	
 <tr style="font-size:15px;">
-<td style="text-align: center; width: 136.391px;"><strong>SH Character &amp;<br>Citizenship Education</strong></td>
-<td style="width: 207.25px;"><strong>Mdm Oh Shu Ying Serene</strong></td>
-<td style="width: 321.359px;">oh_shu_ying_serene@moe.edu.sg</td>
+<td style="text-align:center; border: 1px solid #dddfe1;"><strong>SH Character &amp;<br>Citizenship Education</strong></td>
+<td style="text-align:center; border: 1px solid #dddfe1;"><strong>Mdm Oh Shu Ying Serene</strong></td>
+<td style="text-align:center; border: 1px solid #dddfe1;">oh_shu_ying_serene@moe.edu.sg</td>
 </tr>
 	
 <tr style="font-size:15px;">
-<td style="text-align: center; width: 136.391px;">
+<td style="text-align:center; border: 1px solid #dddfe1;">
 <strong>SH Innovation &amp; Talent Development</strong>
 </td>
-<td style="width: 207.25px;"><strong>Mrs Jaslyn Ang</strong></td>
-<td style="width: 321.359px;">chan_huaihui_jaslyn@moe.edu.sg</td>
+<td style="text-align:center; border: 1px solid #dddfe1;"><strong>Mrs Jaslyn Ang</strong></td>
+<td style="text-align:center; border: 1px solid #dddfe1;">chan_huaihui_jaslyn@moe.edu.sg</td>
 </tr>
 	
 <tr style="font-size:15px;">
