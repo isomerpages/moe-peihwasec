@@ -7,10 +7,7 @@ description: ""
 <li><input type="checkbox" id="accordion1"> <label for="accordion1">School Leaders and Key Personnel</label>
 <div>
 <table border="1" style="border-collapse: collapse;">
-	<thead style="background-color: #54585d; font-color:#ffffff;
-	font-weight: bold;
-	font-size: 13px;
-	border: 1px solid #54585d;">
+	<thead style="background-color: #54585d; font-color:#ffffff; font-weight: bold; font-size: 13px; border: 1px solid #54585d;">
 		<tr>
 			<td>Designation</td>
 			<td>Name</td>
