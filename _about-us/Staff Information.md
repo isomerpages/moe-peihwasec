@@ -14,7 +14,7 @@ description: ""
 			<td style="text-align:center; color:white;width:40%;">Email</td>
 		</tr>
 	</thead>
-	<tbody style="font-size:15px;">
+	<tbody style="font-size:15px; line-height: 1.8;">
 		<tr>
 		<td style="text-align:center; border: 1px solid #dddfe1;"><strong>Principal</strong>
 		</td>
@@ -71,7 +71,7 @@ description: ""
 	
 <tr>
 <td style="text-align:center; border: 1px solid #dddfe1;">
-<strong>HOD&nbsp;Character &amp; Citizenship Education</strong>
+<strong>HOD&nbsp;Character &amp;<br> Citizenship Education</strong>
 </td>
 <td style="text-align:center; border: 1px solid #dddfe1;"><strong>Ms Wong Wei Nee</strong></td>
 <td style="text-align:center; border: 1px solid #dddfe1;">wong_wei_nee@moe.edu.sg</td>
@@ -107,7 +107,7 @@ lee_wei_ying@moe.edu.sg
 	
 <tr>
 <td style="text-align:center; border: 1px solid #dddfe1;">
-<strong>Year Head</strong><strong>(Lower Sec)</strong>
+<strong>Year Head <br> (Lower Sec)</strong>
 </td>
 <td style="text-align:center; border: 1px solid #dddfe1;"><strong>Mr Kang Kok Keong Bernard</strong></td>
 <td style="text-align:center; border: 1px solid #dddfe1;">kang_kok_keong_bernard@moe.edu.sg</td>
@@ -115,7 +115,7 @@ lee_wei_ying@moe.edu.sg
 	
 <tr>
 <td style="text-align:center; border: 1px solid #dddfe1;">
-<strong>Year Head</strong><strong>(Upper Sec)</strong>
+<strong>Year Head <br> (Upper Sec)</strong>
 </td>
 <td style="text-align:center; border: 1px solid #dddfe1;"><strong>Mr Loh Jing Hui</strong></td>
 <td style="text-align:center; border: 1px solid #dddfe1;">loh_jing_hui@moe.edu.sg</td>
@@ -123,7 +123,7 @@ lee_wei_ying@moe.edu.sg
 	
 <tr>
 <td style="text-align:center; border: 1px solid #dddfe1;">
-<strong>Assistant Year Head</strong><strong>(Upper Sec)</strong>
+<strong>Assistant Year Head <br> (Upper Sec)</strong>
 </td>
 <td style="text-align:center; border: 1px solid #dddfe1;"><strong>Mdm Cheng Weiqi</strong></td>
 <td style="text-align:center; border: 1px solid #dddfe1;;">cheng_weiqi@moe.edu.sg</td>
@@ -131,7 +131,7 @@ lee_wei_ying@moe.edu.sg
 	
 <tr>
 <td style="text-align:center; border: 1px solid #dddfe1;">
-<strong>Assistant Year Head</strong><strong>(Lower Sec)</strong>
+<strong>Assistant Year Head <br> (Lower Sec)</strong>
 </td>
 <td style="text-align:center; border: 1px solid #dddfe1;"><strong>Mr Lin Yan Shan Russell</strong></td>
 <td style="text-align:center; border: 1px solid #dddfe1;">lin_yanshan_russell@moe.edu.sg</td>
@@ -168,7 +168,7 @@ lee_wei_ying@moe.edu.sg
 </tr>
 	
 <tr style="font-size:15px;">
-<td style="text-align:center; border: 1px solid #dddfe1;"><strong>SH Character &amp;Citizenship Education</strong></td>
+<td style="text-align:center; border: 1px solid #dddfe1;"><strong>SH Character &amp; <br> Citizenship Education</strong></td>
 <td style="text-align:center; border: 1px solid #dddfe1;"><strong>Mdm Oh Shu Ying Serene</strong></td>
 <td style="text-align:center; border: 1px solid #dddfe1;">oh_shu_ying_serene@moe.edu.sg</td>
 </tr>
@@ -196,7 +196,7 @@ lee_wei_ying@moe.edu.sg
 </tr>
 	
 <tr style="font-size:15px;">
-<td style="text-align:center; border: 1px solid #dddfe1;"><strong>Lead Teacher / Special Educational Needs</strong></td>
+<td style="text-align:center; border: 1px solid #dddfe1;"><strong>Lead Teacher / <br> Special Educational Needs</strong></td>
 <td style="text-align:center; border: 1px solid #dddfe1;"><strong>Mr Tan Aik Fong</strong></td>
 <td style="text-align:center; border: 1px solid #dddfe1;">tan_aik_fong@moe.edu.sg</td>
 </tr>
@@ -220,7 +220,7 @@ lee_wei_ying@moe.edu.sg
 </tr>
 	
 <tr style="font-size:15px;">
-<td style="text-align:center; border: 1px solid #dddfe1;"><strong>Operations Manager (Safety &amp; Security)</strong></td>
+<td style="text-align:center; border: 1px solid #dddfe1;"><strong>Operations Manager <br> (Safety &amp; Security)</strong></td>
 <td style="text-align:center; border: 1px solid #dddfe1;"><strong>Mr Tam Wai Seng</strong></td>
 <td style="text-align:center; border: 1px solid #dddfe1;">tam_wai_seng@moe.edu.sg</td>
 </tr>
