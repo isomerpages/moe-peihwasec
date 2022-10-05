@@ -271,33 +271,33 @@ teo_eng_hao@moe.edu.sg <br>
 </tr>
 	
 <tr>
-<td style="width: 103px;">
-<p><strong>Passion 3</strong></p>
+<td style="text-align:center; border: 1px solid #dddfe1;">
+<strong>Passion 3</strong>
 </td>
-<td style="width: 271px;">
-<p><strong>Mdm Tai Bee Chuan (Mrs Cheow)</strong></p>
-<p><strong>Mr Bahtiar Bin Kassim</strong></p>
-<p><strong>Mdm Woo Nan Cam</strong></p>
+<td style="text-align:center; border: 1px solid #dddfe1;">
+<strong>Mdm Tai Bee Chuan (Mrs Cheow)</strong><br>
+<strong>Mr Bahtiar Bin Kassim</strong>
 </td>
-<td style="width: 290.438px;">
-<p>tai_bee_chuan@moe.edu.sg</p>
-<p>bahtiar_kassim@moe.edu.sg</p>
-<p>woo_nan_cam@moe.edu.sg</p>
+<td style="text-align:center; border: 1px solid #dddfe1;">
+tai_bee_chuan@moe.edu.sg<br>
+bahtiar_kassim@moe.edu.sg
 </td>
 </tr>
+	
 <tr>
-<td style="width: 103px;">
-<p><strong>Passion 4</strong></p>
+<td style="text-align:center; border: 1px solid #dddfe1;">
+<strong>Passion 4</strong>
 </td>
-<td style="width: 271px;">
-<p><strong>Mr Koh Chong Peng</strong></p>
-<p><strong>Mdm Zhong Qian</strong></p>
+<td style="text-align:center; border: 1px solid #dddfe1;">
+<strong>Mr Koh Chong Peng</strong><br>
+<strong>Mdm Zhong Qian</strong>
 </td>
-<td style="width: 290.438px;">
-<p>koh_chong_peng@moe.edu.sg</p>
-<p>zhong_qian@moe.edu.sg</p>
+<td style="text-align:center; border: 1px solid #dddfe1;">
+koh_chong_peng@moe.edu.sg<br>
+zhong_qian@moe.edu.sg
 </td>
 </tr>
+	
 <tr>
 <td style="width: 103px;">
 <p><strong>Passion 5</strong></p>
