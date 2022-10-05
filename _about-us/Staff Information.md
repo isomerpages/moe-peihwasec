@@ -245,11 +245,11 @@ lee_wei_ying@moe.edu.sg
 <tr>
 		<td style="text-align:center; border: 1px solid #dddfe1;"><strong>Passion 1</strong>
 		</td>
-		<td style="text-align:center; border: 1px solid #dddfe1;"><p><strong>Mrs Yeo-Kwok Coleen</strong></p><p><strong>Mr Li Hong Jin</strong></p>
+		<td style="text-align:center; border: 1px solid #dddfe1;"><strong>Mrs Yeo-Kwok Coleen</strong><br><strong>Mr Li Hong Jin</strong>
 			</td>
 			<td style="text-align:center; border: 1px solid #dddfe1;">
-<p>coleen_kwok_siew_yun@moe.edu.sg</p>
-<p>li_hong_jin@moe.edu.sg</p>
+coleen_kwok_siew_yun@moe.edu.sg<br>
+li_hong_jin@moe.edu.sg
 			</td>
 </td>
 </tr>
