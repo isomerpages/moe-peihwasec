@@ -4,10 +4,10 @@ permalink: /about-us/staff-contact-info/
 description: ""
 ---
 <ul class="jekyllcodex_accordion">
-<li><input type="checkbox" id="accordion1"><label for="accordion1">School Leaders and Key Personnel</label>
+<li><input id="accordion1" type="checkbox"><label for="accordion1">School Leaders and Key Personnel</label>
 <div>
-<table border="1" style="width:100%">
-	<thead style="background-color: #54585d; font-weight: bold; font-size: 16px; border: 1px solid #54585d; ">
+<table style="width:100%" border="1">
+	<thead style="background-color: #54585d; font-weight: bold; font-size: 16px; border: 1px solid #54585d;">
 		<tr>
 			<td style="text-align:center;color:white; width:30%;">Designation</td>
 			<td style="text-align:center; color:white;width:30%;">Name</td>
@@ -230,10 +230,10 @@ lee_wei_ying@moe.edu.sg
 </div>
 </li>
 	
-<li><input type="checkbox" id="accordion2"> <label for="accordion2">Secondary 1 Classes 2022</label>
+<li><input id="accordion2" type="checkbox"> <label for="accordion2">Secondary 1 Classes 2022</label>
 <div>
-<table border="1" style="width:100%">
-<thead style="background-color: #54585d; font-weight: bold; font-size: 16px; border: 1px solid #54585d; ">
+<table style="width:100%" border="1">
+<thead style="background-color: #54585d; font-weight: bold; font-size: 16px; border: 1px solid #54585d;">
 		<tr>
 			<td style="text-align:center;color:white; width:30%;">Class</td>
 			<td style="text-align:center; color:white;width:30%;">Name of Form Teacher</td>
@@ -253,7 +253,7 @@ lee_wei_ying@moe.edu.sg
 coleen_kwok_siew_yun@moe.edu.sg<br>
 li_hong_jin@moe.edu.sg
 			</td>
-</td>
+
 </tr>
 
 	
@@ -299,62 +299,66 @@ zhong_qian@moe.edu.sg
 </tr>
 	
 <tr>
-<td style="width: 103px;">
-<p><strong>Passion 5</strong></p>
+<td style="text-align:center; border: 1px solid #dddfe1;">
+<strong>Passion 5</strong>
 </td>
 <td style="width: 271px;">
-<p><strong>Mr Chen Zhenjie</strong></p>
-<p><strong>Mdm Seveeneshwary D/O Rajarethinam</strong></p>
+<strong>Mdm Rasyidah Binte Ramli</strong><br>
+<strong>Mr Liew Zhen Hong Joey</strong>
 </td>
-<td style="width: 290.438px;">
-<p>chen_zhenjie@moe.edu.sg</p>
-<p>seveeneshwary_a_rajarethi@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td style="width: 103px;">
-<p><strong>Passion 6</strong></p>
-</td>
-<td style="width: 271px;">
-<p><strong>Miss Su Yiying Kristen</strong></p>
-<p><strong>Mr Tan Tong Lun</strong></p>
-</td>
-<td style="width: 290.438px;">
-<p>su_yi_ying@moe.edu.sg</p>
-<p>tan_tong_lun@moe.edu.sg</p>
+<td style="text-align:center; border: 1px solid #dddfe1;">
+rasyidah_ramli@moe.edu.sg<br>
+Liew_Zhen_Hong_Joey@moe.edu.sg
 </td>
 </tr>
+	
 <tr>
-<td style="width: 103px;">
-<p><strong>Passion 7</strong></p>
+<td style="text-align:center; border: 1px solid #dddfe1;">
+<strong>Passion 6</strong>
 </td>
-<td style="width: 271px;">
-<p><strong>Miss Chan Yen Lin Charlotte</strong></p>
-<p><strong>Mdm Liyana Filzah Binte Anuar</strong></p>
+<td style="text-align:center; border: 1px solid #dddfe1;">
+<strong>Miss Su Yiying Kristen</strong><br><strong>Mr Tan Tong Lun</strong>
 </td>
-<td style="width: 290.438px;">
-<p>charlotte_chan@moe.edu.sg</p>
-<p>liyana_filzah_anuar@moe.edu.sg</p>
+<td style="text-align:center; border: 1px solid #dddfe1;">
+su_yi_ying@moe.edu.sg<br>
+tan_tong_lun@moe.edu.sg
 </td>
 </tr>
+	
 <tr>
-<td style="width: 103px;">
+<td style="text-align:center; border: 1px solid #dddfe1;">
+<strong>Passion 7</strong>
+</td>
+<td style="style=&quot;text-align:center;">
+<strong>Miss Chan Yen Lin Charlotte</strong><br>
+<strong>Mdm Liyana Filzah Binte Anuar</strong>
+</td>
+<td style="text-align:center; border: 1px solid #dddfe1;">
+charlotte_chan@moe.edu.sg<br>
+liyana_filzah_anuar@moe.edu.sg
+</td>
+</tr>
+	
+<tr>
+<td style="text-align:center; border: 1px solid #dddfe1;">
 <p><strong>Passion 8</strong></p>
 </td>
 <td style="width: 271px;">
-<p><strong>Mr Mohamad Arizal Bin Ahmad</strong></p>
-<p><strong>Miss Wong Ser Ching</strong></p>
+<strong>Mr Mohamad Arizal Bin Ahmad</strong><br>
+<strong>Miss Wong Ser Ching</strong>
 </td>
-<td style="width: 290.438px;">
-<p>mohamad_arizal_ahmad@moe.edu.sg</p>
-<p>wong_ser_ching@moe.edu.sg</p>
+<td style="text-align:center; border: 1px solid #dddfe1;">
+mohamad_arizal_ahmad@moe.edu.sg<br>
+wong_ser_ching@moe.edu.sg
 </td>
 </tr>
+	
 </tbody>
 </table>
 </div>
 </li>
-<li><input type="checkbox" id="accordion3"> <label for="accordion3">Secondary 2 Classes 2022</label>
+
+<li><input id="accordion3" type="checkbox"> <label for="accordion3">Secondary 2 Classes 2022</label>
 <div>
 <table border="1">
 <tbody>
@@ -490,7 +494,7 @@ zhong_qian@moe.edu.sg
 </table>
 </div>
 </li>
-<li><input type="checkbox" id="accordion4"> <label for="accordion4">Secondary 3 Classes 2022</label>
+<li><input id="accordion4" type="checkbox"> <label for="accordion4">Secondary 3 Classes 2022</label>
 <div>
 <table border="1">
 <tbody>
@@ -611,9 +615,9 @@ zhong_qian@moe.edu.sg
 </table>
 </div>
 </li>
-<li><input type="checkbox" id="accordion5"> <label for="accordion5">Secondary 4/5 Classes 2022</label>
+<li><input id="accordion5" type="checkbox"> <label for="accordion5">Secondary 4/5 Classes 2022</label>
 <div>
-<table border="1" style="height: 858px;">
+<table style="height: 858px;" border="1">
 <tbody>
 <tr style="height: 18px;">
 <td style="height: 18px; width: 123px;">
