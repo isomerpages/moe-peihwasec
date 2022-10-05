@@ -265,7 +265,7 @@ li_hong_jin@moe.edu.sg
 <strong>Ms Nur Fateha Binte Kamsani</strong>
 </td>
 <td style="text-align:center; border: 1px solid #dddfe1;">
-<p>teo_eng_hao@moe.edu.sg <br>
+teo_eng_hao@moe.edu.sg <br>
 	nur_fateha_kamsani@moe.edu.sg
 </td>
 </tr>
