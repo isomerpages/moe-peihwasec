@@ -229,43 +229,43 @@ lee_wei_ying@moe.edu.sg
 </table>
 </div>
 </li>
+	
 <li><input type="checkbox" id="accordion2"> <label for="accordion2">Secondary 1 Classes 2022</label>
 <div>
-<table border="1">
-<tbody style="font-size:15px;">
+<table border="1" style="width:100%">
+<thead style="background-color: #54585d; font-weight: bold; font-size: 16px; border: 1px solid #54585d; ">
+		<tr>
+			<td style="text-align:center;color:white; width:30%;">Class</td>
+			<td style="text-align:center; color:white;width:30%;">Name of Form Teacher</td>
+			<td style="text-align:center; color:white;width:40%;">Email</td>
+		</tr>
+	</thead>
+
+<tbody style="font-size:15px; line-height: 1.8;">
+
 <tr>
-<td style="width: 103px;">
-<p><strong>Class</strong></p>
+<td style="text-align:center; border: 1px solid #dddfe1;">
+<p style="text-align:center;"><strong>Passion 1</strong></p>
 </td>
-<td style="width: 271px;">
-<p><strong>Name of Form Teacher</strong></p>
+<td style="text-align:center; border: 1px solid #dddfe1;">
+<p style="text-align:center;"><strong>Mrs Yeo-Kwok Coleen</strong></p>
+<p style="text-align:center;"><strong>Mr Li Hong Jin</strong></p>
 </td>
-<td style="width: 290.438px;">
-<p><strong>Email</strong></p>
+<td style="text-align:center; border: 1px solid #dddfe1;">
+<p style="text-align:center;">coleen_kwok_siew_yun@moe.edu.sg</p>
+<p style="text-align:center;">li_hong_jin@moe.edu.sg</p>
 </td>
 </tr>
+	
 <tr>
-<td style="width: 103px;">
-<p><strong>Passion 1</strong></p>
-</td>
-<td style="width: 271px;">
-<p><strong>Mrs Yeo-Kwok Coleen</strong></p>
-<p><strong>Mr Li Hong Jin</strong></p>
-</td>
-<td style="width: 290.438px;">
-<p>coleen_kwok_siew_yun@moe.edu.sg</p>
-<p>li_hong_jin@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td style="width: 103px;">
+<td style="text-align:center; border: 1px solid #dddfe1;">
 <p><strong>Passion 2</strong></p>
 </td>
-<td style="width: 271px;">
+<td style="text-align:center; border: 1px solid #dddfe1;">
 <p><strong>Mr Teo Eng Hao</strong></p>
 <p><strong>Ms Nur Fateha Binte Kamsani</strong></p>
 </td>
-<td style="width: 290.438px;">
+<td style="text-align:center; border: 1px solid #dddfe1;">
 <p>teo_eng_hao@moe.edu.sg</p>
 <p>nur_fateha_kamsani@moe.edu.sg</p>
 </td>
