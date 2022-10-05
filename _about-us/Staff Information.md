@@ -245,8 +245,10 @@ lee_wei_ying@moe.edu.sg
 <tr>
 		<td style="text-align:center; border: 1px solid #dddfe1;"><strong>Passion 1</strong>
 		</td>
-		<td style="text-align:center; border: 1px solid #dddfe1;"><strong>Mrs Yeo-Kwok Coleen</strong><br><strong>Mr Li Hong Jin</strong>
-			</td>
+		<td style="text-align:center; border: 1px solid #dddfe1;">
+			<strong>Mrs Yeo-Kwok Coleen</strong><br>
+			<strong>Mr Li Hong Jin</strong>
+	</td>
 			<td style="text-align:center; border: 1px solid #dddfe1;">
 coleen_kwok_siew_yun@moe.edu.sg<br>
 li_hong_jin@moe.edu.sg
@@ -255,17 +257,16 @@ li_hong_jin@moe.edu.sg
 </tr>
 
 	
-<tr style="font-size:15px;">
-<td style="text-align:center; border: 1px solid #dddfe1;">
-<p><strong>Passion 2</strong></p>
+<tr>
+<td style="text-align:center; border: 1px solid #dddfe1;"><strong>Passion 2</strong>
 </td>
 <td style="text-align:center; border: 1px solid #dddfe1;">
-<p><strong>Mr Teo Eng Hao</strong></p>
-<p><strong>Ms Nur Fateha Binte Kamsani</strong></p>
+<strong>Mr Teo Eng Hao</strong><br>
+<strong>Ms Nur Fateha Binte Kamsani</strong>
 </td>
 <td style="text-align:center; border: 1px solid #dddfe1;">
-<p>teo_eng_hao@moe.edu.sg</p>
-<p>nur_fateha_kamsani@moe.edu.sg</p>
+<p>teo_eng_hao@moe.edu.sg <br>
+	nur_fateha_kamsani@moe.edu.sg
 </td>
 </tr>
 	
