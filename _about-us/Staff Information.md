@@ -6,15 +6,19 @@ description: ""
 <ul class="jekyllcodex_accordion">
 <li><input type="checkbox" id="accordion1"> <label for="accordion1">School Leaders and Key Personnel</label>
 <div>
-<table border="1">
+<table border="1" style="border-collapse: collapse;">
+	<thead style="background-color: #54585d; font-color:#ffffff;
+	font-weight: bold;
+	font-size: 13px;
+	border: 1px solid #54585d;">
+		<tr>
+			<td>Designation</td>
+			<td>Name</td>
+			<td>Email</td>
+		</tr>
+	</thead>
 <tbody>
-	<tr>
-<td style="width: 136.391px;"><strong>Designation</strong></td>
-<td style="width: 207.25px;"><strong>Name</strong></td>
-<td style="width: 321.359px;"><strong>Email</strong></td>
-</tr>
-	
-<tr style="font-size:15px;">
+	<tr style="font-size:15px;">
 <td style="text-align: center; width: 136.391px;">
 <strong>Principal</strong>
 </td>
