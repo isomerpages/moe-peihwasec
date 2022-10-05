@@ -242,18 +242,17 @@ lee_wei_ying@moe.edu.sg
 	</thead>
 
 <tbody style="font-size:15px; line-height: 1.8;">
-
 <tr>
 <td style="text-align:center; border: 1px solid #dddfe1;">
 <p style="text-align:center;"><strong>Passion 1</strong></p>
 </td>
 <td style="text-align:center; border: 1px solid #dddfe1;">
-<p style="text-align:center;"><strong>Mrs Yeo-Kwok Coleen</strong></p>
-<p style="text-align:center;"><strong>Mr Li Hong Jin</strong></p>
+<p><strong>Mrs Yeo-Kwok Coleen</strong></p>
+<p><strong>Mr Li Hong Jin</strong></p>
 </td>
 <td style="text-align:center; border: 1px solid #dddfe1;">
-<p style="text-align:center;">coleen_kwok_siew_yun@moe.edu.sg</p>
-<p style="text-align:center;">li_hong_jin@moe.edu.sg</p>
+<p>coleen_kwok_siew_yun@moe.edu.sg</p>
+<p>li_hong_jin@moe.edu.sg</p>
 </td>
 </tr>
 	
@@ -270,6 +269,7 @@ lee_wei_ying@moe.edu.sg
 <p>nur_fateha_kamsani@moe.edu.sg</p>
 </td>
 </tr>
+	
 <tr>
 <td style="width: 103px;">
 <p><strong>Passion 3</strong></p>
