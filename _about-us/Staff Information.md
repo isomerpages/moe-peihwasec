@@ -242,9 +242,10 @@ lee_wei_ying@moe.edu.sg
 	</thead>
 
 <tbody style="line-height: 1.8;">
-<tr style="font-size:15px;">
+
+	<tr style="font-size:15px;">
 <td style="text-align:center; border: 1px solid #dddfe1;">
-<p style="text-align:center;"><strong>Passion 1</strong></p>
+<p><strong>Passion 1</strong></p>
 </td>
 <td style="text-align:center; border: 1px solid #dddfe1;">
 <p><strong>Mrs Yeo-Kwok Coleen</strong></p>
