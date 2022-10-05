@@ -176,7 +176,7 @@ lee_wei_ying@moe.edu.sg
 	
 <tr style="font-size:15px;">
 <td style="text-align: center; width: 136.391px;">
-<p><strong>SH Innovation &amp; Talent Development</strong></p>
+<strong>SH Innovation &amp; Talent Development</strong>
 </td>
 <td style="width: 207.25px;"><strong>Mrs Jaslyn Ang</strong></td>
 <td style="width: 321.359px;">chan_huaihui_jaslyn@moe.edu.sg</td>
@@ -184,7 +184,7 @@ lee_wei_ying@moe.edu.sg
 	
 <tr style="font-size:15px;">
 <td style="text-align: center; width: 136.391px;">
-<p><strong>SH Science (Lower Sec)</strong></p>
+<strong>SH Science (Lower Sec)</strong>
 </td>
 <td style="width: 207.25px;"><strong>Ms Shirlyn Sim</strong></td>
 <td style="width: 321.359px;">shirlyn_sim@moe.edu.sg</td>
