@@ -241,8 +241,8 @@ lee_wei_ying@moe.edu.sg
 		</tr>
 	</thead>
 
-<tbody style="font-size:15px; line-height: 1.8;">
-<tr>
+<tbody style="line-height: 1.8;">
+<tr style="font-size:15px;">
 <td style="text-align:center; border: 1px solid #dddfe1;">
 <p style="text-align:center;"><strong>Passion 1</strong></p>
 </td>
@@ -256,7 +256,7 @@ lee_wei_ying@moe.edu.sg
 </td>
 </tr>
 	
-<tr>
+<tr style="font-size:15px;">
 <td style="text-align:center; border: 1px solid #dddfe1;">
 <p><strong>Passion 2</strong></p>
 </td>
