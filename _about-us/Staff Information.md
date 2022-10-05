@@ -9,9 +9,9 @@ description: ""
 <table border="1" style="width:100%;">
 	<thead style="background-color: #54585d; font-weight: bold; font-size: 16px; border: 1px solid #54585d;">
 		<tr style="text-align:center;">
-			<td style="color:white; width:30%">Designation</td>
+			<td style="color:white; width:25%">Designation</td>
 			<td style="color:white; width:30%">Name</td>
-			<td style="color:white; width:40%">Email</td>
+			<td style="color:white; width:45%">Email</td>
 		</tr>
 	</thead>
 	<tbody style="font-size:15px;">
