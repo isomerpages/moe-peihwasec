@@ -308,7 +308,7 @@ zhong_qian@moe.edu.sg
 </td>
 <td style="text-align:center; border: 1px solid #dddfe1;">
 rasyidah_ramli@moe.edu.sg<br>
-Liew_Zhen_Hong_Joey@moe.edu.sg
+liew_zhen_hong_joey@moe.edu.sg
 </td>
 </tr>
 	
@@ -360,138 +360,145 @@ wong_ser_ching@moe.edu.sg
 
 <li><input id="accordion3" type="checkbox"> <label for="accordion3">Secondary 2 Classes 2022</label>
 <div>
-<table border="1">
-<tbody>
+<table style="width:100%" border="1">
+<thead style="background-color: #54585d; font-weight: bold; font-size: 16px; border: 1px solid #54585d;">
+		<tr>
+			<td style="text-align:center;color:white; width:30%;">Class</td>
+			<td style="text-align:center; color:white;width:30%;">Name of Form Teacher</td>
+			<td style="text-align:center; color:white;width:40%;">Email</td>
+		</tr>
+	</thead>
+<tbody style="font-size:15px; line-height: 1.8;">
+	
 <tr>
-<td style="width: 121px;">
-<p><strong>Class</strong></p>
+<td style="text-align:center; border: 1px solid #dddfe1;">
+<strong>Resilience 1</strong>
 </td>
-<td style="width: 229px;">
-<p><strong>Name of Form Teacher</strong></p>
+<td style="text-align:center; border: 1px solid #dddfe1;">
+<strong>Mdm Hoong Siew Choo Jeslyn (Mrs Jeslyn Chong)</strong><br>
+<strong>Mr Lai Mun Chun</strong>
 </td>
-<td style="width: 314.516px;">
-<p><strong>Email</strong></p>
+<td style="text-align:center; border: 1px solid #dddfe1;">
+jeslyn_hoong_siew_choo@moe.edu.sg<br>
+lai_mun_chun@moe.edu.sg
 </td>
 </tr>
+	
 <tr>
-<td style="width: 121px;">
-<p><strong>Resilience 1</strong></p>
+<td style="text-align:center; border: 1px solid #dddfe1;">
+<strong>Resilience 2</strong>
 </td>
-<td style="width: 229px;">
-<p><strong>Mdm Hoong Siew Choo Jeslyn (Mrs Jeslyn Chong)</strong></p>
-<p><strong>Mr Lai Mun Chun</strong></p>
+<td style="text-align:center; border: 1px solid #dddfe1;">
+<strong>Mr Riyaz Huseni</strong><br>
+<strong>Miss Udhaya Chandhini d/o Mugilvanan</strong>
 </td>
-<td style="width: 314.516px;">
-<p>jeslyn_hoong_siew_choo@moe.edu.sg</p>
-<p>lai_mun_chun@moe.edu.sg</p>
+<td style="text-align:center; border: 1px solid #dddfe1;">
+riyaz_huseni@moe.edu.sg<br>
+udhaya_chandhini_mugilvanan@moe.edu.sg
 </td>
 </tr>
+	
 <tr>
-<td style="width: 121px;">
-<p><strong>Resilience 2</strong></p>
+<td style="text-align:center; border: 1px solid #dddfe1;">
+<strong>Resilience 3</strong>
 </td>
-<td style="width: 229px;">
-<p><strong>Mr Riyaz Huseni</strong></p>
-<p><strong>Miss Udhaya Chandhini d/o Mugilvanan</strong></p>
-<p><strong>Mdm Mak Lin Ho Gillian</strong></p>
+<td style="text-align:center; border: 1px solid #dddfe1;">
+<strong>Miss Shenu Binte Hamidun</strong><br>
+<strong>Mr Tay Swee Hoe</strong>
 </td>
-<td style="width: 314.516px;">
-<p>riyaz_huseni@moe.edu.sg</p>
-<p>udhaya_chandhini_mugilvanan@moe.edu.sg</p>
-<p>mak_lin_ho_gillian@moe.edu.sg</p>
+<td style="text-align:center; border: 1px solid #dddfe1;">
+shenu_hamidun@moe.edu.sg<br>
+tay_swee_hoe@moe.edu.sg
 </td>
 </tr>
+	
 <tr>
-<td style="width: 121px;">
-<p><strong>Resilience 3</strong></p>
+<td style="text-align:center; border: 1px solid #dddfe1;">
+<strong>Resilience 4</strong>
 </td>
-<td style="width: 229px;">
-<p><strong>Miss Shenu Binte Hamidun</strong></p>
-<p><strong>Mr Tay Swee Hoe</strong></p>
+<td style="text-align:center; border: 1px solid #dddfe1;">
+<strong>Mr Ong Jun Ming Gary</strong><br>
+<strong>Miss Tan Hui Ping</strong>
 </td>
-<td style="width: 314.516px;">
-<p>shenu_hamidun@moe.edu.sg</p>
-<p>tay_swee_hoe@moe.edu.sg</p>
+<td style="text-align:center; border: 1px solid #dddfe1;">
+ong_jun_ming_gary@moe.edu.sg<br>
+tan_hui_ping@moe.edu.sg
 </td>
 </tr>
+	
 <tr>
-<td style="width: 121px;">
-<p><strong>Resilience 4</strong></p>
+<td style="text-align:center; border: 1px solid #dddfe1;">
+<strong>Resilience 5</strong>
 </td>
-<td style="width: 229px;">
-<p><strong>Mr Ong Jun Ming Gary</strong></p>
-<p><strong>Miss Tan Hui Ping</strong></p>
+<td style="text-align:center; border: 1px solid #dddfe1;">
+<strong>Mr Lim Jin Kng Emmanuel</strong><br>
+<strong>Miss Lian Jane</strong>
 </td>
-<td style="width: 314.516px;">
-<p>ong_jun_ming_gary@moe.edu.sg</p>
-<p>tan_hui_ping@moe.edu.sg</p>
+<td style="text-align:center; border: 1px solid #dddfe1;">
+lim_jin_kng_emmanuel@moe.edu.sg<br>
+lian_jane@moe.edu.sg
 </td>
 </tr>
+	
 <tr>
-<td style="width: 121px;">
-<p><strong>Resilience 5</strong></p>
+<td style="text-align:center; border: 1px solid #dddfe1;">
+<strong>Resilience 6</strong>
 </td>
-<td style="width: 229px;">
-<p><strong>Mr Lim Jin Kng Emmanuel</strong></p>
-<p><strong>Miss Lian Jane</strong></p>
+<td style="text-align:center; border: 1px solid #dddfe1;">
+<strong>Mr Tu Harrick Iskandar</strong><br>
+<strong>Miss Jovitta Christopher Pereira</strong>
 </td>
-<td style="width: 314.516px;">
-<p>lim_jin_kng_emmanuel@moe.edu.sg</p>
-<p>lian_jane@moe.edu.sg</p>
+<td style="text-align:center; border: 1px solid #dddfe1;">
+tu_harrick_iskandar@moe.edu.sg<br>
+jovitta_christopher_pereira@moe.edu.sg
 </td>
 </tr>
+	
 <tr>
-<td style="width: 121px;">
-<p><strong>Resilience 6</strong></p>
+<td style="text-align:center; border: 1px solid #dddfe1;">
+<strong>Resilience 7</strong>
 </td>
-<td style="width: 229px;">
-<p><strong>Mr Tu Harrick Iskandar</strong></p>
-<p><strong>Miss Seah Wan Yan Mary</strong></p>
+<td style="text-align:center; border: 1px solid #dddfe1;">
+	<strong>Mdm Halimah Binte Mohamed Harris</strong><br>
+	Miss Koh Tin Suen Jewel
 </td>
-<td style="width: 314.516px;">
-<p>tu_harrick_iskandar@moe.edu.sg</p>
-<p>seah_wan_yan_mary@moe.edu.sg</p>
+<td style="text-align:center; border: 1px solid #dddfe1;">
+halimah_mohamed_harris@moe.edu.sg<br>
+koh_tin_suen_jewel@moe.edu.sg
 </td>
 </tr>
+	
 <tr>
-<td style="width: 121px;">
-<p><strong>Resilience 7</strong></p>
+<td style="text-align:center; border: 1px solid #dddfe1;">
+<strong>Resilience 8</strong>
 </td>
-<td style="width: 229px;">
-<p><strong>Mdm Halimah Binte Mohamed Harris</strong></p>
+<td style="text-align:center; border: 1px solid #dddfe1;">
+<strong>Mr Song Hoo Khim</strong><br>
+<strong>Miss Nurull Dzarifa Binte Othman Z</strong>
 </td>
-<td style="width: 314.516px;">
-<p>halimah_mohamed_harris@moe.edu.sg</p>
+<td style="text-align:center; border: 1px solid #dddfe1;">
+song_hoo_khim@moe.edu.sg<br>
+nurull_dzarifa_othman_z@moe.edu.sg
 </td>
 </tr>
+	
 <tr>
-<td style="width: 121px;">
-<p><strong>Resilience 8</strong></p>
+<td style="text-align:center; border: 1px solid #dddfe1;">
+<strong>Resilience 9</strong>
 </td>
-<td style="width: 229px;">
-<p><strong>Mr Song Hoo Khim</strong></p>
-<p><strong>Miss Nurull Dzarifa Binte Othman Z</strong></p>
+<td style="text-align:center; border: 1px solid #dddfe1;">
+<strong>Mr Lee Kwang Ming</strong><br>
+<strong>Mdm Chen Peishi</strong>
 </td>
-<td style="width: 314.516px;">
-<p>song_hoo_khim@moe.edu.sg</p>
-<p>nurull_dzarifa_othman_z@moe.edu.sg</p>
+<td style="text-align:center; border: 1px solid #dddfe1;">
+lee_kwang_ming@moe.edu.sg<br>
+chen_pei_shi@moe.edu.sg
 </td>
 </tr>
-<tr>
-<td style="width: 121px;">
-<p><strong>Resilience 9</strong></p>
-</td>
-<td style="width: 229px;">
-<p><strong>Mr Lee Kwang Ming</strong></p>
-<p><strong>Mdm Chen Peishi</strong></p>
-</td>
-<td style="width: 314.516px;">
-<p>lee_kwang_ming@moe.edu.sg</p>
-<p>chen_pei_shi@moe.edu.sg</p>
-</td>
-</tr>
+	
 </tbody>
 </table>
+	
 </div>
 </li>
 <li><input id="accordion4" type="checkbox"> <label for="accordion4">Secondary 3 Classes 2022</label>
