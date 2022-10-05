@@ -4,7 +4,7 @@ permalink: /about-us/staff-contact-info/
 description: ""
 ---
 <ul class="jekyllcodex_accordion">
-<li><input type="checkbox" id="accordion1"> <label for="accordion1">School Leaders and Key Personnel</label>
+<li><input type="checkbox" id="accordion1"><label for="accordion1">School Leaders and Key Personnel</label>
 <div>
 <table border="1" style="width:100%">
 	<thead style="background-color: #54585d; font-weight: bold; font-size: 16px; border: 1px solid #54585d; ">
@@ -161,19 +161,19 @@ lee_wei_ying@moe.edu.sg
 <td style="text-align:center; border: 1px solid #dddfe1;">yang_chao_kai_victor@moe.edu.sg</td>
 </tr>
 	
-<tr style="font-size:15px;">
+<tr>
 <td style="text-align:center; border: 1px solid #dddfe1;"><strong>SH Data Management</strong></td>
 <td style="text-align:center; border: 1px solid #dddfe1;"><strong>Mdm Shalini Tashnamurthi</strong></td>
 <td style="text-align:center; border: 1px solid #dddfe1;">shalini_tashnamurthi@moe.edu.sg</td>
 </tr>
 	
-<tr style="font-size:15px;">
+<tr>
 <td style="text-align:center; border: 1px solid #dddfe1;"><strong>SH Character &amp; <br> Citizenship Education</strong></td>
 <td style="text-align:center; border: 1px solid #dddfe1;"><strong>Mdm Oh Shu Ying Serene</strong></td>
 <td style="text-align:center; border: 1px solid #dddfe1;">oh_shu_ying_serene@moe.edu.sg</td>
 </tr>
 	
-<tr style="font-size:15px;">
+<tr>
 <td style="text-align:center; border: 1px solid #dddfe1;">
 <strong>SH Innovation &amp; <br> Talent Development</strong>
 </td>
@@ -181,7 +181,7 @@ lee_wei_ying@moe.edu.sg
 <td style="text-align:center; border: 1px solid #dddfe1;">chan_huaihui_jaslyn@moe.edu.sg</td>
 </tr>
 	
-<tr style="font-size:15px;">
+<tr>
 <td style="text-align:center; border: 1px solid #dddfe1;">
 <strong>SH Science <br> (Lower Sec)</strong>
 </td>
@@ -189,37 +189,37 @@ lee_wei_ying@moe.edu.sg
 <td style="text-align:center; border: 1px solid #dddfe1;">shirlyn_sim@moe.edu.sg</td>
 </tr>
 	
-<tr style="font-size:15px;">
+<tr>
 <td style="text-align:center; border: 1px solid #dddfe1;"><strong>Lead Teacher/<br>Malay Language</strong></td>
 <td style="text-align:center; border: 1px solid #dddfe1;"><strong>Mdm Rositah Binte Yusof</strong></td>
 <td style="text-align:center; border: 1px solid #dddfe1;">rositah_yusof@moe.edu.sg</td>
 </tr>
 	
-<tr style="font-size:15px;">
+<tr>
 <td style="text-align:center; border: 1px solid #dddfe1;"><strong>Lead Teacher / <br> Special Educational Needs</strong></td>
 <td style="text-align:center; border: 1px solid #dddfe1;"><strong>Mr Tan Aik Fong</strong></td>
 <td style="text-align:center; border: 1px solid #dddfe1;">tan_aik_fong@moe.edu.sg</td>
 </tr>
 	
-<tr style="font-size:15px;">
+<tr>
 <td style="text-align:center; border: 1px solid #dddfe1;"><strong>Administration Manager</strong></td>
 <td style="text-align:center; border: 1px solid #dddfe1;"><strong>Ms Ong Ee Wen Engratia</strong></td>
 <td style="text-align:center; border: 1px solid #dddfe1;">engratia_ong@moe.edu.sg</td>
 </tr>
 	
-	<tr style="font-size:15px;">
+<tr>
 <td style="text-align:center; border: 1px solid #dddfe1;"><strong>Administration Manager</strong></td>
 <td style="text-align:center; border: 1px solid #dddfe1;"><strong>Ms Chan Xin Wei</strong></td>
 <td style="text-align:center; border: 1px solid #dddfe1;"></td>
 </tr>
 	
-<tr style="font-size:15px;">
+<tr>
 <td style="text-align:center; border: 1px solid #dddfe1;"><strong>Operations Manager</strong></td>
 <td style="text-align:center; border: 1px solid #dddfe1;"><strong>Mr D’cruz Terrence<br>Dominic Joseph</strong></td>
 <td style="text-align:center; border: 1px solid #dddfe1;">dcruz_terrence_dominic_joseph@moe.edu.sg</td>
 </tr>
 	
-<tr style="font-size:15px;">
+<tr>
 <td style="text-align:center; border: 1px solid #dddfe1;"><strong>Operations Manager <br> (Safety &amp; Security)</strong></td>
 <td style="text-align:center; border: 1px solid #dddfe1;"><strong>Mr Tam Wai Seng</strong></td>
 <td style="text-align:center; border: 1px solid #dddfe1;">tam_wai_seng@moe.edu.sg</td>
