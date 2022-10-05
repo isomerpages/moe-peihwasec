@@ -15,52 +15,52 @@ description: ""
 </tr>
 <tr>
 <td style="text-align: center; width: 136.391px;">
-<p><strong>Principal</strong></p>
+<p style="font-size:15px;"><strong>Principal</strong></p>
 </td>
-<td style="width: 207.25px; font-style:15px;"><strong>Mr Mohd Azhar B Terimo</strong></td>
+<td style="width: 207.25px; font-size:15px;"><strong>Mr Mohd Azhar B Terimo</strong></td>
 <td style="width: 321.359px;"></td>
 </tr>
 <tr>
 <td style="text-align: center; width: 136.391px;">
-<p><strong>Vice-Principal</strong></p>
+<p style=" font-size:15px;"><strong>Vice-Principal</strong></p>
 </td>
-<td style="width: 207.25px;"><strong>Mr Tan Cher Hui Philip</strong></td>
+<td style="width: 207.25px;  font-size:15px;"><strong>Mr Tan Cher Hui Philip</strong></td>
 	<td style="width: 321.359px;"></td>
 </tr>
 <tr>
 <td style="text-align: center; width: 136.391px;">
-<p><strong>Vice-Principal</strong></p>
+<p style="font-size:15px;"><strong>Vice-Principal</strong></p>
 </td>
-<td style="width: 207.25px;"><strong>Mrs Michelle Willman</strong></td>
+<td style="width: 207.25px; font-size:15px;"><strong>Mrs Michelle Willman</strong></td>
 	<td style="width: 321.359px;"></td>
 </tr>
 <tr>
 <td style="text-align: center; width: 136.391px;">
-<p><strong>HOD InfoComm Technology</strong></p>
+<p style="font-size:15px;"><strong>HOD InfoComm Technology</strong></p>
 </td>
-<td style="width: 207.25px;"><strong>Mr Lim Thai Wee&nbsp;David</strong></td>
-<td style="width: 321.359px;">lim_thai_wee_david@moe.edu.sg</td>
+<td style="width: 207.25px;font-size:15px;"><strong>Mr Lim Thai Wee&nbsp;David</strong></td>
+<td style="width: 321.359px; font-size:15px;">lim_thai_wee_david@moe.edu.sg</td>
 </tr>
 <tr>
 <td style="text-align: center; width: 136.391px;">
-<p><strong>HOD PE &amp; CCA</strong></p>
+<p style="font-size:15px;"><strong>HOD PE &amp; CCA</strong></p>
 </td>
-<td style="width: 207.25px;"><strong>Mr Liew Yee Hoong Adam</strong></td>
-<td style="width: 321.359px;">liew_yee_hoong_adam@moe.edu.sg</td>
+<td style="width: 207.25px; font-size:15px;"><strong>Mr Liew Yee Hoong Adam</strong></td>
+<td style="width: 321.359px; font-size:15px;">liew_yee_hoong_adam@moe.edu.sg</td>
 </tr>
 <tr>
 <td style="text-align: center; width: 136.391px;">
-<p><strong>HOD Mathematics</strong></p>
+<p style="font-size:15px;"><strong>HOD Mathematics</strong></p>
 </td>
-<td style="width: 207.25px;"><strong>Mdm Yang Ser Yee</strong></td>
-<td style="width: 321.359px;">yang_ser_yee@moe.edu.sg</td>
+<td style="width: 207.25px; font-size:15px;"><strong>Mdm Yang Ser Yee</strong></td>
+<td style="width: 321.359px;  font-size:15px;">yang_ser_yee@moe.edu.sg</td>
 </tr>
 <tr>
 <td style="text-align: center; width: 136.391px;">
-<p><strong>HOD Science</strong></p>
+<p style="font-size:15px;"><strong>HOD Science</strong></p>
 </td>
-<td style="width: 207.25px;"><strong>Ms Teo Sing Yee</strong></td>
-<td style="width: 321.359px;">teo_sing_yee@moe.edu.sg</td>
+<td style="width: 207.25px; font-size:15px;"><strong>Ms Teo Sing Yee</strong></td>
+<td style="width: 321.359px; font-size:15px;">teo_sing_yee@moe.edu.sg</td>
 </tr>
 <tr>
 <td style="text-align: center; width: 136.391px;">
