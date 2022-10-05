@@ -15,44 +15,43 @@ description: ""
 		</tr>
 	</thead>
 	<tbody style="border: 1px solid #dddfe1;">
-	<tr style="font-size:15px;">
-		<td style="text-align: center;">
-			<strong>Principal</strong>
+		<tr style="font-size:15px;">
+		<td style="text-align: center; border: 1px solid #dddfe1;"><strong>Principal</strong>
 		</td>
-		<td><strong>Mr Mohd Azhar B Terimo</strong></td>
-		<td></td>
+		<td style="border: 1px solid #dddfe1;"><strong>Mr Mohd Azhar B Terimo</strong></td>
+		<td style="border: 1px solid #dddfe1;"></td>
 </tr>
 	
-<tr style="font-size:15px;">
-<td style="text-align: center; width: 136.391px;">
+<tr style="font-size:15px; border: 1px solid #dddfe1;">
+<td style="text-align: center;border: 1px solid #dddfe1;">
 <strong>Vice-Principal</strong>
 </td>
-<td style="width: 207.25px;"><strong>Mr Tan Cher Hui Philip</strong></td>
-	<td style="width: 321.359px;"></td>
+<td style="border: 1px solid #dddfe1;"><strong>Mr Tan Cher Hui Philip</strong></td>
+	<td style="border: 1px solid #dddfe1;"></td>
 </tr>
 	
 <tr style="font-size:15px;">
-<td style="text-align: center; width: 136.391px;">
+<td style="text-align: center; border: 1px solid #dddfe1;">
 <strong>Vice-Principal</strong>
 </td>
-<td style="width: 207.25px;"><strong>Mrs Michelle Willman</strong></td>
-	<td style="width: 321.359px;"></td>
+<td style="border: 1px solid #dddfe1;"><strong>Mrs Michelle Willman</strong></td>
+	<td style="border: 1px solid #dddfe1;"></td>
 </tr>
 	
 <tr style="font-size:15px;">
-<td style="text-align: center; width: 136.391px;">
+<td style="text-align: center; border: 1px solid #dddfe1;">
 <strong>HOD InfoComm Technology</strong>
 </td>
-<td style="width: 207.25px;"><strong>Mr Lim Thai Wee&nbsp;David</strong></td>
-<td style="width: 321.359px;">lim_thai_wee_david@moe.edu.sg</td>
+<td style="border: 1px solid #dddfe1;"><strong>Mr Lim Thai Wee&nbsp;David</strong></td>
+<td style="width:border: 1px solid #dddfe1;">lim_thai_wee_david@moe.edu.sg</td>
 </tr>
 	
 <tr style="font-size:15px;">
-<td style="text-align: center; width: 136.391px;">
+<td style="text-align: center; border: 1px solid #dddfe1;">
 <strong>HOD PE &amp; CCA</strong>
 </td>
-<td style="width: 207.25px;"><strong>Mr Liew Yee Hoong Adam</strong></td>
-<td style="width: 321.359px;">liew_yee_hoong_adam@moe.edu.sg</td>
+<td style="border: 1px solid #dddfe1;"><strong>Mr Liew Yee Hoong Adam</strong></td>
+<td style="border: 1px solid #dddfe1;">liew_yee_hoong_adam@moe.edu.sg</td>
 </tr>
 	
 <tr style="font-size:15px;">
