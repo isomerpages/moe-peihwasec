@@ -329,7 +329,7 @@ tan_tong_lun@moe.edu.sg
 <td style="text-align:center; border: 1px solid #dddfe1;">
 <strong>Passion 7</strong>
 </td>
-<td style="style=&quot;text-align:center;">
+<td style="text-align:center; border: 1px solid #dddfe1;">
 <strong>Miss Chan Yen Lin Charlotte</strong><br>
 <strong>Mdm Liyana Filzah Binte Anuar</strong>
 </td>
@@ -341,7 +341,7 @@ liyana_filzah_anuar@moe.edu.sg
 	
 <tr>
 <td style="text-align:center; border: 1px solid #dddfe1;">
-<p><strong>Passion 8</strong></p>
+<strong>Passion 8</strong>
 </td>
 <td style="text-align:center; border: 1px solid #dddfe1;">
 <strong>Mr Mohamad Arizal Bin Ahmad</strong><br>
