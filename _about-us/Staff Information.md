@@ -7,20 +7,20 @@ description: ""
 <li><input type="checkbox" id="accordion1"> <label for="accordion1">School Leaders and Key Personnel</label>
 <div>
 <table border="1" style="border-collapse: collapse;">
-	<thead style="background-color: #54585d; font-color:#ffffff; font-weight: bold; font-size: 13px; border: 1px solid #54585d;">
+	<thead style="background-color: #54585d; font-weight: bold; font-size: 16px; border: 1px solid #54585d;">
 		<tr>
-			<td>Designation</td>
-			<td>Name</td>
-			<td>Email</td>
+			<td style="color:white">Designation</td>
+			<td style="color:white">Name</td>
+			<td style="color:white">Email</td>
 		</tr>
 	</thead>
-<tbody>
+	<tbody style="border: 1px solid #dddfe1;">
 	<tr style="font-size:15px;">
-<td style="text-align: center; width: 136.391px;">
-<strong>Principal</strong>
-</td>
-<td style="width: 207.25px; font-size:15px;"><strong>Mr Mohd Azhar B Terimo</strong></td>
-<td style="width: 321.359px;"></td>
+		<td style="text-align: center;">
+			<strong>Principal</strong>
+		</td>
+		<td><strong>Mr Mohd Azhar B Terimo</strong></td>
+		<td></td>
 </tr>
 	
 <tr style="font-size:15px;">
