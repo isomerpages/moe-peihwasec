@@ -14,7 +14,7 @@ description: ""
 			<td style="color:white">Emaifl</td>
 		</tr>
 	</thead>
-	<tbody style="font-size:15px; text-align: center;">
+	<tbody style="text-align: center; font-size:15px;">
 		<tr>
 		<td style="border: 1px solid #dddfe1;"><strong>Principal</strong>
 		</td>
