@@ -14,7 +14,7 @@ description: ""
 			<td style="color:white">Email</td>
 		</tr>
 	</thead>
-	<tbody style="text-align:center; font-size:15px;">
+	<tbody style="font-size:15px;">
 		<tr>
 		<td style="border: 1px solid #dddfe1;"><strong>Principal</strong>
 		</td>
@@ -22,19 +22,19 @@ description: ""
 		<td style="border: 1px solid #dddfe1;"></td>
 </tr>
 	
-<tr style="font-size:15px; text-align:center;">
-<td style="border: 1px solid #dddfe1;">
+<tr style="">
+<td style="text-align:center; border: 1px solid #dddfe1;">
 <strong>Vice-Principal</strong>
 </td>
 <td style="border: 1px solid #dddfe1;"><strong>Mr Tan Cher Hui Philip</strong></td>
 	<td style="border: 1px solid #dddfe1;"></td>
 </tr>
 	
-<tr style="text-align:center;">
+<tr style="">
 <td style="border: 1px solid #dddfe1;">
 <strong>Vice-Principal</strong>
 </td>
-<td style="border: 1px solid #dddfe1;"><strong>Mrsl Michelle Willman</strong></td>
+<td style="border: 1px solid #dddfe1;"><strong>Mrs Michelle Willman</strong></td>
 	<td style="border: 1px solid #dddfe1;"></td>
 </tr>
 	
