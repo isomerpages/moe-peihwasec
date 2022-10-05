@@ -6,7 +6,7 @@ description: ""
 <ul class="jekyllcodex_accordion">
 <li><input type="checkbox" id="accordion1"> <label for="accordion1">School Leaders and Key Personnel</label>
 <div>
-<table border="1" style="border-collapse: collapse;">
+<table border="1" style="border-collapse: collapse; border: 1px solid #dddfe1;">
 	<thead style="background-color: #54585d; font-weight: bold; font-size: 16px; border: 1px solid #54585d;">
 		<tr>
 			<td style="color:white">Designation</td>
@@ -14,19 +14,19 @@ description: ""
 			<td style="color:white">Email</td>
 		</tr>
 	</thead>
-	<tbody style="border: 1px solid #dddfe1;">
+	<tbody>
 		<tr style="font-size:15px;">
 		<td style="text-align: center; border: 1px solid #dddfe1;"><strong>Principal</strong>
 		</td>
-		<td style="border: 1px solid #dddfe1;"><strong>Mr Mohd Azhar B Terimo</strong></td>
+		<td style="text-align: center;border: 1px solid #dddfe1;"><strong>Mr Mohd Azhar B Terimo</strong></td>
 		<td style="border: 1px solid #dddfe1;"></td>
 </tr>
 	
-<tr style="font-size:15px; border: 1px solid #dddfe1;">
+<tr style="font-size:15px;">
 <td style="text-align: center;border: 1px solid #dddfe1;">
 <strong>Vice-Principal</strong>
 </td>
-<td style="border: 1px solid #dddfe1;"><strong>Mr Tan Cher Hui Philip</strong></td>
+<td style="text-align: center;border: 1px solid #dddfe1;"><strong>Mr Tan Cher Hui Philip</strong></td>
 	<td style="border: 1px solid #dddfe1;"></td>
 </tr>
 	
@@ -34,7 +34,7 @@ description: ""
 <td style="text-align: center; border: 1px solid #dddfe1;">
 <strong>Vice-Principal</strong>
 </td>
-<td style="border: 1px solid #dddfe1;"><strong>Mrs Michelle Willman</strong></td>
+<td style="text-align: center;border: 1px solid #dddfe1;"><strong>Mrs Michelle Willman</strong></td>
 	<td style="border: 1px solid #dddfe1;"></td>
 </tr>
 	
@@ -42,8 +42,8 @@ description: ""
 <td style="text-align: center; border: 1px solid #dddfe1;">
 <strong>HOD InfoComm Technology</strong>
 </td>
-<td style="border: 1px solid #dddfe1;"><strong>Mr Lim Thai Wee&nbsp;David</strong></td>
-<td style="width:border: 1px solid #dddfe1;">lim_thai_wee_david@moe.edu.sg</td>
+<td style="text-align: center;border: 1px solid #dddfe1;"><strong>Mr Lim Thai Wee&nbsp;David</strong></td>
+<td style="text-align: center;border: 1px solid #dddfe1;">lim_thai_wee_david@moe.edu.sg</td>
 </tr>
 	
 <tr style="font-size:15px;">
