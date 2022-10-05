@@ -7,7 +7,8 @@ description: ""
 <li><input type="checkbox" id="accordion1"> <label for="accordion1">School Leaders and Key Personnel</label>
 <div>
 <table border="1">
-<tbody><tr>
+<tbody>
+	<tr>
 <td style="width: 136.391px;"><strong>Designation</strong></td>
 <td style="width: 207.25px;"><strong>Name</strong></td>
 <td style="width: 321.359px;"><strong>Email</strong></td>
@@ -80,7 +81,7 @@ description: ""
 <td style="text-align: center; width: 136.391px;">
 <p style="font-size:15px;"><strong>HOD Student Management</strong></p>
 </td>
-<td style="width: 207.25px;font-size:15px;"><strong>Mr Raghuraman Katherayson</strong></td>
+<td style="width: 207.25px; font-size:15px;"><strong>Mr Raghuraman Katherayson</strong></td>
 <td style="width: 321.359px;font-size:15px;">raghuraman_katherayson@moe.edu.sg</td>
 </tr>
 <tr>
