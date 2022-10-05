@@ -343,7 +343,7 @@ liyana_filzah_anuar@moe.edu.sg
 <td style="text-align:center; border: 1px solid #dddfe1;">
 <p><strong>Passion 8</strong></p>
 </td>
-<td style="width: 271px;">
+<td style="text-align:center; border: 1px solid #dddfe1;">
 <strong>Mr Mohamad Arizal Bin Ahmad</strong><br>
 <strong>Miss Wong Ser Ching</strong>
 </td>
