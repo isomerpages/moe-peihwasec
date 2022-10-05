@@ -17,7 +17,7 @@ description: ""
 <td style="text-align: center; width: 136.391px;">
 <p><strong>Principal</strong></p>
 </td>
-<td style="width: 207.25px;"><strong>Mr Mohd Azhar B Terimo</strong></td>
+<td style="width: 207.25px; font-style:15px;"><strong>Mr Mohd Azhar B Terimo</strong></td>
 <td style="width: 321.359px;"></td>
 </tr>
 <tr>
