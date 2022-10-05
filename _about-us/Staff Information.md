@@ -30,11 +30,11 @@ description: ""
 	<td style="border: 1px solid #dddfe1;"></td>
 </tr>
 	
-<tr style="font-size:15px; text-align:center;">
+<tr style="text-align:center;">
 <td style="border: 1px solid #dddfe1;">
 <strong>Vice-Principal</strong>
 </td>
-<td style="border: 1px solid #dddfe1;"><strong>Mrs Michelle Willman</strong></td>
+<td style="border: 1px solid #dddfe1;"><strong>Mrsl Michelle Willman</strong></td>
 	<td style="border: 1px solid #dddfe1;"></td>
 </tr>
 	
