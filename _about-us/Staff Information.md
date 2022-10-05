@@ -4,15 +4,17 @@ permalink: /about-us/staff-contact-info/
 description: ""
 ---
 <ul class="jekyllcodex_accordion">
-<li><input id="accordion1" type="checkbox" /> <label for="accordion1">School Leaders and Key Personnel</label>
+<li><input type="checkbox" id="accordion1"> <label for="accordion1">School Leaders and Key Personnel</label>
 <div>
 <table border="1">
 <tbody>
+	
 <tr>
 <td style="width: 136.391px;"><strong>Designation</strong></td>
 <td style="width: 207.25px;"><strong>Name</strong></td>
 <td style="width: 321.359px;"><strong>Email</strong></td>
 </tr>
+	
 <tr>
 <td style="text-align: center; width: 136.391px;">
 <p style="font-size:15px;"><strong>Principal</strong></p>
@@ -20,13 +22,15 @@ description: ""
 <td style="width: 207.25px; font-size:15px;"><strong>Mr Mohd Azhar B Terimo</strong></td>
 <td style="width: 321.359px;"></td>
 </tr>
+	
 <tr>
 <td style="text-align: center; width: 136.391px;">
-<p style=" font-size:15px;"><strong>Vice-Principal</strong></p>
+<p style="font-size:15px;"><strong>Vice-Principal</strong></p>
 </td>
 <td style="width: 207.25px;  font-size:15px;"><strong>Mr Tan Cher Hui Philip</strong></td>
 	<td style="width: 321.359px;"></td>
 </tr>
+	
 <tr>
 <td style="text-align: center; width: 136.391px;">
 <p style="font-size:15px;"><strong>Vice-Principal</strong></p>
@@ -34,6 +38,7 @@ description: ""
 <td style="width: 207.25px; font-size:15px;"><strong>Mrs Michelle Willman</strong></td>
 	<td style="width: 321.359px;"></td>
 </tr>
+	
 <tr>
 <td style="text-align: center; width: 136.391px;">
 <p style="font-size:15px;"><strong>HOD InfoComm Technology</strong></p>
@@ -41,6 +46,7 @@ description: ""
 <td style="width: 207.25px;font-size:15px;"><strong>Mr Lim Thai Wee&nbsp;David</strong></td>
 <td style="width: 321.359px; font-size:15px;">lim_thai_wee_david@moe.edu.sg</td>
 </tr>
+	
 <tr>
 <td style="text-align: center; width: 136.391px;">
 <p style="font-size:15px;"><strong>HOD PE &amp; CCA</strong></p>
@@ -48,6 +54,7 @@ description: ""
 <td style="width: 207.25px; font-size:15px;"><strong>Mr Liew Yee Hoong Adam</strong></td>
 <td style="width: 321.359px; font-size:15px;">liew_yee_hoong_adam@moe.edu.sg</td>
 </tr>
+	
 <tr>
 <td style="text-align: center; width: 136.391px;">
 <p style="font-size:15px;"><strong>HOD Mathematics</strong></p>
@@ -55,6 +62,7 @@ description: ""
 <td style="width: 207.25px; font-size:15px;"><strong>Mdm Yang Ser Yee</strong></td>
 <td style="width: 321.359px;  font-size:15px;">yang_ser_yee@moe.edu.sg</td>
 </tr>
+	
 <tr>
 <td style="text-align: center; width: 136.391px;">
 <p style="font-size:15px;"><strong>HOD Science</strong></p>
@@ -62,127 +70,139 @@ description: ""
 <td style="width: 207.25px; font-size:15px;"><strong>Ms Teo Sing Yee</strong></td>
 <td style="width: 321.359px; font-size:15px;">teo_sing_yee@moe.edu.sg</td>
 </tr>
+	
 <tr>
 <td style="text-align: center; width: 136.391px;">
-<p><strong>HOD&nbsp;Character &amp; Citizenship Education</strong></p>
+<p style="font-size:15px;"><strong>HOD&nbsp;Character &amp; Citizenship Education</strong></p>
 </td>
-<td style="width: 207.25px;"><strong>Ms Wong Wei Nee</strong></td>
-<td style="width: 321.359px;">wong_wei_nee@moe.edu.sg</td>
+<td style="width: 207.25px;  font-size:15px;"><strong>Ms Wong Wei Nee</strong></td>
+<td style="width: 321.359px; font-size:15px;">wong_wei_nee@moe.edu.sg</td>
 </tr>
+	
 <tr>
 <td style="text-align: center; width: 136.391px;">
-<p><strong>HOD English Language</strong></p>
+<p style="font-size:15px;"><strong>HOD Student Management</strong></p>
 </td>
-<td style="width: 207.25px;"><strong>Mrs Koh Shi Hua</strong></td>
-<td style="width: 321.359px;">pang_shi_hua@moe.edu.sg</td>
+<td style="width: 207.25px; font-size:15px;"><strong>Mr Raghuraman Katherayson</strong></td>
+<td style="width: 321.359px;font-size:15px;">raghuraman_katherayson@moe.edu.sg</td>
 </tr>
+	 
 <tr>
 <td style="text-align: center; width: 136.391px;">
-<p><strong>HOD Student Management</strong></p>
-</td>
-<td style="width: 207.25px;"><strong>Mr Raghuraman Katherayson</strong></td>
-<td style="width: 321.359px;">raghuraman_katherayson@moe.edu.sg</td>
-</tr>
-<tr>
-<td style="text-align: center; width: 136.391px;">
-<p><strong>HOD Mother Tongue</strong></p>
+<p style="font-size:15px;"><strong>HOD Mother Tongue</strong></p>
 </td>
 <td style="width: 207.25px;">
-<p><strong>Ms Lee Wei Ying</strong></p>
+<p style="font-size:15px;"><strong>Ms Lee Wei Ying</strong></p>
 </td>
 <td style="width: 321.359px;">
-<p>lee_wei_ying@moe.edu.sg</p>
+<p style="font-size:15px;">lee_wei_ying@moe.edu.sg</p>
 </td>
 </tr>
+	
 <tr>
 <td style="text-align: center; width: 136.391px;">
-<p><strong>School Staff Developer</strong></p>
+<p style="font-size:15px;"><strong>School Staff Developer</strong></p>
 </td>
-<td style="width: 207.25px;"><strong>Ms Seet Siew Lin Pamela</strong></td>
-<td style="width: 321.359px;">seet_siew_lin_pamela@moe.edu.sg</td>
+<td style="width: 207.25px; font-size:15px;"><strong>Ms Seet Siew Lin Pamela</strong></td>
+<td style="width: 321.359px; font-size:15px;">seet_siew_lin_pamela@moe.edu.sg</td>
 </tr>
+	
 <tr>
 <td style="text-align: center; width: 136.391px;">
-<p><strong>Year Head<br /></strong><strong>(Lower Sec)</strong></p>
+<p style="font-size:15px;"><strong>Year Head<br></strong><strong>(Lower Sec)</strong></p>
 </td>
-<td style="width: 207.25px;"><strong>Mr Kang Kok Keong Bernard</strong></td>
-<td style="width: 321.359px;">kang_kok_keong_bernard@moe.edu.sg</td>
+<td style="width: 207.25px;font-size:15px;"><strong>Mr Kang Kok Keong Bernard</strong></td>
+<td style="width: 321.359px;font-size:15px;">kang_kok_keong_bernard@moe.edu.sg</td>
 </tr>
+	
 <tr>
 <td style="text-align: center; width: 136.391px;">
-<p><strong>Year Head<br /></strong><strong>(Upper Sec)</strong></p>
+<p style="font-size:15px;"><strong>Year Head<br></strong><strong>(Upper Sec)</strong></p>
 </td>
-<td style="width: 207.25px;"><strong>Mr Loh Jing Hui</strong></td>
-<td style="width: 321.359px;">loh_jing_hui@moe.edu.sg</td>
+<td style="width: 207.25px;font-size:15px;"><strong>Mr Loh Jing Hui</strong></td>
+<td style="width: 321.359px; font-size:15px;">loh_jing_hui@moe.edu.sg</td>
 </tr>
+	
 <tr>
 <td style="text-align: center; width: 136.391px;">
-<p><strong>Assistant Year Head<br /></strong><strong>(Upper Sec)</strong></p>
+<p style="font-size:15px;"><strong>Assistant Year Head<br></strong><strong>(Upper Sec)</strong></p>
 </td>
-<td style="width: 207.25px;"><strong>Mdm Cheng Weiqi</strong></td>
-<td style="width: 321.359px;">cheng_weiqi@moe.edu.sg</td>
+<td style="width: 207.25px; font-size:15px;"><strong>Mdm Cheng Weiqi</strong></td>
+<td style="width: 321.359px; font-size:15px;">cheng_weiqi@moe.edu.sg</td>
 </tr>
+	
 <tr>
 <td style="text-align: center; width: 136.391px;">
-<p><strong>Assistant Year Head<br /></strong><strong>(Lower Sec)</strong></p>
+<p style="font-size:15px;"><strong>Assistant Year Head<br></strong><strong>(Lower Sec)</strong></p>
 </td>
-<td style="width: 207.25px;"><strong>Mr Lin Yan Shan Russell</strong></td>
-<td style="width: 321.359px;">lin_yanshan_russell@moe.edu.sg</td>
+<td style="width: 207.25px; font-size:15px;"><strong>Mr Lin Yan Shan Russell</strong></td>
+<td style="width: 321.359px; font-size:15px;">lin_yanshan_russell@moe.edu.sg</td>
 </tr>
+	
 <tr>
-<td style="text-align: center; width: 136.391px;"><strong>SH PE &amp; CCA</strong></td>
-<td style="width: 207.25px;"><strong>Mr Tan Kok Kwang</strong></td>
-<td style="width: 321.359px;">tan_kok_kwang_a@moe.edu.sg</td>
+<td style="text-align: center; width: 136.391px; font-size:15px;"><strong>SH PE &amp; CCA</strong></td>
+<td style="width: 207.25px; font-size:15px;"><strong>Mr Tan Kok Kwang</strong></td>
+<td style="width: 321.359px; font-size:15px;">tan_kok_kwang_a@moe.edu.sg</td>
 </tr>
+	
 <tr>
-<td style="text-align: center; width: 136.391px;"><strong>SH Geography</strong></td>
+<td style="text-align: center; width: 136.391px; font-size:15px;"><strong>SH Geography</strong></td>
 <td style="width: 207.25px;"><strong>Mrs Erin Wong</strong></td>
-<td style="width: 321.359px;">tan_chor_yin_erin@moe.edu.sg</td>
+<td style="width: 321.359px; font-size:15px;">tan_chor_yin_erin@moe.edu.sg</td>
 </tr>
+	
 <tr>
-<td style="text-align: center; width: 136.391px;"><strong>SH InfoComm Technology</strong></td>
-<td style="width: 207.25px;"><strong>Mr Toh Wee Teck</strong></td>
-<td style="width: 321.359px;">toh_wee_teck@moe.edu.sg</td>
+<td style="text-align: center; width: 136.391px; font-size:15px;"><strong>SH InfoComm Technology</strong></td>
+<td style="width: 207.25px; font-size:15px;"><strong>Mr Toh Wee Teck</strong></td>
+<td style="width: 321.359px; font-size:15px;">toh_wee_teck@moe.edu.sg</td>
 </tr>
+	
 <tr>
-<td style="text-align: center; width: 136.391px;"><strong>SH Student Well-Being</strong></td>
-<td style="width: 207.25px;"><strong>Mr Yang Chao Kai Victor</strong></td>
-<td style="width: 321.359px;">yang_chao_kai_victor@moe.edu.sg</td>
+<td style="text-align: center; width: 136.391px; font-size:15px;"><strong>SH Student Well-Being</strong></td>
+<td style="width: 207.25px; font-size:15px;"><strong>Mr Yang Chao Kai Victor</strong></td>
+<td style="width: 321.359px;font-size:15px;">yang_chao_kai_victor@moe.edu.sg</td>
 </tr>
+	
 <tr>
-<td style="text-align: center; width: 136.391px;"><strong>SH Data Management</strong></td>
-<td style="width: 207.25px;"><strong>Mdm Shalini Tashnamurthi</strong></td>
-<td style="width: 321.359px;">shalini_tashnamurthi@moe.edu.sg</td>
+<td style="text-align: center; width: 136.391px; font-size:15px;"><strong>SH Data Management</strong></td>
+<td style="width: 207.25px; font-size:15px;"><strong>Mdm Shalini Tashnamurthi</strong></td>
+<td style="width: 321.359px; font-size:15px;">shalini_tashnamurthi@moe.edu.sg</td>
 </tr>
+	
 <tr>
-<td style="text-align: center; width: 136.391px;"><strong>SH Character &amp;<br />Citizenship Education</strong></td>
-<td style="width: 207.25px;"><strong>Mdm Oh Shu Ying Serene</strong></td>
-<td style="width: 321.359px;">oh_shu_ying_serene@moe.edu.sg</td>
+<td style="text-align: center; width: 136.391px; font-size:15px;"><strong>SH Character &amp;<br>Citizenship Education</strong></td>
+<td style="width: 207.25px; font-size:15px;"><strong>Mdm Oh Shu Ying Serene</strong></td>
+<td style="width: 321.359px; font-size:15px;">oh_shu_ying_serene@moe.edu.sg</td>
 </tr>
-<tr>
-<td style="text-align: center; width: 136.391px;">
-<p><strong>SH Innovation &amp; Talent Development</strong></p>
-</td>
-<td style="width: 207.25px;"><strong>Mrs Jaslyn Ang</strong></td>
-<td style="width: 321.359px;">chan_huaihui_jaslyn@moe.edu.sg</td>
-</tr>
+	
 <tr>
 <td style="text-align: center; width: 136.391px;">
-<p><strong>SH Science (Lower Sec)</strong></p>
+<p style="font-size:15px;"><strong>SH Innovation &amp; Talent Development</strong></p>
 </td>
-<td style="width: 207.25px;"><strong>Ms Shirlyn Sim</strong></td>
-<td style="width: 321.359px;">shirlyn_sim@moe.edu.sg</td>
+<td style="width: 207.25px; font-size:15px;"><strong>Mrs Jaslyn Ang</strong></td>
+<td style="width: 321.359px; font-size:15px;">chan_huaihui_jaslyn@moe.edu.sg</td>
 </tr>
+	
 <tr>
-<td style="text-align: center; width: 136.391px;"><strong>Lead Teacher/<br />Malay Language</strong></td>
-<td style="width: 207.25px;"><strong>Mdm Rositah Binte Yusof</strong></td>
-<td style="width: 321.359px;">rositah_yusof@moe.edu.sg</td>
+<td style="text-align: center; width: 136.391px; font-size:15px;">
+<p style="font-size:15px;"><strong>SH Science (Lower Sec)</strong></p>
+</td>
+<td style="width: 207.25px; font-size:15px;"><strong>Ms Shirlyn Sim</strong></td>
+<td style="width: 321.359px; font-size:15px;">shirlyn_sim@moe.edu.sg</td>
 </tr>
+	
 <tr>
+<td style="text-align: center; width: 136.391px; font-size:15px;"><strong>Lead Teacher/<br>Malay Language</strong></td>
+<td style="width: 207.25px; font-size:15px;"><strong>Mdm Rositah Binte Yusof</strong></td>
+<td style="width: 321.359px; font-size:15px;">rositah_yusof@moe.edu.sg</td>
+</tr>
+	
+<tr style="font-size:15px;">
 <td style="text-align: center; width: 136.391px;"><strong>Lead Teacher / Special Educational Needs</strong></td>
 <td style="width: 207.25px;"><strong>Mr Tan Aik Fong</strong></td>
 <td style="width: 321.359px;">tan_aik_fong@moe.edu.sg</td>
 </tr>
+	
 <tr>
 <td style="text-align: center; width: 136.391px;"><strong>Administration Manager</strong></td>
 <td style="width: 207.25px;"><strong>Ms Ong Ee Wen Engratia</strong></td>
@@ -190,7 +210,7 @@ description: ""
 </tr>
 <tr>
 <td style="text-align: center; width: 136.391px;"><strong>Operations Manager</strong></td>
-<td style="width: 207.25px;"><strong>Mr D&rsquo;cruz Terrence<br />Dominic Joseph</strong></td>
+<td style="width: 207.25px;"><strong>Mr D’cruz Terrence<br>Dominic Joseph</strong></td>
 <td style="width: 321.359px;">dcruz_terrence_dominic_joseph@moe.edu.sg</td>
 </tr>
 <tr>
@@ -202,7 +222,7 @@ description: ""
 </table>
 </div>
 </li>
-<li><input id="accordion2" type="checkbox" /> <label for="accordion2">Secondary 1 Classes 2022</label>
+<li><input type="checkbox" id="accordion2"> <label for="accordion2">Secondary 1 Classes 2022</label>
 <div>
 <table border="1">
 <tbody>
@@ -327,7 +347,7 @@ description: ""
 </table>
 </div>
 </li>
-<li><input id="accordion3" type="checkbox" /> <label for="accordion3">Secondary 2 Classes 2022</label>
+<li><input type="checkbox" id="accordion3"> <label for="accordion3">Secondary 2 Classes 2022</label>
 <div>
 <table border="1">
 <tbody>
@@ -463,7 +483,7 @@ description: ""
 </table>
 </div>
 </li>
-<li><input id="accordion4" type="checkbox" /> <label for="accordion4">Secondary 3 Classes 2022</label>
+<li><input type="checkbox" id="accordion4"> <label for="accordion4">Secondary 3 Classes 2022</label>
 <div>
 <table border="1">
 <tbody>
@@ -584,9 +604,9 @@ description: ""
 </table>
 </div>
 </li>
-<li><input id="accordion5" type="checkbox" /> <label for="accordion5">Secondary 4/5 Classes 2022</label>
+<li><input type="checkbox" id="accordion5"> <label for="accordion5">Secondary 4/5 Classes 2022</label>
 <div>
-<table style="height: 858px;" border="1">
+<table border="1" style="height: 858px;">
 <tbody>
 <tr style="height: 18px;">
 <td style="height: 18px; width: 123px;">
