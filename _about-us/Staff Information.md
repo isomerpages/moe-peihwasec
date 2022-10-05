@@ -22,9 +22,9 @@ description: ""
 		<td style="border: 1px solid #dddfe1;"></td>
 </tr>
 	
-<tr style="font-size:15px; text-align:center;">
+<tr style="text-align:center; font-size:15px;">
 <td style="border: 1px solid #dddfe1;">
-<strong>Vice-Principad</strong>
+<strong>Vice-Principal</strong>
 </td>
 <td style="border: 1px solid #dddfe1;"><strong>Mr Tan Cher Hui Philip</strong></td>
 	<td style="border: 1px solid #dddfe1;"></td>
