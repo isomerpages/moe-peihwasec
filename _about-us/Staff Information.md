@@ -24,7 +24,7 @@ description: ""
 	
 <tr style="font-size:15px; text-align:center;">
 <td style="border: 1px solid #dddfe1;">
-<strong>Vice-Principal</strong>
+<strong>Vice-Principald</strong>
 </td>
 <td style="border: 1px solid #dddfe1;"><strong>Mr Tan Cher Hui Philip</strong></td>
 	<td style="border: 1px solid #dddfe1;"></td>
