@@ -6,7 +6,7 @@ description: ""
 <ul class="jekyllcodex_accordion">
 <li><input type="checkbox" id="accordion1"> <label for="accordion1">School Leaders and Key Personnel</label>
 <div>
-<table border="1" style="border-collapse: collapse;">
+<table border="1">
 	<thead style="background-color: #54585d; font-weight: bold; font-size: 16px; border: 1px solid #54585d;">
 		<tr style="text-align:center;">
 			<td style="color:white">Designation</td>
@@ -14,7 +14,7 @@ description: ""
 			<td style="color:white">Email</td>
 		</tr>
 	</thead>
-	<tbody style="font-size:15px;">
+	<tbody style="text-align:center; font-size:15px;">
 		<tr>
 		<td style="border: 1px solid #dddfe1;"><strong>Principal</strong>
 		</td>
@@ -22,9 +22,9 @@ description: ""
 		<td style="border: 1px solid #dddfe1;"></td>
 </tr>
 	
-<tr style="text-align:center; font-size:15px;">
+<tr style="font-size:15px; text-align:center;">
 <td style="border: 1px solid #dddfe1;">
-<strong>Vice-Principal</strong>
+<strong>Vice-Principald</strong>
 </td>
 <td style="border: 1px solid #dddfe1;"><strong>Mr Tan Cher Hui Philip</strong></td>
 	<td style="border: 1px solid #dddfe1;"></td>
