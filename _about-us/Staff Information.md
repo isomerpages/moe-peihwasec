@@ -6,87 +6,86 @@ description: ""
 <ul class="jekyllcodex_accordion">
 <li><input type="checkbox" id="accordion1"> <label for="accordion1">School Leaders and Key Personnel</label>
 <div>
-<table border="1" style="border-collapse: collapse; border: 1px solid #dddfe1;">
+<table border="1" style="border-collapse: collapse; text-align:center;">
 	<thead style="background-color: #54585d; font-weight: bold; font-size: 16px; border: 1px solid #54585d;">
-		<tr>
+		<tr style="text-align:center;">
 			<td style="color:white">Designation</td>
 			<td style="color:white">Name</td>
 			<td style="color:white">Email</td>
 		</tr>
 	</thead>
-	<tbody>
-		<tr style="font-size:15px;">
-		<td style="text-align: center; border: 1px solid #dddfe1;"><strong>Principal</strong>
+	<tbody style="font-size:15px;">
+		<tr>
+		<td style="border: 1px solid #dddfe1;"><strong>Principal</strong>
 		</td>
-		<td style="text-align: center;border: 1px solid #dddfe1;"><strong>Mr Mohd Azhar B Terimo</strong></td>
+		<td style="border: 1px solid #dddfe1;"><strong>Mr Mohd Azhar B Terimo</strong></td>
 		<td style="border: 1px solid #dddfe1;"></td>
 </tr>
 	
-<tr style="font-size:15px;">
-<td style="text-align: center;border: 1px solid #dddfe1;">
+<tr style="font-size:15px; text-align:center;">
+<td style="border: 1px solid #dddfe1;">
 <strong>Vice-Principal</strong>
 </td>
-<td style="text-align: center;border: 1px solid #dddfe1;"><strong>Mr Tan Cher Hui Philip</strong></td>
+<td style="border: 1px solid #dddfe1;"><strong>Mr Tan Cher Hui Philip</strong></td>
 	<td style="border: 1px solid #dddfe1;"></td>
 </tr>
 	
-<tr style="font-size:15px;">
-<td style="text-align: center; border: 1px solid #dddfe1;">
+<tr style="font-size:15px; text-align:center;">
+<td style="border: 1px solid #dddfe1;">
 <strong>Vice-Principal</strong>
 </td>
-<td style="text-align: center;border: 1px solid #dddfe1;"><strong>Mrs Michelle Willman</strong></td>
+<td style="border: 1px solid #dddfe1;"><strong>Mrs Michelle Willman</strong></td>
 	<td style="border: 1px solid #dddfe1;"></td>
 </tr>
 	
-<tr style="font-size:15px;">
-<td style="text-align: center; border: 1px solid #dddfe1;">
+<tr style="font-size:15px; text-align:center;">
+<td style="border: 1px solid #dddfe1;">
 <strong>HOD InfoComm Technology</strong>
 </td>
-<td style="text-align: center;border: 1px solid #dddfe1;"><strong>Mr Lim Thai Wee&nbsp;David</strong></td>
-<td style="text-align: center;border: 1px solid #dddfe1;">lim_thai_wee_david@moe.edu.sg</td>
+<td style="border: 1px solid #dddfe1;"><strong>Mr Lim Thai Wee&nbsp;David</strong></td>
+<td style="border: 1px solid #dddfe1;">lim_thai_wee_david@moe.edu.sg</td>
 </tr>
 	
-<tr style="font-size:15px;">
-<td style="text-align: center; border: 1px solid #dddfe1;">
+<tr style="font-size:15px; text-align:center;">
+<td style="border: 1px solid #dddfe1;">
 <strong>HOD PE &amp; CCA</strong>
 </td>
 <td style="border: 1px solid #dddfe1;"><strong>Mr Liew Yee Hoong Adam</strong></td>
 <td style="border: 1px solid #dddfe1;">liew_yee_hoong_adam@moe.edu.sg</td>
 </tr>
 	
-<tr style="font-size:15px;">
-<td style="text-align: center; width: 136.391px;">
-<strong>HOD Mathematics</strong>
-</td>
-<td style="width: 207.25px;"><strong>Mdm Yang Ser Yee</strong></td>
-<td style="width: 321.359px;">yang_ser_yee@moe.edu.sg</td>
+<tr style="font-size:15px; text-align:center;">
+	<td style="border: 1px solid #dddfe1;"><strong>HOD Mathematics</strong>
+	</td>
+	<td style="border: 1px solid #dddfe1;"><strong>Mdm Yang Ser Yee</strong></td>
+<td style="border: 1px solid #dddfe1;">yang_ser_yee@moe.edu.sg</td>
 </tr>
 	
-<tr style="font-size:15px;">
-<td style="text-align: center; width: 136.391px;">
+<tr style="font-size:15px; text-align:center;">
+<td style="border: 1px solid #dddfe1;">
 <strong>HOD Science</strong>
 </td>
-<td style="width: 207.25px;"><strong>Ms Teo Sing Yee</strong></td>
-<td style="width: 321.359px;">teo_sing_yee@moe.edu.sg</td>
+<td style="border: 1px solid #dddfe1;"><strong>Ms Teo Sing Yee</strong></td>
+<td style="border: 1px solid #dddfe1;">teo_sing_yee@moe.edu.sg</td>
 </tr>
 	
-<tr style="font-size:15px;">
-<td style="text-align: center; width: 136.391px;">
+<tr style="font-size:15px; text-align:center;">
+<td style="border: 1px solid #dddfe1;">
 <strong>HOD&nbsp;Character &amp; Citizenship Education</strong>
 </td>
-<td style="width: 207.25px; "><strong>Ms Wong Wei Nee</strong></td>
-<td style="width: 321.359px;">wong_wei_nee@moe.edu.sg</td>
+<td style="border: 1px solid #dddfe1;"><strong>Ms Wong Wei Nee</strong></td>
+<td style="border: 1px solid #dddfe1;">wong_wei_nee@moe.edu.sg</td>
 </tr>
 	
-<tr style="font-size:15px;">
-<td style="text-align: center; width: 136.391px;">
+<tr style="font-size:15px; text-align:center;">
+<td style="border: 1px solid #dddfe1;">
 <strong>HOD Student Management</strong>
 </td>
-<td style="width: 207.25px;"><strong>Mr Raghuraman Katherayson</strong></td>
-<td style="width: 321.359px;">raghuraman_katherayson@moe.edu.sg</td>
+<td style="border: 1px solid #dddfe1;"><strong>Mr Raghuraman Katherayson</strong></td>
+<td style="border: 1px solid #dddfe1;">raghuraman_katherayson@moe.edu.sg</td>
 </tr>
 	
-<tr style="font-size:15px;">
+<tr style="font-size:15px; text-align:center;">
 <td style="text-align: center; width: 136.391px;">
 <strong>HOD Mother Tongue</strong>
 </td>
@@ -227,7 +226,7 @@ lee_wei_ying@moe.edu.sg
 <li><input type="checkbox" id="accordion2"> <label for="accordion2">Secondary 1 Classes 2022</label>
 <div>
 <table border="1">
-<tbody>
+<tbody style="font-size:15px;">
 <tr>
 <td style="width: 103px;">
 <p><strong>Class</strong></p>
