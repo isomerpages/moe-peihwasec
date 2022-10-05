@@ -14,7 +14,7 @@ description: ""
 			<td style="color:white">Email</td>
 		</tr>
 	</thead>
-	<tbody style="text-align: center; font-size:15px;">
+	<tbody style="font-size:15px;">
 		<tr>
 		<td style="border: 1px solid #dddfe1;"><strong>Principal</strong>
 		</td>
@@ -24,7 +24,7 @@ description: ""
 	
 <tr style="font-size:15px; text-align:center;">
 <td style="border: 1px solid #dddfe1;">
-<strong>Vice-Principald</strong>
+<strong>Vice-Principad</strong>
 </td>
 <td style="border: 1px solid #dddfe1;"><strong>Mr Tan Cher Hui Philip</strong></td>
 	<td style="border: 1px solid #dddfe1;"></td>
