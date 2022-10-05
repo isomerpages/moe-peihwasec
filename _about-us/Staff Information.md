@@ -302,7 +302,7 @@ zhong_qian@moe.edu.sg
 <td style="text-align:center; border: 1px solid #dddfe1;">
 <strong>Passion 5</strong>
 </td>
-<td style="width: 271px;">
+<td style="text-align:center; border: 1px solid #dddfe1;">
 <strong>Mdm Rasyidah Binte Ramli</strong><br>
 <strong>Mr Liew Zhen Hong Joey</strong>
 </td>
