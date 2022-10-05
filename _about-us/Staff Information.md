@@ -6,9 +6,9 @@ description: ""
 <ul class="jekyllcodex_accordion">
 <li><input type="checkbox" id="accordion1"> <label for="accordion1">School Leaders and Key Personnel</label>
 <div>
-<table border="1" style="text-align:center;">
+<table border="1">
 	<thead style="background-color: #54585d; font-weight: bold; font-size: 16px; border: 1px solid #54585d; ">
-		<tr>
+		<tr style="text-align:center;">
 			<td style="color:white;">Designation</td>
 			<td style="color:white;">Name</td>
 			<td style="color:white;">Email</td>
@@ -162,9 +162,9 @@ lee_wei_ying@moe.edu.sg
 </tr>
 	
 <tr style="font-size:15px;">
-<td style="text-align: center; width: 136.391px;"><strong>SH Data Management</strong></td>
-<td style="width: 207.25px;"><strong>Mdm Shalini Tashnamurthi</strong></td>
-<td style="width: 321.359px;">shalini_tashnamurthi@moe.edu.sg</td>
+<td style="text-align:center; border: 1px solid #dddfe1;"><strong>SH Data Management</strong></td>
+<td style="text-align:center; border: 1px solid #dddfe1;"><strong>Mdm Shalini Tashnamurthi</strong></td>
+<td style="text-align:center; border: 1px solid #dddfe1;">shalini_tashnamurthi@moe.edu.sg</td>
 </tr>
 	
 <tr style="font-size:15px;">
