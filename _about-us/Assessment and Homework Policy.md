@@ -43,7 +43,7 @@ description: ""
 </td>
 <td style="padding: 12px 15px;color: #ffffff;">
 <strong>Term 4</strong>
-</td
+	</td>
 </tr>
 </thead>
 	
