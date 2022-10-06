@@ -235,8 +235,8 @@ lee_wei_ying@moe.edu.sg
 <table style="width:100%" border="1">
 <thead style="background-color: #54585d; font-weight: bold; font-size: 16px; border: 1px solid #54585d;">
 		<tr>
-			<td style="text-align:center;color:white; width:30%;">Class</td>
-			<td style="text-align:center; color:white;width:30%;">Name of Form Teacher</td>
+			<td style="text-align:center;color:white; width:20%;">Class</td>
+			<td style="text-align:center; color:white;width:40%;">Name of Form Teacher</td>
 			<td style="text-align:center; color:white;width:40%;">Email</td>
 		</tr>
 	</thead>
@@ -363,8 +363,8 @@ wong_ser_ching@moe.edu.sg
 <table style="width:100%" border="1">
 <thead style="background-color: #54585d; font-weight: bold; font-size: 16px; border: 1px solid #54585d;">
 		<tr>
-			<td style="text-align:center;color:white; width:30%;">Class</td>
-			<td style="text-align:center; color:white;width:30%;">Name of Form Teacher</td>
+			<td style="text-align:center;color:white; width:20%;">Class</td>
+			<td style="text-align:center; color:white;width:40%;">Name of Form Teacher</td>
 			<td style="text-align:center; color:white;width:40%;">Email</td>
 		</tr>
 	</thead>
@@ -459,7 +459,7 @@ jovitta_christopher_pereira@moe.edu.sg
 </td>
 <td style="text-align:center; border: 1px solid #dddfe1;">
 	<strong>Mdm Halimah Binte Mohamed Harris</strong><br>
-	Miss Koh Tin Suen Jewel
+<strong>Miss Koh Tin Suen Jewel</strong>
 </td>
 <td style="text-align:center; border: 1px solid #dddfe1;">
 halimah_mohamed_harris@moe.edu.sg<br>
@@ -505,8 +505,8 @@ chen_pei_shi@moe.edu.sg
 <thead style="background-color: #54585d; font-weight: bold; font-size: 16px; border: 1px solid #54585d; ">
 
 <tr>
-<td style="text-align:center;color:white; width:30%;">Designation</td>
-<td style="text-align:center; color:white;width:30%;">Name</td>
+<td style="text-align:center;color:white; width:20%;">Designation</td>
+<td style="text-align:center; color:white;width:40%;">Name</td>
 <td style="text-align:center; color:white;width:40%;">Email</td>
 </tr>
 </thead>
@@ -601,7 +601,7 @@ kenneth_yeo_wei_qiang@moe.edu.sg
 <td style="text-align:center; border: 1px solid #dddfe1;">
 <strong>Integrity 7</strong>
 </td>
-<td style="width: 232px;">
+<td style="text-align:center; border: 1px solid #dddfe1;">
 <strong>Mdm Nordiana Bte Abbas</strong><br>
 <strong>Mr Yang Chuanzhi</strong>
 </td>
