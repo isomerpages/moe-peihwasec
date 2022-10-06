@@ -56,22 +56,22 @@ third_nav_title: Clubs & Societies
 		</ul>
 		<br> 
 		<strong>Digital Music Carnival 2 Competition (organised by Elchemi Education)</strong>
-		<ul style="font-size:15px;">
-			<li> Gold Award</li>
+		<ul>
+			<li style="font-size:15px;"> Gold Award</li>
 		</ul>
 	</td>
 </tr>
 		
 <tr style="border-bottom: 2px solid #009879; font-size:15px;">
 <td style="padding: 12px 15px;"><strong>2010</strong></td>
-	<td style="padding: 12px 15px"><strong>NorthZone ICT Competition (Comics)</strong>
+	<td style="padding: 12px 15px; font-size:15px;"><strong>NorthZone ICT Competition (Comics)</strong>
 		<br>
 		<ul>
-			<li> 1st Place (Secondary Category)</li>
+			<li style="font-size:15px;"> 1st Place (Secondary Category)</li>
 		</ul>
 		<br>
 		Digital Music Carnival(organised by Elchemi Education)<ul>
-		<li> Gold Award (Avante Garde Category)</li>
+		<li style="font-size:15px;"> Gold Award (Avante Garde Category)</li>
 		</ul>
 	</td>
 </tr>
