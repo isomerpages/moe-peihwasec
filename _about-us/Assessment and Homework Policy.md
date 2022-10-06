@@ -30,156 +30,126 @@ description: ""
 	
 <thead style="background-color: #009879; font-weight: bold; font-size: 16px;">
 		<tr>
-			<td style="text-align:left;color:white;padding:12px 15px">&nbsp;</td>
-			<td style="text-align:left;color:white;padding:12px 15px">Term 1</td>
-			<td style="text-align:left;color:white;padding:12px 15px">Term 2</td>
-			<td style="text-align:left;color:white;padding:12px 15px">Term 3</td>
+			<td style="text-align:left;color:white;padding:12px 15px;">&nbsp;</td>
+			<td style="text-align:left;color:white;padding:12px 15px;">Term 1</td>
+			<td style="text-align:left;color:white;padding:12px 15px;">Term 2</td>
+			<td style="text-align:left;color:white;padding:12px 15px;">Term 3</td>
 			<td style="text-align:left;color:white;padding:12px 15px">Term 4</td>
 		</tr>
 	</thead>
 
 	
 <tbody>
-<tr  style="border-bottom: 1px solid #dddddd;">
-<td style="padding: 12px 15px">
-<strong>Sec 1</strong>
-</td>
-<td style="padding: 12px 15px">
-WA: 15%
-</td>
-<td style="padding: 12px 15px">
-WA: 15%
-</td>
-<td style="padding: 12px 15px">
-WA: 15%
-</td>
-<td style="padding: 12px 15px">
-EOY: 55%
-</td>
+<tr style="border-bottom: 1px solid #dddddd;">
+<td style="padding: 12px 15px;"><strong>Sec 1</strong></td>
+<td style="padding: 12px 15px;">WA: 15%</td>
+<td style="padding: 12px 15px;">WA: 15%</td>
+<td style="padding: 12px 15px;">WA: 15%</td>
+<td style="padding: 12px 15px;">EOY: 55%</td>
 </tr>
 	
-<tr style ="background-color: #f3f3f3;">
-<td style="padding: 12px 15px">
-<strong>Sec 2</strong>
-</td>
-<td style="padding: 12px 15px">
-WA: 15%
-</td>
-<td style="padding:">
-WA: 15%
-</td>
-<td style="padding: 12px 15px">
-WA: 15%
-</td>
-<td style="padding: 12px 15px">
-EOY: 55%
-</td>
+<tr style ="background-color: #f3f3f3;border-bottom: 1px solid #dddddd;">
+<td style="padding: 12px 15px;"><strong>Sec 2</strong></td>
+<td style="padding: 12px 15px;">WA: 15%</td>
+<td style="padding: 12px 15px;">WA: 15%</td>
+<td style="padding: 12px 15px;">WA: 15%</td>
+<td style="padding: 12px 15px;">EOY: 55%</td>
 </tr>
 															
 <tr style="border-bottom: 1px solid #dddddd;">
-<td>
-<strong>Sec 3</strong>
-</td>
-<td style="padding: 12px 15px">
-WA: 15%
-</td>
-<td style="padding: 12px 15px">
-WA: 15%
-</td>
-<td style="padding: 12px 15px">
-WA: 15:%
-</td>
-<td style="padding: 12px 15px">
-EOY: 55%
-</td>
+<td style="padding: 12px 15px;"><strong>Sec 3</strong></td>
+<td style="padding: 12px 15px">WA: 15%</td>
+<td style="padding: 12px 15px">WA: 15%</td>
+<td style="padding: 12px 15px">WA: 15:%</td>
+<td style="padding: 12px 15px">EOY: 55%</td>
 </tr>
 															
 <tr style="border-bottom: 2px solid #009879;     background-color: #f3f3f3;">
-<td>
-<strong>Sec 4</strong>
-</td>
-<td style="padding: 12px 15px">
-WA: 10%
-</td>
-<td style="padding: 12px 15px">
-MYE: 20%
-</td>
-<td style="padding: 12px 15px">
-Prelim: 70%
-</td>
+<td style="padding: 12px 15px;"><strong>Sec 4</strong></td>
+<td style="padding: 12px 15px">WA: 10%</td>
+<td style="padding: 12px 15px">MYE: 20%</td>
+<td style="padding: 12px 15px">Prelim: 70%</td>
 <td style="padding: 12px 15px">&nbsp;</td>
 </tr>
+	
 </tbody>
 </table>
 </div>
 
 <p><strong>Removal of Mid-Year Examination (MYE) for Sec 1, 2 and 3</strong></p>
-<p>With the removal of Mid-Year Examinations for Sec 1, 2 and 3, the school will continue with the current practice of gathering information about students’ learning through checkpoints such as class assignments, mini quizzes, presentations&nbsp;and weighted assessments. Whilst only the weighted assessment counts towards the overall result, all other forms of assessment and learning are still crucial in helping our students develop the necessary knowledge and skills for the various subjects.</p>
+
+<p style="font-size:15px;">With the removal of Mid-Year Examinations for Sec 1, 2 and 3, the school will continue with the current practice of gathering information about students’ learning through checkpoints such as class assignments, mini quizzes, presentations&nbsp;and weighted assessments. Whilst only the weighted assessment counts towards the overall result, all other forms of assessment and learning are still crucial in helping our students develop the necessary knowledge and skills for the various subjects.</p>
+
 <p><strong>Assessment Regulations&nbsp;</strong></p>
-<p><strong>(Applicable to all weighted assessments including examinations)&nbsp;</strong></p>
-<p>In the event of absence from any assessment due to urgent family or medical reasons, official documentation such as medical certificates from recognised medical practitioners (i.e government medical officers or those registered under the Medical Registration Act) must be presented upon return. Medical certificates issued by doctors who are currently not registered under the Medical Registration Act will not be accepted.&nbsp;</p>
-<p>Students who are absent will be given the assessment as practice but the mark obtained will not be included in the overall mark computation.</p>
-<p>A medical certificate or a copy of the death certificate has to be given to the form teacher when the student returns to school. All other reasons are to be considered on a case-by-case basis subject to the school’s approval.</p>
-<p>For students who are absent for a weighted assessment with no valid reason, they will be given a zero mark for that assessment and this assessment mark will be included in the computation of the subject and overall total.&nbsp;</p>
-<p>For other detailed examination regulations, please refer to page 20 of the student handbook.</p>
-<h4><span style="text-decoration: underline;"><strong>HOMEWORK POLICY 2022</strong></span></h4>
-<p>Homework is work that is set to be done outside the time-tabled curriculum. Pei Hwa Secondary School believes that&nbsp;reasonable amounts of academic effort outside the class can enhance student learning,&nbsp;improve achievement&nbsp;and&nbsp;develop students’ study skills. Homework provides an opportunity for students to revisit the concepts or skills taught during lessons.&nbsp;</p>
-<p>Homework refers to any task which students are required to carry out for a subject outside of time-tabled curriculum time, regardless of the mode of delivery. This includes projects or research work, but not revision of school work or studying for tests and examinations.</p>
+
+<p style="font-size:15px;"><strong>(Applicable to all weighted assessments including examinations)&nbsp;</strong></p>
+
+<p style="font-size:15px;">In the event of absence from any assessment due to urgent family or medical reasons, official documentation such as medical certificates from recognised medical practitioners (i.e government medical officers or those registered under the Medical Registration Act) must be presented upon return. Medical certificates issued by doctors who are currently not registered under the Medical Registration Act will not be accepted.&nbsp;</p>
+
+<p style="font-size:15px;">Students who are absent will be given the assessment as practice but the mark obtained will not be included in the overall mark computation.</p>
+
+<p style="font-size:15px;">A medical certificate or a copy of the death certificate has to be given to the form teacher when the student returns to school. All other reasons are to be considered on a case-by-case basis subject to the school’s approval.</p>
+
+<p style="font-size:15px;">For students who are absent for a weighted assessment with no valid reason, they will be given a zero mark for that assessment and this assessment mark will be included in the computation of the subject and overall total.&nbsp;</p>
+
+<p style="font-size:15px;">For other detailed examination regulations, please refer to page 20 of the student handbook.</p>
+
+<h4><strong><u>HOMEWORK POLICY 2022</strong></u></h4>
+
+<p style="font-size:15px;">Homework is work that is set to be done outside the time-tabled curriculum. Pei Hwa Secondary School believes that&nbsp;reasonable amounts of academic effort outside the class can enhance student learning,&nbsp;improve achievement&nbsp;and&nbsp;develop students’ study skills. Homework provides an opportunity for students to revisit the concepts or skills taught during lessons.&nbsp;</p>
+
+<p style="font-size:15px;">Homework refers to any task which students are required to carry out for a subject outside of time-tabled curriculum time, regardless of the mode of delivery. This includes projects or research work, but not revision of school work or studying for tests and examinations.</p>
+
 <p><strong>Suggested Homework Duration</strong></p>
-<p>Suggested homework maximum average duration per day (including weekends):</p>
-<div>
-<table>
+
+<p style="font-size:15px;">Suggested homework maximum average duration per day (including weekends):</p>
+
+<table border="1" style="border-collapse: collapse;margin: 25px 0;font-size: 0.9em;font-family: sans-serif;min-width: 400px; box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);">
+
 <tbody>
-<tr>
-<td>Lower Secondary&nbsp;– 2&nbsp;hours</td>
+<tr style="border-bottom: 1px solid #dddddd;">
+<td style="padding: 12px 15px;">Lower Secondary&nbsp;– 2&nbsp;hours</td>
 </tr>
-<tr>
-<td>Upper Secondary&nbsp;– 2½ hours</td>
+															
+<tr style="border-bottom: 1px solid #dddddd; ">
+<td style="padding: 12px 15px;">Upper Secondary&nbsp;– 2½ hours</td>
 </tr>
+	
 </tbody>
 </table>
-</div>
+
+	
 <p><strong>Other Guidelines on Homework</strong></p>
-<ol>
+<ol style="font-size:15px;">
 <li aria-level="1">During the school holidays:
-<div>
-<table border="1">
+
+<table border="1" style="border-collapse: collapse;margin: 25px 0;font-size: 0.9em;font-family: sans-serif;min-width: 400px; box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);">
+	
 <tbody>
-<tr>
-<td>
-<p>March Holidays&nbsp;</p>
-</td>
-<td>
-<p>9 hours for Sec 1 and 2<br>12 hours for Sec 3, 4 and 5</p>
-</td>
+<tr style="border-bottom: 1px solid #dddddd;">
+<td style="padding: 12px 15px;"><strong>March Holidays</strong></td>
+<td style="padding: 12px 15px;">9 hours for Sec 1 and 2 <br>12 hours for Sec 3, 4 and 5</td>
 </tr>
-<tr>
-<td>
-<p>June Holidays&nbsp;</p>
-</td>
-<td>
-<p>18 hours for Sec 1 and 2<br>24 hours for Sec 3, 4 and 5</p>
-</td>
+	
+<tr style="border-bottom: 1px solid #dddddd;">
+<td style="padding: 12px 15px;"><strong>June Holidays</strong></td>
+<td style="padding: 12px 15px;">18 hours for Sec 1 and 2 <br>24 hours for Sec 3, 4 and 5</td>
 </tr>
-<tr>
-<td>
-<p>September Holidays&nbsp;</p>
-</td>
-<td>
-<p>9 hours for Sec 1 and 2<br>12 hours for Sec 3, 4 and 5</p>
-</td>
+	
+<tr style="border-bottom: 1px solid #dddddd;">
+<td style="padding: 12px 15px;"><strong>September Holidays</strong></td>
+<td style="padding: 12px 15px;">9 hours for Sec 1 and 2 <br>12 hours for Sec 3, 4 and 5</td>
 </tr>
-<tr>
-<td>
-<p>Year-End Holidays</p>
-</td>
-<td>
-<p>18 hours for Sec 1 and 2<br>24 hours for Sec 3, 4 and 5</p>
-</td>
+
+<tr style="border-bottom: 1px solid #dddddd;">
+<td style="padding: 12px 15px;"><strong>Year-End Holidays</strong></td>
+<td style="padding: 12px 15px;">18 hours for Sec 1 and 2 <br>24 hours for Sec 3, 4 and 5</td>
 </tr>
+	
 </tbody>
 </table>
 </div>
+
 </li>
 <li>Homework assignments will not be given over festive periods during term time, e.g. Chinese New Year, Deepavali and Hari Raya Puasa.</li>
 <li>Teachers are mindful that students will not be overloaded with homework and practice papers in the week before Semester Assessments. Students are to use the time to revise for their subjects.</li>
