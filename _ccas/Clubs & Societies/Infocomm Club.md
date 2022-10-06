@@ -36,8 +36,8 @@ third_nav_title: Clubs & Societies
 	
 <tbody>
 <tr style="border-bottom: 1px solid #dddddd;">
-<td style="padding: 12px 15px;"><strong>2012</strong></td>
-	<td style="padding: 12px 15px; font-size:15px;"><strong>National Infocomm Club Awards</strong>
+<td style="padding: 12px 10px;"><strong>2012</strong></td>
+	<td style="padding: 12px 10px; font-size:15px;"><strong>National Infocomm Club Awards</strong>
 		<br>
 		<ul>
 			<li style="font-size:15px;">The Choice Award</li>
@@ -46,8 +46,8 @@ third_nav_title: Clubs & Societies
 </tr>
 															
 <tr style=" background-color: #f3f3f3;">
-<td style="padding: 12px 15px;font-size:15px;"><strong>2011</strong></td>
-	<td style="padding: 12px 15px;font-size:15px;"><strong>North Zone Comic Life Competition</strong>
+<td style="padding: 12px 10px;font-size:15px;"><strong>2011</strong></td>
+	<td style="padding: 12px 10px;font-size:15px;"><strong>North Zone Comic Life Competition</strong>
 		<br>
 		<ul style="font-size:15px;"> 
 			<li style="font-size:15px;"> 1st Position (Lee Jia Jing)</li>
@@ -63,8 +63,8 @@ third_nav_title: Clubs & Societies
 </tr>
 		
 <tr style="border-bottom: 2px solid #009879; font-size:15px;">
-<td style="padding: 12px 15px;"><strong>2010</strong></td>
-	<td style="padding: 12px 15px; font-size:15px;"><strong>NorthZone ICT Competition (Comics)</strong>
+<td style="padding: 12px 10px;"><strong>2010</strong></td>
+	<td style="padding: 12px 10px; font-size:15px;"><strong>NorthZone ICT Competition (Comics)</strong>
 		<br>
 		<ul>
 			<li style="font-size:15px;"> 1st Place (Secondary Category)</li>
