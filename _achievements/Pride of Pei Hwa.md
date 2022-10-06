@@ -4,10 +4,13 @@ permalink: /news-media/pride-of-pei-hwa/
 description: ""
 ---
 <p><strong>Graduates of Republic Polytechnic 2020</strong></p>
-<p>Congratulations to our&nbsp;former students who has excelled academically at Republic Polytechnic in 2020</p>
-<p>Name&nbsp;&nbsp;&nbsp; :&nbsp;<strong>Kaelyn Lim</strong></p>
-<p>Course&nbsp; : Diploma in Health Management and Promotion</p>
-<p>Awards : Diploma with Merit</p><hr>
+<p style="font-size:15px;">Congratulations to our&nbsp;former students who has excelled academically at Republic Polytechnic in 2020</p>
+<p style="font-size:15px;">Name&nbsp;&nbsp;&nbsp; :&nbsp;<strong>Kaelyn Lim</strong><br>
+Course&nbsp; : Diploma in Health Management and Promotion<br>
+Awards : Diploma with Merit</p>
+
+<hr>
+
 <p><strong>Graduates of Anderson Serangoon Junior College 2020</strong></p>
 <p>Congratulations to our&nbsp;former students who has excelled academically at Anderson Serangoon Junior College in 2020</p>
 <img src="/images/pride1.jpg">
