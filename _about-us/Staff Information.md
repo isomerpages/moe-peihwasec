@@ -369,7 +369,6 @@ wong_ser_ching@moe.edu.sg
 		</tr>
 	</thead>
 <tbody style="font-size:15px; line-height: 1.8;">
-	
 <tr>
 <td style="text-align:center; border: 1px solid #dddfe1;">
 <strong>Resilience 1</strong>
@@ -534,7 +533,7 @@ goh_kok_soon@moe.edu.sg
 </td>
 <td style="text-align:center; border: 1px solid #dddfe1;">
 <strong>Ms Nur Syairah Bte Azahari</strong><br>
-<strong> Miss Oh Yi Qi Dora</srong>
+<strong> Miss Oh Yi Qi Dora</strong>
 </td>
 <td style="text-align:center; border: 1px solid #dddfe1;">
 nur_syairah_azahari@moe.edu.sg<br>
