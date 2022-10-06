@@ -75,7 +75,9 @@ third_nav_title: Clubs & Societies
 										
 </tbody>
 </table>
+
 <hr>
+
 <h4><strong>Competitions and CCA Activities</strong></h4>
 <p><strong>CCA Activities:</strong></p>
 <ul style="list-style-type:none; font-size:15px;">
@@ -89,7 +91,8 @@ third_nav_title: Clubs & Societies
 	<li>SDMA, NEmation</li>
 <img src="/images/info2.jpeg">
 	</ul>
-	<hr>
+
+<hr>
 	
 <h4><strong>CCA Details</strong></h4>
 <table border="1" style="width:100%">
