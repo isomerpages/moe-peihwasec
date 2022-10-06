@@ -90,8 +90,8 @@ third_nav_title: Clubs & Societies
 </ul>
 
 <p><strong>Competitions:</strong></p>
-<ul style="list-style-type:none; font-size:15px;">
-	<li>SDMA, NEmation</li>
+<ul style="list-style-type:none;">
+	<li style="font-size: 15px;">SDMA, NEmation</li>
 <img src="/images/info2.jpeg">
 	</ul>
 
