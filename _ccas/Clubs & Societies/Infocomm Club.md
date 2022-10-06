@@ -40,7 +40,7 @@ third_nav_title: Clubs & Societies
 	<td style="padding: 12px 15px"><strong>National Infocomm Club Awards</strong><br><ul><li>The Choice Award</li><ul></td>
 </tr>
 															
-<tr style="border-bottom: 2px solid #009879;     background-color: #f3f3f3;">
+<tr style=" background-color: #f3f3f3;">
 <td style="padding: 12px 15px;"><strong>2011</strong></td>
 	<td style="padding: 12px 15px"><strong>North Zone Comic Life Competition</strong><br><ul><li> 1st Position (Lee Jia Jing)</li>
 		<li> 2nd Position (Tan Xing Wei)</li>
@@ -50,7 +50,7 @@ third_nav_title: Clubs & Societies
 		<ul><li> Gold Award</li></ul></td>
 </tr>
 		
-<tr style="border-bottom: 1px solid #dddddd;">
+<tr style="border-bottom: 2px solid #009879">
 <td style="padding: 12px 15px;"><strong>2010</strong></td>
 	<td style="padding: 12px 15px"><strong>NorthZone ICT Competition (Comics)</strong><br><ul><li> 1st Place (Secondary Category)</li></ul>
 		<br>
@@ -100,4 +100,3 @@ third_nav_title: Clubs & Societies
 		
 </tbody>
 </table>
-
