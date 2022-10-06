@@ -4,7 +4,7 @@ permalink: /ccas/clubs-societies/infocomm-club/
 description: ""
 third_nav_title: Clubs & Societies
 ---
-<p style="font-size:15px; line-height:2;">Infocomm Club provides the opportunity for our members to develop technical skills about animation and video editing. With these skills, students will collaborate together and produce animation/videos for school events and competitions. We seek to help our members to communicate and exchange ideas in a cohesive environment.</p>
+<p style="font-size:15px; line-height:2;"><strong>Infocomm Club </strong>provides the opportunity for our members to develop technical skills about animation and video editing. With these skills, students will collaborate together and produce animation/videos for school events and competitions. We seek to help our members to communicate and exchange ideas in a cohesive environment.</p>
 
 <p style="font-size:15px; line-height:2;">Students who have interest in the setup of performances for events are given the opportunity to join as AVA members under Infocomm Club. They will be developed to be independent decision maker as well as communication skills when they collaborate with teachers and their peers.</p>
 
