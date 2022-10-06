@@ -533,9 +533,12 @@ goh_kok_soon@moe.edu.sg
 </td>
 <td style="text-align:center; border: 1px solid #dddfe1;">
 <strong>Ms Nur Syairah Bte Azahari</strong>
+	<br>
+	<strong> Miss Oh Yi Qi Dora</srong>
 </td>
 <td style="text-align:center; border: 1px solid #dddfe1;">
-nur_syairah_azahari@moe.edu.sg
+nur_syairah_azahari@moe.edu.sg<br>
+oh_yi_qi_dora@moe.edu.sg
 </td>
 </tr>
 	
@@ -573,11 +576,11 @@ afizah_shaik_abdul_rahim@moe.edu.sg
 </td>
 <td style="text-align:center; border: 1px solid #dddfe1;">
 <strong>Mr Neo Peck Wee Joel</strong><br>
-<strong>Ms Yasmin Yeow</strong>
+<strong>Ms Ari Sutanti Binte Haji Mispan</strong>
 </td>
 <td style="text-align:center; border: 1px solid #dddfe1;">
 neo_peck_wee_joel@moe.edu.sg<br>
-yeow_yasmin@moe.edu.sg
+ari_sutanti_haji_mispan@moe.edu.sg
 </td>
 </tr>
 	
@@ -673,12 +676,12 @@ hannah_zulaihah_gwynne@moe.edu.sg
 <strong>Diligence 3</strong>
 </td>
 <td style="text-align:center; border: 1px solid #dddfe1;">
-<strong>Mdm Jennie Tan Puay Cheng</strong><br>
-<strong>Mr Fahmie B Ali Abdat</strong>
+<strong>Mr Foo Chang Yong John</strong><br>
+<strong>Ms Yasmin Yeow</strong>
 </td>
 <td style="text-align:center; border: 1px solid #dddfe1;">
-tan_puay_cheng@moe.edu.sg<br>
-fahmie_ali_abdat@moe.edu.sg
+foo_chang_yong_john@moe.edu.sg<br>
+yeow_yasmin@moe.edu.sg
 </td>
 </tr>
 		
@@ -725,18 +728,16 @@ wong_ping_fang@moe.edu.sg
 </tr>
 	
 <tr>
-<td style="height: 138px; width: 123px;">
+<td style="text-align:center; border: 1px solid #dddfe1;">
 <strong>Diligence 7</strong>
 </td>
-<td style="height: 138px; width: 255px;">
+<td style="text-align:center; border: 1px solid #dddfe1;">
 <strong>Mdm Lee Helen</strong><br>
-<strong>Miss Lee Ya Yu</strong><br>
-<strong>Miss Chan Xin Hui Michelle (Mrs Jonathan)</strong>
+<strong>Miss Lee Ya Yu</strong></strong>
 </td>
-<td style="height: 138px; width: 285px;">
+<td style="text-align:center; border: 1px solid #dddfe1;">
 <p>lee_helen_a@moe.edu.sg<br>
-lee_ya_yu@moe.edu.sg<br>
-chan_xin_hui_michelle@moe.edu.sg
+lee_ya_yu@moe.edu.sg
 </td>
 </tr>
 		
@@ -760,11 +761,11 @@ lim_sin_ee_rachel@moe.edu.sg
 </td>
 <td style="text-align:center; border: 1px solid #dddfe1;">
 <strong>Miss Lim Guat Hong</strong><br>
-<strong>Mr Foo Chang Yong John</strong>
+<strong>Miss Zhang Chuyi</strong>
 </td>
 <td style="text-align:center; border: 1px solid #dddfe1;">
 lim_guat_hong@moe.edu.sg<br>
-foo_chang_yong_john@moe.edu.sg
+zhang_chuyi@moe.edu.sg
 </td>
 </tr>
 		
