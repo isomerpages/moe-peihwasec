@@ -118,7 +118,6 @@ description: ""
 </tbody>
 </table>
 
-	
 <p><strong>Other Guidelines on Homework</strong></p>
 <ol style="font-size:15px;">
 <li aria-level="1">During the school holidays:
