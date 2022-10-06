@@ -503,124 +503,130 @@ chen_pei_shi@moe.edu.sg
 </li>
 <li><input id="accordion4" type="checkbox"> <label for="accordion4">Secondary 3 Classes 2022</label>
 <div>
-<table border="1">
-<tbody>
+<table border="1" style="width:100%">
+	<thead style="background-color: #54585d; font-weight: bold; font-size: 16px; border: 1px solid #54585d; ">
+		<tr>
+			<td style="text-align:center;color:white; width:30%;">Designation</td>
+			<td style="text-align:center; color:white;width:30%;">Name</td>
+			<td style="text-align:center; color:white;width:40%;">Email</td>
+		</tr>
+	</thead>
+<tbody style="font-size:15px; line-height: 1.8;">
+	
 <tr>
-<td style="width: 113px;">
-<p><strong>Class</strong></p>
+<td style="text-align:center; border: 1px solid #dddfe1;">
+<strong>Integrity 1</strong>
 </td>
-<td style="width: 232px;">
-<p><strong>Name of Form Teacher</strong></p>
+<td style="text-align:center; border: 1px solid #dddfe1;">
+<strong>Ms Lee Sixian</strong><br>
+<strong>Mr Goh Kok Soon Ronnie</strong>
 </td>
-<td style="width: 319.078px;">
-<p><strong>Email</strong></p>
+<td style="text-align:center; border: 1px solid #dddfe1;">
+lee_sixian@moe.edu.sg<br>
+goh_kok_soon@moe.edu.sg
 </td>
 </tr>
+	
 <tr>
-<td style="width: 113px;">
-<p><strong>Integrity 1</strong></p>
+<td style="text-align:center; border: 1px solid #dddfe1;">
+<strong>Integrity 2</strong>
 </td>
-<td style="width: 232px;">
-<p><strong>Ms Lee Sixian</strong></p>
-<p><strong>Mr Goh Kok Soon Ronnie</strong></p>
+<td style="text-align:center; border: 1px solid #dddfe1;">
+<strong>Ms Nur Syairah Bte Azahari</strong>
 </td>
-<td style="width: 319.078px;">
-<p>lee_sixian@moe.edu.sg</p>
-<p>goh_kok_soon@moe.edu.sg</p>
+<td style="text-align:center; border: 1px solid #dddfe1;">
+nur_syairah_azahari@moe.edu.sg
 </td>
 </tr>
+	
 <tr>
-<td style="width: 113px;">
-<p><strong>Integrity 2</strong></p>
+<td style="text-align:center; border: 1px solid #dddfe1;">
+<strong>Integrity 3</strong>
 </td>
-<td style="width: 232px;">
-<p><strong>Ms Nur Syairah Bte Azahari</strong></p>
+<td style="text-align:center; border: 1px solid #dddfe1;">
+<strong>Mdm Ong Bee Bee</strong><br>
+<strong>Mohamad Yussof Bin Abdul Khalid</strong></p>
 </td>
-<td style="width: 319.078px;">
-<p>nur_syairah_azahari@moe.edu.sg</p>
+<td style="text-align:center; border: 1px solid #dddfe1;">
+ong_bee_bee@moe.edu.sg<br>
+mohamad_yussof_abdul_khalid@moe.edu.sg
 </td>
 </tr>
+	
 <tr>
-<td style="width: 113px;">
-<p><strong>Integrity 3</strong></p>
+<td style="text-align:center; border: 1px solid #dddfe1;">
+<strong>Integrity 4</strong>
 </td>
-<td style="width: 232px;">
-<p><strong>Mdm Ong Bee Bee</strong></p>
-<p><strong>Mohamad Yussof Bin Abdul Khalid</strong></p>
+<td style="text-align:center; border: 1px solid #dddfe1;">
+<strong>Mr Huang Weiqiang</strong><br>
+<strong>Mdm Afizah Binte Shaik Abdul Rahim</strong>
 </td>
-<td style="width: 319.078px;">
-<p>ong_bee_bee@moe.edu.sg</p>
-<p>mohamad_yussof_abdul_khalid@moe.edu.sg</p>
+<td style="text-align:center; border: 1px solid #dddfe1;">
+huang_weiqiang@moe.edu.sg<br>
+afizah_shaik_abdul_rahim@moe.edu.sg
 </td>
 </tr>
+	
 <tr>
-<td style="width: 113px;">
-<p><strong>Integrity 4</strong></p>
+<td style="text-align:center; border: 1px solid #dddfe1;">
+<strong>Integrity 5</strong>
 </td>
-<td style="width: 232px;">
-<p><strong>Mr Huang Weiqiang</strong></p>
-<p><strong>Mdm Afizah Binte Shaik Abdul Rahim</strong></p>
+<td style="text-align:center; border: 1px solid #dddfe1;">
+<strong>Mr Neo Peck Wee Joel</strong><br>
+<strong>Ms Yasmin Yeow</strong>
 </td>
-<td style="width: 319.078px;">
-<p>huang_weiqiang@moe.edu.sg</p>
-<p>afizah_shaik_abdul_rahim@moe.edu.sg</p>
+<td style="text-align:center; border: 1px solid #dddfe1;">
+neo_peck_wee_joel@moe.edu.sg<br>
+yeow_yasmin@moe.edu.sg
 </td>
 </tr>
+	
 <tr>
-<td style="width: 113px;">
-<p><strong>Integrity 5</strong></p>
+<td style="text-align:center; border: 1px solid #dddfe1;">
+<strong>Integrity 6</strong>
 </td>
-<td style="width: 232px;">
-<p><strong>Mr Neo Peck Wee Joel</strong></p>
-<p><strong>Ms Yasmin Yeow</strong></p>
+<td style="text-align:center; border: 1px solid #dddfe1;">
+<strong>Miss Shangeetha Devi D/O Panesilvam</strong><br>
+<strong>Mr Yeo Wei Qiang Kenneth</strong>
 </td>
-<td style="width: 319.078px;">
-<p>neo_peck_wee_joel@moe.edu.sg</p>
-<p>yeow_yasmin@moe.edu.sg</p>
+<td style="text-align:center; border: 1px solid #dddfe1;">
+shangeetha_devi_panesilvam@moe.edu.sg<br>
+kenneth_yeo_wei_qiang@moe.edu.sg
 </td>
 </tr>
+	
 <tr>
-<td style="width: 113px;">
-<p><strong>Integrity 6</strong></p>
+<td style="text-align:center; border: 1px solid #dddfe1;">
+<strong>Integrity 7</strong>
 </td>
 <td style="width: 232px;">
-<p><strong>Miss Shangeetha Devi D/O Panesilvam</strong></p>
-<p><strong>Mr Yeo Wei Qiang Kenneth</strong></p>
+<strong>Mdm Nordiana Bte Abbas</strong><br>
+<strong>Mr Yang Chuanzhi</strong>
 </td>
-<td style="width: 319.078px;">
-<p>shangeetha_devi_panesilvam@moe.edu.sg</p>
-<p>kenneth_yeo_wei_qiang@moe.edu.sg</p>
+<td style="text-align:center; border: 1px solid #dddfe1;">
+nordiana_abbas@moe.edu.sg<br>
+yang_chuanzhi@moe.edu.sg
 </td>
 </tr>
+	
 <tr>
-<td style="width: 113px;">
-<p><strong>Integrity 7</strong></p>
+<td style="text-align:center; border: 1px solid #dddfe1;">
+<strong>Integrity 8</strong>
 </td>
-<td style="width: 232px;">
-<p><strong>Mdm Nordiana Bte Abbas</strong></p>
-<p><strong>Mr Yang Chuanzhi</strong></p>
+<td style="text-align:center; border: 1px solid #dddfe1;">
+<strong>Mrs Kamini Lam</strong><br>
+<strong>Ms Tang Wai Sim Wendy</strong>
 </td>
-<td style="width: 319.078px;">
-<p>nordiana_abbas@moe.edu.sg</p>
-<p>yang_chuanzhi@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td style="width: 113px;">
-<p><strong>Integrity 8</strong></p>
-</td>
-<td style="width: 232px;">
-<p><strong>Mrs Kamini Lam</strong></p>
-<p><strong>Ms Tang Wai Sim Wendy</strong></p>
-</td>
-<td style="width: 319.078px;">
-<p>kamini_lam@moe.edu.sg</p>
-<p>tang_wai_sim_wendy@moe.edu.sg</p>
+<td style="text-align:center; border: 1px solid #dddfe1;">
+kamini_lam@moe.edu.sg<br>
+tang_wai_sim_wendy@moe.edu.sg
 </td>
 </tr>
+	
 </tbody>
 </table>
 </div>
+
 </li>
 <li><input id="accordion5" type="checkbox"> <label for="accordion5">Secondary 4/5 Classes 2022</label>
 <div>
