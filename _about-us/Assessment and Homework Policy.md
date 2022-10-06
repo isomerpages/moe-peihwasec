@@ -103,8 +103,8 @@ EOY: 55%
 </tr>
 															
 <tr style="border-bottom: 2px solid #009879;     background-color: #f3f3f3;">
-<td style="width: 70.2656px; height: 38px;">
-<p><strong>Sec 4</strong></p>
+<td>
+<strong>Sec 4</strong>
 </td>
 <td style="width: 96.3594px; height: 38px;">
 WA: 10%
