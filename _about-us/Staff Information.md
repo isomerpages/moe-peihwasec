@@ -498,19 +498,19 @@ chen_pei_shi@moe.edu.sg
 	
 </tbody>
 </table>
-	
 </div>
 </li>
+	
 <li><input id="accordion4" type="checkbox"> <label for="accordion4">Secondary 3 Classes 2022</label>
 <div>
 <table border="1" style="width:100%">
 	<thead style="background-color: #54585d; font-weight: bold; font-size: 16px; border: 1px solid #54585d; ">
-		<tr>
-			<td style="text-align:center;color:white; width:30%;">Designation</td>
-			<td style="text-align:center; color:white;width:30%;">Name</td>
-			<td style="text-align:center; color:white;width:40%;">Email</td>
-		</tr>
-	</thead>
+<tr>
+<td style="text-align:center;color:white; width:30%;">Designation</td>
+<td style="text-align:center; color:white;width:30%;">Name</td>
+<td style="text-align:center; color:white;width:40%;">Email</td>
+</tr>
+</thead>
 <tbody style="font-size:15px; line-height: 1.8;">
 	
 <tr>
