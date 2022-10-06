@@ -34,35 +34,35 @@ third_nav_title: Clubs & Societies
 		</tr>
 	</thead>
 	
-<tbody style="font-size: 15px;">
+<tbody>
 <tr style="border-bottom: 1px solid #dddddd;">
 <td style="padding: 12px 15px;"><strong>2012</strong></td>
-	<td style="padding: 12px 15px"><strong>National Infocomm Club Awards</strong>
+	<td style="padding: 12px 15px; font-size:15px;"><strong>National Infocomm Club Awards</strong>
 		<br>
 		<ul>
-			<li>The Choice Award</li>
+			<li style="font-size:15px;">The Choice Award</li>
 		</ul>
 	</td>
 </tr>
 															
 <tr style=" background-color: #f3f3f3;">
-<td style="padding: 12px 15px;"><strong>2011</strong></td>
-	<td style="padding: 12px 15px"><strong>North Zone Comic Life Competition</strong>
+<td style="padding: 12px 15px;font-size:15px;"><strong>2011</strong></td>
+	<td style="padding: 12px 15px;font-size:15px;"><strong>North Zone Comic Life Competition</strong>
 		<br>
-		<ul>
-			<li> 1st Position (Lee Jia Jing)</li>
-		<li> 2nd Position (Tan Xing Wei)</li>
-		<li> 3rd Position (Ku Wan Jing)</li>
+		<ul style="font-size:15px;"> 
+			<li style="font-size:15px;"> 1st Position (Lee Jia Jing)</li>
+		<li style="font-size:15px;"> 2nd Position (Tan Xing Wei)</li>
+		<li style="font-size:15px;"> 3rd Position (Ku Wan Jing)</li>
 		</ul>
 		<br> 
 		<strong>Digital Music Carnival 2 Competition (organised by Elchemi Education)</strong>
-		<ul>
+		<ul style="font-size:15px;">
 			<li> Gold Award</li>
 		</ul>
 	</td>
 </tr>
 		
-<tr style="border-bottom: 2px solid #009879">
+<tr style="border-bottom: 2px solid #009879; font-size:15px;">
 <td style="padding: 12px 15px;"><strong>2010</strong></td>
 	<td style="padding: 12px 15px"><strong>NorthZone ICT Competition (Comics)</strong>
 		<br>
