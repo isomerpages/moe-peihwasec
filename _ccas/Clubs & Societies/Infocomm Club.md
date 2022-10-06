@@ -39,7 +39,10 @@ third_nav_title: Clubs & Societies
 <td style="padding: 12px 15px;"><strong>2012</strong></td>
 	<td style="padding: 12px 15px"><strong>National Infocomm Club Awards</strong>
 		<br>
-		<ul><li>The Choice Award</li></ul></td>
+		<ul>
+			<li>The Choice Award</li>
+		</ul>
+	</td>
 </tr>
 															
 <tr style=" background-color: #f3f3f3;">
