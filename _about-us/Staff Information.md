@@ -9,9 +9,9 @@ description: ""
 <table style="width:100%" border="1">
 	<thead style="background-color: #54585d; font-weight: bold; font-size: 16px; border: 1px solid #54585d;">
 		<tr>
-			<td style="text-align:center;color:white; width:30%;">Designation</td>
-			<td style="text-align:center; color:white;width:30%;">Name</td>
-			<td style="text-align:center; color:white;width:40%;">Email</td>
+			<td style="text-align:center;color:white; width:20%;">Designation</td>
+			<td style="text-align:center; color:white;width:42%;">Name</td>
+			<td style="text-align:center; color:white;width:38%;">Email</td>
 		</tr>
 	</thead>
 	<tbody style="font-size:15px; line-height: 1.8;">
@@ -236,8 +236,8 @@ lee_wei_ying@moe.edu.sg
 <thead style="background-color: #54585d; font-weight: bold; font-size: 16px; border: 1px solid #54585d;">
 		<tr>
 			<td style="text-align:center;color:white; width:20%;">Class</td>
-			<td style="text-align:center; color:white;width:45%;">Name of Form Teacher</td>
-			<td style="text-align:center; color:white;width:35%;">Email</td>
+			<td style="text-align:center; color:white;width:42%;">Name of Form Teacher</td>
+			<td style="text-align:center; color:white;width:38%;">Email</td>
 		</tr>
 	</thead>
 <tbody style="font-size:15px; line-height: 1.8;">
@@ -364,8 +364,8 @@ wong_ser_ching@moe.edu.sg
 <thead style="background-color: #54585d; font-weight: bold; font-size: 16px; border: 1px solid #54585d;">
 		<tr>
 			<td style="text-align:center;color:white; width:20%;">Class</td>
-			<td style="text-align:center; color:white;width:45%;">Name of Form Teacher</td>
-			<td style="text-align:center; color:white;width:35%;">Email</td>
+			<td style="text-align:center; color:white;width:42%;">Name of Form Teacher</td>
+			<td style="text-align:center; color:white;width:38%;">Email</td>
 		</tr>
 	</thead>
 <tbody style="font-size:15px; line-height: 1.8;">
@@ -506,8 +506,8 @@ chen_pei_shi@moe.edu.sg
 
 <tr>
 <td style="text-align:center;color:white; width:20%;">Designation</td>
-<td style="text-align:center; color:white;width:45%;">Name</td>
-<td style="text-align:center; color:white;width:35%;">Email</td>
+<td style="text-align:center; color:white;width:42%;">Name</td>
+<td style="text-align:center; color:white;width:38%;">Email</td>
 </tr>
 </thead>
 	
@@ -636,8 +636,8 @@ tang_wai_sim_wendy@moe.edu.sg
 
 <tr>
 <td style="text-align:center;color:white; width:20%;">Designation</td>
-<td style="text-align:center; color:white;width:45%;">Name</td>
-<td style="text-align:center; color:white;width:35%;">Email</td>
+<td style="text-align:center; color:white;width:42%;">Name</td>
+<td style="text-align:center; color:white;width:38%;">Email</td>
 </tr>
 </thead>
 	
