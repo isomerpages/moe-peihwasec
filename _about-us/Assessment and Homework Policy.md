@@ -27,24 +27,17 @@ description: ""
 
 <div class="table-responsive">
 <table border="1" style="border-collapse: collapse;margin: 25px 0;font-size: 0.9em;font-family: sans-serif;min-width: 400px; box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);">
-<thead style="color:white;">
-<tr style="background-color: #009879;color:white;">
-<td style="padding: 12px 15px;color:white;">&nbsp;
-</td>
-<td style="padding: 12px 15px;text-align:left;color:white;">
-<strong>Term 1</strong>
-</td>
-<td style="color:white;padding: 12px 15px;text-align:left;">
-<strong>Term 2</strong>
-</td>
-<td style="color:white;padding: 12px 15px;text-align:left;">
-<strong>Term 3</strong>
-</td>
-<td style="color:white;padding: 12px 15px;text-align:left;">
-<strong>Term 4</strong>
-</td>
-</tr>
-</thead>
+	
+<thead style="background-color: #009879; font-weight: bold; font-size: 16px;">
+		<tr>
+			<td style="text-align:left;color:white;padding:12px 15px">&nbsp;</td>
+			<td style="text-align:left;color:white;padding:12px 15px">Term 1</td>
+			<td style="text-align:left;color:white;padding:12px 15px">Term 2</td>
+			<td style="text-align:left;color:white;padding:12px 15px">Term 3</td>
+			<td style="text-align:left;color:white;padding:12px 15px">Term 4</td>
+		</tr>
+	</thead>
+
 	
 <tbody>
 <tr  style="border-bottom: 1px solid #dddddd;">
