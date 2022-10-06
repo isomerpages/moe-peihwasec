@@ -69,10 +69,11 @@ Award: 2<sup>nd</sup>&nbsp;place in International Broadsword Routine</p>
 <h4><strong>Summary of all SYF achievements</strong></h4>
 
 <table border="1" style="border-collapse: collapse;margin: 25px 0;font-size: 0.9em;font-family: sans-serif;min-width: 400px; box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);">
-<thead style="background-color: #54585d; font-weight: bold; font-size: 16px; border: 1px solid #54585d; ">
+	
+<thead style="background-color: #009879; font-weight: bold; font-size: 16px;">
 		<tr>
-			<td style="text-align:center;color:white;">Performing Arts Group</td>
-			<td style="text-align:center; color:white;">Certification</td>
+			<td style="text-align:left;color:white;padding:12px 15px;">Performing Arts Group</td>
+			<td style="text-align:left;color:white;padding:12px 15px;">Certification</td>
 		</tr>
 	</thead>
 
@@ -83,7 +84,7 @@ Award: 2<sup>nd</sup>&nbsp;place in International Broadsword Routine</p>
 <td style="padding: 12px 15px;">ACCOMPLISHMENT</td>
 	</tr>
 	
-<tr style="border-bottom: 1px solid #dddddd;">
+<tr style ="background-color: #f3f3f3;border-bottom: 1px solid #dddddd;">
 <td style="padding: 12px 15px;">Dance (Chinese)</td>
 <td style="padding: 12px 15px;">Distinction</td>
 </tr>
@@ -93,12 +94,12 @@ Award: 2<sup>nd</sup>&nbsp;place in International Broadsword Routine</p>
 <td style="padding: 12px 15px;">Accomplishment</td>
 </tr>
 	
-<tr style="border-bottom: 1px solid #dddddd;">
+<tr style ="background-color: #f3f3f3;border-bottom: 1px solid #dddddd;">
 <td style="padding: 12px 15px;">Guzheng</td>
 <td style="padding: 12px 15px;">Distinction</td>
 </tr>
 
-<tr style="border-bottom: 1px solid #dddddd;">
+<tr style="border-bottom: 2px solid #009879;     ">
 <td style="padding: 12px 15px;">Drama</td>
 <td style="padding: 12px 15px;">Commendation</td>
 </tr>
