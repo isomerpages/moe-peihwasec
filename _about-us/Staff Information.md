@@ -511,7 +511,6 @@ chen_pei_shi@moe.edu.sg
 </tr>
 </thead>
 <tbody style="font-size:15px; line-height: 1.8;">
-	
 <tr>
 <td style="text-align:center; border: 1px solid #dddfe1;">
 <strong>Integrity 1</strong>
@@ -624,7 +623,6 @@ kamini_lam@moe.edu.sg<br>
 tang_wai_sim_wendy@moe.edu.sg
 </td>
 </tr>
-	
 </tbody>
 </table>
 </div>
