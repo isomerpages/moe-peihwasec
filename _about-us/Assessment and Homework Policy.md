@@ -29,25 +29,26 @@ description: ""
 <table border="1" style="border-collapse: collapse;margin: 25px 0;font-size: 0.9em;font-family: sans-serif;min-width: 400px; box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);">
 	
 <thead>
-<tr style="background-color: #009879;color: #ffffff;text-align: left;">
+<tr style="background-color: #009879;text-align: left;">
 <th style="padding: 12px 15px;">&nbsp;
-</th><th style="padding: 12px 15px">
+</th>
+<th style="padding: 12px 15px; color: #ffffff;">
 <strong>Term 1</strong>
 </th>
-<th style="padding: 12px 15px">
+<th style="padding: 12px 15px;color: #ffffff;">
 <strong>Term 2</strong>
 </th>
-<th style="padding: 12px 15px">
+<th style="padding: 12px 15px;color: #ffffff;">
 <strong>Term 3</strong>
 </th>
-<th style="padding: 12px 15px">
+<th style="padding: 12px 15px;color: #ffffff;">
 <strong>Term 4</strong>
 </th>
 </tr>
 </thead>
 	
 <tbody>
-<tr>
+<tr  style="border-bottom: 1px solid #dddddd;">
 <td style="padding: 12px 15px">
 <strong>Sec 1</strong>
 </td>
@@ -65,7 +66,7 @@ EOY: 55%
 </td>
 </tr>
 	
-<tr>
+<tr style ="background-color: #f3f3f3;">
 <td style="padding: 12px 15px">
 <strong>Sec 2</strong>
 </td>
@@ -84,7 +85,7 @@ EOY: 55%
 </tr>
 															
 <tr style="border-bottom: 1px solid #dddddd;">
-<td style="width: 70.2656px; height: 64px;">
+<td>
 <strong>Sec 3</strong>
 </td>
 <td style="padding: 12px 15px">
@@ -101,7 +102,7 @@ EOY: 55%
 </td>
 </tr>
 															
-<tr style="height: 38px;">
+<tr style="border-bottom: 2px solid #009879;     background-color: #f3f3f3;">
 <td style="width: 70.2656px; height: 38px;">
 <p><strong>Sec 4</strong></p>
 </td>
