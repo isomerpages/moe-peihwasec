@@ -500,7 +500,7 @@ chen_pei_shi@moe.edu.sg
 </div>
 </li>
 	
-<li><input id="accordion4" type="checkbox"> <label for="accordion4">Secondary 3 Classes 2022</label>
+<li><input id="accordion4" type="checkbox"><label for="accordion4">Secondary 3 Classes 2022</label>
 <div>
 <table border="1" style="width:100%">
 <thead style="background-color: #54585d; font-weight: bold; font-size: 16px; border: 1px solid #54585d; ">
@@ -532,7 +532,7 @@ goh_kok_soon@moe.edu.sg
 <td style="text-align:center; border: 1px solid #dddfe1;">
 <strong>Ms Nur Syairah Bte Azahari</strong>
 	<br>
-	<strong> Miss Oh Yi Qi Dora</srong>
+<strong> Miss Oh Yi Qi Dora</srong>
 </td>
 <td style="text-align:center; border: 1px solid #dddfe1;">
 nur_syairah_azahari@moe.edu.sg<br>
@@ -546,7 +546,7 @@ oh_yi_qi_dora@moe.edu.sg
 </td>
 <td style="text-align:center; border: 1px solid #dddfe1;">
 <strong>Mdm Ong Bee Bee</strong><br>
-<strong>Mohamad Yussof Bin Abdul Khalid</strong></p>
+<strong>Mohamad Yussof Bin Abdul Khalid</strong>
 </td>
 <td style="text-align:center; border: 1px solid #dddfe1;">
 ong_bee_bee@moe.edu.sg<br>
@@ -623,6 +623,7 @@ kamini_lam@moe.edu.sg<br>
 tang_wai_sim_wendy@moe.edu.sg
 </td>
 </tr>
+	
 </tbody>
 </table>
 </div>
