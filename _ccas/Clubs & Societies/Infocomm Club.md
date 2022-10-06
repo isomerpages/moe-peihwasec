@@ -15,7 +15,7 @@ third_nav_title: Clubs & Societies
 <h4><strong>Student Outcomes</strong></h4>
 
 <p style="font-size:15px; line-height:2;">The CCA will enable our students to:</p>
-<ul>
+<ul style="font-size:15px; line-height:2;">
 	<li> acquire and apply basic animation, photography and video editing knowledge and skills</li>
 	<li> demonstrate creativity through animation and video production</li>
 	<li>develop into being a team player and work collaboratively with others</li>
@@ -28,7 +28,7 @@ third_nav_title: Clubs & Societies
 <table border="1" style="border-collapse: collapse;margin: 25px 0;font-size: 0.9em;font-family: sans-serif;min-width: 400px; box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);">
 	
 <thead style="background-color: #009879; font-weight: bold; font-size: 16px;">
-		<tr>
+	<tr>
 			<td style="text-align:left;color:white;padding:12px 15px;">Year of Competition</td>
 			<td style="text-align:left;color:white;padding:12px 15px;">Attainment</td>
 		</tr>
