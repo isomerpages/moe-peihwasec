@@ -106,16 +106,16 @@ EOY: 55%
 <td>
 <strong>Sec 4</strong>
 </td>
-<td style="width: 96.3594px; height: 38px;">
+<td style="padding: 12px 15px">
 WA: 10%
 </td>
-<td style="width: 105.391px; height: 38px;">
+<td style="padding: 12px 15px">
 MYE: 20%
 </td>
-<td style="width: 129.484px; height: 38px;">
+<td style="padding: 12px 15px">
 Prelim: 70%
 </td>
-<td style="width: 118.5px; height: 38px;">&nbsp;</td>
+<td style="padding: 12px 15px">&nbsp;</td>
 </tr>
 </tbody>
 </table>
