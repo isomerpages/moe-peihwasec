@@ -34,7 +34,7 @@ third_nav_title: Clubs & Societies
 		</tr>
 	</thead>
 	
-<tbody>
+<tbody style="font-size: 15px;">
 <tr style="border-bottom: 1px solid #dddddd;">
 <td style="padding: 12px 15px;"><strong>2012</strong></td>
 	<td style="padding: 12px 15px"><strong>National Infocomm Club Awards</strong>
