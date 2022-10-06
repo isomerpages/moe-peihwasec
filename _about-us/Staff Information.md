@@ -723,7 +723,7 @@ tan_pan_ying_ranice@moe.edu.sg
 <strong>Mdm Wong Ping Fang Claire</strong>
 </td>
 <td style="text-align:center; border: 1px solid #dddfe1;">
-<p>ng_pit_shen@moe.edu.sg<br>
+ng_pit_shen@moe.edu.sg<br>
 wong_ping_fang@moe.edu.sg
 </td>
 </tr>
