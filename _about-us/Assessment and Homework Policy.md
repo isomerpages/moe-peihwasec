@@ -27,23 +27,22 @@ description: ""
 
 <div class="table-responsive">
 <table border="1" style="border-collapse: collapse;margin: 25px 0;font-size: 0.9em;font-family: sans-serif;min-width: 400px; box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);">
-	
 <thead>
-<tr style="background-color: #009879;text-align: left;">
+<tr style="background-color: #009879;">
 <td style="padding: 12px 15px;">&nbsp;
 </td>
-<td style="padding: 12px 15px; color: white;">
+<td style="padding: 12px 15px;text-align:left;color:white; ">
 <strong>Term 1</strong>
 </td>
-<td style="padding: 12px 15px; color: #ffffff;">
+<td style="padding: 12px 15px;text-align:left;color:white; ">
 <strong>Term 2</strong>
 </td>
-<td style="padding: 12px 15px ;color: #ffffff;">
+<td style="padding: 12px 15px;text-align:left;color:white; ">
 <strong>Term 3</strong>
 </td>
-<td style="padding: 12px 15px;color: #ffffff;">
+<td style="padding: 12px 15px;text-align:left;color:white; ">
 <strong>Term 4</strong>
-	</td>
+</td>
 </tr>
 </thead>
 	
