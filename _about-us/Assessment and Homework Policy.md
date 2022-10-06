@@ -25,7 +25,7 @@ description: ""
 
 <p style="font-size:15px;">The following table details the weighting for the assessments in each term. With the new directions from MOE, there will be not more than one weighted assessment per subject per term.</p>
 
-<div class="table-responsive">
+
 <table border="1" style="border-collapse: collapse;margin: 25px 0;font-size: 0.9em;font-family: sans-serif;min-width: 400px; box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);">
 	
 <thead style="background-color: #009879; font-weight: bold; font-size: 16px;">
@@ -74,7 +74,6 @@ description: ""
 	
 </tbody>
 </table>
-</div>
 
 <p><strong>Removal of Mid-Year Examination (MYE) for Sec 1, 2 and 3</strong></p>
 
