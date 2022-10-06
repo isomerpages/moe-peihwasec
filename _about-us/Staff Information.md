@@ -504,13 +504,16 @@ chen_pei_shi@moe.edu.sg
 <div>
 <table border="1" style="width:100%">
 <thead style="background-color: #54585d; font-weight: bold; font-size: 16px; border: 1px solid #54585d; ">
+
 <tr>
 <td style="text-align:center;color:white; width:30%;">Designation</td>
 <td style="text-align:center; color:white;width:30%;">Name</td>
 <td style="text-align:center; color:white;width:40%;">Email</td>
 </tr>
 </thead>
+	
 <tbody style="font-size:15px; line-height: 1.8;">
+
 <tr>
 <td style="text-align:center; border: 1px solid #dddfe1;">
 <strong>Integrity 1</strong>
@@ -530,8 +533,7 @@ goh_kok_soon@moe.edu.sg
 <strong>Integrity 2</strong>
 </td>
 <td style="text-align:center; border: 1px solid #dddfe1;">
-<strong>Ms Nur Syairah Bte Azahari</strong>
-	<br>
+<strong>Ms Nur Syairah Bte Azahari</strong><br>
 <strong> Miss Oh Yi Qi Dora</srong>
 </td>
 <td style="text-align:center; border: 1px solid #dddfe1;">
@@ -623,7 +625,6 @@ kamini_lam@moe.edu.sg<br>
 tang_wai_sim_wendy@moe.edu.sg
 </td>
 </tr>
-	
 </tbody>
 </table>
 </div>
@@ -633,12 +634,14 @@ tang_wai_sim_wendy@moe.edu.sg
 <div>
 <table border="1" style="width:100%">
 <thead style="background-color: #54585d; font-weight: bold; font-size: 16px; border: 1px solid #54585d; ">
+
 <tr>
 <td style="text-align:center;color:white; width:30%;">Designation</td>
 <td style="text-align:center; color:white;width:30%;">Name</td>
 <td style="text-align:center; color:white;width:40%;">Email</td>
 </tr>
 </thead>
+	
 <tbody style="font-size:15px; line-height: 1.8;">
 	
 <tr>
