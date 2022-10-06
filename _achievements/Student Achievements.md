@@ -65,7 +65,6 @@ Award: 2<sup>nd</sup>&nbsp;place in International Broadsword Routine</p>
 <p style="font-size:15px; margin-top:-20px;">SYF Achievement: Commendation&nbsp;</p>
 
 <hr>
-<br>
 
 <h4><strong>Summary of all SYF achievements</strong></h4>
 
