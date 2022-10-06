@@ -639,6 +639,7 @@ tang_wai_sim_wendy@moe.edu.sg
 </tr>
 </thead>
 <tbody style="font-size:15px; line-height: 1.8;">
+	
 <tr>
 <td style="text-align:center; border: 1px solid #dddfe1;">
 <strong>Diligence 1</strong>
@@ -732,7 +733,7 @@ wong_ping_fang@moe.edu.sg
 <strong>Miss Lee Ya Yu</strong></strong>
 </td>
 <td style="text-align:center; border: 1px solid #dddfe1;">
-<p>lee_helen_a@moe.edu.sg<br>
+lee_helen_a@moe.edu.sg<br>
 lee_ya_yu@moe.edu.sg
 </td>
 </tr>
@@ -764,6 +765,7 @@ lim_guat_hong@moe.edu.sg<br>
 zhang_chuyi@moe.edu.sg
 </td>
 </tr>
+	
 </tbody>
 </table>
 </div>
