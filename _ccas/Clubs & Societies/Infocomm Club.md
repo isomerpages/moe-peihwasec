@@ -99,7 +99,7 @@ third_nav_title: Clubs & Societies
 <table border="1" style="width:100%;">
 	<tbody>
 		<tr>
-			<td style="background-color: #54585d; font-weight: bold; font-size: 15px; border: 1px solid #54585d; color:white;border-bottom: 1px solid #dddddd;width:40%;">Teacher-In-Charge</td>
+			<td style="background-color: #54585d; font-weight: bold; font-size: 15px; border: 1px solid #54585d; color:white;border-bottom: 1px solid #dddddd;width:24%;">Teacher-In-Charge</td>
 			<td style="border: 1px solid #dddfe1;font-size: 15px;">Mr Foo Chang Yong John</td>
 		</tr>
 
