@@ -61,15 +61,15 @@ third_nav_title: Clubs & Societies
                                 <li style="font-size:15px;">RoboCupJunior CoSpace Rescue league – 3<sup>rd</sup> Place</li>
                                 <li style="font-size:15px;">RoboCup Asia Pacific (RCAP) CoSpace Rescue U19</li>
                                 <li style="font-size:15px;">Friendship Tournament – 1<sup>st</sup> place</li>
-                                <li style="font-size:15px;">Best Achievement Award (3<sup>rd</sup> time)</li>
+                                <li style="font-size:15px;margin-bottom:5px;">Best Achievement Award (3<sup>rd</sup> time)</li>
 	        </ul>
                 <strong>ITE Robotics Challenge</strong>
 		<ul> 
-			<li style="font-size:15px;">Merit award in Tracing Challenge</li>
+			<li style="font-size:15px;margin-bottom:5px;">Merit award in Tracing Challenge</li>
 	        </ul>
              <strong>3D Tronics Digital Making National Infocomm Competition</strong>
 		<ul> 
-			<li style="font-size:15px;">3 <sup>rd</sup> Place</li>
+			<li style="font-size:15px;margin-bottom:5px;">3 <sup>rd</sup> Place</li>
 	        </ul>
 	</td>
 </tr>
