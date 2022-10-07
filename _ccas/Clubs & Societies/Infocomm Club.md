@@ -29,8 +29,8 @@ third_nav_title: Clubs & Societies
 	
 <thead style="background-color: #009879; font-weight: bold; font-size: 16px;">
 	<tr>
-			<td style="text-align:left;color:white;padding:12px 15px;">Year of Competition</td>
-			<td style="text-align:left;color:white;padding:12px 15px;">Attainment</td>
+			<td style="text-align:left;color:white;">Year of Competition</td>
+			<td style="text-align:left;color:white;">Attainment</td>
 		</tr>
 	</thead>
 	
