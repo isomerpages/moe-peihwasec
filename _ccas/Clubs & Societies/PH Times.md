@@ -15,84 +15,113 @@ third_nav_title: Clubs & Societies
 </ul>
 
 <h4><strong>&nbsp;Achievements</strong></h4>
-<div>
-<table border="1" width="0">
+<p><strong>CCA Activities:</strong></p>
+<ul style="list-style-type:none; font-size:15px;">
+	<li style="font-size:15px; line-height:2;">2021 Draw My Stamp Story Art Competition</li>
+	<li style="font-size:15px; line-height:2;">Sec 2: Animation/Photoshop</li>
+	<li style="font-size:15px; line-height:2;">Sec 3: Video/Video editing</li>
+</ul>
+
+CCA ACHIEVEMENT
+
+<table border="1" style="border-collapse: collapse;margin: 25px 0;font-size:15px;font-family: sans-serif;box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);">
+	
+<thead style="background-color: #009879; font-weight: bold; font-size: 16px;">
+	<tr>
+			<td style="text-align:left;color:white;">Year of Competition</td>
+			<td style="text-align:left;color:white;">Attainment</td>
+		</tr>
+	</thead>
+	
 <tbody>
-<tr>
-<td width="96">
-<p><strong>Year of Competition</strong></p>
-</td>
-<td width="533">
-<p><strong>Attainment</strong></p>
-</td>
+<tr style="border-bottom: 1px solid #dddddd;">
+<td><strong>2016</strong></td>
+	<td style="font-size:15px;"><strong>Canon Photomarathon</strong>
+		<br>
+		<ul>
+			<li style="font-size:15px;margin-bottom:5px;">&middot; 2<sup>nd</sup> Runner-up (Carina Chew)</li>
+</li>
+		</ul>
+	</td>
 </tr>
-<tr>
-<td width="96">
-<p><strong>2016</strong></p>
-</td>
-<td width="533">
-<p><strong>Canon Photomarathon</strong></p>
-<p><strong>&middot; 2<sup>nd</sup>&nbsp;Runner-up (Carina Chew)</strong></p>
-</td>
+															
+<tr style=" background-color: #f3f3f3;">
+<td style="font-size:15px;"><strong>2013</strong></td>
+	<td style="font-size:15px;"><strong>Safety-starts-with-me Photo Competition</strong>
+		<ul> 
+			<li style="font-size:15px;margin-bottom:5px;">Silver Award, $1000 Cash Prize (Aaron Lim Cheng Kiat)</li>
+		</ul>
+	</td>
 </tr>
+
 <tr>
-<td width="96">
-<p><strong>2013</strong></p>
-</td>
-<td width="533">
-<p><strong>Safety-starts-with-me Photo Competition</strong></p>
-<p><strong>&middot; Silver Award, $1000Cash Prize (Aaron Lim Cheng Kiat)</strong></p>
-</td>
+<td style="font-size:15px;"><strong>2012</strong></td>
+	<td style="font-size:15px;"><strong>National Photography Competition 'Climate Change'</strong>
+		<ul> 
+			<li style="font-size:15px;">&middot; 2<sup>nd</sup> Prize (Amanda Goh)</li>
+<li style="font-size:15px;margin-bottom:5px;"> Consolation (Aaron Lim)</li>
+		</ul>
+	</td>
 </tr>
-<tr>
-<td width="96">
-<p><strong>2012</strong></p>
-</td>
-<td width="533">
-<p><strong>National Photography Competition &lsquo;Climate Change&rsquo;</strong></p>
-<p><strong>&middot; 2<sup>nd</sup>&nbsp;Prize (Amanda Goh)</strong></p>
-<p><strong>&middot; Consolation (Aaron Lim)</strong></p>
-</td>
+
+<tr style=" background-color: #f3f3f3;">
+<td style="font-size:15px;"><strong>2011</strong></td>
+	<td style="font-size:15px;"><strong>Canon Photomarathon</strong>
+		
+<ul> 
+			<li style="font-size:15px;">Student Category Winner (Douglas Tham)</li>
+<li style="font-size:15px;"> Best of Show Student Category Winner (Douglas Tham)</li>
+<li style="font-size:15px;"> School's Challenge Winner</li>
+		</ul>
+	</td>
+<td style="font-size:15px;"><strong>Freshness of Life by School of Photography</strong>
+		<br>
+		<ul> 
+			<li style="font-size:15px;">&middot; 1<sup>st</sup> Prize (Dion Lim)</li>
+		</ul>
+	</td>
+<td style="font-size:15px;"><strong>N3 Cluster International Friendship Day Photography Competition/strong>
+		<br>
+		<ul> 
+			<li style="font-size:15px;">&middot; 1<sup>st</sup> Prize</li>
+		</ul>
+	</td>
 </tr>
-<tr>
-<td width="96">
-<p><strong>2011</strong></p>
-</td>
-<td width="533">
-<p><strong>Canon Photomarathon</strong></p>
-<p><strong>&middot; Student Category Winner (Douglas Tham)</strong></p>
-<p><strong>&middot; Best of Show Student Category Winner (Douglas Tham)</strong></p>
-<p><strong>&middot; School&rsquo;s Challenge Winner</strong></p>
-<p><strong>Freshness of Life by School of Photography</strong></p>
-<p><strong>&middot; 1<sup>st</sup>&nbsp;Prize (Dion Lim)</strong></p>
-<p><strong>N3 Cluster International Friendship Day Photography Competition</strong></p>
-<p><strong>&middot; 1<sup>st</sup>&nbsp;Prize</strong></p>
-</td>
+
+<tr style=" background-color: #f3f3f3;">
+<td style="font-size:15px;"><strong>2009</strong></td>
+	<td style="font-size:15px;"><strong>Straits Times National Schools Newspaper Competition</strong>
+		<br>
+		<ul> 
+			<li style="font-size:15px;"> Consolation Prize</li>
+		</ul>
+	</td>
+<td style="font-size:15px;"><strong>HDB Competition</strong>
+		<br>
+		<ul> 
+			<li style="font-size:15px;"> Consolation Prize (Douglas Tham)</li>
+		</ul>
+	</td>
 </tr>
-<tr>
-<td width="96">
-<p><strong>2009</strong></p>
-</td>
-<td width="533">
-<p><strong>Straits Times National Schools Newspaper Competition</strong></p>
-<p><strong>&middot; Consolation Prize</strong></p>
-<p><strong>HDB Competition</strong></p>
-<p><strong>&middot; Consolation Prize (Douglas Tham)</strong></p>
-</td>
+<tr style=" background-color: #f3f3f3;">
+<td style="font-size:15px;"><strong>2008</strong></td>
+	<td style="font-size:15px;"><strong>Straits Times National Schools Newspaper Competition</strong>
+		<br>
+		<ul> 
+			<li style="font-size:15px;"> Consolation Prize</li>
+		</ul>
+	</td>
+<td style="font-size:15px;"><strong>GMAC Competition</strong>
+		<br>
+		<ul> 
+			<li style="font-size:15px;"> &middot; 3<sup>rd</sup> Place (Lim Ying Yun, Martin Goh, Charmaine Toh, Saw Jia Hui)</li>
+		</ul>
+	</td>
 </tr>
-<tr>
-<td width="96">
-<p><strong>2008</strong></p>
-</td>
-<td width="533">
-<p><strong>Straits Times National Schools Newspaper Competition</strong></p>
-<p><strong>&middot; Consolation Prize</strong></p>
-<p><strong>GMAC Competition</strong></p>
-<p><strong>&middot; 3<sup>rd</sup>&nbsp;Place (Lim Ying Yun, Martin Goh, Charmaine Toh, Saw Jia Hui)</strong></p>
-</td>
-</tr>
+												
 </tbody>
 </table>
+
 </div>
 <h4><strong>Competitions and CCA Activities</strong></h4>
 <p>Our CCA members are given the opportunity to apply their photography and videography knowledge and skills in various platforms. Some of the non-competition platforms are:</p>
