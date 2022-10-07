@@ -101,7 +101,7 @@ CCA ACHIEVEMENT
 	</td>
 </tr>
 
-<tr style=" background-color: #f3f3f3;">
+<tr style=" background-color: #f3f3f3;border-bottom: 2px solid #009879;">
 <td style="font-size:15px;"><strong>2008</strong></td>
 	<td style="font-size:15px;"><strong>Straits Times National Schools Newspaper Competition</strong>
 		<br>
