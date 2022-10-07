@@ -120,41 +120,77 @@ CCA ACHIEVEMENT
 </table>
 
 <h4><strong>Competitions and CCA Activities</strong></h4>
-<p>Our CCA members are given the opportunity to apply their photography and videography knowledge and skills in various platforms. Some of the non-competition platforms are:</p>
-<p>&ndash; school events and celebrations</p>
-<p>&ndash; Pei Hwa CCA Photo</p>
-<p>&ndash; student-led CCA activities/ projects</p>
+<p style="font-size:15px;">Our CCA members are given the opportunity to apply their photography and videography knowledge and skills in various platforms. Some of the non-competition platforms are:</p>
+
+<ul style="line-height:2;">
+<li style="font-size:15px;"> school events and celebrations</li>
+<li style="font-size:15px;"> Pei Hwa CCA Photo</li>
+<li style="font-size:15px;"> student-led CCA activities/ projects</li>
 <img style="width: 85%;" src="/images/ph1.jpg" />
-<p style="text-align: center;"><strong>NCC CCA photo taking by PH Times</strong></p>
-<p>Our CCA also encourages members to take part in the following competitions:</p>
-<p>&ndash; Our School, Our Stories Photo Contest</p>
-<p>&ndash; Anti Drug Video Competition</p>
+<p style="text-align: center; font-size:13px;margin-top:5px;"><strong>NCC CCA photo taking by PH Times</strong></p>
+</ul>
+
+<p style="font-size:15px;">Our CCA also encourages members to take part in the following competitions:</p>
+<ul style="line-height:2;">
+<li style="font-size:15px;"> Our School, Our Stories Photo Contest</li>
+<li style="font-size:15px;"> Anti Drug Video Competition</li>
+	</ul>
+	
 <h4><strong>&nbsp;Student Testament</strong></h4>
-<p>&ldquo;In PH Times, I have learnt about photography and photo editing skills which I use in doing what I like; editing pictures of cars by enhancing the visuals of the picture. My friends and relatives would also ask me to take photos of them after finding out what I do in the CCA. I was able to take better photos and apply different types of shots from different angles like the bird&rsquo;s eye view and over the shoulder shots. As a leader, I was able to communicate better with others and manage situations where different people have contrasting views and ideas.&rdquo;</p>
-<p><em>Vice-president 2021</em></p>
-<img style="width: 40%;" src="/images/ph2.jpg" align = "left" />
-<p>&ldquo;One of my greatest achievements in PH Times was being able to conduct CCA sessions on videography with my CCA members successfully. It was sometimes hard for me to find time to plan meaningful sessions for my members especially when we leaders had to discuss plans online because it was difficult to find a common time to meet up. Thus, I was glad to have been able to overcome this obstacle of not being able to meet with my other fellow leaders but still being able to plan sessions for my members. I have also made new friends in the CCA and I will definitely miss the times I spent with my seniors and juniors in PH Times.&rdquo;</p>
-<p><em>Head of Video</em></p>
+<blockquote style="font-size: 17PX;
+  width:100%;
+  margin:50px auto;
+  font-family:Open Sans;
+  font-style:italic;
+  color: #555555;
+  padding:1.2em 25px 1.2em 25px;
+  border-left:8px solid #78C0A8 ;
+  line-height:1.6;
+  position: relative;
+  background:#EDEDED;">
+  “In PH Times, I have learnt about photography and photo editing skills which I use in doing what I like; editing pictures of cars by enhancing the visuals of the picture. My friends and relatives would also ask me to take photos of them after finding out what I do in the CCA. I was able to take better photos and apply different types of shots from different angles like the bird&rsquo;s eye view and over the shoulder shots. As a leader, I was able to communicate better with others and manage situations where different people have contrasting views and ideas.&rdquo;”<span style="display:block; color:#333333; margin-top:1em;font-size:15px;"><em>Vice-president 2021</em></span>
+</blockquote>
+
+
+<blockquote style="font-size: 17px;
+  width:100%;
+  margin:50px auto;
+  font-family:Open Sans;
+  font-style:italic;
+  color: #555555;
+  padding:1.2em 25px 1.2em 25px;
+  border-left:8px solid #78C0A8 ;
+  line-height:1.6;
+  position: relative;
+  background:#EDEDED;">
+  “One of my greatest achievements in PH Times was being able to conduct CCA sessions on videography with my CCA members successfully. It was sometimes hard for me to find time to plan meaningful sessions for my members especially when we leaders had to discuss plans online because it was difficult to find a common time to meet up. Thus, I was glad to have been able to overcome this obstacle of not being able to meet with my other fellow leaders but still being able to plan sessions for my members. I have also made new friends in the CCA and I will definitely miss the times I spent with my seniors and juniors in PH Times.”<img style="width:40%; height:40%; margin-top:15px;"  src="/images/ph2.jpg">
+  <span style="display:block; color:#333333; margin-top:1em;font-size:15px;"><em>Head of Video</em></span>
+</blockquote>
+
+
+
 <h4><strong>CCA Details</strong></h4>
-<div>
-<table border="1" width="100%">
-<tbody>
+<table border="1" style="width:100%;">
+	<tbody>
+		<tr>
+			<td style="background-color: #54585d; font-weight: bold; font-size: 15px; border: 1px solid #54585d; color:white;border-bottom: 1px solid #dddddd; width:24%">Teacher-In-Charge</td>
+			<td style="border: 1px solid #dddfe1;font-size: 15px;">Mdm Rasyidah Binte Ramli</td>
+		</tr>
+
 <tr>
-<td width="24%"><strong>Teacher-in-Charge</strong></td>
-<td width="76%">Mdm Rasyidah Binte Ramli</td>
-</tr>
+			<td style="background-color: #54585d; font-weight: bold; font-size: 15px; border: 1px solid #54585d;border-bottom: 1px solid #dddddd; color:white;">CCA Teacher(s)</td>
+			<td style="border: 1px solid #dddfe1;font-size: 15px;">Ms Ari Sutanti Binte Haji Mispan<br>Mdm Woo Nam Cam<br>Miss Koh Ting Suen Jewel<br>Mr Liew Zhen Hong Joey</td>
+		</tr>
+
 <tr>
-<td width="24%"><strong>CCA Teacher(s)</strong></td>
-<td width="76%">Ms Ari Sutanti Binte Haji Mispan<br />Mr Tan Aik Fong<br />Mrs Yueh See Hwei</td>
-</tr>
+			<td style="background-color: #54585d; font-weight: bold; font-size: 15px; border: 1px solid #54585d; color:white;border-bottom: 1px solid #dddddd;">CCA Schedule</td>
+			<td style="border: 1px solid #dddfe1;font-size: 15px;">Friday 2.30pm - 6.00pm</td>
+		</tr>
+		
 <tr>
-<td width="24%"><strong>CCA Schedule</strong></td>
-<td width="76%">Tuesdays, 3.00 &ndash; 5.30 pm (Sec 1 and Sec 3)<br />Fridays, 2.30 &ndash; 5.30 pm (Sec 2, Sec 4 and Sec 5)</td>
-</tr>
-<tr>
-<td width="24%"><strong>Venues</strong></td>
-<td width="76%">Resilience 7, Resilience A, Computer Lab 2, Passion A, Media Production Studio</td>
-</tr>
+			<td style="background-color: #54585d; font-weight: bold; font-size: 15px; border: 1px solid #54585d; color:white;">Venues</td>
+			<td style="border: 1px solid #dddfe1;font-size: 15px;">Computer Lab 2, Passion A, Studio, Resillience</td>
+		</tr>
+		
 </tbody>
 </table>
-</div>
