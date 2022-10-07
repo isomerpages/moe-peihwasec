@@ -99,22 +99,22 @@ third_nav_title: Clubs & Societies
 <table border="1">
 	<tbody>
 		<tr>
-			<td style="background-color: #54585d; font-weight: bold; font-size: 15px; border: 1px solid #54585d; color:white;border-bottom: 1px solid #dddddd; ">Teacher-In-Charge</td>
+			<td style="background-color: #54585d; font-weight: bold; font-size: 15px; border: 1px solid #54585d; color:white;border-bottom: 1px solid #dddddd; text-align:right;">Teacher-In-Charge</td>
 			<td style="border: 1px solid #dddfe1;font-size: 15px;">Mr Foo Chang Yong John</td>
 		</tr>
 
 <tr>
-			<td style="background-color: #54585d; font-weight: bold; font-size: 15px; border: 1px solid #54585d;border-bottom: 1px solid #dddddd;  color:white;">CCA Teacher(s)</td>
+			<td style="background-color: #54585d; font-weight: bold; font-size: 15px; border: 1px solid #54585d;border-bottom: 1px solid #dddddd;  color:white;text-align:right;">CCA Teacher(s)</td>
 			<td style="border: 1px solid #dddfe1;font-size: 15px;">Ms Tang Wai Sim Wendy<br>Mr Toh Wee Teck<br>Ms Serene Oh</td>
 		</tr>
 
 <tr>
-			<td style="background-color: #54585d; font-weight: bold; font-size: 15px; border: 1px solid #54585d; color:white;border-bottom: 1px solid #dddddd; ">CCA Schedule</td>
+			<td style="background-color: #54585d; font-weight: bold; font-size: 15px; border: 1px solid #54585d; color:white;border-bottom: 1px solid #dddddd; text-align:right;">CCA Schedule</td>
 			<td style="border: 1px solid #dddfe1;font-size: 15px;">Tuesday 3.30pm - 6.00pm</td>
 		</tr>
 		
 <tr>
-			<td style="background-color: #54585d; font-weight: bold; font-size: 15px; border: 1px solid #54585d; color:white;">Venues</td>
+			<td style="background-color: #54585d; font-weight: bold; font-size: 15px; border: 1px solid #54585d; text-align:right;color:white;">Venues</td>
 			<td style="border: 1px solid #dddfe1;font-size: 15px;">Computer Lab 1 & 2</td>
 		</tr>
 		
