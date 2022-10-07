@@ -25,7 +25,7 @@ third_nav_title: Clubs & Societies
 	
 <h4><strong>Achievements</strong></h4>
 
-<table border="1" style="border-collapse: collapse;margin: 25px 0;font-size:15px;font-family: sans-serif;min-width: 400px; box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);">
+<table border="1" style="border-collapse: collapse;margin: 25px 0;font-size:15px;font-family: sans-serif;box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);">
 	
 <thead style="background-color: #009879; font-weight: bold; font-size: 16px;">
 	<tr>
