@@ -22,8 +22,6 @@ third_nav_title: Clubs & Societies
 	<li style="font-size:15px; line-height:2;">Sec 3: Video/Video editing</li>
 </ul>
 
-CCA ACHIEVEMENT
-
 <table border="1" style="border-collapse: collapse;margin: 25px 0;font-size:15px;font-family: sans-serif;box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);">
 	
 <thead style="background-color: #009879; font-weight: bold; font-size: 16px;">
@@ -40,7 +38,6 @@ CCA ACHIEVEMENT
 		<br>
 		<ul>
 			<li style="font-size:15px;margin-bottom:5px;">&middot; 2<sup>nd</sup> Runner-up (Carina Chew)</li>
-</li>
 		</ul>
 	</td>
 </tr>
@@ -148,7 +145,7 @@ CCA ACHIEVEMENT
   line-height:1.6;
   position: relative;
   background:#EDEDED;">
-  “In PH Times, I have learnt about photography and photo editing skills which I use in doing what I like; editing pictures of cars by enhancing the visuals of the picture. My friends and relatives would also ask me to take photos of them after finding out what I do in the CCA. I was able to take better photos and apply different types of shots from different angles like the bird&rsquo;s eye view and over the shoulder shots. As a leader, I was able to communicate better with others and manage situations where different people have contrasting views and ideas.&rdquo;”<span style="display:block; color:#333333; margin-top:1em;font-size:15px;"><em>Vice-president 2021</em></span>
+  “In PH Times, I have learnt about photography and photo editing skills which I use in doing what I like; editing pictures of cars by enhancing the visuals of the picture. My friends and relatives would also ask me to take photos of them after finding out what I do in the CCA. I was able to take better photos and apply different types of shots from different angles like the bird&rsquo;s eye view and over the shoulder shots. As a leader, I was able to communicate better with others and manage situations where different people have contrasting views and ideas.”<span style="display:block; color:#333333; margin-top:1em;font-size:15px;"><em>Vice-president 2021</em></span>
 </blockquote>
 
 
