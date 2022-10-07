@@ -45,9 +45,10 @@ third_nav_title: Clubs & Societies
 <li style="font-size:15px;"> &lsquo;Start the day with a glass of water&rsquo; First Prize, Youth Category to Kelly Teo</li>
 <img src="/images/phac2.jpg" style="width:50%; height:auto;">
 <p style="font-size:13px;text-align:center; margin:5px;"> &lsquo;Start the day with a glass of water&rsquo; By Kelly Teo</p>
-				</ul>
+</ul>
 	</td>
-</tr>							
+</tr>
+	
 </tbody>
 </table>
 
