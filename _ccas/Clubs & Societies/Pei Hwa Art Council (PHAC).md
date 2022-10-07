@@ -27,15 +27,14 @@ third_nav_title: Clubs & Societies
 <tbody>
 <tr style="border-bottom: 1px solid #dddddd;">
 <td><strong>2020</strong></td>
-	<td style="font-size:15px;"><strong>Live On Design Competition &lsquo;From Fears to Dreams&rsquo; &amp; &lsquo;A New Beginning&rsquo;</strong>
+<td style="font-size:15px;"><strong>Live On Design Competition &lsquo;From Fears to Dreams&rsquo; &amp; &lsquo;A New Beginning&rsquo;</strong>
 		<br>
 		<ul>
 			<li style="font-size:15px;margin-bottom:5px;"> Awarded Special Mention, Schools Category, 2020 to Ong Zirui, Jesserel</li>
-</li>
 		</ul>
-<img src="/images/phac1.jpg">
+<img src="/images/phac1.jpg" style="width:60%; height:auto;">
 <p style="font-size:13px; text-align:center; margin:5px;"> Painting Your Future, Digital Illustration By Jesserel Ong
-	</td>
+</td>
 </tr>
 															
 <tr style=" background-color: #f3f3f3;">
@@ -44,8 +43,8 @@ third_nav_title: Clubs & Societies
 		<br>
 		<ul> 
 			<li style="font-size:15px;"> &lsquo;Start the day with a glass of water&rsquo; First Prize, Youth Category to Kelly Teo</li>
-<img src="/images/phac2.jpg">
-<p style="font-size:13px;text-align:center; margin:5px;"> &lsquo;Start the day with a glass of water&rsquo; By Kelly Teo
+<img src="/images/phac2.jpg" style="width:50%; height:auto;">
+<p style="font-size:13px;text-align:center; margin:5px;"> &lsquo;Start the day with a glass of water&rsquo; By Kelly Teo</p>
 				</ul>
 	</td>
 </tr>
