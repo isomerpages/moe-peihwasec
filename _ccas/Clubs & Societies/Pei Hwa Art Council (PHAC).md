@@ -7,12 +7,13 @@ third_nav_title: Clubs & Societies
 <p style="font-size:15px;"><strong>Pei Hwa Art Council</strong>&nbsp;is a visual arts CCA which aims to provide students with opportunities to grow creatively. Students are exposed to a mix of fine art and design skills such as drawing and painting, ceramics and digital art to allow them a hands-on at trying out different media. They are also given opportunities to showcase their strengths and talents by participating in various competitions and Values in Action in order to give back to the community.</p>
 
 <h4><strong>Student Outcomes</strong></h4>
-<p>The CCA will enable our students to:</p>
+<p style="font-size:15px; line-height:2;">The CCA will enable our students to:</p>
 <ul>
-<li>develop better observational and problem-solving skills</li>
-<li>have greater awareness of the arts in order to increase appreciation and participation in the CCA and beyond</li>
-<li>provide support to the school for school-wide events and in partnering with the community</li>
+	<li style="font-size:15px; line-height:2;"> develop better observational and problem-solving skills</li>
+	<li style="font-size:15px; line-height:2;"> have greater awareness of the arts in order to increase appreciation and participation in the CCA and beyond</li>
+	<li style="font-size:15px; line-height:2;"> provide support to the school for school-wide events and in partnering with the community</li>
 </ul>
+
 <h4><strong>Achievements</strong></h4>
 <table border="1">
 <tbody>
