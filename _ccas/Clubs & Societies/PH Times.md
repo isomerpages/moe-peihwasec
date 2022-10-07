@@ -31,7 +31,7 @@ third_nav_title: Clubs & Societies
 	<td style="font-size:15px;"><strong>Canon Photomarathon</strong>
 		<br>
 		<ul>
-			<li style="font-size:15px;margin-bottom:5px;">&middot; 2<sup>nd</sup> Runner-up (Carina Chew)</li>
+			<li style="font-size:15px;margin-bottom:5px;">2<sup>nd</sup> Runner-up (Carina Chew)</li>
 		</ul>
 	</td>
 </tr>
@@ -49,7 +49,7 @@ third_nav_title: Clubs & Societies
 <td style="font-size:15px;"><strong>2012</strong></td>
 	<td style="font-size:15px;"><strong>National Photography Competition 'Climate Change'</strong>
 		<ul> 
-			<li style="font-size:15px;">&middot; 2<sup>nd</sup> Prize (Amanda Goh)</li>
+			<li style="font-size:15px;">2<sup>nd</sup> Prize (Amanda Goh)</li>
 <li style="font-size:15px;margin-bottom:5px;"> Consolation (Aaron Lim)</li>
 		</ul>
 	</td>
@@ -67,12 +67,12 @@ third_nav_title: Clubs & Societies
 <strong>Freshness of Life by School of Photography</strong>
 		<br>
 		<ul> 
-			<li style="font-size:15px;margin-bottom:5px;">&middot; 1<sup>st</sup> Prize (Dion Lim)</li>
+			<li style="font-size:15px;margin-bottom:5px;">1<sup>st</sup> Prize (Dion Lim)</li>
 		</ul>
 	<strong>N3 Cluster International Friendship Day Photography Competition</strong>
 		<br>
 		<ul> 
-			<li style="font-size:15px; margin-bottom:5px;">&middot; 1<sup>st</sup> Prize</li>
+			<li style="font-size:15px; margin-bottom:5px;"> 1<sup>st</sup> Prize</li>
 		</ul>
 	</td>
 </tr>
@@ -102,7 +102,7 @@ third_nav_title: Clubs & Societies
 	<strong>GMAC Competition</strong>
 		<br>
 		<ul> 
-			<li style="font-size:15px; margin-bottom:5px;"> &middot; 3<sup>rd</sup> Place (Lim Ying Yun, Martin Goh, Charmaine Toh, Saw Jia Hui)</li>
+			<li style="font-size:15px; margin-bottom:5px;"> 3<sup>rd</sup> Place (Lim Ying Yun, Martin Goh, Charmaine Toh, Saw Jia Hui)</li>
 		</ul>
 	</td>
 </tr>
