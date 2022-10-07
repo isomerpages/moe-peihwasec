@@ -47,8 +47,7 @@ third_nav_title: Clubs & Societies
 <p style="font-size:13px;text-align:center; margin:5px;"> &lsquo;Start the day with a glass of water&rsquo; By Kelly Teo</p>
 				</ul>
 	</td>
-</tr>
-												
+</tr>							
 </tbody>
 </table>
 
