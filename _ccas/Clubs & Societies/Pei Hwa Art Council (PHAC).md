@@ -95,7 +95,7 @@ third_nav_title: Clubs & Societies
   font-family:Open Sans;
   font-style:italic;
   color: #555555;
-  padding:1.2em 30px 1.2em 75px;
+  padding:1.2em 25px 1.2em 25px;
   border-left:8px solid #78C0A8 ;
   line-height:1.6;
   position: relative;
@@ -105,7 +105,7 @@ third_nav_title: Clubs & Societies
   color:#333333;
   font-style: normal;
   font-weight: bold;
-  margin-top:1em;">Tan Si Hui Nicole, 4D8,&nbsp;<em>PHAC President of PHA2020-21</em></span>
+  margin-top:1em; font-size:15px;">Tan Si Hui Nicole, 4D8,&nbsp;<em>PHAC President of PHA2020-21</em></span>
 </blockquote>
 
 
@@ -115,8 +115,8 @@ third_nav_title: Clubs & Societies
   font-family:Open Sans;
   font-style:italic;
   color: #555555;
-  padding:1.2em 30px 1.2em 75px;
-  border-left:8px solid #78C0A8 ;
+  padding:1.2em 25px 1.2em 25px;
+  border-right:8px solid #78C0A8 ;
   line-height:1.6;
   position: relative;
   background:#EDEDED;">
@@ -125,7 +125,7 @@ third_nav_title: Clubs & Societies
   color:#333333;
   font-style: normal;
   font-weight: bold;
-               margin-top:1em;">Ong Zirui, Jesserel, 4D6, <em>PHAC Treasurer 2020-21</em></span>
+               margin-top:1em; font-size:15px;">Ong Zirui, Jesserel, 4D6, <em>PHAC Treasurer 2020-21</em></span>
 </blockquote>
 
 
