@@ -96,7 +96,7 @@ third_nav_title: Clubs & Societies
 <hr>
 	
 <h4><strong>CCA Details</strong></h4>
-<table border="1" style="width:70%;">
+<table border="1">
 	<tbody>
 		<tr>
 			<td style="background-color: #54585d; font-weight: bold; font-size: 15px; border: 1px solid #54585d; color:white;border-bottom: 1px solid #dddddd; ">Teacher-In-Charge</td>
