@@ -100,12 +100,8 @@ third_nav_title: Clubs & Societies
   line-height:1.6;
   position: relative;
   background:#EDEDED;">
-  “It has been an honour serving as the president of Pei Hwa Art Council. PHAC has enabled me to develop my artistic and creative skills through trying out different mediums and artforms such as watercolour, digital media and ceramics. The process of creating an artwork is thrilling and I feel a great sense of accomplishment when I complete a piece, especially when I can bring it home for keepsake. PHAC has allowed me to use my creativity in other ways to develop my leadership skills like planning games and activities for my CCA mates. It’s great to see everyone having fun and bonding together at PHAC.”<img style="width:60%; height:auto;" src="/images/phac4.jpg">
-  <span style="display:block;
-  color:#333333;
-  font-style: normal;
-  font-weight: bold;
-  margin-top:1em; font-size:15px;">Tan Si Hui Nicole, 4D8,&nbsp;<em>PHAC President of PHA2020-21</em></span>
+  “It has been an honour serving as the president of Pei Hwa Art Council. PHAC has enabled me to develop my artistic and creative skills through trying out different mediums and artforms such as watercolour, digital media and ceramics. The process of creating an artwork is thrilling and I feel a great sense of accomplishment when I complete a piece, especially when I can bring it home for keepsake. PHAC has allowed me to use my creativity in other ways to develop my leadership skills like planning games and activities for my CCA mates. It’s great to see everyone having fun and bonding together at PHAC.”<img style="width:40%; height:auto; margin-top:15px;" src="/images/phac4.jpg">
+  <span style="display:block; color:#333333; margin-top:1em;font-size:15px;">Tan Si Hui Nicole, 4D8,&nbsp;<em>PHAC President of PHA2020-21</em></span>
 </blockquote>
 
 
@@ -120,31 +116,33 @@ third_nav_title: Clubs & Societies
   line-height:1.6;
   position: relative;
   background:#EDEDED;">
-  “Pei Hwa Art Council exposed me to multiple forms of art such as ceramics, watercolour and digital drawings. I enjoyed being able to host a bunch of activities and games for my members to enjoy and seeing them have fun while being able to hone their artistic abilities. Being in PHAC not only helped me improve in Art, but also it helped me to grow as a leader too.”<img style="width:60%; height:auto;" src="/images/phac5.jpg">
-  <span style="display:block; color:#333333; font-style: normal; font-weight: bold;margin-top:1em; font-size:15px;">Ong Zirui, Jesserel, 4D6, <em>PHAC Treasurer 2020-21</em></span>
+  “Pei Hwa Art Council exposed me to multiple forms of art such as ceramics, watercolour and digital drawings. I enjoyed being able to host a bunch of activities and games for my members to enjoy and seeing them have fun while being able to hone their artistic abilities. Being in PHAC not only helped me improve in Art, but also it helped me to grow as a leader too.”<img style="width:40%; height:40%; margin-top:15px;" src="/images/phac5.jpg">
+  <span style="display:block; color:#333333; margin-top:1em;font-size:15px;">Ong Zirui, Jesserel, 4D6, <em>PHAC Treasurer 2020-21</em></span>
 </blockquote>
 
 
 <h4><strong>CCA Details</strong></h4>
-<div>
-<table width="100%" border="1">
-<tbody>
+<table border="1" style="width:100%;">
+	<tbody>
+		<tr>
+			<td style="background-color: #54585d; font-weight: bold; font-size: 15px; border: 1px solid #54585d; color:white;border-bottom: 1px solid #dddddd; width:24%">Teacher-In-Charge</td>
+			<td style="border: 1px solid #dddfe1;font-size: 15px;">Miss Shenu Binte Hamidun</td>
+		</tr>
+
 <tr>
-<td width="24%"><strong>Teacher-in-Charge</strong></td>
-<td width="76%">Miss Shenu Binte Hamidun</td>
-</tr>
+			<td style="background-color: #54585d; font-weight: bold; font-size: 15px; border: 1px solid #54585d;border-bottom: 1px solid #dddddd; color:white;">CCA Teacher(s)</td>
+			<td style="border: 1px solid #dddfe1;font-size: 15px;">Mrs Gillian Lee<br>Mdm Seveeneshwary d/o Rajarethinam</td>
+		</tr>
+
 <tr>
-<td width="24%"><strong>CCA Teacher(s)</strong></td>
-<td width="76%">Miss Mary Seah<br>Mrs Gillian Lee</td>
-</tr>
+			<td style="background-color: #54585d; font-weight: bold; font-size: 15px; border: 1px solid #54585d; color:white;border-bottom: 1px solid #dddddd;">CCA Schedule</td>
+			<td style="border: 1px solid #dddfe1;font-size: 15px;">Friday 2.30pm - 6.00pm</td>
+		</tr>
+		
 <tr>
-<td width="24%"><strong>CCA Schedule</strong></td>
-<td width="76%">Every Friday afternoon, 2.30 pm – 6 pm</td>
-</tr>
-<tr>
-<td width="24%"><strong>Venues</strong></td>
-<td width="76%">Art Studio 1</td>
-</tr>
+			<td style="background-color: #54585d; font-weight: bold; font-size: 15px; border: 1px solid #54585d; color:white;">Venues</td>
+			<td style="border: 1px solid #dddfe1;font-size: 15px;">Art Studio 1 & 2</td>
+		</tr>
+		
 </tbody>
 </table>
-</div>
