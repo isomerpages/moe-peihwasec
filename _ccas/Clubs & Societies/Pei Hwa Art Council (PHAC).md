@@ -88,26 +88,25 @@ third_nav_title: Clubs & Societies
 <hr>
 
 <h4><strong>Student Testament</strong></h4>
-<blockquote style="margin: 3.7em auto;
-  padding: 2em;
-  background: linear-gradient(white, white) padding-box,border-box  0 / cover;
-  border: 2em solid transparent;
-  box-shadow: 5px 3px 30px black;
-  font-size: 1.4em;
-  font-family: 'Lora', serif;
-  font-style: italic;
-  line-height: 1.5;
-  width: 100%;">"It has been an honour serving as the president of Pei Hwa Art Council. PHAC has enabled me to develop my artistic and creative skills through trying out different mediums and artforms such as watercolour, digital media and ceramics. The process of creating an artwork is thrilling and I feel a great sense of accomplishment when I complete a piece, especially when I can bring it home for keepsake. PHAC has allowed me to use my creativity in other ways to develop my leadership skills like planning games and activities for my CCA mates. It&rsquo;s great to see everyone having fun and bonding together at PHAC"<img src="/images/phac4.jpg">
-  <footer style="padding-top: 1.3em;">&mdash;
-    <cite style="  font-style: normal;
-  font-size: 1.2em;
-  font-weight: bold;">
-        Tan Si Hui Nicole, 4D8,&nbsp;</em><em>PHAC President of PHA2020-21
-    </cite>
-  </footer>
-</blockquote>
 
-<img src="/images/phac4.jpg">
+<blockquote style=" font-size: 1.4em;
+  width:60%;
+  margin:50px auto;
+  font-family:Open Sans;
+  font-style:italic;
+  color: #555555;
+  padding:1.2em 30px 1.2em 75px;
+  border-left:8px solid #78C0A8 ;
+  line-height:1.6;
+  position: relative;
+  background:#EDEDED;">
+  &ldquo;It has been an honour serving as the president of Pei Hwa Art Council. PHAC has enabled me to develop my artistic and creative skills through trying out different mediums and artforms such as watercolour, digital media and ceramics. The process of creating an artwork is thrilling and I feel a great sense of accomplishment when I complete a piece, especially when I can bring it home for keepsake. PHAC has allowed me to use my creativity in other ways to develop my leadership skills like planning games and activities for my CCA mates. It&rsquo;s great to see everyone having fun and bonding together at PHAC.&rdquo;<img src="/images/phac4.jpg">
+  <span style=" display:block;
+  color:#333333;
+  font-style: normal;
+  font-weight: bold;
+  margin-top:1em;">Tan Si Hui Nicole, 4D8,&nbsp;</em><em>PHAC President of PHA2020-21</em></span>
+</blockquote>
 <p>&ldquo;Pei Hwa Art Council exposed me to multiple forms of art such as ceramics, watercolour and digital drawings. I enjoyed being able to host a bunch of activities and games for my members to enjoy and seeing them have fun while being able to hone their artistic abilities. Being in PHAC not only helped me improve in Art, but also it helped me to grow as a leader too.&rdquo;</p>
 <p style="text-align: right;"><em>Ong Zirui, Jesserel, 4D6, PHAC Treasurer 2020-21</em></p>
 <img src="/images/phac5.jpg">
