@@ -31,8 +31,8 @@ third_nav_title: Clubs & Societies
 		<br>
 		<ul>
 			<li style="font-size:15px;margin-bottom:5px;">CoSpace Rescue, 2<sup>nd</sup> Place and Merit Award</li>
-                                <li style="font-size:15px;margin-bottom:5px;">CoSpace Rescue, FirstSteps, 1<sub>st</sup>, 2<sup>nd</sup>, 3<sub>rd</sup> Place, One Distinction and four Merit Awards</li>
-                               <li style="font-size:15px;margin-bottom:5px;">CoSpace Autonomous Driving,  1<sub>st</sup>, 2<sup>nd</sup>, 3<sub>rd</sup> Place, One Distinction and three Merit awards</li>
+                                <li style="font-size:15px;margin-bottom:5px;">CoSpace Rescue, FirstSteps, 1<sup>st</sup>, 2<sup>nd</sup>, 3<sup>rd</sup> Place, One Distinction and four Merit Awards</li>
+                               <li style="font-size:15px;margin-bottom:5px;">CoSpace Autonomous Driving,  1<sup>st</sup>, 2<sup>nd</sup>, 3<sup>rd</sup> Place, One Distinction and three Merit awards</li>
 		</ul>
 	</td>
 </tr>
@@ -80,7 +80,7 @@ third_nav_title: Clubs & Societies
 		<ul> 
 			<li style="font-size:15px;margin-bottom:5px;">2<sup>nd</sup>, 3<sup>rd</sup> & 4<sup>th</sup> Place (RoboCupJunior CoSpace Rescue)</li>
                                 <li style="font-size:15px;margin-bottom:5px;">2<sup>nd</sup> & 3<sup>rd</sup> Place (RoboCup Asia Pacific CoSpace Rescue)</li>
-                                <li style="font-size:15px;margin-bottom:5px;">1<sup>st<sup> Place (RoboCup Asia Pacific CoSpace Grand Prix)</li>
+                                <li style="font-size:15px;margin-bottom:5px;">1<sup>st</sup> Place (RoboCup Asia Pacific CoSpace Grand Prix)</li>
                                 <li style="font-size:15px;margin-bottom:5px;">2<sup>nd</sup>, 3<sup>rd</sup> Place (RoboCup Asia Pacific CoSpace Logistics)
 		</ul>
 	</td>
@@ -91,10 +91,10 @@ third_nav_title: Clubs & Societies
 	<td style="font-size:15px;"><strong>RoboCupJunior Singapore Open</strong>
 		<br>
 		<ul> 
-			<li style="font-size:15px;margin-bottom:5px;">1<sup>st<sup> 2<sup>nd</sup>, 3<sup>rd</sup> & 4<sup>th</sup> Place (RoboCupJunior CoSpace Rescue)</li>
-                                <li style="font-size:15px;margin-bottom:5px;">1<sup>st<sup> & 2<sup>nd</sup>Place (RoboCupJunior CoSpace Rescue – SuperTeam)</li>
-                                <li style="font-size:15px;margin-bottom:5px;">3rd Place (RoboCupJunior CoSpace Grand Prix)</li>
-                                <li style="font-size:15px;margin-bottom:5px;">1<sup>st<sup> & 2<sup>nd</sup> Place (RoboCupJunior CoSpace Logistics)</li>                                
+			<li style="font-size:15px;margin-bottom:5px;">1<sup>st</sup> 2<sup>nd</sup>, 3<sup>rd</sup> & 4<sup>th</sup> Place (RoboCupJunior CoSpace Rescue)</li>
+                                <li style="font-size:15px;margin-bottom:5px;">1<sup>st</sup> & 2<sup>nd</sup>Place (RoboCupJunior CoSpace Rescue – SuperTeam)</li>
+																	<li style="font-size:15px;margin-bottom:5px;">3<sup>rd</sup> Place (RoboCupJunior CoSpace Grand Prix)</li>
+                                <li style="font-size:15px;margin-bottom:5px;">1<sup>st</sup> & 2<sup>nd</sup> Place (RoboCupJunior CoSpace Logistics)</li>                                
                                 <li style="font-size:15px;margin-bottom:5px;">Best Achievement Award</li>
 		</ul>
 	<strong>RoboCup 2017 (Nagoya, Japan)</strong>
