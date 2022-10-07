@@ -19,7 +19,7 @@ third_nav_title: Clubs & Societies
 <hr>
 
 <h4><strong>Achievements</strong></h4>
-<table border="1" style="border-collapse: collapse;margin: 25px 0;font-size:15px;font-family: sans-serif;box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);">
+<table style="border-collapse: collapse;margin: 25px 0;font-size:15px;font-family: sans-serif;box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);" border="1">
 	
 <thead style="background-color: #009879; font-weight: bold; font-size: 16px;">
 	<tr>
@@ -31,25 +31,25 @@ third_nav_title: Clubs & Societies
 <tbody>
 <tr style="border-bottom: 1px solid #dddddd;">
 <td><strong>2020</strong></td>
-<td style="font-size:15px;"><strong>Live On Design Competition &lsquo;From Fears to Dreams&rsquo; &amp; &lsquo;A New Beginning&rsquo;</strong>
+<td style="font-size:15px;"><strong>Live On Design Competition ‘From Fears to Dreams’ &amp; ‘A New Beginning’</strong>
 <br>
 <ul>
 <li style="font-size:15px;margin-bottom:5px;"> Awarded Special Mention, Schools Category, 2020 to Ong Zirui, Jesserel</li>
 
-<img src="/images/phac1.jpg" style="width:60%; height:auto;">
+<img style="width:60%; height:auto;" src="/images/phac1.jpg">
 <p style="font-size:13px; text-align:center; margin:5px;"> Painting Your Future, Digital Illustration By Jesserel Ong</p>
 	</ul>
 </td>
 </tr>
 														
-<tr style=" background-color: #f3f3f3;">
+<tr style="background-color: #f3f3f3;">
 <td style="font-size:15px;"><strong>2018</strong></td>
 <td style="font-size:15px;"><strong>NKF Schools Postcard Design Contest</strong>
 <br>
 <ul> 
-<li style="font-size:15px;"> &lsquo;Start the day with a glass of water&rsquo; First Prize, Youth Category to Kelly Teo</li>
-<img src="/images/phac2.jpg" style="width:60%; height:auto;">
-<p style="font-size:13px;text-align:center; margin:5px;"> &lsquo;Start the day with a glass of water&rsquo; By Kelly Teo</p>
+<li style="font-size:15px;"> ‘Start the day with a glass of water’ First Prize, Youth Category to Kelly Teo</li>
+<img style="width:60%; height:auto;" src="/images/phac2.jpg">
+<p style="font-size:13px;text-align:center; margin:5px;"> ‘Start the day with a glass of water’ By Kelly Teo</p>
 </ul>
 	</td>
 </tr>
@@ -59,28 +59,28 @@ third_nav_title: Clubs & Societies
 <hr>
 
 <h4><strong>Competitions and CCA Activities</strong></h4>
-<p style="font-size:15px;">PHAC tries to strike a balance between learning new skills, taking part in competitions, supporting school events and in giving back to the community. Our recent participation was &lsquo;Draw My Stamp Story Art Competition&rsquo; organised by Singapore Philatelic Museum (SPM) to help students understand and appreciate the importance of designs reflected on our Singapore stamps. Previously, we also took part in the Live On Design Competition which included a Values in Action segment for students to be able to have an insight into the lives of patients and donors. We also put our artistic skills to good use by creating silkscreen designs on tote bags as part of our CCA&rsquo;s efforts in raising funds for our school&rsquo;s adopted voluntary welfare organisations during Community Day 2019. When we are not busy taking part in competitions, we have fun going on learning journeys and camps to recharge and learn new skills.</p>
+<p style="font-size:15px;">PHAC tries to strike a balance between learning new skills, taking part in competitions, supporting school events and in giving back to the community. Our recent participation was ‘Draw My Stamp Story Art Competition’ organised by Singapore Philatelic Museum (SPM) to help students understand and appreciate the importance of designs reflected on our Singapore stamps. Previously, we also took part in the Live On Design Competition which included a Values in Action segment for students to be able to have an insight into the lives of patients and donors. We also put our artistic skills to good use by creating silkscreen designs on tote bags as part of our CCA’s efforts in raising funds for our school’s adopted voluntary welfare organisations during Community Day 2019. When we are not busy taking part in competitions, we have fun going on learning journeys and camps to recharge and learn new skills.</p>
 <ul style="font-size:15px;">
 	<li style="font-size:15px; line-height:2;">2021 Draw My Stamp Story Art Competition</li>
-	<li style="font-size:15px; line-height:2;">2021 Live On Design Competition &lsquo;Bridge of Hope&rsquo; &amp; &lsquo;In Search of Hope&rsquo;</li>
-	<li style="font-size:15px; line-height:2;">2020 Live On Design Competition &lsquo;From Fears to Dreams&rsquo; &amp; &lsquo;A New Beginning&rsquo;</li>
-<li>2020 Live On Values in Action</li>
-<li>2019 PHAC 2D Day Camp</li>
-<li>2019 PHSS Open House</li>
-<li>2019 NYP IDM Day</li>
-<li>2019 Young Illustrator Award Competition</li>
-<li>2019 Community Day</li>
-<li>2019 Learning Journey to National Gallery &ndash; to discover different narratives in art and to develop visual literacy and interpretive abilities</li>
-<li>2019 CCA Fiesta</li>
-<li>2018 PHAC 2D1N Visual and Performing Arts Camp</li>
-<li>2018 PHSS Open House</li>
-<li>2018 Digital Manga Workshop &ndash; to expose students to digital sketching and inking through Manga</li>
-<li>2018 NKF Schools Postcard Design Contest</li>
-<li>2018 CCA Fiesta</li>
-<li>2017 Day Camp: Learning Journey to Singapore Art Museum and Singapore Tyler Print Institute</li>
-<li>2017 Nature Walks: Changi Intertidal Walk</li>
-<li>2017 Glass Mosaic Workshop</li>
-<li>2017 CCA Fiesta</li>
+	<li style="font-size:15px; line-height:2;">2021 Live On Design Competition ‘Bridge of Hope’ &amp; ‘In Search of Hope’</li>
+	<li style="font-size:15px; line-height:2;">2020 Live On Design Competition ‘From Fears to Dreams’ &amp; ‘A New Beginning’</li>
+<li style="font-size:15px; line-height:2;">2020 Live On Values in Action</li>
+<li style="font-size:15px; line-height:2;">2019 PHAC 2D Day Camp</li>
+<li style="font-size:15px; line-height:2;">2019 PHSS Open House</li>
+<li style="font-size:15px; line-height:2;">2019 NYP IDM Day</li>
+<li style="font-size:15px; line-height:2;">2019 Young Illustrator Award Competition</li>
+<li style="font-size:15px; line-height:2;">2019 Community Day</li>
+<li style="font-size:15px; line-height:2;">2019 Learning Journey to National Gallery – to discover different narratives in art and to develop visual literacy and interpretive abilities</li>
+<li style="font-size:15px; line-height:2;">2019 CCA Fiesta</li>
+2018 PHAC 2D1N Visual and Performing Arts Camp
+<li style="font-size:15px; line-height:2;">2018 PHSS Open House</li>
+<li style="font-size:15px; line-height:2;">2018 Digital Manga Workshop – to expose students to digital sketching and inking through Manga</li>
+<li style="font-size:15px; line-height:2;">2018 NKF Schools Postcard Design Contest</li>
+<li style="font-size:15px; line-height:2;">2018 CCA Fiesta</li>
+<li style="font-size:15px; line-height:2;">2017 Day Camp: Learning Journey to Singapore Art Museum and Singapore Tyler Print Institute</li>
+<li style="font-size:15px; line-height:2;">2017 Nature Walks: Changi Intertidal Walk</li>
+<li style="font-size:15px; line-height:2;">2017 Glass Mosaic Workshop</li>
+<li style="font-size:15px; line-height:2;">2017 CCA Fiesta</li>
 </ul>
 
 <img src="/images/phac3.png">
@@ -89,7 +89,7 @@ third_nav_title: Clubs & Societies
 
 <h4><strong>Student Testament</strong></h4>
 
-<blockquote style=" font-size: 15PX;
+<blockquote style="font-size: 15PX;
   width:100%;
   margin:50px auto;
   font-family:Open Sans;
@@ -100,8 +100,8 @@ third_nav_title: Clubs & Societies
   line-height:1.6;
   position: relative;
   background:#EDEDED;">
-  &ldquo;It has been an honour serving as the president of Pei Hwa Art Council. PHAC has enabled me to develop my artistic and creative skills through trying out different mediums and artforms such as watercolour, digital media and ceramics. The process of creating an artwork is thrilling and I feel a great sense of accomplishment when I complete a piece, especially when I can bring it home for keepsake. PHAC has allowed me to use my creativity in other ways to develop my leadership skills like planning games and activities for my CCA mates. It&rsquo;s great to see everyone having fun and bonding together at PHAC.&rdquo;<img src="/images/phac4.jpg">
-  <span style=" display:block;
+  “It has been an honour serving as the president of Pei Hwa Art Council. PHAC has enabled me to develop my artistic and creative skills through trying out different mediums and artforms such as watercolour, digital media and ceramics. The process of creating an artwork is thrilling and I feel a great sense of accomplishment when I complete a piece, especially when I can bring it home for keepsake. PHAC has allowed me to use my creativity in other ways to develop my leadership skills like planning games and activities for my CCA mates. It’s great to see everyone having fun and bonding together at PHAC.”<img style="width:60%; height:auto;" src="/images/phac4.jpg">
+  <span style="display:block;
   color:#333333;
   font-style: normal;
   font-weight: bold;
@@ -109,7 +109,7 @@ third_nav_title: Clubs & Societies
 </blockquote>
 
 
-<blockquote style=" font-size: 15px;
+<blockquote style="font-size: 15px;
   width:100%;
   margin:50px auto;
   font-family:Open Sans;
@@ -120,8 +120,8 @@ third_nav_title: Clubs & Societies
   line-height:1.6;
   position: relative;
   background:#EDEDED;">
-  &ldquo;Pei Hwa Art Council exposed me to multiple forms of art such as ceramics, watercolour and digital drawings. I enjoyed being able to host a bunch of activities and games for my members to enjoy and seeing them have fun while being able to hone their artistic abilities. Being in PHAC not only helped me improve in Art, but also it helped me to grow as a leader too.&rdquo;<img src="/images/phac5.jpg">
-  <span style=" display:block;
+  “Pei Hwa Art Council exposed me to multiple forms of art such as ceramics, watercolour and digital drawings. I enjoyed being able to host a bunch of activities and games for my members to enjoy and seeing them have fun while being able to hone their artistic abilities. Being in PHAC not only helped me improve in Art, but also it helped me to grow as a leader too.”<img style="width:60%; height:auto;" src="/images/phac5.jpg">
+  <span style="display:block;
   color:#333333;
   font-style: normal;
   font-weight: bold;
@@ -131,7 +131,7 @@ third_nav_title: Clubs & Societies
 
 <h4><strong>CCA Details</strong></h4>
 <div>
-<table border="1" width="100%">
+<table width="100%" border="1">
 <tbody>
 <tr>
 <td width="24%"><strong>Teacher-in-Charge</strong></td>
@@ -139,11 +139,11 @@ third_nav_title: Clubs & Societies
 </tr>
 <tr>
 <td width="24%"><strong>CCA Teacher(s)</strong></td>
-<td width="76%">Miss Mary Seah<br />Mrs Gillian Lee</td>
+<td width="76%">Miss Mary Seah<br>Mrs Gillian Lee</td>
 </tr>
 <tr>
 <td width="24%"><strong>CCA Schedule</strong></td>
-<td width="76%">Every Friday afternoon, 2.30 pm &ndash; 6 pm</td>
+<td width="76%">Every Friday afternoon, 2.30 pm – 6 pm</td>
 </tr>
 <tr>
 <td width="24%"><strong>Venues</strong></td>
