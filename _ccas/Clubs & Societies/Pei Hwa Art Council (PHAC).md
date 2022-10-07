@@ -39,10 +39,10 @@ third_nav_title: Clubs & Societies
 															
 <tr style=" background-color: #f3f3f3;">
 <td style="font-size:15px;"><strong>2018</strong></td>
-	<td style="font-size:15px;"><strong>NKF Schools Postcard Design Contest</strong>
+<td style="font-size:15px;"><strong>NKF Schools Postcard Design Contest</strong>
 		<br>
-		<ul> 
-			<li style="font-size:15px;"> &lsquo;Start the day with a glass of water&rsquo; First Prize, Youth Category to Kelly Teo</li>
+<ul> 
+<li style="font-size:15px;"> &lsquo;Start the day with a glass of water&rsquo; First Prize, Youth Category to Kelly Teo</li>
 <img src="/images/phac2.jpg" style="width:50%; height:auto;">
 <p style="font-size:13px;text-align:center; margin:5px;"> &lsquo;Start the day with a glass of water&rsquo; By Kelly Teo</p>
 				</ul>
