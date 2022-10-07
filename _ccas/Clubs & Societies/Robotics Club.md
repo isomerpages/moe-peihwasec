@@ -15,7 +15,7 @@ third_nav_title: Clubs & Societies
 	
 <h4><strong>Achievements</strong></h4>
 
-<table border="1" style="border-collapse: collapse;margin: 25px 0;font-size:15px;font-family: sans-serif;box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);">
+<table style="border-collapse: collapse;margin: 25px 0;font-size:15px;font-family: sans-serif;box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);" border="1">
 	
 <thead style="background-color: #009879; font-weight: bold; font-size: 16px;">
 	<tr>
@@ -37,7 +37,7 @@ third_nav_title: Clubs & Societies
 	</td>
 </tr>
 															
-<tr style=" background-color: #f3f3f3;">
+<tr style="background-color: #f3f3f3;">
 <td style="font-size:15px;"><strong>2020</strong></td>
 	<td style="font-size:15px;"><strong>International Cospace Online Challenge</strong>
 		<ul> 
@@ -55,9 +55,9 @@ third_nav_title: Clubs & Societies
 	<td style="font-size:15px;">
                  <strong>RoboCupJunior Singapore Open</strong>
 		<ul> 
-			<li style="font-size:15px;">RoboCup Asia Pacific (RCAP) CoSpace Rescue U12 Challenge – 1<sup>st</sup> & 2 <sup>nd</sup> Place </li>
-                                <li style="font-size:15px;">RoboCup Asia Pacific (RCAP) CoSpace Rescue U19 Challenge –  1<sup>st</sup> & 2 <sup>nd</sup> Place</li>
-                                <li style="font-size:15px;">RoboCup Asia Pacific (RCAP) CoSpace Rescue First Steps  1<sup>st</sup> & 2 <sup>nd</sup> Place</li>
+			<li style="font-size:15px;">RoboCup Asia Pacific (RCAP) CoSpace Rescue U12 Challenge – 1<sup>st</sup> &amp; 2 <sup>nd</sup> Place </li>
+                                <li style="font-size:15px;">RoboCup Asia Pacific (RCAP) CoSpace Rescue U19 Challenge –  1<sup>st</sup> &amp; 2 <sup>nd</sup> Place</li>
+                                <li style="font-size:15px;">RoboCup Asia Pacific (RCAP) CoSpace Rescue First Steps  1<sup>st</sup> &amp; 2 <sup>nd</sup> Place</li>
                                 <li style="font-size:15px;">RoboCupJunior CoSpace Rescue league – 3<sup>rd</sup> Place</li>
                                 <li style="font-size:15px;">RoboCup Asia Pacific (RCAP) CoSpace Rescue U19</li>
                                 <li style="font-size:15px;">Friendship Tournament – 1<sup>st</sup> place</li>
@@ -74,15 +74,15 @@ third_nav_title: Clubs & Societies
 	</td>
 </tr>
 
-<tr style=" background-color: #f3f3f3;">
+<tr style="background-color: #f3f3f3;">
 <td style="font-size:15px;"><strong>2018</strong></td>
 	<td style="font-size:15px;"><strong>RoboCupJunior Singapore Open</strong>
 		<ul> 
-			<li style="font-size:15px;margin-bottom:5px;">2<sup>nd</sup>, 3<sup>rd</sup> & 4<sup>th</sup> Place (RoboCupJunior CoSpace Rescue)</li>
-                                <li style="font-size:15px;margin-bottom:5px;">2<sup>nd</sup> & 3<sup>rd</sup> Place (RoboCup Asia Pacific CoSpace Rescue)</li>
+			<li style="font-size:15px;margin-bottom:5px;">2<sup>nd</sup>, 3<sup>rd</sup> &amp; 4<sup>th</sup> Place (RoboCupJunior CoSpace Rescue)</li>
+                                <li style="font-size:15px;margin-bottom:5px;">2<sup>nd</sup> &amp; 3<sup>rd</sup> Place (RoboCup Asia Pacific CoSpace Rescue)</li>
                                 <li style="font-size:15px;margin-bottom:5px;">1<sup>st</sup> Place (RoboCup Asia Pacific CoSpace Grand Prix)</li>
                                 <li style="font-size:15px;margin-bottom:5px;">2<sup>nd</sup>, 3<sup>rd</sup> Place (RoboCup Asia Pacific CoSpace Logistics)
-		</ul>
+		</li></ul>
 	</td>
 </tr>
 
@@ -91,10 +91,10 @@ third_nav_title: Clubs & Societies
 	<td style="font-size:15px;"><strong>RoboCupJunior Singapore Open</strong>
 		<br>
 		<ul> 
-			<li style="font-size:15px;margin-bottom:5px;">1<sup>st</sup> 2<sup>nd</sup>, 3<sup>rd</sup> & 4<sup>th</sup> Place (RoboCupJunior CoSpace Rescue)</li>
-                                <li style="font-size:15px;margin-bottom:5px;">1<sup>st</sup> & 2<sup>nd</sup>Place (RoboCupJunior CoSpace Rescue – SuperTeam)</li>
+			<li style="font-size:15px;margin-bottom:5px;">1<sup>st</sup> 2<sup>nd</sup>, 3<sup>rd</sup> &amp; 4<sup>th</sup> Place (RoboCupJunior CoSpace Rescue)</li>
+                                <li style="font-size:15px;margin-bottom:5px;">1<sup>st</sup> &amp; 2<sup>nd</sup>Place (RoboCupJunior CoSpace Rescue – SuperTeam)</li>
 																	<li style="font-size:15px;margin-bottom:5px;">3<sup>rd</sup> Place (RoboCupJunior CoSpace Grand Prix)</li>
-                                <li style="font-size:15px;margin-bottom:5px;">1<sup>st</sup> & 2<sup>nd</sup> Place (RoboCupJunior CoSpace Logistics)</li>                                
+                                <li style="font-size:15px;margin-bottom:5px;">1<sup>st</sup> &amp; 2<sup>nd</sup> Place (RoboCupJunior CoSpace Logistics)</li>                                
                                 <li style="font-size:15px;margin-bottom:5px;">Best Achievement Award</li>
 		</ul>
 	<strong>RoboCup 2017 (Nagoya, Japan)</strong>
@@ -107,31 +107,48 @@ third_nav_title: Clubs & Societies
 </tr>
 </tbody>
 </table>
+
+<hr>
 	
 <h4><strong>Competitions and CCA Activities</strong></h4>
-<ol>
+
+<ol style="font-size:15px;">
 <li>Robocup Singapore Open (Cospace Rescue, Cospace Grand Prix, OnStage)</li>
-</ol>
-<img src="/images/robo1.jpg">
+<img style="width:80%; height:auto;" src="/images/robo1.jpg">
 <p>Award winners of the 2019 RobocupJunior Singapore Open</p>
-<ol>
 <li>Introduction to Python Programming Language, Data Science with Python</li>
 <li>Internal LEGO EV3 robotics competition</li>
 <li>AI with Halocode, Machine Learning with Huskylens</li>
 <li>Codomo Potato Pirates Coding Card Games</li>
 </ol>
-<img src="/images/robo2.jpg">
+<img style="width:80%; height:auto;" src="/images/robo2.jpg">
 <p>Workshop on machine learning with Huskylens and&nbsp;Micro:bit</p>
+
+<hr>
+	
 <h4><strong>Student Testament</strong></h4>
-<img style="width: 33%;" src="/images/robo3.jpg" align = "left" />
-<p>&ldquo;I really enjoy the competitive ambience and the adrenaline rush during Robotics competitions. I like interacting with my CCA friends and bouncing off ideas and strategies with them to overcome challenges in coding&rdquo;.</p>
-<p><em>Logistics Manager, Antho Siow Jia Jun, Int 5</em></p>
-<img style="width: 33%;" src="/images/robo4.jpg" align = "right" /><p>&ldquo;Even though these past 2 years have been quite uneventful due to Covid-19, I still really enjoy my time learning new skills, making new friends, and working together with my peers and teachers.</p>
-<p>The Robotics Club has given me the opportunity to be a leader, to express my creativity and improve on my social skills. I look forward to what&rsquo;s more to come.&rdquo;</p>
+<blockquote style="font-size: 17px;
+  width:100%;
+  margin:50px auto;
+  font-family:Open Sans;
+  font-style:italic;
+  color: #555555;
+  padding:1.2em 25px 1.2em 25px;
+  border-left:8px solid #78C0A8 ;
+  line-height:1.6;
+  position: relative;
+  background:#EDEDED;">
+<img align="left" src="/images/robo3.jpg" style="width: 33%;">
+  “One of my greatest achievements in PH Times was being able to conduct CCA sessions on videography with my CCA members successfully. It was sometimes hard for me to find time to plan meaningful sessions for my members especially when we leaders had to discuss plans online because it was difficult to find a common time to meet up. Thus, I was glad to have been able to overcome this obstacle of not being able to meet with my other fellow leaders but still being able to plan sessions for my members. I have also made new friends in the CCA and I will definitely miss the times I spent with my seniors and juniors in PH Times.”
+  <span style="display:block; color:#333333; margin-top:1em;font-size:15px;"><em>Head of Video</em></span>
+</blockquote>
+
+<img align="right" src="/images/robo4.jpg" style="width: 33%;"><p>“Even though these past 2 years have been quite uneventful due to Covid-19, I still really enjoy my time learning new skills, making new friends, and working together with my peers and teachers.</p>
+<p>The Robotics Club has given me the opportunity to be a leader, to express my creativity and improve on my social skills. I look forward to what’s more to come.”</p>
 <p><em>Lower Secondary Coordinator, Grace Lai Le Xin, Res 4</em></p>
 <h4><strong>CCA Details</strong></h4>
 <div>
-<table border="1" width="100%">
+<table width="100%" border="1">
 <tbody>
 <tr>
 <td width="24%"><strong>Teacher-in-Charge</strong></td>
@@ -139,16 +156,16 @@ third_nav_title: Clubs & Societies
 </tr>
 <tr>
 <td width="24%"><strong>CCA Teacher(s)</strong></td>
-<td width="76%">Mr Joel Neo<br />Mr Ronnie Goh<br />Ms Jane Lian</td>
+<td width="76%">Mr Joel Neo<br>Mr Ronnie Goh<br>Ms Jane Lian</td>
 </tr>
 <tr>
 <td width="24%"><strong>CCA Schedule</strong></td>
-<td width="76%">Tue, 3.30pm &ndash; 6.00pm<br />Fri, 2.30pm &ndash; 6.00pm</td>
+<td width="76%">Tue, 3.30pm – 6.00pm<br>Fri, 2.30pm – 6.00pm</td>
 </tr>
 <tr>
 <td width="24%"><strong>Venues</strong></td>
-<td width="76%">Tue: Technology Room &amp; Computer Lab<br />Fri: Technology Room &amp; Computer Lab 4</td>
+<td width="76%">Tue: Technology Room &amp; Computer Lab<br>Fri: Technology Room &amp; Computer Lab 4</td>
 </tr>
 </tbody>
 </table>
-</div>
+</div></ul>
