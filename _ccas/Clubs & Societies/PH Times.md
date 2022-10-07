@@ -4,12 +4,16 @@ permalink: /ccas/clubs-societies/ph-times/
 description: ""
 third_nav_title: Clubs & Societies
 ---
-<p>Pei Hwa Times (PH Times) provides the opportunity for our members to develop technical skills about photography and videography. With these skills, our members will then have the opportunity to embark on a journalism journey; photojournalism and video journalism. We seek to help our members realise their potential and build resilience as well as confidence as they get their heart, head and hands on the journalism journey.</p>
+<p style="font-size:15px;"><strong>Pei Hwa Times (PH Times) </strong> provides the opportunity for our members to develop technical skills about photography and videography. With these skills, our members will then have the opportunity to embark on a journalism journey; photojournalism and video journalism. We seek to help our members realise their potential and build resilience as well as confidence as they get their heart, head and hands on the journalism journey.</p>
+
 <h4><strong>Student Outcomes</strong></h4>
-<p>The CCA will enable our students to:</p>
-<p>&ndash; acquire and apply basic photography and videography knowledge and skills</p>
-<p>&ndash; demonstrate creativity through photography and videography activities</p>
-<p>&ndash; develop into being a team player and work collaboratively with others</p>
+<p style="font-size:15px; line-height:2;">The CCA will enable our students to:</p>
+<ul>
+	<li style="font-size:15px; line-height:2;"> acquire and apply basic photography and videography knowledge and skills</li>
+	<li style="font-size:15px; line-height:2;"> demonstrate creativity through photography and videography activities</li>
+	<li style="font-size:15px; line-height:2;"> develop into being a team player and work collaboratively with others</li>
+</ul>
+
 <h4><strong>&nbsp;Achievements</strong></h4>
 <div>
 <table border="1" width="0">
