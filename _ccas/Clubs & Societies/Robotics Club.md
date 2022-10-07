@@ -14,111 +14,100 @@ third_nav_title: Clubs & Societies
 <hr>
 	
 <h4><strong>Achievements</strong></h4>
-<div>
-<table border="1">
+
+<table border="1" style="border-collapse: collapse;margin: 25px 0;font-size:15px;font-family: sans-serif;box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);">
+	
+<thead style="background-color: #009879; font-weight: bold; font-size: 16px;">
+	<tr>
+			<td style="text-align:left;color:white;">Year of Competition</td>
+			<td style="text-align:left;color:white;">Attainment</td>
+		</tr>
+	</thead>
 <tbody>
-<tr>
-<td>
-<p><strong>Year of Competition</strong></p>
-</td>
-<td>
-<p><strong>Attainment</strong></p>
-</td>
+	
+<tr style="border-bottom: 1px solid #dddddd;">
+<td><strong>2021</strong></td>
+	<td style="font-size:15px;"><strong>RoboCup Singapore Open</strong>
+		<br>
+		<ul>
+			<li style="font-size:15px;margin-bottom:5px;">CoSpace Rescue, 2<sup>nd</sup> Place and Merit Award</li>
+                                <li style="font-size:15px;margin-bottom:5px;">CoSpace Rescue, FirstSteps, 1<sub>st</sup>, 2<sup>nd</sup>, 3<sub>rd</sup> Place, One Distinction and four Merit Awards</li>
+                               <li style="font-size:15px;margin-bottom:5px;">CoSpace Autonomous Driving,  1<sub>st</sup>, 2<sup>nd</sup>, 3<sub>rd</sup> Place, One Distinction and three Merit awards</li>
+		</ul>
+	</td>
 </tr>
-<tr>
-<td>
-<p><strong>2021</strong></p>
-</td>
-<td>
-<p><strong>RoboCup Singapore Open</strong></p>
-<ol>
-<li>CoSpace Rescue, 2nd Place and Merit award</li>
-<li>CoSpace Rescue, FirstSteps, 1st, 2nd and 3rd Place. One Distinction and four Merit awards.</li>
-<li>CoSpace Autonomous Driving, 1st, 2nd and 3rd Place. One Distinction and three Merit awards.</li>
-</ol>
-</td>
+															
+<tr style=" background-color: #f3f3f3;">
+<td style="font-size:15px;"><strong>2020</strong></td>
+	<td style="font-size:15px;"><strong>International Cospace Online Challenge</strong>
+		<ul> 
+			<li style="font-size:15px;margin-bottom:5px;">RoboCup Asia Pacific (RCAP) Cospace Grand Prix (GP) U19 Most Creative Presentation Award 1<sup>st</sup> Place</li>
+                                <li style="font-size:15px;margin-bottom:5px;">RCAP Cospace GP U19 Best Presentation Award 3<sup>rd</sup> Place</li>
+                                <li style="font-size:15px;margin-bottom:5px;">Influencer Award (People's Choice) 3<sup>rd</sup> Place</li>
+                                <li style="font-size:15px;margin-bottom:5px;">Influencer Award (Most Popular Video) 3 <sup>rd</sup> Place</li>
+                                <li style="font-size:15px;margin-bottom:5px;">Influencer Award (Community Awareness) 2 <sup>nd</sup> Place</li>
+		</ul>
+	</td>
 </tr>
+
 <tr>
-<td>
-<p><strong>2020</strong></p>
-</td>
-<td>
-<p><strong>International Cospace Online Challenge</strong></p>
-<ol>
-<li>RoboCup Asia Pacific (RCAP) Cospace Grand Prix (GP) U19 Most Creative Presentation Award 1st Place</li>
-<li>RCAP Cospace GP U19 Best Presentation Award 3rd Place</li>
-<li>Influencer Award (People&rsquo;s Choice) 3rd Place</li>
-<li>Influencer Award (Most Popular Video) 3rd Place</li>
-<li>Influencer Award (Community Awareness) 2nd Place</li>
-</ol>
-</td>
+<td style="font-size:15px;"><strong>2019</strong></td>
+	<td style="font-size:15px;">
+                 <strong>RoboCupJunior Singapore Open</strong>
+		<ul> 
+			<li style="font-size:15px;">RoboCup Asia Pacific (RCAP) CoSpace Rescue U12 Challenge – 1<sup>st</sup> & 2 <sup>nd</sup> Place </li>
+                                <li style="font-size:15px;">RoboCup Asia Pacific (RCAP) CoSpace Rescue U19 Challenge –  1<sup>st</sup> & 2 <sup>nd</sup> Place</li>
+                                <li style="font-size:15px;">RoboCup Asia Pacific (RCAP) CoSpace Rescue First Steps  1<sup>st</sup> & 2 <sup>nd</sup> Place</li>
+                                <li style="font-size:15px;">RoboCupJunior CoSpace Rescue league – 3<sup>rd</sup> Place</li>
+                                <li style="font-size:15px;">RoboCup Asia Pacific (RCAP) CoSpace Rescue U19</li>
+                                <li style="font-size:15px;">Friendship Tournament – 1<sup>st</sup> place</li>
+                                <li style="font-size:15px;">Best Achievement Award (3<sup>rd</sup> time)</li>
+	        </ul>
+                <strong>ITE Robotics Challenge</strong>
+		<ul> 
+			<li style="font-size:15px;">Merit award in Tracing Challenge</li>
+	        </ul>
+             <strong>3D Tronics Digital Making National Infocomm Competition</strong>
+		<ul> 
+			<li style="font-size:15px;">3 <sup>rd</sup> Place</li>
+	        </ul>
+	</td>
 </tr>
-<tr>
-<td>
-<p><strong>2019</strong></p>
-</td>
-<td>
-<p><strong>RoboCupJunior Singapore Open</strong></p>
-<ol>
-<li>RoboCup Asia Pacific (RCAP) CoSpace Rescue U12 Challenge &ndash; 1st &amp; 2nd Place</li>
-<li>RoboCup Asia Pacific (RCAP) CoSpace Rescue U19 Challenge &ndash; 1st &amp; 2nd Place</li>
-<li>RoboCup Asia Pacific (RCAP) CoSpace Rescue FirstSteps U19&ndash; 1st &amp; 2nd Place</li>
-<li>RoboCupJunior CoSpace Rescue league &ndash; 3rd place</li>
-<li>RoboCup Asia Pacific (RCAP) CoSpace Rescue U19</li>
-<li>Friendship Tournament &ndash; 1st place</li>
-<li>Best Achievement Award (3rd time)</li>
-</ol>
-<p><strong>ITE Robotics Challenge</strong></p>
-<ol>
-<li>
-<p>Merit award in Tracing Challenge</p>
-</li>
-</ol>
-<p><strong>3D Tronics Digital Making National Infocomm Competition</strong></p>
-<ol>
-<li>
-<p>3<sup>rd</sup>&nbsp;Place</p>
-</li>
-</ol>
-</td>
+
+<tr style=" background-color: #f3f3f3;">
+<td style="font-size:15px;"><strong>2018</strong></td>
+	<td style="font-size:15px;"><strong>RoboCupJunior Singapore Open</strong>
+		<ul> 
+			<li style="font-size:15px;margin-bottom:5px;">2<sup>nd</sup>, 3<sup>rd</sup> & 4<sup>th</sup> Place (RoboCupJunior CoSpace Rescue)</li>
+                                <li style="font-size:15px;margin-bottom:5px;">2<sup>nd</sup> & 3<sup>rd</sup> Place (RoboCup Asia Pacific CoSpace Rescue)</li>
+                                <li style="font-size:15px;margin-bottom:5px;">1<sup>st<sup> Place (RoboCup Asia Pacific CoSpace Grand Prix)</li>
+                                <li style="font-size:15px;margin-bottom:5px;">2<sup>nd</sup>, 3<sup>rd</sup> Place (RoboCup Asia Pacific CoSpace Logistics)
+		</ul>
+	</td>
 </tr>
+
 <tr>
-<td>
-<p><strong>2018</strong></p>
-</td>
-<td>
-<p><strong>RoboCupJunior Singapore Open</strong></p>
-<ol>
-<li>2nd, 3rd &amp; 4th Place (RoboCupJunior CoSpace Rescue)</li>
-<li>2nd &amp; 3rd Place (RoboCup Asia Pacific CoSpace Rescue)</li>
-<li>1st Place (RoboCup Asia Pacific CoSpace Grand Prix)</li>
-<li>2nd &amp; 3rd Place (RoboCup Asia Pacific CoSpace Logistics)</li>
-</ol>
-</td>
-</tr>
-<tr>
-<td>
-<p><strong>2017</strong></p>
-</td>
-<td>
-<p><strong>RoboCupJunior Singapore Open</strong></p>
-<ol>
-<li>1st, 2nd, 3rd &amp; 4th Place (RoboCupJunior CoSpace Rescue)</li>
-<li>1st &amp; 2nd Place (RoboCupJunior CoSpace Rescue &ndash; SuperTeam)</li>
-<li>3rd Place (RoboCupJunior CoSpace Grand Prix)</li>
-<li>1st &amp; 2nd Place (RoboCupJunior CoSpace Logistics)</li>
-<li>Best Achievement Award</li>
-</ol>
-<p><strong>RoboCup 2017 (Nagoya, Japan)</strong></p>
-<ol>
-<li>2<sup>nd</sup>&nbsp;Place in RoboCupJunior CoSpace Rescue (under 14 category) Individual Team</li>
-<li>2<sup>nd</sup>&nbsp;Place in RoboCupJunior CoSpace Rescue (under 14 category) Super Team (Singapore, Japan, Brazil)</li>
-</ol>
-</td>
+<td style="font-size:15px;"><strong>2017</strong></td>
+	<td style="font-size:15px;"><strong>RoboCupJunior Singapore Open</strong>
+		<br>
+		<ul> 
+			<li style="font-size:15px;margin-bottom:5px;">1<sup>st<sup> 2<sup>nd</sup>, 3<sup>rd</sup> & 4<sup>th</sup> Place (RoboCupJunior CoSpace Rescue)</li>
+                                <li style="font-size:15px;margin-bottom:5px;">1<sup>st<sup> & 2<sup>nd</sup>Place (RoboCupJunior CoSpace Rescue – SuperTeam)</li>
+                                <li style="font-size:15px;margin-bottom:5px;">3rd Place (RoboCupJunior CoSpace Grand Prix)</li>
+                                <li style="font-size:15px;margin-bottom:5px;">1<sup>st<sup> & 2<sup>nd</sup> Place (RoboCupJunior CoSpace Logistics)</li>                                
+                                <li style="font-size:15px;margin-bottom:5px;">Best Achievement Award</li>
+		</ul>
+	<strong>RoboCup 2017 (Nagoya, Japan)</strong>
+		<br>
+		<ul> 
+			<li style="font-size:15px; margin-bottom:5px;">2<sup>nd</sup> Place in RoboCupJunior CoSpace Rescue (under 14 category) Individual Team</li>
+                                <li style="font-size:15px;margin-bottom:5px;">12<sup>nd</sup> Place in RoboCupJunior CoSpace Rescue (under 14 category) Super Team (Singapore, Japan, Brazil)</li>
+		</ul>
+	</td>
 </tr>
 </tbody>
-</table>
-</div>
+	</table>
+	
 <h4><strong>Competitions and CCA Activities</strong></h4>
 <ol>
 <li>Robocup Singapore Open (Cospace Rescue, Cospace Grand Prix, OnStage)</li>
