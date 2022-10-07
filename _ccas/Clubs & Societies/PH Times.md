@@ -15,12 +15,6 @@ third_nav_title: Clubs & Societies
 </ul>
 
 <h4><strong>&nbsp;Achievements</strong></h4>
-<p><strong>CCA Activities:</strong></p>
-<ul style="list-style-type:none; font-size:15px;">
-	<li style="font-size:15px; line-height:2;">2021 Draw My Stamp Story Art Competition</li>
-	<li style="font-size:15px; line-height:2;">Sec 2: Animation/Photoshop</li>
-	<li style="font-size:15px; line-height:2;">Sec 3: Video/Video editing</li>
-</ul>
 
 <table border="1" style="border-collapse: collapse;margin: 25px 0;font-size:15px;font-family: sans-serif;box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);">
 	
