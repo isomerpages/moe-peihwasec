@@ -32,8 +32,8 @@ CCA ACHIEVEMENT
 			<td style="text-align:left;color:white;">Attainment</td>
 		</tr>
 	</thead>
-	
 <tbody>
+	
 <tr style="border-bottom: 1px solid #dddddd;">
 <td><strong>2016</strong></td>
 	<td style="font-size:15px;"><strong>Canon Photomarathon</strong>
@@ -71,50 +71,47 @@ CCA ACHIEVEMENT
 <ul> 
 			<li style="font-size:15px;">Student Category Winner (Douglas Tham)</li>
 <li style="font-size:15px;"> Best of Show Student Category Winner (Douglas Tham)</li>
-<li style="font-size:15px;"> School's Challenge Winner</li>
+<li style="font-size:15px;margin-bottom:5px;"> School's Challenge Winner</li>
 		</ul>
-	</td>
-<td style="font-size:15px;"><strong>Freshness of Life by School of Photography</strong>
+<strong>Freshness of Life by School of Photography</strong>
 		<br>
 		<ul> 
-			<li style="font-size:15px;">&middot; 1<sup>st</sup> Prize (Dion Lim)</li>
+			<li style="font-size:15px;margin-bottom:5px;">&middot; 1<sup>st</sup> Prize (Dion Lim)</li>
 		</ul>
-	</td>
-<td style="font-size:15px;"><strong>N3 Cluster International Friendship Day Photography Competition/strong>
+	<strong>N3 Cluster International Friendship Day Photography Competition</strong>
 		<br>
 		<ul> 
-			<li style="font-size:15px;">&middot; 1<sup>st</sup> Prize</li>
+			<li style="font-size:15px; margin-bottom:5px;">&middot; 1<sup>st</sup> Prize</li>
+		</ul>
+	</td>
+</tr>
+
+<tr>
+<td style="font-size:15px;"><strong>2009</strong></td>
+	<td style="font-size:15px;"><strong>Straits Times National Schools Newspaper Competition</strong>
+		<br>
+		<ul> 
+			<li style="font-size:15px;margin-bottom:5px;"> Consolation Prize</li>
+		</ul>
+	<strong>HDB Competition</strong>
+		<br>
+		<ul> 
+			<li style="font-size:15px; margin-bottom:5px;"> Consolation Prize (Douglas Tham)</li>
 		</ul>
 	</td>
 </tr>
 
 <tr style=" background-color: #f3f3f3;">
-<td style="font-size:15px;"><strong>2009</strong></td>
-	<td style="font-size:15px;"><strong>Straits Times National Schools Newspaper Competition</strong>
-		<br>
-		<ul> 
-			<li style="font-size:15px;"> Consolation Prize</li>
-		</ul>
-	</td>
-<td style="font-size:15px;"><strong>HDB Competition</strong>
-		<br>
-		<ul> 
-			<li style="font-size:15px;"> Consolation Prize (Douglas Tham)</li>
-		</ul>
-	</td>
-</tr>
-<tr style=" background-color: #f3f3f3;">
 <td style="font-size:15px;"><strong>2008</strong></td>
 	<td style="font-size:15px;"><strong>Straits Times National Schools Newspaper Competition</strong>
 		<br>
 		<ul> 
-			<li style="font-size:15px;"> Consolation Prize</li>
+			<li style="font-size:15px; margin-bottom:5px;"> Consolation Prize</li>
 		</ul>
-	</td>
-<td style="font-size:15px;"><strong>GMAC Competition</strong>
+	<strong>GMAC Competition</strong>
 		<br>
 		<ul> 
-			<li style="font-size:15px;"> &middot; 3<sup>rd</sup> Place (Lim Ying Yun, Martin Goh, Charmaine Toh, Saw Jia Hui)</li>
+			<li style="font-size:15px; margin-bottom:5px;"> &middot; 3<sup>rd</sup> Place (Lim Ying Yun, Martin Goh, Charmaine Toh, Saw Jia Hui)</li>
 		</ul>
 	</td>
 </tr>
@@ -122,7 +119,6 @@ CCA ACHIEVEMENT
 </tbody>
 </table>
 
-</div>
 <h4><strong>Competitions and CCA Activities</strong></h4>
 <p>Our CCA members are given the opportunity to apply their photography and videography knowledge and skills in various platforms. Some of the non-competition platforms are:</p>
 <p>&ndash; school events and celebrations</p>
