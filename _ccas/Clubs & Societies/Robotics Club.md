@@ -86,7 +86,7 @@ third_nav_title: Clubs & Societies
 	</td>
 </tr>
 
-<tr>
+<tr style="border-bottom: 2px solid #009879;">
 <td style="font-size:15px;"><strong>2017</strong></td>
 	<td style="font-size:15px;"><strong>RoboCupJunior Singapore Open</strong>
 		<br>
@@ -106,7 +106,7 @@ third_nav_title: Clubs & Societies
 	</td>
 </tr>
 </tbody>
-	</table>
+</table>
 	
 <h4><strong>Competitions and CCA Activities</strong></h4>
 <ol>
