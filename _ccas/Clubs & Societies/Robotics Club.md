@@ -5,10 +5,14 @@ description: ""
 third_nav_title: Clubs & Societies
 ---
 <h4><strong>Student Outcomes</strong></h4>
-<p>The CCA will enable our students to:</p>
-<p>&ndash; innovate, think critically and work collaboratively with their peers in experimenting ideas and solving problems</p>
-<p>&ndash; develop robot construction and programming skills through exposure to a variety of robotics platforms</p>
-<p>&ndash; compete in internal and national competitions to pitch their skills against the best to build and programme robots to complete assigned missions in the most strategic and efficient manner.</p>
+<p style="font-size:15px;">The CCA will enable our students to:</p>
+<ul>
+<li style="font-size:15px; line-height:2;">innovate, think critically and work collaboratively with their peers in experimenting ideas and solving problems</li>
+<li style="font-size:15px; line-height:2;">develop robot construction and programming skills through exposure to a variety of robotics platforms</li>
+<li style="font-size:15px; line-height:2;">compete in internal and national competitions to pitch their skills against the best to build and programme robots to complete assigned missions in the most strategic and efficient manner.</li>
+	
+<hr>
+	
 <h4><strong>Achievements</strong></h4>
 <div>
 <table border="1">
