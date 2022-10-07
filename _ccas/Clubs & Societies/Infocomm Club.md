@@ -70,7 +70,7 @@ third_nav_title: Clubs & Societies
 			<li style="font-size:15px;"> 1st Place (Secondary Category)</li>
 		</ul>
 		<br>
-		Digital Music Carnival(organised by Elchemi Education)<ul>
+		<strong>Digital Music Carnival(organised by Elchemi Education)</strong><ul>
 		<li style="font-size:15px;"> Gold Award (Avante Garde Category)</li>
 		</ul>
 	</td>
