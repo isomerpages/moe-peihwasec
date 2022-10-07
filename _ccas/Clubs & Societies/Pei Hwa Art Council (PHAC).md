@@ -89,8 +89,8 @@ third_nav_title: Clubs & Societies
 
 <h4><strong>Student Testament</strong></h4>
 
-<blockquote style=" font-size: 1.4em;
-  width:60%;
+<blockquote style=" font-size: 15PX;
+  width:100%;
   margin:50px auto;
   font-family:Open Sans;
   font-style:italic;
@@ -105,11 +105,30 @@ third_nav_title: Clubs & Societies
   color:#333333;
   font-style: normal;
   font-weight: bold;
-  margin-top:1em;">Tan Si Hui Nicole, 4D8,&nbsp;</em><em>PHAC President of PHA2020-21</em></span>
+  margin-top:1em;">Tan Si Hui Nicole, 4D8,&nbsp;<em>PHAC President of PHA2020-21</em></span>
 </blockquote>
-<p>&ldquo;Pei Hwa Art Council exposed me to multiple forms of art such as ceramics, watercolour and digital drawings. I enjoyed being able to host a bunch of activities and games for my members to enjoy and seeing them have fun while being able to hone their artistic abilities. Being in PHAC not only helped me improve in Art, but also it helped me to grow as a leader too.&rdquo;</p>
-<p style="text-align: right;"><em>Ong Zirui, Jesserel, 4D6, PHAC Treasurer 2020-21</em></p>
-<img src="/images/phac5.jpg">
+
+
+<blockquote style=" font-size: 15px;
+  width:100%;
+  margin:50px auto;
+  font-family:Open Sans;
+  font-style:italic;
+  color: #555555;
+  padding:1.2em 30px 1.2em 75px;
+  border-left:8px solid #78C0A8 ;
+  line-height:1.6;
+  position: relative;
+  background:#EDEDED;">
+  &ldquo;Pei Hwa Art Council exposed me to multiple forms of art such as ceramics, watercolour and digital drawings. I enjoyed being able to host a bunch of activities and games for my members to enjoy and seeing them have fun while being able to hone their artistic abilities. Being in PHAC not only helped me improve in Art, but also it helped me to grow as a leader too.&rdquo;<img src="/images/phac5.jpg">
+  <span style=" display:block;
+  color:#333333;
+  font-style: normal;
+  font-weight: bold;
+               margin-top:1em;">Ong Zirui, Jesserel, 4D6, <em>PHAC Treasurer 2020-21</em></span>
+</blockquote>
+
+
 <h4><strong>CCA Details</strong></h4>
 <div>
 <table border="1" width="100%">
