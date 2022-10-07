@@ -15,37 +15,44 @@ third_nav_title: Clubs & Societies
 </ul>
 
 <h4><strong>Achievements</strong></h4>
-<table border="1">
+<table border="1" style="border-collapse: collapse;margin: 25px 0;font-size:15px;font-family: sans-serif;box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);">
+	
+<thead style="background-color: #009879; font-weight: bold; font-size: 16px;">
+	<tr>
+			<td style="text-align:left;color:white;">Year of Competition</td>
+			<td style="text-align:left;color:white;">Attainment</td>
+		</tr>
+	</thead>
+	
 <tbody>
-<tr>
-<td>
-<p><strong>Year of Competition</strong></p>
-</td>
-<td>
-<p><strong>Attainment</strong></p>
-</td>
+<tr style="border-bottom: 1px solid #dddddd;">
+<td><strong>2020</strong></td>
+	<td style="font-size:15px;"><strong>Live On Design Competition &lsquo;From Fears to Dreams&rsquo; &amp; &lsquo;A New Beginning&rsquo;</strong>
+		<br>
+		<ul>
+			<li style="font-size:15px;margin-bottom:5px;"> Awarded Special Mention, Schools Category, 2020 to Ong Zirui, Jesserel</li>
+</li>
+		</ul>
+<img src="/images/phac1.jpg">
+<p style="font-size:13px; text-align:center; margin:5px;"> Painting Your Future, Digital Illustration By Jesserel Ong
+	</td>
 </tr>
-<tr>
-<td>
-<p><strong>2020</strong></p>
-</td>
-<td>
-<p>Live On Design Competition &lsquo;From Fears to Dreams&rsquo; &amp; &lsquo;A New Beginning&rsquo; &ndash; Awarded Special Mention, Schools Category, 2020 to Ong Zirui, Jesserel</p>
-<p><img src="/images/phac1.jpg"></p>
-<p>Painting Your Future, Digital Illustration, Jesserel Ong</p>
-</td>
+															
+<tr style=" background-color: #f3f3f3;">
+<td style="font-size:15px;"><strong>2018</strong></td>
+	<td style="font-size:15px;"><strong>NKF Schools Postcard Design Contest</strong>
+		<br>
+		<ul> 
+			<li style="font-size:15px;"> &lsquo;Start the day with a glass of water&rsquo; First Prize, Youth Category to Kelly Teo</li>
+<img src="/images/phac2.jpg">
+<p style="font-size:13px;text-align:center; margin:5px;"> &lsquo;Start the day with a glass of water&rsquo; By Kelly Teo
+				</ul>
+	</td>
 </tr>
-<tr>
-<td>
-<p><strong>2018</strong></p>
-</td>
-<td>
-<p>NKF Schools Postcard Design Contest &ndash; &lsquo;Start the day with a glass of water&rsquo; First Prize, Youth Category to Kelly Teo</p>
-<p><img src="/images/phac2.jpg"></p>
-</td>
-</tr>
+												
 </tbody>
 </table>
+
 <h4><strong>Competitions and CCA Activities</strong></h4>
 <p>PHAC tries to strike a balance between learning new skills, taking part in competitions, supporting school events and in giving back to the community. Our recent participation was &lsquo;Draw My Stamp Story Art Competition&rsquo; organised by Singapore Philatelic Museum (SPM) to help students understand and appreciate the importance of designs reflected on our Singapore stamps. Previously, we also took part in the Live On Design Competition which included a Values in Action segment for students to be able to have an insight into the lives of patients and donors. We also put our artistic skills to good use by creating silkscreen designs on tote bags as part of our CCA&rsquo;s efforts in raising funds for our school&rsquo;s adopted voluntary welfare organisations during Community Day 2019. When we are not busy taking part in competitions, we have fun going on learning journeys and camps to recharge and learn new skills.</p>
 <p>2021 Draw My Stamp Story Art Competition</p>
