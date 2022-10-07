@@ -54,7 +54,6 @@ third_nav_title: Clubs & Societies
 		<li style="font-size:15px;"> 2nd Position (Tan Xing Wei)</li>
 		<li style="font-size:15px;"> 3rd Position (Ku Wan Jing)</li>
 		</ul>
-		<br> 
 		<strong>Digital Music Carnival 2 Competition (organised by Elchemi Education)</strong>
 		<ul>
 			<li style="font-size:15px;"> Gold Award</li>
@@ -69,7 +68,6 @@ third_nav_title: Clubs & Societies
 		<ul>
 			<li style="font-size:15px;"> 1st Place (Secondary Category)</li>
 		</ul>
-		<br>
 		<strong>Digital Music Carnival(organised by Elchemi Education)</strong><ul>
 		<li style="font-size:15px;"> Gold Award (Avante Garde Category)</li>
 		</ul>
