@@ -101,7 +101,7 @@ third_nav_title: Clubs & Societies
   position: relative;
   background:#EDEDED;">
   “It has been an honour serving as the president of Pei Hwa Art Council. PHAC has enabled me to develop my artistic and creative skills through trying out different mediums and artforms such as watercolour, digital media and ceramics. The process of creating an artwork is thrilling and I feel a great sense of accomplishment when I complete a piece, especially when I can bring it home for keepsake. PHAC has allowed me to use my creativity in other ways to develop my leadership skills like planning games and activities for my CCA mates. It’s great to see everyone having fun and bonding together at PHAC.”<img style="width:40%; height:auto; margin-top:15px;" src="/images/phac4.jpg">
-  <span style="display:block; color:#333333; margin-top:1em;font-size:15px;">Tan Si Hui Nicole, 4D8,&nbsp;<em>PHAC President of PHA2020-21</em></span>
+  <span style="display:block; color:#333333; margin-top:1em;font-size:15px;">Tan Si Hui Nicole, 4D8,&nbsp;<em>PHAC President of PHAC 2020-21</em></span>
 </blockquote>
 
 
