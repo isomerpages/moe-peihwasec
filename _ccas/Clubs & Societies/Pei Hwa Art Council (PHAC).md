@@ -116,16 +116,12 @@ third_nav_title: Clubs & Societies
   font-style:italic;
   color: #555555;
   padding:1.2em 25px 1.2em 25px;
-  border-right:8px solid #78C0A8 ;
+  border-left:8px solid #78C0A8 ;
   line-height:1.6;
   position: relative;
   background:#EDEDED;">
   “Pei Hwa Art Council exposed me to multiple forms of art such as ceramics, watercolour and digital drawings. I enjoyed being able to host a bunch of activities and games for my members to enjoy and seeing them have fun while being able to hone their artistic abilities. Being in PHAC not only helped me improve in Art, but also it helped me to grow as a leader too.”<img style="width:60%; height:auto;" src="/images/phac5.jpg">
-  <span style="display:block;
-  color:#333333;
-  font-style: normal;
-  font-weight: bold;
-               margin-top:1em; font-size:15px;">Ong Zirui, Jesserel, 4D6, <em>PHAC Treasurer 2020-21</em></span>
+  <span style="display:block; color:#333333; font-style: normal; font-weight: bold;margin-top:1em; font-size:15px;">Ong Zirui, Jesserel, 4D6, <em>PHAC Treasurer 2020-21</em></span>
 </blockquote>
 
 
