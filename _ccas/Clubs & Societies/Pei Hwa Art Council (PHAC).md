@@ -48,7 +48,6 @@ third_nav_title: Clubs & Societies
 </ul>
 	</td>
 </tr>
-	
 </tbody>
 </table>
 
