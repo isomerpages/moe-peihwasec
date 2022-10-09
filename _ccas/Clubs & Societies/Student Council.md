@@ -104,17 +104,17 @@ third_nav_title: Clubs & Societies
 <div class="legend"></div>
 <div class="image" style=" width:100%;
   height:100%;">
-<img src="/images/sc3.jpg"style="width:100%;
+<img src="/images/sc3.jpg" style="width:100%;
   height:100%;">
 </div>
 <div class="image" style=" width:100%;
   height:100%;">
-<img src="/images/sc4.jpg"style="width:100%;
+<img src="/images/sc4.jpg" style="width:100%;
   height:100%;">
 </div>
 <div class="image" style=" width:100%;
   height:100%;">
-<img src="/images/sc5.jpg"style="width:100%;
+<img src="/images/sc5.jpg" style="width:100%;
   height:100%;">
 </div>
 </div>
