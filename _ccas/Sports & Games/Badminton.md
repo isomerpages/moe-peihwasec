@@ -140,28 +140,27 @@ B and C division boys came in 1st runner up in the Interschool Badminton Competi
   <span style="display:block; color:#333333; margin-top:1em;font-size:15px;"><em>Vice-Captain (Girls Team), Tan Yu Xin Felicia, 3I8</em></span>
 	</blockquote> 
 	
+<table border="1" style="width:100%;">
+	<tbody>
+		<tr>
+			<td style="background-color: #54585d; font-weight: bold; font-size: 15px; border: 1px solid #54585d; color:white;border-bottom: 1px solid #dddddd;width:24%;">Teacher-In-Charge</td>
+			<td style="border: 1px solid #dddfe1;font-size: 15px;">Mrs Cheow Bee Chuan</td>
+		</tr>
 
+<tr>
+			<td style="background-color: #54585d; font-weight: bold; font-size: 15px; border: 1px solid #54585d;border-bottom: 1px solid #dddddd; color:white;">CCA Teacher(s)</td>
+			<td style="border: 1px solid #dddfe1;font-size: 15px;">Mr Li Hong Jin<br>Miss Tan Hui Ping<br>Mr Bahtiar</td>
+		</tr>
 
-<h4><strong>CCA Details</strong></h4>
-<div>
-<table border="1" width="100%">
-<tbody>
 <tr>
-<td width="24%"><strong>Teacher-in-Charge</strong></td>
-<td width="76%">Mrs Cheow Bee Chuan</td>
-</tr>
+			<td style="background-color: #54585d; font-weight: bold; font-size: 15px; border: 1px solid #54585d; color:white;border-bottom: 1px solid #dddddd;">CCA Schedule</td>
+			<td style="border: 1px solid #dddfe1;font-size: 15px;">Tue: 3.30 pm to 6 pm<br />Fri: 2.30 pm to 6 pm</td>
+		</tr>
+		
 <tr>
-<td width="24%"><strong>CCA Teacher(s)</strong></td>
-<td width="76%">Mr Li Hong Jin<br />Miss Tan Hui Ping<br />Mr Bahtiar</td>
-</tr>
-<tr>
-<td width="24%"><strong>CCA Schedule</strong></td>
-<td width="76%">Tue: 3.30 pm to 6 pm<br />Fri: 2.30 pm to 6 pm</td>
-</tr>
-<tr>
-<td width="24%"><strong>Venues</strong></td>
-<td width="76%">Indoor Sports Hall (ISH) Level 2</td>
-</tr>
+			<td style="background-color: #54585d; font-weight: bold; font-size: 15px; border: 1px solid #54585d; color:white;">Venues</td>
+			<td style="border: 1px solid #dddfe1;font-size: 15px;">Indoor Sports Hall (ISH) Level 2</td>
+		</tr>
+		
 </tbody>
-</table>
-</div>
+	</table>
