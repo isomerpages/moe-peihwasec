@@ -83,35 +83,6 @@ third_nav_title: Clubs & Societies
 </tbody>
 	</table>
 
-<div class="slider-holder" style="width: 800px;
-            height: 400px;
-            background-color: yellow;
-            margin-left: auto;
-            margin-right: auto;
-            margin-top: 0px;
-            text-align: center;
-            overflow: hidden;">
-        <span id="slider-image-1"></span>
-        <span id="slider-image-2"></span>
-        <span id="slider-image-3"></span>
-        <div class="image-holder" style="width: 2400px; background-color: red; height: 400px; clear: both;position: relative; -webkit-transition: left 2s; -moz-transition: left 2s; -o-transition: left 2s; transition: left 2s;">
-            <img src="/images/sc4.jpg" class="slider-image" style="float: left;
-            margin: 0px;
-            padding: 0px;
-            position: relative;" />
-            <img src="/images/sc3.jpg" class="slider-image" style="float: left;
-            margin: 0px;
-            padding: 0px;
-            position: relative;" />
-            <img src="/images/sc5.jpg" class="slider-image" style="float: left;
-            margin: 0px;
-            padding: 0px;
-            position: relative;" />
-        </div>
-       
-    </div>
-
-
 <h4><strong>Photo Gallery</strong></h4>
 <img style="width: 65%;" src="/images/sc3.jpg" />
 <img style="width: 65%;" src="/images/sc4.jpg" />
