@@ -4,7 +4,6 @@ permalink: /ccas/clubs-societies/student-council/
 description: ""
 third_nav_title: Clubs & Societies
 ---
-
 <h4><strong>Mission</strong></h4>
 
 <p style="font-size:15px;">The Student Council aims to develop innovative, daring and compassionate leaders. As Tier 3 Student Leaders, the Student Council is the voice of the student body and takes the lead in school events and improving student welfare. Student Councillors are also advocates of the environment by raising awareness about environment conservation through events such as Earth Week.</p>
@@ -86,73 +85,41 @@ third_nav_title: Clubs & Societies
 
 <h4><strong>Photo Gallery</strong></h4>
 
-<div class="slider" style="height:100vh;
-	position: relative;">
-  <ul>
-    <li id="no-js-slider-1" class="slide" style="position:absolute;
-	height:100%;
-	width:100%;">
-      <img src="/images/sc5.jpg" style="max-width:100%;
-	width:100%;
-	position:fixed;
-	left:0;">
-      <a class="prev" href="#no-js-slider-10" style="height:91px;
-	position:absolute;
-	width:43px;
-	top:50%;
-	margin-top:-30px;
-	opacity:0.6;
-	text-indent:-99999px;
-	cursor:pointer;
-	-webkit-transition:opacity 200ms ease-out;
-">prev</a>
-      <a class="next" href="#no-js-slider-2" style="height:91px;
-	position:absolute;
-	width:43px;
-	top:50%;
-	margin-top:-30px;
-	opacity:0.6;
-	text-indent:-99999px;
-	cursor:pointer;
-	-webkit-transition:opacity 200ms ease-out;
-">next</a>
-    </li>
-    <li id="no-js-slider-2" class="slide">
-      <img src="/images/sc4.jpg" style="max-width:100%;
-	width:100%;
-	position:fixed;
-	left:0;">
-      <a class="prev" href="#no-js-slider-1" style="height:91px;
-	position:absolute;
-	width:43px;
-	top:50%;
-	margin-top:-30px;
-	opacity:0.6;
-	text-indent:-99999px;
-	cursor:pointer;
-	-webkit-transition:opacity 200ms ease-out;
-">prev</a>
-      <a class="next" href="#no-js-slider-3" style="height:91px;
-	position:absolute;
-	width:43px;
-	top:50%;
-	margin-top:-30px;
-	opacity:0.6;
-	text-indent:-99999px;
-	cursor:pointer;
-	-webkit-transition:opacity 200ms ease-out;
-">next</a>           
-    </li>
-    <li id="no-js-slider-3" class="slide">
-      <img src="/images/sc3.jpg" style="max-width:100%;
-	width:100%;
-	position:fixed;
-	left:0;">
-      <a class="prev" href="#no-js-slider-2">prev</a>
-      <a class="next" href="#no-js-slider-4">next</a>           
-    </li>
-
-  </ul>
+<div id="slider" style="width:100%;
+  height:500px;
+  position:relative;
+  overflow:hidden;">
+  <div class="slides" style=" width:400%;
+  height:100%;
+  position:relative;
+  -webkit-animation:slide 30s infinite;
+  -moz-animation:slide 30s infinite;
+  animation:slide 30s infinite;">
+    <div class="slider" style="width:25%;
+  height:100%;
+  float:left;
+  position:relative;
+  z-index:1;
+  overflow:hidden;">
+      <div class="legend"></div>
+      <div class="image" style=" width:100%;
+  height:100%;">
+        <img src="/images/sc3.jpg"style="width:100%;
+  height:100%;">
+      </div>
+			      <div class="image" style=" width:100%;
+  height:100%;">
+        <img src="/images/sc4.jpg"style="width:100%;
+  height:100%;">
+      </div>
+			      <div class="image" style=" width:100%;
+  height:100%;">
+        <img src="/images/sc5.jpg"style="width:100%;
+  height:100%;">
+      </div>
+    </div>
+ 
+  </div>
 </div>
 
 <br>
