@@ -10,7 +10,6 @@ third_nav_title: Clubs & Societies
 
 <img src="/images/info1.png">
 
-<hr>
 
 <h4><strong>Student Outcomes</strong></h4>
 
@@ -21,7 +20,6 @@ third_nav_title: Clubs & Societies
 	<li style="font-size:15px; line-height:2;">develop into being a team player and work collaboratively with others</li>
 	</ul>
 
-<hr>
 	
 <h4><strong>Achievements</strong></h4>
 
@@ -77,7 +75,6 @@ third_nav_title: Clubs & Societies
 </tbody>
 </table>
 
-<hr>
 
 <h4><strong>Competitions and CCA Activities</strong></h4>
 <p><strong>CCA Activities:</strong></p>
@@ -92,8 +89,6 @@ third_nav_title: Clubs & Societies
 	<li style="font-size: 15px;">SDMA, NEmation</li>
 <img src="/images/info2.jpeg">
 	</ul>
-
-<hr>
 	
 <h4><strong>CCA Details</strong></h4>
 <table border="1" style="width:100%;">
