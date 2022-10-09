@@ -11,7 +11,6 @@ third_nav_title: Clubs & Societies
 <li style="font-size:15px; line-height:2;">develop robot construction and programming skills through exposure to a variety of robotics platforms</li>
 <li style="font-size:15px; line-height:2;">compete in internal and national competitions to pitch their skills against the best to build and programme robots to complete assigned missions in the most strategic and efficient manner.</li>
 	
-<hr>
 	
 <h4><strong>Achievements</strong></h4>
 
@@ -108,7 +107,6 @@ third_nav_title: Clubs & Societies
 </tbody>
 </table>
 
-<hr>
 	
 <h4><strong>Competitions and CCA Activities</strong></h4>
 
@@ -123,8 +121,6 @@ third_nav_title: Clubs & Societies
 </ol>
 <img style="width:80%; height:auto;" src="/images/robo2.jpg">
 <p>Workshop on machine learning with Huskylens and&nbsp;Micro:bit</p>
-
-<hr>
 	
 <h4><strong>Student Testament</strong></h4>
 <blockquote style="font-size: 17px;
