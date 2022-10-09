@@ -89,37 +89,37 @@ third_nav_title: Clubs & Societies
   height:500px;
   position:relative;
   overflow:hidden;">
-  <div class="slides" style=" width:400%;
+ <div class="slides" style=" width:400%;
   height:100%;
   position:relative;
   -webkit-animation:slide 30s infinite;
   -moz-animation:slide 30s infinite;
   animation:slide 30s infinite;">
-    <div class="slider" style="width:25%;
+ <div class="slider" style="width:25%;
   height:100%;
   float:left;
   position:relative;
   z-index:1;
   overflow:hidden;">
-      <div class="legend"></div>
-      <div class="image" style=" width:100%;
+<div class="legend"></div>
+<div class="image" style=" width:100%;
   height:100%;">
-        <img src="/images/sc3.jpg"style="width:100%;
+<img src="/images/sc3.jpg"style="width:100%;
   height:100%;">
-      </div>
-			      <div class="image" style=" width:100%;
+</div>
+<div class="image" style=" width:100%;
   height:100%;">
-        <img src="/images/sc4.jpg"style="width:100%;
+<img src="/images/sc4.jpg"style="width:100%;
   height:100%;">
-      </div>
-			      <div class="image" style=" width:100%;
+</div>
+<div class="image" style=" width:100%;
   height:100%;">
-        <img src="/images/sc5.jpg"style="width:100%;
+<img src="/images/sc5.jpg"style="width:100%;
   height:100%;">
-      </div>
-    </div>
+</div>
+</div>
  
-  </div>
+</div>
 </div>
 
 <br>
