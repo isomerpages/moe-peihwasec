@@ -6,7 +6,6 @@ third_nav_title: Clubs & Societies
 ---
 <p style="font-size:15px;"><strong>Pei Hwa Art Council</strong>&nbsp;is a visual arts CCA which aims to provide students with opportunities to grow creatively. Students are exposed to a mix of fine art and design skills such as drawing and painting, ceramics and digital art to allow them a hands-on at trying out different media. They are also given opportunities to showcase their strengths and talents by participating in various competitions and Values in Action in order to give back to the community.</p>
 
-<hr> 
 
 <h4><strong>Student Outcomes</strong></h4>
 <p style="font-size:15px; line-height:2;">The CCA will enable our students to:</p>
@@ -16,7 +15,6 @@ third_nav_title: Clubs & Societies
 	<li style="font-size:15px; line-height:2;"> provide support to the school for school-wide events and in partnering with the community</li>
 </ul>
 
-<hr>
 
 <h4><strong>Achievements</strong></h4>
 <table style="border-collapse: collapse;margin: 25px 0;font-size:15px;font-family: sans-serif;box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);" border="1">
@@ -56,7 +54,6 @@ third_nav_title: Clubs & Societies
 </tbody>
 </table>
 
-<hr>
 
 <h4><strong>Competitions and CCA Activities</strong></h4>
 <p style="font-size:15px;">PHAC tries to strike a balance between learning new skills, taking part in competitions, supporting school events and in giving back to the community. Our recent participation was ‘Draw My Stamp Story Art Competition’ organised by Singapore Philatelic Museum (SPM) to help students understand and appreciate the importance of designs reflected on our Singapore stamps. Previously, we also took part in the Live On Design Competition which included a Values in Action segment for students to be able to have an insight into the lives of patients and donors. We also put our artistic skills to good use by creating silkscreen designs on tote bags as part of our CCA’s efforts in raising funds for our school’s adopted voluntary welfare organisations during Community Day 2019. When we are not busy taking part in competitions, we have fun going on learning journeys and camps to recharge and learn new skills.</p>
@@ -85,7 +82,6 @@ third_nav_title: Clubs & Societies
 
 <img src="/images/phac3.png">
 
-<hr>
 
 <h4><strong>Student Testament</strong></h4>
 
