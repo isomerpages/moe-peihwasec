@@ -10,7 +10,6 @@ third_nav_title: Clubs & Societies
 
 <p style="font-size:15px;">Every year, Student Councillors are officially appointed during the Student Leaders Investiture. As role-models of the student population, Student Councillors lead by example. They are given multiple platforms to develop their leadership and event management skills through organising events such as the Teachers’ Day Celebration and Secondary 1 Orientation, as well as managing the PHun Lounge.</p>
 
-<hr>
 
 <h4><strong>Student Outcomes</strong></h4>
 <p style="font-size:15px; line-height:2;">The CCA will enable our students to:</p>
@@ -18,7 +17,6 @@ third_nav_title: Clubs & Societies
 		<li style="font-size:15px; line-height:2;"> be equipped with knowledge on leadership, teamwork and project management</li>
 	</ul>
 
-<hr>
 
 <h4><strong>Student Testament</strong></h4>
 <blockquote style="font-size: 17px;
@@ -55,7 +53,6 @@ third_nav_title: Clubs & Societies
   <span style="display:block; color:#333333; margin-top:1em;font-size:15px;"><em>Ang Kaitlynn, 16<sup>th</sup>&nbsp;President of Student Council</em></span>
 	</blockquote>
 
-<hr>
 
 <h4><strong>CCA Details</strong></h4>
 <table border="1" style="width:100%;">
@@ -84,14 +81,14 @@ third_nav_title: Clubs & Societies
 	</table>
 
 <h4><strong>Photo Gallery</strong></h4>
-
-<div id="slider" style="overflow: hidden;">
-<figure style="position: relative; width: 500%;margin: 0;
-  left: 0;text-align: left;font-size: 0;animation: 30s slidy infinite;">
-<img src="/images/sc4.jpg" style="width: 20%; float: left;" alt="">
-<img src="/images/sc5.jpg" style="width: 20%; float: left;" alt="">
-<img src="/images/sc6.jpg" style="width: 20%; float: left;" alt="">
-</figure>
-</div>
+<div class="row" style="box-sizing: border-box;"> 
+		<div class="column" style="box-sizing: border-box;  float: left; width: 50%; padding: 10px;">
+  			<img src="/images/sc3.jpg" style="width:100%; margin-top: 12px;">
+  			<img src="/images/sc5.jpg" style="width:100%; margin-top: 12px;">
+  		</div>
+  		<div class="column" style="box-sizing: border-box;  float: left;width: 50%;padding: 10px;">
+  			<img src="/images/sc4.jpg" style="width:100%; margin-top: 12px;">
+		</div>  
+  	</div>
 
 <br>
