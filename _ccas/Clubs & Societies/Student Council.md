@@ -14,7 +14,7 @@ third_nav_title: Clubs & Societies
 
 <h4><strong>Student Outcomes</strong></h4>
 <p style="font-size:15px; line-height:2;">The CCA will enable our students to:</p>
-	<ul>
+<ul>
 		<li style="font-size:15px; line-height:2;"> be equipped with knowledge on leadership, teamwork and project management</li>
 	</ul>
 
