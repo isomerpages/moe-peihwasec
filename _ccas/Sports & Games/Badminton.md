@@ -119,7 +119,7 @@ B and C division boys came in 1st runner up in the Interschool Badminton Competi
   line-height:1.6;
   position: relative;
   background:#EDEDED;">
-<img align="left" src="/images/bad8.jpeg" style="width: 33%; height:20%; margin-right:15px; margin-bottom=-25px;">
+<img align="left" src="/images/bad8.jpeg" style="width: 23%; height:50%; margin-right:15px;">
 	"I enjoy badminton CCA as I have forged strong bonds with my CCA mates and juniors. I also like that the CCA not only focuses on honing our badminton skills but also spent time working on our values such as team spirit. Being a leader has enabled me to understand my friends and juniors better. Whenever I am troubled, my coach has sacrificed his time in teaching me to perfect my skill. When I made mistakes along the way, the teachers-in-charge are always there for me with the purpose for me to learn and not make the same mistakes in the future. Being a part of the badminton CCA has given me many opportunities to grow both skills and values-wise. Therefore, I always look forward to having CCA sessions every week!"
   <span style="display:block; color:#333333; margin-top:1em;font-size:15px;"><em>Vice-Captain (Boys Team), Ow Ting Heng, 3I1</em></span>
 	</blockquote>
