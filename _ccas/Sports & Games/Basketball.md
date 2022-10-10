@@ -65,9 +65,23 @@ third_nav_title: Sports & Games
 <img style="width: 75%;" src="/images/bb2.jpg" />
 
 <h4><strong>Student Testament</strong></h4>
-<img style="width: 33%;" src="/images/bb3.jpg" align = "right" />
-<p>Basketball CCA has taught me to have resilience and team spirit. It also helps to build on one&rsquo;s physical and mental toughness, through all the physical trainings by the coach. Through all the trainings, my fellow basketball players and I have gained deeper understanding of the game.</p>
-<p>Wong Tailer , 3I4 (Basketball Captain)</p>
+<blockquote style="font-size: 15px;
+  width:100%;
+  margin:50px auto;
+  font-family:Open Sans;
+  font-style:italic;
+  color: #555555;
+  padding:1.2em 25px 1.2em 25px;
+  border-left:8px solid #78C0A8 ;
+  line-height:1.6;
+  position: relative;
+  background:#EDEDED;">
+<img align="left" src="/images/bb3.jpg" style="width: 23%;margin-right:15px;">
+	"Basketball CCA has taught me to have resilience and team spirit. It also helps to build on one&rsquo;s physical and mental toughness, through all the physical trainings by the coach. Through all the trainings, my fellow basketball players and I have gained deeper understanding of the game."
+  <span style="display:block; color:#333333; margin-top:1em;font-size:15px;"><em>Wong Tailer , 3I4 (Basketball Captain)</em></span>
+	</blockquote>
+
+	
 
 <h4><strong>CCA Details</strong></h4>
 <table border="1" style="width:100%;">
