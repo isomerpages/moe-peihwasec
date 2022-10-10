@@ -65,7 +65,7 @@ third_nav_title: Sports & Games
 <img style="width: 75%;" src="/images/bb2.jpg" />
 
 <h4><strong>Student Testament</strong></h4>
-<blockquote style="font-size: 15px;
+<blockquote style="font-size: 14px;
   width:100%;
   margin:50px auto;
   font-family:Open Sans;
