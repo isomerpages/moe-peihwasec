@@ -87,7 +87,7 @@ B and C division boys came in 1st runner up in the Interschool Badminton Competi
   line-height:1.6;
   position: relative;
   background:#EDEDED;">
-<img align="left" alt="Captain (Boys Team)" src="/images/bad6.jpeg" style="width: 33%; height:50%; margin-right:15px;">
+<img align="left" alt="Captain (Boys Team)" src="/images/bad6.jpeg" style="width: 33%; height:20%; margin-right:15px;">
 	"I enjoy badminton CCA as I get to spend time with my CCA mates and juniors. I also get to practice and learn new badminton skills. Furthermore, the CCA has given me many opportunities to lead and improve my leadership skills. Although there were many times I made mistakes, the teachers and coach were forgiving and willing to help me learn. My friends are also there to support me whenever I needed help with a badminton skill. Even though there were disruptions to the CCA sessions because of Covid-19, we had enjoyable online zoom sessions that also allowed us to bond beyond the badminton court and grow closer as a team."
   <span style="display:block; color:#333333; margin-top:1em;font-size:15px;"><em>Captain (Boys Team), Jayden Tay Wei Jie, 3I</em></span>
 	</blockquote>
@@ -103,7 +103,7 @@ B and C division boys came in 1st runner up in the Interschool Badminton Competi
   line-height:1.6;
   position: relative;
   background:#EDEDED;">
-<img align="left" alt="Captain (Girls Team)" src="/images/bad7.jpeg" style="width: 33%; height:50%; ;margin-right:15px;">
+<img align="left" alt="Captain (Girls Team)" src="/images/bad7.jpeg" style="width: 33%; height:20%; ;margin-right:15px;">
 	"I enjoy badminton CCA as I am able to develop and showcase my abilities of being a leader as well as bond with my teammates and form friendships. Personally, being in this CCA has helped me become a better leader, teammate and friend. This CCA has also helped me built confidence and I am able to project my ideas better and be more understanding towards my teammates. As a leader, this has supported me in developing good leadership skills and think of effective solutions in critical situations such as when a teammate is injured or unwell. As a friend and teammate, I have forged strong bonds and I continue to foster good teamwork with my teammates. Everyone is encouraging and we work towards a positive attitude. Overall I enjoy my CCA as it is one of my pillars of support, allowing me to be a better person in general."
   <span style="display:block; color:#333333; margin-top:1em;font-size:15px;"><em>Captain (Girls Team), Png Yve Xuane Jenna, 3I5</em></span>
 	</blockquote>
@@ -119,7 +119,7 @@ B and C division boys came in 1st runner up in the Interschool Badminton Competi
   line-height:1.6;
   position: relative;
   background:#EDEDED;">
-<img align="left" src="/images/bad8.jpeg" style="width: 33%; height:50%; margin-right:15px;">
+<img align="left" src="/images/bad8.jpeg" style="width: 33%; height:20%; margin-right:15px;">
 	"I enjoy badminton CCA as I have forged strong bonds with my CCA mates and juniors. I also like that the CCA not only focuses on honing our badminton skills but also spent time working on our values such as team spirit. Being a leader has enabled me to understand my friends and juniors better. Whenever I am troubled, my coach has sacrificed his time in teaching me to perfect my skill. When I made mistakes along the way, the teachers-in-charge are always there for me with the purpose for me to learn and not make the same mistakes in the future. Being a part of the badminton CCA has given me many opportunities to grow both skills and values-wise. Therefore, I always look forward to having CCA sessions every week!"
   <span style="display:block; color:#333333; margin-top:1em;font-size:15px;"><em>Vice-Captain (Boys Team), Ow Ting Heng, 3I1</em></span>
 	</blockquote>
@@ -135,7 +135,7 @@ B and C division boys came in 1st runner up in the Interschool Badminton Competi
   line-height:1.6;
   position: relative;
   background:#EDEDED;">
-<img align="left" src="/images/bad9.jpeg" style="width: 33%; height:50%; margin-right:15px;">
+<img align="left" src="/images/bad9.jpeg" style="width: 33%; height:20%; margin-right:15px;">
 	"I enjoy being in badminton CCA as I get to learn many new skills that I can enhance every CCA session, as well as practice it on the court during competitions. This gives me countless chances to hone my skills and make use of them. Other than skills applied gamewise, I have also learnt values such as the importance of responsibility. As the vice-captain of the CCA, I am able to build my confidence whilst forging closer ties with my teammates. Within the CCA, we also have very good relationships with each other, which boosts our morale during competition settings. Our sense of unity is strong, and we continue to further encourage one another to be the best we can. Badminton has taught me many crucial skills that I can apply on court and in daily life settings, and I am very glad to be in Pei Hwa badminton!"
   <span style="display:block; color:#333333; margin-top:1em;font-size:15px;"><em>Vice-Captain (Girls Team), Tan Yu Xin Felicia, 3I8</em></span>
 	</blockquote> 
