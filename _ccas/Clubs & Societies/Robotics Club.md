@@ -137,7 +137,7 @@ third_nav_title: Clubs & Societies
   background:#EDEDED;">
 <img align="left" src="/images/robo3.jpg" style="width: 23%;margin-right:15px;">
 “I really enjoy the competitive ambience and the adrenaline rush during Robotics competitions.  I like interacting with my CCA friends and bouncing off ideas and strategies with them to overcome challenges in coding”
-  <span style="display:block; color:#333333; margin-top:1em;font-size:15px;"><em>Logistics Manager, Antho Siow Jia Jun, Int 5</em></span>
+  <span style="display:block; color:#333333; margin-top:1em;font-size:15px;"><em>Logistics Manager, Antho Siow Jia Jun, Int 5</em></span><br><br><br>
 </blockquote>
 
 <blockquote style="font-size: 17px;
