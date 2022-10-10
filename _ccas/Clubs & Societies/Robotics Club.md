@@ -135,7 +135,7 @@ third_nav_title: Clubs & Societies
   line-height:1.6;
   position: relative;
   background:#EDEDED;">
-<img align="left" src="/images/robo3.jpg" style="width: 33%;margin-right:15px;">
+<img align="left" src="/images/robo3.jpg" style="width: 23%;margin-right:15px;">
 “I really enjoy the competitive ambience and the adrenaline rush during Robotics competitions.  I like interacting with my CCA friends and bouncing off ideas and strategies with them to overcome challenges in coding”
   <span style="display:block; color:#333333; margin-top:1em;font-size:15px;"><em>Logistics Manager, Antho Siow Jia Jun, Int 5</em></span>
 </blockquote>
@@ -151,7 +151,7 @@ third_nav_title: Clubs & Societies
   line-height:1.6;
   position: relative;
   background:#EDEDED;">
-<img align="left" alt="Lower Secondary Coordinator, " src="/images/robo4.jpg" style="width: 33%;margin-right:15px;">“Even though these past 2 years have been quite uneventful due to Covid-19, I still really enjoy my time learning new skills, making new friends, and working together with my peers and teachers.<br>
+<img align="left" alt="Lower Secondary Coordinator, " src="/images/robo4.jpg" style="width: 23%;margin-right:15px;">“Even though these past 2 years have been quite uneventful due to Covid-19, I still really enjoy my time learning new skills, making new friends, and working together with my peers and teachers.<br>
 The Robotics Club has given me the opportunity to be a leader, to express my creativity and improve on my social skills. I look forward to what’s more to come.”
   <span style="display:block; color:#333333; margin-top:1em;font-size:15px;"><em>Lower Secondary Coordinator, Grace Lai Le Xin, Res 4</em></span>
 	</blockquote>
