@@ -112,14 +112,14 @@ third_nav_title: Clubs & Societies
 
 <ol>
 <li style="font-size:15px; line-height:2;">Robocup Singapore Open (Cospace Rescue, Cospace Grand Prix, OnStage)</li>
-<img style="width:80%; height:auto;" src="/images/robo1.jpg">
+<img style="width:60%; height:auto;" src="/images/robo1.jpg">
 <li style="font-size:15px; line-height:2;">Award winners of the 2019 RobocupJunior Singapore Open</li>
 <li style="font-size:15px; line-height:2;">Introduction to Python Programming Language, Data Science with Python</li>
 <li style="font-size:15px; line-height:2;">Internal LEGO EV3 robotics competition</li>
 <li style="font-size:15px; line-height:2;">AI with Halocode, Machine Learning with Huskylens</li>
 <li style="font-size:15px; line-height:2;">Codomo Potato Pirates Coding Card Games</li>
 
-<img style="width:80%; height:auto;" src="/images/robo2.jpg">
+<img style="width:60%; height:auto;" src="/images/robo2.jpg">
 <li style="font-size:15px; line-height:2;">Workshop on machine learning with Huskylens and&nbsp;Micro:bit</li>
 	</ol>
 	
