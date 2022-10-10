@@ -110,17 +110,18 @@ third_nav_title: Clubs & Societies
 	
 <h4><strong>Competitions and CCA Activities</strong></h4>
 
-<ol style="font-size:15px;">
-<li>Robocup Singapore Open (Cospace Rescue, Cospace Grand Prix, OnStage)</li>
+<ol>
+<li style="font-size:15px; line-height:2;">Robocup Singapore Open (Cospace Rescue, Cospace Grand Prix, OnStage)</li>
 <img style="width:80%; height:auto;" src="/images/robo1.jpg">
-<p>Award winners of the 2019 RobocupJunior Singapore Open</p>
-<li>Introduction to Python Programming Language, Data Science with Python</li>
-<li>Internal LEGO EV3 robotics competition</li>
-<li>AI with Halocode, Machine Learning with Huskylens</li>
-<li>Codomo Potato Pirates Coding Card Games</li>
-</ol>
+<li style="font-size:15px; line-height:2;">Award winners of the 2019 RobocupJunior Singapore Open</li>
+<li style="font-size:15px; line-height:2;">Introduction to Python Programming Language, Data Science with Python</li>
+<li style="font-size:15px; line-height:2;">Internal LEGO EV3 robotics competition</li>
+<li style="font-size:15px; line-height:2;">AI with Halocode, Machine Learning with Huskylens</li>
+<li style="font-size:15px; line-height:2;">Codomo Potato Pirates Coding Card Games</li>
+
 <img style="width:80%; height:auto;" src="/images/robo2.jpg">
-<p>Workshop on machine learning with Huskylens and&nbsp;Micro:bit</p>
+<li style="font-size:15px; line-height:2;">Workshop on machine learning with Huskylens and&nbsp;Micro:bit</li>
+	</ol>
 	
 <h4><strong>Student Testament</strong></h4>
 <blockquote style="font-size: 17px;
