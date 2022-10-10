@@ -76,7 +76,7 @@ B and C division boys came in 1st runner up in the Interschool Badminton Competi
   	</div>
 
 <h4><strong>Student Testament</strong></h4>
-<blockquote style="font-size: 17px;
+<blockquote style="font-size: 15px;
   width:100%;
   margin:50px auto;
   font-family:Open Sans;
@@ -92,7 +92,7 @@ B and C division boys came in 1st runner up in the Interschool Badminton Competi
   <span style="display:block; color:#333333; margin-top:1em;font-size:15px;"><em>Captain (Boys Team), Jayden Tay Wei Jie, 3I</em></span>
 	</blockquote>
 
-<blockquote style="font-size: 17px;
+<blockquote style="font-size: 15px;
   width:100%;
   margin:50px auto;
   font-family:Open Sans;
@@ -108,7 +108,7 @@ B and C division boys came in 1st runner up in the Interschool Badminton Competi
   <span style="display:block; color:#333333; margin-top:1em;font-size:15px;"><em>Captain (Girls Team), Png Yve Xuane Jenna, 3I5</em></span>
 	</blockquote>
 
-<blockquote style="font-size: 17px;
+<blockquote style="font-size: 15px;
   width:100%;
   margin:50px auto;
   font-family:Open Sans;
@@ -124,7 +124,7 @@ B and C division boys came in 1st runner up in the Interschool Badminton Competi
   <span style="display:block; color:#333333; margin-top:1em;font-size:15px;"><em>Vice-Captain (Boys Team), Ow Ting Heng, 3I1</em></span>
 	</blockquote>
 
-<blockquote style="font-size: 17px;
+<blockquote style="font-size: 15px;
   width:100%;
   margin:50px auto;
   font-family:Open Sans;
