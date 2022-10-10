@@ -128,7 +128,7 @@ third_nav_title: Clubs & Societies
 	</ul>
 	
 <h4><strong>&nbsp;Student Testament</strong></h4>
-<blockquote style="font-size: 17PX;
+<blockquote style="font-size: 15px;
   width:100%;
   margin:50px auto;
   font-family:Open Sans;
@@ -143,7 +143,7 @@ third_nav_title: Clubs & Societies
 </blockquote>
 
 
-<blockquote style="font-size: 17px;
+<blockquote style="font-size: 15px;
   width:100%;
   margin:50px auto;
   font-family:Open Sans;
