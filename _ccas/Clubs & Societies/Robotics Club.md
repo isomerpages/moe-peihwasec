@@ -124,7 +124,7 @@ third_nav_title: Clubs & Societies
 	</ol>
 	
 <h4><strong>Student Testament</strong></h4>
-<blockquote style="font-size: 15px;
+<blockquote style="font-size: 14px;
   width:100%;
   margin:50px auto;
   font-family:Open Sans;
@@ -140,7 +140,7 @@ third_nav_title: Clubs & Societies
   <span style="display:block; color:#333333; margin-top:1em;font-size:15px;"><em>Logistics Manager, Antho Siow Jia Jun, Int 5</em></span><br><br><br>
 </blockquote>
 
-<blockquote style="font-size: 15px;
+<blockquote style="font-size: 14px;
   width:100%;
   margin:50px auto;
   font-family:Open Sans;
