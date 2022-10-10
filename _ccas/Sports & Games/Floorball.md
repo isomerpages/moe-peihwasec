@@ -4,18 +4,22 @@ permalink: /ccas/sports-games/floorball/
 description: ""
 third_nav_title: Sports & Games
 ---
-<p>Floorball is becoming a very popular sport around the world and in Singapore. The number of players and teams are increasing every year and there is no sign that the positive development would stop. In 2009, floorball started as a CCA in Pei Hwa Secondary School. The floorball team, also known as Pei Hwa Phoenix, is the ultimate symbol of strength and renewal. Pei Hwa Floorball has achieved outstanding results over the years. Currently, we have 6 Pei Hwa alumni and current students in the U19 Singapore Women&rsquo;s National Team. #peihwaphoenix #flyphoenixfly #floorball #singaporefloorball</p>
-<p>Our Motto: The strength of the team is each individual member. The strength of each member is the team. Always keep an open mind and a compassionate heart. (Inspired by Phil Jackson)</p>
+<p style="font-size:15px;"><strong>Floorball</strong> is becoming a very popular sport around the world and in Singapore. The number of players and teams are increasing every year and there is no sign that the positive development would stop. In 2009, floorball started as a CCA in Pei Hwa Secondary School. The floorball team, also known as Pei Hwa Phoenix, is the ultimate symbol of strength and renewal. Pei Hwa Floorball has achieved outstanding results over the years. Currently, we have 6 Pei Hwa alumni and current students in the U19 Singapore Women&rsquo;s National Team. #peihwaphoenix #flyphoenixfly #floorball #singaporefloorball</p>
+
+<p style="font-size:15px;">Our Motto: The strength of the team is each individual member. The strength of each member is the team. Always keep an open mind and a compassionate heart. (Inspired by Phil Jackson)</p>
+
 <img src="/images/floorball1.jpg">
 <p>Do check us out on our Instagram page @peihwaphoenix !</p>
+
 <h4><strong>Student Outcomes</strong></h4>
-<p>The CCA will enable our students to:</p>
-<ul>
-<li>To develop techniques and skills so as to appreciate and enjoy the game of floorball.</li>
-<li>To develop students&rsquo; character, values, leadership and life skills through authentic and engaging activities.</li>
-<li>To provide students with a variety of platforms to realise their potential and excel in non-academic pursuits.</li>
-<li>To appreciate the concept of fair play and good sportsmanship and apply it to daily life.</li>
-</ul>
+<p style="font-size:15px; line-height:2;">The CCA will enable our students to:</p>
+	<ul>
+		<li style="font-size:15px; line-height:2;"> to develop techniques and skills so as to appreciate and enjoy the game of floorball.</li>
+		<li style="font-size:15px; line-height:2;"> to develop students&rsquo; character, values, leadership and life skills through authentic and engaging activities.</li>
+		<li style="font-size:15px; line-height:2;"> to provide students with a variety of platforms to realise their potential and excel in non-academic pursuits.</li>
+		<li style="font-size:15px; line-height:2;"> to appreciate the concept of fair play and good sportsmanship and apply it to daily life.</li>
+	</ul>
+	
 <h4><strong>Achievements</strong></h4>
 <div>
 <table border="1" width="0">
