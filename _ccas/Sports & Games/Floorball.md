@@ -274,7 +274,7 @@ third_nav_title: Sports & Games
 
 <tr>
 			<td style="background-color: #54585d; font-weight: bold; font-size: 15px; border: 1px solid #54585d;border-bottom: 1px solid #dddddd; color:white;">CCA Teacher(s)</td>
-			<td style="border: 1px solid #dddfe1;font-size: 15px;">Ms Yasmin Yeow<br>Ms Shanthini d/o Sinivasan<br>Mrs Jeslyn Chong<br>Ms Lee Ya Yu</td>
+			<td style="border: 1px solid #dddfe1;font-size: 15px;">Mdm Hoong Siew Choo (Mrs Jeslyn Chong)<br>Mdm Nurull Dzarifa</td>
 		</tr>
 
 <tr>
