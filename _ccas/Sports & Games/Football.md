@@ -4,70 +4,79 @@ permalink: /ccas/sports-games/football/
 description: ""
 third_nav_title: Sports & Games
 ---
-<p>The Pei Hwa Football Team is a group of like-minded students who enjoys playing football. Other than developing football skills and concepts, the CCA also seeks to foster meaningful friendships, cultivate a sense of belonging to the school and develop values such as teamwork, resilience and respect.</p>
-<h4><strong>Student Outcomes</strong></h4>
-<p>The CCA will enable our students to:</p>
-<ul>
-<li>Appreciate football as a sport</li>
-<li>Learn the basic skills and concepts to play football</li>
-<li>Acquire the experience and positive values from taking part in competitions</li>
-<li>Deepen understanding of self-discipline and team collaboration</li>
-</ul>
-<h4><strong>&nbsp;Achievements</strong></h4>
-<div>
-<table border="1" width="0">
+<p style="font-size:15px;">The <strong>Pei Hwa Football Team</strong> is a group of like-minded students who enjoys playing football. Other than developing football skills and concepts, the CCA also seeks to foster meaningful friendships, cultivate a sense of belonging to the school and develop values such as teamwork, resilience and respect.</p>
+
+	<h4><strong>Student Outcomes</strong></h4>
+<p style="font-size:15px; line-height:2;">The CCA will enable our students to:</p>
+	<ul>
+		<li style="font-size:15px; line-height:2;"> appreciate football as a sport</li>
+		<li style="font-size:15px; line-height:2;"> learn the basic skills and concepts to play football</li>
+		<li style="font-size:15px; line-height:2;"> acquire the experience and positive values from taking part in competitions</li>
+		<li style="font-size:15px; line-height:2;"> deepen understanding of self-discipline and team collaboration</li>
+	</ul>
+	
+<h4><strong>Achievements</strong></h4>
+	
+<table border="1" style="border-collapse: collapse;margin: 25px 0;font-size:15px;font-family: sans-serif;box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);">
+		<thead style="background-color: #009879; font-weight: bold; font-size: 16px;">
+			<tr>
+				<td style="text-align:left;color:white;">Year of Competition</td>
+				<td style="text-align:left;color:white;">Attainment</td>
+			</tr>
+		</thead>
+	
 <tbody>
 <tr>
-<td width="96">
-<p><strong>Year of Competition</strong></p>
-</td>
-<td width="353">
-<p><strong>Attainment</strong></p>
-</td>
+<td><strong>2020</strong></td>
+	<td style="font-size:15px;">
+		<strong>NSG B Division Boys League 2</strong>
+		<br>
+		<ul>
+			<li style="font-size:15px;margin-bottom:5px;">Group Stage</li>
+		</ul>
+	</td>
 </tr>
-<tr>
-<td width="96">
-<p><strong>2020</strong></p>
-</td>
-<td width="353">
-<p><strong>NSG B Division Boys League 2 &ndash; Group Stage</strong></p>
-</td>
+															
+<tr style="background-color:#f3f3f3;font-size:15px;">
+<td style="font-size:15px;"><strong>2019</strong></td>
+	<td style="font-size:15px;">
+		<strong>NSG B Division Boys League 4</strong>
+		<br>
+		<ul>
+			<li style="font-size:15px;margin-bottom:5px;">Group Stage</li>
+		</ul>
+		<strong>NSG B Division Boys League 5</strong>
+		<br>
+		<ul>
+			<li style="font-size:15px; margin-top:5px;">Quarter Finals</li>
+		</ul>
+	</td>
 </tr>
-<tr>
-<td width="96">
-<p><strong>2019</strong></p>
-</td>
-<td width="353">
-<p><strong>NSG B Division Boys League 4 &ndash; Group Stage</strong></p>
-</td>
+			
+<tr style="font-size:15px;">
+<td><strong>2018</strong></td>
+	<td>
+		<strong>YJC Celebrating Values Day (7-a-side)</strong>
+		<br>
+		<ul>
+			<li style="font-size:15px;margin-bottom:5px;">1<sup>st</sup></li>
+		</ul>
+	</td>
 </tr>
-<tr>
-<td width="96">
-<p><strong>2019</strong></p>
-</td>
-<td width="353">
-<p><strong>NSG B Division Boys League 5 &ndash; Quarter Finals</strong></p>
-</td>
+<tr style="background-color:#f3f3f3;font-size:15px;border-bottom: 2px solid #009879;">
+<td><strong>2018</strong></td>
+	<td style="font-size:15px;">
+		<strong>YJC Celebrating Values Day (7-a-side)</strong>
+		<br>
+		<ul>
+			<li style="font-size:15px;margin-bottom:5px;">1<sup>st</sup></li>
+		</ul>
+	</td>
 </tr>
-<tr>
-<td width="96">
-<p><strong>2018</strong></p>
-</td>
-<td width="353">
-<p><strong>YJC Celebrating Values Day (7-a-side) &ndash; 1st</strong></p>
-</td>
-</tr>
-<tr>
-<td width="96">
-<p><strong>2016</strong></p>
-</td>
-<td width="353">
-<p><strong>YJC Celebrating Values Day (7-a-side) &ndash; 1st</strong></p>
-</td>
-</tr>
+										
 </tbody>
 </table>
-</div>
+
 <h4><strong>Competitions and CCA Activities</strong></h4>
 <p>Since 2017, the Pei Hwa Football Team have been participating in the yearly Northeast Friendship Tournament. The tournament was formed to provide another opportunity for students from schools in the Sengkang and Punggol areas to take part in a competition. Through this friendly competition, the students gained match experience, learned the importance of teamwork and developed friendships with their neighboring rivals.</p>
 <img src="/images/football1.jpg">
