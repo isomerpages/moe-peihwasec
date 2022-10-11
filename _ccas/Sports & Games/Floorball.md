@@ -21,8 +21,6 @@ third_nav_title: Sports & Games
 	</ul>
 	
 <h4><strong>Achievements</strong></h4>
-
-
 <table border="1" style="border-collapse: collapse;margin: 25px 0;font-size:15px;font-family: sans-serif;box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);">
 <thead style="background-color: #009879; font-weight: bold; font-size: 16px;">
 <tr>
@@ -43,7 +41,7 @@ third_nav_title: Sports & Games
 		<strong>ActiveSG-Singapore Floorball League</strong>
 		<br>
 		<ul>
-			<li style="font-size:15px;margin-bottom:5px;">Division 2 Women’s – 10<sup>th</sup></li>
+			<li style="font-size:15px;">Division 2 Women’s – 10<sup>th</sup></li>
 			<li style="font-size:15px;margin-bottom:5px;">Division 3 Women’s – 13<sup>th</sup></li>
 		</ul>
 		<strong>National Colours Best Sportsgirl Award</strong>
@@ -74,7 +72,7 @@ third_nav_title: Sports & Games
 <tr style="background-color:#f3f3f3;font-size:15px;">
 <td style="font-size:15px;"><strong>2018</strong></td>
 	<td style="font-size:15px;">
-		<strong>National School Games Floorball Championships (B Division) –</strong>
+		<strong>National School Games Floorball Championships (B Division)</strong>
 		<br>
 <ul>
 			<li style="font-size:15px;margin-bottom:5px;"> 2<sup>nd</sup> Round (Top 10)</li>
@@ -84,7 +82,7 @@ third_nav_title: Sports & Games
 		<ul>
 			<li style="font-size:15px;margin-bottom:5px;">2<sup>nd</sup> Round (Top 10)</li>
 		</ul>
-		<strong>Singapore Youth Olympic Festival Floorball Competition (Under-14) </strong>
+		<strong>Singapore Youth Olympic Festival Floorball Competition (Under-14)</strong>
 		<br>
 		<ul>
 			<li style="font-size:15px;margin-bottom:5px;">3<sup>rd</sup></li>
@@ -93,12 +91,12 @@ third_nav_title: Sports & Games
 		<ul>
 			<li style="font-size:15px;margin-bottom:5px;">1<sup>st</sup></li>
 		</ul>
-		<strong>ActiveSG-Singapore Floorball League Division 2 Women’s </strong>
+		<strong>ActiveSG-Singapore Floorball League Division 2 Women’s</strong>
 		<br>
 		<ul>
 			<li style="font-size:15px;margin-bottom:5px;">8<sup>th</sup></li>
 		</ul>
-		<strong>ActiveSG-Singapore Floorball League Division 3 Women’s </strong>
+		<strong>ActiveSG-Singapore Floorball League Division 3 Women’s</strong>
 		<br>
 		<ul>
 			<li style="font-size:15px;margin-bottom:5px;">7<sup>th</sup></li>
@@ -108,7 +106,7 @@ third_nav_title: Sports & Games
 		<ul>
 			<li style="font-size:15px;margin-bottom:5px;">3<sup>rd</sup></li>
 		</ul>
-		<strong>Kent Ridge Invitational Floorball Cup (C Division) </strong>
+		<strong>Kent Ridge Invitational Floorball Cup (C Division)</strong>
 		<br>
 		<ul>
 			<li style="font-size:15px;margin-bottom:5px;">1<sup>st</sup></li>
@@ -133,7 +131,7 @@ third_nav_title: Sports & Games
 		<ul>
 			<li style="font-size:15px;margin-bottom:5px;">Ulfah Irdina</li>
 		</ul>
-		<strong>Belles Floorball Fiesta 2018 (Under-17 ) </strong>
+		<strong>Belles Floorball Fiesta 2018 (Under-17)</strong>
 		<br>
 		<ul>
 			<li style="font-size:15px;margin-bottom:5px;">2<sup>nd</sup></li>
@@ -159,18 +157,16 @@ third_nav_title: Sports & Games
 <tr style="font-size:15px;border-bottom: 2px solid #009879;">
 <td><strong>2017</strong></td>
 <td>
-<strong>National School Games Floorball Championships (B Division) </strong>
+<strong>National School Games Floorball Championships (B Division)</strong>
 <br>
 <ul>
 <li style="font-size:15px;margin-bottom:5px;">2<sup>nd</sup> Round (Top 10)</li>
 </ul>
 <strong>National School Games Floorball Championships (C Division)</strong>
-<br>
 <ul>
-<li style="font-size:15px;marginbottom:5px;">4<sup>th</sup></li>
+<li style="font-size:15px;margin-bottom:5px;">4<sup>th</sup></li>
 </ul>
 <strong>National Colours Award (Team)</strong>
-		<br>
 		<ul>
 			<li style="font-size:15px;margin-bottom:5px;">C Division</li>
 		</ul>
@@ -185,9 +181,8 @@ third_nav_title: Sports & Games
 			<li style="font-size:15px;margin-bottom:5px;">1<sup>st</sup></li>
 		</ul>
 		<strong>Tampines West CC 3-on-3 (Under- 17)</strong>
-		<br>
-		<ul>
-			<li style="font-size:15px;margin-bottom:5px;">1<sup>st</sup></li>
+<ul>
+			<li style="font-size:15px;">1<sup>st</sup></li>
 			<li style="font-size:15px;margin-bottom:5px;">4<sup>th</sup></li>
 		</ul>
 		<strong>U Sports 3-on-3 Floorball Faceoff 2017  (Under-15)</strong>
