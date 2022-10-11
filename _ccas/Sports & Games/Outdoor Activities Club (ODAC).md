@@ -38,7 +38,7 @@ third_nav_title: Sports & Games
 	
 <img style="width: 80%;" src="/images/odac4.png" />
 
-	<h4><strong>Student Testament</strong></h4>
+<h4><strong>Student Testament</strong></h4>
 <blockquote style="font-size: 15px;
   width:100%;
   margin:50px auto;
