@@ -70,7 +70,7 @@ third_nav_title: Sports & Games
 </tbody>
 </table>	
 	
-<h4>Competitions and CCA Activities</h4>
+<h4 style="font-color:black;">Competitions and CCA Activities</h4>
 <p style="font-size:15px;">Apart from our participation in the annual National School Games, we also participate in friendly competitions with other schools. It gives us the opportunities to widen our network and expose ourselves to a broader range of challenge. It provides the players with opportunities to form meaningful bonds with competitors from other schools.</p>
 
 <img src="/images/tt1.jpg" style="align:center;">
@@ -118,23 +118,28 @@ third_nav_title: Sports & Games
   <span style="display:block; color:#333333; margin-top:1em;font-size:15px;"><em>CCA President (2020), Li Tsz Nok Jaymin</em></span>
 	</blockquote>
 
-
 <h4><strong>CCA Details</strong></h4>
-<div>
-<table border="1" width="100%">
-<tbody>
+<table border="1" style="width:100%;">
+	<tbody>
+		<tr>
+			<td style="background-color: #54585d; font-weight: bold; font-size: 15px; border: 1px solid #54585d; color:white;border-bottom: 1px solid #dddddd;width:24%;">Teacher-In-Charge</td>
+			<td style="border: 1px solid #dddfe1;font-size: 15px;">Mr Emmanuel Lim</td>
+		</tr>
+
 <tr>
-<td width="24%"><strong>Teacher-in-Charge</strong></td>
-<td width="76%">Mr Emmanuel Lim</td>
-</tr>
+			<td style="background-color: #54585d; font-weight: bold; font-size: 15px; border: 1px solid #54585d;border-bottom: 1px solid #dddddd; color:white;">CCA Teacher(s)</td>
+			<td style="border: 1px solid #dddfe1;font-size: 15px;">Mr Teo Eng Hao<br>Ms Wong Ser Ching</td>
+		</tr>
+
 <tr>
-<td width="24%"><strong>CCA Teacher(s)</strong></td>
-<td width="76%">Mr Teo Eng Hao<br />Ms Wong Ser Ching<br />Mdm Woo Nan Cam</td>
-</tr>
+			<td style="background-color: #54585d; font-weight: bold; font-size: 15px; border: 1px solid #54585d; color:white;border-bottom: 1px solid #dddddd;">CCA Schedule</td>
+			<td style="border: 1px solid #dddfe1;font-size: 15px;">Tuesdays: 3.30pm to 5pm<br>Fridays: 2.30pm to 6pm</td>
+		</tr>
+		
 <tr>
-<td width="24%"><strong>Venues</strong></td>
-<td width="76%">School Hall</td>
-</tr>
+			<td style="background-color: #54585d; font-weight: bold; font-size: 15px; border: 1px solid #54585d; color:white;">Venues</td>
+			<td style="border: 1px solid #dddfe1;font-size: 15px;">School Hall</td>
+		</tr>
+		
 </tbody>
-</table>
-</div>
+	</table>
