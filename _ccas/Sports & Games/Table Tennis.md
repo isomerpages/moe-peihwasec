@@ -4,7 +4,7 @@ permalink: /ccas/sports-games/table-tennis/
 description: ""
 third_nav_title: Sports & Games
 ---
-<p style="font-size:15px;">The <strong>Pei Hwa Table Tennis team</strong> started with its humble beginnings. Many years on, we have gained popularity and established a steady membership base. Apart from pushing our students&rsquo; potential in technical and tactical skills during training, the CCA also develops their mental strength, self-discipline, leadership and sportsmanship. The CCA provides opportunities for students to participate in Zonal Competitions, Ad-hoc Tournaments and Inter-School friendly competitions. Students also bond through planning and participating in training camps and recreational activities.</p>
+	<p style="font-size:15px;">The <strong>Pei Hwa Table Tennis team</strong> started with its humble beginnings. Many years on, we have gained popularity and established a steady membership base. Apart from pushing our students&rsquo; potential in technical and tactical skills during training, the CCA also develops their mental strength, self-discipline, leadership and sportsmanship. The CCA provides opportunities for students to participate in Zonal Competitions, Ad-hoc Tournaments and Inter-School friendly competitions. Students also bond through planning and participating in training camps and recreational activities.</p>
 
 <h4><strong>Student Outcomes</strong></h4>
 <p style="font-size:15px; line-height:2;">The CCA will enable our students to:</p>
@@ -27,9 +27,8 @@ third_nav_title: Sports & Games
 </thead>
 	
 <tbody>
-	<tr><strong>National School Games</strong></tr>
 <tr>
-	<td rowspan="4"><strong>2019</strong></td>
+	<td rowspan="4" style="align:center;"><strong>2019</strong></td>
 	<td style="font-size:15px;"><strong>B Div Boys</strong></td>
 	<td style="font-size:15px;"><strong>3<sup>rd</sup> Placing in Group</strong></td>
 </tr>
