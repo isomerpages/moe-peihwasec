@@ -19,7 +19,7 @@ third_nav_title: Clubs & Societies
 
 
 <h4><strong>Student Testament</strong></h4>
-<blockquote style="font-size: 14px;
+<blockquote style="font-size: 15px;
   width:100%;
   margin:50px auto;
   font-family:Open Sans;
@@ -36,7 +36,7 @@ third_nav_title: Clubs & Societies
   <span style="display:block; color:#333333; margin-top:1em;font-size:15px;"><em>Trinity Oh, 14<sup>th</sup>&nbsp;President of Student Council (Currently a student in ACJC)</em></span>
 	</blockquote>
 
-<blockquote style="font-size: 14px;
+<blockquote style="font-size: 15px;
   width:100%;
   margin:50px auto;
   font-family:Open Sans;
