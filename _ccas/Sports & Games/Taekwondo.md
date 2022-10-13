@@ -10,7 +10,7 @@ third_nav_title: Sports & Games
 
 <h4><strong>Student Outcomes</strong></h4>
 <p style="font-size:15px; line-height:2;">The CCA will enable our students to:</p>
-	<ul>
+<ul>
 		<li style="font-size:15px; line-height:2;"> cultivate respectful and rational individuals</li>
 		<li style="font-size:15px; line-height:2;"> develop desirable values such as modesty, perseverance and indomitable spirit</li>
 		<li style="font-size:15px; line-height:2;"> acquire knowledge in Taekwondo and experience stage performances</li>
