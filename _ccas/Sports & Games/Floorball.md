@@ -13,12 +13,12 @@ third_nav_title: Sports & Games
 
 <h4><strong>Student Outcomes</strong></h4>
 <p style="font-size:15px; line-height:2;">The CCA will enable our students to:</p>
-	<ul>
-		<li style="font-size:15px; line-height:2;"> to develop techniques and skills so as to appreciate and enjoy the game of floorball.</li>
-		<li style="font-size:15px; line-height:2;"> to develop students&rsquo; character, values, leadership and life skills through authentic and engaging activities.</li>
-		<li style="font-size:15px; line-height:2;"> to provide students with a variety of platforms to realise their potential and excel in non-academic pursuits.</li>
-		<li style="font-size:15px; line-height:2;"> to appreciate the concept of fair play and good sportsmanship and apply it to daily life.</li>
-	</ul>
+<ul>
+<li style="font-size:15px; line-height:2;"> to develop techniques and skills so as to appreciate and enjoy the game of floorball.</li>
+<li style="font-size:15px; line-height:2;"> to develop students&rsquo; character, values, leadership and life skills through authentic and engaging activities.</li>
+<li style="font-size:15px; line-height:2;"> to provide students with a variety of platforms to realise their potential and excel in non-academic pursuits.</li>
+<li style="font-size:15px; line-height:2;"> to appreciate the concept of fair play and good sportsmanship and apply it to daily life.</li>
+</ul>
 	
 <h4><strong>Achievements</strong></h4>
 <table border="1" style="border-collapse: collapse;margin: 25px 0;font-size:15px;font-family: sans-serif;box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);">
