@@ -5,95 +5,157 @@ description: ""
 third_nav_title: Sports & Games
 ---
 <img src="/images/wushu1.png">
+
 <h4><strong>Wushu</strong></h4>
-<p>Pei Hwa Wushu focuses on developing students&rsquo; confidence in body expressions through a vigorous attention on the strengthening of body and mind. The practice of contemporary Chinese martial arts combines elements of performance and martial application. Think of it as a blend of performing arts and sports!</p>
+
+<p style= "font-size:15px;"><strong>Pei Hwa Wushu</strong> focuses on developing students&rsquo; confidence in body expressions through a vigorous attention on the strengthening of body and mind. The practice of contemporary Chinese martial arts combines elements of performance and martial application. Think of it as a blend of performing arts and sports!</p>
+
 <h4><strong>Student Outcomes</strong></h4>
+
 <p>The CCA will enable our students to:</p>
-<ol>
-<li>Develop confidence in body expressions and movements</li>
-<li>Develop healthy lifestyles and habits</li>
-<li>Learn and apply Wushu and School&rsquo;s values</li>
-<li>Develop a sense of community and teamwork through the focus on team events</li>
-</ol>
+<p style="font-size:15px; line-height:2;">The CCA will enable our students to:</p>
+<ul>
+<li style="font-size:15px; line-height:2;"> develop confidence in body expressions and movements</li>
+<li style="font-size:15px; line-height:2;"> develop healthy lifestyles and habits</li>
+<li style="font-size:15px; line-height:2;"> learn and apply Wushu and School’s values</li>
+<li style="font-size:15px; line-height:2;"> develop a sense of community and teamwork through the focus on team events</li>
+</ul>
+	
 <h4><strong>Achievements</strong></h4>
-<div>
-<table border="2">
+<table border="1" style="border-collapse: collapse;margin: 25px 0;font-size:15px;font-family: sans-serif;box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);">
+<thead style="background-color: #009879; font-weight: bold; font-size: 16px;">
+<tr>
+				<td style="text-align:left;color:white;">Year of Competition</td>
+				<td style="text-align:left;color:white;">Achievements</td>
+			</tr>
+</thead>
+	
 <tbody>
 <tr>
-<td>
-<p><strong>Year of Competition</strong></p>
-</td>
-<td>
-<p><strong>Attainment</strong></p>
-</td>
+		<td><strong>2021</strong></td>
+		<td style="font-size:15px;">
+			<strong>National School Games Wushu Championships 2021</strong>
+			<br>
+			<ul>
+				<li style="font-size:15px;margin-bottom:5px;">Gold(1<sup>st</sup>)</li>
+			    	<ul>
+						<li style="font-size:15px;margin-bottom:5px;">Spear (2<sup>nd</sup> Intl) - Ethan Chow</li>
+					</ul>
+				<li style="font-size:15px;margin-bottom:5px;">Gold(2<sup>nd</sup>)</li>
+					<ul>
+						<li style="font-size:15px;margin-bottom:5px;">Broadsword (2<sup>nd</sup> Intl) - Lim Dian Kai Cedric</li>
+					</ul>
+			</ul>
+		</td>
 </tr>
-<tr>
-<td>
-<p><strong>2021</strong></p>
-</td>
-<td>
-<p><strong>National School Games Wushu Championships 2021<br /></strong><strong>Gold (1<sup>st</sup>)</strong></p>
-<p><strong>Spear (2nd Intl) &ndash; Ethan Chow<br /></strong><strong>Gold (2<sup>nd</sup>)</strong></p>
-<p><strong>Broadsword (2nd Intl) &ndash; Lim Dian Kai Cedric</strong></p>
-</td>
+	
+<tr style="background-color:#f3f3f3;font-size:15px;">
+		<td style="font-size:15px;"><strong>2018</strong></td>
+		<td style="font-size:15px;">
+			<strong>National School Games Wushu Championships 2019</strong>
+		<br>
+			<ul>
+				<li style="font-size:15px;margin-bottom:5px;">Gold(1<sup>st</sup>)</li>
+			    	<ul>
+						<li style="font-size:15px;margin-bottom:5px;">Formulated 5-Duan Sword – Lim Dian Kai Cedric</li>
+					</ul>
+			</ul>
+		<strong>National Wushu &amp; Sanda Championships 2019</strong>
+		<br>
+		<ul>
+				<li style="font-size:15px;margin-bottom:5px;">Gold</li>
+			    	<ul>
+						<li style="font-size:15px;margin-bottom:5px;">Group Quanshu – B Boys</li>
+						<li style="font-size:15px;margin-bottom:5px;">Group Quanshu – B Girls</li>
+					</ul>
+				<li style="font-size:15px;margin-bottom:5px;">Silver</li>
+					<ul>
+						<li style="font-size:15px;margin-bottom:5px;">Spear (1<sup>st</sup> Intl) – Ethan Chow</li>
+						<li style="font-size:15px;margin-bottom:5px;">Spear (1<sup>st</sup> Intl) – Wong Woan Xiu</li>
+						<li style="font-size:15px;margin-bottom:5px;">Group Quanshu – C Boys</li>
+					</ul>
+				<li style="font-size:15px;margin-bottom:5px;">Bronze</li>
+					<ul>
+						<li style="font-size:15px;margin-bottom:5px;">Nan Gun, Nan Dao, Nan Quan – Ryan Ang Liheng</li>
+						<li style="font-size:15px;margin-bottom:5px;">Changquan (2<sup>nd</sup> Intl) – Loke Jing Yong Leroy</li>
+						<li style="font-size:15px;margin-bottom:5px;">Broad Sword (1<sup>st</sup> Intl) – Dalsten Chow Cheng Jun</li>
+					</ul>
+			</ul>
+		</td>
 </tr>
-<tr>
-<td>
-<p><strong>2019</strong></p>
-</td>
-<td>
-<p><strong>National School Games Wushu Championships 2019<br /></strong><strong>Gold (1<sup>st</sup>)</strong></p>
-<p><strong>Formulated 5-Duan Sword &ndash; Lim Dian Kai Cedric</strong></p>
-<p><strong>National Wushu &amp; Sanda Championships 2019</strong></p>
-<p><strong>Gold<br /></strong><strong>Group Quanshu &ndash; B Boys<br /></strong><strong>Group Quanshu &ndash; B Girls</strong></p>
-<p><strong>Silver<br /></strong><strong>Spear (1st Intl) &ndash; Ethan Chow<br /></strong><strong>Spear (1st Intl) &ndash; Wong Woan Xiu<br /></strong><strong>Group Quanshu &ndash; C Boys</strong></p>
-<p><strong>Bronze<br /></strong><strong>Nan Gun, Nan Dao, Nan Quan &ndash; Ryan Ang Liheng<br /></strong><strong>Changquan (2nd Intl) &ndash; Loke Jing Yong Leroy<br /></strong><strong>Broad Sword (1<sup>st</sup>&nbsp;Intl) &ndash; Dalsten Chow Cheng Jun</strong></p>
-</td>
+	
+<tr style="border-bottom: 2px solid #009879; font-size:15px;">
+		<td><strong>2018</strong></td>
+		<td style="font-size:15px;">
+			<strong>National School Games Wushu Championships 2018</strong>
+			<br>
+			<ul>
+				<li style="font-size:15px;margin-bottom:5px;">5<sup>th</sup></li>
+			    	<ul>
+						<li style="font-size:15px;margin-bottom:5px;">Formulated 5-Duan Sword – Ethan Cheow</li>
+					</ul>
+				<li style="font-size:15px;margin-bottom:5px;">6<sup>th</sup></li>
+					<ul>
+						<li style="font-size:15px;margin-bottom:5px;">1<sup>st</sup> International Nan Gun – Ryan Ang Liheng</li>
+						<li style="font-size:15px;margin-bottom:5px;">1<sup>st</sup> International Spear – Wong Woan Xiu</li>
+					</ul>
+				<li style="font-size:15px;margin-bottom:5px;">7<sup>th</sup></li>
+			    	<ul>
+						<li style="font-size:15px;margin-bottom:5px;">Group Quanshu – C Girls</li>
+						<li style="font-size:15px;margin-bottom:5px;">Group Quanshu – B Girls</li>
+					</ul>
+				<li style="font-size:15px;margin-bottom:5px;">8<sup>th</sup></li>
+					<ul>
+						<li style="font-size:15px;margin-bottom:5px;">Group Weapon – B Girls</li>
+					</ul>
+			</ul>
+		</td>
 </tr>
-<tr>
-<td>
-<p><strong>2018</strong></p>
-</td>
-<td>
-<p><strong>National School Games Wushu Championships 2018<br /></strong><strong>5<sup>th<br /></sup></strong><strong>Formulated 5-Duan Sword &ndash; Ethan Cheow</strong></p>
-<p><strong>6<sup>th<br /></sup></strong><strong>1st International Nan Gun &ndash; Ryan Ang Liheng<br /></strong><strong>1st International Spear &ndash; Wong Woan Xiu<br /></strong></p>
-<p><strong>7<sup>th<br /></sup></strong><strong>Group Quanshu &ndash; C Girls<br /></strong><strong>Group Quanshu &ndash; B Girls<br /></strong></p>
-<p><strong>8<sup>th<br /></sup></strong><strong>Group Weapon &ndash; B Girls</strong></p>
-</td>
-</tr>
+									
 </tbody>
 </table>
-</div>
+
 <h4><strong>Competitions and CCA Activities</strong></h4>
-<p><strong>Performing at CCA Feista has been an annual event which allows,&nbsp;</strong></p>
+
+<p style="font-size:15px;"><strong>Performing at CCA Feista has been an annual event which allows,&nbsp;</strong></p>
+
 <img src="/images/wushu2.png">
-<h4><strong>Student Testament</strong></h4>
-<img style="width: 44%;" src="/images/wushu3.jpeg" align = "left" />
-<p>&ldquo;I enjoy this CCA because of our strong team spirit. We will constantly cheer one another on and strive for the best especially during the competition periods. We focus on helping every member improve because no one is bigger than the team. With this mindset, the team trains hard together and works towards a common goal. We have grown closer together and this team spirit is something that I really like about Pei Hwa Wushu&rdquo;</p>
-<p><em>Leader for Lower Sec, Zayne from Int 6</em></p>
-<img style="width: 25%;" src="/images/wushu4.jpg" align = "left" />
-<p>&ldquo;I started Wushu at the age of 6 years old and my passion in this sport has grown over the years! I always believe that hard work, perseverance and endurance are the key to achieve my goal in Wushu. The CCA has taught me the importance of team spirit and sportsmanship. I look forward in all my training session with my team mates as I enjoy spending time together with them!</p>
-<p><em>C Boys, Cedric Lim from 2E3</em></p><br>
+
+<blockquote style="font-size: 15px;width:100%;margin:50px auto;font-family:Open Sans;font-style:italic;color: #555555;padding:1.2em 25px 1.2em 25px;border-left:8px solid #78C0A8 ;line-height:1.6;position: relative;background:#EDEDED;">
+	<img align="left" alt="" src="/images/wushu3.jpeg" style="width: 23%;margin-right:15px;">
+	"I enjoy this CCA because of our strong team spirit. We will constantly cheer one another on and strive for the best especially during the competition periods. We focus on helping every member improve because no one is bigger than the team. With this mindset, the team trains hard together and works towards a common goal. We have grown closer together and this team spirit is something that I really like about Pei Hwa Wushu."
+	<span style="display:block; color:#333333; margin-top:1em;font-size:15px;"><em>Leader for Lower Sec, Zayne from Int 6</em></span>
+	
+</blockquote>
+	
+<blockquote style="font-size: 15px;width:100%;margin:50px auto;font-family:Open Sans;font-style:italic;color: #555555;padding:1.2em 25px 1.2em 25px;border-left:8px solid #78C0A8 ;line-height:1.6;position: relative;background:#EDEDED;">
+		<img align="left" alt="" src="/images/wushu4.jpg" style="width: 23%;margin-right:15px;">
+	"I started Wushu at the age of 6 years old and my passion in this sport has grown over the years! I always believe that hard work, perseverance and endurance are the key to achieve my goal in Wushu. The CCA has taught me the importance of team spirit and sportsmanship. I look forward in all my training session with my team mates as I enjoy spending time together with them!"
+ 		 <span style="display:block; color:#333333; margin-top:1em;font-size:15px;"><em>C Boys, Cedric Lim from 2E3</em></span>
+</blockquote>
+
 <h4><strong>CCA Details</strong></h4>
-<div>
-<table border="2" width="100%">
-<tbody>
+<table border="1" style="width:100%;">
+	<tbody>
+		<tr>
+			<td style="background-color: #54585d; font-weight: bold; font-size: 15px; border: 1px solid #54585d; color:white;border-bottom: 1px solid #dddddd;width:24%;">Teacher-In-Charge</td>
+			<td style="border: 1px solid #dddfe1;font-size: 15px;">Mdm Lee Helen</td>
+		</tr>
+
 <tr>
-<td width="24%"><strong>Teacher-in-Charge</strong></td>
-<td width="76%">Mr Chen Zhenjie</td>
-</tr>
+			<td style="background-color: #54585d; font-weight: bold; font-size: 15px; border: 1px solid #54585d;border-bottom: 1px solid #dddddd; color:white;">CCA Teacher(s)</td>
+			<td style="border: 1px solid #dddfe1;font-size: 15px;">Miss Jovitta Christopher Pereira<br>Miss Ong Xin Yi</td>
+		</tr>
+
 <tr>
-<td width="24%"><strong>CCA Teacher(s)</strong></td>
-<td width="76%">Ms Ong Xinyi<br />Mdm Helen Lee</td>
-</tr>
+			<td style="background-color: #54585d; font-weight: bold; font-size: 15px; border: 1px solid #54585d; color:white;border-bottom: 1px solid #dddddd;">CCA Schedule</td>
+			<td style="border: 1px solid #dddfe1;font-size: 15px;">Tue, 3.30pm – 6.00pm<br>Fri, 2.30pm – 6.00pm</td>
+		</tr>
+		
 <tr>
-<td width="24%"><strong>CCA Schedule</strong></td>
-<td width="76%">Tue, 3.30pm &ndash; 6.00pm<br />Fri, 2.30pm &ndash; 6.00pm</td>
-</tr>
-<tr>
-<td width="24%"><strong>Venues</strong></td>
-<td width="76%">School Hall</td>
-</tr>
+			<td style="background-color: #54585d; font-weight: bold; font-size: 15px; border: 1px solid #54585d; color:white;">Venues</td>
+			<td style="border: 1px solid #dddfe1;font-size: 15px;">School Hall</td>
+		</tr>
+		
 </tbody>
-</table>
-</div>
+	</table>
