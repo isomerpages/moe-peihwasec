@@ -227,7 +227,7 @@ third_nav_title: Sports & Games
 	<br>
 	"Being a part of Pei Hwa Phoenix has given me the chance to realise my interest in Floorball. The time spent on and off court has forged the friendship with my fellow teammates which in turn allowed us to establish good rapport for success. Through the years, with the training and support from our coaches and CCA teachers, the team emerged to be one of the best. All the above has attributed to motivating me to work hard to gain a spot in the Under-19 Womens’ National Team."
 	<span style="display:block; color:#333333; margin-top:1em;font-size:15px;"><em>C-Div Captain 2018 &amp; U19 Womens’ National Team, Christie Lim, 4E5 (2020) – right in the picture</em></span>
-	</blockquote>
+</blockquote>
 <blockquote style="font-size: 15px;
   width:100%;
   margin:50px auto;
@@ -243,7 +243,7 @@ third_nav_title: Sports & Games
 	"Who would have thought that a sport CCA like floorball could bring so much benefit to your life? Well that was where I was completely wrong. Pei Hwa Floorball has made my years in secondary school the best years of my life because of the culture that has always been supportive and nurturing. From a seemingly ordinary group of students into talented teenagers who are capable of reaching for the stars. I owe a great deal to Pei Hwa Floorball as I would not be the resilient, confident person I am today who had countless opportunities to grow and expand my potential."
   <span style="display:block; color:#333333; margin-top:1em;font-size:15px;"><em>Ulfah Irdina (B Div Vice-Captain 2018, currently Victoria Junior College Floorball Womens&rsquo; Captain 2020)</em></span>
 	</blockquote>
-	<blockquote style="font-size: 15px;
+<blockquote style="font-size: 15px;
   width:100%;
   margin:50px auto;
   font-family:Open Sans;
@@ -256,8 +256,8 @@ third_nav_title: Sports & Games
   background:#EDEDED;">
 <img align="left" alt="" src="/images/floorball3.jpg" style="width: 23%;margin-right:15px;">
 	"Pei Hwa Phoenix has benefitted me in so many ways, on and off the court. I have picked up many skills and values during this journey, such as learning how to be a better leader and being more disciplined. I have grown to become a better individual ever since I first embarked on this floorball journey. I am able to better manage my time and my resilience for my studies has improved. I have been exposed to many opportunities to grow myself as a leader. I am extremely grateful for all the care, guidance and support showered on me by my Phoenix family. It has been a great joy to be part of and leading this incredible team. I have forged strong bonds and created memories that will be deeply treasured. I have no regrets. Thank you, Pei Hwa Phoenix for being one of my greatest highlights in Pei Hwa."
-  <span style="display:block; color:#333333; margin-top:1em;font-size:15px;"><em>President and B Division Captain 2020, Siti Nur Insyirah binte Mohsin, Integrity 6 (2020)</em></span>
-	</blockquote>
+<span style="display:block; color:#333333; margin-top:1em;font-size:15px;"><em>President and B Division Captain 2020, Siti Nur Insyirah binte Mohsin, Integrity 6 (2020)</em></span>
+</blockquote>
 
 <h4><strong>CCA Details</strong></h4>
 <table border="1" style="width:100%;">
