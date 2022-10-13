@@ -5,16 +5,17 @@ description: ""
 third_nav_title: Performing Arts
 ---
 <img src="/images/guzheng1.jpg">
-<p style="text-align: center;"><strong>Pei Hwa Guzheng Ensemble</strong></p>
-<p>The Pei Hwa&nbsp;Guzheng&nbsp;Ensemble was set&nbsp;up&nbsp;in 2009. The Guzheng Ensemble seeks to provide opportunities to develop students&rsquo; talents and lifelong passion for the arts. Through the meaningful music experiences planned, the Pei Hwa Guzheng Ensemble also endeavours to help students to build character, foster friendships and cultivate a sense of belonging to the school.</p>
+<p style="font-size:15px;">The Pei Hwa&nbsp;Guzheng&nbsp;Ensemble was set&nbsp;up&nbsp;in 2009. The Guzheng Ensemble seeks to provide opportunities to develop students&rsquo; talents and lifelong passion for the arts. Through the meaningful music experiences planned, the Pei Hwa Guzheng Ensemble also endeavours to help students to build character, foster friendships and cultivate a sense of belonging to the school.</p>
+
 <h4><strong>Student Outcomes</strong></h4>
-<p>The CCA will enable our students to:</p>
+<p style="font-size:15px; line-height:2;">The CCA will enable our students to:</p>
 <ul>
-<li>Appreciate a wide range of musical genres and the culture of music-making</li>
-<li>Learn how to play an instrument as an avenue for them to express themselves</li>
-<li>Acquire knowledge in music and experience stage performance</li>
-<li>Deepen understanding of self-discipline and team collaboration</li>
+	<li style="font-size:15px; line-height:2;">Appreciate a wide range of musical genres and the culture of music-making</li>
+	<li style="font-size:15px; line-height:2;">Learn how to play an instrument as an avenue for them to express themselves</li>
+	<li style="font-size:15px; line-height:2;">Acquire knowledge in music and experience stage performance</li>
+	<li style="font-size:15px; line-height:2;">Deepen understanding of self-discipline and team collaboration</li>
 </ul>
+
 <img src="/images/guzheng2.jpg">
 <p style="text-align: center;"><strong>CCA fiesta to attract new secondary 1 members</strong></p>
 <img src="/images/guzheng3.jpg">
