@@ -77,7 +77,7 @@ third_nav_title: Sports & Games
   position: relative;
   background:#EDEDED;">
 <img align="left" src="/images/bb3.jpg" style="width: 23%;margin-right:15px;">
-	"Basketball CCA has taught me to have resilience and team spirit. It also helps to build on one&rsquo;s physical and mental toughness, through all the physical trainings by the coach. Through all the trainings, my fellow basketball players and I have gained deeper understanding of the game."
+	"Basketball CCA has taught me to have resilience and team spirit. It also helps to build on one&rsquo;s physical and mental toughness, through all the physical trainings by the coach. Through all the trainings, my fellow basketball players and I have gained deeper understanding of the game."&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <span style="display:block; color:#333333; margin-top:1em;font-size:15px;"><em>Wong Tailer , 3I4 (Basketball Captain)</em></span>
 	</blockquote>
 
