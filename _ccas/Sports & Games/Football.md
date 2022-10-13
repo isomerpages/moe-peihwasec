@@ -8,12 +8,12 @@ third_nav_title: Sports & Games
 
 <h4><strong>Student Outcomes</strong></h4>
 <p style="font-size:15px; line-height:2;">The CCA will enable our students to:</p>
-	<ul>
-		<li style="font-size:15px; line-height:2;"> appreciate football as a sport</li>
-		<li style="font-size:15px; line-height:2;"> learn the basic skills and concepts to play football</li>
-		<li style="font-size:15px; line-height:2;"> acquire the experience and positive values from taking part in competitions</li>
-		<li style="font-size:15px; line-height:2;"> deepen understanding of self-discipline and team collaboration</li>
-	</ul>
+<ul>
+<li style="font-size:15px; line-height:2;"> appreciate football as a sport</li>
+<li style="font-size:15px; line-height:2;"> learn the basic skills and concepts to play football</li>
+<li style="font-size:15px; line-height:2;"> acquire the experience and positive values from taking part in competitions</li>
+<li style="font-size:15px; line-height:2;"> deepen understanding of self-discipline and team collaboration</li>
+</ul>
 	
 <h4><strong>Achievements</strong></h4>
 	
