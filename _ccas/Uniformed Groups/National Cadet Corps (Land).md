@@ -104,7 +104,7 @@ third_nav_title: Uniformed Groups
 <img style="width: 100%;margin-top:10px;" src="/images/NCC-09.png" />
 <img style="width: 100%;margin-top:10px;" src="/images/NCC-10.png" />
 
-<p><strong>Student Testament</strong></p>
+<h4><strong>Student Testament</strong></h4>
 <blockquote style="font-size: 15px;width:100%;margin:50px auto;font-family:Open Sans;font-style:italic;color: #555555;padding:1.2em 25px 1.2em 25px;border-left:8px solid #78C0A8 ;line-height:1.6;position: relative;background:#EDEDED;">
 	<img align="left" alt="" src= "/images/download.jpg"  style="width: 23%;margin-right:15px;">
 	"Here in NCC, it is not just about discipline, marching and ranks. It is about the precious interaction and bonds created between you and the platoon mates in your CCA. Through the various and different activities this CCA planned, you will inevitably make friends in your CCA. You are never alone in this CCA, everyone will work together and strive for excellence. I went through thick and thin here and faced countless challenges. However, this was a blessing in disguise as it taught me the importance of teamwork, communication and resilience. This CCA also gave me the chance to become a leader which gave me the opportunity to lead others and plan activities. I truly enjoyed my time in NCC!"
