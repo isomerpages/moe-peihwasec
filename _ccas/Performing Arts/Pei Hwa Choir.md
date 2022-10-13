@@ -4,124 +4,149 @@ permalink: /ccas/performing-arts/choir/
 description: ""
 third_nav_title: Performing Arts
 ---
-<p>The Pei Hwa&nbsp;Choir&nbsp;was set up in 2007. Many of our members join the choir with little to no singing and music experience. Through the passion for singing and diligence, many of our singers have grown to become confident young ladies and men. With a repertoire from different cultures and genres, we continue to broaden our perspectives and stretch our potential in the choral scene. We are also able to have a rich variety of experiences through various public performances, choral exchanges and arts appreciation learning journeys. Even more so, what the members of Pei Hwa Choir are most thankful for, is the opportunity to come together to make music with our voices. &ldquo;We Sing as One!&rdquo;</p>
-<img src="/images/choir1.jpg">
-<p><strong>Pei Hwa Choir</strong></p>
+<p style="font-size:15px;line-height:2">The Pei Hwa&nbsp;Choir&nbsp;was set up in 2007. Many of our members join the choir with little to no singing and music experience. Through the passion for singing and diligence, many of our singers have grown to become confident young ladies and men. With a repertoire from different cultures and genres, we continue to broaden our perspectives and stretch our potential in the choral scene. We are also able to have a rich variety of experiences through various public performances, choral exchanges and arts appreciation learning journeys. Even more so, what the members of Pei Hwa Choir are most thankful for, is the opportunity to come together to make music with our voices. &ldquo;We Sing as One!&rdquo;</p>
+
+<img src="/images/choir1.jpg" style="width: 100%;margin-top:10px;">
+<p style="text-align: center; font-size:13px;margin-top:5px;">Pei Hwa Choir</p>
+
 <h4><strong>Student Outcomes</strong></h4>
 <p>The CCA will enable our students to:</p>
 <ul>
-<li>Appreciate a wide range of songs from different musical genres and eras</li>
-<li>Learn how to sing confidently with proper choral technique</li>
-<li>Acquire knowledge in music and experience stage performance</li>
-<li>Deepen understanding of self-discipline and team collaboration</li>
+<li style="font-size:15px; line-height:2;">Appreciate a wide range of songs from different musical genres and eras</li>
+<li style="font-size:15px; line-height:2;">Learn how to sing confidently with proper choral technique</li>
+<li style="font-size:15px; line-height:2;">Acquire knowledge in music and experience stage performance</li>
+<li style="font-size:15px; line-height:2;">Deepen understanding of self-discipline and team collaboration</li>
 </ul>
+
 <h4><strong>Achievements</strong></h4>
-<div>
-<table border="1" width="676">
+	
+<table border="1" style="border-collapse: collapse;margin: 25px 0;font-size:15px;font-family: sans-serif;box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);">
+<thead style="background-color: #009879; font-weight: bold; font-size: 16px;">
+<tr>
+				<td style="text-align:left;color:white;">Year of Competition</td>
+				<td style="text-align:left;color:white;">Attainment</td>
+			</tr>
+</thead>
+	
 <tbody>
 <tr>
-<td>
-<p><strong>Year of Competition</strong></p>
-</td>
-<td>
-<p><strong>Attainment</strong></p>
-</td>
+				<td><strong>2019</strong></td>
+				<td style="font-size:15px;margin-bottom:5px;">
+					<strong>SYF Arts Presentation</strong>
+					<br>
+					<ul>
+						<li style="font-size:15px;margin-bottom:5px;">Certificate of Accomplishment</li>
+					</ul>
+				</td>
 </tr>
+<tr style="background-color: #f3f3f3;">
+				<td><strong>2017</strong></td>
+				<td style="font-size:15px;margin-bottom:5px;">
+					<strong>SYF Arts Presentation</strong>
+					<br>
+					<ul>
+						<li style="font-size:15px;margin-bottom:5px;">Certificate of Distinction</li>
+					</ul>
+				</td>
+</tr>	
 <tr>
-<td>
-<p><strong>2019</strong></p>
-</td>
-<td>
-<p><strong>SYF&nbsp;Arts Presentation &ndash; Certificate of Accomplishment</strong></p>
-</td>
+				<td><strong>2015</strong></td>
+				<td style="font-size:15px;margin-bottom:5px;">
+					<strong>SYF Arts Presentation </strong>
+					<br>
+					<ul>
+						<li style="font-size:15px;margin-bottom:5px;">Certificate of Distinction</li>
+					</ul>
+				</td>
 </tr>
-<tr>
-<td>
-<p><strong>2017</strong></p>
-</td>
-<td>
-<p><strong>SYF Arts Presentation &ndash;&nbsp;Certificate of Distinction</strong></p>
-</td>
+<tr style="background-color: #f3f3f3;">
+				<td><strong>2013</strong></td>
+				<td style="font-size:15px;margin-bottom:5px;">
+					<strong>SYF Arts Presentation</strong>
+					<br>
+					<ul>
+						<li style="font-size:15px;margin-bottom:5px;">Certificate of Distinction</li>
+					</ul>
+				</td>
 </tr>
-<tr>
-<td>
-<p><strong>2015</strong></p>
-</td>
-<td>
-<p><strong>SYF Arts Presentation &ndash;&nbsp;Certificate of Distinction</strong></p>
-</td>
+<tr style="font-size:15px;">
+				<td><strong>2011</strong></td>
+				<td style="font-size:15px;margin-bottom:5px;">
+					<strong>SYF Central Judging</strong>
+					<br>
+					<ul>
+						<li style="font-size:15px;margin-bottom:5px;">Silver</li>
+					</ul>
+				</td>
 </tr>
-<tr>
-<td>
-<p><strong>2013</strong></p>
-</td>
-<td>
-<p><strong>SYF Arts Presentation &ndash;&nbsp;Certificate of Distinction</strong></p>
-</td>
+<tr style="background-color: #f3f3f3;border-bottom: 2px solid #009879; ">
+				<td><strong>2009</strong></td>
+				<td style="font-size:15px;margin-bottom:5px;">
+					<strong>SYF Central Judging</strong>
+					<br>
+					<ul>
+						<li style="font-size:15px;margin-bottom:5px;">Certificate of Participation</li>
+					</ul>
+				</td>
 </tr>
-<tr>
-<td>
-<p><strong>2011</strong></p>
-</td>
-<td>
-<p><strong>SYF Central Judging &ndash;&nbsp;Silver</strong></p>
-</td>
-</tr>
-<tr>
-<td>
-<p><strong>2009</strong></p>
-</td>
-<td>
-<p><strong>SYF Central Judging &ndash;&nbsp;Certificate of Participation</strong></p>
-</td>
-</tr>
+									
 </tbody>
 </table>
-</div>
+
 <h4><strong>Competitions and CCA Activities</strong></h4>
-<p>We have always believed in honing the skills of the Choir through various Choral Exchanges with other schools. This provides valuable opportunities for the Choir to learn and share the love for music with one another.</p>
-<img src="/images/choir2.jpg">
-<p><strong>Choir Exchange With Anglican High And Zhonghua Sec</strong></p>
-<img src="/images/choir3.jpg">
-<p><strong>Combined Performance With Compassvale Secondary Choir</strong></p>
-<p>Since 2007, the&nbsp;Pei Hwa Choir has also participated and performed in many external events, like:</p>
+<p style="font-size:15px; line-height:2;">We have always believed in honing the skills of the Choir through various Choral Exchanges with other schools. This provides valuable opportunities for the Choir to learn and share the love for music with one another.</p>
+
+<img src="/images/choir2.jpg" style="width: 100%;margin-top:10px;">
+<p style="text-align: center; font-size:13px;margin-top:5px;">Choir Exchange With Anglican High And Zhonghua Sec</p>
+
+<img src="/images/choir3.jpg" style="width: 100%;margin-top:10px;">
+<p style="text-align: center; font-size:13px;margin-top:5px;">Combined Performance With Compassvale Secondary Choi</p>
+
+<p style="font-size:15px; line-height:2;">Since 2007, the&nbsp;Pei Hwa Choir has also participated and performed in many external events, like:</p>
+
 <ul>
-<li>Fernvale CC Fundraising Dinner</li>
-<li>Voices of Singapore Festivals</li>
-<li>Treble Voices Festival</li>
-<li>Evocation</li>
+	<li style="font-size:15px; line-height:2;">Fernvale CC Fundraising Dinner</li>
+	<li style="font-size:15px; line-height:2;">Voices of Singapore Festivals</li>
+	<li style="font-size:15px; line-height:2;">Treble Voices Festival</li>
+	<li style="font-size:15px; line-height:2;">Evocation</li>
 </ul>
+
 <h4><strong>Student Testament</strong></h4>
-<img style="width: 33%;" src="/images/choir4.jpeg" align = "right" />
-<p>&ldquo;Singing in a choir is definitely a different experience from just singing by yourself, especially when professionals teach you vocal skills &amp; technique and this really helps to improve your vocal skills. Great for people interested in singing! The best part is you do not need any previous musical background to join and all the seniors, instructors and teachers are there to guide you along when you are lost.&rdquo;</p>
-<p><em>President of Choir, Rachel</em></p>
-<img style="width: 33%;" src="/images/choir5.jpeg" align = "left" />
-<p>I enjoy Choir as my CCA because I actually do like singing. At first I thought Choir is going to be very boring but it was completely the opposite. The people there makes it extra fun. It may be a little stressful when there are performances but these are opportunities for us to step out of our comfort zones and perform in and out of school. It was not always smooth but we learnt from our mistakes and did our best. It definitely makes the experience in Choir more memorable and enjoyable.&rdquo;<em> </em></p>
-<p><em>Vice-President of Choir, Mikella</em></p>
+
+<blockquote style="font-size: 15px;width:100%;margin:50px auto;font-family:Open Sans;font-style:italic;color: #555555;padding:1.2em 25px 1.2em 25px;border-left:8px solid #78C0A8 ;line-height:1.6;position: relative;background:#EDEDED;">
+<img align="left" alt=""  src="/images/choir4.jpeg" style="width: 23%;margin-right:15px;">
+	"Singing in a choir is definitely a different experience from just singing by yourself, especially when professionals teach you vocal skills &amp; technique and this really helps to improve your vocal skills. Great for people interested in singing! The best part is you do not need any previous musical background to join and all the seniors, instructors and teachers are there to guide you along when you are lost."
+<span style="display:block; color:#333333; margin-top:1em;font-size:15px;"><em>President of Choir, Rachel</em></span>
+	</blockquote>
+
+<blockquote style="font-size: 15px;width:100%;margin:50px auto;font-family:Open Sans;font-style:italic;color: #555555;padding:1.2em 25px 1.2em 25px;border-left:8px solid #78C0A8 ;line-height:1.6;position: relative;background:#EDEDED;">
+<img align="left" alt="" src="/images/choir5.jpeg" style="width: 23%;margin-right:15px;">
+	"I enjoy Choir as my CCA because I actually do like singing. At first I thought Choir is going to be very boring but it was completely the opposite. The people there makes it extra fun. It may be a little stressful when there are performances but these are opportunities for us to step out of our comfort zones and perform in and out of school. It was not always smooth but we learnt from our mistakes and did our best. It definitely makes the experience in Choir more memorable and enjoyable."
+<span style="display:block; color:#333333; margin-top:1em;font-size:15px;"><em>Vice-President of Choir, Mikella</em></span>
+</blockquote>
+
 <h4><strong>CCA Details</strong></h4>
-<div>
-<table style="width: 100%;" border="1" width="100%">
-<tbody>
+<table border="1" style="width:100%;">
+	<tbody>
+		<tr>
+			<td style="background-color: #54585d; font-weight: bold; font-size: 15px; border: 1px solid #54585d; color:white;border-bottom: 1px solid #dddddd;width:24%;">Teacher-In-Charge</td>
+			<td style="border: 1px solid #dddfe1;font-size: 15px;">Mr Yeo Wei Qiang, Kenneth</td>
+		</tr>
+
 <tr>
-<td style="width: 24%;" width="24%"><strong>Teacher-in-Charge</strong></td>
-<td style="width: 76%;" width="76%">Mr Yeo Wei Qiang, Kenneth</td>
-</tr>
+			<td style="background-color: #54585d; font-weight: bold; font-size: 15px; border: 1px solid #54585d;border-bottom: 1px solid #dddddd; color:white;">CCA Teacher(s)</td>
+			<td style="border: 1px solid #dddfe1;font-size: 15px;">Ms Shirlyn Sim<br>Ms Tan Jiewen<br>Ms Wong Ping Fang Claire</td>
+		</tr>
+
 <tr>
-<td style="width: 24%;" width="24%"><strong>CCA Teacher(s)</strong></td>
-<td style="width: 76%;" width="76%">
-<p>Ms Tan Jiewen<br />Ms Oh Shu Ying, Serene<br />Ms Hannah Zulaihah Gwynne</p>
-</td>
-</tr>
+			<td style="background-color: #54585d; font-weight: bold; font-size: 15px; border: 1px solid #54585d; color:white;border-bottom: 1px solid #dddddd;">CCA Schedule</td>
+			<td style="border: 1px solid #dddfe1;font-size: 15px;">Tuesday, 3.30pm – 6.00pm<br>Friday, 2.30pm – 6.00pm</td>
+		</tr>
+		
 <tr>
-<td style="width: 24%;" width="24%"><strong>CCA Schedule</strong></td>
-<td style="width: 76%;" width="76%">Tues, 3.30 pm &ndash; 6pm
-<p>Fri, 2.30 pm &ndash; 6pm</p>
-</td>
-</tr>
-<tr>
-<td style="width: 24%;" width="24%"><strong>Venues</strong></td>
-<td style="width: 76%;" width="76%">AVA Room/ Passion 1 Classroom</td>
-</tr>
+			<td style="background-color: #54585d; font-weight: bold; font-size: 15px; border: 1px solid #54585d; color:white;">Venues</td>
+			<td style="border: 1px solid #dddfe1;font-size: 15px;">AVA Room</td>
+		</tr>
+		
 </tbody>
-</table>
-</div>
+	</table>
