@@ -189,7 +189,7 @@ The journey of preparing for SYF or any performances is never easy. We worked ha
 		
 <tr>
 			<td style="background-color: #54585d; font-weight: bold; font-size: 15px; border: 1px solid #54585d; color:white;">Venues</td>
-			<td style="border: 1px solid #dddfe1;font-size: 15px;">Library</td>
+			<td style="border: 1px solid #dddfe1;font-size: 15px;">Guzheng Room @ Block D, Level 3</td>
 		</tr>
 		
 </tbody>
