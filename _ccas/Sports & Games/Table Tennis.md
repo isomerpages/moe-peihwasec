@@ -4,17 +4,17 @@ permalink: /ccas/sports-games/table-tennis/
 description: ""
 third_nav_title: Sports & Games
 ---
-	<p style="font-size:15px;">The <strong>Pei Hwa Table Tennis team</strong> started with its humble beginnings. Many years on, we have gained popularity and established a steady membership base. Apart from pushing our students&rsquo; potential in technical and tactical skills during training, the CCA also develops their mental strength, self-discipline, leadership and sportsmanship. The CCA provides opportunities for students to participate in Zonal Competitions, Ad-hoc Tournaments and Inter-School friendly competitions. Students also bond through planning and participating in training camps and recreational activities.</p>
+<p style="font-size:15px;">The <strong>Pei Hwa Table Tennis team</strong> started with its humble beginnings. Many years on, we have gained popularity and established a steady membership base. Apart from pushing our students&rsquo; potential in technical and tactical skills during training, the CCA also develops their mental strength, self-discipline, leadership and sportsmanship. The CCA provides opportunities for students to participate in Zonal Competitions, Ad-hoc Tournaments and Inter-School friendly competitions. Students also bond through planning and participating in training camps and recreational activities.</p>
 
 <h4><strong>Student Outcomes</strong></h4>
 <p style="font-size:15px; line-height:2;">The CCA will enable our students to:</p>
-	<ul>
+<ul>
 		<li style="font-size:15px; line-height:2;"> understand, learn and apply technical and tactical skills in Table Tennis.</li>
 		<li style="font-size:15px; line-height:2;"> develop team spirit and a resilient mental attitude through training sessions and competitions.</li>
 		<li style="font-size:15px; line-height:2;"> exhibit true sportsmanship, values of fair play, graciousness and self-discipline.</li>
 		<li style="font-size:15px; line-height:2;"> develop good character and practises the Pei Hwa PRIDE values (Passion for Learning, Resilience, Integrity, Diligence, Excellence for Self and Others)</li>
 		<li style="font-size:15px; line-height:2;"> cultivate a vibrant sports culture in school by having a sense of appreciation and passion for sports (Table Tennis in particular).</li>
-	</ul>
+</ul>
 	
 <h4><strong>Achievements</strong></h4>
 <table border="1" style="border-collapse: collapse;margin: 25px 0;font-size:15px;font-family: sans-serif;box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);">
@@ -101,7 +101,7 @@ third_nav_title: Sports & Games
 	"Pei Hwa’s Table Tennis CCA is a place where one can be stretched to the fullest potential. Teachers, coach and CCA members are kind and friendly; they are my moral support, especially so in competitions. The CCA also provides me with numerous opportunities to develop soft skills such as leadership skills, communication skills and teamwork. Serving as a captain in 2019-2020 has also boosted my public speaking skills, which have benefitted me in many ways. Moreover, participating in various competitions has also allowed me to improve my table tennis skills, as well as sportsmanship. All in all, the CCA has allowed me to become a better person, especially under the guidance of my teachers, coach and peers."
 	 <span style="display:block; color:#333333; margin-top:1em;font-size:15px;"><em>B Girls Captain (2019), Lee Zhiyu, Marilynn (Left)</em></span>
 	</blockquote>
-	<blockquote style="font-size: 15px;
+<blockquote style="font-size: 15px;
   width:100%;
   margin:50px auto;
   font-family:Open Sans;
