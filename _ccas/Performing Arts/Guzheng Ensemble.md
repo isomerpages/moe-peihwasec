@@ -170,25 +170,27 @@ The journey of preparing for SYF or any performances is never easy. We worked ha
 	</blockquote>
 
 <h4><strong>CCA Details</strong></h4>
-<div>
-<table border="1" cellspacing="2" cellpadding="2">
+<table border="1" style="width:100%;">
 <tbody>
 <tr>
-<td><strong>Teacher-in-Charge</strong></td>
-<td>Mrs Michelle Jonathan</td>
-</tr>
+			<td style="background-color: #54585d; font-weight: bold; font-size: 15px; border: 1px solid #54585d; color:white;border-bottom: 1px solid #dddddd;width:24%;">Teacher-In-Charge</td>
+			<td style="border: 1px solid #dddfe1;font-size: 15px;">Mrs Michelle Jonathan</td>
+		</tr>
+
 <tr>
-<td><strong>CCA Teacher(s)</strong></td>
-<td>Ms Lee Ya Yu<br />Ms Lu Yitong<br />Mdm Zhong Qian</td>
-</tr>
+			<td style="background-color: #54585d; font-weight: bold; font-size: 15px; border: 1px solid #54585d;border-bottom: 1px solid #dddddd; color:white;">CCA Teacher(s)</td>
+			<td style="border: 1px solid #dddfe1;font-size: 15px;">Ms Lee Ya Yu<br>Ms Lu Yitong<br>Mdm Zhong Qian</td>
+		</tr>
+
 <tr>
-<td><strong>CCA Schedule</strong></td>
-<td>Tuesday: 3.30pm to 6.00pm<br />Friday: 2.30pm to 6.00pm</td>
-</tr>
+			<td style="background-color: #54585d; font-weight: bold; font-size: 15px; border: 1px solid #54585d; color:white;border-bottom: 1px solid #dddddd;">CCA Schedule</td>
+			<td style="border: 1px solid #dddfe1;font-size: 15px;">Tuesday, 3.30pm – 6.00pm<br>Friday, 2.30pm – 6.00pm</td>
+		</tr>
+		
 <tr>
-<td><strong>Venue</strong></td>
-<td>Guzheng Room @ Block D, Level 3</td>
-</tr>
+			<td style="background-color: #54585d; font-weight: bold; font-size: 15px; border: 1px solid #54585d; color:white;">Venues</td>
+			<td style="border: 1px solid #dddfe1;font-size: 15px;">Library</td>
+		</tr>
+		
 </tbody>
-</table>
-</div>
+	</table>
