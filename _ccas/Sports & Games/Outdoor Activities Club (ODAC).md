@@ -8,15 +8,14 @@ third_nav_title: Sports & Games
 
 
 <h4><strong>Student Outcomes</strong></h4>
-<p style="font-size:15px; line-height:2;">The CCA will enable our students to:</p>
-	<ul>
-		<li style="font-size:15px; line-height:2;"> become independent learners who appreciate the outdoors and nature</li>
-		<li style="font-size:15px; line-height:2;"> learn to be adaptable and confident people</li>
-		<li style="font-size:15px; line-height:2;"> become innovative, resilient and effective problem solvers</li>
-	</ul>
+<p style="font-size:15px; line-height:2;">The CCA will <ul>
+<li style="font-size:15px; line-height:2;"> become independent learners who appreciate the outdoors and nature</li>
+	<li style="font-size:15px; line-height:2;"> learn to be adaptable and confident people</li>
+<li style="font-size:15px; line-height:2;"> become innovative, resilient and effective problem solvers</li>
+</ul>
 	
 <h4><strong>Competitions</strong></h4>
-	<ol>
+<ol>
 		<li style="font-size:15px; line-height:2;"> Temasek Regatta</li>
 		<li style="font-size:15px; line-height:2;"> GaRang Race by Greendale Secondary School</li>
 		<li style="font-size:15px; line-height:2;"> National Orienteering Race <br> &nbsp;&nbsp;&nbsp;&nbsp;&bull; &nbsp;&nbsp;National Orienteering Race (2017) – ‘C’ Division Boys – Champions</li>
