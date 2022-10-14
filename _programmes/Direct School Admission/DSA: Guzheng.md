@@ -231,4 +231,4 @@ third_nav_title: Direct School Admission
 <p style="font-size:16px; line-height:2;"><strong>5. Can my child/ward apply for a change in CCA?</strong></p>
 <p style="font-size:15px; line-height:2;margin-top:-5px;">Successful DSA-Sec students are expected to honour their commitment to the posted DSA school and to participate in activities related to the talent selected in, for the duration of the programme admitted to.</p>
 
-<p style="font-size:15px; line-height:2;"><strong>More information on DSA can be found on&nbsp;</strong><a href="http://www.moe.gov.sg/dsa-sec"><strong>www.moe.gov.sg/dsa-sec</strong></a></p>
+<p style="font-size:16px; line-height:2;"><strong>More information on DSA can be found on&nbsp;</strong><a href="http://www.moe.gov.sg/dsa-sec"><strong>www.moe.gov.sg/dsa-sec</strong></a></p>
