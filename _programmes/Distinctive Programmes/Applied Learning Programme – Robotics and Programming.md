@@ -12,45 +12,43 @@ third_nav_title: Distinctive Programmes
 
 <p style="font-size:15px; line-height:2;">Our ALP has been enhanced and synergised with the collaboration with LLP and the various academic subjects to equip our students with future ready skills to succeed in the VUCA (Volatile, Uncertain, Complex and Ambiguous) world.</p>
 
-<div>
-<table border="1" width="0">
-<tbody>
-<tr>
-<td rowspan="3" width="127"><strong>Level Wide Programmes and Opportunities</strong></td>
-<td width="219"><strong>Secondary 1</strong></td>
-<td width="192"><strong>Secondary 2</strong></td>
-<td width="201"><strong>Secondary 3</strong></td>
+<table border="1" style="border-collapse: collapse;margin: 25px 0;font-size:15px;font-family: sans-serif;box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);">
+<tr style="font-weight: bold; font-size: 16px;">
+				<th style="text-align:left;color:white;vertical-align:middle;background-color: #009879;"  rowspan="4">Level Wide Programmes and Opportunities</th>
+				<th style="text-align:left;color:black;">Secondary 1</th>
+				<th style="text-align:left;color:black;">Secondary 2</th>
+				<th style="text-align:left;color:black;">Secondary 3</th>
+			</tr>
+<tr style="background-color: #f3f3f3;">
+	<td style="font-size:15px;"><strong>Project Work</strong></td>
+	<td style="font-size:15px;"><strong>Project Work</strong></td>
+	<td style="font-size:15px;"><strong>Advanced Elective Modules (AEM)</strong></td>
 </tr>
-<tr>
-<td width="219"><strong>Project Work</strong></td>
-<td width="192"><strong>Project Work</strong></td>
-<td width="201"><strong>Advanced Elective Modules (AEM)</strong></td>
+															
+<tr style="font-size:15px;border-bottom: 2px solid #009879;">
+	<td style="font-size:15px;">
+		<ul>
+			<li style="font-size:15px; line-height:2;">Introduction to PHSS Innovation Cycle</li>
+			<li style="font-size:15px; line-height:2;">Basic Micro:bit coding</li>
+			<li style="font-size:15px; line-height:2;">Empathize and innovate at school level</li>
+		</ul>
+	</td>
+	<td style="font-size:15px;">
+		<ul>
+			<li style="font-size:15px; line-height:2;">PHSS Innovation Cycle as guiding framework</li>
+			<li style="font-size:15px; line-height:2;">Enhanced Micro:bit coding</li>
+			<li style="font-size:15px; line-height:2;">Empathize and innovate at community level</li>
+		</ul>	
+	</td>
+	<td style="font-size:15px;">
+		<ul>
+			<li style="font-size:15px; line-height:2;">Application at higher institutes of learning</li>
+			<li style="font-size:15px; line-height:2;">For selected students</li>
+		</ul>
+	</td>
 </tr>
-<tr>
-<td width="219">
-<ul>
-<li>Introduction to PHSS Innovation Cycle</li>
-<li>Basic Micro:bit coding</li>
-<li>Empathize and innovate at school level</li>
-</ul>
-</td>
-<td width="192">
-<ul>
-<li>PHSS Innovation Cycle as guiding framework</li>
-<li>Enhanced Micro:bit coding</li>
-<li>Empathize and innovate at community level</li>
-</ul>
-</td>
-<td width="201">
-<ul>
-<li>Application at higher institutes of learning</li>
-<li>For selected students</li>
-</ul>
-</td>
-</tr>
-</tbody>
+
 </table>
-</div>
 
 <p style="font-size:15px; line-height:2;">In Pei Hwa, we&nbsp;value the needs and interests of our students. Hence, we have also customized our programmes to stretch the potential of students with higher readiness and higher levels of interest in Robotics and Programming.</p>
 
