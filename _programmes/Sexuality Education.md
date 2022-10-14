@@ -4,81 +4,97 @@ permalink: /programmes/sexuality-education/
 description: ""
 ---
 <h4>MOE Sexuality Education in Schools</h4>
-<p>1.Sexuality Education (SEd) in schools is about enabling students to understand the physiological, social and emotional changes they experience as they mature, develop healthy and rewarding relationships including those with members of the opposite sex, and make wise, informed and responsible decisions on sexuality matters. SEd is premised on the importance of the family as the basic unit of society. This means encouraging healthy, heterosexual marriages and stable nuclear family units with extended family support. The teaching and learning of SEd is based on respect for the values and beliefs of the different ethnic and religious communities in Singapore on sexuality issues.</p>
-<p>2. The goals of Sexuality Education are:</p>
-<ol>
-<li aria-level="1">To help students make wise, responsible and informed decisions through the provision of accurate, current and age-appropriate&nbsp;knowledge&nbsp;on human sexuality and the consequences of sexual activity;</li>
-<li aria-level="1">To help students know themselves and build healthy and rewarding relationships through the acquisition of&nbsp;social and emotional skills&nbsp;of self-awareness, management of their thoughts, feelings and behaviours, development of empathy for others, possession of effective communication, problem-solving and decision-making skills; and</li>
-<li aria-level="1">To help students develop a moral compass, respect for themselves and for others as sexual beings, premised on the family as the basic unit of society, through the inculcation of&nbsp;positive mainstream values and attitudes&nbsp;about sexuality.&nbsp;</li>
+
+<p style="font-size:15px; line-height:2;">Sexuality Education (SEd) in schools is about enabling students to understand the physiological, social and emotional changes they experience as they mature, develop healthy and rewarding relationships including those with members of the opposite sex, and make wise, informed and responsible decisions on sexuality matters. SEd is premised on the importance of the family as the basic unit of society. This means encouraging healthy, heterosexual marriages and stable nuclear family units with extended family support. The teaching and learning of SEd is based on respect for the values and beliefs of the different ethnic and religious communities in Singapore on sexuality issues.</p>
+
+<p style="font-size:15px; line-height:2;">The goals of Sexuality Education are:</p>
+<ol style="margin-top:-5px;">
+<li aria-level="1" style="font-size:15px; line-height:2;">To help students make wise, responsible and informed decisions through the provision of accurate, current and age-appropriate&nbsp;knowledge&nbsp;on human sexuality and the consequences of sexual activity;</li>
+<li aria-level="1" style="font-size:15px; line-height:2;">To help students know themselves and build healthy and rewarding relationships through the acquisition of&nbsp;social and emotional skills&nbsp;of self-awareness, management of their thoughts, feelings and behaviours, development of empathy for others, possession of effective communication, problem-solving and decision-making skills; and</li>
+<li aria-level="1" style="font-size:15px; line-height:2;">To help students develop a moral compass, respect for themselves and for others as sexual beings, premised on the family as the basic unit of society, through the inculcation of&nbsp;positive mainstream values and attitudes&nbsp;about sexuality.&nbsp;</li>
 </ol>
-<p>3. The key messages of Sexuality Education are:</p>
-<ol>
-<li aria-level="1">Love and respect yourself as you love and respect others;</li>
-<li aria-level="1">Build positive relationships based on love and respect (which are the foundation for strong families);</li>
-<li aria-level="1">Make responsible decisions for yourself, your family and society; and</li>
-<li aria-level="1">Abstinence before marriage is the best protection against STIs/HIV and unintended pregnancies. Casual sex can harm and hurt you and your loved ones.</li>
+
+<p style="font-size:15px; line-height:2;">The key messages of Sexuality Education are:</p>
+<ol style="margin-top:-5px">
+<li aria-level="1" style="font-size:15px; line-height:2;">Love and respect yourself as you love and respect others;</li>
+<li aria-level="1" style="font-size:15px; line-height:2;">Build positive relationships based on love and respect (which are the foundation for strong families);</li>
+<li aria-level="1" style="font-size:15px; line-height:2;">Make responsible decisions for yourself, your family and society; and</li>
+<li aria-level="1" style="font-size:15px; line-height:2;">Abstinence before marriage is the best protection against STIs/HIV and unintended pregnancies. Casual sex can harm and hurt you and your loved ones.</li>
 </ol>
-<p>You may click&nbsp;<a href="https://www.moe.gov.sg/programmes/sexuality-education" target="_blank" rel="noopener noreferrer">here</a>&nbsp;for more information on MOE Sexuality Education.</p>
-<hr>
-<h4><strong>Overview of Pei Hwa Secondary&nbsp;</strong><strong>School&rsquo;s</strong><strong>&nbsp;Sexuality Education Programme for 2022</strong></h4>
-<p>4.&nbsp;Sexuality Education is delivered in a holistic manner through the school curriculum. The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law. You may click&nbsp;<a href="https://www.moe.gov.sg/programmes/sexuality-education/scope-and-teaching-approach">here</a>&nbsp;for more information on the scope of Sexuality Education in the school curriculum.</p>
-<p>5. The subjects that incorporate topics on sexuality include:</p>
-<ul>
-<li>Science</li>
-<li>Character and Citizenship Education&nbsp;(CCE)</li>
+
+<p style="font-size:15px; line-height:2;">You may click&nbsp;<a href="https://www.moe.gov.sg/programmes/sexuality-education" target="_blank" rel="noopener noreferrer">here</a>&nbsp;for more information on MOE Sexuality Education.</p>
+
+
+<h4>Overview of Pei Hwa Secondary & School & Sexuality Education Programme for 2022</h4>
+
+<p style="font-size:15px; line-height:2;">Sexuality Education is delivered in a holistic manner through the school curriculum. The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law. You may click&nbsp;<a href="https://www.moe.gov.sg/programmes/sexuality-education/scope-and-teaching-approach">here</a>&nbsp;for more information on the scope of Sexuality Education in the school curriculum.</p>
+
+<p style="font-size:15px; line-height:2;">The subjects that incorporate topics on sexuality include:</p>
+<ul style="margin-top:-5px;">
+<li style="font-size:15px; line-height:2;">Science</li>
+<li style="font-size:15px; line-height:2;">Character and Citizenship Education&nbsp;(CCE)</li>
 </ul>
-<hr>
+
+
 <h4>Sexuality Education Lessons:</h4>
-<p>6.&nbsp;The values and attitudes of our youth towards sexuality are increasingly shaped by their peers, exposure to the media, popular culture and the internet. Adolescence is a complex stage in life as the adolescent attempts to find his/her own identity and often struggles with new social relationships. The period of middle adolescence (generally from 15 &ndash; 17 years old) can be a turbulent period for adolescents. The gap between physical and emotional/cognitive maturity may result in a tendency to act on impulse, experiment with various activities (including sexual activities), sometimes without understanding the unpleasant consequences that may arise from such experimentation. The need for peer acceptance can be overwhelmingly strong, and hinder one&rsquo;s ability to act responsibly. Given the pressures faced by the middle adolescent from within themselves and from peers, it is important to build a strong sense of self-worth, personal conviction and an understanding of the possible consequences of sexual behaviour.</p>
-<p>7.Through the Sexuality Education lessons, secondary students will have the opportunity to develop a positive self-esteem, develop their character, and expand their understanding and repertoire of skills to deal with various issues related to sexuality, which are of prime concern at this age.&nbsp;</p><hr>
-<h4><strong>At Pei Hwa Secondary School, the following Sexuality Education lessons will be taught in&nbsp;</strong><strong>2022</strong><strong>:</strong></h4>
+<p style="font-size:15px; line-height:2;">The values and attitudes of our youth towards sexuality are increasingly shaped by their peers, exposure to the media, popular culture and the internet. Adolescence is a complex stage in life as the adolescent attempts to find his/her own identity and often struggles with new social relationships. The period of middle adolescence (generally from 15 &ndash; 17 years old) can be a turbulent period for adolescents. The gap between physical and emotional/cognitive maturity may result in a tendency to act on impulse, experiment with various activities (including sexual activities), sometimes without understanding the unpleasant consequences that may arise from such experimentation. The need for peer acceptance can be overwhelmingly strong, and hinder one&rsquo;s ability to act responsibly. Given the pressures faced by the middle adolescent from within themselves and from peers, it is important to build a strong sense of self-worth, personal conviction and an understanding of the possible consequences of sexual behaviour.</p>
+
+<p style="font-size:15px; line-height:2;">Through the Sexuality Education lessons, secondary students will have the opportunity to develop a positive self-esteem, develop their character, and expand their understanding and repertoire of skills to deal with various issues related to sexuality, which are of prime concern at this age.&nbsp;</p>
+
+<h4>At Pei Hwa Secondary School, the following Sexuality Education lessons will be taught in 2022</h4>
+
 <p><strong>SECONDARY 1<br /></strong></p>
-<div>
-<table border="2" cellspacing="4" cellpadding="4">
+
+<table border="1" style="border-collapse: collapse;margin: 25px 0;font-size:15px;font-family: sans-serif;box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);">
+<thead style="background-color: #009879; font-weight: bold; font-size: 16px;">
+<tr>
+				<td style="text-align:center;color:white;">UNIT</td>
+				<td style="text-align:center;color:white;">LESSONS / DURATION</td>
+				<td style="text-align:center;color:white;">LESSON OBJECTIVES</td>
+				<td style="text-align:center;color:white;">TIME PERIOD</td>
+			</tr>
+</thead>
+	
 <tbody>
+	
 <tr>
-<td><strong>UNIT</strong></td>
-<td><strong>LESSONS /&nbsp;</strong><strong>DURATION</strong></td>
-<td><strong>LESSON OBJECTIVES</strong><br /><strong>At the end of the lesson, students will be able to:</strong></td>
-<td><strong>TIME PERIOD</strong></td>
+		<td style="font-size:15px;margin-bottom:5px;" rowspan="4">Respectful Relationships &amp; Safety</td>
+		<td style="font-size:15px;margin-bottom:5px;">1(60 mins)</td>
+		<td>
+			<ul>
+				<li style="font-size:15px;margin-bottom:5px;">Recognise the importance of monitoring and managing our emotional reactions, in helpful ways that are reflective of our values and principles </li>
+			    <li style="font-size:15px;margin-bottom:5px;">Recognise that there are different forms of love (e.g. familial, platonic, romantic love) </li>
+				<li style="font-size:15px;margin-bottom:5px;">Recognise the importance and understand what builds healthy and supportive relationships, both online and offline</li>
+				<li style="font-size:15px;margin-bottom:5px;">Understand what dating is, and recognise that the readiness and interest in dating vary among individuals</li>
+			</ul>
+		</td>
+		<td style="font-size:15px;margin-bottom:5px;">Term 2 Week 6</td>
 </tr>
-<tr>
-<td rowspan="3">Respectful Relationships &amp; Safety</td>
-<td>1<br />(60 mins)</td>
-<td>
-<ul>
-<li aria-level="1">Recognise the importance of monitoring and managing our emotional reactions, in helpful ways that are reflective of our values and principles&nbsp;</li>
-</ul>
-<ul>
-<li aria-level="1">Recognise that there are different forms of love (e.g. familial, platonic, romantic love)&nbsp;</li>
-<li aria-level="1">Recognise the importance and understand what builds healthy and supportive relationships, both online and offline&nbsp;</li>
-<li aria-level="1">Understand what dating is, and recognise that the readiness and interest in dating vary among individuals</li>
-</ul>
-</td>
-<td>Term 2 Week 6</td>
+	
+<tr style="background-color:#f3f3f3;font-size:15px;">
+		<td style="font-size:15px;margin-bottom:5px;">2 (60 mins)</td>
+		<td>
+			<ul>
+				<li style="font-size:15px;margin-bottom:5px;">Understand that physical and psychological abuse from others, especially those we know and trust, can have strong negative effects on a person’s self-concept</li>
+			</ul>
+		</td>
+		<td style="font-size:15px;margin-bottom:5px;">Term 2 Week 9</td>
 </tr>
-<tr>
-<td>2<br />(60 mins)</td>
-<td>
-<ul>
-<li aria-level="1">Understand that physical and psychological abuse from others, especially those we know and trust, can have strong negative effects on a person&rsquo;s self-concept</li>
-</ul>
-</td>
-<td>Term 2 Week 9</td>
+	
+<tr style="border-bottom: 2px solid #009879;">
+		<td style="font-size:15px;margin-bottom:5px;">3 (60 mins)</td>
+		<td>
+			<ul>
+				<li style="font-size:15px;margin-bottom:5px;">Understand and accept that as we work towards becoming our best self, there will be times when we make mistakes, and recognise the importance of exercising moral courage in facing up to consequences </li>
+				<li style="font-size:15px;margin-bottom:5px;">Recognise that there are moral and legal consequences of risky sexual behaviours, pornography access and acting irresponsibly or maliciously when online (e.g. spreading of online falsehoods, flouting copyright laws, etc.)</li>
+			</ul>
+		</td>
+		<td style="font-size:15px;margin-bottom:5px;">Term 3 Week 3</td>
 </tr>
-<tr>
-<td>3<br />(60 mins)</td>
-<td>
-<ul>
-<li aria-level="1">Understand and accept that as we work towards becoming our best self, there will be times when we make mistakes, and recognise the importance of exercising moral courage in facing up to consequences&nbsp;</li>
-<li aria-level="1">Recognise that there are moral and legal consequences of risky sexual behaviours, pornography access and acting irresponsibly or maliciously when online (e.g. spreading of online falsehoods, flouting copyright laws, etc.)</li>
-</ul>
-</td>
-<td>Term 3 Week 3</td>
-</tr>
+										
 </tbody>
 </table>
-</div>
+
 <p><strong>SECONDARY 2</strong></p>
 <div>
 <table border="1" width="100%" cellspacing="4" cellpadding="4">
