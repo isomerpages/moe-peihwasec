@@ -54,7 +54,7 @@ third_nav_title: Distinctive Programmes
 
 <p style="font-size:15px; line-height:2;">In Pei Hwa, we&nbsp;value the needs and interests of our students. Hence, we have also customized our programmes to stretch the potential of students with higher readiness and higher levels of interest in Robotics and Programming.</p>
 
-<img style="width: 75%;" src="/images/robotic.jpg" />
+<img style="width: 100%;margin-top:10px;"  src="/images/robotic.jpg" />
 
 <p style="font-size:16px; line-height:2;"><strong>Project Work</strong></p>
 
@@ -66,11 +66,11 @@ third_nav_title: Distinctive Programmes
 
 <p style="font-size:15px; line-height:2;">Presentations and sharings at external platforms such as Edutech Asia, SG:Digital Wonderland and Singapore Maker Extravaganza.</p>
 
-<img src="/images/roboalp1.png" />
+<img src="/images/roboalp1.png" style="width: 100%;margin-top:10px;"  />
 
 <p style="font-size:15px; line-height:2;">Projects sent for competitions such as Tech for Good Challenge and SG:D Techblazer Awards (Student Techblazer).</p>
 
-<img src="/images/alprobo2.png" />
+<img style="width: 100%;margin-top:10px;" src="/images/alprobo2.png" />
 <p style="font-size:13px; line-height:2;text-align:center;"><em>Finalist for Student Techblazer</em></p>
 
 <p style="font-size:16px; line-height:2;"><strong>Stemnovation&nbsp;</strong></p>
@@ -78,34 +78,34 @@ third_nav_title: Distinctive Programmes
 <p style="font-size:15px; line-height:2;margin-top:5px;">Stemnovation provides students with a week of immersion in STEM and innovation. Not only do students get to participate in a level wide making challenge with their classmates, they can also sign up for learning journeys, speaker series and making activities.</p>
 
 
-<img style="width: 50%;" src="/images/alprobo3.jpg" align = "left" />
-<img style="width: 50%;" src="/images/alprobo4.jpeg" align = "left" />
+<img style="width: 100%;margin-top:10px;"  src="/images/alprobo3.jpg"  />
+<img style="width: 100%;margin-top:10px;"  src="/images/alprobo4.jpeg"  />
 
 <p style="font-size:13px; line-height:2; text-align:center;"><em>Experiencing STEM beyond the boundaries of the classroom</em></p>
 
 
-<img src="/images/alprobo5.png">
+<img src="/images/alprobo5.png" style="width: 100%;margin-top:10px;" >
 <p style="font-size:13px; line-height:2; text-align:center;margin-top:5px;"><em>Conducting making activities through Zoom</em></p>
 
 <br>
 
-<img style="width: 33%;" src="/images/alprobo6.png" align = "left" />
+<img style="width: 100%;margin-top:10px;"  src="/images/alprobo6.png" />
 <p style="font-size:13px; line-height:2; text-align:center;"><em>Level wide making challenges</em></p>
 
 <p style="font-size:16px; line-height:2;"><strong>Maker Monday</strong></p>
 <p style="font-size:15px; line-height:2;margin-top:5px;">Maker Monday is an interest group which allows students to experience making and tinkering. Having a maker culture&nbsp;not only gives our students an edge in their future endeavours, but also enables our students to experience the joy of learning and be more confident and creative.</p>
 
-<img src="/images/alprobo7.png">
+<img src="/images/alprobo7.png" style="width: 100%;margin-top:10px;" >
 
 <p style="font-size:16px; line-height:2;"><strong>Pei Hwa Hackathon</strong></p>
 
 <p style="font-size:15px; line-height:2;">As we get our students ready for their future endeavours, we believe that it is important for our students to share their skills and knowledge with the community too. Pei Hwa Hackathon is thus a competition held for our cluster&rsquo;s primary school students with the aim of enhancing their coding and problem solving skills. This is an opportunity for our students to be trained as assistant maker coaches. These selected students will be trained to facilitate and troubleshoot during the Hackathon. It is also a platform for them to hone their leadership skills as they lead and guide the different groups of primary school students.</p>
 
-<img src="/images/alprobo8.png">
+<img src="/images/alprobo8.png" style="width: 100%;margin-top:10px;" >
 
 <p style="font-size:16px; line-height:2;"><strong>Pei Hwa Virtual Hackathon 2021 [NEW]</strong></p>
 
-<img src="/images/PH_hackathon-1024x637.jpg">
+<img src="/images/PH_hackathon-1024x637.jpg" style="width: 100%;margin-top:10px;" >
 
 <p style="font-size:15px; line-height:2;">Covid-19 has rocked the world in a way that no other global event has done before. In one fell swoop, a virus has managed to impact countless lives around the world. Many lives have been lost, others have been badly affected. No one has been left unaffected by Covid-19.</p>
 
