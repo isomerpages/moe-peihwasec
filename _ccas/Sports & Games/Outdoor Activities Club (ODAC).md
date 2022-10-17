@@ -4,18 +4,20 @@ permalink: /ccas/sports-games/outdoor-activities-club-odac/
 description: ""
 third_nav_title: Sports & Games
 ---
-<p style="font-size:15px;"><Strong>Outdoor Activities Club (ODAC)</strong> exposes our members to various water sports such as kayaking and dragon boating and as well as climbing activities. Students will go through certification courses such as Kayaking One Star, Basic Wall Climbing and Abseiling. During normal CCA sessions, members are taught various outdoor-related skills such as Camp craft, Orienteering and Outdoor Cooking. They will then apply and hone these skills during our annual year end camp. As part of the community involvement activities, we are also frequent volunteers for events such as NTU Bike Rally and Race Against Cancer.</p>
+<p style="font-size:15px; line-height:2;"><Strong>Outdoor Activities Club (ODAC)</strong> exposes our members to various water sports such as kayaking and dragon boating and as well as climbing activities. Students will go through certification courses such as Kayaking One Star, Basic Wall Climbing and Abseiling. During normal CCA sessions, members are taught various outdoor-related skills such as Camp craft, Orienteering and Outdoor Cooking. They will then apply and hone these skills during our annual year end camp. As part of the community involvement activities, we are also frequent volunteers for events such as NTU Bike Rally and Race Against Cancer.</p>
 
 
 <h4><strong>Student Outcomes</strong></h4>
-<p style="font-size:15px; line-height:2;">The CCA will <ul>
+
+<p style="font-size:15px; line-height:2;">The CCA will 
+<ul style="margin-top:-5px">
 <li style="font-size:15px; line-height:2;"> become independent learners who appreciate the outdoors and nature</li>
 	<li style="font-size:15px; line-height:2;"> learn to be adaptable and confident people</li>
 <li style="font-size:15px; line-height:2;"> become innovative, resilient and effective problem solvers</li>
 </ul>
 	
 <h4><strong>Competitions</strong></h4>
-<ol>
+<ol style="margin-top:-5px">
 		<li style="font-size:15px; line-height:2;"> Temasek Regatta</li>
 		<li style="font-size:15px; line-height:2;"> GaRang Race by Greendale Secondary School</li>
 		<li style="font-size:15px; line-height:2;"> National Orienteering Race <br> &nbsp;&nbsp;&nbsp;&nbsp;&bull; &nbsp;&nbsp;National Orienteering Race (2017) – ‘C’ Division Boys – Champions</li>
@@ -26,7 +28,7 @@ third_nav_title: Sports & Games
 <img style="width: 100%;align:center;" src="/images/odac3.jpg" />
 
 <h4><strong>Activities/Workshops</strong></h4>
-<ol>
+<ol style="margin-top:-5px">
 		<li style="font-size:15px; line-height:2;"> Kayaking 1 Star and 2 Star Certification</li>
 		<li style="font-size:15px; line-height:2;"> Sports Climbing Level 1 Certification</li>
 		<li style="font-size:15px; line-height:2;"> Lead Climbing Workshop Certification</li>
