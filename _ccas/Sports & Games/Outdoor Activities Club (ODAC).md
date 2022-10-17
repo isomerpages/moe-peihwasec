@@ -20,10 +20,10 @@ third_nav_title: Sports & Games
 <ol style="margin-top:-5px">
 		<li style="font-size:15px; line-height:2;"> Temasek Regatta</li>
 	<img style="width: 100%;margin-top:10px;" src="/images/Picture 1.jpg"/>
-		<li style="font-size:15px; line-height:2;"> GaRang Race by Greendale Secondary School</li>
+		<li style="font-size:15px; line-height:2;align:center;"> GaRang Race by Greendale Secondary School</li>
 	<img style="width: 100%;margin-top:10px;" src="/images/Picture 2.jpeg"/>
-	<img style="width: 100%;margin-top:10px;" src="/images/Picture 3.jpeg"/>
-	<img style="width: 100%;margin-top:10px;" src="/images/Picture 4.jpeg"/>
+	<img style="width: 100%;margin-top:10px;align:center;" src="/images/Picture 3.jpeg"/>
+	<img style="width: 100%;margin-top:10px; align:center;" src="/images/Picture 4.jpeg"/>
 		<li style="font-size:15px; line-height:2;"> National Orienteering Race </li>
 </ol>
 
@@ -31,14 +31,20 @@ third_nav_title: Sports & Games
 <h4><strong>Activities/Workshops</strong></h4>
 <ol style="margin-top:-5px">
 		<li style="font-size:15px; line-height:2;"> Kayaking 1 Star and 2 Star Certification</li>
+	<img style="width: 100%;margin-top:10px;align:center;" src="/images/ODAC-Picture5.jpg"/>
 		<li style="font-size:15px; line-height:2;"> Sports Climbing Level 1 Certification</li>
+		<img style="width: 100%;margin-top:10px;align:center;" src="ODAC-Picture6.jpg"/>
 		<li style="font-size:15px; line-height:2;"> Lead Climbing Workshop Certification</li>
 		<li style="font-size:15px; line-height:2;"> Singapore National Abseiling Standards (SNAS) Level 1 and 2</li>
 		<li style="font-size:15px; line-height:2;"> Kayaking Orienteering Expedition Certification</li>
+	<img style="width: 100%;margin-top:10px;align:center;" src="ODAC-Picture6.jpg"/>
 		<li style="font-size:15px; line-height:2;"> Orienteering Course (school based)</li>
+	<li style="font-size:15px; line-height:2;"> Hiking</li>
+	<li style="font-size:15px; line-height:2;"> Outdoor running along park connector </li>
+	<img style="width: 100%;margin-top:10px;align:center;" src="ODAC-Picture8.jpg"/>
+	<li style="font-size:15px; line-height:2;"> Camps </li>
 </ol>
 	
-<img style="width: 80%;" src="/images/odac4.png" />
 
 <h4><strong>Student Testament</strong></h4>
 <blockquote style="font-size: 15px;
