@@ -4,7 +4,7 @@ permalink: /about-us/logo-motto-and-school-song/
 description: ""
 ---
 <h4><strong>Logo</strong></h4>
-<img style="width: 30%;" src="/images/logo.png" />
+<img style="width:30%; margin-top: 12px; align:left;" src="/images/logo.png" />
 <p style="font-size:15px;line-height:2;">The logo is formed by the Chinese characters &ldquo;Pei&rdquo; and &ldquo;Hwa&rdquo; which means &ldquo;Nurturing Talents&rdquo;. Central to the logo is the figure representing a resilient Pei Hwa pupil who is happy and confident even as he leaps over each obstacle. He is upright (as shown by the &ldquo;li&rdquo; character at the top of the figure&rsquo;s head) and grounded (as shown by the &ldquo;tu&rdquo; character) in values. His education in Pei Hwa has enabled him to embrace the world of knowledge with open arms and to push beyond current boundaries.</p>
 
 <h4><strong>Motto</strong></h4>
