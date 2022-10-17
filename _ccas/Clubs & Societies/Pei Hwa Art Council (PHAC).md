@@ -9,7 +9,7 @@ third_nav_title: Clubs & Societies
 
 <h4><strong>Student Outcomes</strong></h4>
 <p style="font-size:15px; line-height:2;">The CCA will enable our students to:</p>
-<ul>
+<ul style="margin-top:-5px">
 	<li style="font-size:15px; line-height:2;"> develop better observational and problem-solving skills</li>
 	<li style="font-size:15px; line-height:2;"> have greater awareness of the arts in order to increase appreciation and participation in the CCA and beyond</li>
 	<li style="font-size:15px; line-height:2;"> provide support to the school for school-wide events and in partnering with the community</li>
@@ -57,7 +57,7 @@ third_nav_title: Clubs & Societies
 
 <h4><strong>Competitions and CCA Activities</strong></h4>
 <p style="font-size:15px;">PHAC tries to strike a balance between learning new skills, taking part in competitions, supporting school events and in giving back to the community. Our recent participation was ‘Draw My Stamp Story Art Competition’ organised by Singapore Philatelic Museum (SPM) to help students understand and appreciate the importance of designs reflected on our Singapore stamps. Previously, we also took part in the Live On Design Competition which included a Values in Action segment for students to be able to have an insight into the lives of patients and donors. We also put our artistic skills to good use by creating silkscreen designs on tote bags as part of our CCA’s efforts in raising funds for our school’s adopted voluntary welfare organisations during Community Day 2019. When we are not busy taking part in competitions, we have fun going on learning journeys and camps to recharge and learn new skills.</p>
-<ul style="font-size:15px;">
+<ul style="font-size:15px; margin-top:-5px;">
 	<li style="font-size:15px; line-height:2;">2021 Draw My Stamp Story Art Competition</li>
 	<li style="font-size:15px; line-height:2;">2021 Live On Design Competition ‘Bridge of Hope’ &amp; ‘In Search of Hope’</li>
 	<li style="font-size:15px; line-height:2;">2020 Live On Design Competition ‘From Fears to Dreams’ &amp; ‘A New Beginning’</li>
