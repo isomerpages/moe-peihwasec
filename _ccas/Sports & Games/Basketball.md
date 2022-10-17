@@ -62,7 +62,7 @@ third_nav_title: Sports & Games
 
 <p style="font-size:15px; line-height:2;">In 2019, the Pei Hwa Basketball CCA participated in the &lsquo;B&rsquo; and &lsquo;C&rsquo; Boys North Zone Competition. Through the exposure of and preparation for the competitions, the members of Pei Hwa Basketball CCA has certainly, forged strong friendships and developed strong teamwork.</p>
 
-<img style="width: 75%;" src="/images/bb2.jpg" />
+<img style="width: 100%;" src="/images/bb2.jpg" />
 
 <h4><strong>Student Testament</strong></h4>
 <blockquote style="font-size: 15px;
