@@ -14,7 +14,7 @@ third_nav_title: Clubs & Societies
 <h4><strong>Student Outcomes</strong></h4>
 
 <p style="font-size:15px; line-height:2;">The CCA will enable our students to:</p>
-<ul>
+<ul style="margin-top:-5px">
 	<li style="font-size:15px; line-height:2;"> acquire and apply basic animation, photography and video editing knowledge and skills</li>
 	<li style="font-size:15px; line-height:2;"> demonstrate creativity through animation and video production</li>
 	<li style="font-size:15px; line-height:2;">develop into being a team player and work collaboratively with others</li>
@@ -78,14 +78,14 @@ third_nav_title: Clubs & Societies
 
 <h4><strong>Competitions and CCA Activities</strong></h4>
 <p><strong>CCA Activities:</strong></p>
-<ul style="list-style-type:none; font-size:15px;">
+<ul style="list-style-type:none; font-size:15px; margin-top:-5px;">
 	<li style="font-size:15px; line-height:2;">Sec 1: Animation/Stop motion</li>
 	<li style="font-size:15px; line-height:2;">Sec 2: Animation/Photoshop</li>
 	<li style="font-size:15px; line-height:2;">Sec 3: Video/Video editing</li>
 </ul>
 
 <p><strong>Competitions:</strong></p>
-<ul style="list-style-type:none;">
+<ul style="list-style-type:none; margin-top:-5px;">
 	<li style="font-size: 15px;">SDMA, NEmation</li>
 <img src="/images/info2.jpeg">
 	</ul>
