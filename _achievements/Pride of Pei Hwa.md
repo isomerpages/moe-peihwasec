@@ -25,7 +25,7 @@ Awards : Diploma with Merit</p>
 
 <p><strong>Graduate of St Andrew&rsquo;s Junior College 2020</strong></p>
 <p style="font-size:15px; line-height:2">Congratulations to our&nbsp;former student who has excelled academically at St Andrew&rsquo;s Junior College in 2020</p>
-<img src="/images/pride3.png">
+<img style="width: 100%;margin-top:10px;" src="/images/pride3.png" >
 <p style="font-size:15px; line-height:2">Name &nbsp;:&nbsp;<strong>Theodore Chow Sheng Kai</strong><br>
 National Examination &nbsp;: A Level<br>
 Achievement &nbsp;: Five Distinctions (88.75 out of 90 Rank Points)
