@@ -5,8 +5,10 @@ description: ""
 third_nav_title: Clubs & Societies
 ---
 <h4><strong>Student Outcomes</strong></h4>
+
 <p style="font-size:15px;">The CCA will enable our students to:</p>
-<ul>
+
+<ul style="margin-top:-5px">
 <li style="font-size:15px; line-height:2;">innovate, think critically and work collaboratively with their peers in experimenting ideas and solving problems</li>
 <li style="font-size:15px; line-height:2;">develop robot construction and programming skills through exposure to a variety of robotics platforms</li>
 <li style="font-size:15px; line-height:2;">compete in internal and national competitions to pitch their skills against the best to build and programme robots to complete assigned missions in the most strategic and efficient manner.</li>
@@ -110,7 +112,7 @@ third_nav_title: Clubs & Societies
 	
 <h4><strong>Competitions and CCA Activities</strong></h4>
 
-<ol>
+<ol style="margin-top:-5px">
 <li style="font-size:15px; line-height:2;">Robocup Singapore Open (Cospace Rescue, Cospace Grand Prix, OnStage)</li>
 <img style="width:60%; height:auto;" src="/images/robo1.jpg">
 <li style="font-size:15px; line-height:2;">Award winners of the 2019 RobocupJunior Singapore Open</li>
