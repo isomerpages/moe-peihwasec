@@ -27,9 +27,9 @@ third_nav_title: Clubs & Societies
 	</thead>
 	
 <tbody>
-<tr style="border-bottom: 1px solid #dddddd;">
+<tr>
 <td><strong>2020</strong></td>
-<td style="font-size:15px;"><strong>Live On Design Competition ‘From Fears to Dreams’ &amp; ‘A New Beginning’</strong>
+<td style="font-size:15px; margin-bottom:5px;"><strong>Live On Design Competition ‘From Fears to Dreams’ &amp; ‘A New Beginning’</strong>
 <br>
 <ul>
 <li style="font-size:15px;margin-bottom:5px;"> Awarded Special Mention, Schools Category, 2020 to Ong Zirui, Jesserel</li>
@@ -40,7 +40,7 @@ third_nav_title: Clubs & Societies
 </td>
 </tr>
 														
-<tr style="background-color: #f3f3f3;">
+<tr style="background-color: #f3f3f3;border-bottom: 2px solid #009879;">
 <td style="font-size:15px;"><strong>2018</strong></td>
 <td style="font-size:15px;"><strong>NKF Schools Postcard Design Contest</strong>
 <br>
