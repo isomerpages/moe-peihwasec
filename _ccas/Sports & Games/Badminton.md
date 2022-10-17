@@ -4,7 +4,7 @@ permalink: /ccas/sports-games/badminton/
 description: ""
 third_nav_title: Sports & Games
 ---
-<img style="width: 85%;" src="/images/bad1.jpeg" />
+<img style="width: 100%;" src="/images/Picture1.jpg" />
 
 <p style="font-size:15px; line-height:2;">The CCA aims to provide opportunities for students to learn and apply the technical and tactical skills and rules of badminton, so as to play the sports at a competitive level and as a recreational activity. Through the trainings, we would like to develop within all our members a healthy body and instill in them the virtues of true sportsmanship, PRIDE (Passion for Learning, Resilience, Integrity, Diligence, Excellence for Self and Others), teamwork and discipline.</p>
 
@@ -31,29 +31,34 @@ third_nav_title: Sports & Games
 </thead>
 	
 <tbody>
-<tr >
+<tr>
+<td style="font-size:15px;"><strong>2022</strong></td>
+<td style="font-size:15px;"><strong>‘B and ‘C’ Division Boys and Girls - Participation</strong></td>
+</tr>
+
+<tr style=" background-color: #f3f3f3;">
 <td style="font-size:15px;"><strong>2021</strong></td>
 <td style="font-size:15px;"><strong>B division boys qualified for the quarter-finals in the North Zone Badminton Tournaments</strong></td>
 </tr>
 			
-<tr style=" background-color: #f3f3f3;">
+<tr>
 <td style="font-size:15px;"><strong>2020</strong></td>
 <td style="font-size:15px;"><strong>B division boys qualified for the 2<sup>nd</sup>&nbsp;round in the North Zone Badminton Tournaments</strong></td>
 </tr>
 			
-<tr>
+<tr style=" background-color: #f3f3f3;">
 <td style="font-size:15px;"><strong>2019</strong></td>
 <td style="font-size:15px;"><strong>B and C division Boys came in 3rd in the first round (in the respective groups) in the North Zone Badminton Tournaments
 
 B and C division boys came in 1st runner up in the Interschool Badminton Competition</strong></td>
 </tr>
 			
-<tr style=" background-color: #f3f3f3;">
+<tr>
 <td style="font-size:15px;"><strong>2018</strong></td>
 <td style="font-size:15px;"><strong>Participation</strong></td>
 </tr>
 		
-<tr style="border-bottom: 2px solid #009879; font-size:15px;">
+<tr style="border-bottom: 2px solid #009879; background-color: #f3f3f3;">
 <td><strong>2017</strong></td>
 <td style="font-size:15px;"><strong>Participation</strong>
 </td>
@@ -66,14 +71,33 @@ B and C division boys came in 1st runner up in the Interschool Badminton Competi
 
 <p style="font-size:15px; line-height:2;">The team has participated in the Inter-Schools North Zone Badminton Tournaments. The players put up a good performance and exemplified the school values of resilience and diligence throughout the competition. The students have also forged strong friendship and demonstrated good teamwork throughout their trainings and in preparation for their competitions. Through their perseverance and hard work, the B division boys qualified for the quarter-finals. We are proud of their progress and improvements in the games.</p>
 
-<div class="row" style="box-sizing: border-box;"> 
+<img style="width: 100%;margin-top:10px;" src="/images/Picture2.jpg"/><p style="text-align: center; font-size:13px;margin-top:-10px;">B Division Boys</p>
+
+<br>
+
+<img style="width: 100%;margin-top:10px;" src="/images/Picture3.jpg"/><p style="text-align: center; font-size:13px;margin-top:-10px;">B Division Girls</p>
+
+<br>
+
+<img style="width: 100%;margin-top:10px;" src="/images/Picture4.jpg"/><p style="text-align: center; font-size:13px;margin-top:-10px;">B Division Girls</p>
+
+<br>
+
+<img style="width: 100%;margin-top:10px;" src="/images/Picture5.jpg"/><p style="text-align: center; font-size:13px;margin-top:-10px;">C Division Boys</p>
+
+<br>
+
+<img style="width: 100%;margin-top:10px;" src="/images/Picture6.jpg"/><p style="text-align: center; font-size:13px;margin-top:-10px;">C Division Girls</p>
+
+<h4><strong>Farewell Party for the seniors</strong>
+		<div class="row" style="box-sizing: border-box;"> 
 		<div class="column" style="box-sizing: border-box;  float: left; width: 50%; padding: 10px;">
-  			<img src="/images/bad3.jpeg" style="width:100%; margin-top: 12px;">
-  			<img src="/images/bad4.jpeg" style="width:100%; margin-top: 12px;">
+  			<img src="/images/Picture7.jpg" style="width:100%; margin-top: 12px;">
+			<img src="/images/Picture8.jpg" style="width:100%; margin-top: 12px;">
   		</div>
   		<div class="column" style="box-sizing: border-box;  float: left;width: 50%;padding: 10px;">
-  			<img src="/images/bad5.jpeg" style="width:100%; margin-top: 12px;">
-  			<img src="/images/bad2.jpeg" style="width:100%; margin-top: 12px;">
+  			<img src="/images/Picture9.jpg" style="width:100%;  margin-top: 12px;">
+			<img src="/images/Picture10.jpg" style="width:100%;  margin-top: 12px;">
 		</div>  
   	</div>
 
@@ -89,9 +113,9 @@ B and C division boys came in 1st runner up in the Interschool Badminton Competi
   line-height:1.6;
   position: relative;
   background:#EDEDED;">
-<img align="left" alt="Captain (Boys Team)" src="/images/bad6.jpeg" style="width: 23%; margin-right:15px;">
-	"I enjoy badminton CCA as I get to spend time with my CCA mates and juniors. I also get to practice and learn new badminton skills. Furthermore, the CCA has given me many opportunities to lead and improve my leadership skills. Although there were many times I made mistakes, the teachers and coach were forgiving and willing to help me learn. My friends are also there to support me whenever I needed help with a badminton skill. Even though there were disruptions to the CCA sessions because of Covid-19, we had enjoyable online zoom sessions that also allowed us to bond beyond the badminton court and grow closer as a team."
-  <span style="display:block; color:#333333; margin-top:1em;font-size:15px;"><em>Captain (Boys Team), Jayden Tay Wei Jie, 3I</em></span>
+<img align="left" alt="Captain (Boys Team)" src="/images/Picture11.jpg" style="width: 23%; margin-right:15px;">
+	"Through the badminton CCA, I've learnt and practiced values that will help me in the long run such as initiative, responsibility and discipline. Badminton has always been a passion of mine and after joining the cca, not only has my skills been cultivated but so has my character. This is all the result of the many wonderful members, teachers and coach. Since the first day I've joined, all the seniors have been very kind and helpful even during times where I couldn't keep up with the intense training, Not only did the seniors slow down to allow me to catch up but also checked up on me to see if I was doing okay. All these important events in my journey leads me to want to make this cca better in any way I can contribute. The cca has also given me many opportunities and helped build my confidence, I would not be where I was today if not for all the guidance I've received in this cca."
+  <span style="display:block; color:#333333; margin-top:1em;font-size:15px;"><em>Captain (Boys Team), Lee Yan Hui Derwyn, 3I6</em></span>
 	</blockquote>
 
 <blockquote style="font-size: 15px;
@@ -105,9 +129,9 @@ B and C division boys came in 1st runner up in the Interschool Badminton Competi
   line-height:1.6;
   position: relative;
   background:#EDEDED;">
-<img align="left" alt="Captain (Girls Team)" src="/images/bad7.jpeg" style="width: 23%;margin-right:15px;">
-	"I enjoy badminton CCA as I am able to develop and showcase my abilities of being a leader as well as bond with my teammates and form friendships. Personally, being in this CCA has helped me become a better leader, teammate and friend. This CCA has also helped me built confidence and I am able to project my ideas better and be more understanding towards my teammates. As a leader, this has supported me in developing good leadership skills and think of effective solutions in critical situations such as when a teammate is injured or unwell. As a friend and teammate, I have forged strong bonds and I continue to foster good teamwork with my teammates. Everyone is encouraging and we work towards a positive attitude. Overall I enjoy my CCA as it is one of my pillars of support, allowing me to be a better person in general."
-  <span style="display:block; color:#333333; margin-top:1em;font-size:15px;"><em>Captain (Girls Team), Png Yve Xuane Jenna, 3I5</em></span>
+<img align="left" alt="Captain (Girls Team)" src="/images/Picture12.jpg" style="width: 23%;margin-right:15px;">
+	"I enjoy badminton CCA as it nurtures my interest and passion towards the sport and forges strong bonds with my CCA members. In addition, this CCA has given me many opportunities to showcase my leadership skills and unleash my fullest potential regardless of it being through the values honed, like sportsmanship and teamwork, or the skills required gamewise. Although I suffered many setbacks during the CCA, my friends and teachers will always be there to encourage and support me to keep going and not throw in the towel. Every setback is a way to encourage myself to be a better person and build a positive attitude towards solving problems. All in all, the CCA has played a significant role in my Secondary school life which allows me to gain more experience to help me improve and learn from my mistakes."
+  <span style="display:block; color:#333333; margin-top:1em;font-size:15px;"><em>Captain (Girls Team), Png Zi Lin Silver, 3I8</em></span>
 	</blockquote>
 
 <blockquote style="font-size: 15px;
@@ -121,9 +145,9 @@ B and C division boys came in 1st runner up in the Interschool Badminton Competi
   line-height:1.6;
   position: relative;
   background:#EDEDED;">
-<img align="left" src="/images/bad8.jpeg" style="width: 23%; height:50%; margin-right:15px;">
-	"I enjoy badminton CCA as I have forged strong bonds with my CCA mates and juniors. I also like that the CCA not only focuses on honing our badminton skills but also spent time working on our values such as team spirit. Being a leader has enabled me to understand my friends and juniors better. Whenever I am troubled, my coach has sacrificed his time in teaching me to perfect my skill. When I made mistakes along the way, the teachers-in-charge are always there for me with the purpose for me to learn and not make the same mistakes in the future. Being a part of the badminton CCA has given me many opportunities to grow both skills and values-wise. Therefore, I always look forward to having CCA sessions every week!"
-  <span style="display:block; color:#333333; margin-top:1em;font-size:15px;"><em>Vice-Captain (Boys Team), Ow Ting Heng, 3I1</em></span>
+<img align="left" src="/images/Picture13.jpg" style="width: 23%; height:50%; margin-right:15px;">
+	"I enjoy being in the badminton cca as I get to spend quality time with my juniors and cca members.  The countless cca sessions has brought us closer to one another and has allowed us to bond with one another through tiring training sessions as well as enjoyable bonding sessions. I am very thankful to my cca teachers in charge who have given me the opportunity to lead the cca and this has allowed me to better manage my priorities. During my first year in the cca, covid-19 hit extremely hard and had affected my training schedule. However, thanks to my amazing seniors, I was able to catch up after missing close to one year of cca. There were times where I felt lost and needed help in my skills, and the coach is willing to allow us to work on our mistakes and improve on our strengths at the same time. My cca has trained me to become a better leader through the times when I had to speak up to give instructions, allowing me to step up and out of my comfort zone and I am very thankful for that opportunity. Lastly, I am glad that I have friends who are helpful and they have helped me through my journey."
+  <span style="display:block; color:#333333; margin-top:1em;font-size:15px;"><em>Vice-Captain (Boys Team), Yip Jin Hua Jonas , 3I6</em></span>
 	</blockquote>
 
 <blockquote style="font-size: 15px;
@@ -137,9 +161,41 @@ B and C division boys came in 1st runner up in the Interschool Badminton Competi
   line-height:1.6;
   position: relative;
   background:#EDEDED;">
-<img align="left" src="/images/bad9.jpeg" style="width: 23%;  margin-right:15px;">
-	"I enjoy being in badminton CCA as I get to learn many new skills that I can enhance every CCA session, as well as practice it on the court during competitions. This gives me countless chances to hone my skills and make use of them. Other than skills applied gamewise, I have also learnt values such as the importance of responsibility. As the vice-captain of the CCA, I am able to build my confidence whilst forging closer ties with my teammates. Within the CCA, we also have very good relationships with each other, which boosts our morale during competition settings. Our sense of unity is strong, and we continue to further encourage one another to be the best we can. Badminton has taught me many crucial skills that I can apply on court and in daily life settings, and I am very glad to be in Pei Hwa badminton!"
-  <span style="display:block; color:#333333; margin-top:1em;font-size:15px;"><em>Vice-Captain (Girls Team), Tan Yu Xin Felicia, 3I8</em></span>
+<img align="left" src="/images/Picture14.jpg" style="width: 23%;  margin-right:15px;">
+	"I enjoy my CCA a lot as I can make new friends from different levels and widen up my social circle. In our badminton CCA, we always learn new skills and techniques from one another and  we all can improve together. My CCA mates have been very supportive and caring towards me.  This CCA has not only taught me badminton skills but also taught me important values such as resilience, teamwork and sportsmanship. I always look forward to CCA as I get to mingle with my CCA mates and understand them better. This also gives us the opportunity to interact with different levels to know what everyone is learning about. We are united as one and we always share our problems and true feelings with one another. Despite the tough training, we enjoy ourselves as we all go through the hardship as a CCA."
+  <span style="display:block; color:#333333; margin-top:1em;font-size:15px;"><em>Vice-Captain (Boys Team), Wong Xi Jie, 3I5</em></span>
+	</blockquote> 
+	
+<blockquote style="font-size: 15px;
+  width:100%;
+  margin:50px auto;
+  font-family:Open Sans;
+  font-style:italic;
+  color: #555555;
+  padding:1.2em 25px 1.2em 25px;
+  border-left:8px solid #78C0A8 ;
+  line-height:1.6;
+  position: relative;
+  background:#EDEDED;">
+<img align="left" src="/images/Picture15.jpg" style="width: 23%;  margin-right:15px;">
+	"I take delight in and look forward attending CCA every week. Badminton cca not only allows me to expand my interest, but it also enables me to acquire new skills. My journey in badminton cca has also taught me values such as resilience, sportsmanship and teamwork. I especially love and appreciate my times in cca as I get to forge strong bonds with my cca mates. Despite the downs we had during our loss in competition, we encourage one another endlessly.  As our coach always says, “it is ok to make mistakes, but we have to see improvement in what we do.” This truly inspires our team to challenge ourselves through tough training and work harder to our limits, together as one."
+  <span style="display:block; color:#333333; margin-top:1em;font-size:15px;"><em>Vice-Captain (Girls Team), Tan Xin Hui Sheyenne, 3I6</em></span>
+	</blockquote> 
+	
+<blockquote style="font-size: 15px;
+  width:100%;
+  margin:50px auto;
+  font-family:Open Sans;
+  font-style:italic;
+  color: #555555;
+  padding:1.2em 25px 1.2em 25px;
+  border-left:8px solid #78C0A8 ;
+  line-height:1.6;
+  position: relative;
+  background:#EDEDED;">
+<img align="left" src="/images/Picture16.jpg" style="width: 23%;  margin-right:15px;">
+	"I take delight in and look forward attending CCA every week. Badminton cca not only allows me to expand my interest, but it also enables me to acquire new skills. My journey in badminton cca has also taught me values such as resilience, sportsmanship and teamwork. I especially love and appreciate my times in cca as I get to forge strong bonds with my cca mates. Despite the downs we had during our loss in competition, we encourage one another endlessly.  As our coach always says, “it is ok to make mistakes, but we have to see improvement in what we do.” This truly inspires our team to challenge ourselves through tough training and work harder to our limits, together as one. "
+  <span style="display:block; color:#333333; margin-top:1em;font-size:15px;"><em>Vice-Captain (Girls Team), Charlotte Chia Jia En, 3I5</em></span>
 	</blockquote> 
 	
 <table border="1" style="width:100%;">
