@@ -6,14 +6,15 @@ third_nav_title: Clubs & Societies
 ---
 <h4><strong>Mission</strong></h4>
 
-<p style="font-size:15px;">The <strong>Student Council</strong> aims to develop innovative, daring and compassionate leaders. As Tier 3 Student Leaders, the Student Council is the voice of the student body and takes the lead in school events and improving student welfare. Student Councillors are also advocates of the environment by raising awareness about environment conservation through events such as Earth Week.</p>
+<p style="font-size:15px; lione-height:2;">The <strong>Student Council</strong> aims to develop innovative, daring and compassionate leaders. As Tier 3 Student Leaders, the Student Council is the voice of the student body and takes the lead in school events and improving student welfare. Student Councillors are also advocates of the environment by raising awareness about environment conservation through events such as Earth Week.</p>
 
-<p style="font-size:15px;">Every year, Student Councillors are officially appointed during the Student Leaders Investiture. As role-models of the student population, Student Councillors lead by example. They are given multiple platforms to develop their leadership and event management skills through organising events such as the Teachers’ Day Celebration and Secondary 1 Orientation, as well as managing the PHun Lounge.</p>
+<p style="font-size:15px; line-height:2;">Every year, Student Councillors are officially appointed during the Student Leaders Investiture. As role-models of the student population, Student Councillors lead by example. They are given multiple platforms to develop their leadership and event management skills through organising events such as the Teachers’ Day Celebration and Secondary 1 Orientation, as well as managing the PHun Lounge.</p>
 
 
 <h4><strong>Student Outcomes</strong></h4>
+
 <p style="font-size:15px; line-height:2;">The CCA will enable our students to:</p>
-<ul>
+<ul style="margin-top:-5px">
 		<li style="font-size:15px; line-height:2;"> be equipped with knowledge on leadership, teamwork and project management</li>
 	</ul>
 
