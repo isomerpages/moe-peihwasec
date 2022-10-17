@@ -26,9 +26,41 @@ third_nav_title: Clubs & Societies
 	</thead>
 <tbody>
 	
-<tr style="border-bottom: 1px solid #dddddd;">
+<tr>
+<td><strong>2022</strong></td>
+	<td style="font-size:15px;">
+		<strong>RoboCup Singapore Open</strong>
+		<br>
+		<ul>
+			<li style="font-size:15px;margin-bottom:5px;">OnStage 1<sup>st</sup> Place - TAY KAI WEN, BRYAN (4D1), LAI LE XIN GRACE (3I4), AIN MYEISHA ARMAN (3I1), CHANG GUAN ZHENG (Justin) (2R9), YAN GING GIT (ZHEN JINGJIE) (2R9), CHONG YUN TING FELICIA (1P4)</li>
+            <li style="font-size:15px;margin-bottom:5px;">Cospace Auto-Driving 3<sup>rd</sup> Place - VALLURI NAVANEETH (3I8)</li>
+            <li style="font-size:15px;margin-bottom:5px;">Cospace Auto-Driving 2<sup>nd</sup> Place - TANG KA LOK (3I8)</li>
+			<li style="font-size:15px;margin-bottom:5px;">Cospace Auto-Driving (SuperTeam) 1<sup>st</sup> Place - VALLURI NAVANEETH (3I8), TAY KAI YI (2R4)</li>
+			<li style="font-size:15px;margin-bottom:5px;">Cospace Auto-Driving (Influencer Award) 1<sup>st</sup> Place - SHAH YASHVI TEJAS (3I8)</li>
+            <li style="font-size:15px;margin-bottom:5px;">Cospace Rescue FirstSteps 3<sup>rd</sup> Place - ELKAN SIN YEW KEN (1P8)</li>
+            <li style="font-size:15px;margin-bottom:5px;">Cospace Rescue FirstSteps 2<sup>nd</sup> Place - KIERAN TAN (2R5)</li>
+			<li style="font-size:15px;margin-bottom:5px;">Cospace Rescue FirstSteps 1<sup>st</sup> Place - DEVENDRAN VENKATESH (1P3)</li>
+			<li style="font-size:15px;margin-bottom:5px;">Cospace Rescue FirstSteps (SuperTeam) 1<sup>st</sup> Place - DEVENDRAN VENKATESH (1P3), LUKE MATTHIAS QUEK SHOU EN (2R1), GOH ZHEN JIN (2R5)</li>
+            <li style="font-size:15px;margin-bottom:5px;">Cospace Rescue 3<sup>rd</sup> Place - RITESH SATHIYAMOORTHI (2R8)</li>
+            <li style="font-size:15px;margin-bottom:5px;">Cospace Rescue (SuperTeam) 1<sup>st</sup> Place - NG JUN LIN, COGAN (3I7)</li>
+			<li style="font-size:15px;margin-bottom:5px;">Cospace Rescue (Influencer Award) 1<sup>st</sup> Place - DEVENDRAN VENKATESH (1P3)</li>
+		</ul>
+	</td>
+</tr>
+	
+<tr style="background-color: #f3f3f3;">
 <td><strong>2021</strong></td>
-	<td style="font-size:15px;"><strong>RoboCup Singapore Open</strong>
+	<td style="font-size:15px;">
+		<strong>Robocup Asia Pacific (held virtually at Aichi, Japan)</strong>
+		<br>
+		<ul>
+			<li style="font-size:15px;margin-bottom:5px;">Cospace Rescue U19 2<sup>nd</sup> Place </li>
+            <li style="font-size:15px;margin-bottom:5px;">Cospace Rescue U19 1<sup>st</sup> Place (SuperTeam)</li>
+            <li style="font-size:15px;margin-bottom:5px;">Cospace Rescue U19 2<sup>nd</sup> Place (SuperTeam)</li>
+			<li style="font-size:15px;margin-bottom:5px;">Cospace Autonomous Driving U19 Best Presentation </li>
+		</ul>
+		<br>
+		<strong>RoboCup Singapore Open</strong>
 		<br>
 		<ul>
 			<li style="font-size:15px;margin-bottom:5px;">CoSpace Rescue, 2<sup>nd</sup> Place and Merit Award</li>
@@ -38,7 +70,7 @@ third_nav_title: Clubs & Societies
 	</td>
 </tr>
 															
-<tr style="background-color: #f3f3f3;">
+<tr>
 <td style="font-size:15px;"><strong>2020</strong></td>
 	<td style="font-size:15px;"><strong>International Cospace Online Challenge</strong>
 		<ul> 
@@ -51,7 +83,7 @@ third_nav_title: Clubs & Societies
 	</td>
 </tr>
 
-<tr>
+<tr style="background-color: #f3f3f3;">
 <td style="font-size:15px;"><strong>2019</strong></td>
 	<td style="font-size:15px;">
                  <strong>RoboCupJunior Singapore Open</strong>
@@ -75,7 +107,7 @@ third_nav_title: Clubs & Societies
 	</td>
 </tr>
 
-<tr style="background-color: #f3f3f3;">
+<tr>
 <td style="font-size:15px;"><strong>2018</strong></td>
 	<td style="font-size:15px;"><strong>RoboCupJunior Singapore Open</strong>
 		<ul> 
@@ -87,7 +119,7 @@ third_nav_title: Clubs & Societies
 	</td>
 </tr>
 
-<tr style="border-bottom: 2px solid #009879;">
+<tr style="background-color: #f3f3f3;" style="border-bottom: 2px solid #009879;">
 <td style="font-size:15px;"><strong>2017</strong></td>
 	<td style="font-size:15px;"><strong>RoboCupJunior Singapore Open</strong>
 		<br>
@@ -114,18 +146,17 @@ third_nav_title: Clubs & Societies
 
 <ol style="margin-top:-5px">
 <li style="font-size:15px; line-height:2;">Robocup Singapore Open (Cospace Rescue, Cospace Grand Prix, OnStage)</li>
-<img style="width:60%; height:auto;" src="/images/robo1.jpg">
-<li style="font-size:15px; line-height:2;">Award winners of the 2019 RobocupJunior Singapore Open</li>
+<img style="width:100%; height:auto;" src="/images/Robotics.jpg">
+<p style="text-align: center; font-size:13px;margin-top:5px;">Finalists and Award winners of the 2022 Robocup Singapore Open</p>
 <li style="font-size:15px; line-height:2;">Introduction to Python Programming Language, Data Science with Python</li>
-<li style="font-size:15px; line-height:2;">Internal LEGO EV3 robotics competition</li>
-<li style="font-size:15px; line-height:2;">AI with Halocode, Machine Learning with Huskylens</li>
+<li style="font-size:15px; line-height:2;">Arduino Programming</li>
+<li style="font-size:15px; line-height:2;">Lego Mindstorms EV3</li>
+<li style="font-size:15px; line-height:2;">Machine Learning with Huskylens and Micro:bit</li>
 <li style="font-size:15px; line-height:2;">Codomo Potato Pirates Coding Card Games</li>
-
-<img style="width:60%; height:auto;" src="/images/robo2.jpg">
-<li style="font-size:15px; line-height:2;">Workshop on machine learning with Huskylens and&nbsp;Micro:bit</li>
-	</ol>
+<img style="width: 100%;margin-top:10px;" src="/images/collage.jpg"/>
+</ol>
 	
-<h4><strong>Student Testament</strong></h4>
+
 <h4><strong>Student Testament</strong></h4>
 <blockquote style="font-size: 15px;
   width:100%;
