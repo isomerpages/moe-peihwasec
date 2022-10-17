@@ -5,12 +5,12 @@ description: ""
 third_nav_title: Sports & Games
 ---
 <img style="width: 75%;" src="/images/bb1.jpg" />
-<p style="font-size:15px;">The Pei Hwa&nbsp;Basketball CCA was set&nbsp;up&nbsp;in 2005. The Basketball CCA seeks to provide opportunities to develop students&rsquo; lifelong passion for the sports. Through trainings and competitions, the Pei Hwa Basketball CCA help students to build character, forge friendships and cultivate strong teamwork.</p>
+<p style="font-size:15px; line-height:2;">The<strong> Pei Hwa&nbsp;Basketball CCA </strong> was set&nbsp;up&nbsp;in 2005. The Basketball CCA seeks to provide opportunities to develop students&rsquo; lifelong passion for the sports. Through trainings and competitions, the Pei Hwa Basketball CCA help students to build character, forge friendships and cultivate strong teamwork.</p>
 
 <h4><strong>Student Outcomes</strong></h4>
 
 <p style="font-size:15px; line-height:2;">The CCA will enable our students to:</p>
-<ul>
+<ul style="margin-top:-5px">
 	<li style="font-size:15px; line-height:2;"> develop love for Basketball</li>
 	<li style="font-size:15px; line-height:2;"> acquire knowledge in basketball skills such as ball handling, shooting and defense</li>
 	<li style="font-size:15px; line-height:2;"> deepen understanding of self-excellence, leadership qualities and team work</li>
@@ -60,7 +60,7 @@ third_nav_title: Sports & Games
 
 <h4><strong>Competitions and CCA Activities</strong></h4>
 
-<p style="font-size:15px;">In 2019, the Pei Hwa Basketball CCA participated in the &lsquo;B&rsquo; and &lsquo;C&rsquo; Boys North Zone Competition. Through the exposure of and preparation for the competitions, the members of Pei Hwa Basketball CCA has certainly, forged strong friendships and developed strong teamwork.</p>
+<p style="font-size:15px; line-height:2;">In 2019, the Pei Hwa Basketball CCA participated in the &lsquo;B&rsquo; and &lsquo;C&rsquo; Boys North Zone Competition. Through the exposure of and preparation for the competitions, the members of Pei Hwa Basketball CCA has certainly, forged strong friendships and developed strong teamwork.</p>
 
 <img style="width: 75%;" src="/images/bb2.jpg" />
 
