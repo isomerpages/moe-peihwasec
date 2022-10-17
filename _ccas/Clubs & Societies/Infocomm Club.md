@@ -8,7 +8,7 @@ third_nav_title: Clubs & Societies
 
 <p style="font-size:15px; line-height:2;">Students who have interest in the setup of performances for events are given the opportunity to join as AVA members under Infocomm Club. They will be developed to be independent decision maker as well as communication skills when they collaborate with teachers and their peers.</p>
 
-<img src="/images/info1.png">
+<img src="/images/info1.png" style="width: 100%;margin-top:10px;">
 
 
 <h4><strong>Student Outcomes</strong></h4>
