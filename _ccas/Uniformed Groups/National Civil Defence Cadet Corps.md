@@ -6,7 +6,7 @@ third_nav_title: Uniformed Groups
 ---
 <h4><strong>National Civil Defence Cadet Corps &ndash; a choice uniformed group of community first responders</strong></h4>
 
-<p style="font-size:15px; line-height:2;">NCDCC cadets always strive to&nbsp;<strong>Learn</strong>&nbsp;the Triangle of Life skills, which include basic firefighting, first aid and CPR+AED so as to be able to&nbsp;<strong>Lead&nbsp;</strong>their peers upon going through one of the three tracks under the Specialisation Model. They will then in turn&nbsp;<strong>Serve</strong>&nbsp;their school or the wider community through public education platforms such as being advocates of Emergency Preparedness. The learning cycle will continue to evolve to a higher plane of achievement such as lending a helping hand as Community First Responders. The Learn Lead Serve Motto serves as the guiding principle for all trainings and activities in NCDCC.</p>
+<p style="font-size:15px; line-height:2;">NCDCC cadets always strive to&nbsp;<strong>Learn</strong>&nbsp;the Triangle of Life skills, which include basic firefighting, first aid and CPR+AED so as to be able to&nbsp;<strong>Lead&nbsp;</strong>their peers upon going through one of the three tracks under the Specialisation Model. They will then in turn&nbsp;<strong>Serve</strong>&nbsp;their school or the wider community through public education platforms such as being advocates of Emergency Preparedness. The learning cycle will continue to evolve to a higher plane of achievement such as lending a helping hand as Community First Responders. The <strong>Learn Lead Serve </strong>Motto serves as the guiding principle for all trainings and activities in NCDCC.</p>
 
 <h4><strong>Student Outcomes</strong></h4>
 <p style="font-size:15px; line-height:2;">NCDCC seeks to develop and empower our youths to be active and concerned citizens advocating life-saving skills.</p>
@@ -23,21 +23,36 @@ third_nav_title: Uniformed Groups
 </thead>
 	
 <tbody>
-	<tr>
+
+<tr>
+	<td><strong>2022</strong></td>
+	<td style="font-size:15px;margin-bottom:5px;">
+		<strong>Unit Overall Performance Assessment </strong>
+		<br>
+		<ul>
+			<li style="font-size:15px;margin-bottom:5px;">Gold</li>
+		</ul>
+		<strong>Instructional Video Competition</strong>
+		<br>
+		<strong>Precision Drill Competition</strong>
+	</td>
+					
+</tr>	
+<tr style="background-color: #f3f3f3;">
 				<td><strong>2021</strong></td>
 				<td style="font-size:15px;margin-bottom:5px;">
 					<strong>Infographic Design Competition</strong>
 				</td>
 	</tr>
 			
-<tr style="background-color: #f3f3f3;">
+<tr>
 				<td><strong>2020</strong></td>
 				<td style="font-size:15px;margin-bottom:5px;">
 					<strong>UOPA suspended due to national posture</strong>
 				</td>
 </tr>
 			
-<tr>
+<tr style="background-color: #f3f3f3;">
 				<td><strong>2019</strong></td>
 				<td style="font-size:15px;margin-bottom:5px;">
 					<strong>Unit Overall Performance Award </strong>
@@ -54,7 +69,7 @@ third_nav_title: Uniformed Groups
 				</td>
 </tr>
 						
-<tr style="background-color: #f3f3f3;">
+<tr>
 				<td><strong>2018</strong></td>
 				<td style="font-size:15px;margin-bottom:5px;">
 					<strong>Unit Overall Performance Award </strong>
@@ -70,7 +85,7 @@ third_nav_title: Uniformed Groups
 				</td>
 </tr>
 			
-<tr style="border-bottom: 2px solid #009879;">
+<tr style="border-bottom: 2px solid #009879;background-color: #f3f3f3;">
 				<td><strong>2017</strong></td>
 				<td style="font-size:15px;margin-bottom:5px;">
 					<strong>Unit Overall Performance Award </strong>
@@ -103,17 +118,21 @@ third_nav_title: Uniformed Groups
 
 <p style="font-size:15px; line-height:2;">Volunteer Adult Leaders who are themselves alumni of the school work with Teacher Officers to serve as mentors to senior cadets who plan and execute the training activities for junior cadets.</p>
 
-<p style="font-size:15px; line-height:2;">The following are some programs and training activities in 2021:</p>
-<ul>
-<li style="font-size:15px; line-height:2;">In-house NCO course</li>
+<p style="font-size:15px; line-height:2;">The following are some programs and training activities in 2022:</p>
+<ul style="margin-top:-5px;">
+<li style="font-size:15px; line-height:2;">Year One Cadets Affirmation Day</li>
 <li style="font-size:15px; line-height:2;">Annual Unit Day Camp</li>
-<li style="font-size:15px; line-height:2;">Community First Responder Program</li>
-<li style="font-size:15px; line-height:2;">Community Emergency Preparedness Program</li>
-<li style="font-size:15px; line-height:2;">Infographic Design Competition</li>
-<li style="font-size:15px; line-height:2;">Fire Safety, Medical Response and Urban Rescue courses</li>
+	<li style="font-size:15px; line-height:2;">Basic Cardiac Life Support (BCLS) Course</li>
+<li style="font-size:15px; line-height:2;">Instructional Video Competition</li>
+<li style="font-size:15px; line-height:2;">NCO Course</li>
+<li style="font-size:15px; line-height:2;">Precision Drills Challenge</li>
+<li style="font-size:15px; line-height:2;">Service Month project (PHNCD Community Day)</li>
+	<li style="font-size:15px; line-height:2;">Specialisation Courses (Fire Safety, Medical Response, Urban Rescue)</li>
+<li style="font-size:15px; line-height:2;">Tour of Exhibition in Civil Defence Academy (CDA)</li>
+<li style="font-size:15px; line-height:2;">Unit Drill Instructor (UDI) Course</li>
+<li style="font-size:15px; line-height:2;">Urban Adventure Civil Defence Knowledge Challenge (UACDC)</li>
 
-<img src="/images/NCDCC-2.png" style="width: 100%;margin-top:10px;">
-<img src="/images/NCDCC-3.png" style="width: 100%;margin-top:10px;">
+
 	
 <h4><strong>Student Testament</strong></h4>
 
