@@ -33,7 +33,7 @@ third_nav_title: Sports & Games
 		<li style="font-size:15px; line-height:2;"> Kayaking 1 Star and 2 Star Certification</li>
 	<img style="width: 100%;margin-top:10px;align:center;" src="/images/ODAC-Picture5.jpg"/>
 		<li style="font-size:15px; line-height:2;"> Sports Climbing Level 1 Certification</li>
-		<img style="width: 100%;margin-top:10px;align:center;" src="ODAC-Picture6.jpg"/>
+		<img style="width: 100%;margin-top:10px;align:center;" src="ODAC_picture6.jpg"/>
 		<li style="font-size:15px; line-height:2;"> Lead Climbing Workshop Certification</li>
 		<li style="font-size:15px; line-height:2;"> Singapore National Abseiling Standards (SNAS) Level 1 and 2</li>
 		<li style="font-size:15px; line-height:2;"> Kayaking Orienteering Expedition Certification</li>
