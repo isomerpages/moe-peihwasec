@@ -19,13 +19,14 @@ third_nav_title: Sports & Games
 <h4><strong>Competitions</strong></h4>
 <ol style="margin-top:-5px">
 		<li style="font-size:15px; line-height:2;"> Temasek Regatta</li>
+	<img style="width: 100%;margin-top:10px;" src="/images/Picture 1.jpg"/>
 		<li style="font-size:15px; line-height:2;"> GaRang Race by Greendale Secondary School</li>
-		<li style="font-size:15px; line-height:2;"> National Orienteering Race <br> &nbsp;&nbsp;&nbsp;&nbsp;&bull; &nbsp;&nbsp;National Orienteering Race (2017) – ‘C’ Division Boys – Champions</li>
+	<img style="width: 100%;margin-top:10px;" src="/images/Picture 2.jpeg"/>
+	<img style="width: 100%;margin-top:10px;" src="/images/Picture 3.jpeg"/>
+	<img style="width: 100%;margin-top:10px;" src="/images/Picture 4.jpeg"/>
+		<li style="font-size:15px; line-height:2;"> National Orienteering Race </li>
 </ol>
-	
-<img style="width: 100%;align:center;" src="/images/odac1.jpg" /><br>
-<img style="width: 100%;align:center;"  src="/images/odac2.jpg" /><br>
-<img style="width: 100%;align:center;" src="/images/odac3.jpg" />
+
 
 <h4><strong>Activities/Workshops</strong></h4>
 <ol style="margin-top:-5px">
