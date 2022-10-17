@@ -31,30 +31,30 @@ third_nav_title: Sports & Games
 <tbody>
 	
 <tr>
+<td><strong>2022</strong></td>
+	<td style="font-size:15px;"><strong>‘B’ and ‘C’ Boys North Zone Competition – Participation</strong>
+	</td>
+</tr>
+	
+<tr style="background-color: #f3f3f3;">
 <td><strong>2019</strong></td>
 	<td style="font-size:15px;"><strong>‘B’ and ‘C’ Boys North Zone Competition – Participation</strong>
 	</td>
 </tr>
 															
-<tr style=" background-color: #f3f3f3;">
+<tr>
 <td style="font-size:15px;"><strong>2018</strong></td>
 	<td style="font-size:15px;"><strong>‘B’ and ‘C’ Boys North Zone Competition – Participation</strong>
 	</td>
 </tr>
 
-<tr>
+<tr style="background-color: #f3f3f3;border-bottom: 1px solid #009879;">
 <td style="font-size:15px;"><strong>2017</strong></td>
 	<td style="font-size:15px;">
 		<strong>‘B’ and ‘C’ Boys North Zone Competition – Participation</strong>
 	</td>
 </tr>
 
-<tr style=" background-color: #f3f3f3; border-bottom: 1px solid #009879;">
-<td style="font-size:15px;"><strong>2018</strong></td>
-	<td style="font-size:15px;"><strong>RoboCupJunior Singapore Open</strong>
-	</td>
-</tr>
-			
 </tbody>
 	</table>
 
