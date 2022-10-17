@@ -126,6 +126,7 @@ third_nav_title: Clubs & Societies
 	</ol>
 	
 <h4><strong>Student Testament</strong></h4>
+<h4><strong>Student Testament</strong></h4>
 <blockquote style="font-size: 15px;
   width:100%;
   margin:50px auto;
@@ -137,9 +138,10 @@ third_nav_title: Clubs & Societies
   line-height:1.6;
   position: relative;
   background:#EDEDED;">
-<img align="left" src="/images/robo3.jpg" style="width: 23%;margin-right:15px;">
-“I really enjoy the competitive ambience and the adrenaline rush during Robotics competitions.  I like interacting with my CCA friends and bouncing off ideas and strategies with them to overcome challenges in coding”
-  <span style="display:block; color:#333333; margin-top:1em;font-size:15px;"><em>Logistics Manager, Antho Siow Jia Jun, Int 5</em></span><br><br><br><br><br>
+<img align="left" src="/images/ROBOTICS05.jpg" style="width: 23%;margin-right:15px;">
+“Despite the COVID-19 pandemic which has created several disruptions not just in the CCA but throughout the world, I have learnt various skills during CCA that I can apply in my everyday life, in addition to technology. I look forward to the upcoming CCA sessions because I get to learn new programming languages and compete in various competitions.<br><br>
+Robotics nurtures us as future leaders in addition to being equipped with technological skills. I am grateful to have the opportunity to inspire the CCA's members to be leaders and problem-solvers. Leadership and technology have both increased in importance in the twenty-first century. The future of the Robotics Club excites me, and I look forward to the growth of the CCA.”
+  <span style="display:block; color:#333333; margin-top:1em;font-size:15px;"><em>Vice President, NG JUN LIN, COGAN, Int 7</em></span>
 </blockquote>
 
 <blockquote style="font-size: 15px;
@@ -153,9 +155,8 @@ third_nav_title: Clubs & Societies
   line-height:1.6;
   position: relative;
   background:#EDEDED;">
-<img align="left" alt="Lower Secondary Coordinator, " src="/images/robo4.jpg" style="width: 23%;margin-right:15px;">“Even though these past 2 years have been quite uneventful due to Covid-19, I still really enjoy my time learning new skills, making new friends, and working together with my peers and teachers.<br>
-The Robotics Club has given me the opportunity to be a leader, to express my creativity and improve on my social skills. I look forward to what’s more to come.”
-  <span style="display:block; color:#333333; margin-top:1em;font-size:15px;"><em>Lower Secondary Coordinator, Grace Lai Le Xin, Res 4</em></span>
+<img align="left" src="/images/ROBOTICS6.jpg" style="width: 23%;margin-right:15px;">“Every week I am eager to attend CCA as the sessions are fun and I get learn new things. The teachers and instructors are very helpful and they leave none of our questions unanswered. Even though we are unable to go for some competitions due to the pandemic, we are able to make the best of what we have and excel in it. The Robotics Club gave me the opportunity to be a leader and I hope that we can continue to strive for excellence in the years to come”
+  <span style="display:block; color:#333333; margin-top:1em;font-size:15px;"><em>Assistant Secretary/Publicity, SHAH YASHVI TEJAS, Int 8</em></span>
 	</blockquote>
 
 <h4><strong>CCA Details</strong></h4>
