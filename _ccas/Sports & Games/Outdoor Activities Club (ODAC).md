@@ -44,7 +44,7 @@ third_nav_title: Sports & Games
 	<img style="width: 100%;margin-top:10px;align:center;" src="/images/ODAC-Picture8.jpg"/>
 	<li style="font-size:15px; line-height:2;"> Camps </li>
 		<img style="width: 100%;margin-top:10px;align:center;" src="/images/ODAC-Picture%208.jpg"/>	<img style="width: 100%;margin-top:10px;align:center;" src="/images/ODAC-Picture%209.jpg"/>	<img style="width: 100%;margin-top:10px;align:center;" src="/images/ODAC-Picture%2010.jpg"/>
-	
+
 </ol>
 	
 
@@ -60,8 +60,11 @@ third_nav_title: Sports & Games
   line-height:1.6;
   position: relative;
   background:#EDEDED;">
-<img align="left" alt="" src="/images/odac5.jpeg" style="width: 23%;margin-right:15px;">
-	"My journey in Outdoor Adventure Club (ODAC) has been filled with ups and downs. Initially, I struggled and had to adapt to the various activities planned for us, including having to overcome my fear of water when we had to take our Kayaking course. However, over time, the experiences in ODAC have been incredible. From adventure camps to outdoor activities, the inclusive and caring members showed me that ODAC is more than just a CCA. It is a family.<br><br>With our usual sessions planned and executed by students, leadership opportunities are also aplenty. As the President, I had to work with my committee members, allowing opportunities to understand my peers and further strengthen my bonds with them.<br><br>ODAC has also taught me important values. Other than just learning the ropes of leading, we had to quickly adapt to the &lsquo;new normal&rsquo; due to Covid-19. With uncertain and changing rules about CCA, we had to toggle between physical and online sessions. Our usual activities also had to be tweaked to follow Safety Management Measures. These are challenging times as we tried to still engage our members despite the numerous limitations but through it, I am able to develop myself to become more adaptable and resilient.<br><br>To sum up my experience in ODAC, it was nothing short of amazing. I definitely have no regrets joining ODAC. Under the influence of the motto set in the cca &ndash; ALL FOR ONE, ONE FOR ALL, it really means that we go through thick and thin together, supporting each other endlessly like a family."
+<img align="left" alt="" src="/images/Picture%2012.jpg" style="width: 50%;margin-right:15px;">
+	"My journey in Outdoor Adventure Club (ODAC) has been filled with ups and downs. Initially, I struggled and had to adapt to the various activities planned for us, including having to overcome my fear of water when we had to take our Kayaking course. However, over time, the experiences in ODAC have been incredible. From adventure camps to outdoor activities, the inclusive and caring members showed me that ODAC is more than just a CCA. It is a family.<br>
+With our usual sessions planned and executed by students, leadership opportunities are also aplenty. As the President, I had to work with my committee members, allowing opportunities to understand my peers and further strengthen my bonds with them.<br>
+ODAC has also taught me important values. Other than just learning the ropes of leading, we had to quickly adapt to the ‘new normal’ due to Covid-19. With uncertain and changing rules about CCA, we had to toggle between physical and online sessions. Our usual activities also had to be tweaked to follow Safety Management Measures. These are challenging times as we tried to still engage our members despite the numerous limitations but through it, I am able to develop myself to become more adaptable and resilient.<br>
+To sum up my experience in ODAC, it was nothing short of amazing. I definitely have no regrets joining ODAC. Under the influence of the motto set in the cca – ALL FOR ONE, ONE FOR ALL, it really means that we go through thick and thin together, supporting each other endlessly like a family."
   <span style="display:block; color:#333333; margin-top:1em;font-size:15px;"><em>Nixon (3I1), President (2021-2022)</em></span>
 </blockquote>
 
