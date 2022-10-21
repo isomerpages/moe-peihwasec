@@ -93,7 +93,7 @@ description: ""
 
 <p style="font-size:15px; line-height:2;">For other detailed examination regulations, please refer to page 20 of the student handbook.</p>
 
-<h4><strong><u>HOMEWORK POLICY 2022</strong></u></h4>
+<h4><strong><u>HOMEWORK POLICY 2022</u></strong></h4>
 
 <p style="font-size:15px; line-height:2;">Homework is work that is set to be done outside the time-tabled curriculum. Pei Hwa Secondary School believes that&nbsp;reasonable amounts of academic effort outside the class can enhance student learning,&nbsp;improve achievement&nbsp;and&nbsp;develop students’ study skills. Homework provides an opportunity for students to revisit the concepts or skills taught during lessons.&nbsp;</p>
 
