@@ -146,7 +146,6 @@ description: ""
 	
 </tbody>
 </table>
-</div>
 
 </li>
 <li style="font-size:15px; line-height:2;">Homework assignments will not be given over festive periods during term time, e.g. Chinese New Year, Deepavali and Hari Raya Puasa.</li>
