@@ -31,10 +31,74 @@ third_nav_title: Departments
 <p><strong>Lower Secondary English</strong></p>
 <p style="font-size:15px;">With the new syllabus for English introduced in 2020 for Secondary 1 students, our students were given time to further develop their narrative writing skills and to also demonstrate their creativity by illustrating their work. This is an example of their innovative entries, written by Ang Kai Jie.</p>
 
-<img style="width: 50%;" src="/images/eng5.jpg" />
-<img style="width: 50%;" src="/images/eng6.jpg" />
-<img style="width: 50%;" src="/images/eng7.jpg" />
-<img style="width: 50%;" src="/images/eng8.jpg" />
-<img style="width: 50%;" src="/images/eng9.jpg" />
-<img style="width: 50%;" src="/images/eng10.jpg" />
-<img style="width: 50%;" src="/images/eng11.jpg" />
+<div id="gallery" style="width: 600px;overflow: hidden;
+position: relative;z-index: 1;margin: 100px auto;border: 2px solid #003C72;">
+      <ul id="navigation" style="list-style: none;padding: 0;margin: 0;display: flex;justify-content: space-between;">
+        <li style="padding: 0;margin: 0;margin: 5px 0 20px;">
+          <a href="#picture1" style="display: block;">
+            <img alt="small house 1" src="/images/eng5.jpg" style=" display: block;border: none;" />
+          </a>
+        </li>
+        <li style="padding: 0;margin: 0;margin: 5px 0 20px;">
+          <a href="#picture2"  style="display: block;">
+            <img alt="small house 2" src="/images/eng6.jpg" style="display: block;border: none;" />
+          </a>
+        </li>
+        <li style="padding: 0;margin: 0;margin: 5px 0 20px;">
+          <a href="#picture3" style="display: block;">
+            <img alt="small house 3" src="/images/eng7.jpg" style="display: block;border: none;"/>
+          </a>
+        </li>
+        <li style="padding: 0;margin: 0;margin: 5px 0 20px;">
+          <a href="#picture4" style="display: block;">
+            <img alt="small house 4" src="/images/eng8.jpg" style="display: block;border: none;" />
+          </a>
+        </li>
+		<li style="padding: 0;margin: 0;margin: 5px 0 20px;">
+          <a href="#picture4" style="display: block;">
+            <img alt="small house 4" src="/images/eng9.jpg" style="display: block;border: none;" />
+          </a>
+        </li>
+		  <li style="padding: 0;margin: 0;margin: 5px 0 20px;">
+          <a href="#picture4" style="display: block;">
+            <img alt="small house 4" src="/images/eng10.jpg" style="display: block;border: none;" />
+          </a>
+        </li>
+		  <li style="padding: 0;margin: 0;margin: 5px 0 20px;">
+          <a href="#picture4" style="display: block;">
+            <img alt="small house 4" src="/images/eng11.jpg" style="display: block;border: none;" />
+          </a>
+        </li>
+</ul>
+      
+<div id="full-picture" style="width: 600px;height: 483px;overflow: hidden;float: left;">
+        <div>
+          <a name="picture1"  style="display: block;"></a>
+          <img alt="Large house 1" src="/images/eng5.jpg"  style="width:100%;" />
+        </div>
+        <div>
+          <a name="picture2"  style="display: block;"></a>
+          <img alt="Large house 2" src="/images/eng6.jpg" style="width:100%;"/>
+        </div>
+        <div>
+          <a name="picture3"  style="display: block;"></a>
+          <img alt="Large house 3" src="/images/eng7.jpg" style="width:100%;"/>
+        </div>
+        <div>
+          <a name="picture4"  style="display: block;"></a>
+          <img alt="Large house 4" src="/images/eng8.jpg" style="width:100%;"/>
+        </div>
+		<div>
+          <a name="picture2"  style="display: block;"></a>
+          <img alt="Large house 2" src="/images/eng9.jpg" style="width:100%;"/>
+        </div>
+        <div>
+          <a name="picture3"  style="display: block;"></a>
+          <img alt="Large house 3" src="/images/eng10.jpg" style="width:100%;"/>
+        </div>
+        <div>
+          <a name="picture4"  style="display: block;"></a>
+          <img alt="Large house 4" src="/images/eng11.jpg" style="width:100%;"/>
+        </div>
+      </div>
+ </div>
