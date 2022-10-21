@@ -118,30 +118,30 @@ description: ""
 </table>
 
 <p><strong>Other Guidelines on Homework</strong></p>
-<ol style="font-size:15px;">
-<li aria-level="1">During the school holidays:
+<ol>
+<li aria-level="1" style="font-size:15px;">During the school holidays:
 
 <table border="1" style="border-collapse: collapse;margin: 25px 0;font-size: 0.9em;font-family: sans-serif;min-width: 400px; box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);">
 	
 <tbody>
 <tr style="border-bottom: 1px solid #dddddd;">
-<td style="padding: 12px 15px;"><strong>March Holidays</strong></td>
-<td style="padding: 12px 15px;">9 hours for Sec 1 and 2 <br>12 hours for Sec 3, 4 and 5</td>
+<td style="padding: 12px 15px;font-size:15px;"><strong>March Holidays</strong></td>
+<td style="padding: 12px 15px;font-size:15px;">9 hours for Sec 1 and 2 <br>12 hours for Sec 3, 4 and 5</td>
 </tr>
 	
 <tr style="border-bottom: 1px solid #dddddd;">
-<td style="padding: 12px 15px;"><strong>June Holidays</strong></td>
-<td style="padding: 12px 15px;">18 hours for Sec 1 and 2 <br>24 hours for Sec 3, 4 and 5</td>
+<td style="padding: 12px 15px;font-size:15px;"><strong>June Holidays</strong></td>
+<td style="padding: 12px 15px;font-size:15px;">18 hours for Sec 1 and 2 <br>24 hours for Sec 3, 4 and 5</td>
 </tr>
 	
 <tr style="border-bottom: 1px solid #dddddd;">
-<td style="padding: 12px 15px;"><strong>September Holidays</strong></td>
-<td style="padding: 12px 15px;">9 hours for Sec 1 and 2 <br>12 hours for Sec 3, 4 and 5</td>
+<td style="padding: 12px 15px;font-size:15px;"><strong>September Holidays</strong></td>
+<td style="padding: 12px 15px;font-size:15px;">9 hours for Sec 1 and 2 <br>12 hours for Sec 3, 4 and 5</td>
 </tr>
 
 <tr style="border-bottom: 1px solid #dddddd;">
-<td style="padding: 12px 15px;"><strong>Year-End Holidays</strong></td>
-<td style="padding: 12px 15px;">18 hours for Sec 1 and 2 <br>24 hours for Sec 3, 4 and 5</td>
+<td style="padding: 12px 15px;font-size:15px;"><strong>Year-End Holidays</strong></td>
+<td style="padding: 12px 15px;font-size:15px;">18 hours for Sec 1 and 2 <br>24 hours for Sec 3, 4 and 5</td>
 </tr>
 	
 </tbody>
