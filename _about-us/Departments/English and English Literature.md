@@ -32,7 +32,7 @@ third_nav_title: Departments
 <p style="font-size:15px;">With the new syllabus for English introduced in 2020 for Secondary 1 students, our students were given time to further develop their narrative writing skills and to also demonstrate their creativity by illustrating their work. This is an example of their innovative entries, written by Ang Kai Jie.</p>
 
 <div id="gallery" style="width: 600px;overflow: hidden;
-position: relative;z-index: 1;margin: 100px auto;border: 2px solid #003C72;">
+position: relative;z-index: 1;margin: 100px auto;">
       <ul id="navigation" style="list-style: none;padding: 0;margin: 0;display: flex;justify-content: space-between;">
         <li style="padding: 0;margin: 0;margin: 5px 0 20px;">
           <a href="#picture1" style="display: block;">
