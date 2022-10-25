@@ -18,17 +18,35 @@ third_nav_title: Departments
 
 <p style="font-size:15px; line-height:2">Students designed and created chemically powered cars out of everyday normal plastic bottles and the cars were propelled forward by a non-toxic chemical reaction. Examples of such reactions include baking soda mixed with vinegar.</p>
 
-<img style="width: 100%;" src="/images/sci1.png" />
+
+<div class="row" style="box-sizing: border-box;"> 
+		<div class="column" style="box-sizing: border-box;  float: left; width: 50%; padding: 10px;">
+  			<img src="/images/Enrichment - Chemical Powered Car 1.png" style="width:100%; margin-top:20px; ">
+  		</div>
+  		<div class="column" style="box-sizing: border-box;  float: left;width: 50%;padding: 10px;">
+  			<img src="/images/Enrichment - Chemical Powered Car 2.png" style="width:100%;">
+		</div>  
+</div>
+
 
 <p><strong><em>Fun With Electronics Workshop at Science Center</em></strong></p>
 
 <p style="font-size:15px; line-height:2">Students attended a workshop in Science Center. They were introduced to several basic electronic components (resistors, LEDs, capacitors, transistors) and were given the opportunity to build electronic circuits utilising their properties on a breadboard (prototyping board).</p>
-<img style="width: 50%;" src="/images/sci2.png" />
+
+<img style="width: 100%;" src="/images/Enrichment - Electronic Workshop.png" />
 
 <p><strong><em>Cosmetic Science Workshop</em></strong></p>
 
 <p style="font-size:15px; line-height:2">During a Cosmetic Science workshop, students learnt about emulsification and how creams are made as emulsions. They made their own cold cream and sunscreen using natural products.</p>
-<img style="width: 80%;" src="/images/sci3.png" />
+
+<div class="row" style="box-sizing: border-box;"> 
+		<div class="column" style="box-sizing: border-box;  float: left; width: 50%; padding: 10px;">
+  			<img src="/images/Enrichment - Cosmetic Workshop 1.png" style="width:100%; margin-top: 80px;">
+  		</div>
+  		<div class="column" style="box-sizing: border-box;  float: left;width: 50%;padding: 10px;">
+  			<img src="/images/Enrichment - Cosmetic Workshop 2.png" style="width:70%;  margin-top: 12px;">
+		</div>  
+</div>
 
 <p><strong>Competitions</strong></p>
 <p><strong><em>NUS Crystal Growing Competition</em></strong></p>
