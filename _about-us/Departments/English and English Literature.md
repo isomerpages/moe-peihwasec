@@ -7,11 +7,11 @@ third_nav_title: Departments
 <h4><strong>Our Goals</strong></h4>
 <p style="font-size:15px;">Through English and Literature, we endeavour to inculcate in students a love for the English language, and an appreciation of the intricacies of the language in creating meaning, in order to develop them into confident communicators.</p>
 <p style="font-size:15px;">We aim to give students the opportunity to formulate their ideas and share their thoughts during discussions and presentations in class.</p>
-<hr>
+
 
 <h4><strong>Our Programmes</strong></h4>
 <p><strong>Slice of Life</strong></p>
-<p style="font-size:15px;" >Our students take to the stage on Friday mornings to share their thoughts and viewpoints on our student outcomes, school values and current affairs. These 'slices' of their lives are savoured by the Pei Hwa Family.</p>
+<p style="font-size:15px;" >![]()r students take to the stage on Friday mornings to share their thoughts and viewpoints on our student outcomes, school values and current affairs. These 'slices' of their lives are savoured by the Pei Hwa Family.</p>
 <img style="width: 75%;" src="/images/eng1.png" />
 <br>
 <p style="font-size:20px;"><strong>PHeature</strong></p>
@@ -73,31 +73,31 @@ position: relative;z-index: 1;margin: 100px auto;">
 <div id="full-picture" style="width: 600px;height: 483px;overflow: hidden;float: left;">
         <div>
           <a name="picture1"  style="display: block;"></a>
-          <img alt="Large house 1" src="/images/eng5.jpg"  style="width:100%;" />
+          <img alt="Large house 1" src="/images/Kai Jie Storyboard 1.jpg"  style="width:100%;" />
         </div>
         <div>
           <a name="picture2"  style="display: block;"></a>
-          <img alt="Large house 2" src="/images/eng6.jpg" style="width:100%;"/>
+          <img alt="Large house 2" src="/images/Kai Jie Storyboard 2.jpg" style="width:100%;"/>
         </div>
         <div>
           <a name="picture3"  style="display: block;"></a>
-          <img alt="Large house 3" src="/images/eng7.jpg" style="width:100%;"/>
+          <img alt="Large house 3" src="/images/Kai Jie Storyboard 3.jpg" style="width:100%;"/>
         </div>
         <div>
           <a name="picture4"  style="display: block;"></a>
-          <img alt="Large house 4" src="/images/eng8.jpg" style="width:100%;"/>
+          <img alt="Large house 4" src="/images/Kai Jie Storyboard 4.jpg" style="width:100%;"/>
         </div>
 		<div>
           <a name="picture2"  style="display: block;"></a>
-          <img alt="Large house 2" src="/images/eng9.jpg" style="width:100%;"/>
+          <img alt="Large house 2" src="/images/Kai Jie Storyboard 5.jpg" style="width:100%;"/>
         </div>
         <div>
           <a name="picture3"  style="display: block;"></a>
-          <img alt="Large house 3" src="/images/eng10.jpg" style="width:100%;"/>
+          <img alt="Large house 3" src="/images/Kai Jie Storyboard 6.jpg" style="width:100%;"/>
         </div>
         <div>
           <a name="picture4"  style="display: block;"></a>
-          <img alt="Large house 4" src="/images/eng11.jpg" style="width:100%;"/>
+          <img alt="Large house 4" src="/images/Kai Jie Storyboard 7.jpg" style="width:100%;"/>
         </div>
       </div>
  </div>
