@@ -6,30 +6,29 @@ third_nav_title: Departments
 ---
 <h4><strong>Our Goals</strong></h4>
 
-<p style="font-size:15px;">The CCE curriculum supports the students’ development of character, citizenship and leadership with the aim of fulfilling the students’ vision of being the PRIDE of the Community.</p>
+<p style="font-size:15px; line-height:2;margin-top:15px;">The CCE curriculum supports the students’ development of character, citizenship and leadership with the aim of fulfilling the students’ vision of being the PRIDE of the Community.</p>
 
-<p style="font-size:15px;">To develop each student to be an Altruist:</p>
+<p style="font-size:15px; line-height:2;margin-top:15px;">To develop each student to be an Altruist:</p>
 
 <ul>
-<li style="font-size:15px; margin:-10px 0 5px 20px;">Care for Others and the Environment</li>
-<li style="font-size:15px; margin:-10px 0 5px 20px;">Responsible Citizen</li>
+<li style="font-size:15px; line-height:2;margin:-15px 0 13px 0px;">Care for Others and the Environment</li>
+<li style="font-size:15px; line-height:2;margin:-15px 0 13px 0px;">Responsible Citizen</li>
 </ul>
 
 <img src="/images/2-9.jpg" style="width: 100%;">
 
-<p style="text-align: center; font-size:13px;"><em>Photographs were taken pre-COVID-19</em></p>
+<p style="text-align: center; font-size:13px;margin-top:5px;"><em>Photographs were taken pre-COVID-19</em></p>
 
-<hr>
 
 <h4><strong>Our Programmes</strong></h4>
 
 <p><strong>Overview</strong></p>
-<p style="font-size:15px; margin:-15px 0 5px 0;">The CCE curriculum provides invaluable lessons and learning experiences to help our students internalise and practise good values and skills, and develop competencies that are critical to character and citizenship development.</p>
+<p style="font-size:15px; line-height:2;margin:-15px 0 13px 0px;">The CCE curriculum provides invaluable lessons and learning experiences to help our students internalise and practise good values and skills, and develop competencies that are critical to character and citizenship development.</p>
 
-<p style="font-size:15px; margin:5px 0 5px 0;">Through CCE, school leaders and staff will facilitate students’ thinking to help them make responsible decisions based on sound values, and guide them in becoming caring individuals and useful citizens.</p>
+<p style="font-size:15px; line-height:2;margin-top:15px;">Through CCE, school leaders and staff will facilitate students’ thinking to help them make responsible decisions based on sound values, and guide them in becoming caring individuals and useful citizens.</p>
 
 <p><strong>Components in CCE</strong></p>
-<p style="font-size:15px; margin:-15px 0 5px 0;">As part of MOE’s focus on a Student-Centric, Values-Driven Education, the Character and Citizenship Education (CE), and Social-Emotional Learning (SEL); and will emphasise the interconnectedness of values, knowledge, skills and competencies taught in these areas:</p>
+<p style="font-size:15px; line-height:2;margin:-15px 0 13px 0px;">As part of MOE’s focus on a Student-Centric, Values-Driven Education, the Character and Citizenship Education (CE), and Social-Emotional Learning (SEL); and will emphasise the interconnectedness of values, knowledge, skills and competencies taught in these areas:</p>
 <div class="table-responsive">
 <table border="1">
 <tbody>
