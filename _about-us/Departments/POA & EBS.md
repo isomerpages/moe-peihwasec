@@ -16,11 +16,19 @@ third_nav_title: Departments
 <p><strong>Project Moolah by SMU</strong></p>
 <p style="font-size:15px; line-height:2;margin-top:15px;">Collaboration with Singapore Management University (SMU) business students to inculcate Financial Literacy and reinforce understanding of accounting concepts and practices.</p>
 
-<img style="width: 100%;" src="/images/poa1.png" />
+<div class="row" style="box-sizing: border-box;"> 
+		<div class="column" style="box-sizing: border-box;  float: left; width: 50%;">
+  			<img src="/images/poa&ebs-Picture2.jpg" style="width:67%; margin-top: 12px;">
+  		</div>
+  		<div class="column" style="box-sizing: border-box;  float: left;width: 50%;">
+  			<img src="/images/poa&ebs-Picture1.png" style="width:100%;  margin-top: 12px;">
+		</div>  
+  	</div>
 
 <p><strong>EBS Learning Journey</strong></p>
 <p style="font-size:15px; line-height:2;margin-top:15px;">Field trips to heritage attractions, places of interest and tourist attractions to let students explore and learn beyond classroom environment.</p>
-<img style="width: 60%;" src="/images/poa2.jpg" />
+
+<img style="width: 100%;" src="/images/Picture5.png" />
 
 
 <h4><strong>Our Student Learning</strong></h4>
@@ -30,24 +38,24 @@ third_nav_title: Departments
 
 <p><strong>HBL POA Lesson (Using Google Classroom and ClassCraft)</strong></p>
 
-<p style="font-size:15px;">Using Video function to arouse interest. (Google Classroom)</p>
-<img style="width: 80%;" src="/images/poa3.png" />
+<p  style="font-size:15px; line-height:2;margin-top:15px;">Using Video function to arouse interest. (Google Classroom)</p>
+<img style="width: 100%;" src="/images/Picture4.png" />
 
 <p style="font-size:15px;">Submission of work by students and returned by teachers. (Google Classroom)</p>
-<img style="width: 80%;" src="/images/poa4.png" />
+<img style="width: 100%;" src="/images/g1.png" />
 
 <p style="font-size:15px;">Elements of game playing in ClassCraft, like scoring points and competing with others to engage students. (ClassCraft)</p>
-<img style="width: 80%;" src="/images/poa5.png" />
+<img style="width: 100%;" src="/images/g3.png" />
 
 <p style="font-size:15px;">Grouping students to have collaborative learning. (ClassCraft)</p>
-<img style="width: 80%;" src="/images/poa6.png" />
+<img style="width:100%;" src="/images/g4.png" />
 
 <p><strong>HBL EBS Lesson (Using SLS)</strong></p>
-<p style="font-size:15px;">Trigger video for students to arouse students&rsquo; interest on the topic. (SLS)</p>
-<img style="width: 80%;" src="/images/poa7.png" />
+<p style="font-size:15px; line-height:2;margin-top:15px;">Trigger video for students to arouse students&rsquo; interest on the topic. (SLS)</p>
+<img style="width: 100%;" src="/images/g5.png" />
 
 <p style="font-size:15px;">Pictures and questions for further development of the lesson. (SLS)</p>
-<img style="width: 80%;" src="/images/poa8.png" />
+<img style="width: 100%;" src="/images/g6.png" />
 
 <p style="font-size:15px;">Reflection at the end of the lesson. (SLS)</p>
-<img style="width: 80%;" src="/images/poa9.png" />
+<img style="width: 100%;" src="/images/g7.png" />
