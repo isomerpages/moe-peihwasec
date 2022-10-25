@@ -35,37 +35,37 @@ position: relative;z-index: 1;margin: 100px auto;">
       <ul id="navigation" style="list-style: none;padding: 0;margin: 0;display: flex;justify-content: space-between;">
         <li style="padding: 0;margin: 0;margin: 5px 0 20px;">
           <a href="#picture1" style="display: block;">
-            <img alt="small house 1" src="/images/eng5.jpg" style=" display: block;border: none;" />
+            <img alt="" src="/images/eng5.jpg" style=" display: block;border: none;" />
           </a>
         </li>
         <li style="padding: 0;margin: 0;margin: 5px 0 20px;">
           <a href="#picture2"  style="display: block;">
-            <img alt="small house 2" src="/images/eng6.jpg" style="display: block;border: none;" />
+            <img alt="" src="/images/eng6.jpg" style="display: block;border: none;" />
           </a>
         </li>
         <li style="padding: 0;margin: 0;margin: 5px 0 20px;">
           <a href="#picture3" style="display: block;">
-            <img alt="small house 3" src="/images/eng7.jpg" style="display: block;border: none;"/>
+            <img alt="" src="/images/eng7.jpg" style="display: block;border: none;"/>
           </a>
         </li>
         <li style="padding: 0;margin: 0;margin: 5px 0 20px;">
           <a href="#picture4" style="display: block;">
-            <img alt="small house 4" src="/images/eng8.jpg" style="display: block;border: none;" />
+            <img alt="" src="/images/eng8.jpg" style="display: block;border: none;" />
           </a>
         </li>
 		<li style="padding: 0;margin: 0;margin: 5px 0 20px;">
-          <a href="#picture4" style="display: block;">
-            <img alt="small house 4" src="/images/eng9.jpg" style="display: block;border: none;" />
+          <a href="#picture5" style="display: block;">
+            <img alt="" src="/images/eng9.jpg" style="display: block;border: none;" />
           </a>
         </li>
 		  <li style="padding: 0;margin: 0;margin: 5px 0 20px;">
-          <a href="#picture4" style="display: block;">
-            <img alt="small house 4" src="/images/eng10.jpg" style="display: block;border: none;" />
+          <a href="#picture6" style="display: block;">
+            <img alt="" src="/images/eng10.jpg" style="display: block;border: none;" />
           </a>
         </li>
 		  <li style="padding: 0;margin: 0;margin: 5px 0 20px;">
-          <a href="#picture4" style="display: block;">
-            <img alt="small house 4" src="/images/eng11.jpg" style="display: block;border: none;" />
+          <a href="#picture7" style="display: block;">
+            <img alt="" src="/images/eng11.jpg" style="display: block;border: none;" />
           </a>
         </li>
 </ul>
@@ -73,31 +73,31 @@ position: relative;z-index: 1;margin: 100px auto;">
 <div id="full-picture" style="width: 600px;height: 483px;overflow: hidden;float: left;">
         <div>
           <a name="picture1"  style="display: block;"></a>
-          <img alt="Large house 1" src="/images/Kai Jie Storyboard 1.jpg"  style="width:100%;" />
+          <img alt="" src="/images/Kai%20Jie%20Storyboard%201.jpg"  style="width:100%;" />
         </div>
         <div>
           <a name="picture2"  style="display: block;"></a>
-          <img alt="Large house 2" src="/images/Kai Jie Storyboard 2.jpg" style="width:100%;"/>
+          <img alt="" src="/images/Kai%Jie%Storyboard%202.jpg" style="width:100%;"/>
         </div>
         <div>
           <a name="picture3"  style="display: block;"></a>
-          <img alt="Large house 3" src="/images/Kai Jie Storyboard 3.jpg" style="width:100%;"/>
+          <img alt="" src="/images/Kai%20Jie%20Storyboard%203.jpg" style="width:100%;"/>
         </div>
         <div>
           <a name="picture4"  style="display: block;"></a>
-          <img alt="Large house 4" src="/images/Kai Jie Storyboard 4.jpg" style="width:100%;"/>
+          <img alt="" src="/images/Kai%20Jie%20Storyboard%204.jpg"/>
         </div>
 		<div>
-          <a name="picture2"  style="display: block;"></a>
-          <img alt="Large house 2" src="/images/Kai Jie Storyboard 5.jpg" style="width:100%;"/>
+          <a name="picture5"  style="display: block;"></a>
+          <img alt="" src="/images/Kai Jie Storyboard 5.jpg" style="width:100%;"/>
         </div>
         <div>
-          <a name="picture3"  style="display: block;"></a>
-          <img alt="Large house 3" src="/images/Kai Jie Storyboard 6.jpg" style="width:100%;"/>
+          <a name="picture6"  style="display: block;"></a>
+          <img alt="" src="/images/Kai Jie Storyboard 6.jpg" style="width:100%;"/>
         </div>
         <div>
-          <a name="picture4"  style="display: block;"></a>
-          <img alt="Large house 4" src="/images/Kai Jie Storyboard 7.jpg" style="width:100%;"/>
+          <a name="picture7"  style="display: block;"></a>
+          <img alt="" src="/images/Kai Jie Storyboard 7.jpg" style="width:100%;"/>
         </div>
       </div>
  </div>
