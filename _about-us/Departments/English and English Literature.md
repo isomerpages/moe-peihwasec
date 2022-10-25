@@ -11,10 +11,10 @@ third_nav_title: Departments
 
 <h4><strong>Our Programmes</strong></h4>
 <p><strong>Slice of Life</strong></p>
-<p style="font-size:15px;" >![]()r students take to the stage on Friday mornings to share their thoughts and viewpoints on our student outcomes, school values and current affairs. These 'slices' of their lives are savoured by the Pei Hwa Family.</p>
+<p style="font-size:15px;" >Our students take to the stage on Friday mornings to share their thoughts and viewpoints on our student outcomes, school values and current affairs. These 'slices' of their lives are savoured by the Pei Hwa Family.</p>
 <img style="width: 75%;" src="/images/eng1.png" />
 <br>
-<p style="font-size:20px;"><strong>PHeature</strong></p>
+<p><strong>PHeature</strong></p>
 <p  style="font-size:15px;">PHeature is a broadcast programme in PHSS where student leaders take turns to share interesting news with the school to encourage the reading of current affairs.</p>
 <p  style="font-size:15px;">Please <a href="/files/March-PHeature.pdf">click here</a> for our March broadcast.</p>
 <img style="width: 100%;" src="/images/eng2.jpg" /><br>
@@ -40,9 +40,8 @@ third_nav_title: Departments
 </div>  
 </div>
 
-
-
 <br>
+
 <p><strong>Lower Secondary English</strong></p>
 <p style="font-size:15px;">With the new syllabus for English introduced in 2020 for Secondary 1 students, our students were given time to further develop their narrative writing skills and to also demonstrate their creativity by illustrating their work. This is an example of their innovative entries, written by Ang Kai Jie.</p>
 
