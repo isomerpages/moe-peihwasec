@@ -55,16 +55,23 @@ third_nav_title: Departments
 
 <p style="font-size:15px; line-height:2">Using their scientific knowledge and conducting their research, our students had to determine the mass of starting chemicals to use and derive a suitable method to make the required salt crystals. Our students managed to grow seed crystals that are of appropriate size and shape after multiple attempts over a few weeks.</p>
 
-<img style="width: 50%;" src="/images/sci4.png" />
+<img style="width: 70%;" src="/images/seed.png" />
 
 <p style="font-size:15px; line-height:2">The choice of chemicals and method of crystallisation were left to the students to decide. Our students went on to do their research and discussion with the teacher mentor on the possible chemicals and methods to prepare the crystals for this category. Finally, they decided on growing potassium aluminium sulfate (alum). The students encountered many issues such as unable to grow the seed crystals and failure to stain the alum red permanently during the process. With their perseverance and determination, they overcome the challenges and managed to grow their first seed crystals after some weeks. Even though the students did not manage to continue with the crystallization due to Covid-19, our students had learnt a lot during the process. They realized that not every experiment will be successful and in fact, it takes a long time to research, experimenting and continuous trying so as to achieve some positive results.</p>
 
 <p><strong><em>18<sup>th</sup> Elementz Science Project Competition and Exhibition</em></strong></p>
 
 <p style="font-size:15px; line-height:2">A group of students, who were concerned about the unpredictable haze situation in Singapore and the high cost of air filters, investigated how low-cost air filters could be developed to improve the quality of lives of Singaporeans. After conducting research, they developed two low-cost air filters and tested the efficiency of these air filters. These air filters were placed in metal tins and a mosquito coil was lit to mimic a very hazy atmosphere. The concentrations of particulate matters (PM10 and PM2.5), Formaldehyde and Total Volatile Organic Compounds (TVOC) were measured every 5 minutes over a 30-minute period, using an indoor air quality detector. The students concluded that the air filter with activated carbon attached to a fan was effective in reducing harmful substances in the surrounding air. The objective of making a significantly cheaper air filter was also achieved. The students presented their findings to the judges and were awarded the Gold Award. Throughout the entire journey, the students nurtured their interest in investigative-type projects in science and developed their communication skills.</p>
-<img style="width: 90%;" src="/images/sci5.png" /><br>
 
-<hr>
+<div class="row" style="box-sizing: border-box;"> 
+		<div class="column" style="box-sizing: border-box;  float: left; width: 50%; padding: 10px;">
+  			<img style="width:90%; margin-top: 12px;" src="/images/Elementz Pic 1.jpeg"/><p style="text-align: center; font-size:13px;margin-top:5px;line-height:1.5">Students awarded the Gold Award at the 18<sup>th</sup> Elementz Science Project Competition</p>
+  		</div>
+  		<div class="column" style="box-sizing: border-box;  float: left;width: 50%;padding: 10px;">
+  			<img style="width:100%; margin-top: 70px;" src="/images/Elementz Pic 2.jpeg"/><p style="text-align: center; font-size:13px;margin-top:5px;line-height:1.5">Student presenting their findings to the public at an exhibition</p>
+		</div>  
+</div>
+
 
 <h4><strong>Our Student Learning</strong></h4>
 <p><strong>HBL LSS Virtual Practical</strong></p>
@@ -73,8 +80,10 @@ third_nav_title: Departments
 <ol>
 <li style="margin-left:20px; font-size:15px;line-height:2;">Student were provided with a picture of a variegated leaf to practice on biological drawing. They were taught to calculate magnification using the formula of widest length of drawing / widest length of specimen.</li>
 	
-<img style="width: 40%;" src="/images/sci6.jpg" />
-<p style="text-align: center; font-size:13px"><em>variegated leaf sample</em></p>
+<img style="width: 40%;" src="/images/leaf.jpg" />
+	
+<p style="text-align: center; font-size:13px;line-height:1.6;margin-top:10px;"><em>variegated leaf sample</em></p>
+	
 <li style="margin-left:20px; font-size:15px;line-height:2"> As students do not get to carry out the experiment. They are provided with a video and an animation to show the steps to test for starch in leaf. The video also included the explanation to why each step is being carried out.</li>
 	</ol>
 <p style="font-size:15px;">The links to the video/animation are as follow:</p>
@@ -82,15 +91,19 @@ third_nav_title: Departments
 <li style="margin-left:20px; font-size:15px;"><a href="https://www.youtube.com/watch?v=VeU7ULL9Usw&amp;t=6s">https://www.youtube.com/watch?v=VeU7ULL9Usw&amp;t=6s</a></li>
 <li style="margin-left:20px; font-size:15px;"><a href="https://www.footprints-science.co.uk/index.php?type=Starch%20in%20leaf%20test">https://www.footprints-science.co.uk/index.php?type=Starch%20in%20leaf%20tes</a></li>
 </ul>
-<img style="width: 80%;" src="/images/sci7.jpg" />
+
+<img style="width: 100%;" src="/images/Sec 1 Bio virtual practical lesson pic.jpg" />
+
 <ol start=3>
 <li style="margin-left: 20px; font-size:15px; line-height:2;"> After understanding the experiment, students were to deduce the result of experiment by drawing the iodine test result of the variegated leaf shown earlier in the assignment. While teachers were not able to conduct face-to-face lessons in the laboratory during HBL, resources online and on SLS platform made the experiential learning possible and students&rsquo; learning is still complete with this virtual practical lesson.</li>
 	</ol>
 	
 <p><strong>HBL Virtual Practical Lesson for Sec 1NT Science</strong></p>
 <p style="font-size:15px;">Students were directed to this website:&nbsp;<a href="https://phet.colorado.edu/en/simulation/circuit-construction-kit-dc">https://phet.colorado.edu/en/simulation/circuit-construction-kit-dc</a>for a virtual practical session, where students can learn to arrange the electrical components in a circuit. These online simulation has allowed students to observe the changes in current and voltage in parallel and series circuits, and in turn strengthen their understanding in the concepts.</p>
+
 <img style="width: 80%;" src="/images/sci8.png" />
-<p style="text-align: center; font-size:13px"><em>screenshot of simulation used during HBL</em></p>
+
+<p style="text-align: center; font-size:13px;line-height:1.6;margin-top:10px;"><em>Screenshot of simulation used during HBL</em></p>
 
 <p><strong>HBL for Sec 3NT Science</strong></p>
 <p style="font-size:15px;">Besides the usual powerpoint slides and SLS lessons, students were asked to do some hands-on activities and a research for the topic of Electrical Safety:</p>
