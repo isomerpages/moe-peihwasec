@@ -6,15 +6,15 @@ third_nav_title: Departments
 ---
 <h4><strong>Our Goals</strong></h4>
 <p><strong>Principles of Accounts (POA)</strong></p>
-<p style="font-size:15px; line-height:2;margin-top:15px;">The study of POA helps students understand how businesses measure and communicate their performance, and make use of both accounting and non-accounting information related to their businesses to make decisions. They will acquire transferrable skills such as organising and analysing information for decision-making, and apply these skills in their daily lives. Students will also understand the importance of values such as integrity and objectivity when communicating and making decisions.</p>
+<p style="font-size:15px; line-height:2;margin:-15px 0 13px 0px;">The study of POA helps students understand how businesses measure and communicate their performance, and make use of both accounting and non-accounting information related to their businesses to make decisions. They will acquire transferrable skills such as organising and analysing information for decision-making, and apply these skills in their daily lives. Students will also understand the importance of values such as integrity and objectivity when communicating and making decisions.</p>
 
 <p><strong>Elements of Business Skills (EBS)</strong></p>
-<p  style="font-size:15px; line-height:2;margin-top:15px;">Through the study of EBS, students will develop decision-making skills and an enterprising mindset as they conduct research and evaluate information to make reasoned recommendations for businesses to make improvements. As students gain knowledge and exposure to trends and innovations in the Singapore business landscape, they also become more aware of the opportunities and challenges they may face in the future.</p>
+<p style="font-size:15px; line-height:2;margin:-15px 0 13px 0px;">Through the study of EBS, students will develop decision-making skills and an enterprising mindset as they conduct research and evaluate information to make reasoned recommendations for businesses to make improvements. As students gain knowledge and exposure to trends and innovations in the Singapore business landscape, they also become more aware of the opportunities and challenges they may face in the future.</p>
 
 
 <h4><strong>Our Programmes</strong></h4>
 <p><strong>Project Moolah by SMU</strong></p>
-<p style="font-size:15px; line-height:2;margin-top:15px;">Collaboration with Singapore Management University (SMU) business students to inculcate Financial Literacy and reinforce understanding of accounting concepts and practices.</p>
+<p style="font-size:15px; line-height:2;margin:-15px 0 13px 0px;">Collaboration with Singapore Management University (SMU) business students to inculcate Financial Literacy and reinforce understanding of accounting concepts and practices.</p>
 
 <div class="row" style="box-sizing: border-box;"> 
 		<div class="column" style="box-sizing: border-box;  float: left; width: 50%;">
@@ -26,7 +26,7 @@ third_nav_title: Departments
   	</div>
 
 <p><strong>EBS Learning Journey</strong></p>
-<p style="font-size:15px; line-height:2;margin-top:15px;">Field trips to heritage attractions, places of interest and tourist attractions to let students explore and learn beyond classroom environment.</p>
+<p style="font-size:15px; line-height:2;margin:-15px 0 13px 0px;">Field trips to heritage attractions, places of interest and tourist attractions to let students explore and learn beyond classroom environment.</p>
 
 <img style="width: 100%;" src="/images/Picture5.png" />
 
