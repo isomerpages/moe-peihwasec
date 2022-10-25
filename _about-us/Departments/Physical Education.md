@@ -62,11 +62,11 @@ third_nav_title: Departments
 
 <div class="row" style="box-sizing: border-box;"> 
 		<div class="column" style="box-sizing: border-box;  float: left; width: 50%; padding: 5;">
-  			<img src="/images/PELesson1.jpg" style="width:100%; margin-top: 12px;">
-			<img src="/images/PELesson2.jpg" style="width:100%; margin-top: 12px;">
+  			<img src="/images/PELesson1.jpg" style="width:97%; margin-top: 12px;">
+			<img src="/images/PELesson3.jpg" style="width:97%; margin-top: 12px;">
   		</div>
   		<div class="column" style="box-sizing: border-box;  float: left;width: 50%;padding: 5px;">
-  			<img src="/images/PELesson3.jpg" style="width:100%;  margin-top: 12px;">
-			<img src="/images/PELesson4.jpg" style="width:100%;  margin-top: 12px;">
+  			<img src="/images/PELesson3.jpg" style="width:100%;  margin-top: 6px;">
+			<img src="/images/PELesson5.jpg" style="width:100%;  margin-top: 12px;">
 		</div>  
 </div>
