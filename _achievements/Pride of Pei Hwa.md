@@ -4,36 +4,93 @@ permalink: /news-media/pride-of-pei-hwa/
 description: ""
 ---
 <p><strong>Graduates of Republic Polytechnic 2020</strong></p>
-<p style="font-size:15px;">Congratulations to our&nbsp;former students who has excelled academically at Republic Polytechnic in 2020</p>
-<p style="font-size:15px;">Name&nbsp;&nbsp;&nbsp; :&nbsp;<strong>Kaelyn Lim</strong><br>
-Course&nbsp; : Diploma in Health Management and Promotion<br>
-Awards : Diploma with Merit</p>
+<p style="font-size:15px; line-height:2;margin:-15px 0 13px 0px;">Congratulations to our&nbsp;former students who has excelled academically at Republic Polytechnic in 2020</p>
 
-<hr>
+<table border="1" style="border-collapse: collapse;margin: 25px 0;font-size: 0.9em;font-family: sans-serif;min-width: 400px; box-shadow: 0 0 10px rgba(0, 0, 0, 0.15);">
+	
+<tbody>
+<tr>
+<td style="padding: 12px 15px;font-size:15px;">Name</td>
+<td style="padding: 12px 0px;font-size:15px;">: <strong>Kaelyn Lim</strong></td>
+</tr>
+	
+<tr>
+<td style="padding: 12px 15px;font-size:15px;">Course</td>
+<td style="padding: 12px 0px;font-size:15px;">: Diploma in Health Management and Promotion </td>
+</tr>
+	
+<tr>
+<td style="padding: 12px 15px;font-size:15px;">Awards</td>
+<td style="padding: 12px 0px;font-size:15px;">: Diploma with Merit</td>
+</tr>
+
+</tbody>
+</table>
+
 
 <p><strong>Graduates of Anderson Serangoon Junior College 2020</strong></p>
-<p style="font-size:15px; line-height:2">Congratulations to our&nbsp;former students who has excelled academically at Anderson Serangoon Junior College in 2020</p>
+<p style="font-size:15px; line-height:2;margin:-15px 0 13px 0px;">Congratulations to our&nbsp;former students who has excelled academically at Anderson Serangoon Junior College in 2020</p>
 <img src="/images/pride1.jpg">
 
 <hr>
 
 <p><strong>Singapore Polytechnic Scholarship (Engineering)</strong></p>
-<p style="font-size:15px; line-height:2">Our former student, Gan Ching Heng, was awarded the Singapore Polytechnic Engineering Scholarship this year.</p>
+<p style="font-size:15px; line-height:2;margin:-15px 0 13px 0px;">Our former student, Gan Ching Heng, was awarded the Singapore Polytechnic Engineering Scholarship this year.</p>
 <img style="width: 65%;" src="/images/pride2.jpg" />
 
-<hr>
 
 <p><strong>Graduate of St Andrew&rsquo;s Junior College 2020</strong></p>
-<p style="font-size:15px; line-height:2">Congratulations to our&nbsp;former student who has excelled academically at St Andrew&rsquo;s Junior College in 2020</p>
+<p style="font-size:15px; line-height:2;margin:-15px 0 13px 0px;">Congratulations to our&nbsp;former student who has excelled academically at St Andrew&rsquo;s Junior College in 2020</p>
 <img style="width: 100%;margin-top:10px;" src="/images/pride3.png" >
-<p style="font-size:15px; line-height:2">Name &nbsp;:&nbsp;<strong>Theodore Chow Sheng Kai</strong><br>
-National Examination &nbsp;: A Level<br>
-Achievement &nbsp;: Five Distinctions (88.75 out of 90 Rank Points)
 
-<hr>
+<table border="1" style="border-collapse: collapse;margin: 25px 0;font-size: 0.9em;font-family: sans-serif;min-width: 100px; box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);">
+	
+<tbody>
+<tr style="border-bottom: 1px solid #dddddd;">
+<td style="padding: 12px 15px;font-size:15px;">Name</td>
+<td style="padding: 12px 0px;font-size:15px;">: <strong>Theodore Chow Sheng Kai</strong></td>
+</tr>
+	
+<tr style="border-bottom: 1px solid #dddddd;">
+<td style="padding: 12px 15px;font-size:15px;">National Examination</td>
+<td style="padding: 12px 0px;font-size:15px;">: A Level</td>
+</tr>
+	
+<tr style="border-bottom: 1px solid #dddddd;">
+<td style="padding: 12px 15px;font-size:15px;">Achievement</td>
+<td style="padding: 12px 0px;font-size:15px;">: Five Distinctions (88.75 out of 90 Rank Points)</td>
+</tr>
+
+	
+</tbody>
+</table>
+
+
 
 <p><strong>Ngee Ann Polytechnic Graduation 2020</strong></p>
-<p style="font-size:15px; line-height:2">Congratulations to our&nbsp;former students who have excelled academically at Ngee Ann Polytechnic and graduated in May 2020.</p>
+<p style="font-size:15px; line-height:2;margin:-15px 0 13px 0px;">Congratulations to our&nbsp;former students who have excelled academically at Ngee Ann Polytechnic and graduated in May 2020.</p>
+
+<table border="1" style="border-collapse: collapse;margin: 25px 0;font-size: 0.9em;font-family: sans-serif;min-width: 100px; box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);">
+	
+<tbody>
+<tr style="border-bottom: 1px solid #dddddd;">
+<td style="padding: 12px 15px;font-size:15px;">Name</td>
+<td style="padding: 12px 0px;font-size:15px;">: <strong>Alicia Wee Yu Xuan</strong></td>
+</tr>
+	
+<tr style="border-bottom: 1px solid #dddddd;">
+<td style="padding: 12px 15px;font-size:15px;">Course</td>
+<td style="padding: 12px 0px;font-size:15px;">: Diploma in Child Psychology &amp; Early Education</td>
+</tr>
+	
+<tr style="border-bottom: 1px solid #dddddd;">
+<td style="padding: 12px 15px;font-size:15px;">Awards</td>
+<td style="padding: 12px 0px;font-size:15px;">: NCSS Silver Medal &amp; Prize<br>Diploma with Merit</td>
+</tr>
+
+	
+</tbody>
+</table>
 
 <p style="font-size:15px; line-height:2">Name&nbsp;&nbsp;&nbsp; :&nbsp;<strong>Alicia Wee Yu Xuan</strong><br>
 Course&nbsp; : Diploma in Child Psychology &amp; Early Education<br>
