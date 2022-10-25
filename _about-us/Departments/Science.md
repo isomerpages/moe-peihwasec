@@ -101,7 +101,7 @@ third_nav_title: Departments
 <p><strong>HBL Virtual Practical Lesson for Sec 1NT Science</strong></p>
 <p style="font-size:15px;">Students were directed to this website:&nbsp;<a href="https://phet.colorado.edu/en/simulation/circuit-construction-kit-dc">https://phet.colorado.edu/en/simulation/circuit-construction-kit-dc</a>for a virtual practical session, where students can learn to arrange the electrical components in a circuit. These online simulation has allowed students to observe the changes in current and voltage in parallel and series circuits, and in turn strengthen their understanding in the concepts.</p>
 
-<img style="width: 80%;" src="/images/sci8.png" />
+<img style="width: 100%;" src="/images/sci8.png" />
 
 <p style="text-align: center; font-size:13px;line-height:1.6;margin-top:10px;"><em>Screenshot of simulation used during HBL</em></p>
 
@@ -110,25 +110,30 @@ third_nav_title: Departments
 <ol>
 	<li style="margin-left: 20px; font-size:15px; line-hegiht:2">To capture images of unsafe electrical practices/hazards at home and upload onto online platform to share with their classmates. Students actively looked out for samples at the comfort of their homes. Some samples are shown below. This activity has heightened the awareness of presence of unsafe electrical hazards at home and ways to eradicate such hazards.</li>
 	
-<img style="width: 80%;" src="/images/sci9.png" />
+<img style="width: 100%;" src="/images/elct hazard.png" />
+	
 <li style="margin-left: 20px; font-size:15px; line-height:2;"> As a follow-up exercise, students are to identify the electrical hazards from the source provided to evaluate their understanding.</li>
-<img style="width: 80%;" src="/images/sci10.jpg" />
-<p style="text-align: center; font-size:13px;"><em>Source containing electrical hazards</em></p>
+	
+<img style="width: 100%;" src="/images/Sec 3NT Science electrical hazards source.jpg" />
+<p  style="text-align: center; font-size:13px;margin-top:5px;"><em>Source containing electrical hazards</em></p>
 	
 <li style="margin-left: 20px; font-size:15px;line-height:2;"> To pique the interest and to empower them to explore beyond the textbook, the students conducted a simple research on electric eels to find out:
-<ul>
+<ul style="margin-top:10px;">
 <li style="margin-left: 20px; font-size:15px;">how electric eels generate electricity,</li>
 <li style="margin-left: 20px; font-size:15px;">how the electrical eels do not get electrocuted,</li>
 <li style="margin-left: 20px; font-size:15px;">how to protect oneself when one is faced with an electric eel.</li>
 </ul>
-<img style="width: 80%;" src="/images/sci11.jpg" />
-<p style="text-align: center; font-size:13px"><em>Sample answers</em></p>
+	
+<img style="width: 100%;" src="/images/sci11.jpg" />
+<p style="text-align: center; font-size:13px;margin-top:5px;"><em>Sample answers</em></p>
+	
 <li style="margin-left: 20px; font-size:15px;line-height:2;"> Online videos were also used as a source of learning in addition to the powerpoint slides. After watching the videos, they answer questions to reinforce their learning. Some online resources used were:</li>
 <ul>
+	
 <li style="margin-left: 20px; font-size:15px;"><a href="https://www.youtube.com/watch?v=Gc1wVdbVI0E">https://www.youtube.com/watch?v=Gc1wVdbVI0E</a></li>
 <li style="margin-left: 20px; font-size:15px;"><a href="https://www.youtube.com/watch?v=bF3OyQ3HwfU">https://www.youtube.com/watch?v=bF3OyQ3HwfU</a></li>
 
-<img style="width: 80%;" src="/images/sci12.jpg" /><p style="text-align: center; font-size:15px;"><em>Sample answers</em></p>
+<img style="width: 100%;" src="/images/sci12.jpg" /><p  style="text-align: center; font-size:13px;margin-top:5px;"><em>Sample answers</em></p>
 	</ul>
 <li style="margin-left: 20px; font-size:15px; line-height:2;"> As a closure and consolidation to the lesson, students are to assess their learning via a crossword puzzle. This injected some fun element for students to summarise their learning for the chapter.
 </li>
@@ -138,37 +143,38 @@ third_nav_title: Departments
 <p style="font-size:15px; line-height:2">The Salts chapter can be abstract and very dry and Chemistry students tend to struggle in visualizing, understanding and making sense of the multiple steps in preparing a salt. During HBL, students watch the videos uploaded by teachers to have a deeper understanding of the concepts.</p>
 
 <img style="width: 100%;" src="/images/sci13.jpg" />
-<p style="text-align: center; font-size:13px;"><em>Screenshot of Youtube video filmed as an educational tool for our students</em></p>
+<p  style="text-align: center; font-size:13px;margin-top:5px;"><em>Screenshot of Youtube video filmed as an educational tool for our students</em></p>
 
 <p style="font-size:15px; line-height:2">The videos featured step-by-step explanation and visualization of the various preparation methods. Filmed by our very own chemistry teacher, these videos have value-added to the learning of this chapter even at home. Students can playback the video anytime for self-directed learning and fill up the blanks in the consolidation mind-maps. The students will be more ready for experiential learning in the lab when they are back in school.</p>
 
 <p><strong>HBL Sec 3 Physics Lesson</strong></p>
 <p style="font-size:15px; line-height:2">Technology has allowed teachers to make abstract concepts more concrete for our students so that they understand better. Before full HBL, when learning about Kinematics, students were tasked to investigate the motion of the ball in a few scenarios. They used the Vernier Video Physics applet on iPads to track the trajectory of a ball.</p>
-<img style="width: 80%;" src="/images/sci14.png" />
-<p style="text-align: center; font-size:13px;"><em>Students using the Vernier Video Physics applet on iPads to track the trajectory of a ball</em></p>
+
+<img style="width: 100%;" src="/images/Sec 3 Phy Trajectory pic.png" />
+<p  style="text-align: center; font-size:13px;margin-top:5px;"><em>Students using the Vernier Video Physics applet on iPads to track the trajectory of a ball</em></p>
 
 <p style="font-size:15px; line-height:2">After recording themselves and tracking the trajectory of the ball, students could view the displacement-time and velocity-time graphs of the ball throughout its entire motion. Students better understood how the graphs were drawn and the relationship between the two graphs.</p>
 
-<img style="width: 40%;" src="/images/sci15.png" />
-<p style="text-align: center; font-size:13px;"><em>Graphs showing the trajectory of a ball</em></p>
+<img style="width: 80%;" src="/images/Sec 3 Phy Trajectory Graph pic.png" />
+<p style="text-align: center; font-size:13px;margin-top:5px;"><em>Graphs showing the trajectory of a ball</em></p>
 
 <p style="font-size:15px; line-height:2">During full HBL, to understand the Principle of Conservation of Energy better, energy cubes were used so that students could visualise abstract concepts better. A video was recorded to explain the principle, with the aid of energy cubes.</p>
 
 <img style="width: 100%;" src="/images/sci16.png" />
-<p style="text-align: center; font-size:13px"><em>Screenshot of video to explain Conservation of Energy filmed by our Physics teacher</em></p>
+<p style="text-align: center; font-size:13px;margin-top:5px;"><em>Screenshot of video to explain Conservation of Energy filmed by our Physics teacher</em></p>
 
 <p><strong>HBL Sec 4 Biology Lesson on</strong><strong>Transport in Humans (Circulatory System)</strong></p>
 <p style="font-size:15px; line-height:2">Students role play as a team of medical interns in the Emergency Response Unit of Sengkang Hospital. A 66-year-old female was sent to the hospital because while on her way to the supermarket, she experienced chest pains, faintness and then she collapsed.</p>
 
-<ul>
+<ul style="margin-top:10px;">
 	<li style="font-size:16px;">
  <strong>Preliminary Diagnosis</strong></li>
-<p style="font-size:15px; line-height:2">The team is given the patient&rsquo;s details and history, just like how it would be provided for in the hospital.</p>
+<p style="font-size:15px; line-height:2;margin-top:10px;">The team is given the patient&rsquo;s details and history, just like how it would be provided for in the hospital.</p>
 <img style="width: 100%;" src="/images/sci17.png" />
 
 <li style="font-size:16px;"><strong>Medical Report Analysis</strong></p>
 
-<p style="font-size:15px;">Students then are required to</p>
+<p style="font-size:15px;margin-top:10px;">Students then are required to</p>
 <ol>
 	<li style="margin-left: 20px; font-size:15px;line-height:2"> analyse the results of three diagnostic tests: a) MRI scan of the patient's heart, b) angiogram of the patient's coronary arteries, and c) blood smear,</li>
 	<li style="margin-left: 20px; font-size:15px;line-height:2"> determine the cause of your patient's condition based on the evidence provided to you and</p>
