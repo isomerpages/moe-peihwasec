@@ -6,7 +6,7 @@ third_nav_title: Departments
 ---
 <h4><strong>Our Goals</strong></h4>
 
-<p style="font-size:15px;">The Pei Hwa Physical Education Programme aims to develop in each student the ability to:</p>
+<p  style="font-size:15px; line-height:2;margin-top:15px;">The Pei Hwa Physical Education Programme aims to develop in each student the ability to:</p>
 
 <p style="margin:5px 0 5px 20px; font-size:15px;"><strong>Goal 1:&nbsp;</strong>Acquire a range of movement skills to participate in a variety of physical activities</p>
 
@@ -20,7 +20,7 @@ third_nav_title: Departments
 
 <p style="margin:5px 0 5px 20px; font-size:15px;"><strong>Goal 6:</strong>&nbsp;Enjoy and value the benefits of living in a physically active and healthy life.</p>
 
-<img src="/images/pe1.jpg">
+<img src="/images/pe1.jpg" style="width:70%;">
 
 <p><strong>Sports &amp; Games taught:</strong></p>
 
@@ -40,7 +40,7 @@ third_nav_title: Departments
 <li style="margin:5px 0 5px 20px; font-size:15px;">Personal safety in physical activities</li>
 </ol>
 
-<img src="/images/pe2.jpg">
+<img src="/images/pe2.jpg" style="width:70%;">
 
 <p><strong>Outdoor Education topics (From Sec 1 &ndash; 3):</strong></p>
 
@@ -50,14 +50,23 @@ third_nav_title: Departments
 <li style="margin:5px 0 5px 20px; font-size:15px;">Developing a sense of place</li>
 </ol>
 
-<img src="/images/pe3.jpg">
+<img src="/images/pe3.jpg" style="width:70%;">
 
-<hr>
+
 
 <h4><strong>Our Student Learning</strong></h4>
 
 <p><strong>PE Lessons</strong></p>
 
-<p style="font-size:15px;">In Pei Hwa Secondary school, we strive to design fun and engaging PE lessons to develop students in the physical, cognitive and affective domains. We focus on delivering lessons with clear learning goals and employ differentiated instructions to cater to the different learning needs of our students.</p>
+<p style="font-size:15px; line-height:2;margin-top:15px;">In Pei Hwa Secondary school, we strive to design fun and engaging PE lessons to develop students in the physical, cognitive and affective domains. We focus on delivering lessons with clear learning goals and employ differentiated instructions to cater to the different learning needs of our students.</p>
 
-<img src="/images/pe4.jpg">
+<div class="row" style="box-sizing: border-box;"> 
+		<div class="column" style="box-sizing: border-box;  float: left; width: 50%; padding: 5;">
+  			<img src="/images/PELesson1.jpg" style="width:100%; margin-top: 12px;">
+			<img src="/images/PELesson2.jpg" style="width:100%; margin-top: 12px;">
+  		</div>
+  		<div class="column" style="box-sizing: border-box;  float: left;width: 50%;padding: 5px;">
+  			<img src="/images/PELesson3.jpg" style="width:100%;  margin-top: 12px;">
+			<img src="/images/PELesson4.jpg" style="width:100%;  margin-top: 12px;">
+		</div>  
+</div>
