@@ -31,7 +31,7 @@ third_nav_title: Departments
 <p style="font-size:15px;">With the new syllabus for English introduced in 2020 for Secondary 1 students, our students were given time to further develop their narrative writing skills and to also demonstrate their creativity by illustrating their work. This is an example of their innovative entries, written by Ang Kai Jie.</p>
 
 <div id="gallery" style="width: 600px;overflow: hidden;
-position: relative;z-index: 1;margin: 100px auto;">
+position: relative;z-index: 1;margin: 50px auto;">
       <ul id="navigation" style="list-style: none;padding: 0;margin: 0;display: flex;justify-content: space-between;">
         <li style="padding: 0;margin: 0;margin: 5px 0 20px;">
           <a href="#picture1" style="display: block;">
@@ -70,7 +70,7 @@ position: relative;z-index: 1;margin: 100px auto;">
         </li>
 </ul>
       
-<div id="full-picture" style="width: 600px;height: 483px;overflow: hidden;float: left;">
+<div id="full-picture" style="width: 600px;height: 450px;overflow: hidden;float: left;">
         <div>
           <a name="picture1"  style="display: block;"></a>
           <img alt="" src="/images/Kai%20Jie%20Storyboard%201.jpg"  style="width:100%;" />
