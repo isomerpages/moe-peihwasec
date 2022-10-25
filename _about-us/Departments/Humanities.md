@@ -28,11 +28,11 @@ third_nav_title: Departments
 <img style="width: 100%;" src="/images/human5.png" />
 
 <p><strong>NUS Geography Challenge 2020</strong></p> 
-<p  style="font-size:15px; line-height:2;margin-top:15px;">Our budding Geographers crafted an infographic in their part to contribute sustainable living habits in fashion.</p>
+<p style="font-size:15px; line-height:2;margin:-15px 0 13px 0px;">Our budding Geographers crafted an infographic in their part to contribute sustainable living habits in fashion.</p>
 <p  style="font-size:15px; line-height:2;margin-top:15px;">Having garnered the most likes for their Infographic, the team was awarded the Honoraray Award in the Creative Component. Individually, Chaw Qi Xuan of 4E1 was awarded the Bronze Award and Lim Zi An, Theodore of 4E3 was awarded the Silver Award.</p>
 
 <p><strong>Home-based Learning (HBL) History Lesson</strong></p>
-<p style="font-size:15px; line-height:2;margin-top:15px;">The advances of technology has provided us with so many interesting learning platforms! With full HBL, our History teachers leveraged the learning opportunity and used Google earth to teach how the opening of Suez Canal led to mass migration in the 19th century.</p>
+<p style="font-size:15px; line-height:2;margin:-15px 0 13px 0px;">The advances of technology has provided us with so many interesting learning platforms! With full HBL, our History teachers leveraged the learning opportunity and used Google earth to teach how the opening of Suez Canal led to mass migration in the 19th century.</p>
 
 <img style="width: 100%;" src="/images/human6.jpg" /><br>
 <img style="width: 100%;" src="/images/human7.jpg" />
