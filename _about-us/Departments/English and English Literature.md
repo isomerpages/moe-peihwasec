@@ -27,25 +27,25 @@ third_nav_title: Departments
 <p><strong>Upper Secondary English Literature</strong></p>
 <p style="font-size:15px;">During HBL, the Literature teachers leveraged the circuit breaker opportunity to get students to watch the play streaming for free online together. They also used props to make the drama lessons come alive and made real world connections with images found online, such as this image connecting the hand washing practice during this time of the Covid Virus to the play, Macbeth, to make the text more memorable for students!</p>
 
+
 <div class="row" style="box-sizing: border-box;"> 
-<div class="column" style="box-sizing: border-box;  float: left; width: 50%; padding: 10px;">
-<img src="/images//images/Macbeth%20journal.jpg" style="width:50%; margin-top:![](/images/Macbeth.jpg) 12px;">
-			<img src="/images/Picture8.png" style="width:50%; margin-top: 12px;">
-
-</div>
-<div class="column" style="box-sizing: border-box;  float: left;width: 50%;padding: 10px;">
-  			<img src="/images/Picture9.png" style="width:50%;  margin-top: 12px;">
-
+		<div class="column" style="box-sizing: border-box;  float: left; width: 50%; padding: 10px;">
+  			<img src="/images/Macbeth%20journal.jpg" style="width:50%; margin-top: 12px;">
+			<img src="/images/Sec%204%20Lit%20Screening.jpg" style="width:50%; margin-top: 12px;">
+  		</div>
+  		<div class="column" style="box-sizing: border-box;  float: left;width: 50%;padding: 10px;">
+  			<img src="/images/Macbeth2.jpg" style="width:50%;  margin-top: 12px;">
 </div>  
 </div>
 
 
-<img style="width: 100%;" src="/images/eng4.png" /><br>
+
+<br>
 <p><strong>Lower Secondary English</strong></p>
 <p style="font-size:15px;">With the new syllabus for English introduced in 2020 for Secondary 1 students, our students were given time to further develop their narrative writing skills and to also demonstrate their creativity by illustrating their work. This is an example of their innovative entries, written by Ang Kai Jie.</p>
 
 <div id="gallery" style="width: 600px;overflow: hidden;
-position: relative;z-index: 1;">
+position: relative;z-index: 1;margin: 10px auto;">
       <ul id="navigation" style="list-style: none;padding: 0;margin: 0;display: flex;justify-content: space-between;">
         <li style="padding: 0;margin: 0;">
           <a href="#picture1" style="display: block;">
@@ -72,12 +72,12 @@ position: relative;z-index: 1;">
             <img alt="" src="/images/eng9.jpg" style="display: block;border: none;" />
           </a>
         </li>
-		  <li style="padding: 0;margin: 0;">
+		  <li style="padding: 0;margin: 0;margin: 5px 0 20px;">
           <a href="#picture6" style="display: block;">
             <img alt="" src="/images/eng10.jpg" style="display: block;border: none;" />
           </a>
         </li>
-		  <li style="padding: 0;margin: 0;">
+		  <li style="padding: 0;margin: 0;margin: 5px 0 20px;">
           <a href="#picture7" style="display: block;">
             <img alt="" src="/images/eng11.jpg" style="display: block;border: none;" />
           </a>
