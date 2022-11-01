@@ -20,6 +20,7 @@ description: ""
 		</td>
 		<td style="text-align:center; border: 1px solid #dddfe1;">Mr Mohd Azhar B Terimo</td>
 		<td style="text-align:center; border: 1px solid #dddfe1;"></td>
+			<td style="text-align:center; border: 1px solid #dddfe1;">-</td>
 </tr>
 	
 <tr>
@@ -28,6 +29,7 @@ description: ""
 </td>
 <td style="text-align:center; border: 1px solid #dddfe1;">Mr Tan Cher Hui Philip</td>
 	<td style="text-align:center; border: 1px solid #dddfe1;"></td>
+	<td style="text-align:center; border: 1px solid #dddfe1;">-</td>
 </tr>
 	
 <tr>
@@ -36,6 +38,7 @@ description: ""
 </td>
 <td style="text-align:center; border: 1px solid #dddfe1;">Mrs Michelle Willman</td>
 	<td style="text-align:center; border: 1px solid #dddfe1;"></td>
+	<td style="text-align:center; border: 1px solid #dddfe1;">-</td>
 </tr>
 	
 <tr>
@@ -211,6 +214,7 @@ lee_wei_ying@moe.edu.sg
 <td style="text-align:center; border: 1px solid #dddfe1;"><strong>Administration Manager</strong></td>
 <td style="text-align:center; border: 1px solid #dddfe1;">Ms Chan Xin Wei</td>
 <td style="text-align:center; border: 1px solid #dddfe1;"></td>
+	<td style="text-align:center; border: 1px solid #dddfe1;">-</td>
 </tr>
 	
 <tr>
