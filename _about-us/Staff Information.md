@@ -455,8 +455,8 @@ jovitta_christopher_pereira@moe.edu.sg
 <strong>Resilience 7</strong>
 </td>
 <td style="text-align:center; border: 1px solid #dddfe1;">
-	Mdm Halimah Binte Mohamed Harris</strong><br>
-Miss Koh Tin Suen Jewel</strong>
+	Mdm Halimah Binte Mohamed Harris<br>
+Miss Koh Tin Suen Jewel
 </td>
 <td style="text-align:center; border: 1px solid #dddfe1;">
 halimah_mohamed_harris@moe.edu.sg<br>
