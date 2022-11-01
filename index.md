@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Peihwa Open House Banner 2022 (1)_11zon.jpg
+      background: /images/updated Peihwa Open House Banner 2022.jpg
       key_highlights:
         - title: Home-Based Learning
           description: Home-Based Learning Page
