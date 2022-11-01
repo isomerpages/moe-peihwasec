@@ -253,10 +253,7 @@ lee_wei_ying@moe.edu.sg
 coleen_kwok_siew_yun@moe.edu.sg<br>
 li_hong_jin@moe.edu.sg
 			</td>
-
-</tr>
-
-	
+</tr>	
 <tr>
 <td style="text-align:center; border: 1px solid #dddfe1;"><strong>Passion 2</strong>
 </td>
