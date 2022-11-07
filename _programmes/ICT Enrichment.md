@@ -3,11 +3,11 @@ title: ICT Enrichment
 permalink: /programmes/ict-enrichment/
 description: ""
 ---
-<h4>Secondary 1 &ndash; 2</h4>
+<h4><strong>Secondary 1 &ndash; 2</strong></h4>
 
-<p style="font-size:16px; line-height:2;"><strong>Learning Objectives<br /></strong>Pupils will:</p>
+<p style="font-size:15px; line-height:2;margin-top:-5px;"><strong>Learning Objectives<br /></strong>Pupils will:</p>
 
-<ol style="margin-top:-10px">
+<ol style="margin-top:-5px">
 <li style="font-size:15px; line-height:2;">Gather and record information independently</li>
 <li style="font-size:15px; line-height:2;">Examine, organise and use information and digital resources</li>
 <li style="font-size:15px; line-height:2;">Present and communicate information and ideas</li>
@@ -16,7 +16,7 @@ description: ""
 
 <p style="font-size:16px; line-height:2;"><strong>ICT Focus<br /></strong>Pupils will:</p>
 
-<ol style="margin-top:-10px;">
+<ol style="margin-top:-5px;">
 <li style="font-size:15px; line-height:2;">Work in an interactive media environment</li>
 <li style="font-size:15px; line-height:2;">Refine searches and collaborate using the internet</li>
 <li style="font-size:15px; line-height:2;">Organise text using word processor</li>
@@ -25,11 +25,11 @@ description: ""
 <li style="font-size:15px; line-height:2;">Export and process data using ICT tools</li>
 </ol>
 
-<h4>Secondary 3 &ndash; 5 / Pre-University</h4>
+<h4><strong>Secondary 3 &ndash; 5 / Pre-University</strong></h4>
 
 <p style="font-size:16px; line-height:2;"><strong>Learning Objectives<br /></strong>Pupils will:</p>
 
-<ol style="margin-top:-10px;">
+<ol style="margin-top:-5px;">
 <li style="font-size:15px; line-height:2;">Revise information-gathering strategies to retrieve and organise information from various sources</li>
 <li style="font-size:15px; line-height:2;">Evaluate information in terms of credibility and relevance for a specific purpose</li>
 <li style="font-size:15px; line-height:2;">Present and communicate information and ideas clearly</li>
