@@ -8,13 +8,13 @@ third_nav_title: Distinctive Programmes
 
 <p style="font-size:16px; line-height:2;"><strong>Goals</strong></p>
 
-<p style="font-size:15px; line-height:2;">Pei Hwa Secondary school aims &ldquo;To Develop Innovative and Compassionate Citizens&rdquo; manifested through the student outcomes of A Leader, A Scholar and An Altruist.</p>
+<p style="font-size:15px; line-height:2;margin-top:15px;">Pei Hwa Secondary school aims &ldquo;To Develop Innovative and Compassionate Citizens&rdquo; manifested through the student outcomes of A Leader, A Scholar and An Altruist.</p>
 
-<p style="font-size:15px; line-height:2;">In particular, the LLP-CYL programmes contribute to the student outcomes of A Leader and An Altruist.</p>
+<p style="font-size:15px; line-height:2;margin-top:15px;">In particular, the LLP-CYL programmes contribute to the student outcomes of A Leader and An Altruist.</p>
 
-<p style="font-size:15px; line-height:2;">The LLP-CYL would contribute to the holistic development of the students in the following areas:</p>
+<p style="font-size:15px; line-height:2;margin-top:15px;">The LLP-CYL would contribute to the holistic development of the students in the following areas:</p>
 
-<ol>
+<ol style="margin-top:-5px;">
 <li style="font-size:15px; line-height:2;">Inculcate values: PRIDE values, gratitude, care, respect and harmony;</li>
 <li style="font-size:15px; line-height:2;">Develop empathy, and care for others and the environment;</li>
 <li style="font-size:15px; line-height:2;">Increase self-awareness of their ability to help others;</li>
