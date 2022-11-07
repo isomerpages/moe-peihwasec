@@ -27,7 +27,7 @@ description: ""
 <p style="font-size:15px; line-height:2;margin:-15px 0 13px 0px;">Congratulations to our&nbsp;former student who has excelled academically at St Andrew&rsquo;s Junior College in 2020</p>
 <img style="width: 100%;margin-top:10px;" src="/images/pride3.png" >
 
-<table border="1" style="border-collapse: collapse;margin: 15px 0;font-size: 0.9em;font-family: sans-serif;min-width: 50px; box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);width:70%;">
+<table border="1" style="border-collapse: none;margin: 15px 0;font-size: 0.9em;font-family: sans-serif;min-width: 50px; box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);width:70%;">
 	
 <tbody>
 <tr>
@@ -35,12 +35,12 @@ description: ""
 <td style="font-size:15px;">: <strong>Theodore Chow Sheng Kai</strong></td>
 </tr>
 	
-<tr style="border-bottom: 1px solid #dddddd;">
+<tr>
 <td style="font-size:15px;">National Examination</td>
 <td style="font-size:15px;">: A Level</td>
 </tr>
 	
-<tr style="border-bottom: 1px solid #dddddd;">
+<tr>
 <td style="font-size:15px;">Achievement</td>
 <td style="font-size:15px;">: Five Distinctions (88.75 out of 90 Rank Points)</td>
 </tr>
