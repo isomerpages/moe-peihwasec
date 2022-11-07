@@ -6,14 +6,14 @@ third_nav_title: Clubs & Societies
 ---
 <p style="font-size:15px; line-height:2;"><strong>Infocomm Club </strong>provides the opportunity for our members to develop technical skills about animation and video editing. With these skills, students will collaborate together and produce animation/videos for school events and competitions. We seek to help our members to communicate and exchange ideas in a cohesive environment.</p>
 
-<p style="font-size:15px; line-height:2;">Students who have interest in the setup of performances for events are given the opportunity to join as AVA members under Infocomm Club. They will be developed to be independent decision maker as well as communication skills when they collaborate with teachers and their peers.</p>
+<p style="font-size:15px; line-height:2;margin-top:15px;">Students who have interest in the setup of performances for events are given the opportunity to join as AVA members under Infocomm Club. They will be developed to be independent decision maker as well as communication skills when they collaborate with teachers and their peers.</p>
 
 <img src="/images/info1.png" style="width: 100%;margin-top:10px;">
 
 
 <h4><strong>Student Outcomes</strong></h4>
 
-<p style="font-size:15px; line-height:2;">The CCA will enable our students to:</p>
+<p style="font-size:15px; line-height:2;margin-top:15px;">The CCA will enable our students to:</p>
 <ul style="margin-top:-5px">
 	<li style="font-size:15px; line-height:2;"> acquire and apply basic animation, photography and video editing knowledge and skills</li>
 	<li style="font-size:15px; line-height:2;"> demonstrate creativity through animation and video production</li>
