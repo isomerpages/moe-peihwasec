@@ -30,17 +30,17 @@ description: ""
 <table border="1" style="border-collapse: collapse;margin: 15px 0;font-size: 0.9em;font-family: sans-serif;min-width: 50px; box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);width:70%;">
 	
 <tbody>
-<tr style="border-bottom: 1px solid #dddddd;">
+<tr>
 <td style="font-size:15px; width:10%;">Name</td>
 <td style="font-size:15px;">: <strong>Theodore Chow Sheng Kai</strong></td>
 </tr>
 	
-<tr style="border-bottom: 1px solid #dddddd;">
+<tr>
 <td style="font-size:15px;">National Examination</td>
 <td style="font-size:15px;">: A Level</td>
 </tr>
 	
-<tr style="border-bottom: 1px solid #dddddd;">
+<tr>
 <td style="font-size:15px;">Achievement</td>
 <td style="font-size:15px;">: Five Distinctions (88.75 out of 90 Rank Points)</td>
 </tr>
