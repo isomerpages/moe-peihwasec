@@ -205,7 +205,6 @@ description: ""
 </tbody>
 </table>
 
-
 <br>
 
 <img style="width: 65%;" src="/images/pride5.jpg" /><table border="1" style="border-collapse: none;margin: 15px 0;font-size: 0.9em;font-family: sans-serif;min-width: 50px; box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);width:70%;">
