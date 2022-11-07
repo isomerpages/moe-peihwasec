@@ -4,54 +4,54 @@ permalink: /programmes/direct-school-admission-dsa/robotics-programming/
 description: ""
 third_nav_title: Direct School Admission
 ---
-<h4>Direct School Admission (DSA)</h4>
+<h4><strong>Direct School Admission (DSA)</strong></h4>
 
-<p style="font-size:15px; line-height:2;">DSA-Sec is an initiative by MOE which was introduced in 2004 to give schools greater flexibility in student admission, so as to recognise more diverse range of student achievements and talents. Under the DSA-Sec Exercise, participating schools may select some students for admission via their own admission criteria.&nbsp;</p>
+<p style="font-size:15px; line-height:2;margin-top:-5px;">DSA-Sec is an initiative by MOE which was introduced in 2004 to give schools greater flexibility in student admission, so as to recognise more diverse range of student achievements and talents. Under the DSA-Sec Exercise, participating schools may select some students for admission via their own admission criteria.&nbsp;</p>
 
-<p style="font-size:15px; line-height:2;">Pei Hwa Secondary School (PHSS) is committed to develop our students as innovative and compassionate citizens. As part of the effort to achieve these desirable outcomes of education, the School launched its Applied Learning Programme (ALP):&nbsp;<strong>Robotics (Programming)</strong>&nbsp;since 2014.</p>
+<p style="font-size:15px; line-height:2;margin-top:-5px;">Pei Hwa Secondary School (PHSS) is committed to develop our students as innovative and compassionate citizens. As part of the effort to achieve these desirable outcomes of education, the School launched its Applied Learning Programme (ALP):&nbsp;<strong>Robotics (Programming)</strong>&nbsp;since 2014.</p>
 
-<p style="font-size:15px; line-height:2;">Hence, in line with its goal of nurturing talents, we are looking for committed students who demonstrate forte and aptitude in&nbsp;<strong>Robotics (Programming)</strong>.</p>
+<p style="font-size:15px; line-height:2;margin-top:-5px;">Hence, in line with its goal of nurturing talents, we are looking for committed students who demonstrate forte and aptitude in&nbsp;<strong>Robotics (Programming)</strong>.</p>
 
-<p style="font-size:15px; line-height:2;">With the nation&rsquo;s effort to improve digital literacy and encourage innovation, there is a shift of our ALP focus towards&nbsp;<strong>Digital Makers&rsquo; Programme</strong>&nbsp;where students are encouraged to tinker and create products to solve real world problems through&nbsp;<strong>STEM</strong>&nbsp;education.&nbsp;</p>
+<p style="font-size:15px; line-height:2;margin-top:-5px;">With the nation&rsquo;s effort to improve digital literacy and encourage innovation, there is a shift of our ALP focus towards&nbsp;<strong>Digital Makers&rsquo; Programme</strong>&nbsp;where students are encouraged to tinker and create products to solve real world problems through&nbsp;<strong>STEM</strong>&nbsp;education.&nbsp;</p>
 
 
-<h4>DSA &ndash; Robotics (Programming)</h4>
+<h4><strong>DSA &ndash; Robotics (Programming)</strong></h4>
 
-<p style="font-size:15px; line-height:2;">PHSS is looking for Primary 6 students who possess special talents in&nbsp;<strong>Robotics (Programming)</strong>&nbsp;and are able to present their ideas with clarity in various medium.&nbsp;</p>
+<p style="font-size:15px; line-height:2;margin-top:-5px;">PHSS is looking for Primary 6 students who possess special talents in&nbsp;<strong>Robotics (Programming)</strong>&nbsp;and are able to present their ideas with clarity in various medium.&nbsp;</p>
 
-<p style="font-size:15px; line-height:2;"><strong>Parents and students are encouraged to choose wisely based on the student&rsquo;s aptitudes and strengths, bearing in mind the school&rsquo;s academic and non-academic requirements, and the programmes available to develop the area of talent.</strong>&nbsp;</p>
+<p style="font-size:15px; line-height:2;margin-top:-5px;"><strong>Parents and students are encouraged to choose wisely based on the student&rsquo;s aptitudes and strengths, bearing in mind the school&rsquo;s academic and non-academic requirements, and the programmes available to develop the area of talent.</strong>&nbsp;</p>
 
-<p style="font-size:15px; line-height:2;"><strong>Students who are successfully admitted to the school via DSA are expected to honour their commitment to the school, and participate in the activities related to the talent they are selected for from Secondary 1 to 4.</strong></p>
+<p style="font-size:15px; line-height:2;margin-top:-5px;"><strong>Students who are successfully admitted to the school via DSA are expected to honour their commitment to the school, and participate in the activities related to the talent they are selected for from Secondary 1 to 4.</strong></p>
 
 <h4>Admission Criteria</h4>
-<p style="font-size:15px; line-height:2;">The admission criteria are shown below.&nbsp;</p>
+<p style="font-size:15px; line-height:2;margin-top:-5px;">The admission criteria are shown below.&nbsp;</p>
 
-<p style="font-size:16px; line-height:2;"><strong>ROBOTICS (PROGRAMMING) CRITERIA</strong>
+<p style="font-size:16px; line-height:2;margin-top:-5px;"><strong>ROBOTICS (PROGRAMMING) CRITERIA</strong>
 
 <strong>Talent/Experience in:&nbsp;</strong></p>
 
-<ul>
-<li aria-level="1" style="font-size:15px; line-height:2;">LEGO NXT Robotics System or LEGO EV3 Robotics System</li>
-<li aria-level="1"style="font-size:15px; line-height:2;">LEGO Programming (Robolab / Mindstorm/ EV3)&nbsp;</li>
-<li aria-level="1"style="font-size:15px; line-height:2;" >CoSpace Programming</li>
-<li aria-level="1" style="font-size:15px; line-height:2;">FTC Robotics System</li>
-<li aria-level="1" style="font-size:15px; line-height:2;">Vex Robotics System&nbsp;</li>
-<li aria-level="1" style="font-size:15px; line-height:2;">Arduino System</li>
-<li aria-level="1" style="font-size:15px; line-height:2;">Micro:bits microcontroller system</li>
-<li aria-level="1" style="font-size:15px; line-height:2;">Scratch Programming</li>
-<li aria-level="1" style="font-size:15px; line-height:2;">C Programming</li>
-<li aria-level="1" style="font-size:15px; line-height:2;">Python Programming</li>
-<li aria-level="1" style="font-size:15px; line-height:2;">Any other programming languages</li>
+<ul style="margin-top:-25px;">
+<li style="font-size:15px;margin-bottom:-5px;line-height:2">LEGO NXT Robotics System or LEGO EV3 Robotics System</li>
+<li style="font-size:15px;margin-bottom:-5px;line-height:2">LEGO Programming (Robolab / Mindstorm/ EV3)&nbsp;</li>
+<li style="font-size:15px;margin-bottom:-5px;line-height:2" >CoSpace Programming</li>
+<li style="font-size:15px;margin-bottom:-5px;line-height:2">FTC Robotics System</li>
+<li style="font-size:15px;margin-bottom:-5px;line-height:2">Vex Robotics System&nbsp;</li>
+<li style="font-size:15px;margin-bottom:-5px;line-height:2">Arduino System</li>
+<li style="font-size:15px;margin-bottom:-5px;line-height:2">Micro:bits microcontroller system</li>
+<li style="font-size:15px;margin-bottom:-5px;line-height:2">Scratch Programming</li>
+<li style="font-size:15px;margin-bottom:-5px;line-height:2">C Programming</li>
+<li style="font-size:15px;margin-bottom:-5px;line-height:2">Python Programming</li>
+<li style="font-size:15px;margin-bottom:-5px;line-height:2">Any other programming languages</li>
 </ul>
 
-<p style="font-size:15px; line-height:2;"><strong>Level of Experience and Exposure:&nbsp;</strong>Participations in CCA, national or/and international robotics competitions, showcasing and projects.</p>
+<p style="font-size:15px; line-height:2;margin-top:15px;"><strong>Level of Experience and Exposure:&nbsp;</strong>Participations in CCA, national or/and international robotics competitions, showcasing and projects.</p>
 
-<p style="font-size:15px; line-height:2;"><strong>Note:&nbsp;</strong>
+<p style="font-size:15px; line-height:2;margin-top:-5px;"><strong>Note:&nbsp;</strong>
 Applicants do not need to possess&nbsp;<strong>ALL</strong>&nbsp;of the above criteria to be considered. Meeting all the criteria does not guarantee the applicant will be shortlisted / given an offer.</p>
 
-<h4>Selection Process and Criteria&nbsp;</h4>
+<h4><strong>Selection Process and Criteria</strong></h4>
 
-<p style="font-size:15px; line-height:2;">The selection process will involve&nbsp;<strong>an interview and a selection test</strong>&nbsp;which requires applicants to attempt&nbsp;<strong>a programming task</strong>.&nbsp;</p>
+<p style="font-size:15px; line-height:2;margin-top:-5px;">The selection process will involve&nbsp;<strong>an interview and a selection test</strong>&nbsp;which requires applicants to attempt&nbsp;<strong>a programming task</strong>.&nbsp;</p>
 
 <table border="1" style="border-collapse: collapse;margin: 25px 0;font-size:15px;font-family: sans-serif;box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);">
 <thead style="background-color: #009879; font-weight: bold; font-size: 16px;">
@@ -85,39 +85,39 @@ Applicants do not need to possess&nbsp;<strong>ALL</strong>&nbsp;of the above cr
 </tbody>
 </table>
 
-<p style="font-size:15px; line-height:2;"><strong>*Method of submission for E-Portfolio will be communicated with applicant schools.</strong></p>
+<p style="font-size:15px; line-height:2;margin-top:-5px;"><strong>*Method of submission for E-Portfolio will be communicated with applicant schools.</strong></p>
 
-<p style="font-size:15px; line-height:2;"><strong>For more information on DSA-Sec, please refer to the MOE website at&nbsp;</strong><a href="https://www.moe.gov.sg/dsa-sec"><strong>https://www.moe.gov.sg/dsa-sec</strong></a></p>
+<p style="font-size:15px; line-height:2;margin-top:-5px;"><strong>For more information on DSA-Sec, please refer to the MOE website at&nbsp;</strong><a href="https://www.moe.gov.sg/dsa-sec"><strong>https://www.moe.gov.sg/dsa-sec</strong></a></p>
 
-<h4>Why Join Pei Hwa Applied Learning Programme: Robotics (Programming)</h4>
+<h4><strong>Why Join Pei Hwa Applied Learning Programme: Robotics (Programming)</strong></h4>
 
-<p style="font-size:15px; line-height:2;">Robotics is not just a CCA in Pei Hwa Secondary School. It is a platform for us to provide holistic development for all Pei Hwaians. We have a structured&nbsp;<strong>Robotics Experiential Education Programme</strong>&nbsp;for all staff and students, such as&nbsp;<strong>Teachers&rsquo; Training Programme, Micro:bits training for Secondary 1 and 2 students&nbsp;</strong>to equip them with Maker and Programming skills.</p>
+<p style="font-size:15px; line-height:2;margin-top:5px;">Robotics is not just a CCA in Pei Hwa Secondary School. It is a platform for us to provide holistic development for all Pei Hwaians. We have a structured&nbsp;<strong>Robotics Experiential Education Programme</strong>&nbsp;for all staff and students, such as&nbsp;<strong>Teachers&rsquo; Training Programme, Micro:bits training for Secondary 1 and 2 students&nbsp;</strong>to equip them with Maker and Programming skills.</p>
 
-<p style="font-size:15px; line-height:2;">With innovation as one of the school&rsquo;s new strategic thrusts, we have explored new ideas to align our programmes to promote innovation in our students. We have embarked in the Digital Makers&rsquo; Programme rolled out by Infocomm Media Development Authority. &nbsp;The Programme aims to grow the maker culture through the introduction of simple-to-use and open-ended technologies that the baseline users will be comfortable using.</p>
+<p style="font-size:15px; line-height:2;margin-top:-5px;">With innovation as one of the school&rsquo;s new strategic thrusts, we have explored new ideas to align our programmes to promote innovation in our students. We have embarked in the Digital Makers&rsquo; Programme rolled out by Infocomm Media Development Authority. &nbsp;The Programme aims to grow the maker culture through the introduction of simple-to-use and open-ended technologies that the baseline users will be comfortable using.</p>
 
-<p style="font-size:15px; line-height:2;">Our Secondary 1 students are exposed to Micro:bits, an entry-level programmable microcontroller, which will be loaned to our students to inspire them to explore the possibilities of digital making. After the training, they would be actively looking at how they can use Micro:bits to make improvement to their lives in the school community.</p>
+<p style="font-size:15px; line-height:2;margin-top:-5px;">Our Secondary 1 students are exposed to Micro:bits, an entry-level programmable microcontroller, which will be loaned to our students to inspire them to explore the possibilities of digital making. After the training, they would be actively looking at how they can use Micro:bits to make improvement to their lives in the school community.</p>
 
-<p style="font-size:15px; line-height:2;">Our Secondary 2 students would deepen their learning of Micro:bits with the introduction of new sensors, which would allow them wider options and to come with more complex solutions. After the training, they would be working on their projects to benefit selected VWOs.</p>
+<p style="font-size:15px; line-height:2;margin-top:-5px;">Our Secondary 2 students would deepen their learning of Micro:bits with the introduction of new sensors, which would allow them wider options and to come with more complex solutions. After the training, they would be working on their projects to benefit selected VWOs.</p>
 
-<p style="font-size:15px; line-height:2;">Beyond the two years of level-wide programmes, students are given many opportunities to solve real world problems through coding and making. We believe coding literacy would be one of the most important skills that we need to equip our students to prepare them for the future world.</p>
+<p style="font-size:15px; line-height:2;margin-top:-5px;">Beyond the two years of level-wide programmes, students are given many opportunities to solve real world problems through coding and making. We believe coding literacy would be one of the most important skills that we need to equip our students to prepare them for the future world.</p>
 
 
-<h4 >Pinnacle Achievements in 2018 and 2019</h4>
+<h4><strong>Pinnacle Achievements in 2018 and 2019</strong></h4>
 
 <img style="width: 65%;" src="/images/dsarobo1.png" />
 <p style="font-size:16px; line-height:2;"><strong>Outstanding Contribution Award</strong></p>
 
-<p style="font-size:15px; line-height:2;">In April 2018, Pei Hwa Secondary School received the&nbsp;<strong>Outstanding Contribution Award</strong>&nbsp;from RoboCup Singapore for actively contributing to the CoSpace community through organising RoboCupJunior CoSpace Pei Hwa Challenge for the past 5 years. The award is not only&nbsp;dedicated to&nbsp;the hardworking&nbsp;ALP Team&nbsp;but also to all colleagues who had worked hard and supported the Robotics Programme.</p>
+<p style="font-size:15px; line-height:2;margin-top:-5px;">In April 2018, Pei Hwa Secondary School received the&nbsp;<strong>Outstanding Contribution Award</strong>&nbsp;from RoboCup Singapore for actively contributing to the CoSpace community through organising RoboCupJunior CoSpace Pei Hwa Challenge for the past 5 years. The award is not only&nbsp;dedicated to&nbsp;the hardworking&nbsp;ALP Team&nbsp;but also to all colleagues who had worked hard and supported the Robotics Programme.</p>
 
 <p style="font-size:16px; line-height:2;"><strong>CCA Achievements 2019</strong></p>
 
-<p style="font-size:15px; line-height:2;">In April, the Robotics Club participated in the Robocup Singapore Open organized by RoboCup Singapore, Robotics &amp; Maker Academy (RMA), Singapore Polytechnic (SP), Singapore Science Centre and supported by Infocomm Media Development Authority of Singapore (IMDA) and National Infocomm Competition. Team Pei Hwa clinched a total of 9 awards from the various categories. The team was also awarded the Best Achievement Award, an award reserved for the best performing school in this event.</p>
+<p style="font-size:15px; line-height:2;margin-top:-5px;">In April, the Robotics Club participated in the Robocup Singapore Open organized by RoboCup Singapore, Robotics &amp; Maker Academy (RMA), Singapore Polytechnic (SP), Singapore Science Centre and supported by Infocomm Media Development Authority of Singapore (IMDA) and National Infocomm Competition. Team Pei Hwa clinched a total of 9 awards from the various categories. The team was also awarded the Best Achievement Award, an award reserved for the best performing school in this event.</p>
 
-<p style="font-size:15px; line-height:2;">The school was invited to represent Singapore in RoboCup Asia Pacific 2019 in Tianjin, China and Moscow, Russia.</p>
+<p style="font-size:15px; line-height:2;margin-top:-5px;">The school was invited to represent Singapore in RoboCup Asia Pacific 2019 in Tianjin, China and Moscow, Russia.</p>
 <img style="width: 65%;" src="/images/dsarobo2.jpg" />
 
 
-<h4>Accolades in Robotics and Programming</h4>
+<h4><strong>Accolades in Robotics and Programming</strong></h4>
 
 <p style="font-size:15px; line-height:2;">We have won many awards in local and overseas competitions for the past years.</p>
 
@@ -135,9 +135,9 @@ Applicants do not need to possess&nbsp;<strong>ALL</strong>&nbsp;of the above cr
 <p style="font-size:13px; line-height:2; text-align:center; margin-top:5px;"><strong>&nbsp;</strong><strong>RCJ CoSpace Rescue Championship Award for Team Category in Japan 2017</strong></p>
 <br>
 
-<p style="font-size:16px; line-height:2;">International Achievements:</p>
+<p style="font-size:16px; line-height:2;margin-top:-5px;">International Achievements:</p>
 
-<ul>
+<ul style="margin-top:-5px;">
 <li style="font-size:15px; line-height:2;">2017 Silver Award, RoboCupJunior CoSpace Rescue Individual Category, Japan</li>
 <li style="font-size:15px; line-height:2;">2013 Championship Award, RoboCupJunior CoSpace Rescue Team Category, Netherlands</li>
 <li style="font-size:15px; line-height:2;">2013 Bronze Award, RoboCupJunior CoSpace Rescue Team Category, Netherlands</li>
@@ -147,7 +147,7 @@ Applicants do not need to possess&nbsp;<strong>ALL</strong>&nbsp;of the above cr
 
 <p style="font-size:16px; line-height:2;">Other Achievements:</p>
 
-<ul>
+<ul style="margin-top:-5px;">
 <li>Singapore National CoSpace and RoboMaker Challenge</li>
 <li style="font-size:15px; line-height:2;">RobocupJunior Singapore Open</li>
 <li style="font-size:15px; line-height:2;">National Junior Robotics Competition (NJRC)</li>
@@ -156,28 +156,28 @@ Applicants do not need to possess&nbsp;<strong>ALL</strong>&nbsp;of the above cr
 <li style="font-size:15px; line-height:2;">Singapore Robo Grand Prix</li>
 </ul>
 
-<p style="font-size:15px; line-height:2;">Please refer to our&nbsp;<a href="/ccas/clubs-societies/robotics/" target="_blank" rel="noopener noreferrer">school website</a>&nbsp;for more information.</p>
+<p style="font-size:15px; line-height:2;margin-top:-5px;">Please refer to our&nbsp;<a href="/ccas/clubs-societies/robotics/" target="_blank" rel="noopener noreferrer">school website</a>&nbsp;for more information.</p>
 
-<h4>Infusion of Coding and Making into&nbsp;New Project Work</h4>
+<h4><strong>Infusion of Coding and Making into&nbsp;New Project Work</strong></h4>
 
-<p style="font-size:15px; line-height:2;">In our effort to develop innovative and compassionate citizens as social innovators, the school came up with a New Project Work. The project work curriculum leverages on the school&rsquo;s innovation cycle (adapted from Design Thinking) to develop empathy in our students as they need to put themselves in the shoes&rsquo; of the end users to understand the problems they faced. Students would use the coding and making skills learnt during ALP sessions to develop a prototype solution to meet the needs of their target audience. The New Project Work integrates our school&rsquo;s distinctive programmes (<a href="/school-distinctive-programme/applied-learning-programme-robotics-and-programming/" target="_blank" rel="noopener noreferrer">Robotics and Programming</a>&nbsp;and&nbsp;<a href="/school-distinctive-programme/learning-for-life-programme-community-youth-leadership-llp-cyl/" target="_blank" rel="noopener noreferrer">Community Youth Leadership</a>&nbsp;) and provides a more holistic and enriching experience for our students.&nbsp;In addition, they learn important 21<sup>st</sup>&nbsp;CC skills and competencies through the project work experience. We believe that such authentic learning experience is crucial in preparing our students for the Volatile, Uncertain, Complex and Ambiguous world that our students would live in.</p>
+<p style="font-size:15px; line-height:2;margin-top:5px;">In our effort to develop innovative and compassionate citizens as social innovators, the school came up with a New Project Work. The project work curriculum leverages on the school&rsquo;s innovation cycle (adapted from Design Thinking) to develop empathy in our students as they need to put themselves in the shoes&rsquo; of the end users to understand the problems they faced. Students would use the coding and making skills learnt during ALP sessions to develop a prototype solution to meet the needs of their target audience. The New Project Work integrates our school&rsquo;s distinctive programmes (<a href="/school-distinctive-programme/applied-learning-programme-robotics-and-programming/" target="_blank" rel="noopener noreferrer">Robotics and Programming</a>&nbsp;and&nbsp;<a href="/school-distinctive-programme/learning-for-life-programme-community-youth-leadership-llp-cyl/" target="_blank" rel="noopener noreferrer">Community Youth Leadership</a>&nbsp;) and provides a more holistic and enriching experience for our students.&nbsp;In addition, they learn important 21<sup>st</sup>&nbsp;CC skills and competencies through the project work experience. We believe that such authentic learning experience is crucial in preparing our students for the Volatile, Uncertain, Complex and Ambiguous world that our students would live in.</p>
 
-<p style="font-size:15px; line-height:2;">The theme for Secondary 1 Project Work is School Improvement. Students work in teams to find out the needs of various stakeholders in the school using PHSS Innovation Cycle and brainstorm how they can make use of Micro:bits to meet their needs.</p>
+<p style="font-size:15px; line-height:2;margin-top:-5px;">The theme for Secondary 1 Project Work is School Improvement. Students work in teams to find out the needs of various stakeholders in the school using PHSS Innovation Cycle and brainstorm how they can make use of Micro:bits to meet their needs.</p>
 
 <img style="width: 85%;" src="/images/dsarobo3.png" />
 <p style="text-align: center;">Students working on their Micro:bit projects</p>
 
-<p style="font-size:15px; line-height:2;">The theme for Secondary 2 Project Work is serving the VWOs in the community. Students work in teams and go beyond the school to find out the needs of the VWOs adopted by the class using PHSS Innovation Cycle and brainstorm how they can make use of Micro:bits to meet their needs.</p>
+<p style="font-size:15px; line-height:2;margin-top:-5px;">The theme for Secondary 2 Project Work is serving the VWOs in the community. Students work in teams and go beyond the school to find out the needs of the VWOs adopted by the class using PHSS Innovation Cycle and brainstorm how they can make use of Micro:bits to meet their needs.</p>
 
 <img style="width: 85%;" src="/images/dsarobo4.png" />
 
 <p style="font-size:16px; line-height:2;"><strong>Opportunity for International Competition</strong></p>
 
-<p style="font-size:15px; line-height:2;">The school stays true to its motto &ldquo;Nurturing Talents&rdquo; by sending students from our Robotic Club (CCA) to overseas competition. This exposure helps to broaden the students&rsquo; horizons and enhances their level of competency in various skills such as robot building and programming, leadership, communication, teamwork, and reinforces values such as resilience and excellence. These students would then share at the CCA level on the building and programming of robots. These students would also play a leadership role through sharing of their experiences to enhance the learning of the others.&nbsp;</p>
+<p style="font-size:15px; line-height:2;margin-top:-5px;">The school stays true to its motto &ldquo;Nurturing Talents&rdquo; by sending students from our Robotic Club (CCA) to overseas competition. This exposure helps to broaden the students&rsquo; horizons and enhances their level of competency in various skills such as robot building and programming, leadership, communication, teamwork, and reinforces values such as resilience and excellence. These students would then share at the CCA level on the building and programming of robots. These students would also play a leadership role through sharing of their experiences to enhance the learning of the others.&nbsp;</p>
 
 <p style="font-size:16px; line-height:2;"><strong>Opportunity for Sharing Projects at Different Platforms</strong></p>
 
-<p style="font-size:15px; line-height:2;">The school also provides students with opportunities to share their wonderful project ideas with the wider community. Our students came up with innovative Micro:bit Projects which were shared during various events such as Stemnovation Week, Openhouse, Singapore Maker Extravaganza, SG:Digital Wonderland and EduTech Asia. In 2018, our students were also invited to share their project ideas with the CEO of Micro:bits Foundation in March. In addition, one of our projects, the Panic Button, was featured in Time Machine, which is an infotainment programme which adopts a light-hearted way to show the roles and benefits of science and technology in this modern society.</p>
+<p style="font-size:15px; line-height:2;margin-top:-5px;">The school also provides students with opportunities to share their wonderful project ideas with the wider community. Our students came up with innovative Micro:bit Projects which were shared during various events such as Stemnovation Week, Openhouse, Singapore Maker Extravaganza, SG:Digital Wonderland and EduTech Asia. In 2018, our students were also invited to share their project ideas with the CEO of Micro:bits Foundation in March. In addition, one of our projects, the Panic Button, was featured in Time Machine, which is an infotainment programme which adopts a light-hearted way to show the roles and benefits of science and technology in this modern society.</p>
 
 <img style="width: 85%;" src="/images/dsarobo5.png" />
 
