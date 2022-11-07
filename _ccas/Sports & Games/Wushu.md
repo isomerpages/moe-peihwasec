@@ -8,7 +8,7 @@ third_nav_title: Sports & Games
 
 <h4><strong>Wushu</strong></h4>
 
-<p style= "font-size:15px; line-height:2;"><strong>Pei Hwa Wushu</strong> focuses on developing students&rsquo; confidence in body expressions through a vigorous attention on the strengthening of body and mind. The practice of contemporary Chinese martial arts combines elements of performance and martial application. Think of it as a blend of performing arts and sports!</p>
+<p style="font-size:15px; line-height:2;margin-top:15px;"><strong>Pei Hwa Wushu</strong> focuses on developing students&rsquo; confidence in body expressions through a vigorous attention on the strengthening of body and mind. The practice of contemporary Chinese martial arts combines elements of performance and martial application. Think of it as a blend of performing arts and sports!</p>
 
 <h4><strong>Student Outcomes</strong></h4>
 
