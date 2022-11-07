@@ -6,10 +6,27 @@ description: ""
 <p><strong>Graduates of Republic Polytechnic 2020</strong></p>
 <p style="font-size:15px; line-height:2;margin:-15px 0 13px 0px;">Congratulations to our&nbsp;former students who has excelled academically at Republic Polytechnic in 2020</p>
 
-<p style="font-size:15px; line-height:2">
-	Name&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:<strong> Kaelyn Lim</strong><br>
-	Course&nbsp;&nbsp;: Diploma in Health Management and Promotion<br>
-	Awards : Diploma with Merit</p>
+<table border="1" style="border-collapse: none;margin: 15px 0;font-size: 0.9em;font-family: sans-serif;min-width: 50px; box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);width:70%;">
+<tbody>
+		
+<tr>
+<td style="font-size:15px; width:10%;">Name</td>
+<td style="font-size:15px;">: <strong>Kaelyn Lim</strong></td>
+</tr>
+	
+<tr>
+<td style="font-size:15px;">Course</td>
+<td style="font-size:15px;">: Diploma in Health Management and Promotion</td>
+</tr>
+	
+<tr>
+<td style="font-size:15px;">Achievement</td>
+<td style="font-size:15px;">: Diploma with Merit</td>
+</tr>
+
+	
+</tbody>
+</table>
 
 
 <p><strong>Graduates of Anderson Serangoon Junior College 2020</strong></p>
