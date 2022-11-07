@@ -10,8 +10,8 @@ third_nav_title: Performing Arts
 <p style="text-align: center; font-size:13px;margin-top:5px;">Pei Hwa Choir</p>
 
 <h4><strong>Student Outcomes</strong></h4>
-<p>The CCA will enable our students to:</p>
-<ul>
+<p style="font-size:15px; line-height:2;margin-top:15px;">The CCA will enable our students to:</p>
+<ul style="margin-top:-5px;">
 <li style="font-size:15px; line-height:2;">Appreciate a wide range of songs from different musical genres and eras</li>
 <li style="font-size:15px; line-height:2;">Learn how to sing confidently with proper choral technique</li>
 <li style="font-size:15px; line-height:2;">Acquire knowledge in music and experience stage performance</li>
@@ -94,7 +94,7 @@ third_nav_title: Performing Arts
 </table>
 
 <h4><strong>Competitions and CCA Activities</strong></h4>
-<p style="font-size:15px; line-height:2;">We have always believed in honing the skills of the Choir through various Choral Exchanges with other schools. This provides valuable opportunities for the Choir to learn and share the love for music with one another.</p>
+<p style="font-size:15px; line-height:2;margin-top:15px;">We have always believed in honing the skills of the Choir through various Choral Exchanges with other schools. This provides valuable opportunities for the Choir to learn and share the love for music with one another.</p>
 
 <img src="/images/choir2.jpg" style="width: 100%;margin-top:10px;">
 <p style="text-align: center; font-size:13px;margin-top:5px;">Choir Exchange With Anglican High And Zhonghua Sec</p>
@@ -102,9 +102,9 @@ third_nav_title: Performing Arts
 <img src="/images/choir3.jpg" style="width: 100%;margin-top:10px;">
 <p style="text-align: center; font-size:13px;margin-top:5px;">Combined Performance With Compassvale Secondary Choi</p>
 
-<p style="font-size:15px; line-height:2;">Since 2007, the&nbsp;Pei Hwa Choir has also participated and performed in many external events, like:</p>
+<p style="font-size:15px; line-height:2;margin-top:15px;">Since 2007, the&nbsp;Pei Hwa Choir has also participated and performed in many external events, like:</p>
 
-<ul>
+<ul style="margin-top:-5px;">
 	<li style="font-size:15px; line-height:2;">Fernvale CC Fundraising Dinner</li>
 	<li style="font-size:15px; line-height:2;">Voices of Singapore Festivals</li>
 	<li style="font-size:15px; line-height:2;">Treble Voices Festival</li>
