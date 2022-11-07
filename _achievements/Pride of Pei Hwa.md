@@ -180,7 +180,6 @@ description: ""
 </tbody>
 </table>
 
-<a href="/files/zhangzhaohui.pdf">
 <img style="width: 65%;" src="/images/pride4.jpg" />
 </a>
 
@@ -208,7 +207,26 @@ description: ""
 <br>
 
 <img style="width: 65%;" src="/images/pride5.jpg" />
-
+<table border="1" style="border-collapse: none;margin: 15px 0;font-size: 0.9em;font-family: sans-serif;min-width: 50px; box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);width:70%;">
+<tbody>
+		
+<tr>
+<td style="font-size:15px; width:10%;">Name</td>
+<td style="font-size:15px;">: <strong>Teh Min Yang</strong></td>
+</tr>
+	
+<tr>
+<td style="font-size:15px;">Course</td>
+<td style="font-size:15px;">: Diploma in Electronics</td>
+</tr>
+	
+<tr>
+<td style="font-size:15px;">Achievement</td>
+<td style="font-size:15px;">: Course Silver Medal<br>&nbsp;&nbsp;Director’s List Award<br>&nbsp;&nbsp;Wizlogix Prize<br>&nbsp;&nbsp;Microchip Technology Singapore Prize<br>&nbsp;&nbsp;IEEE Singapore IA/PEL Joint Chapter Prize</td>
+</tr>
+	
+</tbody>
+</table>
 
 <p><strong>Teaching Scholarship Presentation Ceremony 2019</strong></p>
 <p style="font-size:15px; line-height:2">Our former student, Chua Wei Ting, was awarded the teaching scholarship this year.</p>
