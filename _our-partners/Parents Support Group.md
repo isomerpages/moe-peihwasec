@@ -4,31 +4,31 @@ permalink: /our-partners/parents-support-group/
 description: ""
 ---
 <h4><strong>Our Vision</strong></h4>
-<p style="font-size:15px; line-height:2;">A Vibrant Partner of Pei Hwa</p>
+<p style="font-size:15px; line-height:2;margin-top:15px;">A Vibrant Partner of Pei Hwa</p>
 
 <h4><strong>Our Mission</strong></h4>
-<p style="font-size:15px; line-height:2;">To keep pace with changes in the educational landscape and support the school in implementing its curriculum towards the holistic development of the students.</p>
+<p style="font-size:15px; line-height:2;margin-top:15px;">To keep pace with changes in the educational landscape and support the school in implementing its curriculum towards the holistic development of the students.</p>
 
 <p style="font-size:15px; line-height:2;">The Parent Support Group (PSG) of Pei Hwa Secondary School was formed in early March 2005 with the intent of strengthening school-home collaboration in the development of our students. Since its inception with 21 parents, the PSG has since grown with the increasing enrolment of the school. It plays a key role in bringing about quality education for our students with our dedicated parents working closely with the school and jointly investing our love and care for them.</p>
 
 <h4><strong>Our Programmes and Sign-Up Link</strong></h4>
-<p style="font-size:15px; line-height:2;">Monthly meetings are held to discuss ways to improve school processes and facilities and address parents&rsquo; concerns and issues. These meetings also serve as an important two-way communication channel between the school and parents, allowing parents to understand the school&rsquo;s plans and activities, provide feedback and keep up-to-date with the latest changes to the curriculum, and enable parents to meet and get to know the teachers better. Parents are able to network with other parents, share ideas and monitor their children.</p>
+<p style="font-size:15px; line-height:2;margin-top:15px;">Monthly meetings are held to discuss ways to improve school processes and facilities and address parents&rsquo; concerns and issues. These meetings also serve as an important two-way communication channel between the school and parents, allowing parents to understand the school&rsquo;s plans and activities, provide feedback and keep up-to-date with the latest changes to the curriculum, and enable parents to meet and get to know the teachers better. Parents are able to network with other parents, share ideas and monitor their children.</p>
 
 <p style="font-size:15px; line-height:2;">In addition, parents have been actively involved in the following school activities &ndash; accompanying students on field trips, fund-raising during Community Day, participating at school events such as Sports Day, National Day, Racial Harmony Day, Food Collection Drive, performing on Teachers&rsquo; Day, assisting teachers in lessons and co-curricular activities, and attending parenting workshops.</p>
 
-<h4>Involvement in Sec 1 Orientation Camp</h4>
+<h4><strong>Involvement in Sec 1 Orientation Camp</strong></h4>
 </div>
 <ol>
 <li style="font-size:15px; line-height:2;">PSG members helping out with the Cooking Segment of Sec 1 Orientation Camp</li>
 <li style="font-size:15px; line-height:2;">Parents from all levels and their children contributing to the Secondary 4 VIA,&nbsp;<em>Charity Food Drive.</em></li>
 </ol>
 
-<p style="font-size:15px; line-height:2;">We look forward to working closely with you for your child&rsquo;s educational and developmental needs. Please&nbsp;<a href="https://form.gov.sg/#!/5f9bba9c64cfc100117b204f">click</a>&nbsp;to fill up your interest. Thank you.</p>
+<p style="font-size:15px; line-height:2;margin-top:15px;">We look forward to working closely with you for your child&rsquo;s educational and developmental needs. Please&nbsp;<a href="https://form.gov.sg/#!/5f9bba9c64cfc100117b204f">click</a>&nbsp;to fill up your interest. Thank you.</p>
 
 <h4><strong>Organisation chart of PSG</strong></h3>
-<p style="font-size:15px; line-height:2;"><strong>Advisors:</strong>&nbsp;Mrs Belinda Chan&nbsp;(Principal) / Mr Philip Tan (Vice-Principal) / Mr Daniel Soh (Vice-Principal Admin)</p>
+<p style="font-size:15px; line-height:2;margin-top:15px;"><strong>Advisors:</strong>&nbsp;Mrs Belinda Chan&nbsp;(Principal) / Mr Philip Tan (Vice-Principal) / Mr Daniel Soh (Vice-Principal Admin)</p>
 
-<p style="font-size:15px; line-height:2;"><strong>School PSG Facilitators:</strong>&nbsp;Mr Tan Chee Keong (HOD Humanities) / Mr Wong Liang Soon (HOD Craft&amp;Tech)</p>
+<p style="font-size:15px; line-height:2;margin-top:15px;"><strong>School PSG Facilitators:</strong>&nbsp;Mr Tan Chee Keong (HOD Humanities) / Mr Wong Liang Soon (HOD Craft&amp;Tech)</p>
 
 <p style="font-size:15px; line-height:2;"><strong>PSG Exco Members:</strong></p>
 
