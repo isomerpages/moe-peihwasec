@@ -6,10 +6,9 @@ third_nav_title: Sports & Games
 ---
 <p style="font-size:15px; line-height:2;"><Strong>Outdoor Activities Club (ODAC)</strong>  exposes our members to various water sports such as kayaking and dragon boating and as well as climbing activities. Students will go through certification courses such as Kayaking One Star, Orienteering, Basic Wall Climbing and Abseiling. During normal CCA sessions, members are taught various outdoor-related skills such as Camp craft, Orienteering and Outdoor Cooking. They will then apply and hone these skills during our annual year end camp. </p>
 
-
 <h4><strong>Student Outcomes</strong></h4>
 
-<p style="font-size:15px; line-height:2;">The CCA will 
+<p style="font-size:15px; line-height:2;margin-top:15px;">The CCA will 
 <ul style="margin-top:-5px">
 <li style="font-size:15px; line-height:2;"> become independent learners who appreciate the outdoors and nature</li>
 	<li style="font-size:15px; line-height:2;"> learn to be adaptable and confident people</li>
