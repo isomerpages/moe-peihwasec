@@ -6,10 +6,10 @@ third_nav_title: Uniformed Groups
 ---
 <h4><strong>National Civil Defence Cadet Corps &ndash; a choice uniformed group of community first responders</strong></h4>
 
-<p style="font-size:15px; line-height:2;">NCDCC cadets always strive to&nbsp;<strong>Learn</strong>&nbsp;the Triangle of Life skills, which include basic firefighting, first aid and CPR+AED so as to be able to&nbsp;<strong>Lead&nbsp;</strong>their peers upon going through one of the three tracks under the Specialisation Model. They will then in turn&nbsp;<strong>Serve</strong>&nbsp;their school or the wider community through public education platforms such as being advocates of Emergency Preparedness. The learning cycle will continue to evolve to a higher plane of achievement such as lending a helping hand as Community First Responders. The <strong>Learn Lead Serve </strong>Motto serves as the guiding principle for all trainings and activities in NCDCC.</p>
+<p style="font-size:15px; line-height:2;margin-top:15px;">NCDCC cadets always strive to&nbsp;<strong>Learn</strong>&nbsp;the Triangle of Life skills, which include basic firefighting, first aid and CPR+AED so as to be able to&nbsp;<strong>Lead&nbsp;</strong>their peers upon going through one of the three tracks under the Specialisation Model. They will then in turn&nbsp;<strong>Serve</strong>&nbsp;their school or the wider community through public education platforms such as being advocates of Emergency Preparedness. The learning cycle will continue to evolve to a higher plane of achievement such as lending a helping hand as Community First Responders. The <strong>Learn Lead Serve </strong>Motto serves as the guiding principle for all trainings and activities in NCDCC.</p>
 
 <h4><strong>Student Outcomes</strong></h4>
-<p style="font-size:15px; line-height:2;">NCDCC seeks to develop and empower our youths to be active and concerned citizens advocating life-saving skills.</p>
+<p style="font-size:15px; line-height:2;margin-top:15px;">NCDCC seeks to develop and empower our youths to be active and concerned citizens advocating life-saving skills.</p>
 <img src="/images/NCDCC-1.png" style="width: 100%;margin-top:10px;">
 
 <h4><strong>Achievements</strong></h4>
@@ -114,11 +114,11 @@ third_nav_title: Uniformed Groups
 </table>
 
 <h4><strong>Competitions and CCA Activities</strong></h4>
-<p style="font-size:15px; line-height:2;">Pei Hwa NCDCC Unit takes part in programs that highlight the knowledge and skills of the cadets. NCDCC core values of Noble, Caring, Disciplined, Courageous and Committed are the guiding principles that form their strong identity and dictate the desired behaviour and action of the cadets. Through these programs, cadets are able to work as a team and display the core values of NCDCC.</p>
+<p style="font-size:15px; line-height:2;margin-top:15px;">Pei Hwa NCDCC Unit takes part in programs that highlight the knowledge and skills of the cadets. NCDCC core values of Noble, Caring, Disciplined, Courageous and Committed are the guiding principles that form their strong identity and dictate the desired behaviour and action of the cadets. Through these programs, cadets are able to work as a team and display the core values of NCDCC.</p>
 
-<p style="font-size:15px; line-height:2;">Volunteer Adult Leaders who are themselves alumni of the school work with Teacher Officers to serve as mentors to senior cadets who plan and execute the training activities for junior cadets.</p>
+<p style="font-size:15px; line-height:2;margin-top:15px;">Volunteer Adult Leaders who are themselves alumni of the school work with Teacher Officers to serve as mentors to senior cadets who plan and execute the training activities for junior cadets.</p>
 
-<p style="font-size:15px; line-height:2;">The following are some programs and training activities in 2022:</p>
+<p style="font-size:15px; line-height:2;margin-top:15px;">The following are some programs and training activities in 2022:</p>
 <ul style="margin-top:-5px;">
 <li style="font-size:15px; line-height:2;">Year One Cadets Affirmation Day</li>
 <li style="font-size:15px; line-height:2;">Annual Unit Day Camp</li>
