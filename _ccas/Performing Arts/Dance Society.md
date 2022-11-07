@@ -12,10 +12,10 @@ third_nav_title: Performing Arts
 </head>
 
 <body>
-<p style="font-size:15px;"><strong>Pei Hwa Dance Society</strong> seeks to provide opportunities for students to explore their dance abilities and artistic expressions. We encourage students to explore various forms of dance through our two dance groups &ndash; Modern Dance and Chinese Dance. We endeavour to cultivate an appreciation for the arts in each of our students. In their journey as Pei Hwa dancers, students will learn the importance of teamwork through performing in an ensemble, resilience and perseverance through their dance practices, and discipline through our dance methodology.</p>
+<p style="font-size:15px; line-height:2;margin-top:15px;"><strong>Pei Hwa Dance Society</strong> seeks to provide opportunities for students to explore their dance abilities and artistic expressions. We encourage students to explore various forms of dance through our two dance groups &ndash; Modern Dance and Chinese Dance. We endeavour to cultivate an appreciation for the arts in each of our students. In their journey as Pei Hwa dancers, students will learn the importance of teamwork through performing in an ensemble, resilience and perseverance through their dance practices, and discipline through our dance methodology.</p>
 
 <h4><strong>Achievements</strong></h4>
-<p style="font-size:15px;">Pei Hwa Dance Society has been a consistent participant at the Singapore Youth Festival Arts Presentation. In our most recent entry, we successfully achieved Certificates of Distinction for the International and Chinese Dance categories.</p>
+<p style="font-size:15px; line-height:2;margin-top:15px;">Pei Hwa Dance Society has been a consistent participant at the Singapore Youth Festival Arts Presentation. In our most recent entry, we successfully achieved Certificates of Distinction for the International and Chinese Dance categories.</p>
 
 <table border="1" style="border-collapse: collapse;margin: 25px 0;font-size:15px;font-family: sans-serif;box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);">
 <thead style="background-color: #009879; font-weight: bold; font-size: 16px;">
@@ -73,7 +73,7 @@ third_nav_title: Performing Arts
 </tbody>
 </table>
 	
-<p style="font-size:15px;">Apart from participating in national dance competitions, Pei Hwa Dance Society also actively performs in school and community events. We believe in providing ample opportunities for students to showcase their dance abilities.</p>
+<p style="font-size:15px; line-height:2;margin-top:15px;">Apart from participating in national dance competitions, Pei Hwa Dance Society also actively performs in school and community events. We believe in providing ample opportunities for students to showcase their dance abilities.</p>
 
 <h4><strong>School and Community Performances (2019-2020)</strong></h4>
 
