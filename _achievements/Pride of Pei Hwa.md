@@ -301,7 +301,6 @@ description: ""
 </tbody>
 </table>
 
-<hr>
 
 <br>
 <img style="width: 50%;" src="/images/pride8.jpg" />
