@@ -10,7 +10,7 @@ description: ""
 <tbody>
 		
 <tr>
-<td style="font-size:15px; width:10%;">Name</td>
+<td style="font-size:15px; width:5%;">Name</td>
 <td style="font-size:15px;">: <strong>Kaelyn Lim</strong></td>
 </tr>
 	
@@ -48,7 +48,7 @@ description: ""
 	
 <tbody>
 <tr>
-<td style="font-size:15px; width:10%;">Name</td>
+<td style="font-size:15px; width:5%;">Name</td>
 <td style="font-size:15px;">: <strong>Theodore Chow Sheng Kai</strong></td>
 </tr>
 	
@@ -66,94 +66,264 @@ description: ""
 </tbody>
 </table>
 
-<p style="font-size:15px; line-height:2">
-	Name&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:<strong> Theodore Chow Sheng Kai</strong><br>
-	National Examination&nbsp;&nbsp;: A Level<br>
-	Achievement : Five Distinctions (88.75 out of 90 Rank Points)</p>
-
 <p><strong>Ngee Ann Polytechnic Graduation 2020</strong></p>
 <p style="font-size:15px; line-height:2;margin:-15px 0 13px 0px;">Congratulations to our&nbsp;former students who have excelled academically at Ngee Ann Polytechnic and graduated in May 2020.</p>
 
+<table border="1" style="border-collapse: none;margin: 15px 0;font-size: 0.9em;font-family: sans-serif;min-width: 50px; box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);width:70%;">
+<tbody>
+		
+<tr>
+<td style="font-size:15px; width:10%;">Name</td>
+<td style="font-size:15px;">: <strong>Alicia Wee Yu Xuan</strong></td>
+</tr>
+	
+<tr>
+<td style="font-size:15px;">Course</td>
+<td style="font-size:15px;">: Diploma in Child Psychology & Early Education</td>
+</tr>
+	
+<tr>
+<td style="font-size:15px;">Achievement</td>
+<td style="font-size:15px;">: NCSS Silver Medal & Prize <br>&nbsp;&nbsp;Diploma with Merit</td>
+</tr>
+	
+</tbody>
+</table>
 
-<p style="font-size:15px; line-height:2">
-	Name&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:<strong> Alicia Wee Yu Xuan</strong><br>
-	Course&nbsp;&nbsp;: Diploma in Child Psychology &amp; Early Education<br>
-	Awards : NCSS Silver Medal &amp; Prize<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Diploma with Merit</p>
 
-<p style="font-size:15px; line-height:2">Name&nbsp;&nbsp;&nbsp; :&nbsp;<strong>Yeap Hui Ming, Crystal</strong><br>
-Course&nbsp; : Diploma in Early Childhood Education<br>
-Award&nbsp; : Diploma with Merit</p>
+<table border="1" style="border-collapse: none;margin: 15px 0;font-size: 0.9em;font-family: sans-serif;min-width: 50px; box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);width:70%;">
+<tbody>
+		
+<tr>
+<td style="font-size:15px; width:10%;">Name</td>
+<td style="font-size:15px;">: <strong>Yeap Hui Ming, Crystal</strong></td>
+</tr>
+	
+<tr>
+<td style="font-size:15px;">Course</td>
+<td style="font-size:15px;">: Diploma in Early Childhood Education</td>
+</tr>
+	
+<tr>
+<td style="font-size:15px;">Achievement</td>
+<td style="font-size:15px;">: Diploma with Merit</td>
+</tr>
+	
+</tbody>
+</table>
 
-<p style="font-size:15px; line-height:2">Name&nbsp;&nbsp;&nbsp; :&nbsp;<strong>Ng Lyn Ni</strong><br>
-Course&nbsp; : Diploma in International Logistics &amp; Supply Chain Management<br>
-Award&nbsp; : Diploma with Merit</p>
+<table border="1" style="border-collapse: none;margin: 15px 0;font-size: 0.9em;font-family: sans-serif;min-width: 50px; box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);width:70%;">
+<tbody>
+		
+<tr>
+<td style="font-size:15px; width:10%;">Name</td>
+<td style="font-size:15px;">: <strong>Ng Lyn Ni</strong></td>
+</tr>
+	
+<tr>
+<td style="font-size:15px;">Course</td>
+<td style="font-size:15px;">: Diploma in International Logistics & Supply Chain Management</td>
+</tr>
+	
+<tr>
+<td style="font-size:15px;">Achievement</td>
+<td style="font-size:15px;">: Diploma with Merit</td>
+</tr>
+	
+</tbody>
+</table>
 
-<hr>
 
 <p><strong>Temasek Polytechnic Graduation 2020</strong></p>
 
 <p style="font-size:15px; line-height:2">Congratulations to our&nbsp;former students who have excelled academically at Temasek Polytechnic and graduated in May 2020.</p>
 
-<p style="font-size:15px; line-height:2">Name&nbsp;&nbsp;&nbsp; :&nbsp;<strong>Ang Xiuqi</strong><br>
-Course&nbsp; : Diploma in Accounting &amp; Finance<br>
-Awards : Deloitte Singapore Course Bronze Medal<br>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;KPMG Prize</p>
+<table border="1" style="border-collapse: none;margin: 15px 0;font-size: 0.9em;font-family: sans-serif;min-width: 50px; box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);width:70%;">
+<tbody>
+		
+<tr>
+<td style="font-size:15px; width:10%;">Name</td>
+<td style="font-size:15px;">: <strong>Ang Xiuqi</strong></td>
+</tr>
+	
+<tr>
+<td style="font-size:15px;">Course</td>
+<td style="font-size:15px;">: Diploma in Accounting & Finance</td>
+</tr>
+	
+<tr>
+<td style="font-size:15px;">Achievement</td>
+<td style="font-size:15px;">: Deloitte Singapore Course Bronze Medal<br>&nbsp;&nbsp;KPMG Prize</td>
+</tr>
+	
+</tbody>
+</table>
 
-<p style="font-size:15px; line-height:2">Name&nbsp;&nbsp;&nbsp; :&nbsp;<strong>Sahra Bte Sulaiman</strong><br>
-Course&nbsp; : Diploma in Business<br>
-Award &nbsp; : Kelly Services Prize</p>
+<table border="1" style="border-collapse: none;margin: 15px 0;font-size: 0.9em;font-family: sans-serif;min-width: 50px; box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);width:70%;">
+<tbody>
+		
+<tr>
+<td style="font-size:15px; width:10%;">Name</td>
+<td style="font-size:15px;">: <strong>Sahra Bte Sulaiman</strong></td>
+</tr>
+	
+<tr>
+<td style="font-size:15px;">Course</td>
+<td style="font-size:15px;">: Diploma in Business</td>
+</tr>
+	
+<tr>
+<td style="font-size:15px;">Achievement</td>
+<td style="font-size:15px;">: Kelly Services Prize</td>
+</tr>
+	
+</tbody>
+</table>
 
 <a href="/files/zhangzhaohui.pdf">
 <img style="width: 65%;" src="/images/pride4.jpg" />
 </a>
-<p style="font-size:15px; line-height:2">Name:&nbsp;<strong>Zhang Zhao Hui</strong><br>
-Course: Diploma in Green Building and Sustainability<br>
-Award: Course Silver Medal<br>
-&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Director&rsquo;s List Award<br>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; CDL Prize</p>
+
+<table border="1" style="border-collapse: none;margin: 15px 0;font-size: 0.9em;font-family: sans-serif;min-width: 50px; box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);width:70%;">
+<tbody>
+		
+<tr>
+<td style="font-size:15px; width:10%;">Name</td>
+<td style="font-size:15px;">: <strong>Zhang Zhao Hui</strong></td>
+</tr>
+	
+<tr>
+<td style="font-size:15px;">Course</td>
+<td style="font-size:15px;">: Diploma in Green Building and Sustainability</td>
+</tr>
+	
+<tr>
+<td style="font-size:15px;">Achievement</td>
+<td style="font-size:15px;">: Course Silver Medal<br>&nbsp;&nbsp;Director’s List Award&nbsp;&nbsp;CDL Prize</td>
+</tr>
+	
+</tbody>
+</table>
+
 
 <br>
 
-<img style="width: 65%;" src="/images/pride5.jpg" /><br>
-&nbsp;Name:&nbsp;<strong>Teh Min Yang</strong><br>
-Course: Diploma in Electronics<br>
-Award: Course Silver Medal,<br>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Director&rsquo;s List Award,<br>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;  &nbsp;  Wizlogix Prize<br>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp;Microchip Technology Singapore Prize<br>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;  &nbsp; &nbsp; &nbsp;  &nbsp;IEEE&nbsp;Singapore IA/PEL Joint Chapter Prize</p>
-
-<hr>
+<img style="width: 65%;" src="/images/pride5.jpg" /><table border="1" style="border-collapse: none;margin: 15px 0;font-size: 0.9em;font-family: sans-serif;min-width: 50px; box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);width:70%;">
+<tbody>
+		
+<tr>
+<td style="font-size:15px; width:10%;">Name</td>
+<td style="font-size:15px;">: <strong>Teh Min Yang</strong></td>
+</tr>
+	
+<tr>
+<td style="font-size:15px;">Course</td>
+<td style="font-size:15px;">: Diploma in Electronics</td>
+</tr>
+	
+<tr>
+<td style="font-size:15px;">Achievement</td>
+<td style="font-size:15px;">: Course Silver Medal<br>&nbsp;&nbsp;Director’s List Award<br>&nbsp;&nbsp;Wizlogix Prize<br>&nbsp;&nbsp;Microchip Technology Singapore Prize<br>&nbsp;&nbsp;IEEE Singapore IA/PEL Joint Chapter Prize</td>
+</tr>
+	
+</tbody>
+</table>
 
 <p><strong>Teaching Scholarship Presentation Ceremony 2019</strong></p>
 <p style="font-size:15px; line-height:2">Our former student, Chua Wei Ting, was awarded the teaching scholarship this year.</p>
 
 <img src="/images/pride6.png">
 
-<p style="font-size:15px; line-height:2">Name :&nbsp;<strong>Chua Wei Ting</strong>
-	<br>Award : Teaching Scholarship</p>
+<table border="1" style="border-collapse: none;margin: 15px 0;font-size: 0.9em;font-family: sans-serif;min-width: 50px; box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);width:70%;">
+<tbody>
+		
+<tr>
+<td style="font-size:15px; width:10%;">Name</td>
+<td style="font-size:15px;">: <strong>Chua Wei Ting</strong></td>
+</tr>
+
+<tr>
+<td style="font-size:15px;">Award</td>
+<td style="font-size:15px;">: Teaching Scholarship</td>
+</tr>
 	
-<hr>
+</tbody>
+</table>
+
+<br>
 
 <img src="/images/pride7.jpg">
 <p style="font-size:15px; line-height:2">Our former students have graduated from Ngee Ann Polytechnic (NP) this year with the following academic achievements:</p>
 
-<p style="font-size:15px; line-height:2">Name :&nbsp;<strong>Leaw Kai Wei, Lashanda</strong><br>
-Course : Diploma in Child Psychology &amp; Early Education<br>
-Award : Diploma with Merit<br>
-Diploma Plus: Certificate in Japanese</p>
+<table border="1" style="border-collapse: none;margin: 15px 0;font-size: 0.9em;font-family: sans-serif;min-width: 50px; box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);width:70%;">
+<tbody>
+		
+<tr>
+<td style="font-size:15px; width:10%;">Name</td>
+<td style="font-size:15px;">: <strong>Leaw Kai Wei, Lashanda</strong></td>
+</tr>
+	
+<tr>
+<td style="font-size:15px;">Course</td>
+<td style="font-size:15px;">: Diploma in Child Psychology & Early Education</td>
+</tr>
+	
+<tr>
+<td style="font-size:15px;">Award</td>
+<td style="font-size:15px;">: Diploma with Merit</td>
+</tr>
+	
+<tr>
+<td style="font-size:15px;">Diploma Plus</td>
+<td style="font-size:15px;">: Certificate in Japanese</td>
+</tr>
+	
+</tbody>
+</table>
 
-<p style="font-size:15px; line-height:2">Name :&nbsp;<strong>Samuel Chin Wei Kiat</strong><br>
-Course : Diploma in Banking &amp; Financial Services<br>
-Awards : Diploma with Merit<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp;IEEE&nbsp;UOB Prize</p>
+<table border="1" style="border-collapse: none;margin: 15px 0;font-size: 0.9em;font-family: sans-serif;min-width: 50px; box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);width:70%;">
+<tbody>
+		
+<tr>
+<td style="font-size:15px; width:10%;">Name</td>
+<td style="font-size:15px;">: <strong>Samuel Chin Wei Kiat</strong></td>
+</tr>
+	
+<tr>
+<td style="font-size:15px;">Course</td>
+<td style="font-size:15px;">: Diploma in Banking & Financial Services</td>
+</tr>
+	
+<tr>
+<td style="font-size:15px;">Achievement</td>
+<td style="font-size:15px;">: Diploma with Merit<br>&nbsp;&nbsp;IEEE UOB Prize</td>
+</tr>
+	
+</tbody>
+</table>
 
 <hr>
 
 <br>
 <img style="width: 50%;" src="/images/pride8.jpg" />
 <p style="font-size:15px; line-height:2">We are proud of the achievements of our former student and believe that she will&nbsp;continue to do Singapore Polytechnic and Pei Hwa Secondary School proud.</p>
-<p style="font-size:15px; line-height:2">Name:&nbsp;<strong>Foo Ji Gi</strong><br>
-Course: DIPLOMA IN ACCOUNTANCY<br>
-Awards : Diploma with Merit<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
-Institute of Singapore Chartered Accountants Gold Medal</p>
+<table border="1" style="border-collapse: none;margin: 15px 0;font-size: 0.9em;font-family: sans-serif;min-width: 50px; box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);width:70%;">
+<tbody>
+		
+<tr>
+<td style="font-size:15px; width:10%;">Name</td>
+<td style="font-size:15px;">: <strong>Foo Ji Gi</strong></td>
+</tr>
+	
+<tr>
+<td style="font-size:15px;">Course</td>
+<td style="font-size:15px;">: Diploma In Accountancy</td>
+</tr>
+	
+<tr>
+<td style="font-size:15px;">Achievement</td>
+<td style="font-size:15px;">: Diploma with Merit<br>&nbsp;&nbsp;Institute of Singapore Chartered Accountants Gold Medal</td>
+</tr>
+	
+</tbody>
+</table>
