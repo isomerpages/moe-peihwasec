@@ -35,12 +35,12 @@ description: ""
 <td style="font-size:15px;">: <strong>Theodore Chow Sheng Kai</strong></td>
 </tr>
 	
-<tr>
+<tr style="border-bottom: 1px solid #dddddd;">
 <td style="font-size:15px;">National Examination</td>
 <td style="font-size:15px;">: A Level</td>
 </tr>
 	
-<tr>
+<tr style="border-bottom: 1px solid #dddddd;">
 <td style="font-size:15px;">Achievement</td>
 <td style="font-size:15px;">: Five Distinctions (88.75 out of 90 Rank Points)</td>
 </tr>
