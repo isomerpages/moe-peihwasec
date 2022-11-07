@@ -4,19 +4,19 @@ permalink: /programmes/direct-school-admission-dsa/guzheng/
 description: ""
 third_nav_title: Direct School Admission
 ---
-<p style="font-size:15px; line-height:2;">Pei Hwa Secondary School is looking for Primary 6 students with a passion and talent in playing the Guzheng. Students should meet the admission criteria stated in the following section before applying. Shortlisted applicants who meet the admission criteria will be required to attend an e-interview and e-audition session (through video conferencing) by our panel of teachers and instructor.</p>
+<p style="font-size:15px; line-height:2;margin-top:-5px;">Pei Hwa Secondary School is looking for Primary 6 students with a passion and talent in playing the Guzheng. Students should meet the admission criteria stated in the following section before applying. Shortlisted applicants who meet the admission criteria will be required to attend an e-interview and e-audition session (through video conferencing) by our panel of teachers and instructor.</p>
 
-<p style="font-size:15px; line-height:2;">Parents and students are encouraged to choose schools wisely based on the student&rsquo;s aptitudes and strengths, bearing in mind the school&rsquo;s academic and non-academic requirements, and the programmes available to develop the area of talent.</p>
+<p style="font-size:15px; line-height:2;margin-top:-5px;">Parents and students are encouraged to choose schools wisely based on the student&rsquo;s aptitudes and strengths, bearing in mind the school&rsquo;s academic and non-academic requirements, and the programmes available to develop the area of talent.</p>
 
-<p style="font-size:15px; line-height:2;">Students who are successfully admitted to the school via DSA are expected to honour their commitment to the school, and participate in the activities related to the talent they are selected for from year 1 to 4.</p>
+<p style="font-size:15px; line-height:2;margin-top:-5px;">Students who are successfully admitted to the school via DSA are expected to honour their commitment to the school, and participate in the activities related to the talent they are selected for from year 1 to 4.</p>
 
 
-<h4>About Pei Hwa Guzheng Ensemble</h4>
+<h4><strong>About Pei Hwa Guzheng Ensemble</strong></h4>
 <p style="font-size:15px; line-height:2;">The Pei Hwa Guzheng Ensemble seeks to provide opportunities to develop students&rsquo; talents and lifelong passion for the arts. Through the meaningful music experiences planned, the Pei Hwa Guzheng Ensemble also endeavours to help students to build character, foster friendships and cultivate a sense of belonging to the school.</p>
 
-<p style="font-size:15px; line-height:2;">Some programmes and activities of the Guzheng ensemble include:</p>
+<p style="font-size:15px; line-height:2;margin-top:-5px;">Some programmes and activities of the Guzheng ensemble include:</p>
 
-<ul>
+<ul style="margin-top:-5px;">
 <li style="font-size:15px; line-height:2;">School performances</li>
 <li style="font-size:15px; line-height:2;">Public performances</li>
 <li style="font-size:15px; line-height:2;">Values-in-action opportunities</li>
@@ -27,15 +27,15 @@ third_nav_title: Direct School Admission
 <li style="font-size:15px; line-height:2;">Learning journeys</li>
 </ul>
 
-<p style="font-size:15px; line-height:2;">For more information on Pei Hwa Guzheng Ensemble and their programme, please visit&nbsp;<a href="/ccas/performing-arts/guzheng/" target="_blank" rel="noopener noreferrer">this page</a>.</p>
+<p style="font-size:15px; line-height:2;margin-top:-5px;">For more information on Pei Hwa Guzheng Ensemble and their programme, please visit&nbsp;<a href="/ccas/performing-arts/guzheng/" target="_blank" rel="noopener noreferrer">this page</a>.</p>
 
 
 <h4><strong>Shortlisting Criteria</strong></h4>
 
-<ul>
+<ul style="margin-top:5px;">
 <li aria-level="1" style="font-size:15px; line-height:2;">DSA applicants should have experience in playing the Guzheng. (Formal Certification is useful, but not compulsory)</li>
 <li aria-level="1" style="font-size:15px; line-height:2;">DSA applicants should preferably have:
-<ul>
+<ul style="margin-top:-5px;">
 <li aria-level="2" style="font-size:15px; line-height:2;">Relevant experiences in performing the Guzheng at school and/or external events&nbsp;<strong>OR</strong></li>
 <li aria-level="2" style="font-size:15px; line-height:2;">Represented their primary school Guzheng Ensemble in external events or competitions (eg. Singapore Youth Festival (SYF) Arts presentation&nbsp;for Guzheng ensemble, Singapore Chinese Music Competition, public concerts, etc)&nbsp;<strong>OR</strong></li>
 <li aria-level="2" style="font-size:15px; line-height:2;">Other achievement(s)/attainment(s) in Guzheng</li>
@@ -43,22 +43,22 @@ third_nav_title: Direct School Admission
 </li>
 </ul>
 
-<p style="font-size:16px; line-height:2;"><strong>Note:</strong></p>
+<p style="font-size:16px; line-height:2;margin-top:-5px;"><strong>Note:</strong></p>
 <p style="font-size:15px; line-height:2; margin-top:-5px;">(1)&nbsp;DSA applicants do not need to possess all of the above criteria to be considered.<br>(2)&nbsp;Meeting all the criteria does not guarantee the DSA applicant will be shortlisted.&nbsp;or given an offer.</p>
 
 <h4><strong>Selection Mode and Criteria</strong></h4>
 
-<ul>
+<ul style="margin-top:-5px;">
 <li aria-level="1" style="font-size:15px; line-height:2;">An individual interview.</li>
 <li aria-level="1" style="font-size:15px; line-height:2;">An individual audition requiring shortlisted DSA applicants to:
-<ol>
+<ol style="margin-top:-5px;"> 
 <li aria-level="2" style="font-size:15px; line-height:2;">Perform two prepared pieces or movements that feature:
-<ul>
+<ul style="margin-top:-5px;margin-bottom:-25px;">
 <li aria-level="2" style="font-size:15px; line-height:2;">Contrasting pieces in terms of tempo&nbsp;</li>
 <li aria-level="2" style="font-size:15px; line-height:2;">The total duration of&nbsp;both&nbsp;pieces or movements should not be longer than 4 minutes.</li>
 </ul>
 </li>
-<li aria-level="2" style="font-size:15px; line-height:2;">Slight-read and play a simple piece in cipher notation&nbsp;(简谱) provided by Pei Hwa Secondary School on the day of audition.</li>
+<li style="font-size:15px; line-height:2;margin-top:-5px;">Slight-read and play a simple piece in cipher notation&nbsp;(简谱) provided by Pei Hwa Secondary School on the day of audition.</li>
 </ol>
 </li>
 </ul>
@@ -102,7 +102,7 @@ third_nav_title: Direct School Admission
 
 
 <h4><strong>Application Procedures for 2022</strong></h4>
-<p style="font-size:15px; line-height:2;">Here are the&nbsp;procedures for DSA-Guzheng application in Pei Hwa Secondary School.</p>
+<p style="font-size:15px; line-height:2;margin-top:-5px;">Here are the&nbsp;procedures for DSA-Guzheng application in Pei Hwa Secondary School.</p>
 
 <table border="1" style="border-collapse: collapse;margin: 25px 0;font-size:15px;font-family: sans-serif;box-shadow: 0 0 20px rgba(0, 0, 0, 0.15); line-height:2;">
 		<thead style="background-color: #009879; font-weight: bold; font-size: 16px;">
@@ -216,19 +216,19 @@ third_nav_title: Direct School Admission
 
 
 <h4><strong>FAQs</strong></h4>
-<p style="font-size:16px; line-height:2;"><strong>1. How many places can Pei Hwa Secondary offer in DSA Exercise?</strong></p>
+<p style="font-size:16px; line-height:2;margin-top:5px;"><strong>1. How many places can Pei Hwa Secondary offer in DSA Exercise?</strong></p>
 <p style="font-size:15px; line-height:2;margin-top:-5px;">All secondary schools can admit up to 20% of their 2022 S1 non-Integrated Programme (non-IP) intake via the DSA-Sec.&nbsp;</p>
 
-<p style="font-size:16px; line-height:2;"><strong>2. Can my child take part in the DSA exercise if he/she is currently not studying in any of the MOE schools?</strong></p>
+<p style="font-size:16px; line-height:2;margin-top:5px;"><strong>2. Can my child take part in the DSA exercise if he/she is currently not studying in any of the MOE schools?</strong></p>
 <p style="font-size:15px; line-height:2;margin-top:-5px;">Applicants not studying in MOE mainstream primary schools will need to apply for a Registration Number (RGxxxxxxx) to access the DSA-Sec Portal. Please refer to MOE website at:&nbsp;<a href="https://go.gov.sg/nmsdsa-sec-application">https://go.gov.sg/nmsdsa-sec-application</a></p>
 
-<p style="font-size:16px; line-height:2;"><strong>3. Will my child be part of the Pei Hwa Guzheng Ensemble if he/she is successful in the DSA application?</strong></p>
+<p style="font-size:16px; line-height:2;margin-top:5px;"><strong>3. Will my child be part of the Pei Hwa Guzheng Ensemble if he/she is successful in the DSA application?</strong></p>
 <p style="font-size:15px; line-height:2;margin-top:-5px;">Your child will be automatically channeled into the Guzheng Ensemble as his/her CCA through the DSA Exercise. Hence, your child will not be involved in the CCA Selection Process during the Sec 1 Orientation week.</p>
 
-<p style="font-size:16px; line-height:2;"><strong>4. Can my child/ward apply for transfer after getting a confirmed place?</strong></p>
+<p style="font-size:16px; line-height:2;margin-top:5px;"><strong>4. Can my child/ward apply for transfer after getting a confirmed place?</strong></p>
 <p style="font-size:15px; line-height:2; margin-top:-5px;">Successful DSA-Sec students are not allowed to transfer to another school after the release of the PSLE results. They are expected to honour the commitment to the posted DSA schools for the duration of the programme they are admitted to. They are not allowed to transfer to another school after the release of the PSLE results.</p>
 
-<p style="font-size:16px; line-height:2;"><strong>5. Can my child/ward apply for a change in CCA?</strong></p>
+<p style="font-size:16px; line-height:2;margin-top:5px;"><strong>5. Can my child/ward apply for a change in CCA?</strong></p>
 <p style="font-size:15px; line-height:2;margin-top:-5px;">Successful DSA-Sec students are expected to honour their commitment to the posted DSA school and to participate in activities related to the talent selected in, for the duration of the programme admitted to.</p>
 
-<p style="font-size:16px; line-height:2;"><strong>More information on DSA can be found on&nbsp;</strong><a href="http://www.moe.gov.sg/dsa-sec"><strong>www.moe.gov.sg/dsa-sec</strong></a></p>
+<p style="font-size:16px; line-height:2;margin-top:5px;"><strong>More information on DSA can be found on&nbsp;</strong><a href="http://www.moe.gov.sg/dsa-sec"><strong>www.moe.gov.sg/dsa-sec</strong></a></p>
