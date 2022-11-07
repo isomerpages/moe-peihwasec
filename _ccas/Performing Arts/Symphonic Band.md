@@ -8,8 +8,8 @@ third_nav_title: Performing Arts
 
 <h4><strong>Student Outcomes</strong></h4>
 
-<p style="font-size:15px; line-height:2">The CCA will enable our students to:</p>
-<ul>
+<p style="font-size:15px; line-height:2;margin-top:15px;">The CCA will enable our students to:</p>
+<ul style="margin-top:-5px;">
 <li style="font-size:15px; line-height:2;">Acquire musical knowledge and proficiency in playing musical instruments</li>
 <li style="font-size:15px; line-height:2;">Be self-directed learners and compassionate leaders as they take on various responsibilities</li>
 <li style="font-size:15px; line-height:2;">Build a sense of commitment, teamwork and moral integrity as they work towards a common goal</li>
@@ -87,14 +87,14 @@ SYF Arts Presentation for Concert Band</strong>
 </table>
 
 <h4><strong>Competitions and CCA Activities</strong></h4>
-<p style="font-size:15px; line-height:2">Band exchange is a yearly programme during the preparation of SYF Arts Presentation. The purpose is to allow band students to deepen their appreciation, experience and exposure for music, and they build friendships through this exchange. It will enable students to enjoy the process of making music with others and coping with performance anxiety as they present their SYF and choice pieces in front of different schools. Schools will encourage one another and exchange gifts at the end of the day.</p>
+<p style="font-size:15px; line-height:2;margin-top:15px;">Band exchange is a yearly programme during the preparation of SYF Arts Presentation. The purpose is to allow band students to deepen their appreciation, experience and exposure for music, and they build friendships through this exchange. It will enable students to enjoy the process of making music with others and coping with performance anxiety as they present their SYF and choice pieces in front of different schools. Schools will encourage one another and exchange gifts at the end of the day.</p>
 
 <img src="/images/sband1.jpg" style="width: 100%;margin-top:10px;">
 <p style="text-align: center; font-size:13px;margin-top:5px;">Band Exchange Programme at Manjusri Secondary School</p>
 
-<p style="font-size:15px; line-height:2">Pei Hwa Symphonic Band students have been given an opportunity to attend and/or perform in the following events:</p>
+<p style="font-size:15px; line-height:2;margin-top:15px;">Pei Hwa Symphonic Band students have been given an opportunity to attend and/or perform in the following events:</p>
 
-<ul>
+<ul style="margin-top:5px;">
 <li style="font-size:15px; line-height:2;">Band Concert (Internal)</li>
 <li style="font-size:15px; line-height:2;">Band Student Conductor Camp</li>
 <li style="font-size:15px; line-height:2;">Drum Major Camp</li>
