@@ -4,8 +4,8 @@ permalink: /programmes/direct-school-admission-dsa/
 description: ""
 third_nav_title: Direct School Admission
 ---
-<h4>What is Direct School Admission?</h4>
-<p style="font-size:15px; line-height:2;">DSA-Sec is an initiative by MOE which was introduced in 2004 to give schools greater flexibility in student admission, so as to recognise more diverse range of student achievements and talents. Under the DSA-Sec Exercise, participating schools may select some students for admission via their own admission criteria.</p>
+<h4><strong>What is Direct School Admission?</strong></h4>
+<p style="font-size:15px; line-height:2;margin-top:-5px;">DSA-Sec is an initiative by MOE which was introduced in 2004 to give schools greater flexibility in student admission, so as to recognise more diverse range of student achievements and talents. Under the DSA-Sec Exercise, participating schools may select some students for admission via their own admission criteria.</p>
 
 <table border="1" style="border-collapse: collapse;margin: 25px 0;font-size:15px;font-family: sans-serif;box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);">
 <tr style="background-color: #009879;">
@@ -29,8 +29,8 @@ Students who are successfully admitted to the school via DSA are expected to hon
 
 </table>
 
-<h4>Related Pages</h4>
-<ol>
+<h4><strong>Related Pages</strong></h4>
+<ol style="margin-top:5px;">
 <li style="font-size:15px; line-height:2;">
 <a href="/programmes/direct-school-admission-dsa/robotics-programming/">DSA &ndash; Robotics (Programming)</a>
 </li>
@@ -39,5 +39,5 @@ Students who are successfully admitted to the school via DSA are expected to hon
 </li>
 </ol>
 
-<h4>FAQs</h4>
-<p style="font-size:15px; line-height:2;"><strong>Please watch this space for updates.</strong></p>
+<h4><strong>FAQs</strong></h4>
+<p style="font-size:15px; line-height:2;margin-top:-5px;"><strong>Please watch this space for updates.</strong></p>
