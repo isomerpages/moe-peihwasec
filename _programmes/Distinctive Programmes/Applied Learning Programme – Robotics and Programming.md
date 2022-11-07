@@ -5,12 +5,12 @@ description: ""
 third_nav_title: Distinctive Programmes
 ---
 <h4><strong>Our Goals</strong></h4>
-<p style="font-size:15px; line-height:2;">Aligned to the school&rsquo;s mission &ldquo;To Develop Innovative and Compassionate Citizens&rdquo;, our Applied Learning Programme (ALP) aims to empower students with the technological and thinking skills that will enable them to be innovative and empathetic members of the community. As the Zonal Lead School for Making, we also strive to benefit our students with maker education and to initiate maker activities beyond our school for students in the North zone.</p>
+<p style="font-size:15px; line-height:2;margin-top:-5px;">Aligned to the school&rsquo;s mission &ldquo;To Develop Innovative and Compassionate Citizens&rdquo;, our Applied Learning Programme (ALP) aims to empower students with the technological and thinking skills that will enable them to be innovative and empathetic members of the community. As the Zonal Lead School for Making, we also strive to benefit our students with maker education and to initiate maker activities beyond our school for students in the North zone.</p>
 
 <h4><strong>Our Programmes</strong></h4>
-<p style="font-size:16px; line-height:2;">Website + Stemnovation + Exposure/Exhibition</p>
+<p style="font-size:15px; line-height:2;margin-top:10px;">Website + Stemnovation + Exposure/Exhibition</p>
 
-<p style="font-size:15px; line-height:2;">Our ALP has been enhanced and synergised with the collaboration with LLP and the various academic subjects to equip our students with future ready skills to succeed in the VUCA (Volatile, Uncertain, Complex and Ambiguous) world.</p>
+<p style="font-size:15px; line-height:2;margin-top:-5px;">Our ALP has been enhanced and synergised with the collaboration with LLP and the various academic subjects to equip our students with future ready skills to succeed in the VUCA (Volatile, Uncertain, Complex and Ambiguous) world.</p>
 
 <table border="1" style="border-collapse: collapse;margin: 25px 0;font-size:15px;font-family: sans-serif;box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);">
 <tr style="font-weight: bold; font-size: 16px;">
@@ -50,13 +50,13 @@ third_nav_title: Distinctive Programmes
 
 </table>
 
-<p style="font-size:15px; line-height:2;">In Pei Hwa, we&nbsp;value the needs and interests of our students. Hence, we have also customized our programmes to stretch the potential of students with higher readiness and higher levels of interest in Robotics and Programming.</p>
+<p style="font-size:15px; line-height:2;margin-top:-5px;">In Pei Hwa, we&nbsp;value the needs and interests of our students. Hence, we have also customized our programmes to stretch the potential of students with higher readiness and higher levels of interest in Robotics and Programming.</p>
 
 <img style="width: 100%;margin-top:10px;"  src="/images/robotic.jpg" />
 
 <p style="font-size:16px; line-height:2;"><strong>Project Work</strong></p>
 
-<p style="font-size:15px; line-height:2;margin-top:5px;">Anchored upon the PHSS Innovation Cycle, Project Work, which is part of the lower secondary curriculum, has integrated the existing signature school programmes (ALP and LLP) to allow students to develop their 21<sup>st</sup>&nbsp;CC skillsets and to facilitate their application of subject-based knowledge in a real world context.</p>
+<p style="font-size:15px; line-height:2;margin-top:-5px;">Anchored upon the PHSS Innovation Cycle, Project Work, which is part of the lower secondary curriculum, has integrated the existing signature school programmes (ALP and LLP) to allow students to develop their 21<sup>st</sup>&nbsp;CC skillsets and to facilitate their application of subject-based knowledge in a real world context.</p>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/xWvCAJkFrNM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
