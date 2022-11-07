@@ -4,12 +4,12 @@ permalink: /ccas/sports-games/taekwondo/
 description: ""
 third_nav_title: Sports & Games
 ---
-<p style="font-size:15px; line-height:2;">The school has been taking part in the Taekwondo Championship since 2007. Over the years, the CCA has groomed and nurtured many talented members in both Kyorugi (sparring) and Poomsae (Pattern) and had garnered numerous medals yearly.</p>
+<p style="font-size:15px; line-height:2;margin-top:15px;">The school has been taking part in the Taekwondo Championship since 2007. Over the years, the CCA has groomed and nurtured many talented members in both Kyorugi (sparring) and Poomsae (Pattern) and had garnered numerous medals yearly.</p>
 
-<p style="font-size:15px; line-height:2;">The Taekwondo programme in Pei Hwa Secondary School (PHSS) focuses on cultivating individual values such as Respect, Resilience and Self-discipline. Our student athletes have done the school proud by winning individual and team events in national competitions. The team also seeks to foster a sense of team spirit within the CCA.</p>
+<p style="font-size:15px; line-height:2;margin-top:15px;">The Taekwondo programme in Pei Hwa Secondary School (PHSS) focuses on cultivating individual values such as Respect, Resilience and Self-discipline. Our student athletes have done the school proud by winning individual and team events in national competitions. The team also seeks to foster a sense of team spirit within the CCA.</p>
 
 <h4><strong>Student Outcomes</strong></h4>
-<p style="font-size:15px; line-height:2;">The CCA will enable our students to:</p>
+<p style="font-size:15px; line-height:2;margin-top:15px;">The CCA will enable our students to:</p>
 <ul style="margin-top:-5px">
 		<li style="font-size:15px; line-height:2;"> cultivate respectful and rational individuals</li>
 		<li style="font-size:15px; line-height:2;"> develop desirable values such as modesty, perseverance and indomitable spirit</li>
