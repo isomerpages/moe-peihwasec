@@ -6,7 +6,7 @@ third_nav_title: Sports & Games
 ---
 <img style="width: 100%;" src="/images/Picture1.jpg" />
 
-<p style="font-size:15px; line-height:2;">The CCA aims to provide opportunities for students to learn and apply the technical and tactical skills and rules of badminton, so as to play the sports at a competitive level and as a recreational activity. Through the trainings, we would like to develop within all our members a healthy body and instill in them the virtues of true sportsmanship, PRIDE (Passion for Learning, Resilience, Integrity, Diligence, Excellence for Self and Others), teamwork and discipline.</p>
+<p style="font-size:15px; line-height:2;margin-top:15px;">The CCA aims to provide opportunities for students to learn and apply the technical and tactical skills and rules of badminton, so as to play the sports at a competitive level and as a recreational activity. Through the trainings, we would like to develop within all our members a healthy body and instill in them the virtues of true sportsmanship, PRIDE (Passion for Learning, Resilience, Integrity, Diligence, Excellence for Self and Others), teamwork and discipline.</p>
 
 <h4><strong>Student Outcomes</strong></h4>
 
@@ -69,7 +69,7 @@ B and C division boys came in 1st runner up in the Interschool Badminton Competi
 
 <h4><strong>North Zone Badminton Competitions</strong></h4>
 
-<p style="font-size:15px; line-height:2;">The team has participated in the Inter-Schools North Zone Badminton Tournaments. The players put up a good performance and exemplified the school values of resilience and diligence throughout the competition. The students have also forged strong friendship and demonstrated good teamwork throughout their trainings and in preparation for their competitions. Through their perseverance and hard work, the B division boys qualified for the quarter-finals. We are proud of their progress and improvements in the games.</p>
+<p style="font-size:15px; line-height:2;margin-top:15px;">The team has participated in the Inter-Schools North Zone Badminton Tournaments. The players put up a good performance and exemplified the school values of resilience and diligence throughout the competition. The students have also forged strong friendship and demonstrated good teamwork throughout their trainings and in preparation for their competitions. Through their perseverance and hard work, the B division boys qualified for the quarter-finals. We are proud of their progress and improvements in the games.</p>
 
 <img style="width: 100%;margin-top:10px;" src="/images/Picture2.jpg"/><p style="text-align: center; font-size:13px;margin-top:-10px;">B Division Boys</p>
 
