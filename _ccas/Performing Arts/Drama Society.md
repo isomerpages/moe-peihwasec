@@ -4,14 +4,14 @@ permalink: /ccas/clubs-societies/drama-society/
 description: ""
 third_nav_title: Performing Arts
 ---
-<p style="font-size:15px;">The <strong>Drama Society</strong> was set up in 2014. Many of our members join Drama with little to no acting or stage presentation experience. Through the passion for the drama craft, many of our budding actors have grown to become confident artists with no fear of performing in public or taking on performing roles that are in contrast to their individual characters. Through their involvement in the many process involved in staging a show, they have grown in maturity and acting skills. We are also able to have a rich variety of experiences through various public performances at SYF, Choral Reading for the lower sec at Literature Festival and attendance at live theatre performances.</p>
+<p style="font-size:15px; line-height:2;margin-top:15px;">The <strong>Drama Society</strong> was set up in 2014. Many of our members join Drama with little to no acting or stage presentation experience. Through the passion for the drama craft, many of our budding actors have grown to become confident artists with no fear of performing in public or taking on performing roles that are in contrast to their individual characters. Through their involvement in the many process involved in staging a show, they have grown in maturity and acting skills. We are also able to have a rich variety of experiences through various public performances at SYF, Choral Reading for the lower sec at Literature Festival and attendance at live theatre performances.</p>
 
 <img src="/images/drama1.jpeg">
 <p style="text-align: center; font-size:13px;margin-top:5px;"><strong>Pei Hwa Drama Society</strong></p>
 
 <h4><strong>Student Outcomes</strong></h4>
-<p style="font-size:15px; line-height:2;">The CCA will enable our students to:</p>
-	<ul>
+<p style="font-size:15px; line-height:2;margin-top:15px;">The CCA will enable our students to:</p>
+	<ul style="margin-top:-5px;">
 		<li style="font-size:15px; line-height:2;"> attain a good level of competency in terms of Drama knowledge and skills so as to participate in competitive Drama Performances.</li>
 		<li style="font-size:15px; line-height:2;"> explain and apply their knowledge and skills pertaining to Drama and Performance.</li>
 		<li style="font-size:15px; line-height:2;"> demonstrate values of discipline, teamwork, innovation and compassion and self-motivation through Drama and performance.</li>
@@ -94,16 +94,16 @@ third_nav_title: Performing Arts
 
 <h4><strong>Competitions and CCA Activities</strong></h4>
 
-<p style="font-size:15px;">We have always believed in honing the skills of our Drama members with interactions with other schools. This provides valuable opportunities for Drama members to learn and share the love for performance with one another.</p>
+<p style="font-size:15px; line-height:2;margin-top:15px;">We have always believed in honing the skills of our Drama members with interactions with other schools. This provides valuable opportunities for Drama members to learn and share the love for performance with one another.</p>
 
 <img src="/images/drama2.png" style="width: 100%;margin-top:10px;">
 <p style="text-align: center; font-size:13px;margin-top:5px;">SYF 2019</p>
 
 <img style="width: 100%;margin-top:10px;" src="/images/drama3.jpg" /><p style="text-align: center; font-size:13px;margin-top:5px;">Our SYF Performance In 2019</p>
 
-<p style="font-size:15px;">Since 2014, the&nbsp;Pei Hwa Dram Society has also participated and performed in many school and external performances like:</p>
+<p style="font-size:15px; line-height:2;margin-top:15px;">Since 2014, the&nbsp;Pei Hwa Dram Society has also participated and performed in many school and external performances like:</p>
 
-<ul>
+<ul style="margin-top:-5px;">
 	<li style="font-size:15px; line-height:2;">National Day celebrations</li>
 	<li style="font-size:15px; line-height:2;">PHiesta</li>
 	<li style="font-size:15px; line-height:2;">Literature Festival</li>
