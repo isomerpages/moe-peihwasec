@@ -13,14 +13,14 @@ description: ""
 
 <p style="font-size:16px;"><strong>&raquo;&nbsp;Daily Lesson Plan</strong></p>
 
-<ul>
+<ul style="margin-top:-5px;">
 	<li style="font-size:15px; line-height:2;margin-top:-10px;">Click&nbsp;<a href="https://drive.google.com/drive/folders/1I6M-CuKeTSnHw3aec7etzVhcoUa6vEIF?usp=sharing">here</a>&nbsp;for the schedule
 	</li>
 </ul>
 
 <p style="font-size:16px; line-height:2;"><strong>&raquo;&nbsp;Instructions to Students</strong></p>
 
-<ul>
+<ul style="margin-top:-5px;">
 	<li style="font-size:15px; line-height:2;margin-top:-10px;"><a href="https://drive.google.com/open?id=1zze4BCpJELyFj3Ym0pwRQEtZmpvV3ob3" target="_blank" rel="noopener noreferrer">Student&rsquo;s Guide on Zoom and Google Meet</a>
 	</li>
 	<li style="font-size:15px; line-height:2;margin-top:-10px;"><a href="/lp_announcement/quick-start/" target="_blank" rel="noopener noreferrer">Quick Start in Using Zoom</a></p>
