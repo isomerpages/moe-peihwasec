@@ -4,7 +4,7 @@ permalink: /ccas/sports-games/football/
 description: ""
 third_nav_title: Sports & Games
 ---
-<p style="font-size:15px; line-height:2;">The <strong>Pei Hwa Football Team</strong> is a group of like-minded students who enjoys playing football. Other than developing football skills and concepts, the CCA also seeks to foster meaningful friendships, cultivate a sense of belonging to the school and develop values such as teamwork, resilience and respect.</p>
+<p style="font-size:15px; line-height:2;margin-top:15px;">The <strong>Pei Hwa Football Team</strong> is a group of like-minded students who enjoys playing football. Other than developing football skills and concepts, the CCA also seeks to foster meaningful friendships, cultivate a sense of belonging to the school and develop values such as teamwork, resilience and respect.</p>
 
 <h4><strong>Student Outcomes</strong></h4>
 <p style="font-size:15px; line-height:2;">The CCA will enable our students to:</p>
@@ -79,7 +79,7 @@ third_nav_title: Sports & Games
 
 <h4><strong>Competitions and CCA Activities</strong></h4>
 
-<p style="font-size:15px; line-height:2;">Since 2017, the Pei Hwa Football Team have been participating in the yearly Northeast Friendship Tournament. The tournament was formed to provide another opportunity for students from schools in the Sengkang and Punggol areas to take part in a competition. Through this friendly competition, the students gained match experience, learned the importance of teamwork and developed friendships with their neighboring rivals.</p>
+<p style="font-size:15px; line-height:2;margin-top:15px;">Since 2017, the Pei Hwa Football Team have been participating in the yearly Northeast Friendship Tournament. The tournament was formed to provide another opportunity for students from schools in the Sengkang and Punggol areas to take part in a competition. Through this friendly competition, the students gained match experience, learned the importance of teamwork and developed friendships with their neighboring rivals.</p>
 
 <img src="/images/football1.jpg" style="align:center;">
 
