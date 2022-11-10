@@ -11,7 +11,7 @@ sections:
       key_highlights:
         - title: Home-Based Learning
           description: Home-Based Learning Page
-          url: /lp_announcement/home-based-learning/
+          url: /lp-announcement/home-based-learning/
         - title: Pride of the Community
           description: We take PRIDE in our values
           url: /programmes/student-leadership/
