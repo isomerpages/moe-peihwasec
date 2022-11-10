@@ -173,7 +173,7 @@ Tay Kai Wen, Bryan (4D1), Lai Le Xin Grace (3I4), Ain Myeisha Arman(3I1), Chang 
 <img align="left" src="/images/ROBOTICS05.jpg" style="width: 23%;margin-right:15px;">
 “Despite the COVID-19 pandemic which has created several disruptions not just in the CCA but throughout the world, I have learnt various skills during CCA that I can apply in my everyday life, in addition to technology. I look forward to the upcoming CCA sessions because I get to learn new programming languages and compete in various competitions.<br><br>
 Robotics nurtures us as future leaders in addition to being equipped with technological skills. I am grateful to have the opportunity to inspire the CCA's members to be leaders and problem-solvers. Leadership and technology have both increased in importance in the twenty-first century. The future of the Robotics Club excites me, and I look forward to the growth of the CCA.”
-  <span style="display:block; color:#333333; margin-top:1em;font-size:15px;"><em>Vice President, NG JUN LIN, COGAN, Int 7</em></span>
+  <span style="display:block; color:#333333; margin-top:1em;font-size:15px;"><em>Vice President, Ng Jun Lin, Cogan, Int 7</em></span>
 </blockquote>
 
 <blockquote style="font-size: 15px;
@@ -188,7 +188,7 @@ Robotics nurtures us as future leaders in addition to being equipped with techno
   position: relative;
   background:#EDEDED;">
 <img align="left" src="/images/ROBOTICS6.jpg" style="width: 23%;margin-right:15px;">“Every week I am eager to attend CCA as the sessions are fun and I get learn new things. The teachers and instructors are very helpful and they leave none of our questions unanswered. Even though we are unable to go for some competitions due to the pandemic, we are able to make the best of what we have and excel in it. The Robotics Club gave me the opportunity to be a leader and I hope that we can continue to strive for excellence in the years to come”
-  <span style="display:block; color:#333333; margin-top:1em;font-size:15px;"><em>Assistant Secretary/Publicity, SHAH YASHVI TEJAS, Int 8</em></span><br>
+  <span style="display:block; color:#333333; margin-top:1em;font-size:15px;"><em>Assistant Secretary/Publicity, Shah Yashvi Tejas, Int 8</em></span><br>
 	</blockquote>
 
 <h4><strong>CCA Details</strong></h4>
