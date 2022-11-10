@@ -3,8 +3,8 @@ title: Pride of Pei Hwa
 permalink: /news-media/pride-of-pei-hwa/
 description: ""
 ---
-<p><strong>Graduates of Republic Polytechnic 2020</strong></p>
-<p style="font-size:15px; line-height:2;margin:-15px 0 13px 0px;">Congratulations to our&nbsp;former students who has excelled academically at Republic Polytechnic in 2020</p>
+<h5><strong>Graduates of Republic Polytechnic 2020</strong></h5>
+<p style="font-size:15px; line-height:2;margin:-5px 0 13px 0px;">Congratulations to our&nbsp;former students who has excelled academically at Republic Polytechnic in 2020</p>
 
 <table border="1" style="border-collapse: none;margin: 15px 0;font-size: 0.9em;font-family: sans-serif;min-width: 50px; box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);width:70%;">
 <tbody>
@@ -29,18 +29,18 @@ description: ""
 </table>
 
 
-<p><strong>Graduates of Anderson Serangoon Junior College 2020</strong></p>
-<p style="font-size:15px; line-height:2;margin:-15px 0 13px 0px;">Congratulations to our&nbsp;former students who has excelled academically at Anderson Serangoon Junior College in 2020</p>
+<h5><strong>Graduates of Anderson Serangoon Junior College 2020</strong></h5>
+<p style="font-size:15px; line-height:2;margin:-5px 0 13px 0px;">Congratulations to our&nbsp;former students who has excelled academically at Anderson Serangoon Junior College in 2020</p>
 <img src="/images/pride1.jpg" style="width:70%">
 
 
-<p><strong>Singapore Polytechnic Scholarship (Engineering)</strong></p>
-<p style="font-size:15px; line-height:2;margin:-15px 0 13px 0px;">Our former student, Gan Ching Heng, was awarded the Singapore Polytechnic Engineering Scholarship this year.</p>
+<h5><strong>Singapore Polytechnic Scholarship (Engineering)</strong></h5>
+<p style="font-size:15px; line-height:2;margin:-5px 0 13px 0px;">Our former student, Gan Ching Heng, was awarded the Singapore Polytechnic Engineering Scholarship this year.</p>
 <img style="width:70%;" src="/images/pride2.jpg"/>
 
 
-<p><strong>Graduate of St Andrew&rsquo;s Junior College 2020</strong></p>
-<p style="font-size:15px; line-height:2;margin:-15px 0 13px 0px;">Congratulations to our&nbsp;former student who has excelled academically at St Andrew&rsquo;s Junior College in 2020</p>
+<h5><strong>Graduate of St Andrew&rsquo;s Junior College 2020</strong></h5>
+<p style="font-size:15px; line-height:2;margin:-5px 0 13px 0px;">Congratulations to our&nbsp;former student who has excelled academically at St Andrew&rsquo;s Junior College in 2020</p>
 <img style="width: 70%;" src="/images/pride3.png" >
 
 <table border="1" style="border-collapse: none;margin: 15px 0;font-size: 0.9em;font-family: sans-serif;min-width: 50px; box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);width:70%;">
@@ -65,8 +65,8 @@ description: ""
 </tbody>
 </table>
 
-<p><strong>Ngee Ann Polytechnic Graduation 2020</strong></p>
-<p style="font-size:15px; line-height:2;margin:-15px 0 13px 0px;">Congratulations to our&nbsp;former students who have excelled academically at Ngee Ann Polytechnic and graduated in May 2020.</p>
+<h5><strong>Ngee Ann Polytechnic Graduation 2020</strong></h5>
+<p style="font-size:15px; line-height:2;margin:-5px 0 13px 0px;">Congratulations to our&nbsp;former students who have excelled academically at Ngee Ann Polytechnic and graduated in May 2020.</p>
 
 <table border="1" style="border-collapse: none;margin: 15px 0;font-size: 0.9em;font-family: sans-serif;min-width: 50px; box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);width:70%;">
 <tbody>
@@ -133,9 +133,9 @@ description: ""
 </table>
 
 
-<p><strong>Temasek Polytechnic Graduation 2020</strong></p>
+<h5><strong>Temasek Polytechnic Graduation 2020</strong></h5>
 
-<p style="font-size:15px; line-height:2">Congratulations to our&nbsp;former students who have excelled academically at Temasek Polytechnic and graduated in May 2020.</p>
+<p style="font-size:15px; line-height:2;margin-top:-5px;">Congratulations to our&nbsp;former students who have excelled academically at Temasek Polytechnic and graduated in May 2020.</p>
 
 <table border="1" style="border-collapse: none;margin: 15px 0;font-size: 0.9em;font-family: sans-serif;min-width: 50px; box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);width:70%;">
 <tbody>
@@ -227,7 +227,7 @@ description: ""
 </tbody>
 </table>
 
-<p><strong>Teaching Scholarship Presentation Ceremony 2019</strong></p>
+<h5><strong>Teaching Scholarship Presentation Ceremony 2019</strong></h5>
 <p style="font-size:15px; line-height:2">Our former student, Chua Wei Ting, was awarded the teaching scholarship this year.</p>
 
 <img src="/images/pride6.png">
