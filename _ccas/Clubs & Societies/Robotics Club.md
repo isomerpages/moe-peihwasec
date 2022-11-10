@@ -32,18 +32,19 @@ third_nav_title: Clubs & Societies
 		<strong>RoboCup Singapore Open</strong>
 		<br>
 		<ul>
-			<li style="font-size:15px;margin-bottom:5px;">OnStage 1<sup>st</sup> Place - TAY KAI WEN, BRYAN (4D1), LAI LE XIN GRACE (3I4), AIN MYEISHA ARMAN (3I1), CHANG GUAN ZHENG (Justin) (2R9), YAN GING GIT (ZHEN JINGJIE) (2R9), CHONG YUN TING FELICIA (1P4)</li>
-            <li style="font-size:15px;margin-bottom:5px;">Cospace Auto-Driving 3<sup>rd</sup> Place - VALLURI NAVANEETH (3I8)</li>
-            <li style="font-size:15px;margin-bottom:5px;">Cospace Auto-Driving 2<sup>nd</sup> Place - TANG KA LOK (3I8)</li>
-			<li style="font-size:15px;margin-bottom:5px;">Cospace Auto-Driving (SuperTeam) 1<sup>st</sup> Place - VALLURI NAVANEETH (3I8), TAY KAI YI (2R4)</li>
-			<li style="font-size:15px;margin-bottom:5px;">Cospace Auto-Driving (Influencer Award) 1<sup>st</sup> Place - SHAH YASHVI TEJAS (3I8)</li>
-            <li style="font-size:15px;margin-bottom:5px;">Cospace Rescue FirstSteps 3<sup>rd</sup> Place - ELKAN SIN YEW KEN (1P8)</li>
-            <li style="font-size:15px;margin-bottom:5px;">Cospace Rescue FirstSteps 2<sup>nd</sup> Place - KIERAN TAN (2R5)</li>
-			<li style="font-size:15px;margin-bottom:5px;">Cospace Rescue FirstSteps 1<sup>st</sup> Place - DEVENDRAN VENKATESH (1P3)</li>
-			<li style="font-size:15px;margin-bottom:5px;">Cospace Rescue FirstSteps (SuperTeam) 1<sup>st</sup> Place - DEVENDRAN VENKATESH (1P3), LUKE MATTHIAS QUEK SHOU EN (2R1), GOH ZHEN JIN (2R5)</li>
-            <li style="font-size:15px;margin-bottom:5px;">Cospace Rescue 3<sup>rd</sup> Place - RITESH SATHIYAMOORTHI (2R8)</li>
-            <li style="font-size:15px;margin-bottom:5px;">Cospace Rescue (SuperTeam) 1<sup>st</sup> Place - NG JUN LIN, COGAN (3I7)</li>
-			<li style="font-size:15px;margin-bottom:5px;">Cospace Rescue (Influencer Award) 1<sup>st</sup> Place - DEVENDRAN VENKATESH (1P3)</li>
+			<li style="font-size:15px;margin-bottom:5px;">OnStage 1<sup>st</sup> Place - 
+Tay Kai Wen, Bryan (4D1), Lai Le Xin Grace (3I4), Ain Myeisha Arman(3I1), Chang Guan Zheng (Justin) (2R9), Yan Ging Git (Zhenn Jingjie) (2R9), Chong Yun Ting Felicia (1P4)</li>
+            <li style="font-size:15px;margin-bottom:5px;">Cospace Auto-Driving 3<sup>rd</sup> Place - Valluri Navaneeth (3I8)</li>
+            <li style="font-size:15px;margin-bottom:5px;">Cospace Auto-Driving 2<sup>nd</sup> Place - Tang Ka Lok (3I8)</li>
+			<li style="font-size:15px;margin-bottom:5px;">Cospace Auto-Driving (SuperTeam) 1<sup>st</sup> Place - Valluri Navaneeth (3I8), Tay Kai Yi (2R4)</li>
+			<li style="font-size:15px;margin-bottom:5px;">Cospace Auto-Driving (Influencer Award) 1<sup>st</sup> Place - Shah Yashvi Tejas (3I8)</li>
+            <li style="font-size:15px;margin-bottom:5px;">Cospace Rescue FirstSteps 3<sup>rd</sup> Place - Elkan Sin Yew Ken (1P8)</li>
+            <li style="font-size:15px;margin-bottom:5px;">Cospace Rescue FirstSteps 2<sup>nd</sup> Place - Kieran Tan (2R5)</li>
+			<li style="font-size:15px;margin-bottom:5px;">Cospace Rescue FirstSteps 1<sup>st</sup> Place - Devendran Venkatesh (1P3)</li>
+			<li style="font-size:15px;margin-bottom:5px;">Cospace Rescue FirstSteps (SuperTeam) 1<sup>st</sup> Place - Devendran Venkatesh (1P3), Luke Matthias Quek Shou En (2R1), Goh Zhen Jin (2R5)</li>
+            <li style="font-size:15px;margin-bottom:5px;">Cospace Rescue 3<sup>rd</sup> Place - Ritesh Sathiyamoorthi (2R8)</li>
+            <li style="font-size:15px;margin-bottom:5px;">Cospace Rescue (SuperTeam) 1<sup>st</sup> Place - Ng Jun Lin, Cogan (3I7)</li>
+			<li style="font-size:15px;margin-bottom:5px;">Cospace Rescue (Influencer Award) 1<sup>st</sup> Place - Devendran Venkatesh (1P3)</li>
 		</ul>
 	</td>
 </tr>
@@ -186,7 +187,7 @@ Robotics nurtures us as future leaders in addition to being equipped with techno
   line-height:1.6;
   position: relative;
   background:#EDEDED;">
-<img align="left" src="/images/ROBOTICS6.jpg" style="width: 23%;margin-right:15px;">“Every week I am eager to attend CCA as the sessions are fun and I get learn new things. The teachers and instructors are very helpful and they leave none of our questions unanswered. Even though we are unable to go for some competitions due to the pandemic, we are able to make the best of what we have and excel in it. The Robotics Club gave me the opportunity to be a leader and I hope that we can continue to strive for excellence in the years to come”
+<img align="left" src="/images/ROBOTICS6.jpg" style="width: 23%;margin-right:15px;margin-bottom:15px;">“Every week I am eager to attend CCA as the sessions are fun and I get learn new things. The teachers and instructors are very helpful and they leave none of our questions unanswered. Even though we are unable to go for some competitions due to the pandemic, we are able to make the best of what we have and excel in it. The Robotics Club gave me the opportunity to be a leader and I hope that we can continue to strive for excellence in the years to come”
   <span style="display:block; color:#333333; margin-top:1em;font-size:15px;"><em>Assistant Secretary/Publicity, SHAH YASHVI TEJAS, Int 8</em></span>
 	</blockquote>
 
