@@ -5,66 +5,88 @@ description: ""
 ---
 <img src="/images/sa1.jpg">
 <p><strong>AWS DeepRacer League Competition</strong></p>
-<p style="font-size:15px; line-height:2;">Congratulations to our five students from Resilience 5 who&nbsp;have participated in the AWS DeepRacer League Competition during the June Holidays.</p>
-<p style="font-size:15px; line-height:2;">Name:
-         &nbsp;Cecilia Zhuang Xili <br>
-     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;Lee Yu Xian Xanth<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Belinda Wong Min hui<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Nigel Yap<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Isabelle Kwa<br>
-Award: &nbsp;2nd Prize</p>
+<p style="font-size:15px; line-height:2; margin-top:-15px;">Congratulations to our five students from Resilience 5 who&nbsp;have participated in the AWS DeepRacer League Competition during the June Holidays.</p>
 
-<hr>
+<table border="1" style="border-collapse: none;margin: 15px 0;font-size: 0.9em;font-family: sans-serif;min-width: 50px; box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);width:70%;">
+<tbody>
+
+<tr>
+<td style="font-size:15px; width:5%;">Name:</td>
+<td style="font-size:15px;">Cecilia Zhuang Xili<br>&nbsp; &nbsp;Lee Yu Xian Xanth<br>&nbsp; &nbsp;Belinda Wong Min hui<br>&nbsp; &nbsp;Nigel Yap<br>&nbsp; &nbsp;Isabelle Kwa</td>
+</tr>
+
+<tr>
+<td style="font-size:15px;">Award:</td>
+<td style="font-size:15px;">2<sup>nd</sup>Price</td>
+</tr>
+
+</tbody>
+</table>
 
 <br>
 
 <img style="width: 50%;" src="/images/sa2.jpg" />
 <p><strong>Team Wushu</strong></p>
 
-<p style="font-size:15px; line-height:2;">Congratulations to our two medalists in this year&rsquo;s National School Games B Division Championship.</p>
+<p style="font-size:15px; line-height:2;margin-top:-15px;">Congratulations to our two medalists in this year&rsquo;s National School Games B Division Championship.</p>
 
-<p>Name: Ethan Cheow<br>
-Award: 1<sup>st</sup>&nbsp;place in International Sword Routine</p>
 
-<p>Name: Cedric Lim<br>
-Award: 2<sup>nd</sup>&nbsp;place in International Broadsword Routine</p>
+<table border="1" style="border-collapse: none;margin: 15px 0;font-size: 0.9em;font-family: sans-serif;min-width: 50px; box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);width:70%;">
+<tbody>
 
-<hr>
+<tr>
+<td style="font-size:15px; width:5%;">Name:</td>
+<td style="font-size:15px;">Ethan Cheow</td>
+</tr>
+
+<tr>
+<td style="font-size:15px;">Award:</td>
+<td style="font-size:15px;">1<sup>st</sup> place in International Sword Routine</td>
+</tr>  
+
+<tr>
+<td style="font-size:15px; width:5%;">Name:</td>
+<td style="font-size:15px;">Cedric Lim</td>
+</tr>
+
+<tr>
+<td style="font-size:15px;">Award:</td>
+<td style="font-size:15px;">2<sup>nd</sup> place in International Broadsword Routine</td>
+</tr>  
+
+</tbody>
+</table>
+
 <br>
 
 <img src="/images/sa3.jpg">
 <p><strong>Chinese Dance</strong>
-<p style="font-size:15px; margin-top:-20px;">SYF Achievement: Distinction</p>
+<p style="font-size:15px; margin-top:-15px;">SYF Achievement: Distinction</p>
 
-<hr>
 <br>
 
 <img src="/images/sa4.jpg">
 <p><strong>Modern Dance</strong></p>
-<p style="font-size:15px; margin-top:-20px;">SYF Achievement: Accomplishment</p>
+<p style="font-size:15px; margin-top:-15px;">SYF Achievement: Accomplishment</p>
 
-<hr>
 <br>
 
 <img src="/images/sa5.jpg">
 <p><strong>Guzheng</strong></p>
-<p style="font-size:15px; margin-top:-20px;">SYF Achievement: Distinction</p>
-
-<hr>
+<p style="font-size:15px; margin-top:-15px;">SYF Achievement: Distinction</p>
 <br>
 
 <img src="/images/sa6.jpg">
 <p><strong>Band Team A</strong></p>
-<p style="font-size:15px; margin-top:-20px;">SYF Achievement: Accomplishment</p>
+<p style="font-size:15px; margin-top:-15px;">SYF Achievement: Accomplishment</p>
 
-<hr>
 <br>
 
 <img src="/images/sa7.jpg">
 <p><strong>Drama Society</strong></p>
-<p style="font-size:15px; margin-top:-20px;">SYF Achievement: Commendation&nbsp;</p>
+<p style="font-size:15px; margin-top:-15px;">SYF Achievement: Commendation&nbsp;</p>
 
-<hr>
+<br>
 
 <h4><strong>Summary of all SYF achievements</strong></h4>
 
