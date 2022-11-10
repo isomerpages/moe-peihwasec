@@ -301,7 +301,7 @@ description: ""
 
 
 <br>
-<img style="width: 50%;" src="/images/pride8.jpg" />
+<img style="width:70%;margin:0px;" src="/images/pride8.jpg" />
 <p style="font-size:15px; line-height:2">We are proud of the achievements of our former student and believe that she will&nbsp;continue to do Singapore Polytechnic and Pei Hwa Secondary School proud.</p>
 <table border="1" style="border-collapse: none;margin: 15px 0;font-size: 0.9em;font-family: sans-serif;min-width: 50px; box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);width:70%;">
 <tbody>
