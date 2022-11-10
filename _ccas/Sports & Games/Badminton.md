@@ -71,7 +71,8 @@ B and C division boys came in 1st runner up in the Interschool Badminton Competi
 
 <p style="font-size:15px; line-height:2;margin-top:15px;">The team has participated in the Inter-Schools North Zone Badminton Tournaments. The players put up a good performance and exemplified the school values of resilience and diligence throughout the competition. The students have also forged strong friendship and demonstrated good teamwork throughout their trainings and in preparation for their competitions. Through their perseverance and hard work, the B division boys qualified for the quarter-finals. We are proud of their progress and improvements in the games.</p>
 
-<img style="width: 100%;margin-top:10px;" src="/images/Picture2.jpg"/><p style="text-align: center; font-size:13px;margin-top:-10px;">B Division Boys</p>
+<img style="width: 100%;margin-top:10px;" src="/images/Picture2.jpg"/>
+<p style="text-align:center; font-size:13px;margin-top:-10px;">B Division Boys</p>
 
 <br>
 
