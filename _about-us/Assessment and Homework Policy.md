@@ -3,7 +3,7 @@ title: Assessment and Homework Policy
 permalink: /assessment-and-homework-policy/
 description: ""
 ---
-<h4><strong><u>SCHOOL BASED ASSESSMENT 2022</u></strong></h4>
+<h4><strong>SCHOOL BASED ASSESSMENT 2022</strong></h4>
 
 <p  style="font-size:15px; line-height:2;margin-top:15px;">In meeting the challenges of an increasingly complex world, the Ministry of Education (MOE) announced changes to School Based Assessment in 2019 to help our students discover more joy in learning and to develop them as lifelong learners. In alignment with MOE’s efforts to move away from an over-emphasis on academic results, the school continues to review our internal assessments to create time and space for teachers and students to strengthen engagement in learning, self-discovery and holistic development.</p>
 
@@ -93,7 +93,7 @@ description: ""
 
 <p  style="font-size:15px; line-height:2;margin-top:15px;">For other detailed examination regulations, please refer to page 20 of the student handbook.</p>
 
-<h4><strong><u>HOMEWORK POLICY 2022</u></strong></h4>
+<h4><strong>HOMEWORK POLICY 2022</strong></h4>
 
 <p  style="font-size:15px; line-height:2;margin-top:15px;">Homework is work that is set to be done outside the time-tabled curriculum. Pei Hwa Secondary School believes that&nbsp;reasonable amounts of academic effort outside the class can enhance student learning,&nbsp;improve achievement&nbsp;and&nbsp;develop students’ study skills. Homework provides an opportunity for students to revisit the concepts or skills taught during lessons.&nbsp;</p>
 
