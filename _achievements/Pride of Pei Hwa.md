@@ -31,17 +31,17 @@ description: ""
 
 <h5><strong>Graduates of Anderson Serangoon Junior College 2020</strong></h5>
 <p style="font-size:15px; line-height:2;margin:-5px 0 13px 0px;">Congratulations to our&nbsp;former students who has excelled academically at Anderson Serangoon Junior College in 2020</p>
-<img src="/images/pride1.jpg" style="width:70%">
+<img src="/images/pride1.jpg" style="width:70%;margin:0px;">
 
 
 <h5><strong>Singapore Polytechnic Scholarship (Engineering)</strong></h5>
 <p style="font-size:15px; line-height:2;margin:-5px 0 13px 0px;">Our former student, Gan Ching Heng, was awarded the Singapore Polytechnic Engineering Scholarship this year.</p>
-<img style="width:70%;" src="/images/pride2.jpg"/>
+<img style="width:70%;margin:0px;" src="/images/pride2.jpg"/>
 
 
 <h5><strong>Graduate of St Andrew&rsquo;s Junior College 2020</strong></h5>
 <p style="font-size:15px; line-height:2;margin:-5px 0 13px 0px;">Congratulations to our&nbsp;former student who has excelled academically at St Andrew&rsquo;s Junior College in 2020</p>
-<img style="width: 70%;" src="/images/pride3.png" >
+<img style="width:70%;margin:0px;" src="/images/pride3.png" >
 
 <table border="1" style="border-collapse: none;margin: 15px 0;font-size: 0.9em;font-family: sans-serif;min-width: 50px; box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);width:70%;">
 	
@@ -179,7 +179,7 @@ description: ""
 </tbody>
 </table>
 
-<img style="width: 70%;" src="/images/pride4.jpg" />
+<img style="width:70%;margin:0px;" src="/images/pride4.jpg" />
 </a>
 
 <table border="1" style="border-collapse: none;margin: 15px 0;font-size: 0.9em;font-family: sans-serif;min-width: 50px; box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);width:70%;">
@@ -205,7 +205,7 @@ description: ""
 
 <br>
 
-<img style="width: 70%;" src="/images/pride5.jpg" />
+<img style="width:70%;margin:0px;" src="/images/pride5.jpg" />
 <table border="1" style="border-collapse: none;margin: 15px 0;font-size: 0.9em;font-family: sans-serif;min-width: 50px; box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);width:70%;">
 <tbody>
 		
@@ -230,7 +230,7 @@ description: ""
 <h5><strong>Teaching Scholarship Presentation Ceremony 2019</strong></h5>
 <p style="font-size:15px; line-height:2">Our former student, Chua Wei Ting, was awarded the teaching scholarship this year.</p>
 
-<img src="/images/pride6.png">
+<img src="/images/pride6.png" style="width:70%;margin:0px;"> 
 
 <table border="1" style="border-collapse: none;margin: 15px 0;font-size: 0.9em;font-family: sans-serif;min-width: 50px; box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);width:70%;">
 <tbody>
@@ -250,7 +250,7 @@ description: ""
 
 <br>
 
-<img src="/images/pride7.jpg">
+<img src="/images/pride7.jpg" style="width:70%;margin:0px;">
 <p style="font-size:15px; line-height:2">Our former students have graduated from Ngee Ann Polytechnic (NP) this year with the following academic achievements:</p>
 
 <table border="1" style="border-collapse: none;margin: 15px 0;font-size: 0.9em;font-family: sans-serif;min-width: 50px; box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);width:70%;">
