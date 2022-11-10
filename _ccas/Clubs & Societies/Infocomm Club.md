@@ -37,7 +37,7 @@ third_nav_title: Clubs & Societies
 <td><strong>2012</strong></td>
 	<td style="font-size:15px;"><strong>National Infocomm Club Awards</strong>
 		<br>
-		<ul>
+		<ul style="margin-top:-5px">
 			<li style="font-size:15px;margin-bottom:5px;">The Choice Award</li>
 		</ul>
 	</td>
@@ -47,13 +47,13 @@ third_nav_title: Clubs & Societies
 <td style="font-size:15px;"><strong>2011</strong></td>
 	<td style="font-size:15px;"><strong>North Zone Comic Life Competition</strong>
 		<br>
-		<ul> 
+		<ul style="margin-top:-5px"> 
 			<li style="font-size:15px;"> 1<sup>st</sup> Position (Lee Jia Jing)</li>
 		<li style="font-size:15px;"> 2<sup>nd</sup> Position (Tan Xing Wei)</li>
 		<li style="font-size:15px;margin-bottom:5px;"> 3<sup>rd</sup> Position (Ku Wan Jing)</li>
 		</ul>
 		<strong>Digital Music Carnival 2 Competition (organised by Elchemi Education)</strong>
-		<ul>
+		<ul style="margin-top:-5px">
 			<li style="font-size:15px;margin-bottom:5px;"> Gold Award</li>
 		</ul>
 	</td>
@@ -63,7 +63,7 @@ third_nav_title: Clubs & Societies
 <td><strong>2010</strong></td>
 	<td style="font-size:15px;"><strong>NorthZone ICT Competition (Comics)</strong>
 		<br>
-		<ul style="line-height:20;">
+		<ul style="margin-top:-5px">
 			<li style="font-size:15px;margin-bottom:5px;"> 1<sup>st</sup> Place (Secondary Category)</li>
 		</ul>
 		<strong>Digital Music Carnival(organised by Elchemi Education)</strong><ul>
