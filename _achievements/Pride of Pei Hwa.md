@@ -246,7 +246,6 @@ description: ""
 </tbody>
 </table>
 
-<br>
 
 <h5><strong>Ngee Ann Polytechnic Graduation 2019</strong></h5>
 <p style="font-size:15px; line-height:2">Our former students have graduated from Ngee Ann Polytechnic (NP) this year with the following academic achievements:</p>
