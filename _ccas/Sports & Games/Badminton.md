@@ -74,24 +74,17 @@ B and C division boys came in 1st runner up in the Interschool Badminton Competi
 <img style="width: 100%;margin-top:10px;" src="/images/Picture2.jpg"/>
 <p style="text-align:center; font-size:13px;margin-top:-10px;">B Division Boys</p>
 
-<br>
-
 <img style="width: 100%;margin-top:10px;" src="/images/Picture3.jpg"/>
 <p style="text-align:center; font-size:13px;margin-top:-10px;">B Division Girls</p>
-
-<br>
 
 <img style="width: 100%;margin-top:10px;" src="/images/Picture4.jpg"/>
 <p style="text-align:center; font-size:13px;margin-top:-10px;">B Division Girls</p>
 
-<br>
-
 <img style="width: 100%;margin-top:10px;" src="/images/Picture5.jpg"/>
 <p style="text-align:center; font-size:13px;margin-top:-10px;">C Division Boys</p>
 
-<br>
-
-<img style="width: 100%;margin-top:10px;" src="/images/Picture6.jpg"/><p style="text-align:center; font-size:13px;margin-top:-10px;">C Division Girls</p>
+<img style="width: 100%;margin-top:10px;" src="/images/Picture6.jpg"/>
+<p style="text-align:center; font-size:13px;margin-top:-10px;">C Division Girls</p>
 
 <h4><strong>Farewell Party for the seniors</strong>
 		<div class="row" style="box-sizing: border-box;"> 
