@@ -187,7 +187,7 @@ Robotics nurtures us as future leaders in addition to being equipped with techno
   line-height:1.6;
   position: relative;
   background:#EDEDED;">
-<img align="left" src="/images/ROBOTICS6.jpg" style="width: 23%;margin-right:15px;margin-bottom:15px;">“Every week I am eager to attend CCA as the sessions are fun and I get learn new things. The teachers and instructors are very helpful and they leave none of our questions unanswered. Even though we are unable to go for some competitions due to the pandemic, we are able to make the best of what we have and excel in it. The Robotics Club gave me the opportunity to be a leader and I hope that we can continue to strive for excellence in the years to come”
+<img align="left" src="/images/ROBOTICS6.jpg" style="width: 23%;margin-right:15px;margin-bottom:30px;">“Every week I am eager to attend CCA as the sessions are fun and I get learn new things. The teachers and instructors are very helpful and they leave none of our questions unanswered. Even though we are unable to go for some competitions due to the pandemic, we are able to make the best of what we have and excel in it. The Robotics Club gave me the opportunity to be a leader and I hope that we can continue to strive for excellence in the years to come”
   <span style="display:block; color:#333333; margin-top:1em;font-size:15px;"><em>Assistant Secretary/Publicity, SHAH YASHVI TEJAS, Int 8</em></span>
 	</blockquote>
 
