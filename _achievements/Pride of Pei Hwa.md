@@ -249,7 +249,7 @@ description: ""
 
 <br>
 
-<img src="/images/pride7.jpg" style="width:70%;margin:0px;">
+<img src="/images/pride7.jpg"style="width:70%;margin:0px;">
 <p style="font-size:15px; line-height:2">Our former students have graduated from Ngee Ann Polytechnic (NP) this year with the following academic achievements:</p>
 
 <table border="1" style="border-collapse: none;margin: 15px 0;font-size: 0.9em;font-family: sans-serif;min-width: 50px; box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);width:70%;">
