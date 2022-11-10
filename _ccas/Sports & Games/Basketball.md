@@ -4,7 +4,7 @@ permalink: /ccas/sports-games/basketball/
 description: ""
 third_nav_title: Sports & Games
 ---
-<img style="width: 75%;" src="/images/bb1.jpg" />
+<img style="width: 100%;" src="/images/Untitled-3.jpg" />
 <p style="font-size:15px; line-height:2;">The<strong> Pei Hwa&nbsp;Basketball CCA </strong> was set&nbsp;up&nbsp;in 2005. The Basketball CCA seeks to provide opportunities to develop students&rsquo; lifelong passion for the sports. Through trainings and competitions, the Pei Hwa Basketball CCA help students to build character, forge friendships and cultivate strong teamwork.</p>
 
 <h4><strong>Student Outcomes</strong></h4>
@@ -62,7 +62,7 @@ third_nav_title: Sports & Games
 
 <p style="font-size:15px; line-height:2;">In 2019, the Pei Hwa Basketball CCA participated in the &lsquo;B&rsquo; and &lsquo;C&rsquo; Boys North Zone Competition. Through the exposure of and preparation for the competitions, the members of Pei Hwa Basketball CCA has certainly, forged strong friendships and developed strong teamwork.</p>
 
-<img style="width: 100%;" src="/images/bb2.jpg" />
+<img style="width:100%;" src="/images/Untitled-1.jpg" />
 
 <h4><strong>Student Testament</strong></h4>
 <blockquote style="font-size: 15px;
@@ -78,7 +78,7 @@ third_nav_title: Sports & Games
   background:#EDEDED;">
 <img align="left" src="/images/bb3.jpg" style="width: 23%;margin-right:15px;">
 	"Basketball CCA has taught me to have resilience and team spirit. It also helps to build on one&rsquo;s physical and mental toughness, through all the physical trainings by the coach. Through all the trainings, my fellow basketball players and I have gained deeper understanding of the game."&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <span style="display:block; color:#333333; margin-top:1em;font-size:15px;"><em>Wong Tailer , 3I4 (Basketball Captain)</em></span>
+  <span style="display:block; color:#333333; margin-top:1em;font-size:15px;"><em>Wong Tailer , 3I4 (Basketball Captain)</em></span><br><br><br>
 	</blockquote>
 
 	
