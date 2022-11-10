@@ -19,8 +19,7 @@ description: ""
 		<td style="text-align:center; border: 1px solid #dddfe1;"><strong>Principal</strong>
 		</td>
 		<td style="text-align:center; border: 1px solid #dddfe1;">Mr Mohd Azhar B Terimo</td>
-		<td style="text-align:center; border: 1px solid #dddfe1;"></td>
-			<td style="text-align:center; border: 1px solid #dddfe1;">-</td>
+		<td style="text-align:center; border: 1px solid #dddfe1;">-</td>
 </tr>
 	
 <tr>
@@ -28,8 +27,7 @@ description: ""
 <strong>Vice-Principal</strong>
 </td>
 <td style="text-align:center; border: 1px solid #dddfe1;">Mr Tan Cher Hui Philip</td>
-	<td style="text-align:center; border: 1px solid #dddfe1;"></td>
-	<td style="text-align:center; border: 1px solid #dddfe1;">-</td>
+		<td style="text-align:center; border: 1px solid #dddfe1;">-</td>
 </tr>
 	
 <tr>
@@ -37,8 +35,7 @@ description: ""
 <strong>Vice-Principal</strong>
 </td>
 <td style="text-align:center; border: 1px solid #dddfe1;">Mrs Michelle Willman</td>
-	<td style="text-align:center; border: 1px solid #dddfe1;"></td>
-	<td style="text-align:center; border: 1px solid #dddfe1;">-</td>
+		<td style="text-align:center; border: 1px solid #dddfe1;">-</td>
 </tr>
 	
 <tr>
