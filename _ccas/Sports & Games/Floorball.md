@@ -4,9 +4,9 @@ permalink: /ccas/sports-games/floorball/
 description: ""
 third_nav_title: Sports & Games
 ---
-<p style="font-size:15px; line-height:2;"><strong>Floorball</strong> is becoming a very popular sport around the world and in Singapore. The number of players and teams are increasing every year and there is no sign that the positive development would stop. In 2009, floorball started as a CCA in Pei Hwa Secondary School. The floorball team, also known as Pei Hwa Phoenix, is the ultimate symbol of strength and renewal. Pei Hwa Floorball has achieved outstanding results over the years. Currently, we have 6 Pei Hwa alumni and current students in the U19 Singapore Women&rsquo;s National Team. #peihwaphoenix #flyphoenixfly #floorball #singaporefloorball</p>
+<p style="font-size:15px; line-height:2;margin-top:-15px;"><strong>Floorball</strong> is becoming a very popular sport around the world and in Singapore. The number of players and teams are increasing every year and there is no sign that the positive development would stop. In 2009, floorball started as a CCA in Pei Hwa Secondary School. The floorball team, also known as Pei Hwa Phoenix, is the ultimate symbol of strength and renewal. Pei Hwa Floorball has achieved outstanding results over the years. Currently, we have 6 Pei Hwa alumni and current students in the U19 Singapore Women&rsquo;s National Team. #peihwaphoenix #flyphoenixfly #floorball #singaporefloorball</p>
 
-<p style="font-size:15px; line-height:2;">Our Motto: The strength of the team is each individual member. The strength of each member is the team. Always keep an open mind and a compassionate heart. (Inspired by Phil Jackson)</p>
+<p style="font-size:15px; line-height:2;margin-top:15px;">Our Motto: The strength of the team is each individual member. The strength of each member is the team. Always keep an open mind and a compassionate heart. (Inspired by Phil Jackson)</p>
 
 <img src="/images/floorball1.jpg">
 <p>Do check us out on our Instagram page @peihwaphoenix !</p>
@@ -33,39 +33,39 @@ third_nav_title: Sports & Games
 <tbody>
 <tr>
 <td><strong>2019</strong></td>
-<td style="font-size:15px;">
+<td style="font-size:15px;margin-bottom:-10px;">
 <strong>National School Games Floorball</strong>
 <br>
 <ul>
-			<li style="font-size:15px;margin-bottom:5px;">Championships (B Division) – 3<sup>rd</sup></li>
+			<li style="font-size:15px;margin-bottom:-5px;margin-top:-10px;">Championships (B Division) – 3<sup>rd</sup></li>
 		</ul>
 		<strong>ActiveSG-Singapore Floorball League</strong>
 		<br>
 		<ul>
-			<li style="font-size:15px;">Division 2 Women’s – 10<sup>th</sup></li>
-			<li style="font-size:15px;margin-bottom:5px;">Division 3 Women’s – 13<sup>th</sup></li>
+			<li style="font-size:15px;margin-bottom:-5px;margin-top:-10px;">Division 2 Women’s – 10<sup>th</sup></li>
+			<li style="font-size:15px;margin-bottom:-5px;margin-top:-10px;">Division 3 Women’s – 13<sup>th</sup></li>
 		</ul>
 		<strong>National Colours Best Sportsgirl Award</strong>
 		<br>
 		<ul>
-			<li style="font-size:15px;margin-bottom:5px;">– Shannon Ashwini d/o Kumaran N.</li>
+			<li style="font-size:15px;margin-bottom:-5px;margin-top:-10px;">Shannon Ashwini d/o Kumaran N.</li>
 		</ul>
 		<strong>National Colours Award (Team) – B</strong>
 		<br>
 		<strong>National School Games Sportsmanship Award </strong>
 		<br>
 		<ul>
-			<li style="font-size:15px;margin-bottom:5px;">Kristine Lim Li Ying</li>
+			<li style="font-size:15px;margin-bottom:-5px;margin-top:-10px;">Kristine Lim Li Ying</li>
 		</ul>
 		<strong>Northland Floorball Faceoff (B Division)</strong>
 		<br>
 		<ul>
-			<li style="font-size:15px;margin-bottom:5px;">1<sup>st</sup></li>
+			<li style="font-size:15px;margin-bottom:-5px;margin-top:-10px;">1<sup>st</sup></li>
 		</ul>
 		<strong>ActiveSG-Singapore Floorball League</strong>
 		<br>
 		<ul>
-			<li style="font-size:15px;margin-bottom:5px;">Division 2 Women’s – 10<sup>th</sup></li>
+			<li style="font-size:15px;margin-bottom:5px;margin-top:-10px;">Division 2 Women’s – 10<sup>th</sup></li>
 		</ul>
 	</td>
 </tr>
@@ -76,56 +76,56 @@ third_nav_title: Sports & Games
 		<strong>National School Games Floorball Championships (B Division)</strong>
 		<br>
 <ul>
-			<li style="font-size:15px;margin-bottom:5px;"> 2<sup>nd</sup> Round (Top 10)</li>
+			<li style="font-size:15px;margin-bottom:-5px;margin-top:-10px;"> 2<sup>nd</sup> Round (Top 10)</li>
 		</ul>
 <strong>National School Games Floorball Championships (C Division)</strong>
 		<br>
 		<ul>
-			<li style="font-size:15px;margin-bottom:5px;">2<sup>nd</sup> Round (Top 10)</li>
+			<li style="font-size:15px;margin-bottom:-5px;margin-top:-10px;">2<sup>nd</sup> Round (Top 10)</li>
 		</ul>
 		<strong>Singapore Youth Olympic Festival Floorball Competition (Under-14)</strong>
 		<br>
 		<ul>
-			<li style="font-size:15px;margin-bottom:5px;">3<sup>rd</sup></li>
+			<li style="font-size:15px;margin-bottom:-5px;margin-top:-10px;">3<sup>rd</sup></li>
 		</ul><strong>Singapore Youth Olympic Festival Floorball Competition (Under-17)</strong>
 		<br>
 		<ul>
-			<li style="font-size:15px;margin-bottom:5px;">1<sup>st</sup></li>
+			<li style="font-size:15px;margin-bottom:-5px;margin-top:-10px;">1<sup>st</sup></li>
 		</ul>
 		<strong>ActiveSG-Singapore Floorball League Division 2 Women’s</strong>
 		<br>
 		<ul>
-			<li style="font-size:15px;margin-bottom:5px;">8<sup>th</sup></li>
+			<li style="font-size:15px;margin-bottom:-5px;margin-top:-10px;">8<sup>th</sup></li>
 		</ul>
 		<strong>ActiveSG-Singapore Floorball League Division 3 Women’s</strong>
 		<br>
 		<ul>
-			<li style="font-size:15px;margin-bottom:5px;">7<sup>th</sup></li>
+			<li style="font-size:15px;margin-bottom:-5px;margin-top:-10px;">7<sup>th</sup></li>
 		</ul>
 		<strong>Taishan Floorball Cup (Under-17)</strong>
 		<br>
 		<ul>
-			<li style="font-size:15px;margin-bottom:5px;">3<sup>rd</sup></li>
+			<li style="font-size:15px;margin-bottom:-5px;margin-top:-10px;">3<sup>rd</sup></li>
 		</ul>
 		<strong>Kent Ridge Invitational Floorball Cup (C Division)</strong>
 		<br>
 		<ul>
-			<li style="font-size:15px;margin-bottom:5px;">1<sup>st</sup></li>
+			<li style="font-size:15px;margin-bottom:-5px;margin-top:-10px;">1<sup>st</sup></li>
 		</ul>
 		<strong>Northland Invitational Floorball Tournament (B Division)</strong>
 		<br>
 		<ul>
-			<li style="font-size:15px;margin-bottom:5px;">2<sup>st</sup></li>
+			<li style="font-size:15px;margin-bottom:-5px;margin-top:-10px;">2<sup>st</sup></li>
 		</ul>
 		<strong>Tampines Floorball Cup (Under-14)</strong>
 		<br>
 		<ul>
-			<li style="font-size:15px;margin-bottom:5px;">2<sup>nd</sup></li>
+			<li style="font-size:15px;margin-bottom:-5px;margin-top:-10px;">2<sup>nd</sup></li>
 		</ul>
 		<strong>Tampines Floorball Cup (Under-17)</strong>
 		<br>
 		<ul>
-			<li style="font-size:15px;margin-bottom:5px;">1<sup>st</sup></li>
+			<li style="font-size:15px;margin-bottom:-5px;margin-top:-10px;">1<sup>st</sup></li>
 		</ul>
 		<strong>Tampines Floorball Cup MVP (Under-17)</strong>
 		<br>
@@ -135,22 +135,22 @@ third_nav_title: Sports & Games
 		<strong>Belles Floorball Fiesta 2018 (Under-17)</strong>
 		<br>
 		<ul>
-			<li style="font-size:15px;margin-bottom:5px;">2<sup>nd</sup></li>
+			<li style="font-size:15px;margin-bottom:-5px;margin-top:-10px;">2<sup>nd</sup></li>
 		</ul>
 		<strong>Merahans Open 3 on 3 (Under-17)</strong>
 		<br>
 		<ul>
-			<li style="font-size:15px;margin-bottom:5px;">1<sup>st</sup></li>
+			<li style="font-size:15px;margin-bottom:-5px;margin-top:-10px;">1<sup>st</sup></li>
 		</ul>
 		<strong>Merahans Open 3 on 3</strong>
 		<br>
 		<ul>
-			<li style="font-size:15px;margin-bottom:5px;">4<sup>th</sup></li>
+			<li style="font-size:15px;margin-bottom:-5px;margin-top:-10px;">4<sup>th</sup></li>
 		</ul>
 		<strong>Merahans Open MVP (Under-17)</strong>
 		<br>
 		<ul>
-			<li style="font-size:15px;margin-bottom:5px;">Shannon Ashwini d/o Kumaran N.</li>
+			<li style="font-size:15px;margin-bottom:5px;margin-top:-10px;">Shannon Ashwini d/o Kumaran N.</li>
 		</ul>
 	</td>
 </tr>
@@ -161,25 +161,25 @@ third_nav_title: Sports & Games
 <strong>National School Games Floorball Championships (B Division)</strong>
 <br>
 <ul>
-<li style="font-size:15px;margin-bottom:5px;">2<sup>nd</sup> Round (Top 10)</li>
+<li style="font-size:15px;margin-bottom:-5px;margin-top:-10px;">2<sup>nd</sup> Round (Top 10)</li>
 </ul>
 <strong>National School Games Floorball Championships (C Division)</strong>
 <ul>
-<li style="font-size:15px;margin-bottom:5px;">4<sup>th</sup></li>
+<li style="font-size:15px;margin-bottom:-5px;margin-top:-10px;">4<sup>th</sup></li>
 </ul>
 <strong>National Colours Award (Team)</strong>
 		<ul>
-			<li style="font-size:15px;margin-bottom:5px;">C Division</li>
+			<li style="font-size:15px;margin-bottom:-5px;margin-top:-10px;">C Division</li>
 		</ul>
 		<strong>Arena@OTH Floorball 3V3 (Under-13)</strong>
 		<br>
 		<ul>
-			<li style="font-size:15px;margin-bottom:5px;">1<sup>st</sup></li>
+			<li style="font-size:15px;margin-bottom:-5px;margin-top:-10px;">1<sup>st</sup></li>
 		</ul>
 		<strong>Merahans Joka Sports 3V3 (Under-15)</strong>
 		<br>
 		<ul>
-			<li style="font-size:15px;margin-bottom:5px;">1<sup>st</sup></li>
+			<li style="font-size:15px;margin-bottom:-5px;margin-top:-10px;">1<sup>st</sup></li>
 		</ul>
 		<strong>Tampines West CC 3-on-3 (Under- 17)</strong>
 <ul>
@@ -189,12 +189,12 @@ third_nav_title: Sports & Games
 		<strong>U Sports 3-on-3 Floorball Faceoff 2017  (Under-15)</strong>
 		<br>
 		<ul>
-			<li style="font-size:15px;margin-bottom:5px;">1<sup>st</sup></li>
+			<li style="font-size:15px;margin-bottom:-5px;margin-top:-10px;">1<sup>st</sup></li>
 		</ul>
 		<strong>ActiveSG-Singapore Floorball League Division 3 Women’s </strong>
 		<br>
 		<ul>
-			<li style="font-size:15px;margin-bottom:5px;">3<sup>rd</sup></li>
+			<li style="font-size:15px;margin-bottom:5px;margin-top:-10px;">3<sup>rd</sup></li>
 		</ul>
 	</td>
 </tr>
@@ -204,11 +204,11 @@ third_nav_title: Sports & Games
 
 <h4><strong>Competitions and CCA Activities</strong></h4>
 
-<p style="font-size:15px; line-height:2;">On top of participating in the annual National School Games, our members also take part in many other competitions as part of their passion for learning in the sport. We are actively taking part in the ActiveSG Singapore Floorball League, Singapore National Games, as well as other invitational and ad-hoc competitions held by various schools, organisations and floorball clubs in Singapore.</p>
+<p style="font-size:15px; line-height:2; margin-top:5px">On top of participating in the annual National School Games, our members also take part in many other competitions as part of their passion for learning in the sport. We are actively taking part in the ActiveSG Singapore Floorball League, Singapore National Games, as well as other invitational and ad-hoc competitions held by various schools, organisations and floorball clubs in Singapore.</p>
 
-<p style="font-size:15px; line-height:2">We are also actively involved in workshops, camps and clinics for the betterment of our members. Some of these activities that our members have attended included a Blindsave Goalie Camp conducted by Andis Blinds from Latvia in 2018 and floorball clinics and sports conference held by David Jansson, Head coach for the Swiss National Mens&rsquo; Floorball Team in 2018.</p>
+<p style="font-size:15px;line-height:2;margin-top:-2px">We are also actively involved in workshops, camps and clinics for the betterment of our members. Some of these activities that our members have attended included a Blindsave Goalie Camp conducted by Andis Blinds from Latvia in 2018 and floorball clinics and sports conference held by David Jansson, Head coach for the Swiss National Mens&rsquo; Floorball Team in 2018.</p>
 
-<p style="font-size:15px;line-height:2">There are also plenty of opportunities for our members to be developed as student leaders in the CCA. Student leaders in the CCA are given the opportunity to facilitate events such as our annual CCA Fiesta, Open House and CCA Camps. You will also lead the team for training and competitions. Student leaders are also given the opportunity to hone their leadership further when they are sent to participate in the annual Sec 2 Basic Student Leadership Camp and Sec 3 Advance Student Leadership Camp.</p>
+<p style="font-size:15px;line-height:2;margin-top:5px">There are also plenty of opportunities for our members to be developed as student leaders in the CCA. Student leaders in the CCA are given the opportunity to facilitate events such as our annual CCA Fiesta, Open House and CCA Camps. You will also lead the team for training and competitions. Student leaders are also given the opportunity to hone their leadership further when they are sent to participate in the annual Sec 2 Basic Student Leadership Camp and Sec 3 Advance Student Leadership Camp.</p>
 
 <h4><strong>Student Testament</strong></h4>
 <blockquote style="font-size: 15px;
