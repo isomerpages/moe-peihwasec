@@ -114,7 +114,7 @@ third_nav_title: Sports & Games
   background:#EDEDED;">
 <img align="left" alt="" src="/images/tt5.jpg" style="width: 23%;margin-right:15px;">
 	"I am really grateful to be able to lead my fellow CCA members as the President of Table Tennis CCA. It has given me so many opportunities to learn and grow, not only did it made me a better leader, it also made me a better person. I enjoyed every moment I spent in the CCA with my teacher and teammates, and I will definitely miss CCA when I graduate!"&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <span style="display:block; color:#333333; margin-top:1em;font-size:15px;"><em>CCA President (2020), Li Tsz Nok Jaymin</em></span>
+  <span style="display:block; color:#333333; margin-top:1em;font-size:15px;"><em>CCA President (2020), Li Tsz Nok Jaymin</em></span><br><br><br>
 	</blockquote>
 
 <h4><strong>CCA Details</strong></h4>
