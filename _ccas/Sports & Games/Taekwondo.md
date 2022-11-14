@@ -30,7 +30,7 @@ third_nav_title: Sports & Games
 <tbody>
 <tr>
 				<td style="font-size:15px;"><strong>2021</strong></td>
-				<td style="font-size:15px;margin-bottom:5px;">
+				<td style="font-size:15px;margin-bottom:-13px;margin-top:-10px;">
 					<strong>
 						3<sup>rd</sup> B Division Boys Poomsae (Team)<br>
 						3<sup>rd</sup> B Division Girls Poomsae (Team)<br>
@@ -74,20 +74,19 @@ third_nav_title: Sports & Games
 		
 <tr style="border-bottom: 2px solid #009879; font-size:15px;">
 			<td><strong>2017</strong></td>
-			<td style="font-size:15px;margin-bottom:5px;">
+			<td style="font-size:15px;margin-bottom:-13px;margin-top:-10px;">
 				<strong>Poomsae (Pattern) event</strong>
 				<br>
 				<ul>
-					<li style="font-size:15px;margin-bottom:5px;">3 Silver</li>
-					<li style="font-size:15px;margin-bottom:5px;">5 Bronze</li>
+					<li style="font-size:15px;margin-bottom:-5px;margin-top:-10px;">3 Silver</li>
+					<li style="font-size:15px;margin-bottom:-5px;margin-top:-10px;">5 Bronze</li>
 				</ul>
-				<br>
 				<strong>Kyorugi (Sparring) event Overall title in Kyorugi</strong>
 				<br>
 				<ul>
-					<li style="font-size:15px;margin-bottom:5px;"> 5 Gold Overall 1<sup>st</sup> B Div Girls</li>
-					<li style="font-size:15px;margin-bottom:5px;">6 Silver Overall 2<sup>nd</sup> C Div Girls</li>
-					<li style="font-size:15px;margin-bottom:5px;">8 Bronze Overall 2<sup>nd</sup> B Division Boys</li>
+					<li style="font-size:15px;margin-bottom:-13px;margin-top:-10px;"> 5 Gold Overall 1<sup>st</sup> B Div Girls</li>
+					<li style="font-size:15px;margin-bottom:-5px;margin-top:-10px;">6 Silver Overall 2<sup>nd</sup> C Div Girls</li>
+					<li style="font-size:15px;margin-bottom:-5px;margin-top:-10px;">8 Bronze Overall 2<sup>nd</sup> B Division Boys</li>
 				</ul>
 			</td>
 </tr>										
