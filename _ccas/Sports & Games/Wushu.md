@@ -33,17 +33,17 @@ third_nav_title: Sports & Games
 <tbody>
 <tr>
 		<td><strong>2022</strong></td>
-		<td style="font-size:15px;">
+		<td style="font-size:15px;margin-bottom:-10px;">
 			<strong>National School Games Wushu Championships 2022</strong>
 			<br>
 			<ul>
-				<li style="font-size:15px;margin-bottom:5px;">Gold(1<sup>st</sup>)</li>
+				<li style="font-size:15px;margin-bottom:-13px;margin-top:-10px;">Gold(1<sup>st</sup>)</li>
 			    	<ul>
 						<li style="font-size:15px;margin-bottom:5px;">Cudgel (2<sup>nd</sup> Intl) – Lim Dian Kai Cedric</li>
 					</ul>
-				<li style="font-size:15px;margin-bottom:5px;">Bronze(3<sup>rd</sup>)</li>
+				<li style="font-size:15px;margin-bottom:-13px;margin-top:-10px;">Bronze(3<sup>rd</sup>)</li>
 					<ul>
-						<li style="font-size:15px;margin-bottom:5px;">Nanquan (1<sup>st</sup> Intl) – Winona Cai Xuanyu</li>
+						<li style="font-size:15px;margin-bottom:-13px;margin-top:-10px;">Nanquan (1<sup>st</sup> Intl) – Winona Cai Xuanyu</li>
 						<li style="font-size:15px;margin-bottom:5px;">Nandao (1<sup>st</sup> Intl) – Winona Cai Xuanyu</li>
 					</ul>
 			</ul>
@@ -51,32 +51,32 @@ third_nav_title: Sports & Games
 </tr>
 
 <tr style="background-color:#f3f3f3;font-size:15px;">
-		<td><strong>2021</strong></td>
+		<td style="font-size:15px;margin-bottom:-10px;"><strong>2021</strong></td>
 		<td style="font-size:15px;">
 			<strong>National School Games Wushu Championships 2021</strong>
 			<br>
 			<ul>
-				<li style="font-size:15px;margin-bottom:5px;">Gold(1<sup>st</sup>)</li>
+				<li style="font-size:15px;margin-bottom:-13px;margin-top:-10px;">Gold(1<sup>st</sup>)</li>
 			    	<ul>
-						<li style="font-size:15px;margin-bottom:5px;">Spear (2<sup>nd</sup> Intl) - Ethan Chow</li>
+						<li style="font-size:15px;margin-bottom:-13px;margin-top:-10px;">Spear (2<sup>nd</sup> Intl) - Ethan Chow</li>
 					</ul>
-				<li style="font-size:15px;margin-bottom:5px;">Gold(2<sup>nd</sup>)</li>
+				<li style="font-size:15px;margin-bottom:-13px;margin-top:-10px;">Gold(2<sup>nd</sup>)</li>
 					<ul>
-						<li style="font-size:15px;margin-bottom:5px;">Broadsword (2<sup>nd</sup> Intl) - Lim Dian Kai Cedric</li>
+						<li style="font-size:15px;margin-bottom:5px;margin-top:-10px;">Broadsword (2<sup>nd</sup> Intl) - Lim Dian Kai Cedric</li>
 					</ul>
 			</ul>
 		</td>
 </tr>
 	
 <tr>
-		<td style="font-size:15px;"><strong>2018</strong></td>
-		<td style="font-size:15px;">
+		<td ><strong>2018</strong></td>
+		<td style="font-size:15px;margin-bottom:-10px;">
 			<strong>National School Games Wushu Championships 2019</strong>
 		<br>
 			<ul>
-				<li style="font-size:15px;margin-bottom:5px;">Gold(1<sup>st</sup>)</li>
+				<li style="font-size:15px;margin-bottom:-13px;margin-top:-10px;">Gold(1<sup>st</sup>)</li>
 			    	<ul>
-						<li style="font-size:15px;margin-bottom:5px;">Formulated 5-Duan Sword – Lim Dian Kai Cedric</li>
+						<li style="font-size:15px;margin-bottom:-13px;margin-top:-10px;">Formulated 5-Duan Sword – Lim Dian Kai Cedric</li>
 					</ul>
 			</ul>
 		<strong>National Wushu &amp; Sanda Championships 2019</strong>
@@ -105,7 +105,7 @@ third_nav_title: Sports & Games
 	
 <tr style="border-bottom: 2px solid #009879; font-size:15px;background-color:#f3f3f3;">
 		<td><strong>2018</strong></td>
-		<td style="font-size:15px;">
+		<td style="font-size:15px;margin-bottom:-10px;">
 			<strong>National School Games Wushu Championships 2018</strong>
 			<br>
 			<ul>
