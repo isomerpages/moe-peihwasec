@@ -11,7 +11,7 @@ third_nav_title: Performing Arts
 
 <h4><strong>Student Outcomes</strong></h4>
 <p style="font-size:15px; line-height:2;margin-top:15px;">The CCA will enable our students to:</p>
-	<ul style="margin-top:-5px;">
+<ul style="margin-top:-5px;">
 		<li style="font-size:15px; line-height:2;"> attain a good level of competency in terms of Drama knowledge and skills so as to participate in competitive Drama Performances.</li>
 		<li style="font-size:15px; line-height:2;"> explain and apply their knowledge and skills pertaining to Drama and Performance.</li>
 		<li style="font-size:15px; line-height:2;"> demonstrate values of discipline, teamwork, innovation and compassion and self-motivation through Drama and performance.</li>
@@ -99,7 +99,8 @@ third_nav_title: Performing Arts
 <img src="/images/drama2.png" style="width: 100%;margin-top:10px;">
 <p style="text-align: center; font-size:13px;margin-top:5px;">SYF 2019</p>
 
-<img style="width: 100%;margin-top:10px;" src="/images/drama3.jpg" /><p style="text-align: center; font-size:13px;margin-top:5px;">Our SYF Performance In 2019</p>
+<img style="width: 100%;margin-top:10px;" src="/images/drama3.jpg" />
+<p style="text-align: center; font-size:13px;margin-top:5px;">Our SYF Performance In 2019</p>
 
 <p style="font-size:15px; line-height:2;margin-top:15px;">Since 2014, the&nbsp;Pei Hwa Dram Society has also participated and performed in many school and external performances like:</p>
 
