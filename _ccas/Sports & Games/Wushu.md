@@ -39,7 +39,7 @@ third_nav_title: Sports & Games
 			<ul>
 				<li style="font-size:15px;margin-bottom:-13px;margin-top:-10px;">Gold(1<sup>st</sup>)</li>
 			    	<ul>
-						<li style="font-size:15px;margin-bottom:5px;">Cudgel (2<sup>nd</sup> Intl) – Lim Dian Kai Cedric</li>
+						<li style="font-size:15px;margin-bottom:-13px;margin-top:-10px;">Cudgel (2<sup>nd</sup> Intl) – Lim Dian Kai Cedric</li>
 					</ul>
 				<li style="font-size:15px;margin-bottom:-13px;margin-top:-10px;">Bronze(3<sup>rd</sup>)</li>
 					<ul>
@@ -51,8 +51,8 @@ third_nav_title: Sports & Games
 </tr>
 
 <tr style="background-color:#f3f3f3;font-size:15px;">
-		<td style="font-size:15px;margin-bottom:-10px;"><strong>2021</strong></td>
-		<td style="font-size:15px;">
+		<td ><strong>2021</strong></td>
+		<td style="font-size:15px;margin-bottom:-10px;">
 			<strong>National School Games Wushu Championships 2021</strong>
 			<br>
 			<ul>
@@ -69,7 +69,7 @@ third_nav_title: Sports & Games
 </tr>
 	
 <tr>
-		<td ><strong>2018</strong></td>
+		<td ><strong>2019</strong></td>
 		<td style="font-size:15px;margin-bottom:-10px;">
 			<strong>National School Games Wushu Championships 2019</strong>
 		<br>
@@ -82,22 +82,22 @@ third_nav_title: Sports & Games
 		<strong>National Wushu &amp; Sanda Championships 2019</strong>
 		<br>
 		<ul>
-				<li style="font-size:15px;margin-bottom:5px;">Gold</li>
+				<li style="font-size:15px;margin-bottom:-13px;margin-top:-10px;">Gold</li>
 			    	<ul>
-						<li style="font-size:15px;margin-bottom:5px;">Group Quanshu – B Boys</li>
-						<li style="font-size:15px;margin-bottom:5px;">Group Quanshu – B Girls</li>
+						<li style="font-size:15px;margin-bottom:-13px;margin-top:-10px;">Group Quanshu – B Boys</li>
+						<li style="font-size:15px;margin-bottom:-13px;margin-top:-10px;">Group Quanshu – B Girls</li>
 					</ul>
-				<li style="font-size:15px;margin-bottom:5px;">Silver</li>
+				<li style="font-size:15px;margin-bottom:-13px;margin-top:-10px;">Silver</li>
 					<ul>
-						<li style="font-size:15px;margin-bottom:5px;">Spear (1<sup>st</sup> Intl) – Ethan Chow</li>
-						<li style="font-size:15px;margin-bottom:5px;">Spear (1<sup>st</sup> Intl) – Wong Woan Xiu</li>
-						<li style="font-size:15px;margin-bottom:5px;">Group Quanshu – C Boys</li>
+						<li style="font-size:15px;margin-bottom:-13px;margin-top:-10px;">Spear (1<sup>st</sup> Intl) – Ethan Chow</li>
+						<li style="font-size:15px;margin-bottom:-13px;margin-top:-10px;">Spear (1<sup>st</sup> Intl) – Wong Woan Xiu</li>
+						<li style="font-size:15px;margin-bottom:-13px;margin-top:-10px;">Group Quanshu – C Boys</li>
 					</ul>
-				<li style="font-size:15px;margin-bottom:5px;">Bronze</li>
+				<li style="font-size:15px;margin-bottom:-13px;margin-top:-10px;">Bronze</li>
 					<ul>
-						<li style="font-size:15px;margin-bottom:5px;">Nan Gun, Nan Dao, Nan Quan – Ryan Ang Liheng</li>
-						<li style="font-size:15px;margin-bottom:5px;">Changquan (2<sup>nd</sup> Intl) – Loke Jing Yong Leroy</li>
-						<li style="font-size:15px;margin-bottom:5px;">Broad Sword (1<sup>st</sup> Intl) – Dalsten Chow Cheng Jun</li>
+						<li style="font-size:15px;margin-bottom:-13px;margin-top:-10px;">Nan Gun, Nan Dao, Nan Quan – Ryan Ang Liheng</li>
+						<li style="font-size:15px;margin-bottom:-13px;margin-top:-10px;">Changquan (2<sup>nd</sup> Intl) – Loke Jing Yong Leroy</li>
+						<li style="font-size:15px;margin-bottom:5px;margin-top:-10px;">Broad Sword (1<sup>st</sup> Intl) – Dalsten Chow Cheng Jun</li>
 					</ul>
 			</ul>
 		</td>
@@ -109,23 +109,23 @@ third_nav_title: Sports & Games
 			<strong>National School Games Wushu Championships 2018</strong>
 			<br>
 			<ul>
-				<li style="font-size:15px;margin-bottom:5px;">5<sup>th</sup></li>
+				<li style="font-size:15px;margin-bottom:-13px;margin-top:-10px;">5<sup>th</sup></li>
 			    	<ul>
-						<li style="font-size:15px;margin-bottom:5px;">Formulated 5-Duan Sword – Ethan Cheow</li>
+						<li style="font-size:15px;margin-bottom:-13px;margin-top:-10px;">Formulated 5-Duan Sword – Ethan Cheow</li>
 					</ul>
-				<li style="font-size:15px;margin-bottom:5px;">6<sup>th</sup></li>
+				<li style="font-size:15px;margin-bottom:-13px;margin-top:-10px;">6<sup>th</sup></li>
 					<ul>
-						<li style="font-size:15px;margin-bottom:5px;">1<sup>st</sup> International Nan Gun – Ryan Ang Liheng</li>
-						<li style="font-size:15px;margin-bottom:5px;">1<sup>st</sup> International Spear – Wong Woan Xiu</li>
+						<li style="font-size:15px;margin-bottom:-13px;margin-top:-10px;">1<sup>st</sup> International Nan Gun – Ryan Ang Liheng</li>
+						<li style="font-size:15px;margin-bottom:-13px;margin-top:-10px;">1<sup>st</sup> International Spear – Wong Woan Xiu</li>
 					</ul>
-				<li style="font-size:15px;margin-bottom:5px;">7<sup>th</sup></li>
+				<li style="font-size:15px;margin-bottom:-13px;margin-top:-10px;">7<sup>th</sup></li>
 			    	<ul>
-						<li style="font-size:15px;margin-bottom:5px;">Group Quanshu – C Girls</li>
-						<li style="font-size:15px;margin-bottom:5px;">Group Quanshu – B Girls</li>
+						<li style="font-size:15px;margin-bottom:-13px;margin-top:-10px;">Group Quanshu – C Girls</li>
+						<li style="font-size:15px;margin-bottom:-13px;margin-top:-10px;">Group Quanshu – B Girls</li>
 					</ul>
-				<li style="font-size:15px;margin-bottom:5px;">8<sup>th</sup></li>
+				<li style="font-size:15px;margin-bottom:-13px;margin-top:-10px;">8<sup>th</sup></li>
 					<ul>
-						<li style="font-size:15px;margin-bottom:5px;">Group Weapon – B Girls</li>
+						<li style="font-size:15px;margin-bottom:5px;margin-top:-10px;">Group Weapon – B Girls</li>
 					</ul>
 			</ul>
 		</td>
