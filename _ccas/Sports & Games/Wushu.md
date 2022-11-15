@@ -143,14 +143,14 @@ third_nav_title: Sports & Games
 <blockquote style="font-size: 15px;width:100%;margin:50px auto;font-family:Open Sans;font-style:italic;color: #555555;padding:1.2em 25px 1.2em 25px;border-left:8px solid #78C0A8 ;line-height:1.6;position: relative;background:#EDEDED;">
 	<img align="left" alt="" src="/images/wushu3.jpeg" style="width: 23%;margin-right:15px;">
 	"I enjoy this CCA because of our strong team spirit. We will constantly cheer one another on and strive for the best especially during the competition periods. We focus on helping every member improve because no one is bigger than the team. With this mindset, the team trains hard together and works towards a common goal. We have grown closer together and this team spirit is something that I really like about Pei Hwa Wushu."
-	<span style="display:block; color:#333333; margin-top:1em;font-size:15px;"><em>Leader for Lower Sec, Zayne from Int 6</em></span>
+	<span style="display:block; color:#333333; margin-top:1em;font-size:15px;"><em>Leader for Lower Sec, Zayne from Int 6</em></span><br><br><br><br>
 	
 </blockquote>
 	
 <blockquote style="font-size: 15px;width:100%;margin:50px auto;font-family:Open Sans;font-style:italic;color: #555555;padding:1.2em 25px 1.2em 25px;border-left:8px solid #78C0A8 ;line-height:1.6;position: relative;background:#EDEDED;">
 		<img align="left" alt="" src="/images/wushu4.jpg" style="width: 23%;margin-right:15px;">
 	"I started Wushu at the age of 6 years old and my passion in this sport has grown over the years! I always believe that hard work, perseverance and endurance are the key to achieve my goal in Wushu. The CCA has taught me the importance of team spirit and sportsmanship. I look forward in all my training session with my team mates as I enjoy spending time together with them!"
- 		 <span style="display:block; color:#333333; margin-top:1em;font-size:15px;"><em>C Boys, Cedric Lim from 2E3</em></span>
+ 		 <span style="display:block; color:#333333; margin-top:1em;font-size:15px;"><em>C Boys, Cedric Lim from 2E3</em></span><br><br><br><br><br><br>
 </blockquote>
 
 <h4><strong>CCA Details</strong></h4>
