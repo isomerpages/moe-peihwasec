@@ -89,9 +89,11 @@ third_nav_title: Performing Arts
 </tbody>
 </table>
 
-<img style="width: 100%;margin-top:10px;"  src="/images/guzheng5.jpg" /><p style="text-align: center; font-size:13px;margin-top:-10px;">2017 Singapore Youth Festival Arts Presentation</p>
+<img style="width: 100%;margin-top:10px;"  src="/images/guzheng5.jpg" />
+<p style="text-align: center; font-size:13px;margin-top:-10px;">2017 Singapore Youth Festival Arts Presentation</p>
 
-<img style="width: 100%;margin-top:10px;" src="/images/guzheng6.jpg"/><p style="text-align: center; font-size:13px;margin-top:-10px;">2019 Singapore Youth Festival Arts Presentation</p>
+<img style="width: 100%;margin-top:10px;" src="/images/guzheng6.jpg"/>
+<p style="text-align: center; font-size:13px;margin-top:-10px;">2019 Singapore Youth Festival Arts Presentation</p>
 
 <img style="width: 100%;margin-top:10px;" src="/images/guzheng7.jpg"/>
 
@@ -99,9 +101,11 @@ third_nav_title: Performing Arts
 <h4><strong>CCA Activities</strong></h4>
 <p style="font-size:15px; line-height:2;margin-top:15px;">In 2019, the Pei Hwa Guzheng Ensemble had their inaugural Guzheng recital at the Esplanade Recital Studio. The recital showcased the passion and talent of the Guzheng Ensemble. Pieces played at the recital highlighted the versatility of the Guzheng instrument through traditional Chinese music pieces, Mandopop medleys and English pop songs. Through the exposure of and preparation for the Guzheng recital, the members of Pei Hwa Guzheng Ensemble has certainly grown as a person, a performer and as a team member.</p>
 
-<img style="width: 100%;margin-top:10px;" src="/images/guzheng8.jpg"/><p style="text-align: center; font-size:13px;margin-top:-10px;">Guzheng Recital at the Esplanade Recital Studio</p>
+<img style="width: 100%;margin-top:10px;" src="/images/guzheng8.jpg"/>
+<p style="text-align: center; font-size:13px;margin-top:-10px;">Guzheng Recital at the Esplanade Recital Studio</p>
 
-<img style="width: 100%;margin-top:10px;" src="/images/guzheng9.jpg"/><p style="text-align: center; font-size:13px;margin-top:10px;">Guzheng lunchtime concert at the school foyer</p>
+<img style="width: 100%;margin-top:10px;" src="/images/guzheng9.jpg"/>
+<p style="text-align: center; font-size:13px;margin-top:10px;">Guzheng lunchtime concert at the school foyer</p>
 
 <p style="font-size:15px; line-height:2;margin-top:15px;">Since 2009, the&nbsp;Guzheng&nbsp;Ensemble has also participated and performed in many community events, like:</p>
 
