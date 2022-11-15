@@ -120,8 +120,8 @@ third_nav_title: Performing Arts
 	<br>
 	<br>
 	We also lead a strong and robust mentorship programme. Our dance seniors and alumni are ever ready to dedicate their time and effort towards guiding and mentoring their dance juniors. In Pei Hwa Dance Society, everyone strives towards a common goal, and no student gets left behind."
-	<img align="center" alt="" src="/images/dance6.png" style="width:100%; margin-top:10px"><br>
-	<img align="center" alt="" src="/images/dance7.png" style="width:100%;">
+	<img align="center" alt="" src="/images/dance6.png" style="width:70%; margin-top:10px"><br>
+	<img align="center" alt="" src="/images/dance7.png" style="width:70%;">
 	</blockquote>
 
 <h4><strong>CCA Details</strong></h4>
