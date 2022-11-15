@@ -152,7 +152,7 @@ third_nav_title: Performing Arts
 </li>
 
 <img src="/images/guzheng18.jpg" style="width: 100%;margin-top:10px;">
-<p style="text-align: center; font-size:13px;margin-top:-10px;">Performing Arts Camp 2019</p></li>
+<p style="text-align: center; font-size:13px;margin-top:-10px;">Performing Arts Camp 2019</p>
 
 <p style="font-size:15px; line-height:2;margin-top:15px;">For more information on the Direct School Admissions to Pei Hwa Secondary School through Guzheng Ensemble, please&nbsp;<a href="/programmes/direct-school-admission-dsa/guzheng/" target="_blank" rel="noopener noreferrer">click here</a>.</p>
 
