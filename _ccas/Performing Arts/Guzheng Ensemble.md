@@ -130,7 +130,6 @@ third_nav_title: Performing Arts
 
 <img src="/images/guzheng12.jpg" style="width: 100%;margin-top:10px;">
 <p style="text-align: center; font-size:13px;margin-top:5px;">Exchange programme with other Guzheng Ensembles</p>
-</li>
 
 <p style="font-size:15px; line-height:2;margin-top:15px;">The necessary Covid-19 safe management measures restricted many school activities and experience for students. The Guzheng Ensemble has managed to make the best of the situation and still provide the students in Guzheng Ensemble with an enriching CCA experience. Members were able to continue with practice sessions and bonding sessions via video-conferencing. The Guzheng Ensemble participated in the school Chinese New Year celebration, Teachers&rsquo; Day celebration and even a school performing arts showcase through pre-recorded performances.</p>
 
