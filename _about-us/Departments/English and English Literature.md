@@ -4,7 +4,7 @@ permalink: /about-us/departments/english-language-literature/
 description: ""
 third_nav_title: Departments
 ---
-<h4 style="color:#635f1a;font-weight:900">Our Goals</h4>
+<h4 style="color:#635f1a;font-weight:bold">Our Goals</h4>
 <p style="font-size:15px; line-height:2;margin-top:15px; font-family:Open Sans">Through English and Literature, we endeavour to inculcate in students a love for the English language, and an appreciation of the intricacies of the language in creating meaning, in order to develop them into confident communicators.</p>
 <p style="font-size:15px; line-height:2;margin-top:15px;">We aim to give students the opportunity to formulate their ideas and share their thoughts during discussions and presentations in class.</p>
 
