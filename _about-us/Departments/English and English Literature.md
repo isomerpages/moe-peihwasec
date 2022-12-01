@@ -39,7 +39,7 @@ third_nav_title: Departments
   		<img src="/images/Sec%204%20Lit%20Screening.jpg" style="width:100%; margin-top: 35px;">
   		</div>
 	<div class="column" style="box-sizing: border-box;  float: left;width: 33%;">
-		<img src="/images/Macbeth%20journal.jpg"style="width:100%;  margin-top: 12px;">
+		<img src="/images/Macbeth%20journal.jpg" style="width:100%;  margin-top: 12px;">
 	</div>
   <div class="column" style="box-sizing: border-box;  float: left;width: 33%; padding:5px;">
   	<img src="/images/Macbeth2.jpg" style="width:100%;  margin-top: 35px;">
