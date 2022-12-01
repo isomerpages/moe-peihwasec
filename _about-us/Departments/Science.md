@@ -16,7 +16,7 @@ Our Goals</h4>
 <p style="font-size:14.5px; line-height:2;margin:-15px 0 13px 0px;font-family:Open Sans;">The Science Department seeks to provide meaningful learning experiences for students through various enrichment programs and competitions to provide students with the opportunity to learn science outside of the classrooms. Through partnership with external organisations, students are exposed to science and technologies it entails beyond the textbooks. By participating in competitions, we can nurture a greater passion for science in our students.</p>
 
 <p style="margin-top:15px;font-size:17px;"><strong>Enrichment Programmes</strong></p>
-<p style="font-size:14.5px; line-height:2;margin:-10px 0 13px 0px;font-family:Open Sans;"><strong><em>Chemical Powered Car</em></strong></p>
+<p style="font-size:15.5px; line-height:2;margin:-10px 0 13px 0px;font-family:Open Sans;"><strong><em>Chemical Powered Car</em></strong></p>
 
 <p style="font-size:14.5px; line-height:2;margin:-15px 0 13px 0px;font-family:Open Sans;">Students designed and created chemically powered cars out of everyday normal plastic bottles and the cars were propelled forward by a non-toxic chemical reaction. Examples of such reactions include baking soda mixed with vinegar.</p>
 
@@ -29,15 +29,15 @@ Our Goals</h4>
   			<img src="/images/Enrichment - Chemical Powered Car 2.png" style="width:100%;">
 		</div>  
 </div>
+<br>
 
-
-<p style="font-size:14.5px; line-height:2;margin:-10px 0 13px 0px;font-family:Open Sans;"><strong><em>Fun With Electronics Workshop at Science Center</em></strong></p>
+<p style="font-size:15.5px; line-height:2;margin:-15px 0 13px 0px;font-family:Open Sans;"><strong><em>Fun With Electronics Workshop at Science Center</em></strong></p>
 
 <p style="font-size:14.5px; line-height:2;margin:-15px 0 13px 0px;font-family:Open Sans;">Students attended a workshop in Science Center. They were introduced to several basic electronic components (resistors, LEDs, capacitors, transistors) and were given the opportunity to build electronic circuits utilising their properties on a breadboard (prototyping board).</p>
 
 <img style="width: 100%;" src="/images/Enrichment - Electronic Workshop.png" /><br>
 
-<p style="font-size:14.5px; line-height:2;margin:-10px 0 13px 0px;font-family:Open Sans;"><strong><em>Cosmetic Science Workshop</em></strong></p>
+<p style="font-size:15.5px; line-height:2;margin:-15px 0 13px 0px;font-family:Open Sans;"><strong><em>Cosmetic Science Workshop</em></strong></p>
 
 <p style="font-size:14.5px; line-height:2;margin:-15px 0 13px 0px;font-family:Open Sans;">During a Cosmetic Science workshop, students learnt about emulsification and how creams are made as emulsions. They made their own cold cream and sunscreen using natural products.</p>
 
@@ -50,8 +50,8 @@ Our Goals</h4>
 		</div>  
 </div>
 
-<p style="margin-top:15px;font-size:18px;"><strong>Competitions</strong></p>
-<p style="font-size:14.5px; line-height:2;margin:-10px 0 13px 0px;font-family:Open Sans;"><strong><em>NUS Crystal Growing Competition</em></strong></p>
+<p style="margin-top:15px;font-size:17px;"><strong>Competitions</strong></p>
+<p style="font-size:15.5px; line-height:2;margin:-15px 0 13px 0px;font-family:Open Sans;"><strong><em>NUS Crystal Growing Competition</em></strong></p>
 
 <p style="font-size:14.5px; line-height:2;margin:-15px 0 13px 0px;font-family:Open Sans;">The NUS Crystal Growing Competition is held bi-annually, organised by the Chemistry Department. Students from secondary schools, international schools, junior colleges, ITE colleges and polytechnics in Singapore were invited to take part in the competition. Through the mastery of the art of crystal growing, our students had the opportunity to exercise their creativity, individuality and discover the elegant science during the process.</p>
 
@@ -60,8 +60,9 @@ Our Goals</h4>
 <img style="width: 70%;" src="/images/seed.png" />
 
 <p style="font-size:14.5px; line-height:2;margin-top:15px;font-family:Open Sans;">The choice of chemicals and method of crystallisation were left to the students to decide. Our students went on to do their research and discussion with the teacher mentor on the possible chemicals and methods to prepare the crystals for this category. Finally, they decided on growing potassium aluminium sulfate (alum). The students encountered many issues such as unable to grow the seed crystals and failure to stain the alum red permanently during the process. With their perseverance and determination, they overcome the challenges and managed to grow their first seed crystals after some weeks. Even though the students did not manage to continue with the crystallization due to Covid-19, our students had learnt a lot during the process. They realized that not every experiment will be successful and in fact, it takes a long time to research, experimenting and continuous trying so as to achieve some positive results.</p>
+<br>
 
-<p style="font-size:14.5px; line-height:2;font-family:Open Sans;"><strong><em>18<sup>th</sup> Elementz Science Project Competition and Exhibition</em></strong></p>
+<p style="font-size:15.5px; line-height:2;margin:-10px 0 13px 0px;font-family:Open Sans;"><strong><em>18<sup>th</sup> Elementz Science Project Competition and Exhibition</em></strong></p>
 
 <p style="font-size:14.5px; line-height:2;margin:-15px 0 13px 0px;font-family:Open Sans;">A group of students, who were concerned about the unpredictable haze situation in Singapore and the high cost of air filters, investigated how low-cost air filters could be developed to improve the quality of lives of Singaporeans. After conducting research, they developed two low-cost air filters and tested the efficiency of these air filters. These air filters were placed in metal tins and a mosquito coil was lit to mimic a very hazy atmosphere. The concentrations of particulate matters (PM10 and PM2.5), Formaldehyde and Total Volatile Organic Compounds (TVOC) were measured every 5 minutes over a 30-minute period, using an indoor air quality detector. The students concluded that the air filter with activated carbon attached to a fan was effective in reducing harmful substances in the surrounding air. The objective of making a significantly cheaper air filter was also achieved. The students presented their findings to the judges and were awarded the Gold Award. Throughout the entire journey, the students nurtured their interest in investigative-type projects in science and developed their communication skills.</p>
 
@@ -100,15 +101,17 @@ Our Student Learning</strong></h4>
 <ol start=3>
 <li style="font-size:14.5px; line-height:2;margin-top:15px;margin-left:15px;font-family:Open Sans;"> After understanding the experiment, students were to deduce the result of experiment by drawing the iodine test result of the variegated leaf shown earlier in the assignment. While teachers were not able to conduct face-to-face lessons in the laboratory during HBL, resources online and on SLS platform made the experiential learning possible and students&rsquo; learning is still complete with this virtual practical lesson.</li>
 	</ol>
+	<br>
 	
-<p style="font-size:14.5px; line-height:2;font-family:Open Sans;"><strong>HBL Virtual Practical Lesson for Sec 1NT Science</strong></p>
+<p style="font-size:15.5px; line-height:2;margin:-10px 0 13px 0px;font-family:Open Sans;"><strong>HBL Virtual Practical Lesson for Sec 1NT Science</strong></p>
 <p style="font-size:14.5px; line-height:2;margin:-15px 0 13px 0px;font-family:Open Sans;">Students were directed to this website:&nbsp;<a href="https://phet.colorado.edu/en/simulation/circuit-construction-kit-dc">https://phet.colorado.edu/en/simulation/circuit-construction-kit-dc</a>for a virtual practical session, where students can learn to arrange the electrical components in a circuit. These online simulation has allowed students to observe the changes in current and voltage in parallel and series circuits, and in turn strengthen their understanding in the concepts.</p>
 
 <img style="width: 100%;" src="/images/sci8.png" />
 
 <p style="text-align: center; font-size:13px;line-height:1.6;margin-top:10px;"><em>Screenshot of simulation used during HBL</em></p>
+<br>
 
-<p style="font-size:14.5px; line-height:2;font-family:Open Sans;"><strong>HBL for Sec 3NT Science</strong></p>
+<p style="font-size:15.5px; line-height:2;margin:-10px 0 13px 0px;font-family:Open Sans;"><strong>HBL for Sec 3NT Science</strong></p>
 <p style="font-size:14.5px; line-height:2;margin:-15px 0 13px 0px;font-family:Open Sans;">Besides the usual powerpoint slides and SLS lessons, students were asked to do some hands-on activities and a research for the topic of Electrical Safety:</p>
 <ol>
 	<li style="font-size:14.5px; line-height:2;margin-top:15px;margin-left:15px;font-family:Open Sans;">To capture images of unsafe electrical practices/hazards at home and upload onto online platform to share with their classmates. Students actively looked out for samples at the comfort of their homes. Some samples are shown below. This activity has heightened the awareness of presence of unsafe electrical hazards at home and ways to eradicate such hazards.</li>
@@ -141,16 +144,18 @@ Our Student Learning</strong></h4>
 <li style="font-size:14.5px; line-height:2;margin-top:15px;margin-left:15px;font-family:Open Sans;"> As a closure and consolidation to the lesson, students are to assess their learning via a crossword puzzle. This injected some fun element for students to summarise their learning for the chapter.
 </li>
 	</ol>
+	<br>
 
-<p style="font-size:14.5px; line-height:2;font-family:Open Sans;"><strong>HBL Sec 3 Chemistry</strong></p>
+<p style="font-size:15.5px; line-height:2;margin:-10px 0 13px 0px;font-family:Open Sans;"><strong>HBL Sec 3 Chemistry</strong></p>
 <p style="font-size:14.5px; line-height:2;margin:-15px 0 13px 0px;font-family:Open Sans;">The Salts chapter can be abstract and very dry and Chemistry students tend to struggle in visualizing, understanding and making sense of the multiple steps in preparing a salt. During HBL, students watch the videos uploaded by teachers to have a deeper understanding of the concepts.</p>
 
 <img style="width: 100%;" src="/images/sci13.jpg" />
 <p  style="text-align: center; font-size:13px;margin-top:5px;"><em>Screenshot of Youtube video filmed as an educational tool for our students</em></p>
 
 <p style="font-size:15px; line-height:2">The videos featured step-by-step explanation and visualization of the various preparation methods. Filmed by our very own chemistry teacher, these videos have value-added to the learning of this chapter even at home. Students can playback the video anytime for self-directed learning and fill up the blanks in the consolidation mind-maps. The students will be more ready for experiential learning in the lab when they are back in school.</p>
+<br>
 
-<p style="font-size:14.5px; line-height:2;font-family:Open Sans;"><strong>HBL Sec 3 Physics Lesson</strong></p>
+<p style="font-size:15.5px; line-height:2;margin:-10px 0 13px 0px;font-family:Open Sans;"><strong>HBL Sec 3 Physics Lesson</strong></p>
 <p style="font-size:14.5px; line-height:2;margin:-15px 0 13px 0px;font-family:Open Sans;">Technology has allowed teachers to make abstract concepts more concrete for our students so that they understand better. Before full HBL, when learning about Kinematics, students were tasked to investigate the motion of the ball in a few scenarios. They used the Vernier Video Physics applet on iPads to track the trajectory of a ball.</p>
 
 <img style="width: 100%;" src="/images/Sec 3 Phy Trajectory pic.png" />
@@ -165,8 +170,9 @@ Our Student Learning</strong></h4>
 
 <img style="width: 100%;" src="/images/sci16.png" />
 <p style="text-align: center; font-size:13px;margin-top:5px;"><em>Screenshot of video to explain Conservation of Energy filmed by our Physics teacher</em></p>
+<br>
 
-<p style="font-size:14.5px; line-height:2;font-family:Open Sans;"><strong>HBL Sec 4 Biology Lesson on</strong><strong>Transport in Humans (Circulatory System)</strong></p>
+<p style="font-size:15.5px; line-height:2;margin:-10px 0 13px 0px;font-family:Open Sans;"><strong>HBL Sec 4 Biology Lesson on</strong><strong>Transport in Humans (Circulatory System)</strong></p>
 <p style="font-size:14.5px; line-height:2;margin:-15px 0 13px 0px;font-family:Open Sans;">Students role play as a team of medical interns in the Emergency Response Unit of Sengkang Hospital. A 66-year-old female was sent to the hospital because while on her way to the supermarket, she experienced chest pains, faintness and then she collapsed.</p>
 
 <ul style="margin-top:10px;">
