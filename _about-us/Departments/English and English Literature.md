@@ -10,13 +10,13 @@ third_nav_title: Departments
 
 
 <h4 style="color:#635f1a;font-weight:bold">Our Programmes</h4>
-<p style="margin-top:15px;font-size:16px;"><strong>Slice of Life</strong></p>
+<p style="margin-top:15px;font-size:17px;"><strong>Slice of Life</strong></p>
 <p style="font-size:14.5px; line-height:2;margin:-15px 0 13px 0px;font-family:Open Sans">Our students take to the stage on Friday mornings to share their thoughts and viewpoints on our student outcomes, school values and current affairs. These 'slices' of their lives are savoured by the Pei Hwa Family.</p>
 <img style="width: 75%;" src="/images/eng1.png" />
 
 <br>
 
-<p style="margin-top:15px;font-size:16px;"><strong>PHeature</strong></p>
+<p style="margin-top:15px;font-size:17px;"><strong>PHeature</strong></p>
 <p  style="font-size:14.5px; line-height:2;margin:-15px 0 13px 0px;font-family:Open Sans">PHeature is a broadcast programme in PHSS where student leaders take turns to share interesting news with the school to encourage the reading of current affairs.</p>
 <p style="font-size:14.5px; line-height:2;margin-top:15px;font-family:Open Sans">Please <a href="/files/March-PHeature.pdf">click here</a> for our March broadcast.</p>
 
@@ -24,13 +24,13 @@ third_nav_title: Departments
 
 <br>
 
-<p style="margin-top:15px;font-size:16px;"><strong>National Schools Literature Festival (NSLF)</strong></p>
+<p style="margin-top:15px;font-size:17px;"><strong>National Schools Literature Festival (NSLF)</strong></p>
 <p style="font-size:14.5px; line-height:2;margin:-15px 0 13px 0px;font-family:Open Sans">To promote the love of Literature, the department brings our Literature students to soak in the atmosphere at the NSLF where schools around Singapore come together to share their learning in the subject.</p>
 <img style="width: 75%;" src="/images/eng3.jpg" />
 
 
 <h4 style="color:#635f1a;font-weight:bold">Our Student Learning</h4>
-<p style="margin-top:15px;font-size:16px;"><strong>Upper Secondary English Literature</strong></p>
+<p style="margin-top:15px;font-size:17px;"><strong>Upper Secondary English Literature</strong></p>
 <p style="font-size:14.5px; line-height:2;margin:-15px 0 13px 0px;font-family:Open Sans;">During HBL, the Literature teachers leveraged the circuit breaker opportunity to get students to watch the play streaming for free online together. They also used props to make the drama lessons come alive and made real world connections with images found online, such as this image connecting the hand washing practice during this time of the Covid Virus to the play, Macbeth, to make the text more memorable for students!</p>
 
 
@@ -48,7 +48,7 @@ third_nav_title: Departments
 
 <br>
 
-<p style="margin-top:15px;font-size:16px;"><strong>Lower Secondary English</strong></p>
+<p style="margin-top:15px;font-size:17px;"><strong>Lower Secondary English</strong></p>
 <p style="font-size:14.5px; line-height:2;margin:-15px 0 13px 0px;font-family:Open Sans;">With the new syllabus for English introduced in 2020 for Secondary 1 students, our students were given time to further develop their narrative writing skills and to also demonstrate their creativity by illustrating their work. This is an example of their innovative entries, written by Ang Kai Jie.</p>
 
 <div id="gallery" style="width: 600px;overflow: hidden;
