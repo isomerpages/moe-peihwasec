@@ -35,7 +35,7 @@ Our Goals</h4>
 
 <p style="font-size:14.5px; line-height:2;margin:-15px 0 13px 0px;font-family:Open Sans;">Students attended a workshop in Science Center. They were introduced to several basic electronic components (resistors, LEDs, capacitors, transistors) and were given the opportunity to build electronic circuits utilising their properties on a breadboard (prototyping board).</p>
 
-<img style="width: 100%;" src="/images/Enrichment - Electronic Workshop.png" /><br>
+<img style="width: 80%;" src="/images/Enrichment - Electronic Workshop.png" /><br>
 
 <p style="font-size:15.5px; line-height:2;margin:-15px 0 13px 0px;font-family:Open Sans;"><strong><em>Cosmetic Science Workshop</em></strong></p>
 
@@ -60,6 +60,7 @@ Our Goals</h4>
 <img style="width: 70%;" src="/images/seed.png" />
 
 <p style="font-size:14.5px; line-height:2;margin-top:15px;font-family:Open Sans;">The choice of chemicals and method of crystallisation were left to the students to decide. Our students went on to do their research and discussion with the teacher mentor on the possible chemicals and methods to prepare the crystals for this category. Finally, they decided on growing potassium aluminium sulfate (alum). The students encountered many issues such as unable to grow the seed crystals and failure to stain the alum red permanently during the process. With their perseverance and determination, they overcome the challenges and managed to grow their first seed crystals after some weeks. Even though the students did not manage to continue with the crystallization due to Covid-19, our students had learnt a lot during the process. They realized that not every experiment will be successful and in fact, it takes a long time to research, experimenting and continuous trying so as to achieve some positive results.</p>
+<br>
 
 <p style="font-size:15.5px; line-height:2;margin:-10px 0 13px 0px;font-family:Open Sans;"><strong><em>18<sup>th</sup> Elementz Science Project Competition and Exhibition</em></strong></p>
 
@@ -100,7 +101,6 @@ Our Student Learning</h4>
 <ol start="3">
 <li style="font-size:14.5px; line-height:2;margin-top:15px;margin-left:15px;font-family:Open Sans;"> After understanding the experiment, students were to deduce the result of experiment by drawing the iodine test result of the variegated leaf shown earlier in the assignment. While teachers were not able to conduct face-to-face lessons in the laboratory during HBL, resources online and on SLS platform made the experiential learning possible and students&rsquo; learning is still complete with this virtual practical lesson.</li>
 	</ol>
-<br>
 	
 <p style="font-size:15.5px; line-height:2;margin:-10px 0 13px 0px;font-family:Open Sans;"><strong>HBL Virtual Practical Lesson for Sec 1NT Science</strong></p>
 <p style="font-size:14.5px; line-height:2;margin:-15px 0 13px 0px;font-family:Open Sans;">Students were directed to this website:&nbsp;<a href="https://phet.colorado.edu/en/simulation/circuit-construction-kit-dc">https://phet.colorado.edu/en/simulation/circuit-construction-kit-dc</a>for a virtual practical session, where students can learn to arrange the electrical components in a circuit. These online simulation has allowed students to observe the changes in current and voltage in parallel and series circuits, and in turn strengthen their understanding in the concepts.</p>
@@ -141,7 +141,7 @@ Our Student Learning</h4>
 <li style="font-size:14.5px; line-height:2;margin-top:15px;margin-left:15px;font-family:Open Sans;"> As a closure and consolidation to the lesson, students are to assess their learning via a crossword puzzle. This injected some fun element for students to summarise their learning for the chapter.
 </li>
 	</ol>
-	<br>
+<br>
 
 <p style="font-size:15.5px; line-height:2;margin:-10px 0 13px 0px;font-family:Open Sans;"><strong>HBL Sec 3 Chemistry</strong></p>
 <p style="font-size:14.5px; line-height:2;margin:-15px 0 13px 0px;font-family:Open Sans;">The Salts chapter can be abstract and very dry and Chemistry students tend to struggle in visualizing, understanding and making sense of the multiple steps in preparing a salt. During HBL, students watch the videos uploaded by teachers to have a deeper understanding of the concepts.</p>
@@ -193,5 +193,5 @@ Our Student Learning</h4>
 
 <p style="font-size:14.5px; line-height:2;margin-top:15px;font-family:Open Sans;">Students then answer the following free response questions, which are part of the process of medical diagnosis. Students are then tasked to comment on the diagnosis and explanation in their respective groups, via Student Learning Spaces (SLS). These learning experiences provided a more authentic context to the students and will in turn make the learning more enduring.</p>
 
-<img style="width: 100%;" src="/images/sci19.png" />
+<img style="width: 80%;" src="/images/sci19.png" />
 </ul>
