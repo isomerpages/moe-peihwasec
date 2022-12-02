@@ -11,9 +11,8 @@ Our Goals</h4>
 
 
 
-<h4 style="color:#635f1a;font-weight:bold">Our Goals</strong></h4>
-<p style="margin-top:15px;font-size:17px;"><strong>Our Programmes</strong></p>
-<p style="font-size:14.5px; line-height:2;margin:-15px 0 13px 0px;font-family:Open Sans;">The Science Department seeks to provide meaningful learning experiences for students through various enrichment programs and competitions to provide students with the opportunity to learn science outside of the classrooms. Through partnership with external organisations, students are exposed to science and technologies it entails beyond the textbooks. By participating in competitions, we can nurture a greater passion for science in our students.</p>
+<h4 style="color:#635f1a;font-weight:bold">Our Programmes</h4>
+<p style="font-size:14.5px; line-height:2;margin-top:15px; font-family:Open Sans;">The Science Department seeks to provide meaningful learning experiences for students through various enrichment programs and competitions to provide students with the opportunity to learn science outside of the classrooms. Through partnership with external organisations, students are exposed to science and technologies it entails beyond the textbooks. By participating in competitions, we can nurture a greater passion for science in our students.</p>
 
 <p style="margin-top:15px;font-size:17px;"><strong>Enrichment Programmes</strong></p>
 <p style="font-size:15.5px; line-height:2;margin:-10px 0 13px 0px;font-family:Open Sans;"><strong><em>Chemical Powered Car</em></strong></p>
@@ -22,7 +21,8 @@ Our Goals</h4>
 
 
 <div class="row" style="box-sizing: border-box;"> 
-		<div class="column" style="box-sizing: border-box;  float: left; width: 50%; padding: 10px;">
+		
+<div class="column" style="box-sizing: border-box;  float: left; width: 50%; padding: 10px;">
   			<img src="/images/Enrichment - Chemical Powered Car 1.png" style="width:100%; margin-top:20px; ">
   		</div>
   		<div class="column" style="box-sizing: border-box;  float: left;width: 50%;padding: 10px;">
@@ -60,7 +60,6 @@ Our Goals</h4>
 <img style="width: 70%;" src="/images/seed.png" />
 
 <p style="font-size:14.5px; line-height:2;margin-top:15px;font-family:Open Sans;">The choice of chemicals and method of crystallisation were left to the students to decide. Our students went on to do their research and discussion with the teacher mentor on the possible chemicals and methods to prepare the crystals for this category. Finally, they decided on growing potassium aluminium sulfate (alum). The students encountered many issues such as unable to grow the seed crystals and failure to stain the alum red permanently during the process. With their perseverance and determination, they overcome the challenges and managed to grow their first seed crystals after some weeks. Even though the students did not manage to continue with the crystallization due to Covid-19, our students had learnt a lot during the process. They realized that not every experiment will be successful and in fact, it takes a long time to research, experimenting and continuous trying so as to achieve some positive results.</p>
-<br>
 
 <p style="font-size:15.5px; line-height:2;margin:-10px 0 13px 0px;font-family:Open Sans;"><strong><em>18<sup>th</sup> Elementz Science Project Competition and Exhibition</em></strong></p>
 
@@ -77,7 +76,7 @@ Our Goals</h4>
 
 
 <h4 style="color:#635f1a;font-weight:bold">
-Our Student Learning</strong></h4>
+Our Student Learning</h4>
 <p style="margin-top:15px;font-size:17px;"><strong>HBL LSS Virtual Practical</strong></p>
 <p style="font-size:14.5px; line-height:2;margin:-10px 0 13px 0px;font-family:Open Sans;"><strong>Topic: Photosynthesis &amp; Respiration</strong></p>
 <p style="font-size:14.5px; line-height:2;margin:-15px 0 13px 0px;font-family:Open Sans;">As students are not able to carry out the experiment in the laboratory due to social distancing measures, virtual practical lessons were designed to allow students to have the concrete experience in order to conceptualize learning. One of such lesson is carried out in our Secondary One level where students are to investigate if chlorophyll is necessary for photosynthesis</p>
@@ -98,10 +97,10 @@ Our Student Learning</strong></h4>
 
 <img style="width: 100%;" src="/images/Sec 1 Bio virtual practical lesson pic.jpg" />
 
-<ol start=3>
+<ol start="3">
 <li style="font-size:14.5px; line-height:2;margin-top:15px;margin-left:15px;font-family:Open Sans;"> After understanding the experiment, students were to deduce the result of experiment by drawing the iodine test result of the variegated leaf shown earlier in the assignment. While teachers were not able to conduct face-to-face lessons in the laboratory during HBL, resources online and on SLS platform made the experiential learning possible and students&rsquo; learning is still complete with this virtual practical lesson.</li>
 	</ol>
-	<br>
+<br>
 	
 <p style="font-size:15.5px; line-height:2;margin:-10px 0 13px 0px;font-family:Open Sans;"><strong>HBL Virtual Practical Lesson for Sec 1NT Science</strong></p>
 <p style="font-size:14.5px; line-height:2;margin:-15px 0 13px 0px;font-family:Open Sans;">Students were directed to this website:&nbsp;<a href="https://phet.colorado.edu/en/simulation/circuit-construction-kit-dc">https://phet.colorado.edu/en/simulation/circuit-construction-kit-dc</a>for a virtual practical session, where students can learn to arrange the electrical components in a circuit. These online simulation has allowed students to observe the changes in current and voltage in parallel and series circuits, and in turn strengthen their understanding in the concepts.</p>
@@ -109,7 +108,6 @@ Our Student Learning</strong></h4>
 <img style="width: 100%;" src="/images/sci8.png" />
 
 <p style="text-align: center; font-size:13px;line-height:1.6;margin-top:10px;"><em>Screenshot of simulation used during HBL</em></p>
-<br>
 
 <p style="font-size:15.5px; line-height:2;margin:-10px 0 13px 0px;font-family:Open Sans;"><strong>HBL for Sec 3NT Science</strong></p>
 <p style="font-size:14.5px; line-height:2;margin:-15px 0 13px 0px;font-family:Open Sans;">Besides the usual powerpoint slides and SLS lessons, students were asked to do some hands-on activities and a research for the topic of Electrical Safety:</p>
@@ -128,8 +126,7 @@ Our Student Learning</strong></h4>
 <li style="font-size:14.5px; line-height:2;margin-left:20px;font-family:Open Sans;">how electric eels generate electricity,</li>
 <li style="font-size:14.5px; line-height:2;margin-left:20px;font-family:Open Sans;">how the electrical eels do not get electrocuted,</li>
 <li style="font-size:14.5px; line-height:2;margin-left:20px;font-family:Open Sans;">how to protect oneself when one is faced with an electric eel.</li>
-</ul>
-	
+	</ul></li>
 <img style="width: 100%;" src="/images/sci11.jpg" />
 <p style="text-align: center; font-size:13px;margin-top:5px;"><em>Sample answers</em></p>
 	
@@ -178,15 +175,15 @@ Our Student Learning</strong></h4>
 <ul style="margin-top:10px;">
 	<li style="font-size:16px;">
  <strong>Preliminary Diagnosis</strong></li>
-<p style="font-size:15px; line-height:2;margin-top:10px;">The team is given the patient&rsquo;s details and history, just like how it would be provided for in the hospital.</p>
+<p style="font-size:14.5px; line-height:2;margin-top:-15px;font-family:Open Sans;">The team is given the patient&rsquo;s details and history, just like how it would be provided for in the hospital.</p>
 <img style="width: 100%;" src="/images/sci17.png" />
 
 <li style="font-size:16px;">
-	<strong>Medical Report Analysis</strong></p>
+	<strong>Medical Report Analysis</strong></li>
 <p style="font-size:14.5px; line-height:2;margin-top:-15px;font-family:Open Sans;">Students then are required to</p>
 <ol style="font-size:15px; line-height:2;margin:-15px 0 13px 0px;">
 	<li style="font-size:14.5px; line-height:2;margin-left:20px;font-family:Open Sans;"> analyse the results of three diagnostic tests: a) MRI scan of the patient's heart, b) angiogram of the patient's coronary arteries, and c) blood smear,</li>
-	<li style="font-size:14.5px; line-height:2;margin-left:20px;font-family:Open Sans;"> determine the cause of your patient's condition based on the evidence provided to you and</p>
+	<li style="font-size:14.5px; line-height:2;margin-left:20px;font-family:Open Sans;"> determine the cause of your patient's condition based on the evidence provided to you and</li>
 <li style="font-size:14.5px; line-height:2;margin-left:20px;font-family:Open Sans;"> account for all signs and symptoms according to your diagnosis.</li>
 </ol>
 
@@ -197,3 +194,4 @@ Our Student Learning</strong></h4>
 <p style="font-size:14.5px; line-height:2;margin-top:15px;font-family:Open Sans;">Students then answer the following free response questions, which are part of the process of medical diagnosis. Students are then tasked to comment on the diagnosis and explanation in their respective groups, via Student Learning Spaces (SLS). These learning experiences provided a more authentic context to the students and will in turn make the learning more enduring.</p>
 
 <img style="width: 100%;" src="/images/sci19.png" />
+</ul>
