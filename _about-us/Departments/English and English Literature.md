@@ -6,12 +6,12 @@ third_nav_title: Departments
 ---
 <h4 style="color:#635f1a;font-weight:bold">Our Goals</h4>
 <p style="font-size:14.5px; line-height:2;margin-top:15px; font-family:Open Sans">Through English and Literature, we endeavour to inculcate in students a love for the English language, and an appreciation of the intricacies of the language in creating meaning, in order to develop them into confident communicators.</p>
-<p style="font-size:14.5px; line-height:2;margin-top:15px; font-family:Open Sans">We aim to give students the opportunity to formulate their ideas and share their thoughts during discussions and presentations in class.</p>
+<p  style="font-size:14.5px; line-height:2;margin-top:15px;font-family:Open Sans;">We aim to give students the opportunity to formulate their ideas and share their thoughts during discussions and presentations in class.</p>
 
 
 <h4 style="color:#635f1a;font-weight:bold">Our Programmes</h4>
 <p style="margin-top:15px;font-size:17px;"><strong>Slice of Life</strong></p>
-<p style="font-size:14.5px; line-height:2;margin:-15px 0 13px 0px;font-family:Open Sans">Our students take to the stage on Friday mornings to share their thoughts and viewpoints on our student outcomes, school values and current affairs. These 'slices' of their lives are savoured by the Pei Hwa Family.</p>
+<p style="font-size:14.5px; line-height:2;margin:-15px 0 13px 0px;font-family:Open Sans;">Our students take to the stage on Friday mornings to share their thoughts and viewpoints on our student outcomes, school values and current affairs. These 'slices' of their lives are savoured by the Pei Hwa Family.</p>
 <img style="width: 75%;" src="/images/eng1.png" />
 
 <br>
