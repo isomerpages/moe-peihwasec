@@ -11,7 +11,7 @@ Congratulations to our&nbsp;former students who has excelled academically at Rep
 <tbody>
 		
 <tr>
-<td style="font-size:14.5px; line-height:2;font-family:Open Sans;">Name</td>
+<td style="font-size:14.5px; line-height:2;font-family:Open Sans;width:10%;">Name</td>
 <td style="font-size:14.5px; line-height:2;font-family:Open Sans;">: <strong>Kaelyn Lim</strong></td>
 </tr>
 	
@@ -51,7 +51,7 @@ Congratulations to our&nbsp;former student who has excelled academically at St A
 	
 <tbody>
 <tr>
-<td style="font-size:14.5px; line-height:2;font-family:Open Sans;">Name</td>
+<td style="font-size:14.5px; line-height:2;font-family:Open Sans;width:10%;">Name</td>
 <td style="font-size:14.5px; line-height:2;font-family:Open Sans;">: <strong>Theodore Chow Sheng Kai</strong></td>
 </tr>
 	
@@ -77,7 +77,7 @@ Congratulations to our&nbsp;former students who have excelled academically at Ng
 <tbody>
 		
 <tr>
-<td style="font-size:14.5px; line-height:2;font-family:Open Sans;">Name</td>
+<td style="font-size:14.5px; line-height:2;font-family:Open Sans;width:10%;">Name</td>
 <td style="font-size:14.5px; line-height:2;font-family:Open Sans;">
 : <strong>Alicia Wee Yu Xuan</strong></td>
 </tr>
