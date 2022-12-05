@@ -6,48 +6,48 @@ third_nav_title: Sports & Games
 ---
 <p style="font-size:15px; line-height:2;"><Strong>Outdoor Activities Club (ODAC)</strong>  exposes our members to various water sports such as kayaking and dragon boating and as well as climbing activities. Students will go through certification courses such as Kayaking One Star, Orienteering, Basic Wall Climbing and Abseiling. During normal CCA sessions, members are taught various outdoor-related skills such as Camp craft, Orienteering and Outdoor Cooking. They will then apply and hone these skills during our annual year end camp. </p>
 
-<h4><strong>Student Outcomes</strong></h4>
+<h4 style="color:#635f1a;font-weight:bold">Student Outcomes</h4>
 
-<p style="font-size:15px; line-height:2;margin-top:15px;">The CCA will 
-<ul style="margin-top:-5px">
-<li style="font-size:15px; line-height:2;"> become independent learners who appreciate the outdoors and nature</li>
-	<li style="font-size:15px; line-height:2;"> learn to be adaptable and confident people</li>
-<li style="font-size:15px; line-height:2;"> become innovative, resilient and effective problem solvers</li>
+<p style="font-size:14.5px; line-height:2;margin-top:15px; font-family:Open Sans">The CCA will enable our students to
+<ul style="margin-top:5px">
+<li style="font-size:14.5px; line-height:2;font-family:Open Sans;">become independent learners who appreciate the outdoors and nature</li>
+<li style="font-size:14.5px; line-height:2;font-family:Open Sans;"> learn to be adaptable and confident people</li>
+<li style="font-size:14.5px; line-height:2;font-family:Open Sans;"> become innovative, resilient and effective problem solvers</li>
 </ul>
 	
-<h4><strong>Competitions</strong></h4>
-<ol style="margin-top:-5px">
-		<li style="font-size:15px; line-height:2;"> Temasek Regatta</li>
+<h4 style="color:#635f1a;font-weight:bold">Competitions</h4>
+<ol style="margin-top:5px">
+		<li style="font-size:14.5px; line-height:2;font-family:Open Sans;"> Temasek Regatta</li>
 	<img style="width: 100%;margin-top:10px;" src="/images/Picture 1.jpg"/>
-		<li style="font-size:15px; line-height:2;align:center;"> GaRang Race by Greendale Secondary School</li>
+		<li style="font-size:14.5px; line-height:2;font-family:Open Sans;align:center;"> GaRang Race by Greendale Secondary School</li>
 	<img style="width: 100%;margin-top:10px;" src="/images/Picture 2.jpeg"/>
 	<img style="width: 100%;margin-top:10px;align:center;" src="/images/Picture 3.jpeg"/>
 	<img style="width: 100%;margin-top:10px; align:center;" src="/images/Picture 4.jpeg"/>
-		<li style="font-size:15px; line-height:2;"> National Orienteering Race </li>
+		<li style="font-size:14.5px; line-height:2;font-family:Open Sans;"> National Orienteering Race </li>
 </ol>
 
 
-<h4><strong>Activities/Workshops</strong></h4>
-<ol style="margin-top:-5px">
-		<li style="font-size:15px; line-height:2;"> Kayaking 1 Star and 2 Star Certification</li>
+<h4 style="color:#635f1a;font-weight:bold">Activities/Workshops</h4>
+<ol style="margin-top:5px">
+		<li style="font-size:14.5px; line-height:2;font-family:Open Sans;"> Kayaking 1 Star and 2 Star Certification</li>
 	<img style="width: 100%;margin-top:10px;align:center;" src="/images/ODAC-Picture5.jpg"/>
-		<li style="font-size:15px; line-height:2;"> Sports Climbing Level 1 Certification</li>
+		<li style="font-size:14.5px; line-height:2;font-family:Open Sans;"> Sports Climbing Level 1 Certification</li>
 		<img style="width: 100%;margin-top:10px;align:center;" src="/images/ODAC_Picture11.jpg"/>
-		<li style="font-size:15px; line-height:2;"> Lead Climbing Workshop Certification</li>
-		<li style="font-size:15px; line-height:2;"> Singapore National Abseiling Standards (SNAS) Level 1 and 2</li>
-		<li style="font-size:15px; line-height:2;"> Kayaking Orienteering Expedition Certification</li>
+		<li style="font-size:14.5px; line-height:2;font-family:Open Sans;"> Lead Climbing Workshop Certification</li>
+		<li style="font-size:14.5px; line-height:2;font-family:Open Sans;"> Singapore National Abseiling Standards (SNAS) Level 1 and 2</li>
+		<li style="font-size:14.5px; line-height:2;font-family:Open Sans;"> Kayaking Orienteering Expedition Certification</li>
 	<img style="width: 100%;margin-top:10px;align:center;" src="/images/ODAC-Picture7.jpg"/>
-		<li style="font-size:15px; line-height:2;"> Orienteering Course (school based)</li>
-	<li style="font-size:15px; line-height:2;"> Hiking</li>
-	<li style="font-size:15px; line-height:2;"> Outdoor running along park connector </li>
+		<li style="font-size:14.5px; line-height:2;font-family:Open Sans;"> Orienteering Course (school based)</li>
+	<li style="font-size:14.5px; line-height:2;font-family:Open Sans;"> Hiking</li>
+	<li style="font-size:14.5px; line-height:2;font-family:Open Sans;"> Outdoor running along park connector </li>
 	<img style="width: 100%;margin-top:10px;align:center;" src="/images/ODAC-Picture8.jpg"/>
-	<li style="font-size:15px; line-height:2;"> Camps </li>
+	<li style="font-size:14.5px; line-height:2;font-family:Open Sans;"> Camps </li>
 		<img style="width: 100%;margin-top:10px;align:center;" src="/images/ODAC-Picture%208.jpg"/>	<img style="width: 100%;margin-top:10px;align:center;" src="/images/ODAC-Picture%209.jpg"/>	<img style="width: 100%;margin-top:10px;align:center;" src="/images/ODAC-Picture%2010.jpg"/>
 
 </ol>
 	
 
-<h4><strong>Student Testament</strong></h4>
+<h4 style="color:#635f1a;font-weight:bold;margin-bottom:-25px;">Student Testament</h4>
 <blockquote style="font-size: 15px;
   width:100%;
   margin:50px auto;
@@ -67,7 +67,7 @@ To sum up my experience in ODAC, it was nothing short of amazing. I definitely h
   <span style="display:block; color:#333333; margin-top:1em;font-size:15px;"><em>Nixon (3I1), President (2021-2022)</em></span>
 </blockquote>
 
-<h4><strong>CCA Details</strong></h4>
+<h4 style="color:#635f1a;font-weight:bold">CCA Details</h4>
 <table border="1" style="width:100%;">
 	<tbody>
 		<tr>
