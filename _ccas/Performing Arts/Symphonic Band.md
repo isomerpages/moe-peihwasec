@@ -4,22 +4,22 @@ permalink: /ccas/performing-arts/symphonic-band/
 description: ""
 third_nav_title: Performing Arts
 ---
-<p style="font-size:15px; line-height:2">Pei Hwa Symphonic Band emphasizes a rigorous training program which aims to nurture the talents of our students and inspire them to reach their maximum potential while maintaining the high standard of music. It hopes to inculcate discipline and perseverance in our students as they pursue their passion for music. The band focuses on improving the aural skills, musical literacy and instrumental proficiency of the members. It helps the ensemble to perform effectively by having good intonation and appreciating the value of music as a source of enjoyment and personal fulfillment.</p>
+<p style="font-size:14.5px; line-height:2;font-family:Open Sans;"><strong>Pei Hwa Symphonic Band</strong> emphasizes a rigorous training program which aims to nurture the talents of our students and inspire them to reach their maximum potential while maintaining the high standard of music. It hopes to inculcate discipline and perseverance in our students as they pursue their passion for music. The band focuses on improving the aural skills, musical literacy and instrumental proficiency of the members. It helps the ensemble to perform effectively by having good intonation and appreciating the value of music as a source of enjoyment and personal fulfillment.</p>
 
-<h4><strong>Student Outcomes</strong></h4>
+<h4 style="color:#635f1a;font-weight:bold">Student Outcomes</h4>
 
-<p style="font-size:15px; line-height:2;margin-top:15px;">The CCA will enable our students to:</p>
-<ul style="margin-top:-5px;">
-<li style="font-size:15px; line-height:2;">Acquire musical knowledge and proficiency in playing musical instruments</li>
-<li style="font-size:15px; line-height:2;">Be self-directed learners and compassionate leaders as they take on various responsibilities</li>
-<li style="font-size:15px; line-height:2;">Build a sense of commitment, teamwork and moral integrity as they work towards a common goal</li>
-<li style="font-size:15px; line-height:2;">Develop a lifelong appreciation for music and interest in music creation</li>
-<li style="font-size:15px; line-height:2;">Foster friendship and deepen their sense of belonging to the school as they learn and interact with one another</li>
-<li style="font-size:15px; line-height:2;">Instill the school PRIDE values, social and emotional skills to prepare them for the future</li>
-<li style="font-size:15px; line-height:2;">Refine their musical performance skills and overall musicianship</li>
+<p style="font-size:14.5px; line-height:2;margin-top:15px; font-family:Open Sans">The CCA will enable our students to:</p>
+<ul style="margin-top:5px;">
+<li style="font-size:14.5px; line-height:2;font-family:Open Sans;">Acquire musical knowledge and proficiency in playing musical instruments</li>
+<li style="font-size:14.5px; line-height:2;font-family:Open Sans;">Be self-directed learners and compassionate leaders as they take on various responsibilities</li>
+<li style="font-size:14.5px; line-height:2;font-family:Open Sans;">Build a sense of commitment, teamwork and moral integrity as they work towards a common goal</li>
+<li style="font-size:14.5px; line-height:2;font-family:Open Sans;">Develop a lifelong appreciation for music and interest in music creation</li>
+<li style="font-size:14.5px; line-height:2;font-family:Open Sans;">Foster friendship and deepen their sense of belonging to the school as they learn and interact with one another</li>
+<li style="font-size:14.5px; line-height:2;font-family:Open Sans;">Instill the school PRIDE values, social and emotional skills to prepare them for the future</li>
+<li style="font-size:14.5px; line-height:2;font-family:Open Sans;">Refine their musical performance skills and overall musicianship</li>
 </ul>
 
-<h4><strong>Achievements</strong></h4>
+<h4 style="color:#635f1a;font-weight:bold">Achievements</h4>
 	
 <table border="1" style="border-collapse: collapse;margin: 25px 0;font-size:15px;font-family: sans-serif;box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);">
 <thead style="background-color: #009879; font-weight: bold; font-size: 16px;">
@@ -86,26 +86,26 @@ SYF Arts Presentation for Concert Band</strong>
 </tbody>
 </table>
 
-<h4><strong>Competitions and CCA Activities</strong></h4>
-<p style="font-size:15px; line-height:2;margin-top:15px;">Band exchange is a yearly programme during the preparation of SYF Arts Presentation. The purpose is to allow band students to deepen their appreciation, experience and exposure for music, and they build friendships through this exchange. It will enable students to enjoy the process of making music with others and coping with performance anxiety as they present their SYF and choice pieces in front of different schools. Schools will encourage one another and exchange gifts at the end of the day.</p>
+<h4 style="color:#635f1a;font-weight:bold">Competitions and CCA Activities</h4>
+<p style="font-size:14.5px; line-height:2;margin-top:15px; font-family:Open Sans">Band exchange is a yearly programme during the preparation of SYF Arts Presentation. The purpose is to allow band students to deepen their appreciation, experience and exposure for music, and they build friendships through this exchange. It will enable students to enjoy the process of making music with others and coping with performance anxiety as they present their SYF and choice pieces in front of different schools. Schools will encourage one another and exchange gifts at the end of the day.</p>
 
 <img src="/images/sband1.jpg" style="width: 100%;margin-top:10px;">
 <p style="text-align: center; font-size:13px;margin-top:5px;">Band Exchange Programme at Manjusri Secondary School</p>
 
-<p style="font-size:15px; line-height:2;margin-top:15px;">Pei Hwa Symphonic Band students have been given an opportunity to attend and/or perform in the following events:</p>
+<p style="margin-top:15px;font-size:14.5px; line-height:2;font-family:Open Sans;">Pei Hwa Symphonic Band students have been given an opportunity to attend and/or perform in the following events:</p>
 
 <ul style="margin-top:5px;">
-<li style="font-size:15px; line-height:2;">Band Concert (Internal)</li>
-<li style="font-size:15px; line-height:2;">Band Student Conductor Camp</li>
-<li style="font-size:15px; line-height:2;">Drum Major Camp</li>
-<li style="font-size:15px; line-height:2;">National Day Band Performance at Istana</li>
-<li style="font-size:15px; line-height:2;">PHSS Lunchtime Concert</li>
-<li style="font-size:15px; line-height:2;">PHSS National Day Parade</li>
-<li style="font-size:15px; line-height:2;">Sengkang West National Day Observance Ceremony</li>
-<li style="font-size:15px; line-height:2;">SSO &ndash; Demonstration Concert for Band</li>
+<li style="font-size:14.5px; line-height:2;font-family:Open Sans;">Band Concert (Internal)</li>
+<li style="font-size:14.5px; line-height:2;font-family:Open Sans;">Band Student Conductor Camp</li>
+<li style="font-size:14.5px; line-height:2;font-family:Open Sans;">Drum Major Camp</li>
+<li style="font-size:14.5px; line-height:2;font-family:Open Sans;">National Day Band Performance at Istana</li>
+<li style="font-size:14.5px; line-height:2;font-family:Open Sans;">PHSS Lunchtime Concert</li>
+<li style="font-size:14.5px; line-height:2;font-family:Open Sans;">PHSS National Day Parade</li>
+<li style="font-size:14.5px; line-height:2;font-family:Open Sans;">Sengkang West National Day Observance Ceremony</li>
+<li style="font-size:14.5px; line-height:2;font-family:Open Sans;">SSO &ndash; Demonstration Concert for Band</li>
 </ul>
 
-<h4><strong>Student Testament</strong></h4>
+<h4 style="color:#635f1a;font-weight:bold;margin-bottom:-25px;">Student Testament</h4>
 <blockquote style="font-size: 15px;width:100%;margin:50px auto;font-family:Open Sans;font-style:italic;color: #555555;padding:1.2em 25px 1.2em 25px;border-left:8px solid #78C0A8 ;line-height:1.6;position: relative;background:#EDEDED;">
 	<img align="left" alt="" src="/images/sband2.png" style="width: 23%;margin-right:15px;">
 	"Band has made my life in Secondary School more enjoyable through the different genres of music I got exposed to. Throughout my four years in Band, I have learnt many important skills such as teamwork and leadership. I cherish every performance as each brought the band more learning experiences and time to get to know each other more."
@@ -124,7 +124,7 @@ SYF Arts Presentation for Concert Band</strong>
 	<span style="display:block; color:#333333; margin-top:1em;font-size:15px;"><em>Band Major of Music, Nathen Khng 4N2</em></span>
 </blockquote>
 
-<h4><strong>CCA Details</strong></h4>
+<h4 style="color:#635f1a;font-weight:bold">CCA Details</h4>
 <table border="1" style="width:100%;">
 	<tbody>
 		<tr>
