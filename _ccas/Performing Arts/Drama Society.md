@@ -4,20 +4,20 @@ permalink: /ccas/clubs-societies/drama-society/
 description: ""
 third_nav_title: Performing Arts
 ---
-<p style="font-size:15px; line-height:2;margin-top:15px;">The <strong>Drama Society</strong> was set up in 2014. Many of our members join Drama with little to no acting or stage presentation experience. Through the passion for the drama craft, many of our budding actors have grown to become confident artists with no fear of performing in public or taking on performing roles that are in contrast to their individual characters. Through their involvement in the many process involved in staging a show, they have grown in maturity and acting skills. We are also able to have a rich variety of experiences through various public performances at SYF, Choral Reading for the lower sec at Literature Festival and attendance at live theatre performances.</p>
+<p style="font-size:14.5px; line-height:2;font-family:Open Sans;">The <strong>Drama Society</strong> was set up in 2014. Many of our members join Drama with little to no acting or stage presentation experience. Through the passion for the drama craft, many of our budding actors have grown to become confident artists with no fear of performing in public or taking on performing roles that are in contrast to their individual characters. Through their involvement in the many process involved in staging a show, they have grown in maturity and acting skills. We are also able to have a rich variety of experiences through various public performances at SYF, Choral Reading for the lower sec at Literature Festival and attendance at live theatre performances.</p>
 
 <img src="/images/drama1.jpeg">
 <p style="text-align: center; font-size:13px;margin-top:5px;"><strong>Pei Hwa Drama Society</strong></p>
 
-<h4><strong>Student Outcomes</strong></h4>
-<p style="font-size:15px; line-height:2;margin-top:15px;">The CCA will enable our students to:</p>
-<ul style="margin-top:-5px;">
-		<li style="font-size:15px; line-height:2;"> attain a good level of competency in terms of Drama knowledge and skills so as to participate in competitive Drama Performances.</li>
-		<li style="font-size:15px; line-height:2;"> explain and apply their knowledge and skills pertaining to Drama and Performance.</li>
-		<li style="font-size:15px; line-height:2;"> demonstrate values of discipline, teamwork, innovation and compassion and self-motivation through Drama and performance.</li>
+<h4 style="color:#635f1a;font-weight:bold">Student Outcomes</h4>
+<p style="font-size:14.5px; line-height:2;margin-top:15px; font-family:Open Sans">The CCA will enable our students to:</p>
+<ul style="margin-top:5px;">
+		<li style="font-size:14.5px; line-height:2;font-family:Open Sans;"> attain a good level of competency in terms of Drama knowledge and skills so as to participate in competitive Drama Performances.</li>
+		<li style="font-size:14.5px; line-height:2;font-family:Open Sans;"> explain and apply their knowledge and skills pertaining to Drama and Performance.</li>
+		<li style="font-size:14.5px; line-height:2;font-family:Open Sans;"> demonstrate values of discipline, teamwork, innovation and compassion and self-motivation through Drama and performance.</li>
 </ul>
 
-<h4><strong>Achievements</strong></h4>
+<h4 style="color:#635f1a;font-weight:bold">Achievements</h4>
 	
 <table border="1" style="border-collapse: collapse;margin: 25px 0;font-size:15px;font-family: sans-serif;box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);">
 <thead style="background-color: #009879; font-weight: bold; font-size: 16px;">
@@ -92,9 +92,9 @@ third_nav_title: Performing Arts
 </tbody>
 </table>
 
-<h4><strong>Competitions and CCA Activities</strong></h4>
+<h4 style="color:#635f1a;font-weight:bold">Competitions and CCA Activities</h4>
 
-<p style="font-size:15px; line-height:2;margin-top:15px;">We have always believed in honing the skills of our Drama members with interactions with other schools. This provides valuable opportunities for Drama members to learn and share the love for performance with one another.</p>
+<p style="font-size:14.5px; line-height:2;margin-top:15px; font-family:Open Sans">We have always believed in honing the skills of our Drama members with interactions with other schools. This provides valuable opportunities for Drama members to learn and share the love for performance with one another.</p>
 
 <img src="/images/drama2.png" style="width: 100%;margin-top:10px;">
 <p style="text-align: center; font-size:13px;margin-top:5px;">SYF 2019</p>
@@ -102,16 +102,16 @@ third_nav_title: Performing Arts
 <img style="width: 100%;margin-top:10px;" src="/images/drama3.jpg" />
 <p style="text-align: center; font-size:13px;margin-top:5px;">Our SYF Performance In 2019</p>
 
-<p style="font-size:15px; line-height:2;margin-top:15px;">Since 2014, the&nbsp;Pei Hwa Dram Society has also participated and performed in many school and external performances like:</p>
+<p style="margin-top:15px;font-size:14.5px; line-height:2;font-family:Open Sans;">Since 2014, the&nbsp;Pei Hwa Dram Society has also participated and performed in many school and external performances like:</p>
 
-<ul style="margin-top:-5px;">
-	<li style="font-size:15px; line-height:2;">National Day celebrations</li>
-	<li style="font-size:15px; line-height:2;">PHiesta</li>
-	<li style="font-size:15px; line-height:2;">Literature Festival</li>
-	<li style="font-size:15px; line-height:2;">Human Values competitions</li>
+<ul style="margin-top:5px;">
+	<li style="font-size:14.5px; line-height:2;font-family:Open Sans;"> National Day celebrations</li>
+	<li style="font-size:14.5px; line-height:2;font-family:Open Sans;"> PHiesta</li>
+	<li style="font-size:14.5px; line-height:2;font-family:Open Sans;"> Literature Festival</li>
+	<li style="font-size:14.5px; line-height:2;font-family:Open Sans;"> Human Values competitions</li>
 </ul>
 
-<h4><strong>Student Testament</strong></h4>
+<h4 style="color:#635f1a;font-weight:bold;">Student Testament</h4>
 <img src="/images/drama4.jpeg" style="width: 100%;margin-top:10px;" >
 
 <blockquote style="font-size: 15px;width:100%;margin:50px auto;font-family:Open Sans;font-style:italic;color: #555555;padding:1.2em 25px 1.2em 25px;border-left:8px solid #78C0A8 ;line-height:1.6;position: relative;background:#EDEDED;">
@@ -133,6 +133,8 @@ third_nav_title: Performing Arts
 	"One thing I love about drama is that I enjoy the member&rsquo;s company and trainer&rsquo;s guidance. Drama will no doubt make you look forward to it."
   <span style="display:block; color:#333333; margin-top:1em;font-size:15px;"><em>Vice-President (Welfare), Chang Yao</em></span>
 	</blockquote>
+	
+<h4 style="color:#635f1a;font-weight:bold">CCA Details</h4>
 
 <table border="1" style="width:100%;">
 	<tbody>
