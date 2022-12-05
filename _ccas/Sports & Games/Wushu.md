@@ -6,22 +6,21 @@ third_nav_title: Sports & Games
 ---
 <img src="/images/wushu1.png">
 
-<h4><strong>Wushu</strong></h4>
 
-<p style="font-size:15px; line-height:2;margin-top:15px;"><strong>Pei Hwa Wushu</strong> focuses on developing students&rsquo; confidence in body expressions through a vigorous attention on the strengthening of body and mind. The practice of contemporary Chinese martial arts combines elements of performance and martial application. Think of it as a blend of performing arts and sports!</p>
+<p style="font-size:14.5px; line-height:2;font-family:Open Sans;"><strong>Pei Hwa Wushu</strong> focuses on developing students&rsquo; confidence in body expressions through a vigorous attention on the strengthening of body and mind. The practice of contemporary Chinese martial arts combines elements of performance and martial application. Think of it as a blend of performing arts and sports!</p>
 
-<h4><strong>Student Outcomes</strong></h4>
+<h4 style="color:#635f1a;font-weight:bold">Student Outcomes</h4>
 
-<p style="font-size:15px; line-height:2;">The CCA will enable our students to:</p>
+<p style="font-size:14.5px; line-height:2;margin-top:15px; font-family:Open Sans">The CCA will enable our students to:</p>
 
-<ul style="margin-top:-5px">
-<li style="font-size:15px; line-height:2;"> develop confidence in body expressions and movements</li>
-<li style="font-size:15px; line-height:2;"> develop healthy lifestyles and habits</li>
-<li style="font-size:15px; line-height:2;"> learn and apply Wushu and School’s values</li>
-<li style="font-size:15px; line-height:2;"> develop a sense of community and teamwork through the focus on team events</li>
+<ul style="margin-top:5px">
+<li style="font-size:14.5px; line-height:2;font-family:Open Sans;"> develop confidence in body expressions and movements</li>
+<li style="font-size:14.5px; line-height:2;font-family:Open Sans;"> develop healthy lifestyles and habits</li>
+<li style="font-size:14.5px; line-height:2;font-family:Open Sans;"> learn and apply Wushu and School’s values</li>
+<li style="font-size:14.5px; line-height:2;font-family:Open Sans;"> develop a sense of community and teamwork through the focus on team events</li>
 </ul>
 	
-<h4><strong>Achievements</strong></h4>
+<h4 style="color:#635f1a;font-weight:bold">Achievements</h4>
 <table border="1" style="border-collapse: collapse;margin: 25px 0;font-size:15px;font-family: sans-serif;box-shadow: 0 0 20px rgba(0, 0, 0, 0.15); width:100%;">
 <thead style="background-color: #009879; font-weight: bold; font-size: 16px;">
 <tr>
@@ -134,26 +133,28 @@ third_nav_title: Sports & Games
 </tbody>
 </table>
 
-<h4><strong>Competitions and CCA Activities</strong></h4>
+<h4 style="color:#635f1a;font-weight:bold">Competitions and CCA Activities</h4>
 
 <p style="font-size:15px;"><strong>Performing at CCA Feista has been an annual event which allows,&nbsp;</strong></p>
 
 <img src="/images/wushu2.png">
 
+<h4 style="color:#635f1a;font-weight:bold;margin-bottom:-25px;">Student Testaments</h4>
 <blockquote style="font-size: 15px;width:100%;margin:50px auto;font-family:Open Sans;font-style:italic;color: #555555;padding:1.2em 25px 1.2em 25px;border-left:8px solid #78C0A8 ;line-height:1.6;position: relative;background:#EDEDED;">
 	<img align="left" alt="" src="/images/wushu3.jpeg" style="width: 23%;margin-right:15px;">
 	"I enjoy this CCA because of our strong team spirit. We will constantly cheer one another on and strive for the best especially during the competition periods. We focus on helping every member improve because no one is bigger than the team. With this mindset, the team trains hard together and works towards a common goal. We have grown closer together and this team spirit is something that I really like about Pei Hwa Wushu."
 	<span style="display:block; color:#333333; margin-top:1em;font-size:15px;"><em>Leader for Lower Sec, Zayne from Int 6</em></span><br><br><br>
 	
 </blockquote>
-	
+
+
 <blockquote style="font-size: 15px;width:100%;margin:50px auto;font-family:Open Sans;font-style:italic;color: #555555;padding:1.2em 25px 1.2em 25px;border-left:8px solid #78C0A8 ;line-height:1.6;position: relative;background:#EDEDED;">
 		<img align="left" alt="" src="/images/wushu4.jpg" style="width: 23%;margin-right:15px;">
 	"I started Wushu at the age of 6 years old and my passion in this sport has grown over the years! I always believe that hard work, perseverance and endurance are the key to achieve my goal in Wushu. The CCA has taught me the importance of team spirit and sportsmanship. I look forward in all my training session with my team mates as I enjoy spending time together with them!"
  		 <span style="display:block; color:#333333; margin-top:1em;font-size:15px;"><em>C Boys, Cedric Lim from 2E3</em></span><br><br><br><br><br><br><br><br><br><br>
 </blockquote>
 
-<h4><strong>CCA Details</strong></h4>
+<h4 style="color:#635f1a;font-weight:bold">CCA Details</h4>
 <table border="1" style="width:100%;">
 	<tbody>
 		<tr>
