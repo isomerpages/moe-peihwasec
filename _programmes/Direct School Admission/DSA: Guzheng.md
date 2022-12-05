@@ -12,19 +12,19 @@ third_nav_title: Direct School Admission
 
 
 <h4 style="color:#635f1a;font-weight:bold">About Pei Hwa Guzheng Ensemble</h4>
-<p style="font-size:15px; line-height:2;">The Pei Hwa Guzheng Ensemble seeks to provide opportunities to develop students&rsquo; talents and lifelong passion for the arts. Through the meaningful music experiences planned, the Pei Hwa Guzheng Ensemble also endeavours to help students to build character, foster friendships and cultivate a sense of belonging to the school.</p>
+<p style="font-size:14.5px; line-height:2;margin-top:15px; font-family:Open Sans">The Pei Hwa Guzheng Ensemble seeks to provide opportunities to develop students&rsquo; talents and lifelong passion for the arts. Through the meaningful music experiences planned, the Pei Hwa Guzheng Ensemble also endeavours to help students to build character, foster friendships and cultivate a sense of belonging to the school.</p>
 
-<p style="font-size:15px; line-height:2;margin-top:-5px;">Some programmes and activities of the Guzheng ensemble include:</p>
+<p style="font-size:14.5px; line-height:2;font-family:Open Sans;">Some programmes and activities of the Guzheng ensemble include:</p>
 
-<ul style="margin-top:-5px;">
-<li style="font-size:15px; line-height:2;">School performances</li>
-<li style="font-size:15px; line-height:2;">Public performances</li>
-<li style="font-size:15px; line-height:2;">Values-in-action opportunities</li>
-<li style="font-size:15px; line-height:2;">Concerts/recitals</li>
-<li style="font-size:15px; line-height:2;">Exchanges with other schools</li>
-<li style="font-size:15px; line-height:2;">Performing Arts Camp</li>
-<li style="font-size:15px; line-height:2;">Music workshops</li>
-<li style="font-size:15px; line-height:2;">Learning journeys</li>
+<ul style="margin-top:5px;">
+<li style="font-size:14.5px; line-height:2;font-family:Open Sans;">School performances</li>
+<li style="font-size:14.5px; line-height:2;font-family:Open Sans;">Public performances</li>
+<li style="font-size:14.5px; line-height:2;font-family:Open Sans;">Values-in-action opportunities</li>
+<li style="font-size:14.5px; line-height:2;font-family:Open Sans;">Concerts/recitals</li>
+<li style="font-size:14.5px; line-height:2;font-family:Open Sans;">Exchanges with other schools</li>
+<li style="font-size:14.5px; line-height:2;font-family:Open Sans;">Performing Arts Camp</li>
+<li style="font-size:14.5px; line-height:2;font-family:Open Sans;">Music workshops</li>
+<li style="font-size:14.5px; line-height:2;font-family:Open Sans;">Learning journeys</li>
 </ul>
 
 <p style="font-size:14.5px; line-height:2;font-family:Open Sans;">For more information on Pei Hwa Guzheng Ensemble and their programme, please visit&nbsp;<a href="/ccas/performing-arts/guzheng/" target="_blank" rel="noopener noreferrer">this page</a>.</p>
@@ -33,37 +33,36 @@ third_nav_title: Direct School Admission
 <h4 style="color:#635f1a;font-weight:bold">Shortlisting Criteria</h4>
 
 <ul style="margin-top:5px;">
-<li aria-level="1" style="font-size:15px; line-height:2;">DSA applicants should have experience in playing the Guzheng. (Formal Certification is useful, but not compulsory)</li>
-<li aria-level="1" style="font-size:15px; line-height:2;">DSA applicants should preferably have:
+<li aria-level="1" style="font-size:14.5px; line-height:2;font-family:Open Sans;">DSA applicants should have experience in playing the Guzheng. (Formal Certification is useful, but not compulsory)</li>
+<li aria-level="1" style="font-size:14.5px; line-height:2;font-family:Open Sans;">DSA applicants should preferably have:
 <ul style="margin-top:-5px;">
-<li aria-level="2" style="font-size:15px; line-height:2;">Relevant experiences in performing the Guzheng at school and/or external events&nbsp;<strong>OR</strong></li>
-<li aria-level="2" style="font-size:15px; line-height:2;">Represented their primary school Guzheng Ensemble in external events or competitions (eg. Singapore Youth Festival (SYF) Arts presentation&nbsp;for Guzheng ensemble, Singapore Chinese Music Competition, public concerts, etc)&nbsp;<strong>OR</strong></li>
-<li aria-level="2" style="font-size:15px; line-height:2;">Other achievement(s)/attainment(s) in Guzheng</li>
+<li aria-level="2"style="font-size:14.5px; line-height:2;font-family:Open Sans;">Relevant experiences in performing the Guzheng at school and/or external events&nbsp;<strong>OR</strong></li>
+<li aria-level="2" style="font-size:14.5px; line-height:2;font-family:Open Sans;">Represented their primary school Guzheng Ensemble in external events or competitions (eg. Singapore Youth Festival (SYF) Arts presentation&nbsp;for Guzheng ensemble, Singapore Chinese Music Competition, public concerts, etc)&nbsp;<strong>OR</strong></li>
+<li aria-level="2" style="font-size:14.5px; line-height:2;font-family:Open Sans;">Other achievement(s)/attainment(s) in Guzheng</li>
 </ul>
 </li>
 </ul>
 
-<p style="font-size:16px; line-height:2;margin-top:-5px;"><strong>Note:</strong></p>
-<p style="font-size:15px; line-height:2; margin-top:-5px;">(1)&nbsp;DSA applicants do not need to possess all of the above criteria to be considered.<br>(2)&nbsp;Meeting all the criteria does not guarantee the DSA applicant will be shortlisted.&nbsp;or given an offer.</p>
+<p style="font-size:14.5px; line-height:2;font-family:Open Sans;"><strong style="font-size:15px; line-height:2;margin:-10px 0 13px 0px;font-family:Open Sans;">Note:</strong><br>(1)&nbsp;DSA applicants do not need to possess all of the above criteria to be considered.<br>(2)&nbsp;Meeting all the criteria does not guarantee the DSA applicant will be shortlisted.&nbsp;or given an offer.</p>
 
 <h4 style="color:#635f1a;font-weight:bold">Selection Mode and Criteria</h4>
 
-<ul style="margin-top:-5px;">
-<li aria-level="1" style="font-size:15px; line-height:2;">An individual interview.</li>
-<li aria-level="1" style="font-size:15px; line-height:2;">An individual audition requiring shortlisted DSA applicants to:
+<ul style="margin-top:5px;">
+<li aria-level="1" style="font-size:14.5px; line-height:2;font-family:Open Sans;">An individual interview.</li>
+<li aria-level="1" style="font-size:14.5px; line-height:2;font-family:Open Sans;">An individual audition requiring shortlisted DSA applicants to:
 <ol style="margin-top:-5px;"> 
-<li aria-level="2" style="font-size:15px; line-height:2;">Perform two prepared pieces or movements that feature:
+<li aria-level="2" style="font-size:14.5px; line-height:2;font-family:Open Sans;">Perform two prepared pieces or movements that feature:
 <ul style="margin-top:-5px;margin-bottom:-25px;">
-<li aria-level="2" style="font-size:15px; line-height:2;">Contrasting pieces in terms of tempo&nbsp;</li>
-<li aria-level="2" style="font-size:15px; line-height:2;">The total duration of&nbsp;both&nbsp;pieces or movements should not be longer than 4 minutes.</li>
+<li aria-level="2" style="font-size:14.5px; line-height:2;font-family:Open Sans;">Contrasting pieces in terms of tempo&nbsp;</li>
+<li aria-level="2" style="font-size:14.5px; line-height:2;font-family:Open Sans;">The total duration of&nbsp;both&nbsp;pieces or movements should not be longer than 4 minutes.</li>
 </ul>
 </li>
-<li style="font-size:15px; line-height:2;margin-top:-5px;">Slight-read and play a simple piece in cipher notation&nbsp;(简谱) provided by Pei Hwa Secondary School on the day of audition.</li>
+<li style="font-size:14.5px; line-height:2;font-family:Open Sans;">Slight-read and play a simple piece in cipher notation&nbsp;(简谱) provided by Pei Hwa Secondary School on the day of audition.</li>
 </ol>
 </li>
 </ul>
 
-<p style="font-size:15px; line-height:2;">Breakdown of Criteria and Weighting:</p>
+<p style="font-size:15px; line-height:2;margin:-10px 0 13px 0px;font-family:Open Sans;">Breakdown of Criteria and Weighting:</p>
 
 <table border="1" style="border-collapse: collapse;margin: 25px 0;font-size:15px;font-family: sans-serif;box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);">
 <thead style="background-color: #009879; font-weight: bold; font-size: 16px;">
@@ -92,17 +91,17 @@ third_nav_title: Direct School Admission
 </tbody>
 </table>
 
-<p style="font-size:16px; line-height:2;"><strong>Note:</strong></p>
+<p style="font-size:15px; line-height:2;margin:-10px 0 13px 0px;font-family:Open Sans;"><strong>Note:</strong></p>
 
-<ol>
-<li aria-level="1" style="font-size:15px; line-height:2;">All Interviews and Auditions will take place face-to-face at Pei Hwa Secondary School.</li>
-<li aria-level="1" style="font-size:15px; line-height:2;">Guzhengs will be provided by Pei Hwa Secondary School but shortlisted DSA applicants may bring their own instruments for the audition, if they wish to.</li>
-<li aria-level="1" style="font-size:15px; line-height:2;">Shortlisted DSA applicants need to provide two sets of scores for their prepared pieces at the start of the&nbsp;audition. The scores will be returned at the end of the audition.</li>
+<ol style="margin-top:5px;">
+<li aria-level="1" style="font-size:14.5px; line-height:2;font-family:Open Sans;">All Interviews and Auditions will take place face-to-face at Pei Hwa Secondary School.</li>
+<li aria-level="1" style="font-size:14.5px; line-height:2;font-family:Open Sans;">Guzhengs will be provided by Pei Hwa Secondary School but shortlisted DSA applicants may bring their own instruments for the audition, if they wish to.</li>
+<li aria-level="1" style="font-size:14.5px; line-height:2;font-family:Open Sans;">Shortlisted DSA applicants need to provide two sets of scores for their prepared pieces at the start of the&nbsp;audition. The scores will be returned at the end of the audition.</li>
 </ol>
 
 
 <h4 style="color:#635f1a;font-weight:bold">Application Procedures for 2022</h4>
-<p style="font-size:15px; line-height:2;margin-top:-5px;">Here are the&nbsp;procedures for DSA-Guzheng application in Pei Hwa Secondary School.</p>
+<p style="font-size:14.5px; line-height:2;margin-top:15px; font-family:Open Sans">Here are the&nbsp;procedures for DSA-Guzheng application in Pei Hwa Secondary School.</p>
 
 <table border="1" style="border-collapse: collapse;margin: 25px 0;font-size:15px;font-family: sans-serif;box-shadow: 0 0 20px rgba(0, 0, 0, 0.15); line-height:2;">
 		<thead style="background-color: #009879; font-weight: bold; font-size: 16px;">
@@ -231,4 +230,4 @@ third_nav_title: Direct School Admission
 <p style="font-size:14.5px; line-height:2;font-family:Open Sans;"><strong>5. Can my child/ward apply for a change in CCA?</strong></p>
 <p style="font-size:14.5px; line-height:2;font-family:Open Sans;margin-top:-5px;">Successful DSA-Sec students are expected to honour their commitment to the posted DSA school and to participate in activities related to the talent selected in, for the duration of the programme admitted to.</p>
 
-<p style="font-size:16px; line-height:2;margin-top:5px;"><strong>More information on DSA can be found on&nbsp;</strong><a href="http://www.moe.gov.sg/dsa-sec"><strong>www.moe.gov.sg/dsa-sec</strong></a></p>
+<p style="margin-top:15px;font-size:14.5px; line-height:2;font-family:Open Sans;"><strong>More information on DSA can be found on&nbsp;</strong><a href="http://www.moe.gov.sg/dsa-sec"><strong>www.moe.gov.sg/dsa-sec</strong></a></p>
