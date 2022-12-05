@@ -4,24 +4,25 @@ permalink: /ccas/sports-games/floorball/
 description: ""
 third_nav_title: Sports & Games
 ---
-<p style="font-size:15px; line-height:2;margin-top:-15px;"><strong>Floorball</strong> is becoming a very popular sport around the world and in Singapore. The number of players and teams are increasing every year and there is no sign that the positive development would stop. In 2009, floorball started as a CCA in Pei Hwa Secondary School. The floorball team, also known as Pei Hwa Phoenix, is the ultimate symbol of strength and renewal. Pei Hwa Floorball has achieved outstanding results over the years. Currently, we have 6 Pei Hwa alumni and current students in the U19 Singapore Women&rsquo;s National Team. #peihwaphoenix #flyphoenixfly #floorball #singaporefloorball</p>
+<p style="font-size:14.5px; line-height:2;font-family:Open Sans;"><strong>Floorball</strong> is becoming a very popular sport around the world and in Singapore. The number of players and teams are increasing every year and there is no sign that the positive development would stop. In 2009, floorball started as a CCA in Pei Hwa Secondary School. The floorball team, also known as Pei Hwa Phoenix, is the ultimate symbol of strength and renewal. Pei Hwa Floorball has achieved outstanding results over the years. Currently, we have 6 Pei Hwa alumni and current students in the U19 Singapore Women&rsquo;s National Team. #peihwaphoenix #flyphoenixfly #floorball #singaporefloorball</p>
 
-<p style="font-size:15px; line-height:2;margin-top:15px;">Our Motto: The strength of the team is each individual member. The strength of each member is the team. Always keep an open mind and a compassionate heart. (Inspired by Phil Jackson)</p>
+<p style="margin-top:15px;font-size:14.5px; line-height:2;font-family:Open Sans;">Our Motto: The strength of the team is each individual member. The strength of each member is the team. Always keep an open mind and a compassionate heart. (Inspired by Phil Jackson)</p>
 
 <img src="/images/floorball1.jpg">
-<p>Do check us out on our Instagram page @peihwaphoenix !</p>
+<p style="margin-top:15px;font-size:14.5px; line-height:2;font-family:Open Sans;">
+Do check us out on our Instagram page @peihwaphoenix !</p>
 
-<h4><strong>Student Outcomes</strong></h4>
+<h4 style="color:#635f1a;font-weight:bold">Student Outcomes</h4>
 
-<p style="font-size:15px; line-height:2;">The CCA will enable our students to:</p>
+<p style="font-size:14.5px; line-height:2;margin-top:15px; font-family:Open Sans">The CCA will enable our students to:</p>
 <ul style="margin-top:-5px">
-<li style="font-size:15px; line-height:2;"> to develop techniques and skills so as to appreciate and enjoy the game of floorball.</li>
-<li style="font-size:15px; line-height:2;"> to develop students&rsquo; character, values, leadership and life skills through authentic and engaging activities.</li>
-<li style="font-size:15px; line-height:2;"> to provide students with a variety of platforms to realise their potential and excel in non-academic pursuits.</li>
-<li style="font-size:15px; line-height:2;"> to appreciate the concept of fair play and good sportsmanship and apply it to daily life.</li>
+<li style="font-size:14.5px; line-height:2;font-family:Open Sans;"> to develop techniques and skills so as to appreciate and enjoy the game of floorball.</li>
+<li style="font-size:14.5px; line-height:2;font-family:Open Sans;"> to develop students&rsquo; character, values, leadership and life skills through authentic and engaging activities.</li>
+<li style="font-size:14.5px; line-height:2;font-family:Open Sans;"> to provide students with a variety of platforms to realise their potential and excel in non-academic pursuits.</li>
+<li style="font-size:14.5px; line-height:2;font-family:Open Sans;"> to appreciate the concept of fair play and good sportsmanship and apply it to daily life.</li>
 </ul>
 	
-<h4><strong>Achievements</strong></h4>
+<h4 style="color:#635f1a;font-weight:bold">Achievements</h4>
 <table border="1" style="border-collapse: collapse;margin: 25px 0;font-size:15px;font-family: sans-serif;box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);">
 <thead style="background-color: #009879; font-weight: bold; font-size: 16px;">
 <tr>
@@ -202,15 +203,15 @@ third_nav_title: Sports & Games
 </tbody>
 </table>
 
-<h4><strong>Competitions and CCA Activities</strong></h4>
+<h4 style="color:#635f1a;font-weight:bold">Competitions and CCA Activities</h4>
 
-<p style="font-size:15px; line-height:2; margin-top:5px">On top of participating in the annual National School Games, our members also take part in many other competitions as part of their passion for learning in the sport. We are actively taking part in the ActiveSG Singapore Floorball League, Singapore National Games, as well as other invitational and ad-hoc competitions held by various schools, organisations and floorball clubs in Singapore.</p>
+<p style="font-size:14.5px; line-height:2;margin-top:15px; font-family:Open Sans">On top of participating in the annual National School Games, our members also take part in many other competitions as part of their passion for learning in the sport. We are actively taking part in the ActiveSG Singapore Floorball League, Singapore National Games, as well as other invitational and ad-hoc competitions held by various schools, organisations and floorball clubs in Singapore.</p>
 
-<p style="font-size:15px;line-height:2;margin-top:-2px">We are also actively involved in workshops, camps and clinics for the betterment of our members. Some of these activities that our members have attended included a Blindsave Goalie Camp conducted by Andis Blinds from Latvia in 2018 and floorball clinics and sports conference held by David Jansson, Head coach for the Swiss National Mens&rsquo; Floorball Team in 2018.</p>
+<p style="margin-top:15px;font-size:14.5px; line-height:2;font-family:Open Sans;">We are also actively involved in workshops, camps and clinics for the betterment of our members. Some of these activities that our members have attended included a Blindsave Goalie Camp conducted by Andis Blinds from Latvia in 2018 and floorball clinics and sports conference held by David Jansson, Head coach for the Swiss National Mens&rsquo; Floorball Team in 2018.</p>
 
-<p style="font-size:15px;line-height:2;margin-top:5px">There are also plenty of opportunities for our members to be developed as student leaders in the CCA. Student leaders in the CCA are given the opportunity to facilitate events such as our annual CCA Fiesta, Open House and CCA Camps. You will also lead the team for training and competitions. Student leaders are also given the opportunity to hone their leadership further when they are sent to participate in the annual Sec 2 Basic Student Leadership Camp and Sec 3 Advance Student Leadership Camp.</p>
+<p style="margin-top:15px;font-size:14.5px; line-height:2;font-family:Open Sans;">There are also plenty of opportunities for our members to be developed as student leaders in the CCA. Student leaders in the CCA are given the opportunity to facilitate events such as our annual CCA Fiesta, Open House and CCA Camps. You will also lead the team for training and competitions. Student leaders are also given the opportunity to hone their leadership further when they are sent to participate in the annual Sec 2 Basic Student Leadership Camp and Sec 3 Advance Student Leadership Camp.</p>
 
-<h4><strong>Student Testament</strong></h4>
+<h4 style="color:#635f1a;font-weight:bold;margin-bottom:-25px;">Student Testament</h4>
 <blockquote style="font-size: 15px;
   width:100%;
   margin:50px auto;
@@ -260,7 +261,7 @@ third_nav_title: Sports & Games
 <span style="display:block; color:#333333; margin-top:1em;font-size:15px;"><em>President and B Division Captain 2020, Siti Nur Insyirah binte Mohsin, Integrity 6 (2020)</em></span>
 </blockquote>
 
-<h4><strong>CCA Details</strong></h4>
+<h4 style="color:#635f1a;font-weight:bold">CCA Details</h4>
 <table border="1" style="width:100%;">
 	<tbody>
 		<tr>
