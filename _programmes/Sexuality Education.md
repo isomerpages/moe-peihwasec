@@ -3,47 +3,47 @@ title: Sexuality Education
 permalink: /programmes/sexuality-education/
 description: ""
 ---
-<h4><strong>MOE Sexuality Education in Schools</strong></h4>
+<h4 style="color:#635f1a;font-weight:bold">MOE Sexuality Education in Schools</h4>
 
-<p style="font-size:15px; line-height:2;margin-top:-5px;">Sexuality Education (SEd) in schools is about enabling students to understand the physiological, social and emotional changes they experience as they mature, develop healthy and rewarding relationships including those with members of the opposite sex, and make wise, informed and responsible decisions on sexuality matters. SEd is premised on the importance of the family as the basic unit of society. This means encouraging healthy, heterosexual marriages and stable nuclear family units with extended family support. The teaching and learning of SEd is based on respect for the values and beliefs of the different ethnic and religious communities in Singapore on sexuality issues.</p>
+<p style="font-size:14.5px; line-height:2;margin-top:15px; font-family:Open Sans">Sexuality Education (SEd) in schools is about enabling students to understand the physiological, social and emotional changes they experience as they mature, develop healthy and rewarding relationships including those with members of the opposite sex, and make wise, informed and responsible decisions on sexuality matters. SEd is premised on the importance of the family as the basic unit of society. This means encouraging healthy, heterosexual marriages and stable nuclear family units with extended family support. The teaching and learning of SEd is based on respect for the values and beliefs of the different ethnic and religious communities in Singapore on sexuality issues.</p>
 
-<p style="font-size:15px; line-height:2;margin-top:-5px;">The goals of Sexuality Education are:</p>
-<ol style="margin-top:-5px;">
-<li aria-level="1" style="font-size:15px; line-height:2;">To help students make wise, responsible and informed decisions through the provision of accurate, current and age-appropriate&nbsp;knowledge&nbsp;on human sexuality and the consequences of sexual activity;</li>
-<li aria-level="1" style="font-size:15px; line-height:2;">To help students know themselves and build healthy and rewarding relationships through the acquisition of&nbsp;social and emotional skills&nbsp;of self-awareness, management of their thoughts, feelings and behaviours, development of empathy for others, possession of effective communication, problem-solving and decision-making skills; and</li>
-<li aria-level="1" style="font-size:15px; line-height:2;">To help students develop a moral compass, respect for themselves and for others as sexual beings, premised on the family as the basic unit of society, through the inculcation of&nbsp;positive mainstream values and attitudes&nbsp;about sexuality.&nbsp;</li>
+<p style="font-size:14.5px; line-height:2;font-family:Open Sans;">The goals of Sexuality Education are:</p>
+<ol style="margin-top:5px;">
+<li aria-level="1" style="font-size:14.5px; line-height:2;margin-left:17px;font-family:Open Sans;">To help students make wise, responsible and informed decisions through the provision of accurate, current and age-appropriate&nbsp;knowledge&nbsp;on human sexuality and the consequences of sexual activity;</li>
+<li aria-level="1" style="font-size:14.5px; line-height:2;margin-left:17px;font-family:Open Sans;">To help students know themselves and build healthy and rewarding relationships through the acquisition of&nbsp;social and emotional skills&nbsp;of self-awareness, management of their thoughts, feelings and behaviours, development of empathy for others, possession of effective communication, problem-solving and decision-making skills; and</li>
+<li aria-level="1" style="font-size:14.5px; line-height:2;margin-left:17px;font-family:Open Sans;">To help students develop a moral compass, respect for themselves and for others as sexual beings, premised on the family as the basic unit of society, through the inculcation of&nbsp;positive mainstream values and attitudes&nbsp;about sexuality.&nbsp;</li>
 </ol>
 
-<p style="font-size:15px; line-height:2;margin-top:-5px;">The key messages of Sexuality Education are:</p>
-<ol style="margin-top:-5px">
-<li aria-level="1" style="font-size:15px; line-height:2;">Love and respect yourself as you love and respect others;</li>
-<li aria-level="1" style="font-size:15px; line-height:2;">Build positive relationships based on love and respect (which are the foundation for strong families);</li>
-<li aria-level="1" style="font-size:15px; line-height:2;">Make responsible decisions for yourself, your family and society; and</li>
-<li aria-level="1" style="font-size:15px; line-height:2;">Abstinence before marriage is the best protection against STIs/HIV and unintended pregnancies. Casual sex can harm and hurt you and your loved ones.</li>
+<p style="margin-top:15px;font-size:14.5px; line-height:2;font-family:Open Sans;">The key messages of Sexuality Education are:</p>
+<ol style="margin-top:5px">
+<li aria-level="1" style="font-size:14.5px; line-height:2;margin-left:17px;font-family:Open Sans;">Love and respect yourself as you love and respect others;</li>
+<li aria-level="1" style="font-size:14.5px; line-height:2;margin-left:17px;font-family:Open Sans;">Build positive relationships based on love and respect (which are the foundation for strong families);</li>
+<li aria-level="1" style="font-size:14.5px; line-height:2;margin-left:17px;font-family:Open Sans;">Make responsible decisions for yourself, your family and society; and</li>
+<li aria-level="1" style="font-size:14.5px; line-height:2;margin-left:17px;font-family:Open Sans;">Abstinence before marriage is the best protection against STIs/HIV and unintended pregnancies. Casual sex can harm and hurt you and your loved ones.</li>
 </ol>
 
-<p style="font-size:15px; line-height:2;">You may click&nbsp;<a href="https://www.moe.gov.sg/programmes/sexuality-education" target="_blank" rel="noopener noreferrer">here</a>&nbsp;for more information on MOE Sexuality Education.</p>
+<p style="margin-top:15px;font-size:14.5px; line-height:2;font-family:Open Sans;">You may click&nbsp;<a href="https://www.moe.gov.sg/programmes/sexuality-education" target="_blank" rel="noopener noreferrer">here</a>&nbsp;for more information on MOE Sexuality Education.</p>
 
 
-<h4><strong>Overview of Pei Hwa Secondary & School & Sexuality Education Programme for 2022</strong></h4>
+<h4 style="color:#635f1a;font-weight:bold">Overview of Pei Hwa Secondary & School & Sexuality Education Programme for 2022</h4>
 
-<p style="font-size:15px; line-height:2;margin-top:-5px;">Sexuality Education is delivered in a holistic manner through the school curriculum. The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law. You may click&nbsp;<a href="https://www.moe.gov.sg/programmes/sexuality-education/scope-and-teaching-approach">here</a>&nbsp;for more information on the scope of Sexuality Education in the school curriculum.</p>
+ <p style="font-size:14.5px; line-height:2;margin-top:15px; font-family:Open Sans"><p style="margin-top:15px;font-size:14.5px; line-height:2;font-family:Open Sans;">Sexuality Education is delivered in a holistic manner through the school curriculum. The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law. You may click&nbsp;<a href="https://www.moe.gov.sg/programmes/sexuality-education/scope-and-teaching-approach">here</a>&nbsp;for more information on the scope of Sexuality Education in the school curriculum.</p>
 
-<p style="font-size:15px; line-height:2;margin-top:-5px;">The subjects that incorporate topics on sexuality include:</p>
-<ul style="margin-top:-5px;">
-<li style="font-size:15px; line-height:2;">Science</li>
-<li style="font-size:15px; line-height:2;">Character and Citizenship Education&nbsp;(CCE)</li>
+<p style="margin-top:15px;font-size:14.5px; line-height:2;font-family:Open Sans;">The subjects that incorporate topics on sexuality include:</p>
+<ul style="margin-top:5px;">
+<li style="font-size:14.5px; line-height:2;margin-left:17px;font-family:Open Sans;">Science</li>
+<li style="font-size:14.5px; line-height:2;margin-left:17px;font-family:Open Sans;">Character and Citizenship Education&nbsp;(CCE)</li>
 </ul>
 
 
-<h4><strong>Sexuality Education Lessons:</strong></h4>
-<p style="font-size:15px; line-height:2;margin-top:-5px;">The values and attitudes of our youth towards sexuality are increasingly shaped by their peers, exposure to the media, popular culture and the internet. Adolescence is a complex stage in life as the adolescent attempts to find his/her own identity and often struggles with new social relationships. The period of middle adolescence (generally from 15 &ndash; 17 years old) can be a turbulent period for adolescents. The gap between physical and emotional/cognitive maturity may result in a tendency to act on impulse, experiment with various activities (including sexual activities), sometimes without understanding the unpleasant consequences that may arise from such experimentation. The need for peer acceptance can be overwhelmingly strong, and hinder one&rsquo;s ability to act responsibly. Given the pressures faced by the middle adolescent from within themselves and from peers, it is important to build a strong sense of self-worth, personal conviction and an understanding of the possible consequences of sexual behaviour.</p>
+<h4 style="color:#635f1a;font-weight:bold">Sexuality Education Lessons:</h4>
+<p style="font-size:14.5px; line-height:2;margin-top:15px; font-family:Open Sans">The values and attitudes of our youth towards sexuality are increasingly shaped by their peers, exposure to the media, popular culture and the internet. Adolescence is a complex stage in life as the adolescent attempts to find his/her own identity and often struggles with new social relationships. The period of middle adolescence (generally from 15 &ndash; 17 years old) can be a turbulent period for adolescents. The gap between physical and emotional/cognitive maturity may result in a tendency to act on impulse, experiment with various activities (including sexual activities), sometimes without understanding the unpleasant consequences that may arise from such experimentation. The need for peer acceptance can be overwhelmingly strong, and hinder one&rsquo;s ability to act responsibly. Given the pressures faced by the middle adolescent from within themselves and from peers, it is important to build a strong sense of self-worth, personal conviction and an understanding of the possible consequences of sexual behaviour.</p>
 
-<p style="font-size:15px; line-height:2;margin-top:-5px;">Through the Sexuality Education lessons, secondary students will have the opportunity to develop a positive self-esteem, develop their character, and expand their understanding and repertoire of skills to deal with various issues related to sexuality, which are of prime concern at this age.&nbsp;</p>
+<p style="margin-top:15px;font-size:14.5px; line-height:2;font-family:Open Sans;">Through the Sexuality Education lessons, secondary students will have the opportunity to develop a positive self-esteem, develop their character, and expand their understanding and repertoire of skills to deal with various issues related to sexuality, which are of prime concern at this age.&nbsp;</p>
 
-<h4><strong>At Pei Hwa Secondary School, the following Sexuality Education lessons will be taught in 2022</strong></h4>
+<h4 style="color:#635f1a;font-weight:bold">At Pei Hwa Secondary School, the following Sexuality Education lessons will be taught in 2022</h4>
 
-<p style="font-size:16px; line-height:2;"><strong>SECONDARY 1<br /></strong></p>
+ <p style="margin-top:15px;font-size:17px;"><strong>SECONDARY 1<br /></strong></p>
 
 <table border="1" style="border-collapse: collapse;margin: 25px 0;font-size:15px;font-family: sans-serif;box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);">
 <thead style="background-color: #009879; font-weight: bold; font-size: 16px;">
@@ -95,7 +95,7 @@ description: ""
 </tbody>
 </table>
 
-<p style="font-size:16px; line-height:2;"><strong>SECONDARY 2</strong></p>
+<p style="margin-top:15px;font-size:17px;"><strong>SECONDARY 2</strong></p>
 
 <table border="1" style="border-collapse: collapse;margin: 25px 0;font-size:15px;font-family: sans-serif;box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);">
 <thead style="background-color: #009879; font-weight: bold; font-size: 16px;">
@@ -146,7 +146,7 @@ description: ""
 </tbody>
 </table>
 
-<p style="font-size:16px; line-height:2;"><strong>SECONDARY 3<br /></strong></p>
+ <p style="margin-top:15px;font-size:17px;"><strong>SECONDARY 3<br /></strong></p>
 
 <table border="1" style="border-collapse: collapse;margin: 25px 0;font-size:15px;font-family: sans-serif;box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);">
 <thead style="background-color: #009879; font-weight: bold; font-size: 16px;">
@@ -200,7 +200,7 @@ description: ""
 </tbody>
 </table>
 
-<p style="font-size:16px; line-height:2;"><strong>SECONDARY 4<br /></strong></p>
+ <p style="margin-top:15px;font-size:17px;"><strong>SECONDARY 4<br /></strong></p>
 
 <table border="1" style="border-collapse: collapse;margin: 25px 0;font-size:15px;font-family: sans-serif;box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);">
 <thead style="background-color: #009879; font-weight: bold; font-size: 16px;">
@@ -265,7 +265,7 @@ description: ""
 </tbody>
 </table>
 
-<p style="font-size:16px; line-height:2;"><strong>SECONDARY 5<br /></strong></p>
+ <p style="margin-top:15px;font-size:17px;"><strong>SECONDARY 5<br /></strong></p>
 
 <table border="1" style="border-collapse: collapse;margin: 25px 0;font-size:15px;font-family: sans-serif;box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);">
 <thead style="background-color: #009879; font-weight: bold; font-size: 16px;">
@@ -295,13 +295,13 @@ description: ""
 </tbody>
 </table>
 
-<h4><strong><em>eTeens</em>&nbsp;Programme:</strong></h4>
+<h4 style="color:#635f1a;font-weight:bold"><em>eTeens</em>&nbsp;Programme:</h4>
 
-<p style="font-size:15px; line-height:2;margin-top:-5px;"><em>eTeens</em>&nbsp;is a programme developed by Health Promotion Board, in collaboration with the Ministry of Education, to provide Secondary 3 students with accurate information on STIs, HIV and protection from a health perspective.&nbsp;<em>eTeens</em>&nbsp;is conducted in two segments &ndash; a mass talk segment and a classroom-based programme.</p>
+ <p style="font-size:14.5px; line-height:2;margin-top:15px; font-family:Open Sans"><em>eTeens</em>&nbsp;is a programme developed by Health Promotion Board, in collaboration with the Ministry of Education, to provide Secondary 3 students with accurate information on STIs, HIV and protection from a health perspective.&nbsp;<em>eTeens</em>&nbsp;is conducted in two segments &ndash; a mass talk segment and a classroom-based programme.</p>
 
-<p style="font-size:15px; line-height:2;margin-top:-5px;">Students are taught skills such as decision-making, assertiveness and negotiation to say &ldquo;no&rdquo; to sex and negative peer pressure. They also learn that the impact of STIs/HIV extends beyond themselves and involves their family. Abstinence and upholding family values are the key messages. The desired outcome of the&nbsp;<em>eTeens</em>&nbsp;programme is that students are empowered to make wise, informed and sensible decisions.</p>
+<p style="margin-top:15px;font-size:14.5px; line-height:2;font-family:Open Sans;">Students are taught skills such as decision-making, assertiveness and negotiation to say &ldquo;no&rdquo; to sex and negative peer pressure. They also learn that the impact of STIs/HIV extends beyond themselves and involves their family. Abstinence and upholding family values are the key messages. The desired outcome of the&nbsp;<em>eTeens</em>&nbsp;programme is that students are empowered to make wise, informed and sensible decisions.</p>
 
-<h4><strong>At Pei Hwa Secondary School, the eTeens programme will be implemented as follows in 2022:</strong></h4>
+<h4 style="color:#635f1a;font-weight:bold">At Pei Hwa Secondary School, the eTeens programme will be implemented as follows in 2022:</h4>
 
 <table border="1" style="border-collapse: collapse;margin: 25px 0;font-size:15px;font-family: sans-serif;box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);">
 <thead style="background-color: #009879; font-weight: bold; font-size: 16px;">
@@ -348,12 +348,12 @@ description: ""
 </tbody>
 </table>
 
-<h4><strong>Information for Parents</strong></h4>
-<p style="font-size:15px; line-height:2;margin-top:-5px;">Parents may opt their children out of the Sexuality Education lessons,&nbsp;<em>eTeens</em>&nbsp;and/or supplementary sexuality education programmes by MOE-approved external providers.</p>
+<h4 style="color:#635f1a;font-weight:bold">Information for Parents</h4>
+<p style="font-size:14.5px; line-height:2;margin-top:15px; font-family:Open Sans">Parents may opt their children out of the Sexuality Education lessons,&nbsp;<em>eTeens</em>&nbsp;and/or supplementary sexuality education programmes by MOE-approved external providers.</p>
 
-<p style="font-size:15px; line-height:2;margin-top:-5px;">Parents who wish to opt their children out of the&nbsp;<strong>Sexuality Education lessons</strong>&nbsp;need to complete an opt-out form. This form will be distributed to parents in Term 1 and is also downloadable&nbsp;<a href="/files/Annex-A.pdf">here</a>.&nbsp;The completed form is to be submitted by 28 January 2022 for Secondary 2 and Secondary 4 students. The completed form is to be submitted by 4 February 2022 for Secondary 5 students. The completed form is to be submitted by 25 February 2022 for Secondary 1 and Secondary 3 students.<u></u></p>
+ <p style="margin-top:15px;font-size:14.5px; line-height:2;font-family:Open Sans;">Parents who wish to opt their children out of the&nbsp;<strong>Sexuality Education lessons</strong>&nbsp;need to complete an opt-out form. This form will be distributed to parents in Term 1 and is also downloadable&nbsp;<a href="/files/Annex-A.pdf">here</a>.&nbsp;The completed form is to be submitted by 28 January 2022 for Secondary 2 and Secondary 4 students. The completed form is to be submitted by 4 February 2022 for Secondary 5 students. The completed form is to be submitted by 25 February 2022 for Secondary 1 and Secondary 3 students.<u></u></p>
 
-<p style="font-size:15px; line-height:2;margin-top:-5px;"><span lang="EN-GB">Parents who wish to opt their children out of the&nbsp;<strong><em>eTeens</em></strong><strong>&nbsp;programme</strong>&nbsp;need to complete an opt-out form. This form will be distributed to parents in Term 2 and is also downloadable&nbsp;<a href="/files/Annex-B.pdf">here</a>.&nbsp;The completed form is to be submitted by 25 February 2022.</span></p>
+ <p style="margin-top:15px;font-size:14.5px; line-height:2;font-family:Open Sans;"><span lang="EN-GB">Parents who wish to opt their children out of the&nbsp;<strong><em>eTeens</em></strong><strong>&nbsp;programme</strong>&nbsp;need to complete an opt-out form. This form will be distributed to parents in Term 2 and is also downloadable&nbsp;<a href="/files/Annex-B.pdf">here</a>.&nbsp;The completed form is to be submitted by 25 February 2022.</span></p>
 
-<p style="font-size:15px; line-height:2;margin-top:-5px;"><span lang="EN-GB"></span>Parents can contact the school at&nbsp;65009580 ext 293&nbsp;for discussion or to seek clarification about the school&rsquo;s sexuality education programme.</p>
-<p style="font-size:15px; line-height:2;margin-top:-5px;">Parents, who wish to attend the school sexuality education programmes, should contact the school to make the necessary arrangements.</p>
+ <p style="margin-top:15px;font-size:14.5px; line-height:2;font-family:Open Sans;"><span lang="EN-GB"></span>Parents can contact the school at&nbsp;65009580 ext 293&nbsp;for discussion or to seek clarification about the school&rsquo;s sexuality education programme.</p>
+ <p style="margin-top:15px;font-size:14.5px; line-height:2;font-family:Open Sans;">Parents, who wish to attend the school sexuality education programmes, should contact the school to make the necessary arrangements.</p>
