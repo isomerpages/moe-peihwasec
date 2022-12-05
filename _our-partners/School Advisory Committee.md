@@ -9,7 +9,7 @@ description: ""
 
 <p style="margin-top:15px;font-size:14.5px; line-height:2;font-family:Open Sans;">They have a keen interest in the students&rsquo; welfare and the school&rsquo;s vision to be the &lsquo;Pride of the Community&rsquo;. Thus, they have supported the school&rsquo;s special projects which is aimed at building a dynamic, strong and self-reliant student population whilst nurturing their many talents, through funding. Needy pupils have also been provided with valuable financial help.</p>
 
-<p style="font-size:16px; line-height:2;"><strong>Its office bearers are:</strong></p>
+<p style="margin-top:15px;font-size:17px;"><strong>Its office bearers are:</strong></p>
 
 <table border="1" style="width:100%;">
 	<tbody>
