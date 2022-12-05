@@ -194,7 +194,8 @@ B and C division boys came in 1st runner up in the Interschool Badminton Competi
 	"I take delight in and look forward attending CCA every week. Badminton cca not only allows me to expand my interest, but it also enables me to acquire new skills. My journey in badminton cca has also taught me values such as resilience, sportsmanship and teamwork. I especially love and appreciate my times in cca as I get to forge strong bonds with my cca mates. Despite the downs we had during our loss in competition, we encourage one another endlessly.  As our coach always says, “it is ok to make mistakes, but we have to see improvement in what we do.” This truly inspires our team to challenge ourselves through tough training and work harder to our limits, together as one. "
   <span style="display:block; color:#333333; margin-top:1em;font-size:15px;"><em>Vice-Captain (Girls Team), Charlotte Chia Jia En, 3I5</em></span>
 	</blockquote> 
-	
+
+<h4 style="color:#635f1a;font-weight:bold">CCA Details</h4>
 <table border="1" style="width:100%;">
 	<tbody>
 		<tr>
