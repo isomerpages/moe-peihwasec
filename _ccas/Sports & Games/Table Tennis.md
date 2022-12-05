@@ -4,19 +4,19 @@ permalink: /ccas/sports-games/table-tennis/
 description: ""
 third_nav_title: Sports & Games
 ---
-<p style="font-size:15px; line-height:2;margin-top:15px;">The <strong>Pei Hwa Table Tennis team</strong> started with its humble beginnings. Many years on, we have gained popularity and established a steady membership base. Apart from pushing our students&rsquo; potential in technical and tactical skills during training, the CCA also develops their mental strength, self-discipline, leadership and sportsmanship. The CCA provides opportunities for students to participate in Zonal Competitions, Ad-hoc Tournaments and Inter-School friendly competitions. Students also bond through planning and participating in training camps and recreational activities.</p>
+<p style="font-size:14.5px; line-height:2;font-family:Open Sans;">The <strong>Pei Hwa Table Tennis team</strong> started with its humble beginnings. Many years on, we have gained popularity and established a steady membership base. Apart from pushing our students&rsquo; potential in technical and tactical skills during training, the CCA also develops their mental strength, self-discipline, leadership and sportsmanship. The CCA provides opportunities for students to participate in Zonal Competitions, Ad-hoc Tournaments and Inter-School friendly competitions. Students also bond through planning and participating in training camps and recreational activities.</p>
 
-<h4><strong>Student Outcomes</strong></h4>
-<p style="font-size:15px; line-height:2;margin-top:15px;">The CCA will enable our students to:</p>
-<ul style="margin-top:-5px;">
-		<li style="font-size:15px;margin-bottom:5px;line-height:2"> understand, learn and apply technical and tactical skills in Table Tennis.</li>
-		<li style="font-size:15px;margin-bottom:5px;line-height:2"> develop team spirit and a resilient mental attitude through training sessions and competitions.</li>
-		<li style="font-size:15px;margin-bottom:5px;line-height:2"> exhibit true sportsmanship, values of fair play, graciousness and self-discipline.</li>
-		<li style="font-size:15px;margin-bottom:5px;line-height:2"> develop good character and practises the Pei Hwa PRIDE values (Passion for Learning, Resilience, Integrity, Diligence, Excellence for Self and Others)</li>
-		<li style="font-size:15px;margin-bottom:5px;line-height:2"> cultivate a vibrant sports culture in school by having a sense of appreciation and passion for sports (Table Tennis in particular).</li>
+<h4 style="color:#635f1a;font-weight:bold">Student Outcomes</h4>
+<p style="font-size:14.5px; line-height:2;margin-top:15px; font-family:Open Sans">The CCA will enable our students to:</p>
+<ul style="margin-top:5px;">
+		<li style="font-size:14.5px; line-height:2;font-family:Open Sans;"> understand, learn and apply technical and tactical skills in Table Tennis.</li>
+		<li style="font-size:14.5px; line-height:2;font-family:Open Sans;"> develop team spirit and a resilient mental attitude through training sessions and competitions.</li>
+		<li style="font-size:14.5px; line-height:2;font-family:Open Sans;"> exhibit true sportsmanship, values of fair play, graciousness and self-discipline.</li>
+		<li style="font-size:14.5px; line-height:2;font-family:Open Sans;"> develop good character and practises the Pei Hwa PRIDE values (Passion for Learning, Resilience, Integrity, Diligence, Excellence for Self and Others)</li>
+		<li style="font-size:14.5px; line-height:2;font-family:Open Sans;"> cultivate a vibrant sports culture in school by having a sense of appreciation and passion for sports (Table Tennis in particular).</li>
 </ul>
 	
-<h4><strong>Achievements</strong></h4>
+<h4 style="color:#635f1a;font-weight:bold">Achievements</h4>
 <table border="1" style="border-collapse: collapse;margin: 25px 0;font-size:15px;font-family: sans-serif;box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);">
 <thead style="background-color: #009879; font-weight: bold; font-size: 16px;">
 <tr>
@@ -69,20 +69,20 @@ third_nav_title: Sports & Games
 </tbody>
 </table>	
 	
-<h4 style="font-color:black;">Competitions and CCA Activities</h4>
-<p style="font-size:15px;">Apart from our participation in the annual National School Games, we also participate in friendly competitions with other schools. It gives us the opportunities to widen our network and expose ourselves to a broader range of challenge. It provides the players with opportunities to form meaningful bonds with competitors from other schools.</p>
+<h4 style="color:#635f1a;font-weight:bold">Competitions and CCA Activities</h4>
+<p style="font-size:14.5px; line-height:2;margin-top:15px; font-family:Open Sans">Apart from our participation in the annual National School Games, we also participate in friendly competitions with other schools. It gives us the opportunities to widen our network and expose ourselves to a broader range of challenge. It provides the players with opportunities to form meaningful bonds with competitors from other schools.</p>
 
 <img src="/images/tt1.jpg" style="align:center;">
 
-<p style="font-size:15px;">CCA members are also provided with the opportunities to participate in school events such as CCA Fiesta, Open House and CCA camps. Experienced players competing in high level competitions are also invited to conduct clinics for our students.</p>
+<p style="margin-top:15px;font-size:14.5px; line-height:2;font-family:Open Sans;">CCA members are also provided with the opportunities to participate in school events such as CCA Fiesta, Open House and CCA camps. Experienced players competing in high level competitions are also invited to conduct clinics for our students.</p>
 
 <img src="/images/tt2.jpg" style="align:center;">
 
-<p style="font-size:15px;">We also believe in nurturing our own leaders to facilitate training sessions, bonding activities and school event. Student leaders will also be given the opportunity to hone their leadership skills further when they are sent to participate in the annual Sec 2 Basic Student Leadership Camp and Sec 3 Advance Student Leadership Camp.</p>
+<p style="margin-top:15px;font-size:14.5px; line-height:2;font-family:Open Sans;">We also believe in nurturing our own leaders to facilitate training sessions, bonding activities and school event. Student leaders will also be given the opportunity to hone their leadership skills further when they are sent to participate in the annual Sec 2 Basic Student Leadership Camp and Sec 3 Advance Student Leadership Camp.</p>
 
 <img src="/images/tt3.jpg">
 
-<h4><strong>Student Testament</strong></h4>
+<h4 style="color:#635f1a;font-weight:bold;margin-bottom:-25px;">Student Testament</h4>
 <blockquote style="font-size: 15px;
   width:100%;
   margin:50px auto;
@@ -117,7 +117,7 @@ third_nav_title: Sports & Games
   <span style="display:block; color:#333333; margin-top:1em;font-size:15px;"><em>CCA President (2020), Li Tsz Nok Jaymin</em></span><br><br><br><br><br><br><br><br><br><br>
 	</blockquote>
 
-<h4><strong>CCA Details</strong></h4>
+<h4 style="color:#635f1a;font-weight:bold">CCA Details</h4>
 <table border="1" style="width:100%;">
 	<tbody>
 		<tr>
