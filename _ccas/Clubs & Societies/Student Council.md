@@ -4,21 +4,21 @@ permalink: /ccas/clubs-societies/student-council/
 description: ""
 third_nav_title: Clubs & Societies
 ---
-<h4><strong>Mission</strong></h4>
+<h4 style="color:#635f1a;font-weight:bold">Mission</h4>
 
-<p style="font-size:15px; line-height:2;margin-top:15px;">The <strong>Student Council</strong> aims to develop innovative, daring and compassionate leaders. As Tier 3 Student Leaders, the Student Council is the voice of the student body and takes the lead in school events and improving student welfare. Student Councillors are also advocates of the environment by raising awareness about environment conservation through events such as Earth Week.</p>
+<p style="font-size:14.5px; line-height:2;margin-top:15px; font-family:Open Sans">The <strong>Student Council</strong> aims to develop innovative, daring and compassionate leaders. As Tier 3 Student Leaders, the Student Council is the voice of the student body and takes the lead in school events and improving student welfare. Student Councillors are also advocates of the environment by raising awareness about environment conservation through events such as Earth Week.</p>
 
-<p style="font-size:15px; line-height:2;margin-top:15px;">Every year, Student Councillors are officially appointed during the Student Leaders Investiture. As role-models of the student population, Student Councillors lead by example. They are given multiple platforms to develop their leadership and event management skills through organising events such as the Teachers’ Day Celebration and Secondary 1 Orientation, as well as managing the PHun Lounge.</p>
+<p style="margin-top:15px;font-size:14.5px; line-height:2;font-family:Open Sans;">Every year, Student Councillors are officially appointed during the Student Leaders Investiture. As role-models of the student population, Student Councillors lead by example. They are given multiple platforms to develop their leadership and event management skills through organising events such as the Teachers’ Day Celebration and Secondary 1 Orientation, as well as managing the PHun Lounge.</p>
 
-<h4><strong>Student Outcomes</strong></h4>
+<h4 style="color:#635f1a;font-weight:bold">Student Outcomes</h4>
 
-<p style="font-size:15px; line-height:2;">The CCA will enable our students to:</p>
-<ul style="margin-top:-5px">
-		<li style="font-size:15px; line-height:2;"> be equipped with knowledge on leadership, teamwork and project management</li>
+<p style="font-size:14.5px; line-height:2;margin-top:15px; font-family:Open Sans">The CCA will enable our students to:</p>
+<ul style="margin-top:5px">
+		<li  style="font-size:14.5px; line-height:2;font-family:Open Sans;"> be equipped with knowledge on leadership, teamwork and project management</li>
 	</ul>
 
 
-<h4><strong>Student Testament</strong></h4>
+<h4 style="color:#635f1a;font-weight:bold">Student Testament</h4>
 <blockquote style="font-size: 15px;
   width:100%;
   margin:50px auto;
@@ -54,7 +54,7 @@ I learnt many things in Council and one of the few is being in charge of a speci
 	</blockquote>
 
 
-<h4><strong>CCA Details</strong></h4>
+<h4 style="color:#635f1a;font-weight:bold">CCA Details</h4>
 <table border="1" style="width:100%;">
 	<tbody>
 		<tr>
@@ -80,7 +80,7 @@ I learnt many things in Council and one of the few is being in charge of a speci
 </tbody>
 	</table>
 
-<h4><strong>Photo Gallery</strong></h4>
+<h4 style="color:#635f1a;font-weight:bold">Photo Gallery</h4>
 <div class="row" style="box-sizing: border-box;"> 
 		<div class="column" style="box-sizing: border-box;  float: left; width: 50%; padding: 10px;">
   			<img src="/images/sc3.jpg" style="width:100%; margin-top: 12px;">
