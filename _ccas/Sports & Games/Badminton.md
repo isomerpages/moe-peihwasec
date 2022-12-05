@@ -6,21 +6,21 @@ third_nav_title: Sports & Games
 ---
 <img style="width: 100%;" src="/images/Picture1.jpg" />
 
-<p style="font-size:15px; line-height:2;margin-top:15px;">The CCA aims to provide opportunities for students to learn and apply the technical and tactical skills and rules of badminton, so as to play the sports at a competitive level and as a recreational activity. Through the trainings, we would like to develop within all our members a healthy body and instill in them the virtues of true sportsmanship, PRIDE (Passion for Learning, Resilience, Integrity, Diligence, Excellence for Self and Others), teamwork and discipline.</p>
+<p style="font-size:14.5px; line-height:2;font-family:Open Sans;">The CCA aims to provide opportunities for students to learn and apply the technical and tactical skills and rules of badminton, so as to play the sports at a competitive level and as a recreational activity. Through the trainings, we would like to develop within all our members a healthy body and instill in them the virtues of true sportsmanship, PRIDE (Passion for Learning, Resilience, Integrity, Diligence, Excellence for Self and Others), teamwork and discipline.</p>
 
-<h4><strong>Student Outcomes</strong></h4>
+<h4 style="color:#635f1a;font-weight:bold">Student Outcomes</h4>
 
-<p style="font-size:15px; line-height:2;">The CCA will enable our students to:</p>
+<p style="font-size:14.5px; line-height:2;margin-top:15px; font-family:Open Sans">The CCA will enable our students to:</p>
 
 <ul style="margin-top:-5px">
-<li style="font-size:15px; line-height:2;"> explain and apply their knowledge of badminton rules, its technical and tactical skills to play the game correctly and safely.</li>
-<li style="font-size:15px; line-height:2;"> play badminton at competitive level for beginners and advanced / school team players and be prepared for the Badminton National School Games and any other ad-hoc competitions or friendly matches.</li>
-<li style="font-size:15px; line-height:2;"> have the opportunities to develop soft skills such a as communication, teamwork and having good sportsmanship.</li>
-<li style="font-size:15px; line-height:2;"> have the opportunities to develop holistically in all components of fitness (e.g. stamina, agility, strength) and mental conditioning.</li>
-<li style="font-size:15px; line-height:2;"> have the opportunities to develop themselves as leaders</li>
+<li  style="font-size:14.5px; line-height:2;font-family:Open Sans;"> explain and apply their knowledge of badminton rules, its technical and tactical skills to play the game correctly and safely.</li>
+<li  style="font-size:14.5px; line-height:2;font-family:Open Sans;"> play badminton at competitive level for beginners and advanced / school team players and be prepared for the Badminton National School Games and any other ad-hoc competitions or friendly matches.</li>
+<li  style="font-size:14.5px; line-height:2;font-family:Open Sans;"> have the opportunities to develop soft skills such a as communication, teamwork and having good sportsmanship.</li>
+<li  style="font-size:14.5px; line-height:2;font-family:Open Sans;"> have the opportunities to develop holistically in all components of fitness (e.g. stamina, agility, strength) and mental conditioning.</li>
+<li  style="font-size:14.5px; line-height:2;font-family:Open Sans;"> have the opportunities to develop themselves as leaders</li>
 </ul>
 	
-<h4><strong>Achievements</strong></h4>
+<h4 style="color:#635f1a;font-weight:bold">Achievements</h4>
 	
 <table border="1" style="border-collapse: collapse;margin: 25px 0;font-size:15px;font-family: sans-serif;box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);">
 <thead style="background-color: #009879; font-weight: bold; font-size: 16px;">
@@ -67,9 +67,9 @@ B and C division boys came in 1st runner up in the Interschool Badminton Competi
 </tbody>
 </table>
 
-<h4><strong>North Zone Badminton Competitions</strong></h4>
+<h4 style="color:#635f1a;font-weight:bold">North Zone Badminton Competitions</h4>
 
-<p style="font-size:15px; line-height:2;margin-top:15px;">The team has participated in the Inter-Schools North Zone Badminton Tournaments. The players put up a good performance and exemplified the school values of resilience and diligence throughout the competition. The students have also forged strong friendship and demonstrated good teamwork throughout their trainings and in preparation for their competitions. Through their perseverance and hard work, the B division boys qualified for the quarter-finals. We are proud of their progress and improvements in the games.</p>
+<p style="font-size:14.5px; line-height:2;margin-top:15px; font-family:Open Sans">The team has participated in the Inter-Schools North Zone Badminton Tournaments. The players put up a good performance and exemplified the school values of resilience and diligence throughout the competition. The students have also forged strong friendship and demonstrated good teamwork throughout their trainings and in preparation for their competitions. Through their perseverance and hard work, the B division boys qualified for the quarter-finals. We are proud of their progress and improvements in the games.</p>
 
 <img style="width: 100%;margin-top:10px;" src="/images/Picture2.jpg"/>
 <p style="text-align:center; font-size:13px;margin-top:-10px;">B Division Boys</p>
@@ -86,7 +86,7 @@ B and C division boys came in 1st runner up in the Interschool Badminton Competi
 <img style="width: 100%;margin-top:10px;" src="/images/Picture6.jpg"/>
 <p style="text-align:center; font-size:13px;margin-top:-10px;">C Division Girls</p>
 
-<h4><strong>Farewell Party for the seniors</strong>
+<h4 style="color:#635f1a;font-weight:bold">Farewell Party for the seniors</h4>
 		<div class="row" style="box-sizing: border-box;"> 
 		<div class="column" style="box-sizing: border-box;  float: left; width: 50%; padding: 10px;">
   			<img src="/images/Picture7.jpg" style="width:100%; margin-top: 12px;">
@@ -98,7 +98,7 @@ B and C division boys came in 1st runner up in the Interschool Badminton Competi
 		</div>  
   	</div>
 
-<h4><strong>Student Testament</strong></h4>
+<h4 style="color:#635f1a;font-weight:bold">Student Testament</h4>
 <blockquote style="font-size: 15px;
   width:100%;
   margin:50px auto;
