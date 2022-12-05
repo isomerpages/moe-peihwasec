@@ -4,20 +4,21 @@ permalink: /ccas/sports-games/taekwondo/
 description: ""
 third_nav_title: Sports & Games
 ---
-<p style="font-size:15px; line-height:2;margin-top:15px;">The school has been taking part in the Taekwondo Championship since 2007. Over the years, the CCA has groomed and nurtured many talented members in both Kyorugi (sparring) and Poomsae (Pattern) and had garnered numerous medals yearly.</p>
+<p style="font-size:14.5px; line-height:2;font-family:Open Sans;">The school has been taking part in the Taekwondo Championship since 2007. Over the years, the CCA has groomed and nurtured many talented members in both Kyorugi (sparring) and Poomsae (Pattern) and had garnered numerous medals yearly.</p>
 
-<p style="font-size:15px; line-height:2;margin-top:15px;">The Taekwondo programme in Pei Hwa Secondary School (PHSS) focuses on cultivating individual values such as Respect, Resilience and Self-discipline. Our student athletes have done the school proud by winning individual and team events in national competitions. The team also seeks to foster a sense of team spirit within the CCA.</p>
+<p style="margin-top:15px;font-size:14.5px; line-height:2;font-family:Open Sans;">
+The Taekwondo programme in Pei Hwa Secondary School (PHSS) focuses on cultivating individual values such as Respect, Resilience and Self-discipline. Our student athletes have done the school proud by winning individual and team events in national competitions. The team also seeks to foster a sense of team spirit within the CCA.</p>
 
-<h4><strong>Student Outcomes</strong></h4>
-<p style="font-size:15px; line-height:2;margin-top:15px;">The CCA will enable our students to:</p>
-<ul style="margin-top:-5px">
-		<li style="font-size:15px; line-height:2;"> cultivate respectful and rational individuals</li>
-		<li style="font-size:15px; line-height:2;"> develop desirable values such as modesty, perseverance and indomitable spirit</li>
-		<li style="font-size:15px; line-height:2;"> acquire knowledge in Taekwondo and experience stage performances</li>
-		<li style="font-size:15px; line-height:2;"> deepen understanding of self-discipline and team collaboration</li>
+<h4 style="color:#635f1a;font-weight:bold">Student Outcomes</h4>
+<p style="font-size:14.5px; line-height:2;margin-top:15px; font-family:Open Sans">The CCA will enable our students to:</p>
+<ul style="margin-top:5px">
+		<li style="font-size:14.5px; line-height:2;font-family:Open Sans;"> cultivate respectful and rational individuals</li>
+		<li style="font-size:14.5px; line-height:2;font-family:Open Sans;"> develop desirable values such as modesty, perseverance and indomitable spirit</li>
+		<li style="font-size:14.5px; line-height:2;font-family:Open Sans;"> acquire knowledge in Taekwondo and experience stage performances</li>
+		<li style="font-size:14.5px; line-height:2;font-family:Open Sans;"> deepen understanding of self-discipline and team collaboration</li>
 	</ul>
 	
-<h4><strong>Achievements</strong></h4>
+<h4 style="color:#635f1a;font-weight:bold">Achievements</h4>
 	
 <table border="1" style="border-collapse: collapse;margin: 25px 0;font-size:15px;font-family: sans-serif;box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);">
 <thead style="background-color: #009879; font-weight: bold; font-size: 16px;">
@@ -93,11 +94,11 @@ third_nav_title: Sports & Games
 </tbody>
 </table>
 
-<h4><strong>Competitions and CCA Activities</strong></h4>
+<h4 style="color:#635f1a;font-weight:bold">Competitions and CCA Activities</h4>
 
 <img src="/images/taekwondo.png">
 
-<h4><strong>Student Testament</strong></h4>
+<h4 style="color:#635f1a;font-weight:bold;margin-bottom:-25px;">Student Testament</h4>
 <blockquote style="font-size: 15px;
   width:100%;
   margin:50px auto;
@@ -143,7 +144,7 @@ third_nav_title: Sports & Games
   <span style="display:block; color:#333333; margin-top:1em;font-size:15px;"><em>Javier Heng, 4D2</em></span>
 	</blockquote>
 
-<h4><strong>CCA Details</strong></h4>
+<h4 style="color:#635f1a;font-weight:bold">CCA Details</h4>
 <table border="1" style="width:100%;">
 	<tbody>
 		<tr>
