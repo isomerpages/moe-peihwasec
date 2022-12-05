@@ -6,9 +6,9 @@ third_nav_title: Direct School Admission
 ---
 <p style="font-size:14.5px; line-height:2;font-family:Open Sans;">Pei Hwa Secondary School is looking for Primary 6 students with a passion and talent in playing the Guzheng. Students should meet the admission criteria stated in the following section before applying. Shortlisted applicants who meet the admission criteria will be required to attend an e-interview and e-audition session (through video conferencing) by our panel of teachers and instructor.</p>
 
-<p style="font-size:15px; line-height:2;margin-top:-5px;">Parents and students are encouraged to choose schools wisely based on the student&rsquo;s aptitudes and strengths, bearing in mind the school&rsquo;s academic and non-academic requirements, and the programmes available to develop the area of talent.</p>
+<p style="font-size:14.5px; line-height:2;font-family:Open Sans;">Parents and students are encouraged to choose schools wisely based on the student&rsquo;s aptitudes and strengths, bearing in mind the school&rsquo;s academic and non-academic requirements, and the programmes available to develop the area of talent.</p>
 
-<p style="font-size:15px; line-height:2;margin-top:-5px;">Students who are successfully admitted to the school via DSA are expected to honour their commitment to the school, and participate in the activities related to the talent they are selected for from year 1 to 4.</p>
+<p style="font-size:14.5px; line-height:2;font-family:Open Sans;">Students who are successfully admitted to the school via DSA are expected to honour their commitment to the school, and participate in the activities related to the talent they are selected for from year 1 to 4.</p>
 
 
 <h4 style="color:#635f1a;font-weight:bold">About Pei Hwa Guzheng Ensemble</h4>
@@ -27,7 +27,7 @@ third_nav_title: Direct School Admission
 <li style="font-size:15px; line-height:2;">Learning journeys</li>
 </ul>
 
-<p style="font-size:15px; line-height:2;margin-top:-5px;">For more information on Pei Hwa Guzheng Ensemble and their programme, please visit&nbsp;<a href="/ccas/performing-arts/guzheng/" target="_blank" rel="noopener noreferrer">this page</a>.</p>
+<p style="font-size:14.5px; line-height:2;font-family:Open Sans;">For more information on Pei Hwa Guzheng Ensemble and their programme, please visit&nbsp;<a href="/ccas/performing-arts/guzheng/" target="_blank" rel="noopener noreferrer">this page</a>.</p>
 
 
 <h4 style="color:#635f1a;font-weight:bold">Shortlisting Criteria</h4>
@@ -216,19 +216,19 @@ third_nav_title: Direct School Admission
 
 
 <h4 style="color:#635f1a;font-weight:bold">FAQs</h4>
-<p style="font-size:16px; line-height:2;margin-top:5px;"><strong>1. How many places can Pei Hwa Secondary offer in DSA Exercise?</strong></p>
-<p style="font-size:15px; line-height:2;margin-top:-5px;">All secondary schools can admit up to 20% of their 2022 S1 non-Integrated Programme (non-IP) intake via the DSA-Sec.&nbsp;</p>
+<p style="font-size:14.5px; line-height:2;font-family:Open Sans;"><strong>1. How many places can Pei Hwa Secondary offer in DSA Exercise?</strong></p>
+<p style="font-size:14.5px; line-height:2;font-family:Open Sans;margin-top:-5px;">All secondary schools can admit up to 20% of their 2022 S1 non-Integrated Programme (non-IP) intake via the DSA-Sec.&nbsp;</p>
 
-<p style="font-size:16px; line-height:2;margin-top:5px;"><strong>2. Can my child take part in the DSA exercise if he/she is currently not studying in any of the MOE schools?</strong></p>
-<p style="font-size:15px; line-height:2;margin-top:-5px;">Applicants not studying in MOE mainstream primary schools will need to apply for a Registration Number (RGxxxxxxx) to access the DSA-Sec Portal. Please refer to MOE website at:&nbsp;<a href="https://go.gov.sg/nmsdsa-sec-application">https://go.gov.sg/nmsdsa-sec-application</a></p>
+<p style="font-size:14.5px; line-height:2;font-family:Open Sans;"><strong>2. Can my child take part in the DSA exercise if he/she is currently not studying in any of the MOE schools?</strong></p>
+<p style="font-size:14.5px; line-height:2;font-family:Open Sans;margin-top:-5px;">Applicants not studying in MOE mainstream primary schools will need to apply for a Registration Number (RGxxxxxxx) to access the DSA-Sec Portal. Please refer to MOE website at:&nbsp;<a href="https://go.gov.sg/nmsdsa-sec-application">https://go.gov.sg/nmsdsa-sec-application</a></p>
 
-<p style="font-size:16px; line-height:2;margin-top:5px;"><strong>3. Will my child be part of the Pei Hwa Guzheng Ensemble if he/she is successful in the DSA application?</strong></p>
-<p style="font-size:15px; line-height:2;margin-top:-5px;">Your child will be automatically channeled into the Guzheng Ensemble as his/her CCA through the DSA Exercise. Hence, your child will not be involved in the CCA Selection Process during the Sec 1 Orientation week.</p>
+<p style="font-size:14.5px; line-height:2;font-family:Open Sans;"><strong>3. Will my child be part of the Pei Hwa Guzheng Ensemble if he/she is successful in the DSA application?</strong></p>
+<p style="font-size:14.5px; line-height:2;font-family:Open Sans;margin-top:-5px;">Your child will be automatically channeled into the Guzheng Ensemble as his/her CCA through the DSA Exercise. Hence, your child will not be involved in the CCA Selection Process during the Sec 1 Orientation week.</p>
 
-<p style="font-size:16px; line-height:2;margin-top:5px;"><strong>4. Can my child/ward apply for transfer after getting a confirmed place?</strong></p>
-<p style="font-size:15px; line-height:2; margin-top:-5px;">Successful DSA-Sec students are not allowed to transfer to another school after the release of the PSLE results. They are expected to honour the commitment to the posted DSA schools for the duration of the programme they are admitted to. They are not allowed to transfer to another school after the release of the PSLE results.</p>
+<p style="font-size:14.5px; line-height:2;font-family:Open Sans;"><strong>4. Can my child/ward apply for transfer after getting a confirmed place?</strong></p>
+<p style="font-size:14.5px; line-height:2;font-family:Open Sans;margin-top:-5px;">Successful DSA-Sec students are not allowed to transfer to another school after the release of the PSLE results. They are expected to honour the commitment to the posted DSA schools for the duration of the programme they are admitted to. They are not allowed to transfer to another school after the release of the PSLE results.</p>
 
-<p style="font-size:16px; line-height:2;margin-top:5px;"><strong>5. Can my child/ward apply for a change in CCA?</strong></p>
-<p style="font-size:15px; line-height:2;margin-top:-5px;">Successful DSA-Sec students are expected to honour their commitment to the posted DSA school and to participate in activities related to the talent selected in, for the duration of the programme admitted to.</p>
+<p style="font-size:14.5px; line-height:2;font-family:Open Sans;"><strong>5. Can my child/ward apply for a change in CCA?</strong></p>
+<p style="font-size:14.5px; line-height:2;font-family:Open Sans;margin-top:-5px;">Successful DSA-Sec students are expected to honour their commitment to the posted DSA school and to participate in activities related to the talent selected in, for the duration of the programme admitted to.</p>
 
 <p style="font-size:16px; line-height:2;margin-top:5px;"><strong>More information on DSA can be found on&nbsp;</strong><a href="http://www.moe.gov.sg/dsa-sec"><strong>www.moe.gov.sg/dsa-sec</strong></a></p>
