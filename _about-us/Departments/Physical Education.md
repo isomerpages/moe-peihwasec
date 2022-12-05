@@ -4,11 +4,11 @@ permalink: /about-us/departments/pe/
 description: ""
 third_nav_title: Departments
 ---
-<h4><strong>Our Goals</strong></h4>
+<h4 style="color:#635f1a;font-weight:bold">Our Goals</h4>
 
-<p  style="font-size:15px; line-height:2;margin-top:15px;">The Pei Hwa Physical Education Programme aims to develop in each student the ability to:</p>
+<p style="font-size:14.5px; line-height:2;margin-top:15px; font-family:Open Sans">The Pei Hwa Physical Education Programme aims to develop in each student the ability to:</p>
 
-<p style="margin:5px 0 5px 20px; font-size:15px;"><strong>Goal 1:&nbsp;</strong>Acquire a range of movement skills to participate in a variety of physical activities</p>
+<p style="margin:5px 0 5px 20px; font-size:14.5px; line-height:font-family:Open Sans;"><strong>Goal 1:&nbsp;</strong>Acquire a range of movement skills to participate in a variety of physical activities</p>
 
 <p style="margin:5px 0 5px 20px; font-size:15px;"><strong>Goal 2:</strong>&nbsp;Understand and apply movement concepts, principles and strategies in a range of physical activities.</p>
 
@@ -22,7 +22,7 @@ third_nav_title: Departments
 
 <img src="/images/pe1.jpg" style="width:70%;">
 
-<p><strong>Sports &amp; Games taught:</strong></p>
+<p style="margin-top:15px;font-size:17px;"><strong>Sports &amp; Games taught:</strong></p>
 
 <p style="margin:5px 0 5px 20px; font-size:15px;">Secondary 1: Basketball &amp; Frisbee</p>
 
@@ -32,7 +32,7 @@ third_nav_title: Departments
 
 <p style="margin:5px 0 5px 20px; font-size:15px;">Secondary 4 &amp; 5: Volleyball &amp; Netball</p>
 
-<p><strong>Physical Health &amp; Fitness topics (From Sec 1 &ndash; 5):</strong></p>
+<p style="margin-top:15px;font-size:17px;"><strong>Physical Health &amp; Fitness topics (From Sec 1 &ndash; 5):</strong></p>
 
 <ol>
 <li style="margin:5px 0 5px 20px; font-size:15px;">Health &amp; Fitness Management</li>
@@ -42,7 +42,7 @@ third_nav_title: Departments
 
 <img src="/images/pe2.jpg" style="width:70%;">
 
-<p><strong>Outdoor Education topics (From Sec 1 &ndash; 3):</strong></p>
+<p style="margin-top:15px;font-size:17px;"><strong>Outdoor Education topics (From Sec 1 &ndash; 3):</strong></p>
 
 <ol>
 <li style="margin:5px 0 5px 20px; font-size:15px;">Enhancing physical health and well-being</li>
@@ -54,9 +54,9 @@ third_nav_title: Departments
 
 
 
-<h4><strong>Our Student Learning</strong></h4>
+<h4 style="color:#635f1a;font-weight:bold">Our Student Learning</h4>
 
-<p><strong>PE Lessons</strong></p>
+<p style="margin-top:15px;font-size:17px;"><strong>PE Lessons</strong></p>
 
 <p style="font-size:15px; line-height:2;margin-top:15px;">In Pei Hwa Secondary school, we strive to design fun and engaging PE lessons to develop students in the physical, cognitive and affective domains. We focus on delivering lessons with clear learning goals and employ differentiated instructions to cater to the different learning needs of our students.</p>
 
