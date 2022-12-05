@@ -16,12 +16,12 @@ Congratulations to our&nbsp;former students who has excelled academically at Rep
 </tr>
 	
 <tr>
-<td style="font-size:14.5px; line-height:2;font-family:Open Sans;">Course</td>
+<td style="font-size:14.5px; line-height:2;font-family:Open Sans;width:10%;">Course</td>
 <td style="font-size:14.5px; line-height:2;font-family:Open Sans;">: Diploma in Health Management and Promotion</td>
 </tr>
 	
 <tr>
-<td style="font-size:14.5px; line-height:2;font-family:Open Sans;">Achievement</td>
+<td style="font-size:14.5px; line-height:2;font-family:Open Sans;width:10%;">Achievement</td>
 <td style="font-size:14.5px; line-height:2;font-family:Open Sans;">: Diploma with Merit</td>
 </tr>
 
@@ -56,12 +56,12 @@ Congratulations to our&nbsp;former student who has excelled academically at St A
 </tr>
 	
 <tr>
-<td style="font-size:14.5px; line-height:2;font-family:Open Sans;">National Examination</td>
+<td style="font-size:14.5px; line-height:2;font-family:Open Sans;width:10%;">National Examination</td>
 <td style="font-size:14.5px; line-height:2;font-family:Open Sans;">: A Level</td>
 </tr>
 	
 <tr>
-<td style="font-size:14.5px; line-height:2;font-family:Open Sans;">Achievement</td>
+<td style="font-size:14.5px; line-height:2;font-family:Open Sans;width:10%;">Achievement</td>
 <td style="font-size:14.5px; line-height:2;font-family:Open Sans;">: Five Distinctions (88.75 out of 90 Rank Points)</td>
 </tr>
 
@@ -83,12 +83,12 @@ Congratulations to our&nbsp;former students who have excelled academically at Ng
 </tr>
 	
 <tr>
-<td style="font-size:14.5px; line-height:2;font-family:Open Sans;">Course</td>
+<td style="font-size:14.5px; line-height:2;font-family:Open Sans;width:10%;">Course</td>
 <td style="font-size:14.5px; line-height:2;font-family:Open Sans;">: Diploma in Child Psychology & Early Education</td>
 </tr>
 	
 <tr>
-<td style="font-size:14.5px; line-height:2;font-family:Open Sans;">Achievement</td>
+<td style="font-size:14.5px; line-height:2;font-family:Open Sans;width:10%;">Achievement</td>
 <td style="font-size:14.5px; line-height:2;font-family:Open Sans;">: NCSS Silver Medal & Prize <br>&nbsp;&nbsp;Diploma with Merit</td>
 </tr>
 	
@@ -100,17 +100,17 @@ Congratulations to our&nbsp;former students who have excelled academically at Ng
 <tbody>
 		
 <tr>
-<td style="font-size:14.5px; line-height:2;font-family:Open Sans;">Name</td>
+<td style="font-size:14.5px; line-height:2;font-family:Open Sans;width:10%;">Name</td>
 <td style="font-size:14.5px; line-height:2;font-family:Open Sans;">: <strong>Yeap Hui Ming, Crystal</strong></td>
 </tr>
 	
 <tr>
-<td style="font-size:14.5px; line-height:2;font-family:Open Sans;">Course</td>
+<td style="font-size:14.5px; line-height:2;font-family:Open Sans;width:10%;">Course</td>
 <td style="font-size:14.5px; line-height:2;font-family:Open Sans;">: Diploma in Early Childhood Education</td>
 </tr>
 	
 <tr>
-<td style="font-size:14.5px; line-height:2;font-family:Open Sans;">Achievement</td>
+<td style="font-size:14.5px; line-height:2;font-family:Open Sans;width:10%;">Achievement</td>
 <td style="font-size:14.5px; line-height:2;font-family:Open Sans;">: Diploma with Merit</td>
 </tr>
 	
@@ -121,17 +121,17 @@ Congratulations to our&nbsp;former students who have excelled academically at Ng
 <tbody>
 		
 <tr>
-<td style="font-size:14.5px; line-height:2;font-family:Open Sans;">Name</td>
+<td style="font-size:14.5px; line-height:2;font-family:Open Sans;width:10%;">Name</td>
 <td style="font-size:14.5px; line-height:2;font-family:Open Sans;">: <strong>Ng Lyn Ni</strong></td>
 </tr>
 	
 <tr>
-<td style="font-size:14.5px; line-height:2;font-family:Open Sans;">Course</td>
+<td style="font-size:14.5px; line-height:2;font-family:Open Sans;width:10%;">Course</td>
 <td style="font-size:14.5px; line-height:2;font-family:Open Sans;">: Diploma in International Logistics & Supply Chain Management</td>
 </tr>
 	
 <tr>
-<td style="font-size:14.5px; line-height:2;font-family:Open Sans;">Achievement</td>
+<td style="font-size:14.5px; line-height:2;font-family:Open Sans; width:10%;">Achievement</td>
 <td style="font-size:14.5px; line-height:2;font-family:Open Sans;">: Diploma with Merit</td>
 </tr>
 	
@@ -148,17 +148,17 @@ Congratulations to our&nbsp;former students who have excelled academically at Te
 <tbody>
 		
 <tr>
-<td style="font-size:14.5px; line-height:2;font-family:Open Sans;">Name</td>
+<td style="font-size:14.5px; line-height:2;font-family:Open Sans; width:10%;">Name</td>
 <td style="font-size:14.5px; line-height:2;font-family:Open Sans;">: <strong>Ang Xiuqi</strong></td>
 </tr>
 	
 <tr>
-<td style="font-size:14.5px; line-height:2;font-family:Open Sans;">Course</td>
+<td style="font-size:14.5px; line-height:2;font-family:Open Sans; width:10%;">Course</td>
 <td style="font-size:14.5px; line-height:2;font-family:Open Sans;">: Diploma in Accounting & Finance</td>
 </tr>
 	
 <tr>
-<td style="font-size:14.5px; line-height:2;font-family:Open Sans;">Achievement</td>
+<td style="font-size:14.5px; line-height:2;font-family:Open Sans; width:10%;">Achievement</td>
 <td style="font-size:14.5px; line-height:2;font-family:Open Sans;">: Deloitte Singapore Course Bronze Medal<br>&nbsp;&nbsp;KPMG Prize</td>
 </tr>
 	
@@ -169,7 +169,7 @@ Congratulations to our&nbsp;former students who have excelled academically at Te
 <tbody>
 		
 <tr>
-<td style="font-size:14.5px; line-height:2;font-family:Open Sans;">Name</td>
+<td style="font-size:14.5px; line-height:2;font-family:Open Sans; width:10%;">Name</td>
 <td style="font-size:14.5px; line-height:2;font-family:Open Sans;">: <strong>Sahra Bte Sulaiman</strong></td>
 </tr>
 	
@@ -192,17 +192,17 @@ Congratulations to our&nbsp;former students who have excelled academically at Te
 <tbody>
 		
 <tr>
-<td style="font-size:14.5px; line-height:2;font-family:Open Sans;">Name</td>
+<td style="font-size:14.5px; line-height:2;font-family:Open Sans; width:10%;">Name</td>
 <td style="font-size:14.5px; line-height:2;font-family:Open Sans;">: <strong>Zhang Zhao Hui</strong></td>
 </tr>
 	
 <tr>
-<td style="font-size:14.5px; line-height:2;font-family:Open Sans;">Course</td>
+<td style="font-size:14.5px; line-height:2;font-family:Open Sans; width:10%;">Course</td>
 <td style="font-size:14.5px; line-height:2;font-family:Open Sans;">: Diploma in Green Building and Sustainability</td>
 </tr>
 	
 <tr>
-<td style="font-size:14.5px; line-height:2;font-family:Open Sans;">Achievement</td>
+<td style="font-size:14.5px; line-height:2;font-family:Open Sans; width:10%;">Achievement</td>
 <td style="font-size:14.5px; line-height:2;font-family:Open Sans;">: Course Silver Medal<br>&nbsp;&nbsp;Director’s List Award&nbsp;&nbsp;CDL Prize</td>
 </tr>
 	
@@ -215,7 +215,7 @@ Congratulations to our&nbsp;former students who have excelled academically at Te
 <tbody>
 		
 <tr>
-<td style="font-size:14.5px; line-height:2;font-family:Open Sans;">Name</td>
+<td style="font-size:14.5px; line-height:2;font-family:Open Sans; width:10%;">Name</td>
 <td style="font-size:14.5px; line-height:2;font-family:Open Sans;">: <strong>Teh Min Yang</strong></td>
 </tr>
 	
@@ -242,7 +242,7 @@ Our former student, Chua Wei Ting, was awarded the teaching scholarship this yea
 <tbody>
 		
 <tr>
-<td style="font-size:14.5px; line-height:2;font-family:Open Sans;">Name</td>
+<td style="font-size:14.5px; line-height:2;font-family:Open Sans; width:10%;">Name</td>
 <td style="font-size:14.5px; line-height:2;font-family:Open Sans;">: <strong>Chua Wei Ting</strong></td>
 </tr>
 
@@ -263,7 +263,7 @@ Our former students have graduated from Ngee Ann Polytechnic (NP) this year with
 <tbody>
 		
 <tr>
-<td style="font-size:14.5px; line-height:2;font-family:Open Sans;">Name</td>
+<td style="font-size:14.5px; line-height:2;font-family:Open Sans; width:10%;">Name</td>
 <td style="font-size:14.5px; line-height:2;font-family:Open Sans;">: <strong>Leaw Kai Wei, Lashanda</strong></td>
 </tr>
 	
@@ -289,12 +289,12 @@ Our former students have graduated from Ngee Ann Polytechnic (NP) this year with
 <tbody>
 		
 <tr>
-<td style="font-size:14.5px; line-height:2;font-family:Open Sans;">Name</td>
+<td style="font-size:14.5px; line-height:2;font-family:Open Sans; width:10%;">Name</td>
 <td style="font-size:14.5px; line-height:2;font-family:Open Sans;">: <strong>Samuel Chin Wei Kiat</strong></td>
 </tr>
 	
 <tr>
-<td style="font-size:14.5px; line-height:2;font-family:Open Sans;">Course</td>
+<td style="font-size:14.5px; line-height:2;font-family:Open Sans; width:10%;">Course</td>
 <td style="font-size:14.5px; line-height:2;font-family:Open Sans;">: Diploma in Banking & Financial Services</td>
 </tr>
 	
