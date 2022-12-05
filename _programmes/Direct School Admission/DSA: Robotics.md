@@ -105,7 +105,7 @@ Applicants do not need to possess&nbsp;<strong>ALL</strong>&nbsp;of the above cr
 <h4 style="color:#635f1a;font-weight:bold">Pinnacle Achievements in 2018 and 2019</h4>
 
 <img style="width: 65%;" src="/images/dsarobo1.png" />
-<p style="margin-top:15px;font-size:17px;"><strong>Outstanding Contribution Award</strong></p>
+<p style="margin-top:15.5px;font-size:17px;"><strong>Outstanding Contribution Award</strong></p>
 
 <p style="font-size:14.5px; line-height:2;margin:-15px 0 25px 0px;font-family:Open Sans;">In April 2018, Pei Hwa Secondary School received the&nbsp;<strong>Outstanding Contribution Award</strong>&nbsp;from RoboCup Singapore for actively contributing to the CoSpace community through organising RoboCupJunior CoSpace Pei Hwa Challenge for the past 5 years. The award is not only&nbsp;dedicated to&nbsp;the hardworking&nbsp;ALP Team&nbsp;but also to all colleagues who had worked hard and supported the Robotics Programme.</p>
 
