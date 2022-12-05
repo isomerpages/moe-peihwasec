@@ -4,19 +4,19 @@ permalink: /ccas/clubs-societies/pei-hwa-art-council-phac/
 description: ""
 third_nav_title: Clubs & Societies
 ---
-<p style="font-size:15px; line-height:2;margin-top:15px;"><strong>Pei Hwa Art Council</strong>&nbsp;is a visual arts CCA which aims to provide students with opportunities to grow creatively. Students are exposed to a mix of fine art and design skills such as drawing and painting, ceramics and digital art to allow them a hands-on at trying out different media. They are also given opportunities to showcase their strengths and talents by participating in various competitions and Values in Action in order to give back to the community.</p>
+<p style="font-size:14.5px; line-height:2;font-family:Open Sans;"><strong>Pei Hwa Art Council</strong>&nbsp;is a visual arts CCA which aims to provide students with opportunities to grow creatively. Students are exposed to a mix of fine art and design skills such as drawing and painting, ceramics and digital art to allow them a hands-on at trying out different media. They are also given opportunities to showcase their strengths and talents by participating in various competitions and Values in Action in order to give back to the community.</p>
 
 
-<h4><strong>Student Outcomes</strong></h4>
-<p style="font-size:15px; line-height:2;">The CCA will enable our students to:</p>
+<h4 style="color:#635f1a;font-weight:bold">Student Outcomes</h4>
+<p style="font-size:14.5px; line-height:2;margin-top:15px; font-family:Open Sans">The CCA will enable our students to:</p>
 <ul style="margin-top:-5px">
-	<li style="font-size:15px; line-height:2;"> develop better observational and problem-solving skills</li>
-	<li style="font-size:15px; line-height:2;"> have greater awareness of the arts in order to increase appreciation and participation in the CCA and beyond</li>
-	<li style="font-size:15px; line-height:2;"> provide support to the school for school-wide events and in partnering with the community</li>
+	<li  style="font-size:14.5px; line-height:2;font-family:Open Sans;"> develop better observational and problem-solving skills</li>
+	<li  style="font-size:14.5px; line-height:2;font-family:Open Sans;"> have greater awareness of the arts in order to increase appreciation and participation in the CCA and beyond</li>
+	<li  style="font-size:14.5px; line-height:2;font-family:Open Sans;"> provide support to the school for school-wide events and in partnering with the community</li>
 </ul>
 
 
-<h4><strong>Achievements</strong></h4>
+<h4 style="color:#635f1a;font-weight:bold">Achievements</h4>
 <table style="border-collapse: collapse;margin: 25px 0;font-size:15px;font-family: sans-serif;box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);" border="1">
 	
 <thead style="background-color: #009879; font-weight: bold; font-size: 16px;">
@@ -55,35 +55,35 @@ third_nav_title: Clubs & Societies
 </table>
 
 
-<h4><strong>Competitions and CCA Activities</strong></h4>
-<p style="font-size:15px; line-height:2;margin-top:15px;">PHAC tries to strike a balance between learning new skills, taking part in competitions, supporting school events and in giving back to the community. Our recent participation was ‘Draw My Stamp Story Art Competition’ organised by Singapore Philatelic Museum (SPM) to help students understand and appreciate the importance of designs reflected on our Singapore stamps. Previously, we also took part in the Live On Design Competition which included a Values in Action segment for students to be able to have an insight into the lives of patients and donors. We also put our artistic skills to good use by creating silkscreen designs on tote bags as part of our CCA’s efforts in raising funds for our school’s adopted voluntary welfare organisations during Community Day 2019. When we are not busy taking part in competitions, we have fun going on learning journeys and camps to recharge and learn new skills.</p>
+<h4 style="color:#635f1a;font-weight:bold">Competitions and CCA Activities</h4>
+<p style="font-size:14.5px; line-height:2;margin-top:15px; font-family:Open Sans">PHAC tries to strike a balance between learning new skills, taking part in competitions, supporting school events and in giving back to the community. Our recent participation was ‘Draw My Stamp Story Art Competition’ organised by Singapore Philatelic Museum (SPM) to help students understand and appreciate the importance of designs reflected on our Singapore stamps. Previously, we also took part in the Live On Design Competition which included a Values in Action segment for students to be able to have an insight into the lives of patients and donors. We also put our artistic skills to good use by creating silkscreen designs on tote bags as part of our CCA’s efforts in raising funds for our school’s adopted voluntary welfare organisations during Community Day 2019. When we are not busy taking part in competitions, we have fun going on learning journeys and camps to recharge and learn new skills.</p>
 <ul style="font-size:15px; margin-top:-5px;">
-	<li style="font-size:15px; line-height:2;">2021 Draw My Stamp Story Art Competition</li>
-	<li style="font-size:15px; line-height:2;">2021 Live On Design Competition ‘Bridge of Hope’ &amp; ‘In Search of Hope’</li>
-	<li style="font-size:15px; line-height:2;">2020 Live On Design Competition ‘From Fears to Dreams’ &amp; ‘A New Beginning’</li>
-<li style="font-size:15px; line-height:2;">2020 Live On Values in Action</li>
-<li style="font-size:15px; line-height:2;">2019 PHAC 2D Day Camp</li>
-<li style="font-size:15px; line-height:2;">2019 PHSS Open House</li>
-<li style="font-size:15px; line-height:2;">2019 NYP IDM Day</li>
-<li style="font-size:15px; line-height:2;">2019 Young Illustrator Award Competition</li>
-<li style="font-size:15px; line-height:2;">2019 Community Day</li>
-<li style="font-size:15px; line-height:2;">2019 Learning Journey to National Gallery – to discover different narratives in art and to develop visual literacy and interpretive abilities</li>
-<li style="font-size:15px; line-height:2;">2019 CCA Fiesta</li>
+	<li  style="font-size:14.5px; line-height:2;font-family:Open Sans;">2021 Draw My Stamp Story Art Competition</li>
+	<li  style="font-size:14.5px; line-height:2;font-family:Open Sans;">2021 Live On Design Competition ‘Bridge of Hope’ &amp; ‘In Search of Hope’</li>
+	<li  style="font-size:14.5px; line-height:2;font-family:Open Sans;">2020 Live On Design Competition ‘From Fears to Dreams’ &amp; ‘A New Beginning’</li>
+<li  style="font-size:14.5px; line-height:2;font-family:Open Sans;">2020 Live On Values in Action</li>
+<li  style="font-size:14.5px; line-height:2;font-family:Open Sans;">2019 PHAC 2D Day Camp</li>
+<li  style="font-size:14.5px; line-height:2;font-family:Open Sans;">2019 PHSS Open House</li>
+<li  style="font-size:14.5px; line-height:2;font-family:Open Sans;">2019 NYP IDM Day</li>
+<li  style="font-size:14.5px; line-height:2;font-family:Open Sans;">2019 Young Illustrator Award Competition</li>
+<li  style="font-size:14.5px; line-height:2;font-family:Open Sans;">2019 Community Day</li>
+<li  style="font-size:14.5px; line-height:2;font-family:Open Sans;">2019 Learning Journey to National Gallery – to discover different narratives in art and to develop visual literacy and interpretive abilities</li>
+<li  style="font-size:14.5px; line-height:2;font-family:Open Sans;">2019 CCA Fiesta</li>
 2018 PHAC 2D1N Visual and Performing Arts Camp
-<li style="font-size:15px; line-height:2;">2018 PHSS Open House</li>
-<li style="font-size:15px; line-height:2;">2018 Digital Manga Workshop – to expose students to digital sketching and inking through Manga</li>
-<li style="font-size:15px; line-height:2;">2018 NKF Schools Postcard Design Contest</li>
-<li style="font-size:15px; line-height:2;">2018 CCA Fiesta</li>
-<li style="font-size:15px; line-height:2;">2017 Day Camp: Learning Journey to Singapore Art Museum and Singapore Tyler Print Institute</li>
-<li style="font-size:15px; line-height:2;">2017 Nature Walks: Changi Intertidal Walk</li>
-<li style="font-size:15px; line-height:2;">2017 Glass Mosaic Workshop</li>
-<li style="font-size:15px; line-height:2;">2017 CCA Fiesta</li>
+<li  style="font-size:14.5px; line-height:2;font-family:Open Sans;">2018 PHSS Open House</li>
+<li  style="font-size:14.5px; line-height:2;font-family:Open Sans;">2018 Digital Manga Workshop – to expose students to digital sketching and inking through Manga</li>
+<li  style="font-size:14.5px; line-height:2;font-family:Open Sans;">2018 NKF Schools Postcard Design Contest</li>
+<li  style="font-size:14.5px; line-height:2;font-family:Open Sans;">2018 CCA Fiesta</li>
+<li  style="font-size:14.5px; line-height:2;font-family:Open Sans;">2017 Day Camp: Learning Journey to Singapore Art Museum and Singapore Tyler Print Institute</li>
+<li  style="font-size:14.5px; line-height:2;font-family:Open Sans;">2017 Nature Walks: Changi Intertidal Walk</li>
+<li  style="font-size:14.5px; line-height:2;font-family:Open Sans;">2017 Glass Mosaic Workshop</li>
+<li  style="font-size:14.5px; line-height:2;font-family:Open Sans;">2017 CCA Fiesta</li>
 </ul>
 
 <img src="/images/phac3.png">
 
 
-<h4><strong>Student Testament</strong></h4>
+<h4 style="color:#635f1a;font-weight:bold">Student Testament</h4>
 
 <blockquote style="font-size: 15px;
   width:100%;
@@ -117,7 +117,7 @@ third_nav_title: Clubs & Societies
 </blockquote>
 
 
-<h4><strong>CCA Details</strong></h4>
+<h4 style="color:#635f1a;font-weight:bold">CCA Details</h4>
 <table border="1" style="width:100%;">
 	<tbody>
 		<tr>
