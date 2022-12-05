@@ -5,15 +5,15 @@ description: ""
 third_nav_title: Performing Arts
 ---
 <img src="/images/guzheng1.jpg">
-<p style="font-size:15px; line-height:2;margin-top:15px;">The Pei Hwa&nbsp;Guzheng&nbsp;Ensemble was set&nbsp;up&nbsp;in 2009. The Guzheng Ensemble seeks to provide opportunities to develop students&rsquo; talents and lifelong passion for the arts. Through the meaningful music experiences planned, the Pei Hwa Guzheng Ensemble also endeavours to help students to build character, foster friendships and cultivate a sense of belonging to the school.</p>
+<p style="font-size:14.5px; line-height:2;font-family:Open Sans;">The <strong>Pei Hwa&nbsp;Guzheng&nbsp;Ensemble</strong> was set&nbsp;up&nbsp;in 2009. The Guzheng Ensemble seeks to provide opportunities to develop students&rsquo; talents and lifelong passion for the arts. Through the meaningful music experiences planned, the Pei Hwa Guzheng Ensemble also endeavours to help students to build character, foster friendships and cultivate a sense of belonging to the school.</p>
 
-<h4><strong>Student Outcomes</strong></h4>
-<p style="font-size:15px; line-height:2;margin-top:15px;">The CCA will enable our students to:</p>
-<ul style="margin-top:-5px;">
-	<li style="font-size:15px;margin-bottom:5px;line-height:2">Appreciate a wide range of musical genres and the culture of music-making</li>
-	<li style="font-size:15px;margin-bottom:5px;line-height:2">Learn how to play an instrument as an avenue for them to express themselves</li>
-	<li style="font-size:15px;margin-bottom:5px;line-height:2">Acquire knowledge in music and experience stage performance</li>
-	<li style="font-size:15px;margin-bottom:5px;line-height:2">Deepen understanding of self-discipline and team collaboration</li>
+<h4 style="color:#635f1a;font-weight:bold">Student Outcomes</h4>
+<p style="font-size:14.5px; line-height:2;margin-top:15px; font-family:Open Sans">The CCA will enable our students to:</p>
+<ul style="margin-top:5px;">
+	<li style="font-size:14.5px; line-height:2;font-family:Open Sans;">Appreciate a wide range of musical genres and the culture of music-making</li>
+	<li style="font-size:14.5px; line-height:2;font-family:Open Sans;">Learn how to play an instrument as an avenue for them to express themselves</li>
+	<li style="font-size:14.5px; line-height:2;font-family:Open Sans;">Acquire knowledge in music and experience stage performance</li>
+	<li style="font-size:14.5px; line-height:2;font-family:Open Sans;">Deepen understanding of self-discipline and team collaboration</li>
 </ul>
 
 <img src="/images/guzheng2.jpg" style="width: 100%;margin-top:10px;">
@@ -30,8 +30,8 @@ third_nav_title: Performing Arts
 <p style="text-align: center; font-size:13px;margin-top:5px;">CCA training sessions</p>
 
 
-<h4><strong>Achievements</strong></h4>
-<p style="font-size:15px; line-height:2;margin-top:15px;">The Pei Hwa Guzheng Ensemble debuted in the Singapore Youth Festival Arts Presentation (SYF AP) in 2013. Ever since then, the Guzheng Ensemble has always treasured the SYF AP as an opportunity for the ensemble to develop further in competency and in camaraderie.</p>
+<h4 style="color:#635f1a;font-weight:bold">Achievements</h4>
+<p style="font-size:14.5px; line-height:2;margin-top:15px; font-family:Open Sans">The Pei Hwa Guzheng Ensemble debuted in the Singapore Youth Festival Arts Presentation (SYF AP) in 2013. Ever since then, the Guzheng Ensemble has always treasured the SYF AP as an opportunity for the ensemble to develop further in competency and in camaraderie.</p>
 
 <table border="1" style="border-collapse: collapse;margin: 25px 0;font-size:15px;font-family: sans-serif;box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);">
 <thead style="background-color: #009879; font-weight: bold; font-size: 16px;">
@@ -42,7 +42,7 @@ third_nav_title: Performing Arts
 </thead>
 	
 <tbody>
-<tr><strong>Singapore Youth Festival Arts Presentation</strong></tr>
+<tr style="margin-top:15px;font-size:17px;"><strong>Singapore Youth Festival Arts Presentation</strong></tr>
 	<tr>
 		<td style="font-size:15px; line-height:2">
 			<strong>2021</strong>
@@ -98,8 +98,8 @@ third_nav_title: Performing Arts
 <img style="width: 100%;margin-top:10px;" src="/images/guzheng7.jpg"/>
 
 
-<h4><strong>CCA Activities</strong></h4>
-<p style="font-size:15px; line-height:2;margin-top:15px;">In 2019, the Pei Hwa Guzheng Ensemble had their inaugural Guzheng recital at the Esplanade Recital Studio. The recital showcased the passion and talent of the Guzheng Ensemble. Pieces played at the recital highlighted the versatility of the Guzheng instrument through traditional Chinese music pieces, Mandopop medleys and English pop songs. Through the exposure of and preparation for the Guzheng recital, the members of Pei Hwa Guzheng Ensemble has certainly grown as a person, a performer and as a team member.</p>
+<h4 style="color:#635f1a;font-weight:bold">CCA Activities</h4>
+<p style="font-size:14.5px; line-height:2;margin-top:15px; font-family:Open Sans">In 2019, the Pei Hwa Guzheng Ensemble had their inaugural Guzheng recital at the Esplanade Recital Studio. The recital showcased the passion and talent of the Guzheng Ensemble. Pieces played at the recital highlighted the versatility of the Guzheng instrument through traditional Chinese music pieces, Mandopop medleys and English pop songs. Through the exposure of and preparation for the Guzheng recital, the members of Pei Hwa Guzheng Ensemble has certainly grown as a person, a performer and as a team member.</p>
 
 <img style="width: 100%;margin-top:10px;" src="/images/guzheng8.jpg"/>
 <p style="text-align: center; font-size:13px;margin-top:-10px;">Guzheng Recital at the Esplanade Recital Studio</p>
@@ -107,17 +107,17 @@ third_nav_title: Performing Arts
 <img style="width: 100%;margin-top:10px;" src="/images/guzheng9.jpg"/>
 <p style="text-align: center; font-size:13px;margin-top:10px;">Guzheng lunchtime concert at the school foyer</p>
 
-<p style="font-size:15px; line-height:2;margin-top:15px;">Since 2009, the&nbsp;Guzheng&nbsp;Ensemble has also participated and performed in many community events, like:</p>
+<p style="margin-top:15px;font-size:14.5px; line-height:2;font-family:Open Sans;">Since 2009, the&nbsp;Guzheng&nbsp;Ensemble has also participated and performed in many community events, like:</p>
 
-<ul style="margin-top:-5px;">
-<li style="font-size:15px; line-height:2;">Pei Hwa Senior Citizens Day</li>
-<li style="font-size:15px; line-height:2;">Pei Hwa Alumni Dinner&nbsp;</li>
-<li style="font-size:15px; line-height:2;">Chinese New Year celebrations at Seletar Mall</li>
-<li style="font-size:15px; line-height:2;">Chinese New Year concert at APSN Delta Senior School</li>
-<li style="font-size:15px; line-height:2;">SG50 Heart Map&nbsp;</li>
-<li style="font-size:15px; line-height:2;">Fernvale CC Fundraising Dinner&nbsp;</li>
-<li style="font-size:15px; line-height:2;">Sengkang West Annual Constituency Dinner&nbsp;</li>
-<li style="font-size:15px; line-height:2;">In Youthful Company by Esplanade</li>
+<ul style="margin-top:5px;">
+<li style="font-size:14.5px; line-height:2;font-family:Open Sans;">Pei Hwa Senior Citizens Day</li>
+<li style="font-size:14.5px; line-height:2;font-family:Open Sans;">Pei Hwa Alumni Dinner&nbsp;</li>
+<li style="font-size:14.5px; line-height:2;font-family:Open Sans;">Chinese New Year celebrations at Seletar Mall</li>
+<li style="font-size:14.5px; line-height:2;font-family:Open Sans;">Chinese New Year concert at APSN Delta Senior School</li>
+<li style="font-size:14.5px; line-height:2;font-family:Open Sans;">SG50 Heart Map&nbsp;</li>
+<li style="font-size:14.5px; line-height:2;font-family:Open Sans;">Fernvale CC Fundraising Dinner&nbsp;</li>
+<li style="font-size:14.5px; line-height:2;font-family:Open Sans;">Sengkang West Annual Constituency Dinner&nbsp;</li>
+<li style="font-size:14.5px; line-height:2;font-family:Open Sans;">In Youthful Company by Esplanade</li>
 </ul>
 
 <img src="/images/guzheng10.jpg"  style="width: 100%;margin-top:10px;">
@@ -131,7 +131,7 @@ third_nav_title: Performing Arts
 <img src="/images/guzheng12.jpg" style="width: 100%;margin-top:10px;">
 <p style="text-align: center; font-size:13px;margin-top:5px;">Exchange programme with other Guzheng Ensembles</p>
 
-<p style="font-size:15px; line-height:2;margin-top:15px;">The necessary Covid-19 safe management measures restricted many school activities and experience for students. The Guzheng Ensemble has managed to make the best of the situation and still provide the students in Guzheng Ensemble with an enriching CCA experience. Members were able to continue with practice sessions and bonding sessions via video-conferencing. The Guzheng Ensemble participated in the school Chinese New Year celebration, Teachers&rsquo; Day celebration and even a school performing arts showcase through pre-recorded performances.</p>
+<p style="margin-top:15px;font-size:14.5px; line-height:2;font-family:Open Sans;">The necessary Covid-19 safe management measures restricted many school activities and experience for students. The Guzheng Ensemble has managed to make the best of the situation and still provide the students in Guzheng Ensemble with an enriching CCA experience. Members were able to continue with practice sessions and bonding sessions via video-conferencing. The Guzheng Ensemble participated in the school Chinese New Year celebration, Teachers&rsquo; Day celebration and even a school performing arts showcase through pre-recorded performances.</p>
 
 <img src="/images/guzheng13.jpg" style="width: 100%;margin-top:10px;">
 <p style="text-align: center; font-size:13px;margin-top:5px;">eCCA sessions during pandemic time</p>
@@ -139,7 +139,7 @@ third_nav_title: Performing Arts
 <img src="/images/guzheng14.jpg" style="width: 100%;margin-top:10px;">
 <p style="text-align: center; font-size:13px;margin-top:5px;">Recording session for Chinese New Year Performance</p>
 
-<p style="font-size:15px; line-height:2;margin-top:15px;">The Guzheng Ensemble works closely with the other performing arts CCAs, so that the members of Guzheng Ensemble will have opportunities to learn about other performing art forms and to learn from the other CCAs. During non-SYF years, the Guzheng Ensemble works with the other performing arts CCAs to put up Pei Hwa&rsquo;s biennial public concert, PHiesta. The annual performing arts camp also allows the different performing arts group members to work with and learn from each other.</p>
+<p style="margin-top:15px;font-size:14.5px; line-height:2;font-family:Open Sans;">The Guzheng Ensemble works closely with the other performing arts CCAs, so that the members of Guzheng Ensemble will have opportunities to learn about other performing art forms and to learn from the other CCAs. During non-SYF years, the Guzheng Ensemble works with the other performing arts CCAs to put up Pei Hwa&rsquo;s biennial public concert, PHiesta. The annual performing arts camp also allows the different performing arts group members to work with and learn from each other.</p>
 
 <img src="/images/guzheng15.jpg" style="width: 100%;margin-top:10px;">
 <p style="text-align: center; font-size:13px;margin-top:5px;">PHiesta combined item: Guzheng Ensemble with Choir</p>
@@ -154,9 +154,9 @@ third_nav_title: Performing Arts
 <img src="/images/guzheng18.jpg" style="width: 100%;margin-top:10px;">
 <p style="text-align: center; font-size:13px;margin-top:-10px;">Performing Arts Camp 2019</p>
 
-<p style="font-size:15px; line-height:2;margin-top:15px;">For more information on the Direct School Admissions to Pei Hwa Secondary School through Guzheng Ensemble, please&nbsp;<a href="/programmes/direct-school-admission-dsa/guzheng/" target="_blank" rel="noopener noreferrer">click here</a>.</p>
+<p style="margin-top:15px;font-size:14.5px; line-height:2;font-family:Open Sans;">For more information on the Direct School Admissions to Pei Hwa Secondary School through Guzheng Ensemble, please&nbsp;<a href="/programmes/direct-school-admission-dsa/guzheng/" target="_blank" rel="noopener noreferrer">click here</a>.</p>
 
-<h4><strong>Student Testament</strong></h4>
+<h4 style="color:#635f1a;font-weight:bold;margin-bottom:-25px;">Student Testament</h4>
 <blockquote style="font-size: 15px;width:100%;margin:50px auto;font-family:Open Sans;font-style:italic;color: #555555;padding:1.2em 25px 1.2em 25px;border-left:8px solid #78C0A8 ;line-height:1.6;position: relative;background:#EDEDED;">
 	"One of the most memorable experience was when we went for our first rehearsal a day before the recital. The happy smiles and proud looks on everyone’s faces were really priceless. When it was time for a full run, everyone was proud to play the songs together at the actual performance place. The whole experience was a good opportunity for us to perform and show people the music that guzheng can produce. It was really fun to work together with, to encourage and to help each other in the process of preparing for the recital."
   <span style="display:block; color:#333333; margin-top:1em;font-size:15px;"><em>Shina Siow, on the inaugural Guzheng recital at Esplanade</em></span>
@@ -174,7 +174,7 @@ The journey of preparing for SYF or any performances is never easy. We worked ha
   <span style="display:block; color:#333333; margin-top:1em;font-size:15px;"><em>Hazel Tang, on her experience in Guzheng Ensemble</em></span>
 	</blockquote>
 
-<h4><strong>CCA Details</strong></h4>
+<h4 style="color:#635f1a;font-weight:bold">CCA Details</h4>
 <table border="1" style="width:100%;">
 <tbody>
 <tr>
