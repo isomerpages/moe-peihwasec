@@ -4,18 +4,18 @@ permalink: /ccas/sports-games/football/
 description: ""
 third_nav_title: Sports & Games
 ---
-<p style="font-size:15px; line-height:2;margin-top:15px;">The <strong>Pei Hwa Football Team</strong> is a group of like-minded students who enjoys playing football. Other than developing football skills and concepts, the CCA also seeks to foster meaningful friendships, cultivate a sense of belonging to the school and develop values such as teamwork, resilience and respect.</p>
+<p style="font-size:14.5px; line-height:2;font-family:Open Sans;">The <strong>Pei Hwa Football Team</strong> is a group of like-minded students who enjoys playing football. Other than developing football skills and concepts, the CCA also seeks to foster meaningful friendships, cultivate a sense of belonging to the school and develop values such as teamwork, resilience and respect.</p>
 
-<h4><strong>Student Outcomes</strong></h4>
-<p style="font-size:15px; line-height:2;">The CCA will enable our students to:</p>
-<ul style="margin-top:-5px">
-<li style="font-size:15px; line-height:2;"> appreciate football as a sport</li>
-<li style="font-size:15px; line-height:2;"> learn the basic skills and concepts to play football</li>
-<li style="font-size:15px; line-height:2;"> acquire the experience and positive values from taking part in competitions</li>
-<li style="font-size:15px; line-height:2;"> deepen understanding of self-discipline and team collaboration</li>
+<h4 style="color:#635f1a;font-weight:bold">Student Outcomes</h4>
+<p style="font-size:14.5px; line-height:2;margin-top:15px; font-family:Open Sans">The CCA will enable our students to:</p>
+<ul style="margin-top:5px">
+<li style="font-size:14.5px; line-height:2;font-family:Open Sans;"> appreciate football as a sport</li>
+<li style="font-size:14.5px; line-height:2;font-family:Open Sans;">learn the basic skills and concepts to play football</li>
+<li style="font-size:14.5px; line-height:2;font-family:Open Sans;"> acquire the experience and positive values from taking part in competitions</li>
+<li style="font-size:14.5px; line-height:2;font-family:Open Sans;"> deepen understanding of self-discipline and team collaboration</li>
 </ul>
 	
-<h4><strong>Achievements</strong></h4>
+<h4 style="color:#635f1a;font-weight:bold">Achievements</h4>
 	
 <table border="1" style="border-collapse: collapse;margin: 25px 0;font-size:15px;font-family: sans-serif;box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);">
 		<thead style="background-color: #009879; font-weight: bold; font-size: 16px;">
@@ -77,13 +77,13 @@ third_nav_title: Sports & Games
 </tbody>
 </table>
 
-<h4><strong>Competitions and CCA Activities</strong></h4>
+<h4 style="color:#635f1a;font-weight:bold">Competitions and CCA Activities</h4>
 
-<p style="font-size:15px; line-height:2;margin-top:15px;">Since 2017, the Pei Hwa Football Team have been participating in the yearly Northeast Friendship Tournament. The tournament was formed to provide another opportunity for students from schools in the Sengkang and Punggol areas to take part in a competition. Through this friendly competition, the students gained match experience, learned the importance of teamwork and developed friendships with their neighboring rivals.</p>
+<p style="font-size:14.5px; line-height:2;margin-top:15px; font-family:Open Sans">Since 2017, the Pei Hwa Football Team have been participating in the yearly Northeast Friendship Tournament. The tournament was formed to provide another opportunity for students from schools in the Sengkang and Punggol areas to take part in a competition. Through this friendly competition, the students gained match experience, learned the importance of teamwork and developed friendships with their neighboring rivals.</p>
 
 <img src="/images/football1.jpg" style="align:center;">
 
-<h4><strong>Student Testament</strong></h4>
+<h4 style="color:#635f1a;font-weight:bold;margin-bottom:-25px;">Student Testament</h4>
 <blockquote style="font-size: 15px;
   width:100%;
   margin:50px auto;
@@ -114,7 +114,7 @@ third_nav_title: Sports & Games
   <span style="display:block; color:#333333; margin-top:1em;font-size:15px;"><em>Vice-Captain of Football C Boys, Caden Chan, 2E4</em></span>
 	</blockquote>
 
-<h4><strong>CCA Details</strong></h4>
+<h4 style="color:#635f1a;font-weight:bold">CCA Details</h4>
 <table border="1" style="width:100%;">
 	<tbody>
 		<tr>
