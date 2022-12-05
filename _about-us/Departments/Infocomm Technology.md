@@ -9,7 +9,7 @@ Objective</h4>
 
 <p style="font-size:14.5px; line-height:2;margin-top:15px; font-family:Open Sans">In alignment with the Smart Nation initiative, Pei Hwa Secondary School&rsquo;s ICT vision is to promote the creative and effective use of Information Technology to achieve excellence in teaching and learning through the following 4 processes:</p>
 
-<p style="margin:5px 0 5px 20px; font-size:14.5px; line-height:2;font-family:Open Sans;"><strong>Pupil-Focused Processes</strong></p>
+<p style="margin:5px 0 5px 20px; font-size:14.5px; line-height:2; font-family:Open Sans;"><strong>Pupil-Focused Processes</strong></p>
 <p style="font-size:15px; line-height:2;margin:-10px 0 5px 20px;">To equip pupils with Baseline ICT Standards. To promote independent and interdisciplinary learning.</p>
 
 
