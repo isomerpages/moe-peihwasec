@@ -4,24 +4,24 @@ permalink: /ccas/clubs-societies/infocomm-club/
 description: ""
 third_nav_title: Clubs & Societies
 ---
-<p style="font-size:15px; line-height:2;"><strong>Infocomm Club </strong>provides the opportunity for our members to develop technical skills about animation and video editing. With these skills, students will collaborate together and produce animation/videos for school events and competitions. We seek to help our members to communicate and exchange ideas in a cohesive environment.</p>
+<p style="font-size:14.5px; line-height:2; font-family:Open Sans;"><strong>Infocomm Club </strong>provides the opportunity for our members to develop technical skills about animation and video editing. With these skills, students will collaborate together and produce animation/videos for school events and competitions. We seek to help our members to communicate and exchange ideas in a cohesive environment.</p>
 
-<p style="font-size:15px; line-height:2;margin-top:15px;">Students who have interest in the setup of performances for events are given the opportunity to join as AVA members under Infocomm Club. They will be developed to be independent decision maker as well as communication skills when they collaborate with teachers and their peers.</p>
+<p style="margin-top:15px;font-size:14.5px; line-height:2;font-family:Open Sans;">Students who have interest in the setup of performances for events are given the opportunity to join as AVA members under Infocomm Club. They will be developed to be independent decision maker as well as communication skills when they collaborate with teachers and their peers.</p>
 
 <img src="/images/info1.png" style="width: 100%;margin-top:10px;">
 
 
-<h4><strong>Student Outcomes</strong></h4>
+<h4 style="color:#635f1a;font-weight:bold">Student Outcomes</h4>
 
-<p style="font-size:15px; line-height:2;margin-top:15px;">The CCA will enable our students to:</p>
-<ul style="margin-top:-5px">
-	<li style="font-size:15px; line-height:2;"> acquire and apply basic animation, photography and video editing knowledge and skills</li>
-	<li style="font-size:15px; line-height:2;"> demonstrate creativity through animation and video production</li>
-	<li style="font-size:15px; line-height:2;">develop into being a team player and work collaboratively with others</li>
+<p style="font-size:14.5px; line-height:2;margin-top:15px; font-family:Open Sans">The CCA will enable our students to:</p>
+<ul style="margin-top:5px">
+	<li  style="font-size:14.5px; line-height:2;font-family:Open Sans;"> acquire and apply basic animation, photography and video editing knowledge and skills</li>
+<li  style="font-size:14.5px; line-height:2;font-family:Open Sans;">demonstrate creativity through animation and video production</li>
+<li  style="font-size:14.5px; line-height:2;font-family:Open Sans;">develop into being a team player and work collaboratively with others</li>
 	</ul>
 
 	
-<h4><strong>Achievements</strong></h4>
+<h4 style="color:#635f1a;font-weight:bold">Achievements</h4>
 
 <table border="1" style="border-collapse: collapse;margin: 25px 0;font-size:15px;font-family: sans-serif;box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);">
 	
@@ -76,21 +76,21 @@ third_nav_title: Clubs & Societies
 </table>
 
 
-<h4><strong>Competitions and CCA Activities</strong></h4>
+<h4 style="color:#635f1a;font-weight:bold">Competitions and CCA Activities</h4>
 <p><strong>CCA Activities:</strong></p>
 <ul style="list-style-type:none; font-size:15px; margin-top:-5px;">
-	<li style="font-size:15px; line-height:2;">Sec 1: Animation/Stop motion</li>
-	<li style="font-size:15px; line-height:2;">Sec 2: Animation/Photoshop</li>
-	<li style="font-size:15px; line-height:2;">Sec 3: Video/Video editing</li>
+	<li  style="font-size:14.5px; line-height:2;font-family:Open Sans;">Sec 1: Animation/Stop motion</li>
+	<li  style="font-size:14.5px; line-height:2;font-family:Open Sans;">Sec 2: Animation/Photoshop</li>
+	<li  style="font-size:14.5px; line-height:2;font-family:Open Sans;">Sec 3: Video/Video editing</li>
 </ul>
 
 <p><strong>Competitions:</strong></p>
 <ul style="list-style-type:none; margin-top:-5px;">
-	<li style="font-size: 15px;">SDMA, NEmation</li>
+	<li  style="font-size:14.5px; line-height:2;font-family:Open Sans;">SDMA, NEmation</li>
 <img src="/images/info2.jpeg">
 	</ul>
 	
-<h4><strong>CCA Details</strong></h4>
+<h4 style="color:#635f1a;font-weight:bold">CCA Details</strong></h4>
 <table border="1" style="width:100%;">
 	<tbody>
 		<tr>
