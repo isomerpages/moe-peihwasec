@@ -4,21 +4,21 @@ permalink: /ccas/performing-arts/choir/
 description: ""
 third_nav_title: Performing Arts
 ---
-<p style="font-size:15px;line-height:2">The Pei Hwa&nbsp;Choir&nbsp;was set up in 2007. Many of our members join the choir with little to no singing and music experience. Through the passion for singing and diligence, many of our singers have grown to become confident young ladies and men. With a repertoire from different cultures and genres, we continue to broaden our perspectives and stretch our potential in the choral scene. We are also able to have a rich variety of experiences through various public performances, choral exchanges and arts appreciation learning journeys. Even more so, what the members of Pei Hwa Choir are most thankful for, is the opportunity to come together to make music with our voices. &ldquo;We Sing as One!&rdquo;</p>
+<p style="font-size:14.5px; line-height:2;font-family:Open Sans;">The <strong>Pei Hwa&nbsp;Choir&nbsp;</strong>was set up in 2007. Many of our members join the choir with little to no singing and music experience. Through the passion for singing and diligence, many of our singers have grown to become confident young ladies and men. With a repertoire from different cultures and genres, we continue to broaden our perspectives and stretch our potential in the choral scene. We are also able to have a rich variety of experiences through various public performances, choral exchanges and arts appreciation learning journeys. Even more so, what the members of Pei Hwa Choir are most thankful for, is the opportunity to come together to make music with our voices. &ldquo;We Sing as One!&rdquo;</p>
 
 <img src="/images/choir1.jpg" style="width: 100%;margin-top:10px;">
 <p style="text-align: center; font-size:13px;margin-top:5px;">Pei Hwa Choir</p>
 
-<h4><strong>Student Outcomes</strong></h4>
-<p style="font-size:15px; line-height:2;margin-top:15px;">The CCA will enable our students to:</p>
-<ul style="margin-top:-5px;">
-<li style="font-size:15px; line-height:2;">Appreciate a wide range of songs from different musical genres and eras</li>
-<li style="font-size:15px; line-height:2;">Learn how to sing confidently with proper choral technique</li>
-<li style="font-size:15px; line-height:2;">Acquire knowledge in music and experience stage performance</li>
-<li style="font-size:15px; line-height:2;">Deepen understanding of self-discipline and team collaboration</li>
+<h4 style="color:#635f1a;font-weight:bold">Student Outcomes</h4>
+ <p style="font-size:14.5px; line-height:2;margin-top:15px; font-family:Open Sans">The CCA will enable our students to:</p>
+<ul style="margin-top:5px;">
+<li style="font-size:14.5px; line-height:2;font-family:Open Sans;">Appreciate a wide range of songs from different musical genres and eras</li>
+<li style="font-size:14.5px; line-height:2;font-family:Open Sans;">Learn how to sing confidently with proper choral technique</li>
+<li style="font-size:14.5px; line-height:2;font-family:Open Sans;">Acquire knowledge in music and experience stage performance</li>
+<li style="font-size:14.5px; line-height:2;font-family:Open Sans;">Deepen understanding of self-discipline and team collaboration</li>
 </ul>
 
-<h4><strong>Achievements</strong></h4>
+<h4 style="color:#635f1a;font-weight:bold">Achievements</h4>
 	
 <table border="1" style="border-collapse: collapse;margin: 25px 0;font-size:15px;font-family: sans-serif;box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);">
 <thead style="background-color: #009879; font-weight: bold; font-size: 16px;">
@@ -93,8 +93,8 @@ third_nav_title: Performing Arts
 </tbody>
 </table>
 
-<h4><strong>Competitions and CCA Activities</strong></h4>
-<p style="font-size:15px; line-height:2;margin-top:15px;">We have always believed in honing the skills of the Choir through various Choral Exchanges with other schools. This provides valuable opportunities for the Choir to learn and share the love for music with one another.</p>
+<h4 style="color:#635f1a;font-weight:bold">Competitions and CCA Activities</h4>
+ <p style="font-size:14.5px; line-height:2;margin-top:15px; font-family:Open Sans">We have always believed in honing the skills of the Choir through various Choral Exchanges with other schools. This provides valuable opportunities for the Choir to learn and share the love for music with one another.</p>
 
 <img src="/images/choir2.jpg" style="width: 100%;margin-top:10px;">
 <p style="text-align: center; font-size:13px;margin-top:5px;">Choir Exchange With Anglican High And Zhonghua Sec</p>
@@ -102,16 +102,16 @@ third_nav_title: Performing Arts
 <img src="/images/choir3.jpg" style="width: 100%;margin-top:10px;">
 <p style="text-align: center; font-size:13px;margin-top:5px;">Combined Performance With Compassvale Secondary Choi</p>
 
-<p style="font-size:15px; line-height:2;margin-top:15px;">Since 2007, the&nbsp;Pei Hwa Choir has also participated and performed in many external events, like:</p>
+<p style="margin-top:15px;font-size:14.5px; line-height:2;font-family:Open Sans;">Since 2007, the&nbsp;Pei Hwa Choir has also participated and performed in many external events, like:</p>
 
-<ul style="margin-top:-5px;">
-	<li style="font-size:15px; line-height:2;">Fernvale CC Fundraising Dinner</li>
-	<li style="font-size:15px; line-height:2;">Voices of Singapore Festivals</li>
-	<li style="font-size:15px; line-height:2;">Treble Voices Festival</li>
-	<li style="font-size:15px; line-height:2;">Evocation</li>
+<ul style="margin-top:5px;">
+	<li style="font-size:14.5px; line-height:2;font-family:Open Sans;">Fernvale CC Fundraising Dinner</li>
+	<li style="font-size:14.5px; line-height:2;font-family:Open Sans;">Voices of Singapore Festivals</li>
+	<li style="font-size:14.5px; line-height:2;font-family:Open Sans;">Treble Voices Festival</li>
+	<li style="font-size:14.5px; line-height:2;font-family:Open Sans;">Evocation</li>
 </ul>
 
-<h4><strong>Student Testament</strong></h4>
+<h4 style="color:#635f1a;font-weight:bold;margin-bottom:-25px;">Student Testament</h4>
 
 <blockquote style="font-size: 15px;width:100%;margin:50px auto;font-family:Open Sans;font-style:italic;color: #555555;padding:1.2em 25px 1.2em 25px;border-left:8px solid #78C0A8 ;line-height:1.6;position: relative;background:#EDEDED;">
 <img align="left" alt=""  src="/images/choir4.jpeg" style="width: 23%;margin-right:15px;">
@@ -125,7 +125,7 @@ third_nav_title: Performing Arts
 <span style="display:block; color:#333333; margin-top:1em;font-size:15px;"><em>Vice-President of Choir, Mikella</em></span>
 </blockquote>
 
-<h4><strong>CCA Details</strong></h4>
+<h4 style="color:#635f1a;font-weight:bold">CCA Details</h4>
 <table border="1" style="width:100%;">
 	<tbody>
 		<tr>
