@@ -8,7 +8,7 @@ third_nav_title: Sports & Games
 
 <h4 style="color:#635f1a;font-weight:bold">Student Outcomes</h4>
 
-<p style="font-size:14.5px; line-height:2;margin-top:15px; font-family:Open Sans">The CCA will enable our students to
+<p style="font-size:14.5px; line-height:2;margin-top:15px; font-family:Open Sans">The CCA will enable our students to:
 <ul style="margin-top:5px">
 <li style="font-size:14.5px; line-height:2;font-family:Open Sans;">become independent learners who appreciate the outdoors and nature</li>
 <li style="font-size:14.5px; line-height:2;font-family:Open Sans;"> learn to be adaptable and confident people</li>
