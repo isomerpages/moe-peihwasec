@@ -4,14 +4,14 @@ permalink: /programmes/direct-school-admission-dsa/guzheng/
 description: ""
 third_nav_title: Direct School Admission
 ---
-<p style="font-size:15px; line-height:2;margin-top:-5px;">Pei Hwa Secondary School is looking for Primary 6 students with a passion and talent in playing the Guzheng. Students should meet the admission criteria stated in the following section before applying. Shortlisted applicants who meet the admission criteria will be required to attend an e-interview and e-audition session (through video conferencing) by our panel of teachers and instructor.</p>
+<p style="font-size:14.5px; line-height:2;font-family:Open Sans;">Pei Hwa Secondary School is looking for Primary 6 students with a passion and talent in playing the Guzheng. Students should meet the admission criteria stated in the following section before applying. Shortlisted applicants who meet the admission criteria will be required to attend an e-interview and e-audition session (through video conferencing) by our panel of teachers and instructor.</p>
 
 <p style="font-size:15px; line-height:2;margin-top:-5px;">Parents and students are encouraged to choose schools wisely based on the student&rsquo;s aptitudes and strengths, bearing in mind the school&rsquo;s academic and non-academic requirements, and the programmes available to develop the area of talent.</p>
 
 <p style="font-size:15px; line-height:2;margin-top:-5px;">Students who are successfully admitted to the school via DSA are expected to honour their commitment to the school, and participate in the activities related to the talent they are selected for from year 1 to 4.</p>
 
 
-<h4><strong>About Pei Hwa Guzheng Ensemble</strong></h4>
+<h4 style="color:#635f1a;font-weight:bold">About Pei Hwa Guzheng Ensemble</h4>
 <p style="font-size:15px; line-height:2;">The Pei Hwa Guzheng Ensemble seeks to provide opportunities to develop students&rsquo; talents and lifelong passion for the arts. Through the meaningful music experiences planned, the Pei Hwa Guzheng Ensemble also endeavours to help students to build character, foster friendships and cultivate a sense of belonging to the school.</p>
 
 <p style="font-size:15px; line-height:2;margin-top:-5px;">Some programmes and activities of the Guzheng ensemble include:</p>
@@ -30,7 +30,7 @@ third_nav_title: Direct School Admission
 <p style="font-size:15px; line-height:2;margin-top:-5px;">For more information on Pei Hwa Guzheng Ensemble and their programme, please visit&nbsp;<a href="/ccas/performing-arts/guzheng/" target="_blank" rel="noopener noreferrer">this page</a>.</p>
 
 
-<h4><strong>Shortlisting Criteria</strong></h4>
+<h4 style="color:#635f1a;font-weight:bold">Shortlisting Criteria</h4>
 
 <ul style="margin-top:5px;">
 <li aria-level="1" style="font-size:15px; line-height:2;">DSA applicants should have experience in playing the Guzheng. (Formal Certification is useful, but not compulsory)</li>
@@ -46,7 +46,7 @@ third_nav_title: Direct School Admission
 <p style="font-size:16px; line-height:2;margin-top:-5px;"><strong>Note:</strong></p>
 <p style="font-size:15px; line-height:2; margin-top:-5px;">(1)&nbsp;DSA applicants do not need to possess all of the above criteria to be considered.<br>(2)&nbsp;Meeting all the criteria does not guarantee the DSA applicant will be shortlisted.&nbsp;or given an offer.</p>
 
-<h4><strong>Selection Mode and Criteria</strong></h4>
+<h4 style="color:#635f1a;font-weight:bold">Selection Mode and Criteria</h4>
 
 <ul style="margin-top:-5px;">
 <li aria-level="1" style="font-size:15px; line-height:2;">An individual interview.</li>
@@ -101,7 +101,7 @@ third_nav_title: Direct School Admission
 </ol>
 
 
-<h4><strong>Application Procedures for 2022</strong></h4>
+<h4 style="color:#635f1a;font-weight:bold">Application Procedures for 2022</h4>
 <p style="font-size:15px; line-height:2;margin-top:-5px;">Here are the&nbsp;procedures for DSA-Guzheng application in Pei Hwa Secondary School.</p>
 
 <table border="1" style="border-collapse: collapse;margin: 25px 0;font-size:15px;font-family: sans-serif;box-shadow: 0 0 20px rgba(0, 0, 0, 0.15); line-height:2;">
@@ -215,7 +215,7 @@ third_nav_title: Direct School Admission
 </table>
 
 
-<h4><strong>FAQs</strong></h4>
+<h4 style="color:#635f1a;font-weight:bold">FAQs</h4>
 <p style="font-size:16px; line-height:2;margin-top:5px;"><strong>1. How many places can Pei Hwa Secondary offer in DSA Exercise?</strong></p>
 <p style="font-size:15px; line-height:2;margin-top:-5px;">All secondary schools can admit up to 20% of their 2022 S1 non-Integrated Programme (non-IP) intake via the DSA-Sec.&nbsp;</p>
 
