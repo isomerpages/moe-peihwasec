@@ -4,7 +4,7 @@ permalink: /ccas/uniformed-groups/npcc/
 description: ""
 third_nav_title: Uniformed Groups
 ---
-<h4><strong>Achievements</strong></h4>
+<h4 style="color:#635f1a;font-weight:bold">Achievements</h4>
 
 <table border="1" style="border-collapse: collapse;margin: 25px 0;font-size:15px;font-family: sans-serif;box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);">
 <thead style="background-color: #009879; font-weight: bold; font-size: 16px;">
@@ -190,7 +190,7 @@ third_nav_title: Uniformed Groups
 </tbody>
 </table>
 
-<h4><strong>CCA Details</strong></h4>
+<h4 style="color:#635f1a;font-weight:bold">CCA Details</h4>
 <table border="1" style="width:100%;">
 	<tbody>
 		<tr>
