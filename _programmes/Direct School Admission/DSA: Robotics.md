@@ -4,7 +4,7 @@ permalink: /programmes/direct-school-admission-dsa/robotics-programming/
 description: ""
 third_nav_title: Direct School Admission
 ---
-<h4><strong>Direct School Admission (DSA)</strong></h4>
+<h4 style="color:#635f1a;font-weight:bold">Direct School Admission (DSA)</h4>
 
 <p style="font-size:15px; line-height:2;margin-top:-5px;">DSA-Sec is an initiative by MOE which was introduced in 2004 to give schools greater flexibility in student admission, so as to recognise more diverse range of student achievements and talents. Under the DSA-Sec Exercise, participating schools may select some students for admission via their own admission criteria.&nbsp;</p>
 
@@ -15,7 +15,7 @@ third_nav_title: Direct School Admission
 <p style="font-size:15px; line-height:2;margin-top:-5px;">With the nation&rsquo;s effort to improve digital literacy and encourage innovation, there is a shift of our ALP focus towards&nbsp;<strong>Digital Makers&rsquo; Programme</strong>&nbsp;where students are encouraged to tinker and create products to solve real world problems through&nbsp;<strong>STEM</strong>&nbsp;education.&nbsp;</p>
 
 
-<h4><strong>DSA &ndash; Robotics (Programming)</strong></h4>
+<h4 style="color:#635f1a;font-weight:bold">DSA &ndash; Robotics (Programming)</h4>
 
 <p style="font-size:15px; line-height:2;margin-top:-5px;">PHSS is looking for Primary 6 students who possess special talents in&nbsp;<strong>Robotics (Programming)</strong>&nbsp;and are able to present their ideas with clarity in various medium.&nbsp;</p>
 
@@ -23,7 +23,7 @@ third_nav_title: Direct School Admission
 
 <p style="font-size:15px; line-height:2;margin-top:-5px;"><strong>Students who are successfully admitted to the school via DSA are expected to honour their commitment to the school, and participate in the activities related to the talent they are selected for from Secondary 1 to 4.</strong></p>
 
-<h4>Admission Criteria</h4>
+<h4 style="color:#635f1a;font-weight:bold">Admission Criteria</h4>
 <p style="font-size:15px; line-height:2;margin-top:-5px;">The admission criteria are shown below.&nbsp;</p>
 
 <p style="font-size:16px; line-height:2;margin-top:-5px;"><strong>ROBOTICS (PROGRAMMING) CRITERIA</strong>
@@ -49,7 +49,7 @@ third_nav_title: Direct School Admission
 <p style="font-size:15px; line-height:2;margin-top:-5px;"><strong>Note:&nbsp;</strong>
 Applicants do not need to possess&nbsp;<strong>ALL</strong>&nbsp;of the above criteria to be considered. Meeting all the criteria does not guarantee the applicant will be shortlisted / given an offer.</p>
 
-<h4><strong>Selection Process and Criteria</strong></h4>
+<h4 style="color:#635f1a;font-weight:bold">Selection Process and Criteria</h4>
 
 <p style="font-size:15px; line-height:2;margin-top:-5px;">The selection process will involve&nbsp;<strong>an interview and a selection test</strong>&nbsp;which requires applicants to attempt&nbsp;<strong>a programming task</strong>.&nbsp;</p>
 
@@ -89,7 +89,7 @@ Applicants do not need to possess&nbsp;<strong>ALL</strong>&nbsp;of the above cr
 
 <p style="font-size:15px; line-height:2;margin-top:-5px;"><strong>For more information on DSA-Sec, please refer to the MOE website at&nbsp;</strong><a href="https://www.moe.gov.sg/dsa-sec"><strong>https://www.moe.gov.sg/dsa-sec</strong></a></p>
 
-<h4><strong>Why Join Pei Hwa Applied Learning Programme: Robotics (Programming)</strong></h4>
+<h4 style="color:#635f1a;font-weight:bold">Why Join Pei Hwa Applied Learning Programme: Robotics (Programming)</h4>
 
 <p style="font-size:15px; line-height:2;margin-top:5px;">Robotics is not just a CCA in Pei Hwa Secondary School. It is a platform for us to provide holistic development for all Pei Hwaians. We have a structured&nbsp;<strong>Robotics Experiential Education Programme</strong>&nbsp;for all staff and students, such as&nbsp;<strong>Teachers&rsquo; Training Programme, Micro:bits training for Secondary 1 and 2 students&nbsp;</strong>to equip them with Maker and Programming skills.</p>
 
@@ -102,7 +102,7 @@ Applicants do not need to possess&nbsp;<strong>ALL</strong>&nbsp;of the above cr
 <p style="font-size:15px; line-height:2;margin-top:-5px;">Beyond the two years of level-wide programmes, students are given many opportunities to solve real world problems through coding and making. We believe coding literacy would be one of the most important skills that we need to equip our students to prepare them for the future world.</p>
 
 
-<h4><strong>Pinnacle Achievements in 2018 and 2019</strong></h4>
+<h4 style="color:#635f1a;font-weight:bold">Pinnacle Achievements in 2018 and 2019</h4>
 
 <img style="width: 65%;" src="/images/dsarobo1.png" />
 <p style="font-size:16px; line-height:2;"><strong>Outstanding Contribution Award</strong></p>
@@ -117,7 +117,7 @@ Applicants do not need to possess&nbsp;<strong>ALL</strong>&nbsp;of the above cr
 <img style="width: 65%;" src="/images/dsarobo2.jpg" />
 
 
-<h4><strong>Accolades in Robotics and Programming</strong></h4>
+<h4 style="color:#635f1a;font-weight:bold">Accolades in Robotics and Programming</h4>
 
 <p style="font-size:15px; line-height:2;">We have won many awards in local and overseas competitions for the past years.</p>
 
@@ -158,7 +158,7 @@ Applicants do not need to possess&nbsp;<strong>ALL</strong>&nbsp;of the above cr
 
 <p style="font-size:15px; line-height:2;margin-top:-5px;">Please refer to our&nbsp;<a href="/ccas/clubs-societies/robotics/" target="_blank" rel="noopener noreferrer">school website</a>&nbsp;for more information.</p>
 
-<h4><strong>Infusion of Coding and Making into&nbsp;New Project Work</strong></h4>
+<h4 style="color:#635f1a;font-weight:bold">Infusion of Coding and Making into&nbsp;New Project Work</h4>
 
 <p style="font-size:15px; line-height:2;margin-top:5px;">In our effort to develop innovative and compassionate citizens as social innovators, the school came up with a New Project Work. The project work curriculum leverages on the school&rsquo;s innovation cycle (adapted from Design Thinking) to develop empathy in our students as they need to put themselves in the shoes&rsquo; of the end users to understand the problems they faced. Students would use the coding and making skills learnt during ALP sessions to develop a prototype solution to meet the needs of their target audience. The New Project Work integrates our school&rsquo;s distinctive programmes (<a href="/school-distinctive-programme/applied-learning-programme-robotics-and-programming/" target="_blank" rel="noopener noreferrer">Robotics and Programming</a>&nbsp;and&nbsp;<a href="/school-distinctive-programme/learning-for-life-programme-community-youth-leadership-llp-cyl/" target="_blank" rel="noopener noreferrer">Community Youth Leadership</a>&nbsp;) and provides a more holistic and enriching experience for our students.&nbsp;In addition, they learn important 21<sup>st</sup>&nbsp;CC skills and competencies through the project work experience. We believe that such authentic learning experience is crucial in preparing our students for the Volatile, Uncertain, Complex and Ambiguous world that our students would live in.</p>
 
@@ -181,7 +181,7 @@ Applicants do not need to possess&nbsp;<strong>ALL</strong>&nbsp;of the above cr
 
 <img style="width: 85%;" src="/images/dsarobo5.png" />
 
-<h4><strong>Application Procedures for 2022</strong></h4>
+<h4 style="color:#635f1a;font-weight:bold">Application Procedures for 2022</h4>
 <p style="font-size:15px; line-height:2;"><strong>Here are the</strong>&nbsp;<strong>procedures for DSA-Robotics (Programming) application in Pei Hwa Secondary School.</strong></p>
 
 <table border="1" style="border-collapse: collapse;margin: 25px 0;font-size:15px;font-family: sans-serif;box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);">
@@ -256,7 +256,7 @@ Applicants do not need to possess&nbsp;<strong>ALL</strong>&nbsp;of the above cr
 </table>
 
 
-<h4><strong>FAQs</strong></h4>
+<h4 style="color:#635f1a;font-weight:bold">FAQs</h4>
 
 <p style="font-size:16px; line-height:2;"><strong>1. How many places can Pei Hwa Secondary offer in DSA Exercise?</strong></p>
 <p style="font-size:15px; line-height:2;margin-top:-5px;">All secondary schools can admit&nbsp;<strong>up to 20%&nbsp;</strong>of their 2022 S1 non-Integrated Programme (non-IP) intake via the DSA-Sec.</p>
