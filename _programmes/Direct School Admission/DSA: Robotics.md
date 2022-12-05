@@ -259,14 +259,14 @@ Applicants do not need to possess&nbsp;<strong>ALL</strong>&nbsp;of the above cr
 <h4 style="color:#635f1a;font-weight:bold">FAQs</h4>
 
 <p style="font-size:14.5px; line-height:2;font-family:Open Sans;"><strong>1. How many places can Pei Hwa Secondary offer in DSA Exercise?</strong></p>
-<p style="margin-top:15px;font-size:14.5px; line-height:2;font-family:Open Sans;">All secondary schools can admit&nbsp;<strong>up to 20%&nbsp;</strong>of their 2022 S1 non-Integrated Programme (non-IP) intake via the DSA-Sec.</p>
+<p style="font-size:14.5px; line-height:2;font-family:Open Sans;margin-top:-5px;">All secondary schools can admit&nbsp;<strong>up to 20%&nbsp;</strong>of their 2022 S1 non-Integrated Programme (non-IP) intake via the DSA-Sec.</p>
 
 <p style="font-size:14.5px; line-height:2;font-family:Open Sans;"><strong>2. Can my child take part in the DSA exercise if he/she is currently not studying in any of the MOE schools?&nbsp;</strong></p>
 <p style="margin-top:15px;font-size:14.5px; line-height:2;font-family:Open Sans;">Other applicants not studying in MOE mainstream primary schools will need to apply for a Registration Number (RGxxxxxxx) to access the DSA-Sec Portal. Please refer to the MOE website at:&nbsp;<a href="https://go.gov.sg/nmsdsa-sec-application">https://go.gov.sg/nmsdsa-sec-application</a></p>
 
-<p style="font-size:14.5px; line-height:2;font-family:Open Sans;"><strong>3. Will my child be part of the Robotics CCA if he is successful in the DSA application?</strong><p style="margin-top:15px;font-size:14.5px; line-height:2;font-family:Open Sans;">Your child will be automatically channelled into Robotics Club as his/her CCA through the DSA Exercise. Hence, your child will not be involved in the CCA Selection Process during the CCA orientation week.</p>
+<p style="font-size:14.5px; line-height:2;font-family:Open Sans;"><strong>3. Will my child be part of the Robotics CCA if he is successful in the DSA application?</strong><p style="font-size:14.5px; line-height:2;font-family:Open Sans;margin-top:-5px;"><p style="font-size:14.5px; line-height:2;font-family:Open Sans;margin-top:-5px;">Your child will be automatically channelled into Robotics Club as his/her CCA through the DSA Exercise. Hence, your child will not be involved in the CCA Selection Process during the CCA orientation week.</p>
 
 <p style="font-size:14.5px; line-height:2;font-family:Open Sans;"><strong>4. Can my child/ward apply for transfer after getting a confirmed place?</strong></p>
-<p style="margin-top:15px;font-size:14.5px; line-height:2;font-family:Open Sans;">Successful DSA &ndash;Sec students are&nbsp;<strong>NOT&nbsp;</strong>allowed to transfer to another school after the release of the PSLE results. They are expected to honour the commitment to the posted DSA schools for the duration of the programme they are admitted to.&nbsp;</p>
+<p style="font-size:14.5px; line-height:2;font-family:Open Sans;margin-top:-5px;">Successful DSA &ndash;Sec students are&nbsp;<strong>NOT&nbsp;</strong>allowed to transfer to another school after the release of the PSLE results. They are expected to honour the commitment to the posted DSA schools for the duration of the programme they are admitted to.&nbsp;</p>
 
 <p style="margin-top:15px;font-size:14.5px; line-height:2;font-family:Open Sans;"><strong>More FAQ found on&nbsp;</strong><a href="http://www.moe.gov.sg/education/admissions/dsa-sec/faqs/"><strong>http://www.moe.gov.sg/education/admissions/dsa-sec/faqs/</strong></a></p>
