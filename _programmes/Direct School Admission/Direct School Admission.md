@@ -4,8 +4,8 @@ permalink: /programmes/direct-school-admission-dsa/
 description: ""
 third_nav_title: Direct School Admission
 ---
-<h4><strong>What is Direct School Admission?</strong></h4>
-<p style="font-size:15px; line-height:2;margin-top:-5px;">DSA-Sec is an initiative by MOE which was introduced in 2004 to give schools greater flexibility in student admission, so as to recognise more diverse range of student achievements and talents. Under the DSA-Sec Exercise, participating schools may select some students for admission via their own admission criteria.</p>
+<h4 style="color:#635f1a;font-weight:bold">What is Direct School Admission?</h4>
+<p style="font-size:14.5px; line-height:2;margin-top:15px; font-family:Open Sans">DSA-Sec is an initiative by MOE which was introduced in 2004 to give schools greater flexibility in student admission, so as to recognise more diverse range of student achievements and talents. Under the DSA-Sec Exercise, participating schools may select some students for admission via their own admission criteria.</p>
 
 <table border="1" style="border-collapse: collapse;margin: 25px 0;font-size:15px;font-family: sans-serif;box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);">
 <tr style="background-color: #009879;">
@@ -29,15 +29,16 @@ Students who are successfully admitted to the school via DSA are expected to hon
 
 </table>
 
-<h4><strong>Related Pages</strong></h4>
+<h4 style="color:#635f1a;font-weight:bold">Related Pages</h4>
 <ol style="margin-top:5px;">
-<li style="font-size:15px; line-height:2;">
+<li style="font-size:14.5px; line-height:2;font-family:Open Sans;">
 <a href="/programmes/direct-school-admission-dsa/robotics-programming/">DSA &ndash; Robotics (Programming)</a>
 </li>
-<li style="font-size:15px; line-height:2;">
+<li style="font-size:14.5px; line-height:2;font-family:Open Sans;">
 <a href="/programmes/direct-school-admission-dsa/guzheng/">DSA &ndash; Guzheng</a>
 </li>
 </ol>
 
-<h4><strong>FAQs</strong></h4>
-<p style="font-size:15px; line-height:2;margin-top:-5px;"><strong>Please watch this space for updates.</strong></p>
+<h4 style="color:#635f1a;font-weight:bold">FAQs</h4>
+<p style="font-size:14.5px; line-height:2;margin-top:15px; font-family:Open Sans">
+<strong>Please watch this space for updates.</strong></p>
