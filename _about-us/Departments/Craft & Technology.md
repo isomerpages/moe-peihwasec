@@ -34,8 +34,8 @@ third_nav_title: Departments
 <li style="font-size:14.5px; line-height:2;margin-left:17px;font-family:Open Sans;">Advocate sustainable food consumption by panning and making appropriate food choices;</li>
 <li style="font-size:14.5px; line-height:2;margin-left:17px;font-family:Open Sans;">Apply principles of culinary science creatively n food preparation and cooking</li>
 <li style="font-size:14.5px; line-height:2;margin-left:17px;font-family:Open Sans;">Develops skills in investigative, creativity and awareness in making informed decisions in food and nutrition- related issues.</li>
-	
 </ul>
+
 <p style="font-size:14.5px; line-height:2;margin-top:15px;font-family:Open Sans;">The Big ideas of the subject are as follows:</p>
 <ul>
 <li style="font-size:14.5px; line-height:2;margin-left:17px;font-family:Open Sans;">Nutrition &amp; Health</li>
