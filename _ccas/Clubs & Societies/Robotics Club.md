@@ -4,17 +4,17 @@ permalink: /ccas/clubs-societies/robotics/
 description: ""
 third_nav_title: Clubs & Societies
 ---
-<h4><strong>Student Outcomes</strong></h4>
+<h4 style="color:#635f1a;font-weight:bold">Student Outcomes</h4>
 
-<p style="font-size:15px;">The CCA will enable our students to:</p>
+<p style="font-size:14.5px; line-height:2;margin-top:15px; font-family:Open Sans">The CCA will enable our students to:</p>
 
-<ul style="margin-top:-5px">
-<li style="font-size:15px; line-height:2;">innovate, think critically and work collaboratively with their peers in experimenting ideas and solving problems</li>
-<li style="font-size:15px; line-height:2;">develop robot construction and programming skills through exposure to a variety of robotics platforms</li>
-<li style="font-size:15px; line-height:2;">compete in internal and national competitions to pitch their skills against the best to build and programme robots to complete assigned missions in the most strategic and efficient manner.</li>
+<ul style="margin-top:5px">
+<li  style="font-size:14.5px; line-height:2;font-family:Open Sans;">innovate, think critically and work collaboratively with their peers in experimenting ideas and solving problems</li>
+<li  style="font-size:14.5px; line-height:2;font-family:Open Sans;">develop robot construction and programming skills through exposure to a variety of robotics platforms</li>
+<li  style="font-size:14.5px; line-height:2;font-family:Open Sans;">compete in internal and national competitions to pitch their skills against the best to build and programme robots to complete assigned missions in the most strategic and efficient manner.</li>
 	
 	
-<h4><strong>Achievements</strong></h4>
+<h4 style="color:#635f1a;font-weight:bold">Achievements</h4>
 
 <table style="border-collapse: collapse;margin: 25px 0;font-size:15px;font-family: sans-serif;box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);" border="1">
 	
@@ -143,22 +143,22 @@ Tay Kai Wen, Bryan (4D1), Lai Le Xin Grace (3I4), Ain Myeisha Arman(3I1), Chang 
 </table>
 
 	
-<h4><strong>Competitions and CCA Activities</strong></h4>
+<h4 style="color:#635f1a;font-weight:bold">Competitions and CCA Activities</h4>
 
-<ol style="margin-top:-5px">
-<li style="font-size:15px; line-height:2;">Robocup Singapore Open (Cospace Rescue, Cospace Grand Prix, OnStage)</li>
+<ol style="margin-top:5px">
+<li  style="font-size:14.5px; line-height:2;font-family:Open Sans;">Robocup Singapore Open (Cospace Rescue, Cospace Grand Prix, OnStage)</li>
 <img style="width:100%; height:auto;" src="/images/Robotics.jpg">
-<p style="text-align: center; font-size:13px;margin-top:5px;">Finalists and Award winners of the 2022 Robocup Singapore Open</p>
-<li style="font-size:15px; line-height:2;">Introduction to Python Programming Language, Data Science with Python</li>
-<li style="font-size:15px; line-height:2;">Arduino Programming</li>
-<li style="font-size:15px; line-height:2;">Lego Mindstorms EV3</li>
-<li style="font-size:15px; line-height:2;">Machine Learning with Huskylens and Micro:bit</li>
-<li style="font-size:15px; line-height:2;">Codomo Potato Pirates Coding Card Games</li>
+<li  style="font-size:14.5px; line-height:2;font-family:Open Sans;">Finalists and Award winners of the 2022 Robocup Singapore Open</p>
+<li  style="font-size:14.5px; line-height:2;font-family:Open Sans;">Introduction to Python Programming Language, Data Science with Python</li>
+<li  style="font-size:14.5px; line-height:2;font-family:Open Sans;">Arduino Programming</li>
+<li  style="font-size:14.5px; line-height:2;font-family:Open Sans;">Lego Mindstorms EV3</li>
+<li  style="font-size:14.5px; line-height:2;font-family:Open Sans;">Machine Learning with Huskylens and Micro:bit</li>
+<li  style="font-size:14.5px; line-height:2;font-family:Open Sans;">Codomo Potato Pirates Coding Card Games</li>
 <img style="width: 100%;margin-top:10px;" src="/images/collage.jpg"/>
 </ol>
 	
 
-<h4><strong>Student Testament</strong></h4>
+<h4 style="color:#635f1a;font-weight:bold">Student Testament</h4>
 <blockquote style="font-size: 15px;
   width:100%;
   margin:50px auto;
@@ -191,7 +191,7 @@ Robotics nurtures us as future leaders in addition to being equipped with techno
   <span style="display:block; color:#333333; margin-top:1em;font-size:15px;"><em>Assistant Secretary/Publicity, Shah Yashvi Tejas, Int 8</em></span><br>
 	</blockquote>
 
-<h4><strong>CCA Details</strong></h4>
+<h4 style="color:#635f1a;font-weight:bold">CCA Details</h4>
 <table border="1" style="width:100%;">
 	<tbody>
 		<tr>
