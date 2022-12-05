@@ -4,17 +4,17 @@ permalink: /ccas/clubs-societies/ph-times/
 description: ""
 third_nav_title: Clubs & Societies
 ---
-<p style="font-size:15px; line-height:2;margin-top:15px;"><strong>Pei Hwa Times (PH Times) </strong> provides the opportunity for our members to develop technical skills about photography and videography. With these skills, our members will then have the opportunity to embark on a journalism journey; photojournalism and video journalism. We seek to help our members realise their potential and build resilience as well as confidence as they get their heart, head and hands on the journalism journey.</p>
+<p style="font-size:14.5px; line-height:2;font-family:Open Sans;"><strong>Pei Hwa Times (PH Times) </strong> provides the opportunity for our members to develop technical skills about photography and videography. With these skills, our members will then have the opportunity to embark on a journalism journey; photojournalism and video journalism. We seek to help our members realise their potential and build resilience as well as confidence as they get their heart, head and hands on the journalism journey.</p>
 
-<h4><strong>Student Outcomes</strong></h4>
-<p style="font-size:15px; line-height:2;">The CCA will enable our students to:</p>
-<ul>
-	<li style="font-size:15px; line-height:2;"> acquire and apply basic photography and videography knowledge and skills</li>
-	<li style="font-size:15px; line-height:2;"> demonstrate creativity through photography and videography activities</li>
-	<li style="font-size:15px; line-height:2;"> develop into being a team player and work collaboratively with others</li>
+<h4 style="color:#635f1a;font-weight:bold">Student Outcomes</h4>
+<p style="font-size:14.5px; line-height:2;margin-top:15px; font-family:Open Sans">The CCA will enable our students to:</p>
+<ul style="margin-top:5px;">
+	<li  style="font-size:14.5px; line-height:2;font-family:Open Sans;"> acquire and apply basic photography and videography knowledge and skills</li>
+	<li  style="font-size:14.5px; line-height:2;font-family:Open Sans;"> demonstrate creativity through photography and videography activities</li>
+	<li  style="font-size:14.5px; line-height:2;font-family:Open Sans;"> develop into being a team player and work collaboratively with others</li>
 </ul>
 
-<h4><strong>&nbsp;Achievements</strong></h4>
+<h4 style="color:#635f1a;font-weight:bold">Achievements</h4>
 
 <table border="1" style="border-collapse: collapse;margin: 25px 0;font-size:15px;font-family: sans-serif;box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);">
 	
@@ -110,24 +110,24 @@ third_nav_title: Clubs & Societies
 </tbody>
 </table>
 
-<h4><strong>Competitions and CCA Activities</strong></h4>
-<p style="font-size:15px; line-height:2;margin-top:15px;">Our CCA members are given the opportunity to apply their photography and videography knowledge and skills in various platforms. Some of the non-competition platforms are:</p>
+<h4 style="color:#635f1a;font-weight:bold">Competitions and CCA Activities</h4>
+<p style="font-size:14.5px; line-height:2;margin-top:15px; font-family:Open Sans">Our CCA members are given the opportunity to apply their photography and videography knowledge and skills in various platforms. Some of the non-competition platforms are:</p>
 
-<ul style="line-height:2;">
-<li style="font-size:15px;"> school events and celebrations</li>
-<li style="font-size:15px;"> Pei Hwa CCA Photo</li>
-<li style="font-size:15px;"> student-led CCA activities/ projects</li>
+<ul style="margin-top:5px;">
+<li  style="font-size:14.5px; line-height:2;font-family:Open Sans;"> school events and celebrations</li>
+<li  style="font-size:14.5px; line-height:2;font-family:Open Sans;"> Pei Hwa CCA Photo</li>
+<li  style="font-size:14.5px; line-height:2;font-family:Open Sans;"> student-led CCA activities/ projects</li>
 <img style="width: 85%;" src="/images/ph1.jpg" />
 <p style="text-align: center; font-size:13px;margin-top:5px;"><strong>NCC CCA photo taking by PH Times</strong></p>
 </ul>
 
-<p style="font-size:15px;">Our CCA also encourages members to take part in the following competitions:</p>
-<ul style="line-height:2;">
-<li style="font-size:15px;"> Our School, Our Stories Photo Contest</li>
-<li style="font-size:15px;"> Anti Drug Video Competition</li>
+<p style="margin-top:15px;font-size:14.5px; line-height:2;font-family:Open Sans;">Our CCA also encourages members to take part in the following competitions:</p>
+<ul style="margin-top:5px;">
+<li  style="font-size:14.5px; line-height:2;font-family:Open Sans;"> Our School, Our Stories Photo Contest</li>
+<li  style="font-size:14.5px; line-height:2;font-family:Open Sans;"> Anti Drug Video Competition</li>
 	</ul>
 	
-<h4><strong>Student Testament</strong></h4>
+<h4 style="color:#635f1a;font-weight:bold">Student Testament</h4>
 <blockquote style="font-size: 15px;
   width:100%;
   margin:50px auto;
@@ -160,7 +160,7 @@ third_nav_title: Clubs & Societies
 
 
 
-<h4><strong>CCA Details</strong></h4>
+<h4 style="color:#635f1a;font-weight:bold">CCA Details</h4>
 <table border="1" style="width:100%;">
 	<tbody>
 		<tr>
