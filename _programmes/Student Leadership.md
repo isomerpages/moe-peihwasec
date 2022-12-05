@@ -3,15 +3,15 @@ title: Student Leadership
 permalink: /programmes/student-leadership/
 description: ""
 ---
-<h4><strong>Our Goals</strong></h4>
-<p style="font-size:15px; line-height:2;margin-top:15px;">In Pei Hwa Secondary School, we aim to develop Compassionate, Innovative and Daring leaders. Anchored by the school&rsquo;s PRIDE values, the student leaders will learn the various socio-emotional competencies through leadership development platforms and opportunities available in school. The Student Leadership program develops critical thinking, events management, and problem solving skills.</p>
+<h4 style="color:#635f1a;font-weight:bold">Our Goals</h4>
+<p style="font-size:14.5px; line-height:2;margin-top:15px; font-family:Open Sans">In Pei Hwa Secondary School, we aim to develop Compassionate, Innovative and Daring leaders. Anchored by the school&rsquo;s PRIDE values, the student leaders will learn the various socio-emotional competencies through leadership development platforms and opportunities available in school. The Student Leadership program develops critical thinking, events management, and problem solving skills.</p>
 
-<h4><strong>Our Programmes</strong></h4>
-<p style="font-size:15px; line-height:2;margin-top:15px;">We adopt the Student Leadership Challenge Model by Jim Kouzes and Barry Posner in the development of the Student Leaders. Guided by the 5 practices of an exemplary leader, student leaders are trained during various platforms and given opportunities to serve the school.</p>
+<h4 style="color:#635f1a;font-weight:bold">Our Programmes</strong></h4>
+<p style="font-size:14.5px; line-height:2;margin-top:15px; font-family:Open Sans">We adopt the Student Leadership Challenge Model by Jim Kouzes and Barry Posner in the development of the Student Leaders. Guided by the 5 practices of an exemplary leader, student leaders are trained during various platforms and given opportunities to serve the school.</p>
 
 <img src="/images/sl1.png">
 
-<p style="font-size:16px; line-height:2;"><strong>Leadership Opportunities in Pei Hwa</strong>
+<p style="margin-top:15px;font-size:17px;"><strong>Leadership Opportunities in Pei Hwa</strong>
 </p>
 
 <table border="1" style="border-collapse: collapse;margin: 25px 0;font-size:15px;font-family: sans-serif;box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);">
@@ -55,7 +55,7 @@ Class Leaders lead their classes in various class initiatives and activities, su
 </tbody>
 	</table>
 
-<p style="font-size:15px; line-height:2;"><strong>Leadership Training in Pei Hwa</strong></p>
+<p style="margin-top:15px;font-size:17px;"><strong>Leadership Training in Pei Hwa</strong></p>
 
 <table border="1" style="border-collapse: collapse;margin: 25px 0;font-size:15px;font-family: sans-serif;box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);">
 <thead style="background-color: #009879; font-weight: bold; font-size: 16px;">
