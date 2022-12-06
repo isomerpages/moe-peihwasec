@@ -30,7 +30,7 @@ description: ""
 	
 <thead style="background-color: #009879; font-weight: bold; font-size: 16px;">
 		<tr>
-			<td style="text-align:left;color:white;padding:12px 15px;font-family:Open Sans; width:15%;">&nbsp;</td>
+			<td style="text-align:left;color:white;padding:12px 15px;font-family:Open Sans;">&nbsp;</td>
 			<td style="text-align:left;color:white;padding:12px 15px;font-family:Open Sans;">Term 1</td>
 			<td style="text-align:left;color:white;padding:12px 15px;font-family:Open Sans;">Term 2</td>
 			<td style="text-align:left;color:white;padding:12px 15px;font-family:Open Sans;">Term 3</td>
@@ -41,35 +41,35 @@ description: ""
 	
 <tbody>
 <tr style="border-bottom: 1px solid #dddddd;">
-<td style="padding: 6px 10px;font-family:Open Sans;"><strong>Sec 1</strong></td>
-<td style="padding: 6px 10px; font-family:Open Sans;">WA: 15%</td>
-<td style="padding: 6px 10px;font-family:Open Sans;">WA: 15%</td>
-<td style="padding: 6px 10px;font-family:Open Sans;">WA: 15%</td>
-<td style="padding: 6px 10px;font-family:Open Sans;">EOY: 55%</td>
+<td style="padding: 12px 15px; font-family:Open Sans;"><strong>Sec 1</strong></td>
+<td style="padding: 12px 15px; font-family:Open Sans;">WA: 15%</td>
+<td style="padding: 12px 15px; font-family:Open Sans;">WA: 15%</td>
+<td style="font-family:Open Sans;padding: 12px 15px;">WA: 15%</td>
+<td style="font-family:Open Sans;padding: 12px 15px;">EOY: 55%</td>
 </tr>
 	
 <tr style ="background-color: #f3f3f3;border-bottom: 1px solid #dddddd;">
-<td style="padding: 6px 10px;font-family:Open Sans;"><strong>Sec 2</strong></td>
-<td style="padding: 6px 10px;font-family:Open Sans;">WA: 15%</td>
-<td style="padding: 6px 10px;font-family:Open Sans;">WA: 15%</td>
-<td style="padding: 6px 10px;font-family:Open Sans;">WA: 15%</td>
-<td style="padding: 6px 10px;font-family:Open Sans;">EOY: 55%</td>
+<td style="padding: 12px 15px;font-family:Open Sans;"><strong>Sec 2</strong></td>
+<td style="padding: 12px 15px;font-family:Open Sans;">WA: 15%</td>
+<td style="padding: 12px 15px;font-family:Open Sans;">WA: 15%</td>
+<td style="padding: 12px 15px;font-family:Open Sans;">WA: 15%</td>
+<td style="padding: 12px 15px;font-family:Open Sans;">EOY: 55%</td>
 </tr>
 															
 <tr style="border-bottom: 1px solid #dddddd;">
-<td style="padding: 6px 10px;font-family:Open Sans;"><strong>Sec 3</strong></td>
-<td style="padding: 6px 10px;font-family:Open Sans;">WA: 15%</td>
-<td style="padding: 6px 10px;font-family:Open Sans;">WA: 15%</td>
-<td style="padding: 6px 10px;font-family:Open Sans;">WA: 15:%</td>
-<td style="padding: 6px 10px;font-family:Open Sans;">EOY: 55%</td>
+<td style="padding: 12px 15px;"><strong>Sec 3</strong></td>
+<td style="padding: 12px 15px; font-family:Open Sans;">WA: 15%</td>
+<td style="padding: 12px 15px; font-family:Open Sans;">WA: 15%</td>
+<td style="padding: 12px 15px;font-family:Open Sans;">WA: 15:%</td>
+<td style="padding: 12px 15px; font-family:Open Sans;">EOY: 55%</td>
 </tr>
 															
 <tr style="border-bottom: 2px solid #009879;     background-color: #f3f3f3;">
-<td style="padding: 6px 10px;font-family:Open Sans;"><strong>Sec 4</strong></td>
-<td style="padding: 6px 10px;font-family:Open Sans;">WA: 10%</td>
-<td style="padding: 6px 10px;font-family:Open Sans;">MYE: 20%</td>
-<td style="padding: 6px 10px;font-family:Open Sans;">Prelim: 70%</td>
-<td style="padding: 6px 10px;font-family:Open Sans;">&nbsp;</td>
+<td style="padding: 12px 15px;font-family:Open Sans;font-size:14.5px;"><strong>Sec 4</strong></td>
+<td style="padding: 12px 15px; font-family:Open Sans;font-size:14.5px;">WA: 10%</td>
+<td style="padding: 12px 15px; font-family:Open Sans;font-size:14.5px;">MYE: 20%</td>
+<td style="padding: 12px 15px; font-family:Open Sans;font-size:14.5px;">Prelim: 70%</td>
+<td style="padding: 12px 15px; font-family:Open Sans;font-size:14.5px;">&nbsp;</td>
 </tr>
 	
 </tbody>
