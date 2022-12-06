@@ -30,7 +30,7 @@ description: ""
 	
 <thead style="background-color: #009879; font-weight: bold; font-size: 16px;">
 		<tr>
-			<td style="text-align:left;color:white;padding:12px 15px;font-family:Open Sans;">&nbsp;</td>
+			<td style="text-align:left;color:white;padding:12px 15px;font-family:Open Sans; width:15%;">&nbsp;</td>
 			<td style="text-align:left;color:white;padding:12px 15px;font-family:Open Sans;">Term 1</td>
 			<td style="text-align:left;color:white;padding:12px 15px;font-family:Open Sans;">Term 2</td>
 			<td style="text-align:left;color:white;padding:12px 15px;font-family:Open Sans;">Term 3</td>
@@ -41,35 +41,35 @@ description: ""
 	
 <tbody>
 <tr style="border-bottom: 1px solid #dddddd;">
-<td style="padding: 12px 15px; font-family:Open Sans;"><strong>Sec 1</strong></td>
-<td style="padding: 12px 15px; font-family:Open Sans;">WA: 15%</td>
-<td style="padding: 12px 15px; font-family:Open Sans;">WA: 15%</td>
-<td style="font-family:Open Sans;padding: 12px 15px;">WA: 15%</td>
-<td style="font-family:Open Sans;padding: 12px 15px;">EOY: 55%</td>
+<td style="padding: 6px 10px;font-family:Open Sans;"><strong>Sec 1</strong></td>
+<td style="padding: 6px 10px; font-family:Open Sans;">WA: 15%</td>
+<td style="padding: 6px 10px;font-family:Open Sans;">WA: 15%</td>
+<td style="padding: 6px 10px;font-family:Open Sans;">WA: 15%</td>
+<td style="padding: 6px 10px;font-family:Open Sans;">EOY: 55%</td>
 </tr>
 	
 <tr style ="background-color: #f3f3f3;border-bottom: 1px solid #dddddd;">
-<td style="padding: 12px 15px;font-family:Open Sans;"><strong>Sec 2</strong></td>
-<td style="padding: 12px 15px;font-family:Open Sans;">WA: 15%</td>
-<td style="padding: 12px 15px;font-family:Open Sans;">WA: 15%</td>
-<td style="padding: 12px 15px;font-family:Open Sans;">WA: 15%</td>
-<td style="padding: 12px 15px;font-family:Open Sans;">EOY: 55%</td>
+<td style="padding: 6px 10px;font-family:Open Sans;"><strong>Sec 2</strong></td>
+<td style="padding: 6px 10px;font-family:Open Sans;">WA: 15%</td>
+<td style="padding: 6px 10px;font-family:Open Sans;">WA: 15%</td>
+<td style="padding: 6px 10px;font-family:Open Sans;">WA: 15%</td>
+<td style="padding: 6px 10px;font-family:Open Sans;">EOY: 55%</td>
 </tr>
 															
 <tr style="border-bottom: 1px solid #dddddd;">
-<td style="padding: 12px 15px;"><strong>Sec 3</strong></td>
-<td style="padding: 12px 15px; font-family:Open Sans;">WA: 15%</td>
-<td style="padding: 12px 15px; font-family:Open Sans;">WA: 15%</td>
-<td style="padding: 12px 15px;font-family:Open Sans;">WA: 15:%</td>
-<td style="padding: 12px 15px; font-family:Open Sans;">EOY: 55%</td>
+<td style="padding: 6px 10px;font-family:Open Sans;"><strong>Sec 3</strong></td>
+<td style="padding: 6px 10px;font-family:Open Sans;">WA: 15%</td>
+<td style="padding: 6px 10px;font-family:Open Sans;">WA: 15%</td>
+<td style="padding: 6px 10px;font-family:Open Sans;">WA: 15:%</td>
+<td style="padding: 6px 10px;font-family:Open Sans;">EOY: 55%</td>
 </tr>
 															
 <tr style="border-bottom: 2px solid #009879;     background-color: #f3f3f3;">
-<td style="padding: 12px 15px;font-family:Open Sans;font-size:14.5px;"><strong>Sec 4</strong></td>
-<td style="padding: 12px 15px; font-family:Open Sans;font-size:14.5px;">WA: 10%</td>
-<td style="padding: 12px 15px; font-family:Open Sans;font-size:14.5px;">MYE: 20%</td>
-<td style="padding: 12px 15px; font-family:Open Sans;font-size:14.5px;">Prelim: 70%</td>
-<td style="padding: 12px 15px; font-family:Open Sans;font-size:14.5px;">&nbsp;</td>
+<td style="padding: 6px 10px;font-family:Open Sans;"><strong>Sec 4</strong></td>
+<td style="padding: 6px 10px;font-family:Open Sans;">WA: 10%</td>
+<td style="padding: 6px 10px;font-family:Open Sans;">MYE: 20%</td>
+<td style="padding: 6px 10px;font-family:Open Sans;">Prelim: 70%</td>
+<td style="padding: 6px 10px;font-family:Open Sans;">&nbsp;</td>
 </tr>
 	
 </tbody>
@@ -125,28 +125,27 @@ description: ""
 	
 <tbody>
 <tr style="border-bottom: 1px solid #dddddd;">
-<td style="padding: 12px 15px; font-size:15px; font-family:Open Sans;"><strong>March Holidays</strong></td>
-<td style="padding: 12px 15px;font-size:15px;font-family:Open Sans;">9 hours for Sec 1 and 2 <br>12 hours for Sec 3, 4 and 5</td>
+<td style="padding: 20px 15px; font-size:15px; font-family:Open Sans;"><strong>March Holidays</strong></td>
+<td style="padding: 6px 10px;font-size:15px;font-family:Open Sans;">9 hours for Sec 1 and 2 <br>12 hours for Sec 3, 4 and 5</td>
 </tr>
 	
 <tr style="border-bottom: 1px solid #dddddd;">
-<td style="padding: 12px 15px;font-size:15px;font-family:Open Sans;"><strong>June Holidays</strong></td>
-<td style="padding: 12px 15px;font-size:15px;font-family:Open Sans;">18 hours for Sec 1 and 2 <br>24 hours for Sec 3, 4 and 5</td>
+<td style="padding: 20px 15px;font-size:15px;font-family:Open Sans;"><strong>June Holidays</strong></td>
+<td style="padding: 6px 10px;font-size:15px;font-family:Open Sans;">18 hours for Sec 1 and 2 <br>24 hours for Sec 3, 4 and 5</td>
 </tr>
 	
 <tr style="border-bottom: 1px solid #dddddd;">
-<td style="padding: 12px 15px;font-size:15px;font-family:Open Sans;"><strong>September Holidays</strong></td>
-<td style="padding: 12px 15px;font-size:15px;font-family:Open Sans;">9 hours for Sec 1 and 2 <br>12 hours for Sec 3, 4 and 5</td>
+<td style="padding: 20px 15px;font-size:15px;font-family:Open Sans;"><strong>September Holidays</strong></td>
+<td style="padding: 6px 10px;font-size:15px;font-family:Open Sans;">9 hours for Sec 1 and 2 <br>12 hours for Sec 3, 4 and 5</td>
 </tr>
 
 <tr style="border-bottom: 1px solid #dddddd;">
-<td style="padding: 12px 15px;font-size:15px;font-family:Open Sans;"><strong>Year-End Holidays</strong></td>
-<td style="padding: 12px 15px;font-size:15px;font-family:Open Sans;">18 hours for Sec 1 and 2 <br>24 hours for Sec 3, 4 and 5</td>
+<td style="padding: 20px 15px;font-size:15px;font-family:Open Sans;"><strong>Year-End Holidays</strong></td>
+<td style="padding: 6px 10px;font-size:15px;font-family:Open Sans;">18 hours for Sec 1 and 2 <br>24 hours for Sec 3, 4 and 5</td>
 </tr>
 	
 </tbody>
 </table>
-
 </li>
 <li style="font-size:14.5px; line-height:2;margin-left:17px;font-family:Open Sans;">Homework assignments will not be given over festive periods during term time, e.g. Chinese New Year, Deepavali and Hari Raya Puasa.</li>
 <li style="font-size:14.5px; line-height:2;margin-left:17px;font-family:Open Sans;">Teachers are mindful that students will not be overloaded with homework and practice papers in the week before Semester Assessments. Students are to use the time to revise for their subjects.</li>
