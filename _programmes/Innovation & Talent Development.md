@@ -3,10 +3,10 @@ title: Innovation & Talent Development
 permalink: /innovation-talent-development-programme/
 description: ""
 ---
-<h4 style="color:#635f1a;font-weight:bold">Our Goals</strong></h4>
+<h4 style="color:#635f1a;font-weight:bold">Our Goals</h4>
 <p style="font-size:14.5px; line-height:2;margin-top:15px; font-family:Open Sans">To shape an innovative mindset in our students, the school&rsquo;s innovative thrust aims to provide Pei Hwa students with platforms to expose students to the innovations in the VUCA world, allow students to apply and exhibit their innovative ideas and projects. Leveraging on our very own Pei Hwa Innovation Cycle, we aim to develop an innovative mindset in our students, equipping them with the eight characteristics of an innovator&rsquo;s mindset as defined by George Couros.</p>
 
-<h4 style="color:#635f1a;font-weight:bold">Our Programmes</strong></h4>
+<h4 style="color:#635f1a;font-weight:bold">Our Programmes</h4>
 <p style="font-size:14.5px; line-height:2;margin-top:15px; font-family:Open Sans">In order to realise the School&rsquo;s mission to develop innovative and compassionate citizens, it is imperative to cultivate an innovative mindset in our students. In Pei Hwa Secondary School, the approach of a tiered student development is adopted. This differentiated approach aims to provide suitable platforms for students with different readiness levels to be exposed to, apply and exhibit the innovative mindset:</p>
 
 <ul style="margin-top:5px;">
