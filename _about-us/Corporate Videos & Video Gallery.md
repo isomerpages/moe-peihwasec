@@ -3,7 +3,7 @@ title: Corporate Videos & Video Gallery
 permalink: /news-media/videos/
 description: ""
 ---
-<h4 style="color:#635f1a;font-weight:bold">Publicity Video</strong></h4>
+<h4 style="color:#635f1a;font-weight:bold">Publicity Video</h4>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-8xpAPGEDWc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <br>
