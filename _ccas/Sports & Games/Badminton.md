@@ -87,16 +87,16 @@ B and C division boys came in 1st runner up in the Interschool Badminton Competi
 <p style="text-align:center; font-size:13px;margin-top:-10px;">C Division Girls</p>
 
 <h4 style="color:#635f1a;font-weight:bold">Farewell Party for the seniors</h4>
-		<div class="row" style="box-sizing: border-box;"> 
-		<div class="column" style="box-sizing: border-box;  float: left; width: 50%; padding: 10px;">
-  			<img src="/images/Picture7.jpg" style="width:100%; margin-top: 12px;">
-			<img src="/images/Picture8.jpg" style="width:100%; margin-top: 12px;">
-  		</div>
-  		<div class="column" style="box-sizing: border-box;  float: left;width: 50%;padding: 10px;">
-  			<img src="/images/Picture9.jpg" style="width:100%;  margin-top: 12px;">
-			<img src="/images/Picture10.jpg" style="width:100%;  margin-top: 12px;">
-		</div>  
-  	</div>
+<div class="row" style="box-sizing: border-box;"> 
+<div class="column" style="box-sizing: border-box;  float: left; width: 50%; padding: 10px;">
+<img src="/images/Picture7.jpg" style="width:100%; margin-top: 12px;">
+<img src="/images/Picture8.jpg" style="width:100%; margin-top: 12px;">
+</div>
+<div class="column" style="box-sizing: border-box;  float: left;width: 50%;padding: 10px;">
+<img src="/images/Picture9.jpg" style="width:100%;  margin-top: 12px;">
+<img src="/images/Picture10.jpg" style="width:100%;  margin-top: 12px;">
+</div>  
+</div>
 
 <h4 style="color:#635f1a;font-weight:bold; margin-bottom:-25px;">Student Testament</h4>
 <blockquote style="font-size: 15px;
