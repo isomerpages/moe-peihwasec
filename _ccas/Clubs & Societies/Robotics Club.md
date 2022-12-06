@@ -12,7 +12,7 @@ third_nav_title: Clubs & Societies
 <li  style="font-size:14.5px; line-height:2;font-family:Open Sans;">innovate, think critically and work collaboratively with their peers in experimenting ideas and solving problems</li>
 <li  style="font-size:14.5px; line-height:2;font-family:Open Sans;">develop robot construction and programming skills through exposure to a variety of robotics platforms</li>
 <li  style="font-size:14.5px; line-height:2;font-family:Open Sans;">compete in internal and national competitions to pitch their skills against the best to build and programme robots to complete assigned missions in the most strategic and efficient manner.</li>
-	
+</ul>
 	
 <h4 style="color:#635f1a;font-weight:bold">Achievements</h4>
 
@@ -120,7 +120,7 @@ Tay Kai Wen, Bryan (4D1), Lai Le Xin Grace (3I4), Ain Myeisha Arman(3I1), Chang 
 	</td>
 </tr>
 
-<tr style="background-color: #f3f3f3;" style="border-bottom: 2px solid #009879;">
+<tr style="background-color: #f3f3f3;border-bottom: 2px solid #009879;">
 <td style="font-size:15px;"><strong>2017</strong></td>
 	<td style="font-size:15px;"><strong>RoboCupJunior Singapore Open</strong>
 		<br>
@@ -148,7 +148,7 @@ Tay Kai Wen, Bryan (4D1), Lai Le Xin Grace (3I4), Ain Myeisha Arman(3I1), Chang 
 <ol style="margin-top:5px">
 <li  style="font-size:14.5px; line-height:2;font-family:Open Sans;">Robocup Singapore Open (Cospace Rescue, Cospace Grand Prix, OnStage)</li>
 <img style="width:100%; height:auto;" src="/images/Robotics.jpg">
-<li  style="font-size:14.5px; line-height:2;font-family:Open Sans;">Finalists and Award winners of the 2022 Robocup Singapore Open</p>
+<li  style="font-size:14.5px; line-height:2;font-family:Open Sans;">Finalists and Award winners of the 2022 Robocup Singapore Open</li>
 <li  style="font-size:14.5px; line-height:2;font-family:Open Sans;">Introduction to Python Programming Language, Data Science with Python</li>
 <li  style="font-size:14.5px; line-height:2;font-family:Open Sans;">Arduino Programming</li>
 <li  style="font-size:14.5px; line-height:2;font-family:Open Sans;">Lego Mindstorms EV3</li>
@@ -158,7 +158,7 @@ Tay Kai Wen, Bryan (4D1), Lai Le Xin Grace (3I4), Ain Myeisha Arman(3I1), Chang 
 </ol>
 	
 
-<h4 style="color:#635f1a;font-weight:bold">Student Testament</h4>
+<h4 style="color:#635f1a;font-weight:bold;margin-bottom:-25px;">Student Testament</h4>
 <blockquote style="font-size: 15px;
   width:100%;
   margin:50px auto;
