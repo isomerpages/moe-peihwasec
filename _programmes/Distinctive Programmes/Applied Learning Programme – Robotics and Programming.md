@@ -85,7 +85,6 @@ third_nav_title: Distinctive Programmes
 <img src="/images/alprobo5.png" style="width: 100%;margin-top:10px;" >
 <p style="font-size:13px; line-height:2; text-align:center;margin-top:5px;"><em>Conducting making activities through Zoom</em></p>
 
-<br>
 
 <img style="width: 100%;margin-top:10px;"  src="/images/alprobo6.png" />
 <p style="font-size:13px; line-height:2; text-align:center;"><em>Level wide making challenges</em></p>
