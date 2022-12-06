@@ -124,16 +124,13 @@ Applicants do not need to possess&nbsp;<strong>ALL</strong>&nbsp;of the above cr
 <img style="width: 65%;" src="/images/robocup4.jpg" />
 <p style="font-size:13px; line-height:2; text-align:center; margin-top:5px;"><strong>&nbsp;</strong><strong>Award Ceremony for RoboCup Singapore 2017</strong></p>
 
-<br>
 
 <img style="width: 65%;" src="/images/robocup5.jpg" />
 <p style="font-size:13px; line-height:2; text-align:center; margin-top:5px;"><strong>RCJ CoSpace Rescue Championship Award for Team Category in Netherlands 2013</strong></p>
 
-<br>
 
 <img style="width: 65%;" src="/images/robocup6.jpg" />
 <p style="font-size:13px; line-height:2; text-align:center; margin-top:5px;"><strong>&nbsp;</strong><strong>RCJ CoSpace Rescue Championship Award for Team Category in Japan 2017</strong></p>
-<br>
 
 <p style="margin-top:15px;font-size:14.5px; line-height:2;font-family:Open Sans;">International Achievements:</p>
 
