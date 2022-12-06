@@ -19,12 +19,10 @@ third_nav_title: Performing Arts
 <img src="/images/guzheng2.jpg" style="width: 100%;margin-top:10px;">
 <p style="text-align: center; font-size:13px;margin-top:5px;">CCA fiesta to attract new secondary 1 members</p>
 
-<br>
 
 <img src="/images/guzheng3.jpg" style="width: 100%;margin-top:10px;">
 <p style="text-align: center; font-size:13px;margin-top:5px;">Joyful Guzheng members after a performance</p>
 
-<br>
 
 <img src="/images/guzheng4.jpg" style="width: 100%;margin-top:10px;">
 <p style="text-align: center; font-size:13px;margin-top:5px;">CCA training sessions</p>
@@ -126,7 +124,6 @@ third_nav_title: Performing Arts
 
 <img src="/images/guzheng11.jpg" style="width: 100%;margin-top:10px;">
 <p style="text-align: center; font-size:13px;margin-top:5px;">Performance for the &ldquo;In Youthful Company&rdquo; series @ Esplanade</p>
-
 
 <img src="/images/guzheng12.jpg" style="width: 100%;margin-top:10px;">
 <p style="text-align: center; font-size:13px;margin-top:5px;">Exchange programme with other Guzheng Ensembles</p>
