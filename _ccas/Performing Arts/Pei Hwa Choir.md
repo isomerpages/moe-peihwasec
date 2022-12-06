@@ -116,13 +116,13 @@ third_nav_title: Performing Arts
 <blockquote style="font-size: 15px;width:100%;margin:50px auto;font-family:Open Sans;font-style:italic;color: #555555;padding:1.2em 25px 1.2em 25px;border-left:8px solid #78C0A8 ;line-height:1.6;position: relative;background:#EDEDED;">
 <img align="left" alt=""  src="/images/choir4.jpeg" style="width: 23%;margin-right:15px;">
 	"Singing in a choir is definitely a different experience from just singing by yourself, especially when professionals teach you vocal skills &amp; technique and this really helps to improve your vocal skills. Great for people interested in singing! The best part is you do not need any previous musical background to join and all the seniors, instructors and teachers are there to guide you along when you are lost."
-<span style="display:block; color:#333333; margin-top:1em;font-size:15px;"><em>President of Choir, Rachel</em></span><br><br>
+<span style="display:block; color:#333333; margin-top:1em;font-size:15px;"><em>President of Choir, Rachel</em></span><br><br><br>
 	</blockquote>
 
 <blockquote style="font-size: 15px;width:100%;margin:50px auto;font-family:Open Sans;font-style:italic;color: #555555;padding:1.2em 25px 1.2em 25px;border-left:8px solid #78C0A8 ;line-height:1.6;position: relative;background:#EDEDED;">
 <img align="left" alt="" src="/images/choir5.jpeg" style="width: 23%;margin-right:15px;">
 	"I enjoy Choir as my CCA because I actually do like singing. At first I thought Choir is going to be very boring but it was completely the opposite. The people there makes it extra fun. It may be a little stressful when there are performances but these are opportunities for us to step out of our comfort zones and perform in and out of school. It was not always smooth but we learnt from our mistakes and did our best. It definitely makes the experience in Choir more memorable and enjoyable."
-<span style="display:block; color:#333333; margin-top:1em;font-size:15px;"><em>Vice-President of Choir, Mikella</em></span><br><br>
+<span style="display:block; color:#333333; margin-top:1em;font-size:15px;"><em>Vice-President of Choir, Mikella</em></span><br><br><br>
 </blockquote>
 
 <h4 style="color:#635f1a;font-weight:bold">CCA Details</h4>
