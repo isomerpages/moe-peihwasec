@@ -81,7 +81,7 @@ I learnt many things in Council and one of the few is being in charge of a speci
 	</table>
 
 <h4 style="color:#635f1a;font-weight:bold">Photo Gallery</h4>
-<div class="row" style="box-sizing: border-box;width:140%;"> 
+<div class="row" style="box-sizing: border-box;width:120%;"> 
 		<div class="column" style="box-sizing: border-box;  float: left; width: 50%; padding: 10px;">
   			<img src="/images/AlbumStudCounsellor4.jpeg" style="width:100%; margin-top: 12px;">
   		</div>
