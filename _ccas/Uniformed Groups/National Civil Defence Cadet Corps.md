@@ -140,13 +140,13 @@ Pei Hwa NCDCC Unit takes part in programs that highlight the knowledge and skill
 <blockquote style="font-size: 15px;width:100%;margin:50px auto;font-family:Open Sans;font-style:italic;color: #555555;padding:1.2em 25px 1.2em 25px;border-left:8px solid #78C0A8 ;line-height:1.6;position: relative;background:#EDEDED;">
 	<img align="left" alt="" src="/images/NCDCC-4.jpg" style="width: 23%;margin-right:15px;">
 	"During our CCA day camp, we were able to bond with our other level CCA mates and learned how important it is to use teamwork to accomplish everything. We built a tent together, we tied knots together and even just go to know each other a little better. Apart from those activities, we also have learnt foot drills. Foot drills may be very tedious and tiring but when you and your batch mates able to do it consistently and well, you would also feel so good especially when you perform it for other people to see."
-	<span style="display:block; color:#333333; margin-top:1em;font-size:15px;"><em>CPL Brenan Kuan (ROTA 20 cadet)</em></span><br><br>
+	<span style="display:block; color:#333333; margin-top:1em;font-size:15px;"><em>CPL Brenan Kuan (ROTA 20 cadet)</em></span><br><br><br><br>
 </blockquote>
 	
 <blockquote style="font-size: 15px;width:100%;margin:50px auto;font-family:Open Sans;font-style:italic;color: #555555;padding:1.2em 25px 1.2em 25px;border-left:8px solid #78C0A8 ;line-height:1.6;position: relative;background:#EDEDED;">
 	<img align="left" alt="" src="/images/NCDCC-5.jpg" style="width: 23%;margin-right:15px;">
 	"NCDCC has really made an impact in my life. Especially through this year&rsquo;s NCO course, I really got a chance to discover my strengths and weaknesses. It helped me to nurture my strengths and work on my weaknesses. Through this course I also got a chance get to know my batchmates better as we face the challenges together, it gave us the opportunity to work together as a ROTA and help one another out. This course really made me understand the saying &ldquo;All for one, one for all&rdquo; it made me realized that we should always look out for the people around us and if we work together, we can come out stronger."
-	<span style="display:block; color:#333333; margin-top:1em;font-size:15px;"><em>SSG Avan Ang (ROTA 19 cadet)</em></span><br><br>
+	<span style="display:block; color:#333333; margin-top:1em;font-size:15px;"><em>SSG Avan Ang (ROTA 19 cadet)</em></span><br><br><br>
 </blockquote>
 	
 <h4 style="color:#635f1a;font-weight:bold">CCA Details</h4>
