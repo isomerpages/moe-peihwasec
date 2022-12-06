@@ -146,7 +146,7 @@ third_nav_title: Performing Arts
 
 <img src="/images/guzheng17.jpg" style="width: 100%;margin-top:10px;">
 <p style="text-align: center; font-size:13px;margin-top:5px;">Performing Arts Camp 2019</p>
-</li>
+
 
 <img src="/images/guzheng18.jpg" style="width: 100%;margin-top:10px;">
 <p style="text-align: center; font-size:13px;margin-top:-10px;">Performing Arts Camp 2019</p>
