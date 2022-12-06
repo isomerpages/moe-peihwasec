@@ -17,7 +17,7 @@ description: ""
 <p style="margin-top:15px;font-size:14.5px; line-height:2;font-family:Open Sans;">In addition, parents have been actively involved in the following school activities &ndash; accompanying students on field trips, fund-raising during Community Day, participating at school events such as Sports Day, National Day, Racial Harmony Day, Food Collection Drive, performing on Teachers&rsquo; Day, assisting teachers in lessons and co-curricular activities, and attending parenting workshops.</p>
 
 <h4 style="color:#635f1a;font-weight:bold">Involvement in Sec 1 Orientation Camp</h4>
-</div>
+
 <ol style="margin-top:5px;">
 <li style="font-size:14.5px; line-height:2;font-family:Open Sans;">PSG members helping out with the Cooking Segment of Sec 1 Orientation Camp</li>
 <li style="font-size:14.5px; line-height:2;font-family:Open Sans;">Parents from all levels and their children contributing to the Secondary 4 VIA,&nbsp;<em>Charity Food Drive.</em></li>
@@ -25,7 +25,7 @@ description: ""
 
 <p style="margin-top:15px;font-size:14.5px; line-height:2;font-family:Open Sans;">We look forward to working closely with you for your child&rsquo;s educational and developmental needs. Please&nbsp;<a href="https://form.gov.sg/#!/5f9bba9c64cfc100117b204f">click</a>&nbsp;to fill up your interest. Thank you.</p>
 
-<h4 style="color:#635f1a;font-weight:bold">Organisation chart of PSG</h3>
+<h4 style="color:#635f1a;font-weight:bold">Organisation chart of PSG</h4>
 <p style="font-size:14.5px; line-height:2;margin-top:15px; font-family:Open Sans"><strong style="margin-top:15px;font-size:17px;">Advisors:</strong>&nbsp;Mrs Belinda Chan&nbsp;(Principal) / Mr Philip Tan (Vice-Principal) / Mr Daniel Soh (Vice-Principal Admin)</p>
 
 <p style="margin-top:15px;font-size:14.5px; line-height:2;font-family:Open Sans;"><strong style="margin-top:15px;font-size:17px;">School PSG Facilitators:</strong>&nbsp;Mr Tan Chee Keong (HOD Humanities) / Mr Wong Liang Soon (HOD Craft&amp;Tech)</p>
