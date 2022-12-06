@@ -109,7 +109,7 @@ SYF Arts Presentation for Concert Band</strong>
 <blockquote style="font-size: 15px;width:100%;margin:50px auto;font-family:Open Sans;font-style:italic;color: #555555;padding:1.2em 25px 1.2em 25px;border-left:8px solid #78C0A8 ;line-height:1.6;position: relative;background:#EDEDED;">
 	<img align="left" alt="" src="/images/sband2.png" style="width: 23%;margin-right:15px;">
 	"Band has made my life in Secondary School more enjoyable through the different genres of music I got exposed to. Throughout my four years in Band, I have learnt many important skills such as teamwork and leadership. I cherish every performance as each brought the band more learning experiences and time to get to know each other more."
-	<span style="display:block; color:#333333; margin-top:1em;font-size:15px;"><em>Vice-President of Choir, Mikella</em></span><br><br>
+	<span style="display:block; color:#333333; margin-top:1em;font-size:15px;"><em>Vice-President of Choir, Mikella</em></span><br><br><br><br>
 </blockquote>
 
 <blockquote style="font-size: 15px;width:100%;margin:50px auto;font-family:Open Sans;font-style:italic;color: #555555;padding:1.2em 25px 1.2em 25px;border-left:8px solid #78C0A8 ;line-height:1.6;position: relative;background:#EDEDED;">
