@@ -9,7 +9,7 @@ description: ""
 <h4 style="color:#635f1a;font-weight:bold">Our Programmes</strong></h4>
 <p style="font-size:14.5px; line-height:2;margin-top:15px; font-family:Open Sans">We adopt the Student Leadership Challenge Model by Jim Kouzes and Barry Posner in the development of the Student Leaders. Guided by the 5 practices of an exemplary leader, student leaders are trained during various platforms and given opportunities to serve the school.</p>
 
-<img src="/images/sl1.png">
+<img src="/images/SLCM.png">
 
 <p style="margin-top:15px;font-size:17px;"><strong>Leadership Opportunities in Pei Hwa</strong>
 </p>
