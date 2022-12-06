@@ -138,5 +138,3 @@ third_nav_title: Performing Arts
 		
 </tbody>
 	</table>
-</body>
-</html>
