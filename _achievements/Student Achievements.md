@@ -86,7 +86,7 @@ description: ""
 <p style="margin-top:15px;font-size:17px;"><strong>Drama Society</strong></p>
 <p style="font-size:14.5px; line-height:2;margin:-15px 0 13px 0px;font-family:Open Sans;">SYF Achievement: Commendation&nbsp;</p>
 
-<h5 style="color:#635f1a;font-weight:bold">Summary of all SYF achievements</h4>
+<h4 style="color:#635f1a;font-weight:bold">Summary of all SYF achievements</h4>
 
 <table border="1" style="border-collapse: collapse;margin: 25px 0;font-size: 0.9em;font-family: sans-serif;min-width: 400px; box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);">
 	
