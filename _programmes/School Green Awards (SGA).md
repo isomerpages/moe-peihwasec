@@ -8,10 +8,9 @@ description: ""
 
 <h4 style="color:#635f1a;font-weight:bold">Achievement</h4>
 <p style="font-size:14.5px; line-height:2;margin-top:15px; font-family:Open Sans">We are pleased to announce that the school has achieved the Yellow Flame Award tier at the SEC-StarHub School Green Awards 2019. We were also recognized for actively communicating spreading environment awareness to our community through our outreach projects, where we were conferred the prestigious Outstanding Outreach Projects Award for Secondary Schools.</p>
-<br>
+
 <img style="width: 100%;margin-top:10px;" src="/images/Green-Award-Yellow-Flame.jpg" />
 <p style="font-size:13px; line-height:2; text-align:center; margin-top:5px;"><strong>SGA Yellow Flame Award&nbsp;</strong></p>
-<br>
 
 <img style="width: 100%;margin-top:10px;" src="/images/SGA-Outstanding-Outreach-Recipients-768x373.jpg" />
 <p style="font-size:13px; line-height:2; text-align:center; margin-top:5px;"><strong>SGA Outstanding Outreach Recipients</strong></p>
