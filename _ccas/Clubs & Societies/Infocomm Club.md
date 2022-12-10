@@ -92,7 +92,7 @@ third_nav_title: Clubs & Societies
 <img src="/images/info2.jpeg">
 	</ul>
 	
-<h4 style="color:#635f1a;font-weight:bold">CCA Details</strong></h4>
+<h4 style="color:#635f1a;font-weight:bold">CCA Details</h4>
 <table border="1" style="width:100%;">
 	<tbody>
 		<tr>
