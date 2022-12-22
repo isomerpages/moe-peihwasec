@@ -57,7 +57,7 @@ description: ""
 </tr>
 															
 <tr style="border-bottom: 1px solid #dddddd;">
-<td style="padding: 12px 15px;"><strong>Sec 3</strong></td>
+<td style="padding: 12px 15px;font-family:Open Sans;"><strong>Sec 3</strong></td>
 <td style="padding: 12px 15px; font-family:Open Sans;">WA: 15%</td>
 <td style="padding: 12px 15px; font-family:Open Sans;">WA: 15%</td>
 <td style="padding: 12px 15px;font-family:Open Sans;">WA: 15:%</td>
@@ -65,7 +65,7 @@ description: ""
 </tr>
 															
 <tr style="border-bottom: 2px solid #009879;     background-color: #f3f3f3;">
-<td style="padding: 12px 15px;font-family:Open Sans;font-size:14.5px;"><strong>Sec 4</strong></td>
+<td style="padding: 12px 15px;font-family:Open Sans;"><strong>Sec 4</strong></td>
 <td style="padding: 12px 15px; font-family:Open Sans;font-size:14.5px;">WA: 10%</td>
 <td style="padding: 12px 15px; font-family:Open Sans;font-size:14.5px;">MYE: 20%</td>
 <td style="padding: 12px 15px; font-family:Open Sans;font-size:14.5px;">Prelim: 70%</td>
