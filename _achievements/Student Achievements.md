@@ -17,7 +17,7 @@ description: ""
 
 <tr>
 <td style="font-size:14.5px; font-family:Open Sans;">Award</td>
-<td style="font-size:14.5px; font-family:Open Sans;">: 2<sup>nd</sup>Price</td>
+<td style="font-size:14.5px; font-family:Open Sans;">: 2<sup>nd</sup> Price</td>
 </tr>
 
 </tbody>
