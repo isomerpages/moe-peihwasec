@@ -48,7 +48,7 @@ Framework for 21<sup>st</sup>&nbsp;Century Competencies and Student Outcome</h4>
 
 
 <h4 style="color:#635f1a;font-weight:bold">
-Related Links</strong></h4>
+Related Links</h4>
 
 <ol style="margin-top:5px;">
 <li  style="font-size:14.5px; line-height:2;margin-left:17px;font-family:Open Sans;"><a href="/pld-faqs/">PLD FAQs</a></li>
