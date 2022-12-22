@@ -106,22 +106,22 @@ description: ""
 	
 <tr style ="background-color: #f3f3f3;border-bottom: 1px solid #dddddd;">
 <td style="padding: 12px 15px; font-size:14.5px; font-family:Open Sans;">Dance (Chinese)</td>
-<td style="padding: 12px 15px; font-size:14.5px; font-family:Open Sans;">Distinction</td>
+<td style="padding: 12px 15px; font-size:14.5px; font-family:Open Sans;">DISTINCTION</td>
 </tr>
 	
 <tr style="border-bottom: 1px solid #dddddd;">
 <td style="padding: 12px 15px; font-size:14.5px; font-family:Open Sans;">Dance (International)</td>
-<td style="padding: 12px 15px; font-size:14.5px; font-family:Open Sans;">Accomplishment</td>
+<td style="padding: 12px 15px; font-size:14.5px; font-family:Open Sans;">ACCOMPLISHMENT</td>
 </tr>
 	
 <tr style ="background-color: #f3f3f3;border-bottom: 1px solid #dddddd;">
 <td style="padding: 12px 15px; font-size:14.5px; font-family:Open Sans;">Guzheng</td>
-<td style="padding: 12px 15px; font-size:14.5px; font-family:Open Sans;">Distinction</td>
+<td style="padding: 12px 15px; font-size:14.5px; font-family:Open Sans;">DISTINCTION</td>
 </tr>
 
 <tr style="border-bottom: 2px solid #009879;     ">
 <td style="padding: 12px 15px; font-size:14.5px; font-family:Open Sans;">Drama</td>
-<td style="padding: 12px 15px; font-size:14.5px; font-family:Open Sans;">Commendation</td>
+<td style="padding: 12px 15px; font-size:14.5px; font-family:Open Sans;">COMMENDATION</td>
 </tr>
 	
 </tbody>
