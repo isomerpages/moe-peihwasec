@@ -6,7 +6,7 @@ description: ""
 <h4 style="color:#635f1a;font-weight:bold">Our Goals</h4>
 <p style="font-size:14.5px; line-height:2;margin-top:15px; font-family:Open Sans">In Pei Hwa Secondary School, we aim to develop Compassionate, Innovative and Daring leaders. Anchored by the school&rsquo;s PRIDE values, the student leaders will learn the various socio-emotional competencies through leadership development platforms and opportunities available in school. The Student Leadership program develops critical thinking, events management, and problem solving skills.</p>
 
-<h4 style="color:#635f1a;font-weight:bold">Our Programmes</strong></h4>
+<h4 style="color:#635f1a;font-weight:bold">Our Programmes</h4>
 <p style="font-size:14.5px; line-height:2;margin-top:15px; font-family:Open Sans">We adopt the Student Leadership Challenge Model by Jim Kouzes and Barry Posner in the development of the Student Leaders. Guided by the 5 practices of an exemplary leader, student leaders are trained during various platforms and given opportunities to serve the school.</p>
 
 <img src="/images/SLCM.png">
