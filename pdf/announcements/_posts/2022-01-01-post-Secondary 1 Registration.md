@@ -49,37 +49,36 @@ If you meet the Cut-off Point (COP) for the respective streams and would like to
 <h4 style="color:#635f1a;font-weight:bold">FAQs (20 Dec 2022)</h4>
 <p style="margin-top:15.5px;font-size:17px;"><strong>Registration:</strong></p>
 <div>
-<table border="1" style="border-collapse: collapse;margin: 25px 0;font-size: 0.9em;font-family: sans-serif;width:100%; box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);">
+<table border="1" style="border-collapse: collapse;margin: 15px 0;font-size: 0.9em;font-family: sans-serif;width:100%; box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);">
 	
 <tbody>
 <tr style="border-bottom: 1px solid #dddddd;">
 <td style="padding: 20px 15px; font-size:15px; font-family:Open Sans;width:10%;"><strong>1. </strong></td>
 	<td style="padding: 6px 10px;font-size:15px;font-family:Open Sans;"><b>Question</b>: I have received the notification from MOE that my child has been posted to Pei Hwa Secondary School. What should I do next?
-<br><br>
-		<b>Answer</b>: There is no requirement for students to report physically to their posted secondary school on the next working day following the release of S1 Posting Results. All posting results serve as a confirmed registration to your posting school.
-<br><br>
-You will receive notifications from Pei Hwa Secondary School via Parents Gateway for all administrative matters. If you do not have Parents Gateway yet, please click [here](https://peihwasec.moe.edu.sg/wp-content/uploads/2020/09/Parents-Gateway-signup.pdf) to register for it.
-<br><br>
-Additionally, you will receive a welcome message from your child’s Orientation Group (OG) Teacher by 28 Dec. If you still require more assistance then, please e-mail the OG Teachers stated in the notification. Alternatively you can e-mail the school at [peihwasec@moe.edu.sg](mailto:peihwasec@moe.edu.sg) or call 65009580 (Please be patient with us we are expecting high volumes of traffic regarding Sec 1 registration during this period).</td>
+
+<p style="margin-top:10px;font-size:14.5px; line-height:2;font-family:Open Sans;">	<b>Answer</b>: There is no requirement for students to report physically to their posted secondary school on the next working day following the release of S1 Posting Results. All posting results serve as a confirmed registration to your posting school.
+</p>
+<p style="margin-top:10px;font-size:14.5px; line-height:2;font-family:Open Sans;">You will receive notifications from Pei Hwa Secondary School via Parents Gateway for all administrative matters. If you do not have Parents Gateway yet, please click [here](https://peihwasec.moe.edu.sg/wp-content/uploads/2020/09/Parents-Gateway-signup.pdf) to register for it.</p>
+<p style="margin-top:10px;font-size:14.5px; line-height:2;font-family:Open Sans;">Additionally, you will receive a welcome message from your child’s Orientation Group (OG) Teacher by 28 Dec. If you still require more assistance then, please e-mail the OG Teachers stated in the notification. Alternatively you can e-mail the school at [peihwasec@moe.edu.sg](mailto:peihwasec@moe.edu.sg) or call 65009580 (Please be patient with us we are expecting high volumes of traffic regarding Sec 1 registration during this period).</p></td>
 </tr>
 	
 <tr style="border-bottom: 1px solid #dddddd;">
 <td style="padding: 20px 15px;font-size:15px;font-family:Open Sans;"><strong>2.</strong></td>
 	<td style="padding: 6px 10px;font-size:15px;font-family:Open Sans;"><b>Question</b>: Will there be any Parent Talks during the registration?
-		<br><br><b>Answer</b>: We have planned for the respective talks by the Principal as well as other school personnel to take place on Week 1. More information will be sent to parents via Parents Gateway.</td>
+<p style="margin-top:10px;font-size:14.5px; line-height:2;font-family:Open Sans;"><b>Answer</b>: We have planned for the respective talks by the Principal as well as other school personnel to take place on Week 1. More information will be sent to parents via Parents Gateway.</p></td>
 </tr>
 	
 <tr style="border-bottom: 1px solid #dddddd;">
 <td style="padding: 20px 15px;font-size:15px;font-family:Open Sans;"><strong>3.</strong></td>
 	<td style="padding: 6px 10px;font-size:15px;font-family:Open Sans;"><b>Question</b>: How do I know if my child is eligible for Higher Mother Tongue Language (HMTL)? How do we submit the forms?
-		<br><br><b>Answer</b>: Your child will receive Form A from the school via Parents Gateway. Parents are to follow the instructions accompanying the form on accepting or rejecting the offer.
-<br><br>*If you are accepting the offer, do remember to purchase the relevant Higher Mother Tongue subject textbooks.</td>
+<p style="margin-top:10px;font-size:14.5px; line-height:2;font-family:Open Sans;"><b>Answer</b>: Your child will receive Form A from the school via Parents Gateway. Parents are to follow the instructions accompanying the form on accepting or rejecting the offer.</p>
+<p style="margin-top:10px;font-size:14.5px; line-height:2;font-family:Open Sans;">*If you are accepting the offer, do remember to purchase the relevant Higher Mother Tongue subject textbooks.</p></td>
 </tr>
 <tr style="border-bottom: 1px solid #dddddd;">
 <td style="padding: 20px 15px;font-size:15px;font-family:Open Sans;"><strong>4.</strong></td>
 	<td style="padding: 6px 10px;font-size:15px;font-family:Open Sans;"><b>Question</b>: How do I know if my child is eligible for Subject-based banding (SBB) subjects? How do we submit the forms?
-		<br><br><b>Answer</b>:  Your child will receive a notification from the school via Parents Gateway on his or her eligibility for the respective SBB subjects. Parents are to follow the instructions accompanying the form on accepting or rejecting the offer. <br><br>
-*If you are accepting the offer, do remember to purchase the relevant subject textbooks.</td>
+<p style="margin-top:10px;font-size:14.5px; line-height:2;font-family:Open Sans;"><b>Answer</b>:  Your child will receive a notification from the school via Parents Gateway on his or her eligibility for the respective SBB subjects. Parents are to follow the instructions accompanying the form on accepting or rejecting the offer.</p>
+<p style="margin-top:10px;font-size:14.5px; line-height:2;font-family:Open Sans;">*If you are accepting the offer, do remember to purchase the relevant subject textbooks.</p></td>
 </tr>
 	
 </tbody>
