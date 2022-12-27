@@ -263,7 +263,7 @@ Our former students have graduated from Ngee Ann Polytechnic (NP) this year with
 <tbody>
 		
 <tr>
-<td style="font-size:14.5px; line-height:2;font-family:Open Sans; width:25%;">Name</td>
+<td style="font-size:14.5px; line-height:2;font-family:Open Sans; width:20%;">Name</td>
 <td style="font-size:14.5px; line-height:2;font-family:Open Sans;">: <strong>Leaw Kai Wei, Lashanda</strong></td>
 </tr>
 	
