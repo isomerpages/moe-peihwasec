@@ -4,7 +4,7 @@ permalink: /about-us/departments/cce/
 description: ""
 third_nav_title: Departments
 ---
-<h4 style="color:#635f1a;font-weight:bold">Our Goals</strong></h4>
+<h4 style="color:#635f1a;font-weight:bold">Our Goals</h4>
 
 <p style="font-size:14.5px; line-height:2;margin-top:15px; font-family:Open Sans">The CCE curriculum supports the students’ development of character, citizenship and leadership with the aim of fulfilling the students’ vision of being the PRIDE of the Community.</p>
 
