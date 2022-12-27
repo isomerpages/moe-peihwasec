@@ -78,11 +78,11 @@ third_nav_title: Distinctive Programmes
 <p style="font-size:14.5px; line-height:2;margin:-10px 0 25px 0px;font-family:Open Sans;">The Intergenerational Learning Programme (ILP), an initiative of Council for Third Age (C3A), aims to promote lifelong learning and to forge intergenerational bonding between the youth and the elderly.</p>
 <p style="margin-top:15px;font-size:14.5px; line-height:2;font-family:Open Sans;">Pei Hwa Secondary works with Family Central (FC), the organiser for the ILP, in having the students to teach the elderly a particular topic/skill. Through interaction, the youth learn important values and life lessons while the elderly gain new knowledge and skills.</p>
 
-<img style="width: 100%;margin-top:10px;" src="/images/LLP-01.jpg" />
+<img style="width: 70%;margin-top:10px;" src="/images/LLP-01.jpg" />
 <p style="font-size:13px; line-height:2;text-align:center; margin-top:5px;"><em>Photograph was taken pre-COVID-19</em></p>
 
 <p style="font-size:15.5px; line-height:2;margin:-10px 0 13px 0px;font-family:Open Sans;"><strong>Sec 4 and 5: Charity Food Drive</strong></p>
 <p style="font-size:14.5px; line-height:2;margin:-10px 0 25px 0px;font-family:Open Sans;">Students collect food items from the residents in the neighbourhood. Food items collected would be distributed to the needy in the community through Food from the Heart. In 2021, students completed an internal school collection drive.</p>
 
-<img style="width: 100%;margin-top:10px;" src="/images/LLP-02.jpg" />
+<img style="width: 70%;margin-top:10px;" src="/images/LLP-02.jpg" />
 <p style="font-size:13px; line-height:2; text-align:center; margin-top:5px;"><em>Photograph was taken pre-COVID-19</em></p>
