@@ -1,6 +1,6 @@
 ---
 title: ACE Learning
-permalink: /links/ace-learning
+permalink: /links/ace-learning/
 description: ""
 ---
 
