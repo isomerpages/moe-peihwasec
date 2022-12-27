@@ -34,15 +34,17 @@ third_nav_title: Departments
 	<tbody>
 		<tr>
 			<td style="background-color: #54585d; font-weight: bold; font-size: 15px; border: 1px solid #54585d; color:white;border-bottom: 1px solid #dddddd;width:24%;font-family:Open Sans;">CCE Lessons</td>
-			<td style="border: 1px solid #dddfe1;font-size: 15px;"><ul><li style="font-size:14.5px; line-height:2;font-family:Open Sans;">Teaching of values, knowledge and skills for Character &amp; Citizenship Education including Education and Career Guidance (ECG), Sexuality Education (SEd), Cyber Wellness (CW), National Education (NE) and Mental Health Education</li></td>
+			<td style="border: 1px solid #dddfe1;font-size: 15px;"><ul><li style="font-size:14.5px; line-height:2;font-family:Open Sans;">Teaching of values, knowledge and skills for Character &amp; Citizenship Education including Education and Career Guidance (ECG), Sexuality Education (SEd), Cyber Wellness (CW), National Education (NE) and Mental Health Education</li></ul></td>
 		</tr>
 
 <tr>
 			<td style="background-color: #54585d; font-weight: bold; font-size: 15px; border: 1px solid #54585d;border-bottom: 1px solid #dddddd; color:white;font-family:Open Sans;">School-based CCE</td>
-			<td style="border: 1px solid #dddfe1;font-size: 15px;"><ul>
+			<td style="border: 1px solid #dddfe1;font-size: 15px;">
+				<ul>
 				<li style="font-size:14.5px; line-height:2;font-family:Open Sans;">Programmes and Lessons on School Values</li>
 				<li style="font-size:14.5px; line-height:2;font-family:Open Sans;">Values in Action (VIA)</li>
 				<li style="font-size:14.5px; line-height:2;font-family:Open Sans;">Assembly Programmes linked to CCE</li>
+				</ul>
 				</td>
 		</tr>
 
