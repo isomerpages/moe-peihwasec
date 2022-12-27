@@ -10,7 +10,7 @@ description: ""
 <table border="1" style="width:100%;">
 	<tbody>
 		<tr>
-			<td style="background-color: #54585d; font-weight: bold; font-size: 15px; border: 1px solid #54585d; color:white;border-bottom: 1px solid #dddddd;width:35%;">21 Dec 2022</td>
+			<td style="background-color: #54585d; font-weight: bold; font-size: 15px; border: 1px solid #54585d; color:white;border-bottom: 1px solid #dddddd;width:20%;">21 Dec 2022</td>
 			<td style="border: 1px solid #dddfe1;font-size: 15px;">Release of Sec 1 Posting Results by MOE</td>
 		</tr>
 		<tr>
