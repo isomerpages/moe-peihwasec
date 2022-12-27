@@ -5,7 +5,6 @@ date: 2022-01-01
 layout: post
 description: ""
 ---
-
 <h4 style="color:#635f1a;font-weight:bold">2022 Sec 1 Cohort Registration Important Dates</h4>
 
 <table border="1" style="width:100%;">
@@ -21,15 +20,19 @@ description: ""
 		</tr>
 		<tr>
 			<td style="background-color: #54585d; font-weight: bold; font-size: 15px; border: 1px solid #54585d; color:white;border-bottom: 1px solid #dddddd;">27-29 Dec 2022</td>
-			<td style="border: 1px solid #dddfe1;font-size: 15px;">Purchase/ collection of School Textbooks and Uniform in Pei Hwa Secondary School<br>Strictly via booking appointment ONLY. Please refer to the following link to book an appointment:https://www.picktime.com/popularschool</td>
+			<td style="border: 1px solid #dddfe1;font-size: 15px;">Purchase/ collection of School Textbooks and Uniform in Pei Hwa Secondary School<br><br>Strictly via booking appointment ONLY. Please refer to the following link to book an appointment:https://www.picktime.com/popularschool</td>
 		</tr>
 		
 </tbody>
 	</table>
 	
 <h4 style="color:#635f1a;font-weight:bold">Appeals for Transfer into Pei Hwa Secondary School (non-medical)</h4>
-<p style="font-size:14.5px; line-height:2;margin-top:15px; font-family:Open Sans">The deadline for the submission of appeals is on <b>28 December 2022, 12:00pm</b>. Late submissions will not be allowed.<br><br>
-If you meet the Cut-off Point (COP) for the respective streams and would like to appeal to Pei Hwa Secondary, you may submit an appeal via the link by <b>28 Dec 2022 (Wed), 12:00pm</b>: [https://go.gov.sg/phssappeal2023](https://go.gov.sg/phssappeal2023)<br><br>Successful applicants will be informed by the school by <b> 3 Jan 2023 (Tues).</b></p>
+<p style="font-size:14.5px; line-height:2;margin-top:15px; font-family:Open Sans">The deadline for the submission of appeals is on <b>28 December 2022, 12:00pm</b>. Late submissions will not be allowed.</p>
+
+<p style="margin-top:10px;font-size:14.5px; line-height:2;font-family:Open Sans;">
+If you meet the Cut-off Point (COP) for the respective streams and would like to appeal to Pei Hwa Secondary, you may submit an appeal via the link by <b>28 Dec 2022 (Wed), 12:00pm</b>: [https://go.gov.sg/phssappeal2023](https://go.gov.sg/phssappeal2023)</p>
+
+<p style="margin-top:10px;font-size:14.5px; line-height:2;font-family:Open Sans;">Successful applicants will be informed by the school by <b> 3 Jan 2023 (Tues).</b></p>
 	
 <h4 style="color:#635f1a;font-weight:bold">2023 Cohort Sec 1 Uniform and Textbook Purchases</h4>
 <p style="font-size:14.5px; line-height:2;margin-top:15px; font-family:Open Sans">Parents are to make a booking via PickTime (refer to Annex D above for instructions) to enter Pei Hwa Secondary School (Please note that only ONE parent can accompany the child into the school premises as per SMM guidelines). You can use this time to purchase textbooks, uniforms or both.</p>
@@ -77,7 +80,6 @@ Additionally, you will receive a welcome message from your child’s Orientation
 	<td style="padding: 6px 10px;font-size:15px;font-family:Open Sans;"><b>Question</b>: How do I know if my child is eligible for Subject-based banding (SBB) subjects? How do we submit the forms?
 		<br><br><b>Answer</b>:  Your child will receive a notification from the school via Parents Gateway on his or her eligibility for the respective SBB subjects. Parents are to follow the instructions accompanying the form on accepting or rejecting the offer. <br><br>
 *If you are accepting the offer, do remember to purchase the relevant subject textbooks.</td>
-</tr>
 </tr>
 	
 </tbody>
