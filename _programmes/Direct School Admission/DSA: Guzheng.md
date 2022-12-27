@@ -33,14 +33,14 @@ third_nav_title: Direct School Admission
 <h4 style="color:#635f1a;font-weight:bold">Shortlisting Criteria</h4>
 
 <ul style="margin-top:5px;">
-<li aria-level="1" style="font-size:14.5px; line-height:2;font-family:Open Sans;">DSA applicants should have experience in playing the Guzheng. (Formal Certification is useful, but not compulsory)</li>
-<li aria-level="1" style="font-size:14.5px; line-height:2;font-family:Open Sans;">DSA applicants should preferably have:
-<ul style="margin-top:-5px;">
-<li aria-level="2"style="font-size:14.5px; line-height:2;font-family:Open Sans;">Relevant experiences in performing the Guzheng at school and/or external events&nbsp;<strong>OR</strong></li>
-<li aria-level="2" style="font-size:14.5px; line-height:2;font-family:Open Sans;">Represented their primary school Guzheng Ensemble in external events or competitions (eg. Singapore Youth Festival (SYF) Arts presentation&nbsp;for Guzheng ensemble, Singapore Chinese Music Competition, public concerts, etc)&nbsp;<strong>OR</strong></li>
-<li aria-level="2" style="font-size:14.5px; line-height:2;font-family:Open Sans;">Other achievement(s)/attainment(s) in Guzheng</li>
-</ul>
-</li>
+	<li aria-level="1" style="font-size:14.5px; line-height:2;font-family:Open Sans;">DSA applicants should have experience in playing the Guzheng. (Formal Certification is useful, but not compulsory)</li>
+	<li aria-level="1" style="font-size:14.5px; line-height:2;font-family:Open Sans;">DSA applicants should preferably have:
+		<ul style="margin-top:-5px;">
+			<li aria-level="2" style="font-size:14.5px;line-height:2;font-family:Open Sans;">Relevant experiences in performing the Guzheng at school and/or external events&nbsp;<strong>OR</strong></li>
+			<li aria-level="2" style="font-size:14.5px; line-height:2;font-family:Open Sans;">Represented their primary school Guzheng Ensemble in external events or competitions (eg. Singapore Youth Festival (SYF) Arts presentation&nbsp;for Guzheng ensemble, Singapore Chinese Music Competition, public concerts, etc)&nbsp;<strong>OR</strong></li>
+			<li aria-level="2" style="font-size:14.5px; line-height:2;font-family:Open Sans;">Other achievement(s)/attainment(s) in Guzheng</li>
+		</ul>
+	</li>
 </ul>
 
 <p style="font-size:14.5px; line-height:2;font-family:Open Sans;"><strong style="font-size:15px; line-height:2;margin:-10px 0 13px 0px;font-family:Open Sans;">Note:</strong><br>(1)&nbsp;DSA applicants do not need to possess all of the above criteria to be considered.<br>(2)&nbsp;Meeting all the criteria does not guarantee the DSA applicant will be shortlisted.&nbsp;or given an offer.</p>
