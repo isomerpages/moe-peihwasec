@@ -42,8 +42,8 @@ description: ""
 <td style="text-align:center; border: 1px solid #dddfe1;">
 <strong>HOD InfoComm Technology</strong>
 </td>
-<td style="text-align:center; border: 1px solid #dddfe1;">Mr Lim Thai Wee&nbsp;David</td>
-<td style="text-align:center; border: 1px solid #dddfe1;">lim_thai_wee_david@moe.edu.sg</td>
+<td style="text-align:center; border: 1px solid #dddfe1;">Mdm Shalini D/O Tashanamurthi</td>
+<td style="text-align:center; border: 1px solid #dddfe1;">shalini_tashnamurthi@moe.edu.sg</td>
 </tr>
 	
 <tr>
@@ -79,10 +79,34 @@ description: ""
 	
 <tr>
 <td style="text-align:center; border: 1px solid #dddfe1;">
-<strong>HOD Student Management</strong>
+<strong>HOD Humanities</strong>
 </td>
-<td style="text-align:center; border: 1px solid #dddfe1;">Mr Raghuraman Katherayson</td>
-<td style="text-align:center; border: 1px solid #dddfe1;">raghuraman_katherayson@moe.edu.sg</td>
+<td style="text-align:center; border: 1px solid #dddfe1;">Mr Xu Mingjie Marcus</td>
+<td style="text-align:center; border: 1px solid #dddfe1;">xu_mingjie_marcus@moe.edu.sg</td>
+</tr>
+		
+<tr>
+<td style="text-align:center; border: 1px solid #dddfe1;">
+<strong>HOD English</strong>
+</td>
+<td style="text-align:center; border: 1px solid #dddfe1;">
+Mr Yip Guanhui
+</td>
+<td style="text-align:center; border: 1px solid #dddfe1;">
+yip_guanhui@moe.edu.sg
+</td>
+</tr>
+		
+<tr>
+<td style="text-align:center; border: 1px solid #dddfe1;">
+<strong>HOD Special Project</strong>
+</td>
+<td style="text-align:center; border: 1px solid #dddfe1;">
+Mr Lim Thai Wee David
+</td>
+<td style="text-align:center; border: 1px solid #dddfe1;">
+lim_thai_wee_david@moe.edu.sg
+</td>
 </tr>
 	
 <tr>
@@ -109,24 +133,24 @@ lee_wei_ying@moe.edu.sg
 <td style="text-align:center; border: 1px solid #dddfe1;">
 <strong>Year Head <br> (Lower Sec)</strong>
 </td>
-<td style="text-align:center; border: 1px solid #dddfe1;">Mr Kang Kok Keong Bernard</td>
-<td style="text-align:center; border: 1px solid #dddfe1;">kang_kok_keong_bernard@moe.edu.sg</td>
+<td style="text-align:center; border: 1px solid #dddfe1;">Mdm Cheng Weiqi</td>
+<td style="text-align:center; border: 1px solid #dddfe1;">cheng_weiqi@moe.edu.sg</td>
 </tr>
 	
 <tr>
 <td style="text-align:center; border: 1px solid #dddfe1;">
 <strong>Year Head <br> (Upper Sec)</strong>
 </td>
-<td style="text-align:center; border: 1px solid #dddfe1;">Mr Loh Jing Hui</td>
-<td style="text-align:center; border: 1px solid #dddfe1;">loh_jing_hui@moe.edu.sg</td>
+<td style="text-align:center; border: 1px solid #dddfe1;">Mr Kang Kok Keong Bernard</td>
+<td style="text-align:center; border: 1px solid #dddfe1;">kang_kok_keong_bernard@moe.edu.sg</td>
 </tr>
 	
 <tr>
 <td style="text-align:center; border: 1px solid #dddfe1;">
 <strong>Assistant Year Head <br> (Upper Sec)</strong>
 </td>
-<td style="text-align:center; border: 1px solid #dddfe1;">Mdm Cheng Weiqi</td>
-<td style="text-align:center; border: 1px solid #dddfe1;;">cheng_weiqi@moe.edu.sg</td>
+<td style="text-align:center; border: 1px solid #dddfe1;">Ms Yasmin Yeow</td>
+<td style="text-align:center; border: 1px solid #dddfe1;;">yeow_yasmin@moe.edu.sg</td>
 </tr>
 	
 <tr>
@@ -162,18 +186,6 @@ lee_wei_ying@moe.edu.sg
 </tr>
 	
 <tr>
-<td style="text-align:center; border: 1px solid #dddfe1;"><strong>SH Data Management</strong></td>
-<td style="text-align:center; border: 1px solid #dddfe1;">Mdm Shalini Tashnamurthi</td>
-<td style="text-align:center; border: 1px solid #dddfe1;">shalini_tashnamurthi@moe.edu.sg</td>
-</tr>
-	
-<tr>
-<td style="text-align:center; border: 1px solid #dddfe1;"><strong>SH Character &amp; <br> Citizenship Education</strong></td>
-<td style="text-align:center; border: 1px solid #dddfe1;">Mdm Oh Shu Ying Serene</td>
-<td style="text-align:center; border: 1px solid #dddfe1;">oh_shu_ying_serene@moe.edu.sg</td>
-</tr>
-	
-<tr>
 <td style="text-align:center; border: 1px solid #dddfe1;">
 <strong>SH Innovation &amp; <br> Talent Development</strong>
 </td>
@@ -185,8 +197,32 @@ lee_wei_ying@moe.edu.sg
 <td style="text-align:center; border: 1px solid #dddfe1;">
 <strong>SH Science <br> (Lower Sec)</strong>
 </td>
-<td style="text-align:center; border: 1px solid #dddfe1;">Ms Shirlyn Sim</td>
-<td style="text-align:center; border: 1px solid #dddfe1;">shirlyn_sim@moe.edu.sg</td>
+<td style="text-align:center; border: 1px solid #dddfe1;">Ms Toh May May Lisa</td>
+<td style="text-align:center; border: 1px solid #dddfe1;">-</td>
+</tr>
+
+<tr>
+<td style="text-align:center; border: 1px solid #dddfe1;">
+<strong>SH Student Leadership</strong>
+</td>
+<td style="text-align:center; border: 1px solid #dddfe1;">Ms Chan Xin Hui Michelle (Mrs Jonathan)</td>
+<td style="text-align:center; border: 1px solid #dddfe1;">chan_xin_hui_michelle@schools.gov.sg</td>
+</tr>
+		
+<tr>
+<td style="text-align:center; border: 1px solid #dddfe1;">
+<strong>SH Mathematics</strong>
+</td>
+<td style="text-align:center; border: 1px solid #dddfe1;">Mdm Oh Shu Ying Serene</td>
+<td style="text-align:center; border: 1px solid #dddfe1;">oh_shu_ying_serene@moe.edu.sg</td>
+</tr>
+		
+<tr>
+<td style="text-align:center; border: 1px solid #dddfe1;">
+<strong>SH Design & Technology</strong>
+</td>
+<td style="text-align:center; border: 1px solid #dddfe1;">Mr Lim Jin Kng Emmanuel</td>
+<td style="text-align:center; border: 1px solid #dddfe1;">lim_jin_kng_emmanuel@moe.edu.sg</td>
 </tr>
 	
 <tr>
