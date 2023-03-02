@@ -19,10 +19,10 @@ In Pei Hwa Secondary School<br>We are the pride of the community<br>To lead and 
 
 <p style="margin-top:15px;font-size:14.5px; line-height:2;font-family:Open Sans;">Though there be many challenges<br>Our passion remains strong<br>We learn and work diligently<br>To be the best that we can be</p>
 
-<p style="margin-top:15px;font-size:14.5px; line-height:2;font-family:Open Sans;">Here in Pei Hwa<br>Our talents are nurtured<br>Here in Pei Hwa<br>Where we share in harmony<br>We&rsquo;ll spread our wings<br>Fly far and high<br>To bring pride and glory<br>To the happy Pei Hwa family</p>
+<p style="margin:5px 0 20px; font-size:14.5px; line-height:2;font-family:Open Sans;">Here in Pei Hwa<br>Our talents are nurtured<br>Here in Pei Hwa<br>Where we share in harmony<br>We&rsquo;ll spread our wings<br>Fly far and high<br>To bring pride and glory<br>To the happy Pei Hwa family</p>
 <p><strong>***</strong></p>
 
-<p style="margin:5px 0 20px; font-size:14.5px; line-height:font-family:Open Sans;"><strong>Music by Mr Job Tan</strong>
+<p style="margin:5px 0 20px; font-size:14.5px; line-height:2;font-family:Open Sans;"><strong>Music by Mr Job Tan</strong>
 <br>
 <strong>Lyrics by Mr Daniel Beng, Miss Thien Li Chin and Mr Tan Yap Kin</strong>
 	<br>
