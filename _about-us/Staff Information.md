@@ -4,12 +4,12 @@ permalink: /about-us/staff-contact-info/
 description: ""
 ---
 <ul class="jekyllcodex_accordion">
-<li><input id="accordion1" type="checkbox"><label for="accordion1">School Leaders and Key Personnel</label>
+<li><input id="accordion1" type="checkbox"><label for="accordion1" style="line-height:2;margin-top:15px; font-family:Open Sans">School Leaders and Key Personnel</label>
 <div>
 <table style="width:100%" border="1">
-	<thead style="background-color: #54585d; font-weight: bold; font-size: 16px; border: 1px solid #54585d;">
+	<thead style="background-color: #54585d; font-weight: bold; font-size: 16px; border: 1px solid #54585d; font-family:Open Sans;">
 		<tr>
-			<td style="text-align:center;color:white; width:20%;">Designation</td>
+			<td style="text-align:center;color:white; width:20%; font-family:Open Sans">Designation</td>
 			<td style="text-align:center; color:white;width:42%;">Name</td>
 			<td style="text-align:center; color:white;width:38%;">Email</td>
 		</tr>
