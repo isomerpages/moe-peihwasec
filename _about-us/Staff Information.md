@@ -7,258 +7,258 @@ description: ""
 <li><input id="accordion1" type="checkbox"><label for="accordion1" style="line-height:2;margin-top:15px; font-family:Open Sans">School Leaders and Key Personnel</label>
 <div>
 <table style="width:100%" border="1">
-	<thead style="background-color: #54585d; font-weight: bold; font-size: 16px; border: 1px solid #54585d; font-family:Open Sans;">
+	<thead style="background-color: #54585d; font-weight: bold; font-size: 15.5px; border: 1px solid #54585d; font-family:Open Sans;">
 		<tr>
 			<td style="text-align:center;color:white; width:20%; font-family:Open Sans">Designation</td>
-			<td style="text-align:center; color:white;width:42%;">Name</td>
-			<td style="text-align:center; color:white;width:38%;">Email</td>
+			<td style="text-align:center; color:white;width:42%;font-family:Open Sans">Name</td>
+			<td style="text-align:center; color:white;width:38%;font-family:Open Sans">Email</td>
 		</tr>
 	</thead>
-	<tbody style="font-size:15px; line-height: 1.8;">
+	<tbody style="font-size:14.5px; line-height: 1.8;">
 		<tr>
-		<td style="text-align:center; border: 1px solid #dddfe1;"><strong>Principal</strong>
+		<td style="text-align:center; border: 1px solid #dddfe1;"><strong style="font-family:Open Sans">Principal</strong>
 		</td>
-		<td style="text-align:center; border: 1px solid #dddfe1;">Mr Mohd Azhar B Terimo</td>
+		<td style="text-align:center; border: 1px solid #dddfe1;font-family:Open Sans">Mr Mohd Azhar B Terimo</td>
 		<td style="text-align:center; border: 1px solid #dddfe1;">-</td>
 </tr>
 	
 <tr>
 <td style="text-align:center; border: 1px solid #dddfe1;">
-<strong>Vice-Principal</strong>
+<strong style="font-family:Open Sans">Vice-Principal</strong>
 </td>
-<td style="text-align:center; border: 1px solid #dddfe1;">Mrs Michelle Willman</td>
+<td style="text-align:center; border: 1px solid #dddfe1;font-family:Open Sans">Mrs Michelle Willman</td>
 		<td style="text-align:center; border: 1px solid #dddfe1;">-</td>
 </tr>
 		
 <tr>
 <td style="text-align:center; border: 1px solid #dddfe1;">
-<strong>Vice-Principal</strong>
+<strong style="font-family:Open Sans">Vice-Principal</strong>
 </td>
-<td style="text-align:center; border: 1px solid #dddfe1;">Mr Ow Weng Keong</td>
+<td style="text-align:center; border: 1px solid #dddfe1;font-family:Open Sans">Mr Ow Weng Keong</td>
 		<td style="text-align:center; border: 1px solid #dddfe1;">-</td>
 </tr>
 	
 <tr>
 <td style="text-align:center; border: 1px solid #dddfe1;">
-<strong>HOD InfoComm Technology</strong>
+<strong style="font-family:Open Sans">HOD InfoComm Technology</strong>
 </td>
-<td style="text-align:center; border: 1px solid #dddfe1;">Mdm Shalini D/O Tashanamurthi</td>
-<td style="text-align:center; border: 1px solid #dddfe1;">shalini_tashnamurthi@moe.edu.sg</td>
+<td style="text-align:center; border: 1px solid #dddfe1;font-family:Open Sans">Mdm Shalini D/O Tashanamurthi</td>
+<td style="text-align:center; border: 1px solid #dddfe1;font-family:Open Sans">shalini_tashnamurthi@moe.edu.sg</td>
 </tr>
 	
 <tr>
 <td style="text-align:center; border: 1px solid #dddfe1;">
-<strong>HOD PE &amp; CCA</strong>
+<strong style="font-family:Open Sans">HOD PE &amp; CCA</strong>
 </td>
-<td style="text-align:center; border: 1px solid #dddfe1;">Mr Liew Yee Hoong Adam</td>
-<td style="text-align:center; border: 1px solid #dddfe1;">liew_yee_hoong_adam@moe.edu.sg</td>
+<td style="text-align:center; border: 1px solid #dddfe1;font-family:Open Sans">Mr Liew Yee Hoong Adam</td>
+<td style="text-align:center; border: 1px solid #dddfe1;font-family:Open Sans">liew_yee_hoong_adam@moe.edu.sg</td>
 </tr>
 	
 <tr>
-	<td style="text-align:center; border: 1px solid #dddfe1;"><strong>HOD Mathematics</strong>
+	<td style="text-align:center; border: 1px solid #dddfe1;"><strong style="font-family:Open Sans">HOD Mathematics</strong>
 	</td>
-	<td style="text-align:center; border: 1px solid #dddfe1;">Mdm Yang Ser Yee</td>
-<td style="text-align:center; border: 1px solid #dddfe1;">yang_ser_yee@moe.edu.sg</td>
+	<td style="text-align:center; border: 1px solid #dddfe1;font-family:Open Sans">Mdm Yang Ser Yee</td>
+<td style="text-align:center; border: 1px solid #dddfe1;font-family:Open Sans">yang_ser_yee@moe.edu.sg</td>
 </tr>
 	
 <tr>
 <td style="text-align:center; border: 1px solid #dddfe1;">
-<strong>HOD Science</strong>
+<strong style="font-family:Open Sans">HOD Science</strong>
 </td>
-<td style="text-align:center; border: 1px solid #dddfe1;">Ms Teo Sing Yee</td>
-<td style="text-align:center; border: 1px solid #dddfe1;">teo_sing_yee@moe.edu.sg</td>
+<td style="text-align:center; border: 1px solid #dddfe1;font-family:Open Sans">Ms Teo Sing Yee</td>
+<td style="text-align:center; border: 1px solid #dddfe1;font-family:Open Sans">teo_sing_yee@moe.edu.sg</td>
 </tr>
 	
 <tr>
 <td style="text-align:center; border: 1px solid #dddfe1;">
-<strong>HOD&nbsp;Character &amp;<br> Citizenship Education</strong>
+<strong style="font-family:Open Sans">HOD&nbsp;Character &amp;<br> Citizenship Education</strong>
 </td>
-<td style="text-align:center; border: 1px solid #dddfe1;">Ms Wong Wei Nee</td>
-<td style="text-align:center; border: 1px solid #dddfe1;">wong_wei_nee@moe.edu.sg</td>
+<td style="text-align:center; border: 1px solid #dddfe1;font-family:Open Sans">Ms Wong Wei Nee</td>
+<td style="text-align:center; border: 1px solid #dddfe1;font-family:Open Sans">wong_wei_nee@moe.edu.sg</td>
 </tr>
 	
 <tr>
 <td style="text-align:center; border: 1px solid #dddfe1;">
-<strong>HOD Humanities</strong>
+<strong style="font-family:Open Sans">HOD Humanities</strong>
 </td>
-<td style="text-align:center; border: 1px solid #dddfe1;">Mr Xu Mingjie Marcus</td>
-<td style="text-align:center; border: 1px solid #dddfe1;">xu_mingjie_marcus@moe.edu.sg</td>
+<td style="text-align:center; border: 1px solid #dddfe1;font-family:Open Sans">Mr Xu Mingjie Marcus</td>
+<td style="text-align:center; border: 1px solid #dddfe1;font-family:Open Sans">xu_mingjie_marcus@moe.edu.sg</td>
 </tr>
 		
 <tr>
 <td style="text-align:center; border: 1px solid #dddfe1;">
-<strong>HOD English</strong>
+<strong style="font-family:Open Sans">HOD English</strong>
 </td>
-<td style="text-align:center; border: 1px solid #dddfe1;">
+<td style="text-align:center; border: 1px solid #dddfe1;font-family:Open Sans">
 Mr Yip Guanhui
 </td>
-<td style="text-align:center; border: 1px solid #dddfe1;">
+<td style="text-align:center; border: 1px solid #dddfe1;font-family:Open Sans">
 yip_guanhui@moe.edu.sg
 </td>
 </tr>
 		
 <tr>
 <td style="text-align:center; border: 1px solid #dddfe1;">
-<strong>HOD Special Project</strong>
+<strong style="font-family:Open Sans">HOD Special Project</strong>
 </td>
-<td style="text-align:center; border: 1px solid #dddfe1;">
+<td style="text-align:center; border: 1px solid #dddfe1;font-family:Open Sans">
 Mr Lim Thai Wee David
 </td>
-<td style="text-align:center; border: 1px solid #dddfe1;">
+<td style="text-align:center; border: 1px solid #dddfe1;font-family:Open Sans">
 lim_thai_wee_david@moe.edu.sg
 </td>
 </tr>
 	
 <tr>
 <td style="text-align:center; border: 1px solid #dddfe1;">
-<strong>HOD Mother Tongue</strong>
+<strong style="font-family:Open Sans">HOD Mother Tongue</strong>
 </td>
-<td style="text-align:center; border: 1px solid #dddfe1;">
+<td style="text-align:center; border: 1px solid #dddfe1;font-family:Open Sans">
 Ms Lee Wei Ying
 </td>
-<td style="text-align:center; border: 1px solid #dddfe1;">
+<td style="text-align:center; border: 1px solid #dddfe1;font-family:Open Sans">
 lee_wei_ying@moe.edu.sg
 </td>
 </tr>
 	
 <tr>
 <td style="text-align:center; border: 1px solid #dddfe1;">
-<strong>School Staff Developer</strong>
+<strong style="font-family:Open Sans">School Staff Developer</strong>
 </td>
-<td style="text-align:center; border: 1px solid #dddfe1;">Ms Seet Siew Lin Pamela</td>
-<td style="text-align:center; border: 1px solid #dddfe1;">seet_siew_lin_pamela@moe.edu.sg</td>
+<td style="text-align:center; border: 1px solid #dddfe1;font-family:Open Sans">Ms Seet Siew Lin Pamela</td>
+<td style="text-align:center; border: 1px solid #dddfe1;font-family:Open Sans">seet_siew_lin_pamela@moe.edu.sg</td>
 </tr>
 	
 <tr>
 <td style="text-align:center; border: 1px solid #dddfe1;">
-<strong>Year Head <br> (Lower Sec)</strong>
+<strong style="font-family:Open Sans">Year Head <br> (Lower Sec)</strong>
 </td>
-<td style="text-align:center; border: 1px solid #dddfe1;">Mdm Cheng Weiqi</td>
-<td style="text-align:center; border: 1px solid #dddfe1;">cheng_weiqi@moe.edu.sg</td>
+<td style="text-align:center; border: 1px solid #dddfe1;font-family:Open Sans">Mdm Cheng Weiqi</td>
+<td style="text-align:center; border: 1px solid #dddfe1;font-family:Open Sans">cheng_weiqi@moe.edu.sg</td>
 </tr>
 	
 <tr>
 <td style="text-align:center; border: 1px solid #dddfe1;">
-<strong>Year Head <br> (Upper Sec)</strong>
+<strong style="font-family:Open Sans">Year Head <br> (Upper Sec)</strong>
 </td>
-<td style="text-align:center; border: 1px solid #dddfe1;">Mr Kang Kok Keong Bernard</td>
-<td style="text-align:center; border: 1px solid #dddfe1;">kang_kok_keong_bernard@moe.edu.sg</td>
+<td style="text-align:center; border: 1px solid #dddfe1;font-family:Open Sans">Mr Kang Kok Keong Bernard</td>
+<td style="text-align:center; border: 1px solid #dddfe1;font-family:Open Sans">kang_kok_keong_bernard@moe.edu.sg</td>
 </tr>
 	
 <tr>
 <td style="text-align:center; border: 1px solid #dddfe1;">
-<strong>Assistant Year Head <br> (Upper Sec)</strong>
+<strong style="font-family:Open Sans">Assistant Year Head <br> (Upper Sec)</strong>
 </td>
-<td style="text-align:center; border: 1px solid #dddfe1;">Ms Yasmin Yeow</td>
-<td style="text-align:center; border: 1px solid #dddfe1;;">yeow_yasmin@moe.edu.sg</td>
+<td style="text-align:center; border: 1px solid #dddfe1;font-family:Open Sans">Ms Yasmin Yeow</td>
+<td style="text-align:center; border: 1px solid #dddfe1;font-family:Open Sans">yeow_yasmin@moe.edu.sg</td>
 </tr>
 	
 <tr>
 <td style="text-align:center; border: 1px solid #dddfe1;">
-<strong>Assistant Year Head <br> (Lower Sec)</strong>
+<strong style="font-family:Open Sans">Assistant Year Head <br> (Lower Sec)</strong>
 </td>
-<td style="text-align:center; border: 1px solid #dddfe1;">Mr Lin Yan Shan Russell</td>
-<td style="text-align:center; border: 1px solid #dddfe1;">lin_yanshan_russell@moe.edu.sg</td>
+<td style="text-align:center; border: 1px solid #dddfe1;font-family:Open Sans">Mr Lin Yan Shan Russell</td>
+<td style="text-align:center; border: 1px solid #dddfe1;font-family:Open Sans">lin_yanshan_russell@moe.edu.sg</td>
 </tr>
 	
 <tr>
-<td style="text-align:center; border: 1px solid #dddfe1;"><strong>SH PE &amp; CCA</strong></td>
-<td style="text-align:center; border: 1px solid #dddfe1;">Mr Tan Kok Kwang</td>
-<td style="text-align:center; border: 1px solid #dddfe1;">tan_kok_kwang_a@moe.edu.sg</td>
+<td style="text-align:center; border: 1px solid #dddfe1;"><strong style="font-family:Open Sans">SH PE &amp; CCA</strong></td>
+<td style="text-align:center; border: 1px solid #dddfe1;font-family:Open Sans">Mr Tan Kok Kwang</td>
+<td style="text-align:center; border: 1px solid #dddfe1;font-family:Open Sans">tan_kok_kwang_a@moe.edu.sg</td>
 </tr>
 	
 <tr>
-<td style="text-align:center; border: 1px solid #dddfe1;"><strong>SH Geography</strong></td>
-<td style="text-align:center; border: 1px solid #dddfe1;">Mrs Erin Wong</td>
-<td style="text-align:center; border: 1px solid #dddfe1;">tan_chor_yin_erin@moe.edu.sg</td>
+<td style="text-align:center; border: 1px solid #dddfe1;"><strong style="font-family:Open Sans">SH Geography</strong></td>
+<td style="text-align:center; border: 1px solid #dddfe1;font-family:Open Sans">Mrs Erin Wong</td>
+<td style="text-align:center; border: 1px solid #dddfe1;font-family:Open Sans">tan_chor_yin_erin@moe.edu.sg</td>
 </tr>
 	
 <tr>
-<td style="text-align:center; border: 1px solid #dddfe1;"><strong>SH InfoComm Technology</strong></td>
-<td style="text-align:center; border: 1px solid #dddfe1;">Mr Toh Wee Teck</td>
-<td style="text-align:center; border: 1px solid #dddfe1;">toh_wee_teck@moe.edu.sg</td>
+<td style="text-align:center; border: 1px solid #dddfe1;"><strong style="font-family:Open Sans">SH InfoComm Technology</strong></td>
+<td style="text-align:center; border: 1px solid #dddfe1;font-family:Open Sans">Mr Toh Wee Teck</td>
+<td style="text-align:center; border: 1px solid #dddfe1;font-family:Open Sans">toh_wee_teck@moe.edu.sg</td>
 </tr>
 	
 <tr>
-<td style="text-align:center; border: 1px solid #dddfe1;"><strong>SH Student Well-Being</strong></td>
-<td style="text-align:center; border: 1px solid #dddfe1;;">Mr Yang Chao Kai Victor</td>
-<td style="text-align:center; border: 1px solid #dddfe1;">yang_chao_kai_victor@moe.edu.sg</td>
+<td style="text-align:center; border: 1px solid #dddfe1;"><strong style="font-family:Open Sans">SH Student Well-Being</strong></td>
+<td style="text-align:center; border: 1px solid #dddfe1;font-family:Open Sans">Mr Yang Chao Kai Victor</td>
+<td style="text-align:center; border: 1px solid #dddfe1;font-family:Open Sans">yang_chao_kai_victor@moe.edu.sg</td>
 </tr>
 	
 <tr>
 <td style="text-align:center; border: 1px solid #dddfe1;">
-<strong>SH Innovation &amp; <br> Talent Development</strong>
+<strong style="font-family:Open Sans">SH Innovation &amp; <br> Talent Development</strong>
 </td>
-<td style="text-align:center; border: 1px solid #dddfe1;">Mrs Jaslyn Ang</td>
-<td style="text-align:center; border: 1px solid #dddfe1;">chan_huaihui_jaslyn@moe.edu.sg</td>
+<td style="text-align:center; border: 1px solid #dddfe1;font-family:Open Sans">Mrs Jaslyn Ang</td>
+<td style="text-align:center; border: 1px solid #dddfe1;font-family:Open Sans">chan_huaihui_jaslyn@moe.edu.sg</td>
 </tr>
 	
 <tr>
 <td style="text-align:center; border: 1px solid #dddfe1;">
-<strong>SH Science <br> (Lower Sec)</strong>
+<strong style="font-family:Open Sans">SH Science <br> (Lower Sec)</strong>
 </td>
-<td style="text-align:center; border: 1px solid #dddfe1;">Ms Toh May May Lisa</td>
-<td style="text-align:center; border: 1px solid #dddfe1;">-</td>
+<td style="text-align:center; border: 1px solid #dddfe1;font-family:Open Sans">Ms Toh May May Lisa</td>
+<td style="text-align:center; border: 1px solid #dddfe1;font-family:Open Sans">toh_may_may_lisa@moe.edu.sg</td>
 </tr>
 
 <tr>
 <td style="text-align:center; border: 1px solid #dddfe1;">
-<strong>SH Student Leadership</strong>
+<strong style="font-family:Open Sans">SH Student Leadership</strong>
 </td>
-<td style="text-align:center; border: 1px solid #dddfe1;">Ms Chan Xin Hui Michelle (Mrs Jonathan)</td>
-<td style="text-align:center; border: 1px solid #dddfe1;">chan_xin_hui_michelle@schools.gov.sg</td>
+<td style="text-align:center; border: 1px solid #dddfe1;font-family:Open Sans">Ms Chan Xin Hui Michelle (Mrs Jonathan)</td>
+<td style="text-align:center; border: 1px solid #dddfe1;font-family:Open Sans">chan_xin_hui_michelle@schools.gov.sg</td>
 </tr>
 		
 <tr>
 <td style="text-align:center; border: 1px solid #dddfe1;">
-<strong>SH Mathematics</strong>
+<strong style="font-family:Open Sans">SH Mathematics</strong>
 </td>
-<td style="text-align:center; border: 1px solid #dddfe1;">Mdm Oh Shu Ying Serene</td>
-<td style="text-align:center; border: 1px solid #dddfe1;">oh_shu_ying_serene@moe.edu.sg</td>
+<td style="text-align:center; border: 1px solid #dddfe1;font-family:Open Sans">Mdm Oh Shu Ying Serene</td>
+<td style="text-align:center; border: 1px solid #dddfe1;font-family:Open Sans">oh_shu_ying_serene@moe.edu.sg</td>
 </tr>
 		
 <tr>
 <td style="text-align:center; border: 1px solid #dddfe1;">
-<strong>SH Design & Technology</strong>
+<strong style="font-family:Open Sans">SH Design & Technology</strong>
 </td>
-<td style="text-align:center; border: 1px solid #dddfe1;">Mr Lim Jin Kng Emmanuel</td>
-<td style="text-align:center; border: 1px solid #dddfe1;">lim_jin_kng_emmanuel@moe.edu.sg</td>
+<td style="text-align:center; border: 1px solid #dddfe1;font-family:Open Sans">Mr Lim Jin Kng Emmanuel</td>
+<td style="text-align:center; border: 1px solid #dddfe1;font-family:Open Sans">lim_jin_kng_emmanuel@moe.edu.sg</td>
 </tr>
 	
 <tr>
-<td style="text-align:center; border: 1px solid #dddfe1;"><strong>Lead Teacher/<br>Malay Language</strong></td>
-<td style="text-align:center; border: 1px solid #dddfe1;">Mdm Rositah Binte Yusof</td>
-<td style="text-align:center; border: 1px solid #dddfe1;">rositah_yusof@moe.edu.sg</td>
+<td style="text-align:center; border: 1px solid #dddfe1;"><strong style="font-family:Open Sans">Lead Teacher/<br>Malay Language</strong></td>
+<td style="text-align:center; border: 1px solid #dddfe1;font-family:Open Sans">Mdm Rositah Binte Yusof</td>
+<td style="text-align:center; border: 1px solid #dddfe1;font-family:Open Sans">rositah_yusof@moe.edu.sg</td>
 </tr>
 	
 <tr>
-<td style="text-align:center; border: 1px solid #dddfe1;"><strong>Lead Teacher / <br> Special Educational Needs</strong></td>
-<td style="text-align:center; border: 1px solid #dddfe1;">Mr Tan Aik Fong</td>
-<td style="text-align:center; border: 1px solid #dddfe1;">tan_aik_fong@moe.edu.sg</td>
+<td style="text-align:center; border: 1px solid #dddfe1;"><strong style="font-family:Open Sans">Lead Teacher / <br> Special Educational Needs</strong></td>
+<td style="text-align:center; border: 1px solid #dddfe1;font-family:Open Sans">Mr Tan Aik Fong</td>
+<td style="text-align:center; border: 1px solid #dddfe1;font-family:Open Sans">tan_aik_fong@moe.edu.sg</td>
 </tr>
 	
 <tr>
-<td style="text-align:center; border: 1px solid #dddfe1;"><strong>Administration Manager</strong></td>
-<td style="text-align:center; border: 1px solid #dddfe1;">Ms Ong Ee Wen Engratia</td>
-<td style="text-align:center; border: 1px solid #dddfe1;">engratia_ong@moe.edu.sg</td>
+<td style="text-align:center; border: 1px solid #dddfe1;"><strong style="font-family:Open Sans">Administration Manager</strong></td>
+<td style="text-align:center; border: 1px solid #dddfe1;font-family:Open Sans">Ms Ong Ee Wen Engratia</td>
+<td style="text-align:center; border: 1px solid #dddfe1;font-family:Open Sans">engratia_ong@moe.edu.sg</td>
 </tr>
 	
 <tr>
-<td style="text-align:center; border: 1px solid #dddfe1;"><strong>Administration Manager</strong></td>
-<td style="text-align:center; border: 1px solid #dddfe1;">Ms Chan Xin Wei</td>
-	<td style="text-align:center; border: 1px solid #dddfe1;">-</td>
+<td style="text-align:center; border: 1px solid #dddfe1;"><strong style="font-family:Open Sans">Administration Manager</strong></td>
+<td style="text-align:center; border: 1px solid #dddfe1;font-family:Open Sans">Ms Chan Xin Wei</td>
+	<td style="text-align:center; border: 1px solid #dddfe1;font-family:Open Sans">chan_xin_wei_1@moe.edu.sg</td>
 </tr>
 	
 <tr>
-<td style="text-align:center; border: 1px solid #dddfe1;"><strong>Operations Manager</strong></td>
-<td style="text-align:center; border: 1px solid #dddfe1;">Mr D’cruz Terrence<br>Dominic Joseph</td>
-<td style="text-align:center; border: 1px solid #dddfe1;">dcruz_terrence_dominic_joseph@moe.edu.sg</td>
+<td style="text-align:center; border: 1px solid #dddfe1;"><strong style="font-family:Open Sans">Operations Manager</strong></td>
+<td style="text-align:center; border: 1px solid #dddfe1;font-family:Open Sans">Mr D’cruz Terrence<br>Dominic Joseph</td>
+<td style="text-align:center; border: 1px solid #dddfe1;font-family:Open Sans">dcruz_terrence_dominic_joseph@moe.edu.sg</td>
 </tr>
 	
 <tr>
-<td style="text-align:center; border: 1px solid #dddfe1;"><strong>Operations Manager <br> (Safety &amp; Security)</strong></td>
-<td style="text-align:center; border: 1px solid #dddfe1;">Mr Tam Wai Seng</td>
-<td style="text-align:center; border: 1px solid #dddfe1;">tam_wai_seng@moe.edu.sg</td>
+<td style="text-align:center; border: 1px solid #dddfe1;"><strong style="font-family:Open Sans">Operations Manager <br> (Safety &amp; Security)</strong></td>
+<td style="text-align:center; border: 1px solid #dddfe1;font-family:Open Sans">Mr Tam Wai Seng</td>
+<td style="text-align:center; border: 1px solid #dddfe1;font-family:Open Sans">tam_wai_seng@moe.edu.sg</td>
 </tr>
 	
 </tbody>
@@ -266,123 +266,121 @@ lee_wei_ying@moe.edu.sg
 </div>
 </li>
 	
-<li><input id="accordion2" type="checkbox"> <label for="accordion2">Secondary 1 Classes 2022</label>
+<li><input id="accordion2" type="checkbox"> <label for="accordion2" style="font-family:Open Sans">Secondary 1 Classes 2022</label>
 <div>
 <table style="width:100%" border="1">
-<thead style="background-color: #54585d; font-weight: bold; font-size: 16px; border: 1px solid #54585d;">
+<thead style="background-color: #54585d; font-weight: bold; font-size: 15.5px; border: 1px solid #54585d;">
 		<tr>
-			<td style="text-align:center;color:white; width:20%;">Class</td>
-			<td style="text-align:center; color:white;width:42%;">Name of Form Teacher</td>
-			<td style="text-align:center; color:white;width:38%;">Email</td>
+			<td style="text-align:center;color:white; width:20%;font-family:Open Sans">Class</td>
+			<td style="text-align:center; color:white;width:42%;font-family:Open Sans">Name of Form Teacher</td>
+			<td style="text-align:center; color:white;width:38%;font-family:Open Sans">Email</td>
 		</tr>
 	</thead>
-<tbody style="font-size:15px; line-height: 1.8;">
+<tbody style="font-size:14.5px; line-height: 1.8;">
 	
 <tr>
-		<td style="text-align:center; border: 1px solid #dddfe1;"><strong>Passion 1</strong>
+		<td style="text-align:center; border: 1px solid #dddfe1;"><strong style="font-family:Open Sans">Passion 1</strong>
 		</td>
-		<td style="text-align:center; border: 1px solid #dddfe1;">
-				Mrs Yeo-Kwok Coleen<br>
-				Mr Li Hong Jin
+		<td style="text-align:center; border: 1px solid #dddfe1;font-family:Open Sans">
+				Mr Tu Harrick Iskandar<br>
+				Miss Jovitta Christopher Pereira
 	</td>
-			<td style="text-align:center; border: 1px solid #dddfe1;">
-coleen_kwok_siew_yun@moe.edu.sg<br>
-li_hong_jin@moe.edu.sg
+			<td style="text-align:center; border: 1px solid #dddfe1;font-family:Open Sans">
+tu_harrick_iskandar@moe.edu.sg<br>
+jovitta_christopher_pereira@moe.edu.sg
 			</td>
 </tr>	
 <tr>
-<td style="text-align:center; border: 1px solid #dddfe1;"><strong>Passion 2</strong>
+<td style="text-align:center; border: 1px solid #dddfe1;"><strong style="font-family:Open Sans">Passion 2</strong>
 </td>
-<td style="text-align:center; border: 1px solid #dddfe1;">
-Mr Teo Eng Hao<br>
-Ms Nur Fateha Binte Kamsani
+<td style="text-align:center; border: 1px solid #dddfe1;font-family:Open Sans">
+Miss Shenu Binte Hamidun<br>
+Miss Koh Ting Suen Jewel
 </td>
-<td style="text-align:center; border: 1px solid #dddfe1;">
-teo_eng_hao@moe.edu.sg <br>
-	nur_fateha_kamsani@moe.edu.sg
-</td>
-</tr>
-	
-<tr>
-<td style="text-align:center; border: 1px solid #dddfe1;">
-<strong>Passion 3</strong>
-</td>
-<td style="text-align:center; border: 1px solid #dddfe1;">
-Mdm Tai Bee Chuan (Mrs Cheow)<br>
-Mr Bahtiar Bin Kassim
-</td>
-<td style="text-align:center; border: 1px solid #dddfe1;">
-tai_bee_chuan@moe.edu.sg<br>
-bahtiar_kassim@moe.edu.sg
+<td style="text-align:center; border: 1px solid #dddfe1;font-family:Open Sans">
+shenu_hamidun@moe.edu.sg <br>
+koh_ting_suen_jewel@moe.edu.sg
 </td>
 </tr>
 	
 <tr>
 <td style="text-align:center; border: 1px solid #dddfe1;">
-<strong>Passion 4</strong>
+<strong style="font-family:Open Sans">Passion 3</strong>
 </td>
-<td style="text-align:center; border: 1px solid #dddfe1;">
-Mr Koh Chong Peng<br>
-Mdm Zhong Qian
+<td style="text-align:center; border: 1px solid #dddfe1;font-family:Open Sans">
+Mdm Anna Foo Tsuey Yun<br>
+Miss Tan Hui Ping
 </td>
-<td style="text-align:center; border: 1px solid #dddfe1;">
-koh_chong_peng@moe.edu.sg<br>
-zhong_qian@moe.edu.sg
-</td>
-</tr>
-	
-<tr>
-<td style="text-align:center; border: 1px solid #dddfe1;">
-<strong>Passion 5</strong>
-</td>
-<td style="text-align:center; border: 1px solid #dddfe1;">
-Mdm Rasyidah Binte Ramli<br>
-Mr Liew Zhen Hong Joey
-</td>
-<td style="text-align:center; border: 1px solid #dddfe1;">
-rasyidah_ramli@moe.edu.sg<br>
-liew_zhen_hong_joey@moe.edu.sg
+<td style="text-align:center; border: 1px solid #dddfe1;font-family:Open Sans">
+foo_tsuey_yun@moe.edu.sg<br>
+tan_hui_ping@moe.edu.sg
 </td>
 </tr>
 	
 <tr>
 <td style="text-align:center; border: 1px solid #dddfe1;">
-<strong>Passion 6</strong>
+<strong style="font-family:Open Sans">Passion 4</strong>
 </td>
-<td style="text-align:center; border: 1px solid #dddfe1;">
-Miss Su Yiying Kristen<br>Mr Tan Tong Lun
+<td style="text-align:center; border: 1px solid #dddfe1;font-family:Open Sans">
+Mrs Hannah Zulaihah Gwynne<br>
+Miss Lim Sin Ee Rachel
 </td>
-<td style="text-align:center; border: 1px solid #dddfe1;">
-su_yi_ying@moe.edu.sg<br>
-tan_tong_lun@moe.edu.sg
-</td>
-</tr>
-	
-<tr>
-<td style="text-align:center; border: 1px solid #dddfe1;">
-<strong>Passion 7</strong>
-</td>
-<td style="text-align:center; border: 1px solid #dddfe1;">
-Miss Chan Yen Lin Charlotte<br>
-Mdm Liyana Filzah Binte Anuar
-</td>
-<td style="text-align:center; border: 1px solid #dddfe1;">
-charlotte_chan@moe.edu.sg<br>
-liyana_filzah_anuar@moe.edu.sg
+<td style="text-align:center; border: 1px solid #dddfe1;font-family:Open Sans">
+hannah_zulaihah_gwynne@moe.edu.sg<br>
+lim_sin_ee_rachel@moe.edu.sg
 </td>
 </tr>
 	
 <tr>
 <td style="text-align:center; border: 1px solid #dddfe1;">
-<strong>Passion 8</strong>
+<strong style="font-family:Open Sans">Passion 5</strong>
 </td>
-<td style="text-align:center; border: 1px solid #dddfe1;">
-Mr Mohamad Arizal Bin Ahmad<br>
-Miss Wong Ser Ching
+<td style="text-align:center; border: 1px solid #dddfe1;font-family:Open Sans">
+Miss Ong Xin Yi<br>
+Mdm Chen Peishi
 </td>
+<td style="text-align:center; border: 1px solid #dddfe1;font-family:Open Sans">
+ong_xin_yi@moe.edu.sg<br>
+chen_peishi@moe.edu.sg
+</td>
+</tr>
+	
+<tr>
 <td style="text-align:center; border: 1px solid #dddfe1;">
-mohamad_arizal_ahmad@moe.edu.sg<br>
-wong_ser_ching@moe.edu.sg
+<strong style="font-family:Open Sans">Passion 6</strong>
+</td>
+<td style="text-align:center; border: 1px solid #dddfe1;font-family:Open Sans">
+Miss Udhaya Chandhini D/O Mugilvanan<br>Mr Andrew Cheng Chang Hup
+</td>
+<td style="text-align:center; border: 1px solid #dddfe1;font-family:Open Sans">
+udhaya_chandhini_mugilvanan@moe.edu.sg<br>
+cheng_chang_hup@moe.edu.sg
+</td>
+</tr>
+	
+<tr>
+<td style="text-align:center; border: 1px solid #dddfe1;">
+<strong style="font-family:Open Sans">Passion 7</strong>
+</td>
+<td style="text-align:center; border: 1px solid #dddfe1;font-family:Open Sans">
+Mr Ng Tiong Ghee<br>
+Mr Goh Kok Soon Ronnie
+</td>
+<td style="text-align:center; border: 1px solid #dddfe1;font-family:Open Sans">
+ng_tiong_ghee@moe.edu.sg<br>
+goh_kok_soon@moe.edu.sg
+</td>
+</tr>
+	
+<tr>
+<td style="text-align:center; border: 1px solid #dddfe1;">
+<strong style="font-family:Open Sans">Passion 8</strong>
+</td>
+<td style="text-align:center; border: 1px solid #dddfe1;font-family:Open Sans">
+Mdm Lee Helen<br>
+</td>
+<td style="text-align:center; border: 1px solid #dddfe1;font-family:Open Sans">
+lee_helen_a@moe.edu.sg
 </td>
 </tr>
 	
