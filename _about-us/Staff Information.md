@@ -26,15 +26,15 @@ description: ""
 <td style="text-align:center; border: 1px solid #dddfe1;">
 <strong>Vice-Principal</strong>
 </td>
-<td style="text-align:center; border: 1px solid #dddfe1;">Mr Tan Cher Hui Philip</td>
+<td style="text-align:center; border: 1px solid #dddfe1;">Mrs Michelle Willman</td>
 		<td style="text-align:center; border: 1px solid #dddfe1;">-</td>
 </tr>
-	
+		
 <tr>
 <td style="text-align:center; border: 1px solid #dddfe1;">
 <strong>Vice-Principal</strong>
 </td>
-<td style="text-align:center; border: 1px solid #dddfe1;">Mrs Michelle Willman</td>
+<td style="text-align:center; border: 1px solid #dddfe1;">Mr Ow Weng Keong</td>
 		<td style="text-align:center; border: 1px solid #dddfe1;">-</td>
 </tr>
 	
