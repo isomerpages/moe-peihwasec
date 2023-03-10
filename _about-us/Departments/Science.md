@@ -173,12 +173,12 @@ Our Student Learning</h4>
 <p style="font-size:14.5px; line-height:2;margin:-15px 0 13px 0px;font-family:Open Sans;">Students role play as a team of medical interns in the Emergency Response Unit of Sengkang Hospital. A 66-year-old female was sent to the hospital because while on her way to the supermarket, she experienced chest pains, faintness and then she collapsed.</p>
 
 <ul style="margin-top:10px;">
-	<li style="font-size:16px;">
+	<li style="font-size:15.5px;">
  <strong style="font-family:Open Sans;">Preliminary Diagnosis</strong></li>
 <p style="font-size:14.5px; line-height:2;margin-top:-15px;font-family:Open Sans;">The team is given the patient&rsquo;s details and history, just like how it would be provided for in the hospital.</p>
 <img style="width: 100%;" src="/images/sci17.png" />
 
-<li style="font-size:16px;">
+<li style="font-size:15.5px;">
 	<strong style="font-family:Open Sans;">Medical Report Analysis</strong></li>
 <p style="font-size:14.5px; line-height:2;margin-top:-15px;font-family:Open Sans;">Students then are required to</p>
 <ol style="font-size:15px; line-height:2;margin:-15px 0 13px 0px;">
