@@ -389,28 +389,28 @@ lee_helen_a@moe.edu.sg
 </div>
 </li>
 
-<li><input id="accordion3" type="checkbox"> <label for="accordion3">Secondary 2 Classes 2022</label>
+<li><input id="accordion3" type="checkbox"> <label for="accordion3" style="font-family:Open Sans">Secondary 2 Classes 2022</label>
 <div>
 <table style="width:100%" border="1">
-<thead style="background-color: #54585d; font-weight: bold; font-size: 16px; border: 1px solid #54585d;">
+<thead style="background-color: #54585d; font-weight: bold; font-size: 15.5px; border: 1px solid #54585d;">
 		<tr>
-			<td style="text-align:center;color:white; width:20%;">Class</td>
-			<td style="text-align:center; color:white;width:42%;">Name of Form Teacher</td>
-			<td style="text-align:center; color:white;width:38%;">Email</td>
+			<td style="text-align:center;color:white; width:20%;font-family:Open Sans">Class</td>
+			<td style="text-align:center; color:white;width:42%;font-family:Open Sans;">Name of Form Teacher</td>
+			<td style="text-align:center; color:white;width:38%;font-family:Open Sans;">Email</td>
 		</tr>
 	</thead>
-<tbody style="font-size:15px; line-height: 1.8;">
+<tbody style="font-size:14.5px; line-height: 1.8;">
 <tr>
 <td style="text-align:center; border: 1px solid #dddfe1;">
-<strong>Resilience 1</strong>
+<strong style="font-family:Open Sans;">Resilience 1</strong>
 </td>
-<td style="text-align:center; border: 1px solid #dddfe1;">
-Mdm Hoong Siew Choo Jeslyn (Mrs Jeslyn Chong)<br>
-Mr Lai Mun Chun
+<td style="text-align:center; border: 1px solid #dddfe1;font-family:Open Sans;">
+Mrs Yeo-Kwok Coleen<br>
+Mr Li Hong Jin
 </td>
-<td style="text-align:center; border: 1px solid #dddfe1;">
-jeslyn_hoong_siew_choo@moe.edu.sg<br>
-lai_mun_chun@moe.edu.sg
+<td style="text-align:center; border: 1px solid #dddfe1;font-family:Open Sans;">
+coleen_kwok_siew_yun@moe.edu.sg<br>
+li_hong_jin@moe.edu.sg
 </td>
 </tr>
 	
