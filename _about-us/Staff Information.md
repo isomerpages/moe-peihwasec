@@ -758,43 +758,41 @@ kenneth_yeo_wei_qiang@moe.edu.sg
 	
 <tr>
 <td style="text-align:center; border: 1px solid #dddfe1;">
-<strong>Diligence 7</strong>
+<strong style="font-family:Open Sans;">Diligence 7</strong>
 </td>
-<td style="text-align:center; border: 1px solid #dddfe1;">
-Mdm Lee Helen<br>
-Miss Lee Ya Yu
+<td style="text-align:center; border: 1px solid #dddfe1;font-family:Open Sans;">
+Miss Nordiana Bte Abbas<br>
+Mr Yang Chuanzhi
 </td>
-<td style="text-align:center; border: 1px solid #dddfe1;">
-lee_helen_a@moe.edu.sg<br>
-lee_ya_yu@moe.edu.sg
-</td>
-</tr>
-		
-<tr>
-<td style="text-align:center; border: 1px solid #dddfe1;">
-<strong>Diligence 8</strong>
-</td>
-<td style="text-align:center; border: 1px solid #dddfe1;">
-Miss Ong Xin Yi<br>
-Miss Lim Sin Ee Rachel
-</td>
-<td style="text-align:center; border: 1px solid #dddfe1;">
-ong_xin_yi@moe.edu.sg<br>
-lim_sin_ee_rachel@moe.edu.sg
+<td style="text-align:center; border: 1px solid #dddfe1;font-family:Open Sans;">
+nordiana_abbas@moe.edu.sg<br>
+yang_chuanzhi@moe.edu.sg
 </td>
 </tr>
 		
 <tr>
 <td style="text-align:center; border: 1px solid #dddfe1;">
-<strong>Excellence 1</strong>
+<strong style="font-family:Open Sans;">Diligence 8</strong>
 </td>
-<td style="text-align:center; border: 1px solid #dddfe1;">
-Miss Lim Guat Hong<br>
-Miss Zhang Chuyi
+<td style="text-align:center; border: 1px solid #dddfe1;font-family:Open Sans;">
+Mrs Kamini Lam<br>
+Miss Tang Wai Sim Wendy
 </td>
+<td style="text-align:center; border: 1px solid #dddfe1;font-family:Open Sans;">
+kamini_lam@moe.edu.sg<br>
+tang_wai_sim_wendy@moe.edu.sg
+</td>
+</tr>
+		
+<tr>
 <td style="text-align:center; border: 1px solid #dddfe1;">
+<strong style="font-family:Open Sans;">Excellence 1</strong>
+</td>
+<td style="text-align:center; border: 1px solid #dddfe1; font-family:Open Sans;">
+Mr Lim Guat Hong<br>
+</td>
+<td style="text-align:center; border: 1px solid #dddfe1;font-family:Open Sans;">
 lim_guat_hong@moe.edu.sg<br>
-zhang_chuyi@moe.edu.sg
 </td>
 </tr>
 	
