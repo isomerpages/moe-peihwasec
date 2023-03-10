@@ -719,12 +719,12 @@ nurull_dzarifa_othman_z@moe.edu.sg
 <strong style="font-family:Open Sans;">Diligence 4</strong>
 </td>
 <td style="text-align:center; border: 1px solid #dddfe1;font-family:Open Sans;">
-Ms Teo Shi Hui Joanne<br>
-Mr Ng Tiong Ghee
+Mr Huang Weiqiang<br>
+Mdm Afizah Binte Shaik Abdul Rahim
 </td>
 <td style="text-align:center; border: 1px solid #dddfe1;font-family:Open Sans;">
-teo_shi_hui_joanne@moe.edu.sg<br>
-ng_tiong_ghee@moe.edu.sg
+huang_weiqiang@moe.edu.sg<br>
+afizah_shaik_abdul_rahim@moe.edu.sg
 </td>
 </tr>
 		
