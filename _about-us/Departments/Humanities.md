@@ -4,34 +4,34 @@ permalink: /about-us/departments/humanities/
 description: ""
 third_nav_title: Departments
 ---
-<h4 style="color:#635f1a;font-weight:bold">Our Goals</h4>
+<h4 style="color:#635f1a;font-weight:bold;font-family:Open Sans;">Our Goals</h4>
 <p style="font-size:14.5px; line-height:2;margin-top:15px; font-family:Open Sans">Through Geography, History and Social Studies, we endeavour to inculcate in students a concern for the environment, an appreciation for the past and an understanding of the present by preparing them to be active citizens of the future with sound values.</p>
 <p style="font-size:14.5px; line-height:2;margin-top:15px;font-family:Open Sans;">We aim to develop students who possess empathy and critical thinking skills and are self-directed in taking ownership of their learning. These skills would be inculcated to them through our lessons that adopt an inquiry-based learning, experiential learning, discussion-based strategies and assessment literacy strategies.</p>
 
 
 
-<h4 style="color:#635f1a;font-weight:bold">Our Programmes</h4>
+<h4 style="color:#635f1a;font-weight:bold;font-family:Open Sans;">Our Programmes</h4>
 <p style="font-size:14.5px; line-height:2;margin-top:15px; font-family:Open Sans">Across our Departments, we have various programmes that have allowed students to explore their learning for the Humanities through inquiry-based and experiential learning.</p>
 
-<p style="margin-top:15px;font-size:17px;"><strong>Geography Investigation</strong></p>
+<p style="margin-top:15px;font-size:15.5px;"><strong style="font-family:Open Sans;">Geography Investigation</strong></p>
 <img style="width: 100%;" src="/images/human1.png" />
 
-<p style="margin-top:15px;font-size:17px;"><strong>Issues Investigation</strong></p>
+<p style="margin-top:15px;font-size:15.5px;"><strong style="font-family:Open Sans;">Issues Investigation</strong></p>
 <img style="width: 100%;" src="/images/human2.png" />
 
-<p style="margin-top:15px;font-size:17px;"><strong>Humanities Competitions</strong></p>
+<p style="margin-top:15px;font-size:15.5px;"><strong style="font-family:Open Sans;">Humanities Competitions</strong></p>
 <img style="width: 100%;" src="/images/human3.jpg" />
 
-<p style="margin-top:15px;font-size:17px;"><strong>MOE History Challenge 2020</strong> </p>
+<p style="margin-top:15px;font-size:15.5px;"><strong style="font-family:Open Sans;">MOE History Challenge 2020</strong> </p>
 <p style="font-size:14.5px; line-height:2;margin:-15px 0 13px 0px;font-family:Open Sans;">Our young Historians putting their historical skills to the test.</p>
 <img style="width: 100%;" src="/images/human4.png" />
 <img style="width: 100%;" src="/images/human5.png" />
 
-<p style="margin-top:15px;font-size:17px;"><strong>NUS Geography Challenge 2020</strong></p> 
+<p style="margin-top:15px;font-size:15.5px;"><strong style="font-family:Open Sans;">NUS Geography Challenge 2020</strong></p> 
 <p style="font-size:14.5px; line-height:2;margin:-15px 0 13px 0px;font-family:Open Sans;">Our budding Geographers crafted an infographic in their part to contribute sustainable living habits in fashion.</p>
 <p style="font-size:14.5px; line-height:2;margin-top:15px;font-family:Open Sans;">Having garnered the most likes for their Infographic, the team was awarded the Honoraray Award in the Creative Component. Individually, Chaw Qi Xuan of 4E1 was awarded the Bronze Award and Lim Zi An, Theodore of 4E3 was awarded the Silver Award.</p>
 
-<p style="margin-top:15px;font-size:17px;"><strong>Home-based Learning (HBL) History Lesson</strong></p>
+<p style="margin-top:15px;font-size:15.5px;"><strong style="font-family:Open Sans;">Home-based Learning (HBL) History Lesson</strong></p>
 <p style="font-size:14.5px; line-height:2;margin:-15px 0 13px 0px;font-family:Open Sans;">The advances of technology has provided us with so many interesting learning platforms! With full HBL, our History teachers leveraged the learning opportunity and used Google earth to teach how the opening of Suez Canal led to mass migration in the 19th century.</p>
 
 <img style="width: 100%;" src="/images/human6.jpg" /><br>
