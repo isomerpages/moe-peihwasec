@@ -4,18 +4,18 @@ permalink: /about-us/departments/science/
 description: ""
 third_nav_title: Departments
 ---
-<h4 style="color:#635f1a;font-weight:bold">
+<h4 style="color:#635f1a;font-weight:bold;font-family:Open Sans;">
 Our Goals</h4>
 <p style="font-size:14.5px; line-height:2;margin-top:15px; font-family:Open Sans;">We endeavor to develop students into inquisitive and keen learners of the Sciences and the natural world and to enable them to view the pursuit of science as meaningful and useful. In alignment to the Science Curriculum Framework, we aim to prepare our students to be sufficiently adept as effective citizens, able to function in, make informed decisions and to contribute to an increasingly technologically-driven world.</p>
 <p style="font-size:14.5px; line-height:2;margin-top:15px;font-family:Open Sans;">In the Science department, teaching strategy such as collaborative learning is deployed to nurture students into self-directed learners. Science lessons are inquiry in nature and the teachers of Sciences facilitate and role model the inquiry process in the classrooms. In the teaching and learning of the Sciences, understanding of scientific content, knowledge and skills is reinforced and enhanced through experiential learning such as practical sessions as well as beyond the classroom experiences though enrichment programs.</p>
 
 
 
-<h4 style="color:#635f1a;font-weight:bold">Our Programmes</h4>
+<h4 style="color:#635f1a;font-weight:bold;font-family:Open Sans;">Our Programmes</h4>
 <p style="font-size:14.5px; line-height:2;margin-top:15px; font-family:Open Sans;">The Science Department seeks to provide meaningful learning experiences for students through various enrichment programs and competitions to provide students with the opportunity to learn science outside of the classrooms. Through partnership with external organisations, students are exposed to science and technologies it entails beyond the textbooks. By participating in competitions, we can nurture a greater passion for science in our students.</p>
 
-<p style="margin-top:15px;font-size:17px;"><strong>Enrichment Programmes</strong></p>
-<p style="font-size:15.5px; line-height:2;margin:-10px 0 13px 0px;font-family:Open Sans;"><strong><em>Chemical Powered Car</em></strong></p>
+<p style="margin-top:15px;font-size:15.5px;"><strong style="font-family:Open Sans;">Enrichment Programmes</strong></p>
+<p style="font-size:15px; line-height:2;margin:-10px 0 13px 0px;font-family:Open Sans;"><strong style="font-family:Open Sans;><em ">Chemical Powered Car</em></strong></p>
 
 <p style="font-size:14.5px; line-height:2;margin:-15px 0 13px 0px;font-family:Open Sans;">Students designed and created chemically powered cars out of everyday normal plastic bottles and the cars were propelled forward by a non-toxic chemical reaction. Examples of such reactions include baking soda mixed with vinegar.</p>
 
@@ -31,7 +31,7 @@ Our Goals</h4>
 </div>
 <br>
 
-<p style="font-size:15.5px; line-height:2;margin:-15px 0 13px 0px;font-family:Open Sans;"><strong><em>Fun With Electronics Workshop at Science Center</em></strong></p>
+<p style="font-size:15.5px; line-height:2;margin:-15px 0 13px 0px;font-family:Open Sans;"><strong style="font-family:Open Sans;"><em style="font-family:Open Sans;">Fun With Electronics Workshop at Science Center</em></strong></p>
 
 <p style="font-size:14.5px; line-height:2;margin:-15px 0 13px 0px;font-family:Open Sans;">Students attended a workshop in Science Center. They were introduced to several basic electronic components (resistors, LEDs, capacitors, transistors) and were given the opportunity to build electronic circuits utilising their properties on a breadboard (prototyping board).</p>
 
