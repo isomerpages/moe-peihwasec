@@ -28,7 +28,7 @@ third_nav_title: Clubs & Societies
 	
 <tbody>
 	
-<tr style="background-color: #f3f3f3;">
+<tr>
 <td style="font-size:14.5px;"><strong style="font-family:Open Sans;">2021</strong></td>
 <td style="font-size:15px;"><strong style="font-family:Open Sans;">NKF Schools Postcard Design Contest</strong>
 <br>
@@ -36,12 +36,20 @@ third_nav_title: Clubs & Societies
 <li style="font-size:14.5px;font-family:Open Sans;">Draw My Stamp Story’ Art Competition – Nahilus Ng received a Bronze prize for his mixed media illustration in ‘Draw My Stamp Story’ Art Competition. The competition, organised by the Singapore Philatelic Museum required participants to use local stamps as a starting point to create an artwork.</li>
 	<li style="font-size:14.5px;font-family:Open Sans;">2021 ‘Feed My Trashemon’ – Nantres Ng’s design for ‘Feed My Trashemon’ was organised by Public Health Council (PHC) in collaboration with MOE’s CCE Branch secured 8th place in the Top 10 designs.  The competition aimed at raising awareness on environmental issues.</li>
 	<li style="font-size:14.5px;font-family:Open Sans;"><a href="https://www.syf.gov.sg/art-exhibition/about-the-2022-art-exhibition">Singapore Youth Festival 2022 Art Exhibition: Artist and Sustainability</a> – Two of PHAC’s works were exhibited at this year’s ‘Artist and Sustainability’ SYF exhibition at the National Museum. The artworks are by Adlina Binte Mohammed Izad from the lower secondary category and Clara Lum, Chloe Liao and Tan Xiu Ru from the upper secondary.</li>
-	<img style="width:60%; height:auto;" src="/images/phac1.jpg">
-<p style="font-size:11px; text-align:center; margin:5px;font-family:Open Sans;"> Painting Your Future, Digital Illustration By Jesserel Ong</p>
+	<div class="row" style="box-sizing: border-box;width:100%;"> 
+		<div class="column" style="box-sizing: border-box;  float: left; width: 50%; padding: 10px;">
+  			<img src="/images/PHAC-202101.jpeg" style="width:100%; margin-top: 12px;">
+			  			<img src="/images/PHAC-202102.jpeg" style="width:100%; margin-top: 12px;">
+  		</div>
+  		<div class="column" style="box-sizing: border-box;  float: left;width: 50%;padding: 10px;">
+	<img src="/images/PHAC-202103.jpeg" style="width:100%; margin-top: 12px;">
+			<img src="/images/PHAC-202104.jpeg" style="width:100%; margin-top: 12px;">
+		</div>  
+  	</div>	
 </ul>
 	</td>
 </tr>
-<tr>
+<tr style="background-color: #f3f3f3;">
 <td><strong style="font-size:14.5px; font-family:Open Sans;">2020</strong></td>
 <td style="font-size:14.5px; margin-bottom:5px;"><strong style="font-family:Open Sans;">Live On Design Competition ‘From Fears to Dreams’ &amp; ‘A New Beginning’</strong>
 <br>
@@ -54,14 +62,14 @@ third_nav_title: Clubs & Societies
 </td>
 </tr>
 														
-<tr style="background-color: #f3f3f3;border-bottom: 2px solid #009879;">
+<tr style="border-bottom: 2px solid #009879;">
 <td style="font-size:14.5px;"><strong style="font-family:Open Sans;">2018</strong></td>
-<td style="font-size:15px;"><strong>NKF Schools Postcard Design Contest</strong>
+<td style="font-size:15px;"><strong style="font-family:Open Sans;">NKF Schools Postcard Design Contest</strong>
 <br>
 <ul> 
-<li style="font-size:15px;"> ‘Start the day with a glass of water’ First Prize, Youth Category to Kelly Teo</li>
+<li style="font-size:15px; font-family:Open Sans;"> ‘Start the day with a glass of water’ First Prize, Youth Category to Kelly Teo</li>
 <img style="width:60%; height:auto;" src="/images/phac2.jpg">
-<p style="font-size:13px;text-align:center; margin:5px;"> ‘Start the day with a glass of water’ By Kelly Teo</p>
+<p style="font-size:11px;text-align:center; margin:5px;font-family:Open Sans;"> ‘Start the day with a glass of water’ By Kelly Teo</p>
 </ul>
 	</td>
 </tr>
@@ -69,7 +77,7 @@ third_nav_title: Clubs & Societies
 </table>
 
 
-<h4 style="color:#635f1a;font-weight:bold">Competitions and CCA Activities</h4>
+<h4 style="color:#635f1a;font-weight:bold;font-family:Open Sans;">Competitions and CCA Activities</h4>
 <p style="font-size:14.5px; line-height:2;margin-top:15px; font-family:Open Sans">PHAC tries to strike a balance between learning new skills, taking part in competitions, supporting school events and in giving back to the community. Our recent participation was ‘Draw My Stamp Story Art Competition’ organised by Singapore Philatelic Museum (SPM) to help students understand and appreciate the importance of designs reflected on our Singapore stamps. Previously, we also took part in the Live On Design Competition which included a Values in Action segment for students to be able to have an insight into the lives of patients and donors. We also put our artistic skills to good use by creating silkscreen designs on tote bags as part of our CCA’s efforts in raising funds for our school’s adopted voluntary welfare organisations during Community Day 2019. When we are not busy taking part in competitions, we have fun going on learning journeys and camps to recharge and learn new skills.</p>
 <ul style="font-size:15px; margin-top:-5px;">
 	<li  style="font-size:14.5px; line-height:2;font-family:Open Sans;">2021 Draw My Stamp Story Art Competition</li>
@@ -97,7 +105,7 @@ third_nav_title: Clubs & Societies
 <img src="/images/phac3.png">
 
 
-<h4 style="color:#635f1a;font-weight:bold;margin-bottom:25px;">Student Testament</h4>
+<h4 style="color:#635f1a;font-weight:bold;margin-bottom:25px;font-family:Open Sans;">Student Testament</h4>
 
 <blockquote style="font-size: 15px;
   width:100%;
@@ -131,26 +139,26 @@ third_nav_title: Clubs & Societies
 </blockquote>
 
 
-<h4 style="color:#635f1a;font-weight:bold">CCA Details</h4>
+<h4 style="color:#635f1a;font-weight:bold;font-family:Open Sans;">CCA Details</h4>
 <table border="1" style="width:100%;">
 	<tbody>
 		<tr>
-			<td style="background-color: #54585d; font-weight: bold; font-size: 15px; border: 1px solid #54585d; color:white;border-bottom: 1px solid #dddddd; width:24%">Teacher-In-Charge</td>
-			<td style="border: 1px solid #dddfe1;font-size: 15px;">Miss Shenu Binte Hamidun</td>
+			<td style="background-color: #54585d; font-weight: bold; font-size: 14.5px; border: 1px solid #54585d; color:white;border-bottom: 1px solid #dddddd; width:24%;font-family:Open Sans;">Teacher-In-Charge</td>
+			<td style="border: 1px solid #dddfe1;font-size: 14.5px;font-family:Open Sans; ">Miss Shenu Binte Hamidun</td>
 		</tr>
 
 <tr>
-			<td style="background-color: #54585d; font-weight: bold; font-size: 15px; border: 1px solid #54585d;border-bottom: 1px solid #dddddd; color:white;">CCA Teacher(s)</td>
-			<td style="border: 1px solid #dddfe1;font-size: 15px;">Mrs Gillian Lee<br>Mdm Seveeneshwary d/o Rajarethinam</td>
+			<td style="background-color: #54585d; font-weight: bold; font-size: 14.5px; border: 1px solid #54585d;border-bottom: 1px solid #dddddd; color:white;font-family:Open Sans;">CCA Teacher(s)</td>
+			<td style="border: 1px solid #dddfe1;font-size: 14.5px;font-family:Open Sans;">Mrs Gillian Lee<br>Mdm Seveeneshwary d/o Rajarethinam</td>
 		</tr>
 
 <tr>
-			<td style="background-color: #54585d; font-weight: bold; font-size: 15px; border: 1px solid #54585d; color:white;border-bottom: 1px solid #dddddd;">CCA Schedule</td>
-			<td style="border: 1px solid #dddfe1;font-size: 15px;">Friday 2.30pm - 6.00pm</td>
+			<td style="background-color: #54585d; font-weight: bold; font-size: 14.5px; border: 1px solid #54585d; color:white;border-bottom: 1px solid #dddddd;font-family:Open Sans;">CCA Schedule</td>
+			<td style="border: 1px solid #dddfe1;font-size: 14.5px;font-family:Open Sans;">Friday 2.30pm - 6.00pm</td>
 		</tr>
 		
 <tr>
-			<td style="background-color: #54585d; font-weight: bold; font-size: 15px; border: 1px solid #54585d; color:white;">Venues</td>
+			<td style="background-color: #54585d; font-weight: bold; font-size: 14.5px; border: 1px solid #54585d; color:white;font-family:Open Sans;">Venues</td>
 			<td style="border: 1px solid #dddfe1;font-size: 15px;">Art Studio 1 & 2</td>
 		</tr>
 		
