@@ -690,13 +690,13 @@ tan_aik_fong@moe.edu.sg
 <td style="text-align:center; border: 1px solid #dddfe1;">
 <strong style="font-family:Open Sans;">Diligence 2</strong>
 </td>
-<td style="text-align:center; border: 1px solid #dddfe1;">
-Miss N<br>
-Mrs Hannah Zulaihah Gwynne
+<td style="text-align:center; border: 1px solid #dddfe1;font-family:Open Sans;">
+Miss Nur Syairah Bte Azahari<br>
+Miss Oh Yi Qi Dora
 </td>
-<td style="text-align:center; border: 1px solid #dddfe1;">
-lin_airong_michelle@moe.edu.sg<br>
-hannah_zulaihah_gwynne@moe.edu.sg
+<td style="text-align:center; border: 1px solid #dddfe1;font-family:Open Sans;">
+nur_syairah_azahari@moe.edu.sg<br>
+oh_yi_qi_dora@moe.edu.sg
 </td>
 </tr>
 		
