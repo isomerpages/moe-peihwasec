@@ -40,16 +40,16 @@ Framework for 21<sup>st</sup>&nbsp;Century Competencies and Student Outcome</h4>
 
 <img style="width: 50%;" src="/images/frameworkICT.jpg" />
 
-<p style="2;margin-top:15px;font-size:14.5px; line-height:font-family:Open Sans;">MOE has identified competencies that have become increasingly important in the 21st Century. These competencies, represented in the following framework, underpin the holistic education that our schools provide to better prepare our students for the future. With the use of technology, the students adopt various methodologies and approaches in their learning. For example, students carry out inquisitive learning skills and problem-solving skills through the use of educational technology.</p>
+<p style="2;margin-top:15px;font-size:14.5px; line-height:2;font-family:Open Sans;">MOE has identified competencies that have become increasingly important in the 21st Century. These competencies, represented in the following framework, underpin the holistic education that our schools provide to better prepare our students for the future. With the use of technology, the students adopt various methodologies and approaches in their learning. For example, students carry out inquisitive learning skills and problem-solving skills through the use of educational technology.</p>
 
-<p style="2;margin-top:15px;font-size:14.5px; line-height:font-family:Open Sans;">Pei Hwa Secondary aligns all our academic and non-academic programs according to 21st century competencies, our school have carried out short ICT courses for the pupils to ensure that they meet these standards. Click here for more information:&nbsp;<a href="/programmes/ict-enrichment/">Baseline ICT Standards for Secondary Students</a></p>
+<p style="2;margin-top:15px;font-size:14.5px; line-height:2;font-family:Open Sans;">Pei Hwa Secondary aligns all our academic and non-academic programs according to 21st century competencies, our school have carried out short ICT courses for the pupils to ensure that they meet these standards. Click here for more information:&nbsp;<a href="/programmes/ict-enrichment/">Baseline ICT Standards for Secondary Students</a></p>
 
-<p style="2;margin-top:15px;font-size:14.5px; line-height:font-family:Open Sans;">We aim to equip our students with necessary competencies and attitudes, so that they become a self-directed, confident learner, and at the same time an active contributor and concerned citizen of Singapore. Together, these competencies will enable our young to capitalise on the rich opportunities of the new digital age, while keeping a strong Singapore heartbeat.</p>
+<p style="2;margin-top:15px;font-size:14.5px; line-height:2;font-family:Open Sans;">We aim to equip our students with necessary competencies and attitudes, so that they become a self-directed, confident learner, and at the same time an active contributor and concerned citizen of Singapore. Together, these competencies will enable our young to capitalise on the rich opportunities of the new digital age, while keeping a strong Singapore heartbeat.</p>
 
 
 <h4 style="color:#635f1a;font-weight:bold;font-family:Open Sans;">
 Related Links</h4>
 
 <ol style="margin-top:5px;">
-<li  style="font-size:14.5px; line-height:2;margin-left:17px;font-family:Open Sans;"><a href="/pld-faqs/">PLD FAQs</a></li>
+<li style="font-size:14.5px; line-height:2;margin-left:17px;font-family:Open Sans;"><a href="/pld-faqs/">PLD FAQs</a></li>
 </ol>
