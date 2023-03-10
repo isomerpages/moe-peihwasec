@@ -730,29 +730,29 @@ afizah_shaik_abdul_rahim@moe.edu.sg
 		
 <tr>
 <td style="text-align:center; border: 1px solid #dddfe1;">
-<strong>Diligence 5</strong>
+<strong style="font-family:Open Sans;">Diligence 5</strong>
 </td>
-<td style="text-align:center; border: 1px solid #dddfe1;">
-Mdm Lu Yitong<br>
-Mrs Tan Pan Ying Ranice
+<td style="text-align:center; border: 1px solid #dddfe1;font-family:Open Sans;">
+Mr Neo Peck Wee Joel <br>Ms Ari Sutanti Bte Haji Mispan
+
 </td>
-<td style="text-align:center; border: 1px solid #dddfe1;">
-lu_yitong@smoe.edu.sg<br>
-tan_pan_ying_ranice@moe.edu.sg
+<td style="text-align:center; border: 1px solid #dddfe1;font-family:Open Sans;">
+neo_peck_wee_joel@moe.edu.sg<br>
+ari_sutanti_haji_mispan@moe.edu.sg
 </td>
 </tr>
 		
 <tr>
 <td style="text-align:center; border: 1px solid #dddfe1;">
-<strong>Diligence 6</strong>
+<strong style="font-family:Open Sans;">Diligence 6</strong>
 </td>
-<td style="text-align:center; border: 1px solid #dddfe1;">
-Mr Ng Pit Shen Nicholas<br>
-Mdm Wong Ping Fang Claire
+<td style="text-align:center; border: 1px solid #dddfe1;font-family:Open Sans;">
+Ms Shangeetha Devi D/O Panesilvam<br>
+Mr Yeo Wei Qiang Kenneth
 </td>
-<td style="text-align:center; border: 1px solid #dddfe1;">
-ng_pit_shen@moe.edu.sg<br>
-wong_ping_fang@moe.edu.sg
+<td style="text-align:center; border: 1px solid #dddfe1;font-family:Open Sans;">
+shangeetha_devi_panesilvam@moe.edu.sg<br>
+kenneth_yeo_wei_qiang@moe.edu.sg
 </td>
 </tr>
 	
