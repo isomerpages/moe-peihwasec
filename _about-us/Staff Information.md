@@ -702,27 +702,27 @@ oh_yi_qi_dora@moe.edu.sg
 		
 <tr>
 <td style="text-align:center; border: 1px solid #dddfe1;">
-<strong>Diligence 3</strong>
+<strong style="font-family:Open Sans;">Diligence 3</strong>
 </td>
-<td style="text-align:center; border: 1px solid #dddfe1;">
-Mr Foo Chang Yong John<br>
-Ms Yasmin Yeow
+<td style="text-align:center; border: 1px solid #dddfe1;font-family:Open Sans;">
+Mdm Ong Bee Bee<br>
+Mdm Nurull Dzarifa Bte Othman Z
 </td>
-<td style="text-align:center; border: 1px solid #dddfe1;">
-foo_chang_yong_john@moe.edu.sg<br>
-yeow_yasmin@moe.edu.sg
+<td style="text-align:center; border: 1px solid #dddfe1;font-family:Open Sans;">
+ong_bee_bee@moe.edu.sg<br>
+nurull_dzarifa_othman_z@moe.edu.sg
 </td>
 </tr>
 		
 <tr>
 <td style="text-align:center; border: 1px solid #dddfe1;">
-<strong>Diligence 4</strong>
+<strong style="font-family:Open Sans;">Diligence 4</strong>
 </td>
-<td style="text-align:center; border: 1px solid #dddfe1;">
+<td style="text-align:center; border: 1px solid #dddfe1;font-family:Open Sans;">
 Ms Teo Shi Hui Joanne<br>
 Mr Ng Tiong Ghee
 </td>
-<td style="text-align:center; border: 1px solid #dddfe1;">
+<td style="text-align:center; border: 1px solid #dddfe1;font-family:Open Sans;">
 teo_shi_hui_joanne@moe.edu.sg<br>
 ng_tiong_ghee@moe.edu.sg
 </td>
