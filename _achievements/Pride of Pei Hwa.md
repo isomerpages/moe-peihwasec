@@ -3,7 +3,7 @@ title: Pride of Pei Hwa
 permalink: /news-media/pride-of-pei-hwa/
 description: ""
 ---
-<h5 style="color:#635f1a;font-weight:bold">Graduates of Republic Polytechnic 2020</h5>
+<h5 style="color:#635f1a;font-weight:bold;font-family:Open Sans;">Graduates of Republic Polytechnic 2020</h5>
 <p style="font-size:14.5px; line-height:2;margin-top:15px; font-family:Open Sans">
 Congratulations to our&nbsp;former students who has excelled academically at Republic Polytechnic in 2020</p>
 
@@ -12,7 +12,7 @@ Congratulations to our&nbsp;former students who has excelled academically at Rep
 		
 <tr>
 <td style="font-size:14.5px; line-height:2;font-family:Open Sans;width:10%;">Name</td>
-<td style="font-size:14.5px; line-height:2;font-family:Open Sans;">: <strong>Kaelyn Lim</strong></td>
+<td style="font-size:14.5px; line-height:2;font-family:Open Sans;">: <strong style="font-family:Open Sans;">Kaelyn Lim</strong></td>
 </tr>
 	
 <tr>
@@ -30,19 +30,19 @@ Congratulations to our&nbsp;former students who has excelled academically at Rep
 </table>
 
 
-<h5 style="color:#635f1a;font-weight:bold">Graduates of Anderson Serangoon Junior College 2020</h5>
+<h5 style="color:#635f1a;font-weight:bold;font-family:Open Sans;">Graduates of Anderson Serangoon Junior College 2020</h5>
 <p style="font-size:14.5px; line-height:2;margin-top:15px; font-family:Open Sans">
 Congratulations to our&nbsp;former students who has excelled academically at Anderson Serangoon Junior College in 2020</p>
 <img src="/images/pride1.jpg" style="width:70%;margin:0px;">
 
 
-<h5 style="color:#635f1a;font-weight:bold">Singapore Polytechnic Scholarship (Engineering)</h5>
+<h5 style="color:#635f1a;font-weight:bold;font-family:Open Sans;">Singapore Polytechnic Scholarship (Engineering)</h5>
 <p style="font-size:14.5px; line-height:2;margin-top:15px; font-family:Open Sans">
 Our former student, Gan Ching Heng, was awarded the Singapore Polytechnic Engineering Scholarship this year.</p>
 <img style="width:70%;margin:0px;" src="/images/pride2.jpg"/>
 
 
-<h5 style="color:#635f1a;font-weight:bold">Graduate of St Andrew&rsquo;s Junior College 2020</h5>
+<h5 style="color:#635f1a;font-weight:bold;font-family:Open Sans;">Graduate of St Andrew&rsquo;s Junior College 2020</h5>
 <p style="font-size:14.5px; line-height:2;margin-top:15px; font-family:Open Sans">
 Congratulations to our&nbsp;former student who has excelled academically at St Andrew&rsquo;s Junior College in 2020</p>
 <img style="width:70%;margin:0px;" src="/images/pride3.png" >
@@ -52,7 +52,7 @@ Congratulations to our&nbsp;former student who has excelled academically at St A
 <tbody>
 <tr>
 <td style="font-size:14.5px; line-height:2;font-family:Open Sans;width:10%;">Name</td>
-<td style="font-size:14.5px; line-height:2;font-family:Open Sans;">: <strong>Theodore Chow Sheng Kai</strong></td>
+<td style="font-size:14.5px; line-height:2;font-family:Open Sans;">: <strong style="font-family:Open Sans;">Theodore Chow Sheng Kai</strong></td>
 </tr>
 	
 <tr>
@@ -69,7 +69,7 @@ Congratulations to our&nbsp;former student who has excelled academically at St A
 </tbody>
 </table>
 
-<h5 style="color:#635f1a;font-weight:bold">Ngee Ann Polytechnic Graduation 2020</h5>
+<h5 style="color:#635f1a;font-weight:bold;font-family:Open Sans;">Ngee Ann Polytechnic Graduation 2020</h5>
 <p style="font-size:14.5px; line-height:2;margin-top:15px; font-family:Open Sans">
 Congratulations to our&nbsp;former students who have excelled academically at Ngee Ann Polytechnic and graduated in May 2020.</p>
 
@@ -79,7 +79,7 @@ Congratulations to our&nbsp;former students who have excelled academically at Ng
 <tr>
 <td style="font-size:14.5px; line-height:2;font-family:Open Sans;width:10%;">Name</td>
 <td style="font-size:14.5px; line-height:2;font-family:Open Sans;">
-: <strong>Alicia Wee Yu Xuan</strong></td>
+: <strong style="font-family:Open Sans;">Alicia Wee Yu Xuan</strong></td>
 </tr>
 	
 <tr>
@@ -101,7 +101,7 @@ Congratulations to our&nbsp;former students who have excelled academically at Ng
 		
 <tr>
 <td style="font-size:14.5px; line-height:2;font-family:Open Sans;width:10%;">Name</td>
-<td style="font-size:14.5px; line-height:2;font-family:Open Sans;">: <strong>Yeap Hui Ming, Crystal</strong></td>
+<td style="font-size:14.5px; line-height:2;font-family:Open Sans;">: <strong style="font-family:Open Sans;">Yeap Hui Ming, Crystal</strong></td>
 </tr>
 	
 <tr>
@@ -122,7 +122,7 @@ Congratulations to our&nbsp;former students who have excelled academically at Ng
 		
 <tr>
 <td style="font-size:14.5px; line-height:2;font-family:Open Sans;width:10%;">Name</td>
-<td style="font-size:14.5px; line-height:2;font-family:Open Sans;">: <strong>Ng Lyn Ni</strong></td>
+<td style="font-size:14.5px; line-height:2;font-family:Open Sans;">: <strong style="font-family:Open Sans;">Ng Lyn Ni</strong></td>
 </tr>
 	
 <tr>
@@ -139,7 +139,7 @@ Congratulations to our&nbsp;former students who have excelled academically at Ng
 </table>
 
 
-<h5 style="color:#635f1a;font-weight:bold">Temasek Polytechnic Graduation 2020</h5>
+<h5 style="color:#635f1a;font-weight:bold; font-family:Open Sans;">Temasek Polytechnic Graduation 2020</h5>
 
 <p style="font-size:14.5px; line-height:2;margin-top:15px; font-family:Open Sans">
 Congratulations to our&nbsp;former students who have excelled academically at Temasek Polytechnic and graduated in May 2020.</p>
@@ -149,7 +149,7 @@ Congratulations to our&nbsp;former students who have excelled academically at Te
 		
 <tr>
 <td style="font-size:14.5px; line-height:2;font-family:Open Sans; width:10%;">Name</td>
-<td style="font-size:14.5px; line-height:2;font-family:Open Sans;">: <strong>Ang Xiuqi</strong></td>
+<td style="font-size:14.5px; line-height:2;font-family:Open Sans;">: <strong style="font-family:Open Sans;">Ang Xiuqi</strong></td>
 </tr>
 	
 <tr>
@@ -170,7 +170,7 @@ Congratulations to our&nbsp;former students who have excelled academically at Te
 		
 <tr>
 <td style="font-size:14.5px; line-height:2;font-family:Open Sans; width:10%;">Name</td>
-<td style="font-size:14.5px; line-height:2;font-family:Open Sans;">: <strong>Sahra Bte Sulaiman</strong></td>
+<td style="font-size:14.5px; line-height:2;font-family:Open Sans;">: <strong style="font-family:Open Sans;">Sahra Bte Sulaiman</strong></td>
 </tr>
 	
 <tr>
@@ -193,7 +193,7 @@ Congratulations to our&nbsp;former students who have excelled academically at Te
 		
 <tr>
 <td style="font-size:14.5px; line-height:2;font-family:Open Sans; width:10%;">Name</td>
-<td style="font-size:14.5px; line-height:2;font-family:Open Sans;">: <strong>Zhang Zhao Hui</strong></td>
+<td style="font-size:14.5px; line-height:2;font-family:Open Sans;">: <strong style="font-family:Open Sans;">Zhang Zhao Hui</strong></td>
 </tr>
 	
 <tr>
@@ -216,7 +216,7 @@ Congratulations to our&nbsp;former students who have excelled academically at Te
 		
 <tr>
 <td style="font-size:14.5px; line-height:2;font-family:Open Sans; width:10%;">Name</td>
-<td style="font-size:14.5px; line-height:2;font-family:Open Sans;">: <strong>Teh Min Yang</strong></td>
+<td style="font-size:14.5px; line-height:2;font-family:Open Sans;">: <strong style="font-family:Open Sans;">Teh Min Yang</strong></td>
 </tr>
 	
 <tr>
@@ -232,7 +232,7 @@ Congratulations to our&nbsp;former students who have excelled academically at Te
 </tbody>
 </table>
 
-<h5 style="color:#635f1a;font-weight:bold">Teaching Scholarship Presentation Ceremony 2019</h5>
+<h5 style="color:#635f1a;font-weight:bold;font-family:Open Sans;">Teaching Scholarship Presentation Ceremony 2019</h5>
 <p style="font-size:14.5px; line-height:2;margin-top:15px; font-family:Open Sans">
 Our former student, Chua Wei Ting, was awarded the teaching scholarship this year.</p>
 
@@ -243,7 +243,7 @@ Our former student, Chua Wei Ting, was awarded the teaching scholarship this yea
 		
 <tr>
 <td style="font-size:14.5px; line-height:2;font-family:Open Sans; width:10%;">Name</td>
-<td style="font-size:14.5px; line-height:2;font-family:Open Sans;">: <strong>Chua Wei Ting</strong></td>
+<td style="font-size:14.5px; line-height:2;font-family:Open Sans;">: <strong style="font-family:Open Sans;">Chua Wei Ting</strong></td>
 </tr>
 
 <tr>
@@ -255,7 +255,7 @@ Our former student, Chua Wei Ting, was awarded the teaching scholarship this yea
 </table>
 
 
-<h5 style="color:#635f1a;font-weight:bold">Ngee Ann Polytechnic Graduation 2019</h5>
+<h5 style="color:#635f1a;font-weight:bold;font-family:Open Sans;">Ngee Ann Polytechnic Graduation 2019</h5>
 <p style="font-size:14.5px; line-height:2;margin-top:15px; font-family:Open Sans">
 Our former students have graduated from Ngee Ann Polytechnic (NP) this year with the following academic achievements:</p>
 
@@ -264,7 +264,7 @@ Our former students have graduated from Ngee Ann Polytechnic (NP) this year with
 		
 <tr>
 <td style="font-size:14.5px; line-height:2;font-family:Open Sans; width:18%;">Name</td>
-<td style="font-size:14.5px; line-height:2;font-family:Open Sans;">: <strong>Leaw Kai Wei, Lashanda</strong></td>
+<td style="font-size:14.5px; line-height:2;font-family:Open Sans;">: <strong style="font-family:Open Sans;">Leaw Kai Wei, Lashanda</strong></td>
 </tr>
 	
 <tr>
@@ -290,7 +290,7 @@ Our former students have graduated from Ngee Ann Polytechnic (NP) this year with
 		
 <tr>
 <td style="font-size:14.5px; line-height:2;font-family:Open Sans; width:10%;">Name</td>
-<td style="font-size:14.5px; line-height:2;font-family:Open Sans;">: <strong>Samuel Chin Wei Kiat</strong></td>
+<td style="font-size:14.5px; line-height:2;font-family:Open Sans;">: <strong style="font-family:Open Sans;">Samuel Chin Wei Kiat</strong></td>
 </tr>
 	
 <tr>
@@ -315,7 +315,7 @@ Our former students have graduated from Ngee Ann Polytechnic (NP) this year with
 		
 <tr>
 <td style="font-size:14.5px; line-height:2;font-family:Open Sans;">Name</td>
-<td style="font-size:14.5px; line-height:2;font-family:Open Sans;">: <strong>Foo Ji Gi</strong></td>
+<td style="font-size:14.5px; line-height:2;font-family:Open Sans;">: <strong style="font-family:Open Sans;">Foo Ji Gi</strong></td>
 </tr>
 	
 <tr>
