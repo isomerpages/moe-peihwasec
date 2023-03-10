@@ -4,7 +4,7 @@ permalink: /student-achievements/
 description: ""
 ---
 <img src="/images/sa1.jpg">
-<p style="margin-top:15px;font-size:17px;"><strong>AWS DeepRacer League Competition</strong></p>
+<p style="margin-top:15px;font-size:17px;"><strong style="font-family:Open Sans;">AWS DeepRacer League Competition</strong></p>
 <p style="font-size:14.5px; line-height:2;margin:-15px 0 13px 0px;font-family:Open Sans;">Congratulations to our five students from Resilience 5 who&nbsp;have participated in the AWS DeepRacer League Competition during the June Holidays.</p>
 
 <table border="1" style="border-collapse: none;margin: 15px 0;font-size: 0.9em;font-family: sans-serif;min-width: 50px; box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);width:70%;">
@@ -26,7 +26,7 @@ description: ""
 <br>
 
 <img style="width: 50%;" src="/images/sa2.jpg" />
-<p style="margin-top:15px;font-size:17px;"><strong>Team Wushu</strong></p>
+<p style="margin-top:15px;font-size:17px;"><strong style="font-family:Open Sans;">Team Wushu</strong></p>
 
 <p style="font-size:14.5px; line-height:2;margin:-15px 0 13px 0px;font-family:Open Sans;">Congratulations to our two medalists in this year&rsquo;s National School Games B Division Championship.</p>
 
@@ -60,40 +60,40 @@ description: ""
 <br>
 
 <img src="/images/sa3.jpg">
-<p style="margin-top:15px;font-size:17px;"><strong>Chinese Dance</strong>
+<p style="margin-top:15px;font-size:17px;"><strong style="font-family:Open Sans;">Chinese Dance</strong>
 <p style="font-size:14.5px; line-height:2;margin:-15px 0 13px 0px;font-family:Open Sans;">SYF Achievement: Distinction</p>
 
 <br>
 
 <img src="/images/sa4.jpg">
-<p style="margin-top:15px;font-size:17px;"><strong>Modern Dance</strong></p>
+<p style="margin-top:15px;font-size:17px;"><strong style="font-family:Open Sans;">Modern Dance</strong></p>
 <p style="font-size:14.5px; line-height:2;margin:-15px 0 13px 0px;font-family:Open Sans;">SYF Achievement: Accomplishment</p>
 
 <br>
 
 <img src="/images/sa5.jpg">
-<p style="margin-top:15px;font-size:17px;"><strong>Guzheng</strong></p>
+<p style="margin-top:15px;font-size:17px;"><strong style="font-family:Open Sans;">Guzheng</strong></p>
 <p style="font-size:14.5px; line-height:2;margin:-15px 0 13px 0px;font-family:Open Sans;">SYF Achievement: Distinction</p>
 <br>
 
 <img src="/images/sa6.jpg">
-<p style="margin-top:15px;font-size:17px;"><strong>Band Team A</strong></p>
+<p style="margin-top:15px;font-size:17px;"><strong style="font-family:Open Sans;">Band Team A</strong></p>
 <p style="font-size:14.5px; line-height:2;margin:-15px 0 13px 0px;font-family:Open Sans;">SYF Achievement: Accomplishment</p>
 
 <br>
 
 <img src="/images/sa7.jpg">
-<p style="margin-top:15px;font-size:17px;"><strong>Drama Society</strong></p>
+<p style="margin-top:15px;font-size:17px;"><strong style="font-family:Open Sans;">Drama Society</strong></p>
 <p style="font-size:14.5px; line-height:2;margin:-15px 0 13px 0px;font-family:Open Sans;">SYF Achievement: Commendation&nbsp;</p>
 
-<h4 style="color:#635f1a;font-weight:bold">Summary of all SYF achievements</h4>
+<h4 style="color:#635f1a;font-weight:bold;font-family:Open Sans;">Summary of all SYF achievements</h4>
 
 <table border="1" style="border-collapse: collapse;margin: 25px 0;font-size: 0.9em;font-family: sans-serif;min-width: 400px; box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);">
 	
 <thead style="background-color: #009879; font-weight: bold; font-size: 16px;">
 		<tr>
-			<td style="text-align:left;color:white;padding:12px 15px;">Performing Arts Group</td>
-			<td style="text-align:left;color:white;padding:12px 15px;">Certification</td>
+			<td style="text-align:left;color:white;padding:12px 15px;font-family:Open Sans;">Performing Arts Group</td>
+			<td style="text-align:left;color:white;padding:12px 15px;font-family:Open Sans;">Certification</td>
 		</tr>
 	</thead>
 
