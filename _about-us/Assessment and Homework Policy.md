@@ -123,23 +123,23 @@ description: ""
 	
 <tbody>
 <tr style="border-bottom: 1px solid #dddddd;">
-<td style="padding: 20px 15px; font-size:15px; font-family:Open Sans;"><strong style="font-family:Open Sans;">March Holidays</strong></td>
-<td style="padding: 6px 10px;font-size:15px;font-family:Open Sans;">9 hours for Sec 1 and 2 <br>12 hours for Sec 3, 4 and 5</td>
+<td style="padding: 20px 15px; font-size:14.5px; font-family:Open Sans;"><strong style="font-family:Open Sans;">March Holidays</strong></td>
+<td style="padding: 6px 10px;font-size:14.5px;font-family:Open Sans;">9 hours for Sec 1 and 2 <br>12 hours for Sec 3, 4 and 5</td>
 </tr>
 	
 <tr style="border-bottom: 1px solid #dddddd;">
-<td style="padding: 20px 15px;font-size:15px;font-family:Open Sans;"><strong style="font-family:Open Sans;">June Holidays</strong></td>
-<td style="padding: 6px 10px;font-size:15px;font-family:Open Sans;">18 hours for Sec 1 and 2 <br>24 hours for Sec 3, 4 and 5</td>
+<td style="padding: 20px 15px;font-size:14.5px;font-family:Open Sans;"><strong style="font-family:Open Sans;">June Holidays</strong></td>
+<td style="padding: 6px 10px;font-size:14.5px;font-family:Open Sans;">18 hours for Sec 1 and 2 <br>24 hours for Sec 3, 4 and 5</td>
 </tr>
 	
 <tr style="border-bottom: 1px solid #dddddd;">
-<td style="padding: 20px 15px;font-size:15px;font-family:Open Sans;"><strong style="font-family:Open Sans;">September Holidays</strong></td>
-<td style="padding: 6px 10px;font-size:15px;font-family:Open Sans;">9 hours for Sec 1 and 2 <br>12 hours for Sec 3, 4 and 5</td>
+<td style="padding: 20px 15px;font-size:14.5px;font-family:Open Sans;"><strong style="font-family:Open Sans;">September Holidays</strong></td>
+<td style="padding: 6px 10px;font-size:14.5px;font-family:Open Sans;">9 hours for Sec 1 and 2 <br>12 hours for Sec 3, 4 and 5</td>
 </tr>
 
 <tr style="border-bottom: 1px solid #dddddd;">
-<td style="padding: 20px 15px;font-size:15px;font-family:Open Sans;"><strong style="font-family:Open Sans;">Year-End Holidays</strong></td>
-<td style="padding: 6px 10px;font-size:15px;font-family:Open Sans;">18 hours for Sec 1 and 2 <br>24 hours for Sec 3, 4 and 5</td>
+<td style="padding: 20px 15px;font-size:14.5px;font-family:Open Sans;"><strong style="font-family:Open Sans;">Year-End Holidays</strong></td>
+<td style="padding: 6px 10px;font-size:14.5px;font-family:Open Sans;">18 hours for Sec 1 and 2 <br>24 hours for Sec 3, 4 and 5</td>
 </tr>
 	
 </tbody>
