@@ -112,30 +112,30 @@ Tay Kai Wen, Bryan (4D1), Lai Le Xin Grace (3I4), Ain Myeisha Arman (3I1), Chang
 <td style="font-size:14.px;"><strong style="font-family:Open Sans;">2018</strong></td>
 	<td style="font-size:14.5px;"><strong style="font-family:Open Sans;">RoboCupJunior Singapore Open</strong>
 		<ul> 
-			<li style="font-size:14.5px;margin-bottom:5px;">2<sup>nd</sup>, 3<sup>rd</sup> &amp; 4<sup>th</sup> Place (RoboCupJunior CoSpace Rescue)</li>
-                                <li style="font-size:15px;margin-bottom:5px;">2<sup>nd</sup> &amp; 3<sup>rd</sup> Place (RoboCup Asia Pacific CoSpace Rescue)</li>
-                                <li style="font-size:15px;margin-bottom:5px;">1<sup>st</sup> Place (RoboCup Asia Pacific CoSpace Grand Prix)</li>
-                                <li style="font-size:15px;margin-bottom:5px;">2<sup>nd</sup>, 3<sup>rd</sup> Place (RoboCup Asia Pacific CoSpace Logistics)
+			<li style="font-size:14.5px;margin-bottom:5px;font-family:Open Sans;">2<sup style="font-family:Open Sans;">nd</sup>, 3<sup style="font-family:Open Sans;">rd</sup> &amp; 4<sup style="font-family:Open Sans;">th</sup> Place (RoboCupJunior CoSpace Rescue)</li>
+                                <li style="font-size:14.5px;margin-bottom:5px;font-family:Open Sans;">2<sup style="font-family:Open Sans;">nd</sup> &amp; 3<sup style="font-family:Open Sans;">rd</sup> Place (RoboCup Asia Pacific CoSpace Rescue)</li>
+                                <li style="font-size:14.5px;margin-bottom:5px;font-family:Open Sans;">1<sup style="font-family:Open Sans;">st</sup> Place (RoboCup Asia Pacific CoSpace Grand Prix)</li>
+                                <li style="font-size:14.5px;margin-bottom:5px;font-family:Open Sans;">2<sup style="font-family:Open Sans;">nd</sup>, 3<sup style="font-family:Open Sans;">rd</sup> Place (RoboCup Asia Pacific CoSpace Logistics)
 		</li></ul>
 	</td>
 </tr>
 
 <tr style="background-color: #f3f3f3;border-bottom: 2px solid #009879;">
-<td style="font-size:15px;"><strong>2017</strong></td>
-	<td style="font-size:15px;"><strong>RoboCupJunior Singapore Open</strong>
+<td style="font-size:14.5px;"><strong style="font-family:Open Sans;">2017</strong></td>
+	<td style="font-size:14.5px;"><strong style="font-family:Open Sans;">RoboCupJunior Singapore Open</strong>
 		<br>
 		<ul> 
-			<li style="font-size:15px;margin-bottom:5px;">1<sup>st</sup> 2<sup>nd</sup>, 3<sup>rd</sup> &amp; 4<sup>th</sup> Place (RoboCupJunior CoSpace Rescue)</li>
-                                <li style="font-size:15px;margin-bottom:5px;">1<sup>st</sup> &amp; 2<sup>nd</sup>Place (RoboCupJunior CoSpace Rescue – SuperTeam)</li>
-																	<li style="font-size:15px;margin-bottom:5px;">3<sup>rd</sup> Place (RoboCupJunior CoSpace Grand Prix)</li>
-                                <li style="font-size:15px;margin-bottom:5px;">1<sup>st</sup> &amp; 2<sup>nd</sup> Place (RoboCupJunior CoSpace Logistics)</li>                                
-                                <li style="font-size:15px;margin-bottom:5px;">Best Achievement Award</li>
+			<li style="font-size:14.5px;margin-bottom:5px;">1<sup style="font-family:Open Sans;">st</sup> 2<sup style="font-family:Open Sans;">nd</sup>, 3<sup style="font-family:Open Sans;">rd</sup> &amp; 4<sup style="font-family:Open Sans;">th</sup> Place (RoboCupJunior CoSpace Rescue)</li>
+                                <li style="font-size:14.5px;margin-bottom:5px;font-family:Open Sans;">1<sup style="font-family:Open Sans;">st</sup> &amp; 2<sup style="font-family:Open Sans;">nd</sup>Place (RoboCupJunior CoSpace Rescue – SuperTeam)</li>
+																	<li style="font-size:14.5px;margin-bottom:5px;font-family:Open Sans;">3<sup style="font-family:Open Sans;">rd</sup> Place (RoboCupJunior CoSpace Grand Prix)</li>
+                                <li style="font-size:14.5px;margin-bottom:5px;font-family:Open Sans;">1<sup style="font-family:Open Sans;">st</sup> &amp; 2<sup>nd</sup> Place (RoboCupJunior CoSpace Logistics)</li>                                
+                                <li style="font-size:14.5px;margin-bottom:5px;font-family:Open Sans;">Best Achievement Award</li>
 		</ul>
-	<strong>RoboCup 2017 (Nagoya, Japan)</strong>
+	<strong style="font-size:14.5px; font-family:Open Sans;">RoboCup 2017 (Nagoya, Japan)</strong>
 		<br>
 		<ul> 
-			<li style="font-size:15px; margin-bottom:5px;">2<sup>nd</sup> Place in RoboCupJunior CoSpace Rescue (under 14 category) Individual Team</li>
-                                <li style="font-size:15px;margin-bottom:5px;">12<sup>nd</sup> Place in RoboCupJunior CoSpace Rescue (under 14 category) Super Team (Singapore, Japan, Brazil)</li>
+			<li style="font-size:14.5px; margin-bottom:5px;font-family:Open Sans;">2<sup style="font-family:Open Sans;">nd</sup> Place in RoboCupJunior CoSpace Rescue (under 14 category) Individual Team</li>
+                                <li style="font-size:14.5px;margin-bottom:5px;font-family:Open Sans;">12<sup style="font-family:Open Sans;">nd</sup> Place in RoboCupJunior CoSpace Rescue (under 14 category) Super Team (Singapore, Japan, Brazil)</li>
 		</ul>
 	</td>
 </tr>
@@ -143,7 +143,7 @@ Tay Kai Wen, Bryan (4D1), Lai Le Xin Grace (3I4), Ain Myeisha Arman (3I1), Chang
 </table>
 
 	
-<h4 style="color:#635f1a;font-weight:bold">Competitions and CCA Activities</h4>
+<h4 style="color:#635f1a;font-weight:bold;font-family:Open Sans;">Competitions and CCA Activities</h4>
 
 <ol style="margin-top:5px">
 <li  style="font-size:14.5px; line-height:2;font-family:Open Sans;">Robocup Singapore Open (Cospace Rescue, Cospace Grand Prix, OnStage)</li>
@@ -158,8 +158,8 @@ Tay Kai Wen, Bryan (4D1), Lai Le Xin Grace (3I4), Ain Myeisha Arman (3I1), Chang
 </ol>
 	
 
-<h4 style="color:#635f1a;font-weight:bold;margin-bottom:-25px;">Student Testament</h4>
-<blockquote style="font-size: 15px;
+<h4 style="color:#635f1a;font-weight:bold;margin-bottom:-25px;font-family:Open Sans;">Student Testament</h4>
+<blockquote style="font-size: 14.5px;
   width:100%;
   margin:50px auto;
   font-family:Open Sans;
@@ -173,10 +173,10 @@ Tay Kai Wen, Bryan (4D1), Lai Le Xin Grace (3I4), Ain Myeisha Arman (3I1), Chang
 <img align="left" src="/images/ROBOTICS05.jpg" style="width: 23%;margin-right:15px;">
 “Despite the COVID-19 pandemic which has created several disruptions not just in the CCA but throughout the world, I have learnt various skills during CCA that I can apply in my everyday life, in addition to technology. I look forward to the upcoming CCA sessions because I get to learn new programming languages and compete in various competitions.<br><br>
 Robotics nurtures us as future leaders in addition to being equipped with technological skills. I am grateful to have the opportunity to inspire the CCA's members to be leaders and problem-solvers. Leadership and technology have both increased in importance in the twenty-first century. The future of the Robotics Club excites me, and I look forward to the growth of the CCA.”
-  <span style="display:block; color:#333333; margin-top:1em;font-size:15px;"><em>Vice President, Ng Jun Lin, Cogan, Int 7</em></span>
+  <span style="display:block; color:#333333; margin-top:1em;font-size:15px;"><em style="font-family:Open Sans;">Vice President, Ng Jun Lin, Cogan, Int 7</em></span>
 </blockquote>
 
-<blockquote style="font-size: 15px;
+<blockquote style="font-size: 14.5px;
   width:100%;
   margin:50px auto;
   font-family:Open Sans;
@@ -188,30 +188,30 @@ Robotics nurtures us as future leaders in addition to being equipped with techno
   position: relative;
   background:#EDEDED;">
 <img align="left" src="/images/ROBOTICS6.jpg" style="width: 23%;margin-right:15px;">“Every week I am eager to attend CCA as the sessions are fun and I get learn new things. The teachers and instructors are very helpful and they leave none of our questions unanswered. Even though we are unable to go for some competitions due to the pandemic, we are able to make the best of what we have and excel in it. The Robotics Club gave me the opportunity to be a leader and I hope that we can continue to strive for excellence in the years to come”
-  <span style="display:block; color:#333333; margin-top:1em;font-size:15px;"><em>Assistant Secretary/Publicity, Shah Yashvi Tejas, Int 8</em></span><br>
+  <span style="display:block; color:#333333; margin-top:1em;font-size:15px;"><em style="font-family:Open Sans;">Assistant Secretary/Publicity, Shah Yashvi Tejas, Int 8</em></span><br>
 	</blockquote>
 
-<h4 style="color:#635f1a;font-weight:bold">CCA Details</h4>
+<h4 style="color:#635f1a;font-weight:bold;font-family:Open Sans;">CCA Details</h4>
 <table border="1" style="width:100%;">
 	<tbody>
 		<tr>
-			<td style="background-color: #54585d; font-weight: bold; font-size: 15px; border: 1px solid #54585d; color:white;border-bottom: 1px solid #dddddd;width:24%;">Teacher-In-Charge</td>
-			<td style="border: 1px solid #dddfe1;font-size: 15px;">Mr Nicholas Ng</td>
+			<td style="background-color: #54585d; font-weight: bold; font-size: 14.5px; border: 1px solid #54585d; color:white;border-bottom: 1px solid #dddddd;width:24%;font-family:Open Sans;">Teacher-In-Charge</td>
+			<td style="border: 1px solid #dddfe1;font-size: 14.5px;font-family:Open Sans;">Mr Nicholas Ng</td>
 		</tr>
 
 <tr>
-			<td style="background-color: #54585d; font-weight: bold; font-size: 15px; border: 1px solid #54585d;border-bottom: 1px solid #dddddd; color:white;">CCA Teacher(s)</td>
-			<td style="border: 1px solid #dddfe1;font-size: 15px;">Mr Joel Neo<br>Mr Ronnie Goh<br>Ms Jane Lian</td>
+			<td style="background-color: #54585d; font-weight: bold; font-size: 14.5px; border: 1px solid #54585d;border-bottom: 1px solid #dddddd; color:white;font-family:Open Sans;">CCA Teacher(s)</td>
+			<td style="border: 1px solid #dddfe1;font-size: 14.5px;font-family:Open Sans;">Mr Joel Neo<br>Mr Ronnie Goh<br>Ms Jane Lian</td>
 		</tr>
 
 <tr>
-			<td style="background-color: #54585d; font-weight: bold; font-size: 15px; border: 1px solid #54585d; color:white;border-bottom: 1px solid #dddddd;">CCA Schedule</td>
-			<td style="border: 1px solid #dddfe1;font-size: 15px;">Tuesday 3.30pm - 6.00pm<br>Fri, 2.30pm – 6.00pm</td>
+			<td style="background-color: #54585d; font-weight: bold; font-size: 14.5px; border: 1px solid #54585d; color:white;border-bottom: 1px solid #dddddd;font-family:Open Sans;">CCA Schedule</td>
+			<td style="border: 1px solid #dddfe1;font-size: 14.5px;font-family:Open Sans;">Tuesday 3.30pm - 6.00pm (for ad-hoc enrichment/intensive training for competition)<br>Fri, 2.30pm – 6.00pm (weekly CCA)</td>
 		</tr>
 		
 <tr>
-			<td style="background-color: #54585d; font-weight: bold; font-size: 15px; border: 1px solid #54585d; color:white;">Venues</td>
-			<td style="border: 1px solid #dddfe1;font-size: 15px;">Tue: Technology Room &amp; Computer Lab<br>Fri: Technology Room &amp; Computer Lab 4</td>
+			<td style="background-color: #54585d; font-weight: bold; font-size: 14.5px; border: 1px solid #54585d; color:white;font-family:Open Sans;">Venues</td>
+			<td style="border: 1px solid #dddfe1;font-size: 14.5px;font-family:Open Sans;">Tue: Technology Room &amp; Computer Lab<br>Fri: Technology Room &amp; Computer Lab 4</td>
 		</tr>
 		
 </tbody>
