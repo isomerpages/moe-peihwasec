@@ -4,7 +4,7 @@ permalink: /ccas/clubs-societies/robotics/
 description: ""
 third_nav_title: Clubs & Societies
 ---
-<h4 style="color:#635f1a;font-weight:bold">Student Outcomes</h4>
+<h4 style="color:#635f1a;font-weight:bold;font-family:Open Sans;">Student Outcomes</h4>
 
 <p style="font-size:14.5px; line-height:2;margin-top:15px; font-family:Open Sans">The CCA will enable our students to:</p>
 
@@ -14,37 +14,37 @@ third_nav_title: Clubs & Societies
 <li  style="font-size:14.5px; line-height:2;font-family:Open Sans;">compete in internal and national competitions to pitch their skills against the best to build and programme robots to complete assigned missions in the most strategic and efficient manner.</li>
 </ul>
 	
-<h4 style="color:#635f1a;font-weight:bold">Achievements</h4>
+<h4 style="color:#635f1a;font-weight:bold;font-family:Open Sans;">Achievements</h4>
 
 <table style="border-collapse: collapse;margin: 25px 0;font-size:15px;font-family: sans-serif;box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);" border="1">
 	
-<thead style="background-color: #009879; font-weight: bold; font-size: 16px;">
+<thead style="background-color: #009879; font-weight: bold; font-size: 14.5px;">
 	<tr>
-			<td style="text-align:left;color:white;">Year of Competition</td>
-			<td style="text-align:left;color:white;">Attainment</td>
+			<td style="text-align:left;color:white;font-family:Open Sans;">Year of Competition</td>
+			<td style="text-align:left;color:white;font-family:Open Sans;">Attainment</td>
 		</tr>
 	</thead>
 <tbody>
 	
 <tr>
-<td><strong>2022</strong></td>
-	<td style="font-size:15px;">
-		<strong>RoboCup Singapore Open</strong>
+<td><strong style="font-size:14.5px; font-family:Open Sans;">2022</strong></td>
+	<td style="font-size:14.5px;">
+		<strong style="font-size:14.5px; font-family:Open Sans;">RoboCup Singapore Open</strong>
 		<br>
 		<ul>
-			<li style="font-size:15px;margin-bottom:5px;">OnStage 1<sup>st</sup> Place - 
-Tay Kai Wen, Bryan (4D1), Lai Le Xin Grace (3I4), Ain Myeisha Arman(3I1), Chang Guan Zheng (Justin) (2R9), Yan Ging Git (Zhenn Jingjie) (2R9), Chong Yun Ting Felicia (1P4)</li>
-            <li style="font-size:15px;margin-bottom:5px;">Cospace Auto-Driving 3<sup>rd</sup> Place - Valluri Navaneeth (3I8)</li>
-            <li style="font-size:15px;margin-bottom:5px;">Cospace Auto-Driving 2<sup>nd</sup> Place - Tang Ka Lok (3I8)</li>
-			<li style="font-size:15px;margin-bottom:5px;">Cospace Auto-Driving (SuperTeam) 1<sup>st</sup> Place - Valluri Navaneeth (3I8), Tay Kai Yi (2R4)</li>
-			<li style="font-size:15px;margin-bottom:5px;">Cospace Auto-Driving (Influencer Award) 1<sup>st</sup> Place - Shah Yashvi Tejas (3I8)</li>
-            <li style="font-size:15px;margin-bottom:5px;">Cospace Rescue FirstSteps 3<sup>rd</sup> Place - Elkan Sin Yew Ken (1P8)</li>
-            <li style="font-size:15px;margin-bottom:5px;">Cospace Rescue FirstSteps 2<sup>nd</sup> Place - Kieran Tan (2R5)</li>
-			<li style="font-size:15px;margin-bottom:5px;">Cospace Rescue FirstSteps 1<sup>st</sup> Place - Devendran Venkatesh (1P3)</li>
-			<li style="font-size:15px;margin-bottom:5px;">Cospace Rescue FirstSteps (SuperTeam) 1<sup>st</sup> Place - Devendran Venkatesh (1P3), Luke Matthias Quek Shou En (2R1), Goh Zhen Jin (2R5)</li>
-            <li style="font-size:15px;margin-bottom:5px;">Cospace Rescue 3<sup>rd</sup> Place - Ritesh Sathiyamoorthi (2R8)</li>
-            <li style="font-size:15px;margin-bottom:5px;">Cospace Rescue (SuperTeam) 1<sup>st</sup> Place - Ng Jun Lin, Cogan (3I7)</li>
-			<li style="font-size:15px;margin-bottom:5px;">Cospace Rescue (Influencer Award) 1<sup>st</sup> Place - Devendran Venkatesh (1P3)</li>
+			<li style="font-size:14.5px;margin-bottom:5px;font-family:Open Sans;">OnStage 1<sup style="font-family:Open Sans;">st</sup> Place - 
+Tay Kai Wen, Bryan (4D1), Lai Le Xin Grace (3I4), Ain Myeisha Arman (3I1), Chang Guan Zheng (Justin) (2R9), Yan Ging Git (Zhenn Jingjie) (2R9), Chong Yun Ting Felicia (1P4)</li>
+            <li style="font-size:14.5px;margin-bottom:5px;font-family:Open Sans;">Cospace Auto-Driving 3<sup style="font-family:Open Sans;">rd</sup> Place - Valluri Navanith (3I8)</li>
+			<li style="font-size:14.5px;margin-bottom:5px;font-family:Open Sans;">Cospace Auto-Driving 2<sup style="font-family:Open Sans;">nd</sup> Place - Tang Ka Lok (3I8)</li>
+			<li style="font-size:14.5px;margin-bottom:5px;font-family:Open Sans;">Cospace Auto-Driving (SuperTeam) 1<sup style="font-family:Open Sans;">st</sup> Place - Valluri Navanith (3I8), Tay Kai Yi (2R4)</li>
+			<li style="font-size:14.5px;margin-bottom:5px;font-family:Open Sans;">Cospace Auto-Driving (Influencer Award) 1<sup style="font-family:Open Sans;">st</sup> Place - Shah Yashvi Tejas (3I8)</li>
+            <li style="font-size:14.5px;margin-bottom:5px;font-family:Open Sans;">Cospace Rescue FirstSteps 3<sup style="font-family:Open Sans;">rd</sup> Place - Elkan Sin Yew Ken (1P8)</li>
+            <li style="font-size:14.5px;margin-bottom:5px;font-family:Open Sans;">Cospace Rescue FirstSteps 2<sup style="font-family:Open Sans;">nd</sup> Place - Kieran Tan (2R5)</li>
+			<li style="font-size:14.5px;margin-bottom:5px;font-family:Open Sans;">Cospace Rescue FirstSteps 1<sup style="font-family:Open Sans;">st</sup> Place - Devendran Venkatesh (1P3)</li>
+			<li style="font-size:14.5px;margin-bottom:5px;font-family:Open Sans;">Cospace Rescue FirstSteps (SuperTeam) 1<sup style="font-family:Open Sans;">st</sup> Place - Devendran Venkatesh (1P3), Luke Matthias Quek Shou En (2R1), Goh Zhen Jin (2R5)</li>
+            <li style="font-size:14.5px;margin-bottom:5px;font-family:Open Sans;">Cospace Rescue 3<sup style="font-family:Open Sans;">rd</sup> Place - Ritesh Sathiyamoorthi (2R8)</li>
+            <li style="font-size:14.5px;margin-bottom:5px;font-family:Open Sans;">Cospace Rescue (SuperTeam) 1<sup style="font-family:Open Sans;">st</sup> Place - Ng Jun Lin, Cogan (3I7)</li>
+			<li style="font-size:14.5px;margin-bottom:5px;font-family:Open Sans;">Cospace Rescue (Influencer Award) 1<sup style="font-family:Open Sans;">st</sup> Place - Devendran Venkatesh (1P3)</li>
 		</ul>
 	</td>
 </tr>
