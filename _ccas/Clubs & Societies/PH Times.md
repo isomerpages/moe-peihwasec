@@ -4,7 +4,7 @@ permalink: /ccas/clubs-societies/ph-times/
 description: ""
 third_nav_title: Clubs & Societies
 ---
-<p style="font-size:14.5px; line-height:2;font-family:Open Sans;"><strong style="font-family:Open Sans;">Pei Hwa Times (PH Times) </strong> provides the opportunity for our members to develop technical skills about photography and videography. With these skills, our members will then have the opportunity to embark on a journalism journey; photojournalism and video journalism. We seek to help our members realise their potential and build resilience as well as confidence as they get their heart, head and hands on the journalism journey.</p>
+<p style="font-size:14.5px; line-height:2;font-family:Open Sans;"><strong style="font-size:14.5px; font-family:Open Sans;">Pei Hwa Times (PH Times) </strong> provides the opportunity for our members to develop technical skills about photography and videography. With these skills, our members will then have the opportunity to embark on a journalism journey; photojournalism and video journalism. We seek to help our members realise their potential and build resilience as well as confidence as they get their heart, head and hands on the journalism journey.</p>
 
 <h4 style="color:#635f1a;font-weight:bold;font-family:Open Sans;">Student Outcomes</h4>
 <p style="font-size:14.5px; line-height:2;margin-top:15px; font-family:Open Sans">The CCA will enable our students to:</p>
@@ -40,7 +40,7 @@ third_nav_title: Clubs & Societies
 <td style="font-size:14.5px;"><strong style="font-family:Open Sans;">2013</strong></td>
 	<td style="font-size:14.5px;"><strong style="font-family:Open Sans;">Safety-starts-with-me Photo Competition</strong>
 		<ul> 
-			<li style="font-size:14.5px;margin-bottom:5pxfont-family:Open Sans;">Silver Award, $1000 Cash Prize (Aaron Lim Cheng Kiat)</li>
+			<li style="font-size:14.5px;margin-bottom:5px;font-family:Open Sans;">Silver Award, $1000 Cash Prize (Aaron Lim Cheng Kiat)</li>
 		</ul>
 	</td>
 </tr>
@@ -56,53 +56,53 @@ third_nav_title: Clubs & Societies
 </tr>
 
 <tr style=" background-color: #f3f3f3;">
-<td style="font-size:15px;"><strong>2011</strong></td>
-	<td style="font-size:15px;"><strong>Canon Photomarathon</strong>
+<td style="font-size:14.5px;"><strong style="font-family:Open Sans;">2011</strong></td>
+	<td style="font-size:14.5px;"><strong style="font-family:Open Sans;">Canon Photomarathon</strong>
 		
 <ul> 
-			<li style="font-size:15px;">Student Category Winner (Douglas Tham)</li>
-<li style="font-size:15px;"> Best of Show Student Category Winner (Douglas Tham)</li>
-<li style="font-size:15px;margin-bottom:5px;"> School's Challenge Winner</li>
+			<li style="font-size:14.5px;font-family:Open Sans;">Student Category Winner (Douglas Tham)</li>
+<li style="font-size:14.5px;font-family:Open Sans;"> Best of Show Student Category Winner (Douglas Tham)</li>
+<li style="font-size:14.5px;margin-bottom:5px;font-family:Open Sans;"> School's Challenge Winner</li>
 		</ul>
-<strong>Freshness of Life by School of Photography</strong>
+<strong style="font-size:14.5px;font-family:Open Sans;">Freshness of Life by School of Photography</strong>
 		<br>
 		<ul> 
-			<li style="font-size:15px;margin-bottom:5px;">1<sup>st</sup> Prize (Dion Lim)</li>
+			<li style="font-size:14.5px;margin-bottom:5px;font-family:Open Sans;">1<sup style="font-family:Open Sans;">st</sup> Prize (Dion Lim)</li>
 		</ul>
-	<strong>N3 Cluster International Friendship Day Photography Competition</strong>
+	<strong style="font-size:14.5px;font-family:Open Sans;">N3 Cluster International Friendship Day Photography Competition</strong>
 		<br>
 		<ul> 
-			<li style="font-size:15px; margin-bottom:5px;"> 1<sup>st</sup> Prize</li>
+			<li style="font-size:14.5px; margin-bottom:5px;font-family:Open Sans;"> 1<sup>st</sup> Prize</li>
 		</ul>
 	</td>
 </tr>
 
 <tr>
-<td style="font-size:15px;"><strong>2009</strong></td>
-	<td style="font-size:15px;"><strong>Straits Times National Schools Newspaper Competition</strong>
+<td style="font-size:14.5px;"><strong style="font-family:Open Sans;">2009</strong></td>
+	<td style="font-size:14.5px;"><strong style=" font-size:14.5px; font-family:Open Sans;">Straits Times National Schools Newspaper Competition</strong>
 		<br>
 		<ul> 
-			<li style="font-size:15px;margin-bottom:5px;"> Consolation Prize</li>
+			<li style="font-size:14.5px;margin-bottom:5px;font-family:Open Sans;"> Consolation Prize</li>
 		</ul>
-	<strong>HDB Competition</strong>
+	<strong style=" font-size:14.5px; font-family:Open Sans;">HDB Competition</strong>
 		<br>
 		<ul> 
-			<li style="font-size:15px; margin-bottom:5px;"> Consolation Prize (Douglas Tham)</li>
+			<li style="font-size:14.5px; margin-bottom:5px;font-family:Open Sans;"> Consolation Prize (Douglas Tham)</li>
 		</ul>
 	</td>
 </tr>
 
-<tr style=" background-color: #f3f3f3;border-bottom: 2px solid #009879;">
-<td style="font-size:15px;"><strong>2008</strong></td>
-	<td style="font-size:15px;"><strong>Straits Times National Schools Newspaper Competition</strong>
+<tr style="background-color: #f3f3f3;border-bottom: 2px solid #009879;">
+<td style="font-size:14.5px;"><strong style="font-family:Open Sans;">2008</strong></td>
+	<td style="font-size:14.5px;"><strong style="font-family:Open Sans;">Straits Times National Schools Newspaper Competition</strong>
 		<br>
 		<ul> 
-			<li style="font-size:15px; margin-bottom:5px;"> Consolation Prize</li>
+			<li style="font-size:14.5px; margin-bottom:5px;font-family:Open Sans;"> Consolation Prize</li>
 		</ul>
-	<strong>GMAC Competition</strong>
+	<strong style="font-size:14.5px;font-family:Open Sans;">GMAC Competition</strong>
 		<br>
 		<ul> 
-			<li style="font-size:15px; margin-bottom:5px;"> 3<sup>rd</sup> Place (Lim Ying Yun, Martin Goh, Charmaine Toh, Saw Jia Hui)</li>
+			<li style="font-size:14.5px; margin-bottom:5px;font-family:Open Sans;"> 3<sup style="font-family:Open Sans;">rd</sup> Place (Lim Ying Yun, Martin Goh, Charmaine Toh, Saw Jia Hui)</li>
 		</ul>
 	</td>
 </tr>
@@ -110,7 +110,7 @@ third_nav_title: Clubs & Societies
 </tbody>
 </table>
 
-<h4 style="color:#635f1a;font-weight:bold">Competitions and CCA Activities</h4>
+<h4 style="color:#635f1a;font-weight:bold;font-family:Open Sans;">Competitions and CCA Activities</h4>
 <p style="font-size:14.5px; line-height:2;margin-top:15px; font-family:Open Sans">Our CCA members are given the opportunity to apply their photography and videography knowledge and skills in various platforms. Some of the non-competition platforms are:</p>
 
 <ul style="margin-top:5px;">
@@ -118,7 +118,7 @@ third_nav_title: Clubs & Societies
 <li  style="font-size:14.5px; line-height:2;font-family:Open Sans;"> Pei Hwa CCA Photo</li>
 <li  style="font-size:14.5px; line-height:2;font-family:Open Sans;"> student-led CCA activities/ projects</li>
 <img style="width: 85%;" src="/images/ph1.jpg" />
-<p style="text-align: center; font-size:13px;margin-top:5px;"><strong>NCC CCA photo taking by PH Times</strong></p>
+<p style="text-align: center; font-size:11px;margin-top:5px;"><strong style="font-family:Open Sans;">NCC CCA photo taking by PH Times</strong></p>
 </ul>
 
 <p style="margin-top:15px;font-size:14.5px; line-height:2;font-family:Open Sans;">Our CCA also encourages members to take part in the following competitions:</p>
@@ -127,7 +127,7 @@ third_nav_title: Clubs & Societies
 <li  style="font-size:14.5px; line-height:2;font-family:Open Sans;"> Anti Drug Video Competition</li>
 	</ul>
 	
-<h4 style="color:#635f1a;font-weight:bold;margin-bottom:-25px;">Student Testament</h4>
+<h4 style="color:#635f1a;font-weight:bold;margin-bottom:-25px;font-family:Open Sans;">Student Testament</h4>
 <blockquote style="font-size: 15px;
   width:100%;
   margin:50px auto;
@@ -160,27 +160,27 @@ third_nav_title: Clubs & Societies
 
 
 
-<h4 style="color:#635f1a;font-weight:bold">CCA Details</h4>
+<h4 style="color:#635f1a;font-weight:bold;font-family:Open Sans;">CCA Details</h4>
 <table border="1" style="width:100%;">
 	<tbody>
 		<tr>
-			<td style="background-color: #54585d; font-weight: bold; font-size: 15px; border: 1px solid #54585d; color:white;border-bottom: 1px solid #dddddd; width:24%">Teacher-In-Charge</td>
-			<td style="border: 1px solid #dddfe1;font-size: 15px;">Mdm Rasyidah Binte Ramli</td>
+			<td style="background-color: #54585d; font-weight: bold; font-size: 14.5px; border: 1px solid #54585d; color:white;border-bottom: 1px solid #dddddd; width:24%;font-family:Open Sans;">Teacher-In-Charge</td>
+			<td style="border: 1px solid #dddfe1;font-size: 14.5px;font-family:Open Sans;">Mdm Rasyidah Binte Ramli</td>
 		</tr>
 
 <tr>
-			<td style="background-color: #54585d; font-weight: bold; font-size: 15px; border: 1px solid #54585d;border-bottom: 1px solid #dddddd; color:white;">CCA Teacher(s)</td>
-			<td style="border: 1px solid #dddfe1;font-size: 15px;">Ms Ari Sutanti Binte Haji Mispan<br>Mdm Woo Nam Cam<br>Miss Koh Ting Suen Jewel<br>Mr Liew Zhen Hong Joey</td>
+			<td style="background-color: #54585d; font-weight: bold; font-size: 14.5px; border: 1px solid #54585d;border-bottom: 1px solid #dddddd; color:white;font-family:Open Sans;">CCA Teacher(s)</td>
+			<td style="border: 1px solid #dddfe1;font-size: 14.5px;font-family:Open Sans;">Ms Ari Sutanti Binte Haji Mispan<br>Mdm Woo Nam Cam<br>Miss Koh Ting Suen Jewel<br>Mr Liew Zhen Hong Joey</td>
 		</tr>
 
 <tr>
-			<td style="background-color: #54585d; font-weight: bold; font-size: 15px; border: 1px solid #54585d; color:white;border-bottom: 1px solid #dddddd;">CCA Schedule</td>
-			<td style="border: 1px solid #dddfe1;font-size: 15px;">Friday 2.30pm - 6.00pm</td>
+			<td style="background-color: #54585d; font-weight: bold; font-size: 14.5px; border: 1px solid #54585d; color:white;border-bottom: 1px solid #dddddd;font-family:Open Sans;">CCA Schedule</td>
+			<td style="border: 1px solid #dddfe1;font-size: 14.5px;font-family:Open Sans;">Friday 2.30pm - 6.00pm</td>
 		</tr>
 		
 <tr>
-			<td style="background-color: #54585d; font-weight: bold; font-size: 15px; border: 1px solid #54585d; color:white;">Venues</td>
-			<td style="border: 1px solid #dddfe1;font-size: 15px;">Computer Lab 2, Passion A, Studio, Resillience</td>
+			<td style="background-color: #54585d; font-weight: bold; font-size: 14.5px; border: 1px solid #54585d; color:white;font-family:Open Sans;">Venues</td>
+			<td style="border: 1px solid #dddfe1;font-size: 14.5px;font-family:Open Sans;">Computer Lab 2, Passion A, Studio, Resillience</td>
 		</tr>
 		
 </tbody>
