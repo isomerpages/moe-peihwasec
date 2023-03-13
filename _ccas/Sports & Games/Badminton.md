@@ -8,7 +8,7 @@ third_nav_title: Sports & Games
 
 <p style="font-size:14.5px; line-height:2;font-family:Open Sans;">The CCA aims to provide opportunities for students to learn and apply the technical and tactical skills and rules of badminton, so as to play the sports at a competitive level and as a recreational activity. Through the trainings, we would like to develop within all our members a healthy body and instill in them the virtues of true sportsmanship, PRIDE (Passion for Learning, Resilience, Integrity, Diligence, Excellence for Self and Others), teamwork and discipline.</p>
 
-<h4 style="color:#635f1a;font-weight:bold">Student Outcomes</h4>
+<h4 style="color:#635f1a;font-weight:bold;font-family:Open Sans;">Student Outcomes</h4>
 
 <p style="font-size:14.5px; line-height:2;margin-top:15px; font-family:Open Sans">The CCA will enable our students to:</p>
 
@@ -20,73 +20,72 @@ third_nav_title: Sports & Games
 <li  style="font-size:14.5px; line-height:2;font-family:Open Sans;"> have the opportunities to develop themselves as leaders</li>
 </ul>
 	
-<h4 style="color:#635f1a;font-weight:bold">Achievements</h4>
+<h4 style="color:#635f1a;font-weight:bold;font-family:Open Sans;">Achievements</h4>
 	
 <table border="1" style="border-collapse: collapse;margin: 25px 0;font-size:15px;font-family: sans-serif;box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);">
-<thead style="background-color: #009879; font-weight: bold; font-size: 16px;">
+<thead style="background-color: #009879; font-weight: bold; font-size: 15.5px;">
 <tr>
-<td style="text-align:left;color:white;">Year of Competition</td>
-<td style="text-align:left;color:white;">Attainment</td>
+<td style="text-align:left;color:white;font-family:Open Sans;">Year of Competition</td>
+<td style="text-align:left;color:white;font-family:Open Sans;">Attainment</td>
 </tr>
 </thead>
 	
 <tbody>
 <tr>
-<td style="font-size:15px;"><strong>2022</strong></td>
-<td style="font-size:15px;"><strong>‘B and ‘C’ Division Boys and Girls - Participation</strong></td>
+<td style="font-size:14.5px;"><strong style="font-family:Open Sans;">2022</strong></td>
+<td style="font-size:14.5px;"><strong style="font-family:Open Sans;">‘B and ‘C’ Division Boys and Girls - Participation</strong></td>
 </tr>
 
 <tr style=" background-color: #f3f3f3;">
-<td style="font-size:15px;"><strong>2021</strong></td>
-<td style="font-size:15px;"><strong>B division boys qualified for the quarter-finals in the North Zone Badminton Tournaments</strong></td>
+<td style="font-size:14.5px;"><strong style="font-family:Open Sans;">2021</strong></td>
+<td style="font-size:14.5px;"><strong style="font-family:Open Sans;">B division boys qualified for the quarter-finals in the North Zone Badminton Tournaments</strong></td>
 </tr>
 			
 <tr>
-<td style="font-size:15px;"><strong>2020</strong></td>
-<td style="font-size:15px;"><strong>B division boys qualified for the 2<sup>nd</sup>&nbsp;round in the North Zone Badminton Tournaments</strong></td>
+<td style="font-size:14.5px;"><strong style="font-family:Open Sans;">2020</strong></td>
+<td style="font-size:14.5px;"><strong style="font-family:Open Sans;">B division boys qualified for the 2<sup style="font-family:Open Sans;">nd</sup>&nbsp;round in the North Zone Badminton Tournaments</strong></td>
 </tr>
 			
 <tr style=" background-color: #f3f3f3;">
-<td style="font-size:15px;"><strong>2019</strong></td>
-<td style="font-size:15px;"><strong>B and C division Boys came in 3rd in the first round (in the respective groups) in the North Zone Badminton Tournaments
-
+<td style="font-size:14.5px;"><strong style="font-family:Open Sans;">2019</strong></td>
+<td style="font-size:14.5px;"><strong style="font-family:Open Sans;">B and C division Boys came in 3rd in the first round (in the respective groups) in the North Zone Badminton Tournaments <br><br>
 B and C division boys came in 1st runner up in the Interschool Badminton Competition</strong></td>
 </tr>
 			
 <tr>
-<td style="font-size:15px;"><strong>2018</strong></td>
-<td style="font-size:15px;"><strong>Participation</strong></td>
+<td style="font-size:14.5px;"><strong style="font-family:Open Sans;">2018</strong></td>
+<td style="font-size:14.5px;"><strong style="font-family:Open Sans;">Participation</strong></td>
 </tr>
 		
 <tr style="border-bottom: 2px solid #009879; background-color: #f3f3f3;">
-<td><strong>2017</strong></td>
-<td style="font-size:15px;"><strong>Participation</strong>
+<td><strong style="font-size:14.5px;font-family:Open Sans;">2017</strong></td>
+<td style="font-size:14.5px;"><strong style="font-family:Open Sans;">Participation</strong>
 </td>
 </tr>
 										
 </tbody>
 </table>
 
-<h4 style="color:#635f1a;font-weight:bold">North Zone Badminton Competitions</h4>
+<h4 style="color:#635f1a;font-weight:bold;font-family:Open Sans;">North Zone Badminton Competitions</h4>
 
 <p style="font-size:14.5px; line-height:2;margin-top:15px; font-family:Open Sans">The team has participated in the Inter-Schools North Zone Badminton Tournaments. The players put up a good performance and exemplified the school values of resilience and diligence throughout the competition. The students have also forged strong friendship and demonstrated good teamwork throughout their trainings and in preparation for their competitions. Through their perseverance and hard work, the B division boys qualified for the quarter-finals. We are proud of their progress and improvements in the games.</p>
 
 <img style="width: 100%;margin-top:10px;" src="/images/Picture2.jpg"/>
-<p style="text-align:center; font-size:13px;margin-top:-10px;">B Division Boys</p>
+<p style="text-align:center; font-size:11px;margin-top:-5px;font-family:Open Sans;">B Division Boys</p>
 
 <img style="width: 100%;margin-top:10px;" src="/images/Picture3.jpg"/>
-<p style="text-align:center; font-size:13px;margin-top:-10px;">B Division Girls</p>
+<p style="text-align:center; font-size:11px;font-family:Open Sans;margin-top:-5px;">B Division Girls</p>
 
 <img style="width: 100%;margin-top:10px;" src="/images/Picture4.jpg"/>
-<p style="text-align:center; font-size:13px;margin-top:-10px;">B Division Girls</p>
+<p style="text-align:center; font-size:11px;font-family:Open Sans;margin-top:-5px;">B Division Girls</p>
 
 <img style="width: 100%;margin-top:10px;" src="/images/Picture5.jpg"/>
-<p style="text-align:center; font-size:13px;margin-top:-10px;">C Division Boys</p>
+<p style="text-align:center; font-size:11px;font-family:Open Sans;margin-top:-5px;">C Division Boys</p>
 
 <img style="width: 100%;margin-top:10px;" src="/images/Picture6.jpg"/>
-<p style="text-align:center; font-size:13px;margin-top:-10px;">C Division Girls</p>
+<p style="text-align:center; font-size:11px;font-family:Open Sans;margin-top:-5px;">C Division Girls</p>
 
-<h4 style="color:#635f1a;font-weight:bold">Farewell Party for the seniors</h4>
+<h4 style="color:#635f1a;font-weight:bold;font-family:Open Sans;">Farewell Party for the seniors</h4>
 <div class="row" style="box-sizing: border-box;"> 
 <div class="column" style="box-sizing: border-box;  float: left; width: 50%; padding: 10px;">
 <img src="/images/Picture7.jpg" style="width:100%; margin-top: 12px;">
@@ -98,7 +97,7 @@ B and C division boys came in 1st runner up in the Interschool Badminton Competi
 </div>  
 </div>
 
-<h4 style="color:#635f1a;font-weight:bold; margin-bottom:-25px;">Student Testament</h4>
+<h4 style="color:#635f1a;font-weight:bold; margin-bottom:-25px;font-family:Open Sans;">Student Testament</h4>
 <blockquote style="font-size: 15px;
   width:100%;
   margin:50px auto;
@@ -195,27 +194,27 @@ B and C division boys came in 1st runner up in the Interschool Badminton Competi
   <span style="display:block; color:#333333; margin-top:1em;font-size:15px;"><em>Vice-Captain (Girls Team), Charlotte Chia Jia En, 3I5</em></span>
 	</blockquote> 
 
-<h4 style="color:#635f1a;font-weight:bold">CCA Details</h4>
+<h4 style="color:#635f1a;font-weight:bold;font-family:Open Sans;">CCA Details</h4>
 <table border="1" style="width:100%;">
 	<tbody>
 		<tr>
-			<td style="background-color: #54585d; font-weight: bold; font-size: 15px; border: 1px solid #54585d; color:white;border-bottom: 1px solid #dddddd;width:24%;">Teacher-In-Charge</td>
-			<td style="border: 1px solid #dddfe1;font-size: 15px;">Mrs Cheow Bee Chuan</td>
+			<td style="background-color: #54585d; font-weight: bold; font-size: 14.5px; border: 1px solid #54585d; color:white;border-bottom: 1px solid #dddddd;width:24%;font-family:Open Sans;">Teacher-In-Charge</td>
+			<td style="border: 1px solid #dddfe1;font-size: 14.5px;font-family:Open Sans;">Mrs Cheow Bee Chuan</td>
 		</tr>
 
 <tr>
-			<td style="background-color: #54585d; font-weight: bold; font-size: 15px; border: 1px solid #54585d;border-bottom: 1px solid #dddddd; color:white;">CCA Teacher(s)</td>
-			<td style="border: 1px solid #dddfe1;font-size: 15px;">Mr Li Hong Jin<br>Miss Tan Hui Ping<br>Mr Bahtiar</td>
+			<td style="background-color: #54585d; font-weight: bold; font-size: 14.5px; border: 1px solid #54585d;border-bottom: 1px solid #dddddd; color:white;font-family:Open Sans;">CCA Teacher(s)</td>
+			<td style="border: 1px solid #dddfe1;font-size: 14.5px;font-family:Open Sans;">Mr Li Hong Jin<br>Miss Tan Hui Ping<br>Mr Bahtiar</td>
 		</tr>
 
 <tr>
-			<td style="background-color: #54585d; font-weight: bold; font-size: 15px; border: 1px solid #54585d; color:white;border-bottom: 1px solid #dddddd;">CCA Schedule</td>
-			<td style="border: 1px solid #dddfe1;font-size: 15px;">Tue: 3.30 pm to 6 pm<br />Fri: 2.30 pm to 6 pm</td>
+			<td style="background-color: #54585d; font-weight: bold; font-size: 14.5px; border: 1px solid #54585d; color:white;border-bottom: 1px solid #dddddd;font-family:Open Sans;">CCA Schedule</td>
+			<td style="border: 1px solid #dddfe1;font-size: 14.5px;font-family:Open Sans;">Tue: 3.30 pm to 6 pm<br />Fri: 2.30 pm to 6 pm</td>
 		</tr>
 		
 <tr>
-			<td style="background-color: #54585d; font-weight: bold; font-size: 15px; border: 1px solid #54585d; color:white;">Venues</td>
-			<td style="border: 1px solid #dddfe1;font-size: 15px;">Indoor Sports Hall (ISH) Level 2</td>
+			<td style="background-color: #54585d; font-weight: bold; font-size: 14.5px; border: 1px solid #54585d; color:white;font-family:Open Sans;">Venues</td>
+			<td style="border: 1px solid #dddfe1;font-size: 14.5px;font-family:Open Sans;">Indoor Sports Hall (ISH) Level 2</td>
 		</tr>
 		
 </tbody>
