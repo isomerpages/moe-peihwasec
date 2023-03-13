@@ -9,7 +9,7 @@ third_nav_title: Sports & Games
 <p style="margin-top:15px;font-size:14.5px; line-height:2;font-family:Open Sans;">
 The Taekwondo programme in Pei Hwa Secondary School (PHSS) focuses on cultivating individual values such as Respect, Resilience and Self-discipline. Our student athletes have done the school proud by winning individual and team events in national competitions. The team also seeks to foster a sense of team spirit within the CCA.</p>
 
-<h4 style="color:#635f1a;font-weight:bold">Student Outcomes</h4>
+<h4 style="color:#635f1a;font-weight:bold;font-family:Open Sans;">Student Outcomes</h4>
 <p style="font-size:14.5px; line-height:2;margin-top:15px; font-family:Open Sans">The CCA will enable our students to:</p>
 <ul style="margin-top:5px">
 		<li style="font-size:14.5px; line-height:2;font-family:Open Sans;"> cultivate respectful and rational individuals</li>
@@ -18,35 +18,35 @@ The Taekwondo programme in Pei Hwa Secondary School (PHSS) focuses on cultivatin
 		<li style="font-size:14.5px; line-height:2;font-family:Open Sans;"> deepen understanding of self-discipline and team collaboration</li>
 	</ul>
 	
-<h4 style="color:#635f1a;font-weight:bold">Achievements</h4>
+<h4 style="color:#635f1a;font-weight:bold;font-family:Open Sans;">Achievements</h4>
 	
 <table border="1" style="border-collapse: collapse;margin: 25px 0;font-size:15px;font-family: sans-serif;box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);">
-<thead style="background-color: #009879; font-weight: bold; font-size: 16px;">
+<thead style="background-color: #009879; font-weight: bold; font-size: 15.5px;">
 <tr>
-				<td style="text-align:left;color:white;">Year of Competition</td>
-				<td style="text-align:left;color:white;">Attainment</td>
+				<td style="text-align:left;color:white;font-family:Open Sans;">Year of Competition</td>
+				<td style="text-align:left;color:white;font-family:Open Sans;">Attainment</td>
 			</tr>
 </thead>
 	
 <tbody>
-<tr>
-				<td style="font-size:15px;"><strong>2021</strong></td>
-				<td style="font-size:15px;margin-bottom:-13px;margin-top:-10px;">
-					<strong>
-						3<sup>rd</sup> B Division Boys Poomsae (Team)<br>
-						3<sup>rd</sup> B Division Girls Poomsae (Team)<br>
-						3<sup>rd</sup> B Division Boys Poomsae (Individual)<br>
+<tr style="font-size:14.5px;">
+				<td><strong style="font-family:Open Sans;">2021</strong></td>
+				<td style="margin-bottom:-13px;margin-top:-10px;">
+					<strong style="font-family:Open Sans;">
+						3<sup style="font-family:Open Sans;">rd</sup> B Division Boys Poomsae (Team)<br>
+						3<sup style="font-family:Open Sans;">rd</sup> B Division Girls Poomsae (Team)<br>
+						3<sup style="font-family:Open Sans;">rd</sup> B Division Boys Poomsae (Individual)<br>
 					</strong>
 				</td>
 </tr>
 			
-<tr style=" background-color: #f3f3f3;">
-				<td style="font-size:15px;"><strong>2019</strong></td>
-				<td style="font-size:15px;margin-bottom:5px;">
-					<strong>
-						1<sup>st</sup> B Division Girls Kyorugi Overall 1st<br>
-						2<sup>nd</sup> B Division Boys Kyorugi Overall 2nd<br>
-						4<sup>th</sup> C Division Boys Poomsae Overall 4th<br>
+<tr style=" background-color: #f3f3f3; font-size:14.5px;">
+				<td><strong style="font-family:Open Sans;">2019</strong></td>
+				<td style="margin-bottom:5px;">
+					<strong style="font-family:Open Sans;">
+						1<sup style="font-family:Open Sans;">st</sup> B Division Girls Kyorugi Overall 1st<br>
+						2<sup style="font-family:Open Sans;">nd</sup> B Division Boys Kyorugi Overall 2nd<br>
+						4<sup style="font-family:Open Sans;">th</sup> C Division Boys Poomsae Overall 4th<br>
 					</strong>
 				</td>
 </tr>
