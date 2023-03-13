@@ -93,7 +93,7 @@ third_nav_title: Sports & Games
 
 <tr>
 			<td style="background-color: #54585d; font-weight: bold; font-size: 14.5px; border: 1px solid #54585d;border-bottom: 1px solid #dddddd; color:white; font-family:Open Sans;">CCA Teacher(s)</td>
-			<td style="border: 1px solid #dddfe1;font-size: 14.5px; font-family:Open Sans;">Mr Tan Hai Seng<br>Miss Udhaya chandhini mugilvanan<br>Miss Lim Guat Hong</td>
+			<td style="border: 1px solid #dddfe1;font-size: 14.5px; font-family:Open Sans;">Mr Tay Swee Hoe<br>Mr Yang Bin</td>
 		</tr>
 
 <tr>
