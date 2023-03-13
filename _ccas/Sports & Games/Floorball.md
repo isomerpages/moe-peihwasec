@@ -271,7 +271,7 @@ Do check us out on our Instagram page @peihwaphoenix !</p>
 
 <tr>
 			<td style="background-color: #54585d; font-weight: bold; font-size: 14.5px; border: 1px solid #54585d;border-bottom: 1px solid #dddddd; color:white;font-family:Open Sans;">CCA Teacher(s)</td>
-			<td style="border: 1px solid #dddfe1;font-size: 14.5px;">Ms Yasmin Yeow<br>Mdm Nurull Dzarifa</td>
+			<td style="border: 1px solid #dddfe1;font-size: 14.5px;">Mdm Nurull Dzarifa Bte Othman Z<br>Ms Yasmin Yeow</td>
 		</tr>
 
 <tr>
