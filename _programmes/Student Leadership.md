@@ -117,19 +117,19 @@ Class Leaders lead their classes in various class initiatives and activities, su
 </table>
 
 <img src="/images/sl2.jpg" style="width: 100%;margin-top:15px;">
-<p style="font-size:11px; line-height:2; margin-top:-5px;text-align:center;font-family:Open Sans;" >Student Councillors publicising Student Council to the Secondary 1 students during the recruitment drive.</p>
+<p style="font-size:11px; line-height:2; margin-top:5px;text-align:center;font-family:Open Sans;" >Student Councillors publicising Student Council to the Secondary 1 students during the recruitment drive.</p>
 
 <img src="/images/sl3.jpg" style="width: 100%;margin-top:15px;">
-<p style="font-size:11px; line-height:2; margin-top:-5px;text-align:center;font-family:Open Sans;">Guiding the elderly during Senior Citizens&rsquo; Day 2020.</p>
+<p style="font-size:11px; line-height:2; margin-top:5px;text-align:center;font-family:Open Sans;">Guiding the elderly during Senior Citizens&rsquo; Day 2020.</p>
 
 
 <img src="/images/sl4.jpg" style="width: 100%;margin-top:15px;">
-<p style="font-size:11px; line-height:2; margin-top:-5px;text-align:center;font-family:Open Sans;">Secondary 1 Orientation leaders explaning and demonstrating the intricacies of the icebreaker game to the Secondary 1 students.</p>
+<p style="font-size:11px; line-height:2; margin-top:5px;text-align:center;font-family:Open Sans;">Secondary 1 Orientation leaders explaning and demonstrating the intricacies of the icebreaker game to the Secondary 1 students.</p>
 
 
 <img src="/images/sl5.png" style="width: 100%;margin-top:15px;">
-<p style="font-size:11px; line-height:2; margin-top:-5px;text-align:center;font-family:Open Sans;">Student Leaders reciting their pledge during Student Leaders&rsquo; Investiture.</p>
+<p style="font-size:11px; line-height:2; margin-top:5px;text-align:center;font-family:Open Sans;">Student Leaders reciting their pledge during Student Leaders&rsquo; Investiture.</p>
 
 
 <img src="/images/sl6.jpg" style="width: 100%;margin-top:15px;">
-<p style="font-size:11px; line-height:2; margin-top:-5px;text-align:center;font-family:Open Sans;">Student Leaders brainstorming for solutions using the PHSS Innovation Cycle during Leadership Camp.</p>
+<p style="font-size:11px; line-height:2; margin-top:5px;text-align:center;font-family:Open Sans;">Student Leaders brainstorming for solutions using the PHSS Innovation Cycle during Leadership Camp.</p>
