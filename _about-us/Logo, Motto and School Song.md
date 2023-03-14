@@ -3,17 +3,17 @@ title: Logo, Motto and School Song
 permalink: /about-us/logo-motto-and-school-song/
 description: ""
 ---
-<h4 style="color:#635f1a;font-weight:bold">Logo</h4>
+<h4 style="color:#635f1a;font-weight:bold;font-family:Open Sans">Logo</h4>
 <img style="width:30%; margin-top: 12px; align:left;" src="/images/logo.png" />
 <p style="font-size:14.5px; line-height:2;margin-top:15px; font-family:Open Sans">
 The logo is formed by the Chinese characters &ldquo;Pei&rdquo; and &ldquo;Hwa&rdquo; which means &ldquo;Nurturing Talents&rdquo;. Central to the logo is the figure representing a resilient Pei Hwa pupil who is happy and confident even as he leaps over each obstacle. He is upright (as shown by the &ldquo;li&rdquo; character at the top of the figure&rsquo;s head) and grounded (as shown by the &ldquo;tu&rdquo; character) in values. His education in Pei Hwa has enabled him to embrace the world of knowledge with open arms and to push beyond current boundaries.</p>
 
 
-<h4 style="color:#635f1a;font-weight:bold">Motto</h4>
+<h4 style="color:#635f1a;font-weight:bold;font-family:Open Sans">Motto</h4>
 <p style="font-size:14.5px; line-height:2;margin-top:15px; font-family:Open Sans">
 Nurturing Talents (meaning of the word &lsquo;Pei Hwa&rsquo; in Chinese)</p>
 
-<h4 style="color:#635f1a;font-weight:bold">School Song</h4>
+<h4 style="color:#635f1a;font-weight:bold;font-family:Open Sans">School Song</h4>
 <p style="font-size:14.5px; line-height:2;margin-top:15px; font-family:Open Sans">
 In Pei Hwa Secondary School<br>We are the pride of the community<br>To lead and serve with integrity<br>We grow in our resiliency</p>
 
