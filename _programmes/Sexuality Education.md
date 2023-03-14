@@ -62,17 +62,17 @@ description: ""
 	
 <tr>
 		<td style="font-size:14.5px;margin-bottom:5px; line-height:2;font-family:Open Sans;text-align:center;" rowspan="5">Respectful Relationships &amp; Safety</td>
-		<td style="font-size:14.5px;margin-bottom:5px;line-height:2;text-align:center;">Steady or Not <br>Lesson 1<br>(60 mins)</td>
-		<td style="font-size:14.5px;margin-bottom:5px;line-height:2;">This lesson helps students understand more about relationship building and the different types of love (e.g. familial, platonic, romantic). They will have the opportunity to better understand the considerations involved in making responsible decisions towards dating and romantic relationships and understand how to build healthy and supportive relationships, both online and offline.</td>
+		<td style="font-size:14.5px;font-family:Open Sans;margin-bottom:5px;line-height:2;text-align:center;">Steady or Not<br>Lesson 1<br>(60 mins)</td>
+		<td style="font-size:14.5px;font-family:Open Sans;margin-bottom:5px;line-height:2;">This lesson helps students understand more about relationship building and the different types of love (e.g. familial, platonic, romantic). They will have the opportunity to better understand the considerations involved in making responsible decisions towards dating and romantic relationships and understand how to build healthy and supportive relationships, both online and offline.</td>
 		<td>
 			<ul style="margin-top:-10px;">
-				<li style="font-size:14.5px;margin-bottom:5px;line-height:2">Recognise the importance of monitoring and managing our emotional reactions, in helpful ways that are reflective of our values and principles</li>
-			    <li style="font-size:15px;margin-bottom:5px;line-height:2">Recognise that there are different forms of love (e.g. familial, platonic, romantic love)</li>
-				<li style="font-size:15px;margin-bottom:5px;line-height:2">Recognise the importance and understand what builds healthy and supportive relationships, both online and offline</li>
-				<li style="font-size:15px;margin-bottom:5px;line-height:2">Understand what dating is, and recognise that the readiness and interest in dating vary among individuals</li>
+				<li style="font-size:14.5px;font-family:Open Sans;margin-bottom:5px;line-height:2">Recognise the importance of monitoring and managing our emotional reactions, in helpful ways that are reflective of our values and principles</li>
+			    <li style="font-size:14.5px;font-family:Open Sans;margin-bottom:5px;line-height:2">Recognise that there are different forms of love (e.g. familial, platonic, romantic love)</li>
+				<li style="font-size:14.5px;font-family:Open Sans;margin-bottom:5px;line-height:2">Recognise the importance and understand what builds healthy and supportive relationships, both online and offline</li>
+				<li style="font-size:14.5px;font-family:Open Sans;margin-bottom:5px;line-height:2">Understand what dating is, and recognise that the readiness and interest in dating vary among individuals</li>
 			</ul>
 		</td>
-		<td style="font-size:15px;margin-bottom:5px;line-height:2">Term 2 Week 6</td>
+		<td style="font-size:14.5px;font-family:Open Sans;margin-bottom:5px;line-height:2">Term 2 Week 6</td>
 </tr>
 	
 <tr style="background-color:#f3f3f3;font-size:15px;line-height:2">
