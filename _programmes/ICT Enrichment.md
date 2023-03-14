@@ -3,9 +3,9 @@ title: ICT Enrichment
 permalink: /programmes/ict-enrichment/
 description: ""
 ---
-<h4 style="color:#635f1a;font-weight:bold">Secondary 1 &ndash; 2</h4>
+<h4 style="color:#635f1a;font-weight:bold;font-family:Open Sans;">Secondary 1 &ndash; 2</h4>
 
- <p style="margin-top:15px;font-size:17px;"><strong>Learning Objective</strong></p>
+ <p style="margin-top:15px;font-size:15.5px;"><strong style="font-family:Open Sans;">Learning Objective</strong></p>
 
 <p style="font-size:14.5px; line-height:2;margin:-15px 0 5px 0px;font-family:Open Sans;">Students will be able to:</p>
 
@@ -16,7 +16,7 @@ description: ""
 <li style="font-size:14.5px; line-height:2;margin-left:17px;font-family:Open Sans;">Recognise and address cyberwellness issues (skills and values from earlier keystage should be continuously reinforced)</li>
 </ol>
 
- <p style="margin-top:15px;font-size:17px;"><strong>ICT Focus</strong></p>
+ <p style="margin-top:15px;font-size:15.5px;"><strong style="font-family:Open Sans;">ICT Focus</strong></p>
 
 <p style="font-size:14.5px; line-height:2;margin:-15px 0 5px 0px;font-family:Open Sans;">Students will be able to:</p>
 
@@ -29,9 +29,9 @@ description: ""
 <li style="font-size:14.5px; line-height:2;margin-left:17px;font-family:Open Sans;">Export and process data using ICT tools</li>
 </ol>
 
-<h4 style="color:#635f1a;font-weight:bold">Secondary 3 &ndash; 5 </h4>
+<h4 style="color:#635f1a;font-weight:bold;font-family:Open Sans;">Secondary 3 &ndash; 5 </h4>
 
- <p style="margin-top:15px;font-size:17px;"><strong>Learning Objective</strong></p>
+ <p style="margin-top:15px;font-size:15.5px;"><strong style="font-family:Open Sans;">Learning Objective</strong></p>
 
 <p style="font-size:14.5px; line-height:2;margin:-15px 0 5px 0px;font-family:Open Sans;">Students will be able to:</p>
 
@@ -42,7 +42,7 @@ description: ""
 <li style="font-size:14.5px; line-height:2;margin-left:17px;font-family:Open Sans;">Address cyberwellness issues (skills and values from earlier keystages should be continuously reinforced)</li>
 </ol>
 
- <p style="margin-top:15px;font-size:17px;"><strong>ICT Focus</strong></p>
+ <p style="margin-top:15px;font-size:15.5px;"><strong style="font-family:Open Sans;">ICT Focus</strong></p>
 
 <p style="font-size:14.5px; line-height:2;margin:-15px 0 5px 0px;font-family:Open Sans;">Students will be able to:</p>
 
