@@ -4,12 +4,12 @@ permalink: /ccas/performing-arts/choir/
 description: ""
 third_nav_title: Performing Arts
 ---
-<p style="font-size:14.5px; line-height:2;font-family:Open Sans;">The <strong>Pei Hwa&nbsp;Choir&nbsp;</strong>was set up in 2007. Many of our members join the choir with little to no singing and music experience. Through the passion for singing and diligence, many of our singers have grown to become confident young ladies and men. With a repertoire from different cultures and genres, we continue to broaden our perspectives and stretch our potential in the choral scene. We are also able to have a rich variety of experiences through various public performances, choral exchanges and arts appreciation learning journeys. Even more so, what the members of Pei Hwa Choir are most thankful for, is the opportunity to come together to make music with our voices. &ldquo;We Sing as One!&rdquo;</p>
+<p style="font-size:14.5px; line-height:2;font-family:Open Sans;">The <strong style="font-family:Open Sans;">Pei Hwa&nbsp;Choir&nbsp;</strong>was set up in 2007. Many of our members join the choir with little to no singing and music experience. Through the passion for singing and diligence, many of our singers have grown to become confident young ladies and men. With a repertoire from different cultures and genres, we continue to broaden our perspectives and stretch our potential in the choral scene. We are also able to have a rich variety of experiences through various public performances, choral exchanges and arts appreciation learning journeys. Even more so, what the members of Pei Hwa Choir are most thankful for, is the opportunity to come together to make music with our voices. &ldquo;We Sing as One!&rdquo;</p>
 
 <img src="/images/choir1.jpg" style="width: 100%;margin-top:10px;">
-<p style="text-align: center; font-size:13px;margin-top:5px;">Pei Hwa Choir</p>
+<p style="text-align: center; font-size:11px;margin-top:-5px;font-family:Open Sans;">Pei Hwa Choir</p>
 
-<h4 style="color:#635f1a;font-weight:bold">Student Outcomes</h4>
+<h4 style="color:#635f1a;font-weight:bold;font-family:Open Sans;">Student Outcomes</h4>
  <p style="font-size:14.5px; line-height:2;margin-top:15px; font-family:Open Sans">The CCA will enable our students to:</p>
 <ul style="margin-top:5px;">
 <li style="font-size:14.5px; line-height:2;font-family:Open Sans;">Appreciate a wide range of songs from different musical genres and eras</li>
@@ -18,74 +18,74 @@ third_nav_title: Performing Arts
 <li style="font-size:14.5px; line-height:2;font-family:Open Sans;">Deepen understanding of self-discipline and team collaboration</li>
 </ul>
 
-<h4 style="color:#635f1a;font-weight:bold">Achievements</h4>
+<h4 style="color:#635f1a;font-weight:bold;font-family:Open Sans;">Achievements</h4>
 	
-<table border="1" style="border-collapse: collapse;margin: 25px 0;font-size:15px;font-family: sans-serif;box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);">
-<thead style="background-color: #009879; font-weight: bold; font-size: 16px;">
+<table border="1" style="border-collapse: collapse;margin: 25px 0;font-size:14.5px;font-family: sans-serif;box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);">
+<thead style="background-color: #009879; font-weight: bold; font-size: 15.5px;">
 <tr>
-				<td style="text-align:left;color:white;">Year of Competition</td>
-				<td style="text-align:left;color:white;">Attainment</td>
+				<td style="text-align:left;color:white;font-family:Open Sans;">Year of Competition</td>
+				<td style="text-align:left;color:white;font-family:Open Sans;">Attainment</td>
 			</tr>
 </thead>
 	
 <tbody>
-<tr>
-				<td><strong>2019</strong></td>
-				<td style="font-size:15px;margin-bottom:5px;">
-					<strong>SYF Arts Presentation</strong>
+<tr style="font-size:14.5px;">
+				<td><strong style="font-family:Open Sans;">2019</strong></td>
+				<td style="margin-bottom:5px;">
+					<strong style="font-family:Open Sans;">SYF Arts Presentation</strong>
 					<br>
 					<ul>
-						<li style="font-size:15px;margin-bottom:5px;">Certificate of Accomplishment</li>
+						<li style="margin-bottom:5px;font-family:Open Sans;">Certificate of Accomplishment</li>
 					</ul>
 				</td>
 </tr>
-<tr style="background-color: #f3f3f3;">
-				<td><strong>2017</strong></td>
-				<td style="font-size:15px;margin-bottom:5px;">
-					<strong>SYF Arts Presentation</strong>
+<tr style="background-color: #f3f3f3;font-size:14.5px;">
+				<td><strong style="font-family:Open Sans;">2017</strong></td>
+				<td style="margin-bottom:5px;">
+					<strong style="font-family:Open Sans;">SYF Arts Presentation</strong>
 					<br>
 					<ul>
-						<li style="font-size:15px;margin-bottom:5px;">Certificate of Distinction</li>
+						<li style="margin-bottom:5px;font-family:Open Sans;">Certificate of Distinction</li>
 					</ul>
 				</td>
 </tr>	
-<tr>
-				<td><strong>2015</strong></td>
-				<td style="font-size:15px;margin-bottom:5px;">
-					<strong>SYF Arts Presentation </strong>
+<tr style="font-size:14.5px;">
+				<td><strong style="font-family:Open Sans;">2015</strong></td>
+				<td style="margin-bottom:5px;">
+					<strong style="font-family:Open Sans;">SYF Arts Presentation </strong>
 					<br>
 					<ul>
-						<li style="font-size:15px;margin-bottom:5px;">Certificate of Distinction</li>
+						<li style="font-size:14.5px;margin-bottom:5px;font-family:Open Sans;">Certificate of Distinction</li>
 					</ul>
 				</td>
 </tr>
-<tr style="background-color: #f3f3f3;">
-				<td><strong>2013</strong></td>
-				<td style="font-size:15px;margin-bottom:5px;">
-					<strong>SYF Arts Presentation</strong>
+<tr style="background-color: #f3f3f3; font-size:14.5px;">
+				<td><strong style="font-family:Open Sans;">2013</strong></td>
+				<td style="margin-bottom:5px;">
+					<strong style="font-family:Open Sans;">SYF Arts Presentation</strong>
 					<br>
 					<ul>
-						<li style="font-size:15px;margin-bottom:5px;">Certificate of Distinction</li>
+						<li style="margin-bottom:5px;font-family:Open Sans;">Certificate of Distinction</li>
 					</ul>
 				</td>
 </tr>
-<tr style="font-size:15px;">
-				<td><strong>2011</strong></td>
-				<td style="font-size:15px;margin-bottom:5px;">
-					<strong>SYF Central Judging</strong>
+<tr style="font-size:14.5px;">
+				<td><strong style="font-family:Open Sans;">2011</strong></td>
+				<td style="margin-bottom:5px;">
+					<strong style="font-family:Open Sans;">SYF Central Judging</strong>
 					<br>
 					<ul>
-						<li style="font-size:15px;margin-bottom:5px;">Silver</li>
+						<li style="margin-bottom:5px;font-family:Open Sans;">Silver</li>
 					</ul>
 				</td>
 </tr>
-<tr style="background-color: #f3f3f3;border-bottom: 2px solid #009879; ">
-				<td><strong>2009</strong></td>
-				<td style="font-size:15px;margin-bottom:5px;">
-					<strong>SYF Central Judging</strong>
+<tr style="background-color: #f3f3f3;border-bottom: 2px solid #009879;font-size:14.5px;">
+				<td><strong style="font-family:Open Sans;">2009</strong></td>
+				<td style="margin-bottom:5px;">
+					<strong style="font-family:Open Sans;">SYF Central Judging</strong>
 					<br>
 					<ul>
-						<li style="font-size:15px;margin-bottom:5px;">Certificate of Participation</li>
+						<li style="margin-bottom:5px;font-family:Open Sans;">Certificate of Participation</li>
 					</ul>
 				</td>
 </tr>
@@ -93,14 +93,14 @@ third_nav_title: Performing Arts
 </tbody>
 </table>
 
-<h4 style="color:#635f1a;font-weight:bold">Competitions and CCA Activities</h4>
+<h4 style="color:#635f1a;font-weight:bold;font-family:Open Sans;">Competitions and CCA Activities</h4>
  <p style="font-size:14.5px; line-height:2;margin-top:15px; font-family:Open Sans">We have always believed in honing the skills of the Choir through various Choral Exchanges with other schools. This provides valuable opportunities for the Choir to learn and share the love for music with one another.</p>
 
 <img src="/images/choir2.jpg" style="width: 100%;margin-top:10px;">
-<p style="text-align: center; font-size:13px;margin-top:5px;">Choir Exchange With Anglican High And Zhonghua Sec</p>
+<p style="text-align: center; font-size:11px;margin-top:-5px;font-family:Open Sans;">Choir Exchange With Anglican High And Zhonghua Sec</p>
 
 <img src="/images/choir3.jpg" style="width: 100%;margin-top:10px;">
-<p style="text-align: center; font-size:13px;margin-top:5px;">Combined Performance With Compassvale Secondary Choi</p>
+<p style="text-align: center; font-size:11px;margin-top:-5px;font-family:Open Sans;">Combined Performance With Compassvale Secondary Choi</p>
 
 <p style="margin-top:15px;font-size:14.5px; line-height:2;font-family:Open Sans;">Since 2007, the&nbsp;Pei Hwa Choir has also participated and performed in many external events, like:</p>
 
