@@ -3,16 +3,16 @@ title: School Safety
 permalink: /links/school-safety/
 description: ""
 ---
-<h4 style="color:#635f1a;font-weight:bold">Vision</h4>
+<h4 style="color:#635f1a;font-weight:bold;font-family:Open Sans;">Vision</h4>
 <p style="font-size:14.5px; line-height:2;margin-top:15px; font-family:Open Sans">A safe and&nbsp;healthy school for everyone</p>
 
-<h4 style="color:#635f1a;font-weight:bold">Mission</h4>
-<p style="font-size:14.5px; line-height:2;margin-top:15px; font-family:Open Sans">Building and strengthening a safety culture in school</p>
+<h4 style="color:#635f1a;font-weight:bold;font-family:Open Sans;">Mission</h4>
+<p style="font-size:14.5px; line-height:2;margin-top:15px; font-family:Open Sans;">Building and strengthening a safety culture in school</p>
 
-<h4 style="color:#635f1a;font-weight:bold">Safety Message</h4>
-<p style="margin-top:15px;font-size:17px;"><strong>Safety Starts with Me</strong></p>
+<h4 style="color:#635f1a;font-weight:bold;font-family:Open Sans;">Safety Message</h4>
+<p style="margin-top:15px;font-size:15.5px;"><strong style="font-family:Open Sans;">Safety Starts with Me</strong></p>
 
-<p style="font-size:14.5px; line-height:2;margin:-15px 0 13px 0px;font-family:Open Sans;">Pei Hwa Secondary School believes in providing a safe and healthy environment for achieving our School Motto of&nbsp;<em>Nurturing Talents</em>. We aim to:</p>
+<p style="font-size:14.5px; line-height:2;margin:-15px 0 13px 0px;font-family:Open Sans;">Pei Hwa Secondary School believes in providing a safe and healthy environment for achieving our School Motto of&nbsp;<em style="font-family:Open Sans;">Nurturing Talents</em>. We aim to:</p>
 
 <ul style="margin-top:5px;">
 <li style="font-size:14.5px; line-height:2;font-family:Open Sans;">make Pei Hwa Secondary School a safe and secure place for teaching and learning</li>
@@ -24,8 +24,8 @@ description: ""
 
 <img src="/images/schoolsafety1.png" style="width: 100%;margin-top:10px;">
 
-<h4 style="color:#635f1a;font-weight:bold">Committee</h4>
-<p style="font-size:14.5px; line-height:2;margin-top:15px; font-family:Open Sans">Under the leadership of the School Leaders, the&nbsp;<strong>School Safety &amp; Emergency Committee</strong>&nbsp;is formed to ensure a safe work environment for teaching and learning.</p>
+<h4 style="color:#635f1a;font-weight:bold;font-family:Open Sans;">Committee</h4>
+<p style="font-size:14.5px; line-height:2;margin-top:15px; font-family:Open Sans">Under the leadership of the School Leaders, the&nbsp;<strong style="font-family:Open Sans;">School Safety &amp; Emergency Committee</strong>&nbsp;is formed to ensure a safe work environment for teaching and learning.</p>
 
 <p style="margin-top:15px;font-size:14.5px; line-height:2;font-family:Open Sans;">The Committee&nbsp;is headed by the Chief Safety Officer (Vice-Principal) to cover 6 main areas of safety:</p>
 
@@ -38,12 +38,12 @@ description: ""
 <li style="font-size:14.5px; line-height:2;font-family:Open Sans;">Education on Safety</li>
 </ul>
 
-<h4 style="color:#635f1a;font-weight:bold">General Information</h4>
+<h4 style="color:#635f1a;font-weight:bold;font-family:Open Sans;">General Information</h4>
 
-<p style="margin-top:15px;font-size:17px;"><strong>Safety Policies &amp; Guidelines</strong></p>
+<p style="margin-top:15px;font-size:15.5px;font-family:Open Sans;"><strong style="font-family:Open Sans;">Safety Policies &amp; Guidelines</strong></p>
 <p style="font-size:14.5px; line-height:2;margin:-15px 0 13px 0px;font-family:Open Sans;">These written documents are readily accessible through school shared folders and are communicated to all students at the beginning of each year.</p>
 
-<p style="margin-top:15px;font-size:17px;"><strong>General Safety Rules &amp; Precautions</strong></p>
+<p style="margin-top:15px;font-size:15.5px;"><strong style="font-family:Open Sans;">General Safety Rules &amp; Precautions</strong></p>
 <p style="font-size:14.5px; line-height:2;margin:-15px 0 13px 0px;font-family:Open Sans;">Conducting Pre-activity Safety Briefing for all activities:</p>
 
 <ol style="margin-top:5px;">
@@ -67,7 +67,7 @@ description: ""
 
 <p style="margin-top:15px;font-size:14.5px; line-height:2;font-family:Open Sans;">Established internal safety audit structure and conducting yearly internal audit.</p>
 
-<p style="margin-top:15px;font-size:17px;"><strong>Road Safety Management</strong></p>
+<p style="margin-top:15px;font-size:15.5px;"><strong style="font-family:Open Sans;">Road Safety Management</strong></p>
 
 <ol style="margin-top:5px;">
 <li style="font-size:14.5px; line-height:2;margin-left:17px;font-family:Open Sans;"> Security officers control traffic at the main gate during peak hours.</li>
@@ -75,10 +75,10 @@ description: ""
 <li style="font-size:14.5px; line-height:2;margin-left:17px;font-family:Open Sans;"> For all student cyclists (manual and electric) and PMD users, it is required to register your particulars with your parent&rsquo;s consent with the General Office.</li>
 </ol>
 
-<h4 style="color:#635f1a;font-weight:bold">
+<h4 style="color:#635f1a;font-weight:bold;font-family:Open Sans;">
 Road Safety for Parents and Children</h4>
 
-<p style="margin-top:15px;font-size:17px;"><strong>Driving in school zones</strong></p>
+<p style="margin-top:15px;font-size:15.5px;"><strong style="font-family:Open Sans;">Driving in school zones</strong></p>
 
 <ul style="margin-top:5px;">
 <li style="font-size:14.5px; line-height:2;font-family:Open Sans;"> slow down and drive more carefully when you are in a school zone.</li>
@@ -87,7 +87,7 @@ Road Safety for Parents and Children</h4>
 <li style="font-size:14.5px; line-height:2;font-family:Open Sans;"> Follow the instructions given by the school security personnel/teacher warden.</li>
 </ul>
 
-<p style="margin-top:15px;font-size:17px;"><strong>In guiding your child</strong></p>
+<p style="margin-top:15px;font-size:15.5px;"><strong style="font-family:Open Sans;">In guiding your child</strong></p>
 
 <ul style="margin-top:5px;">
 <li style="font-size:14.5px; line-height:2;font-family:Open Sans;"> Set the right example for your child to use the road safely.</li>
@@ -95,15 +95,15 @@ Road Safety for Parents and Children</h4>
 <li style="font-size:14.5px; line-height:2;font-family:Open Sans;"> If you drive your children to school, let them alight at a safe and proper drop-off point. This ensures safety not only for your child but for other school children and road users as well.</li>
 </ul>
 
-<h4 style="color:#635f1a;font-weight:bold">
+<h4 style="color:#635f1a;font-weight:bold;font-family:Open Sans;">
 Safety Tips for Participation in Sports and Games</h4>
 <p style="font-size:14.5px; line-height:2;margin-top:15px; font-family:Open Sans">As with all physical activities, sporting or otherwise, there is always an inherent element of risk. As such, one should always encure that these risks are minimized before the start of each activity. In many instances, accidents and injuries could be avoided if adheres to safety practices.</p>
 
-<p style="margin-top:15px;font-size:14.5px; line-height:2;font-family:Open Sans;">More information on Sports Safety Tips can be found at&nbsp;<a href="https://www.sportsingapore.gov.sg/Sports-Education/Sports-Safety/Sport-Safety-Public-Consultation" target="_blank" rel="noopener noreferrer">here</a>.</p>
+<p style="margin-top:15px;font-size:14.5px; line-height:2;font-family:Open Sans;">More information on Sports Safety Tips can be found at&nbsp;<a href="https://www.sportsingapore.gov.sg/Sports-Education/Sports-Safety/Sport-Safety-Public-Consultation" target="_blank" rel="noopener noreferrer" style="font-family:Open Sans;">here</a>.</p>
 
-<h4 style="color:#635f1a;font-weight:bold">Insurance Claim</h4>
+<h4 style="color:#635f1a;font-weight:bold;font-family:Open Sans;">Insurance Claim</h4>
 
-<p style="margin-top:15px;font-size:17px;"><strong>Student Accident Protection Scheme</strong></p>
+<p style="margin-top:15px;font-size:15.5px;"><strong style="font-family:Open Sans;">Student Accident Protection Scheme</strong></p>
 
 <p style="font-size:14.5px; line-height:2;margin:-15px 0 13px 0px;font-family:Open Sans;">All Pei Hwa pupils are covered under the above scheme which provides 24-hour worldwide accident coverage related to school activites and/or CCAs both in and out of school.</p>
 
@@ -111,11 +111,11 @@ Safety Tips for Participation in Sports and Games</h4>
 
 <p style="margin-top:15px;font-size:14.5px; line-height:2;font-family:Open Sans;">Completed forms and supporting documents/medical bills are to be submitted to the General Office within 1 month of the date of the bill.</p>
 
-<h4 style="color:#635f1a;font-weight:bold">Food Safety in School</h4>
+<h4 style="color:#635f1a;font-weight:bold;font-family:Open Sans;">Food Safety in School</h4>
 <p style="font-size:14.5px; line-height:2;margin-top:15px; font-family:Open Sans">Food can be easily contaminated and become unsafe for eating. Food contaimination may occur when cooked food is accidentally mixed with raw meat&nbsp;juices, or when food is exposed to dirt, chemicals, bacteria, viruses or other pathogens. This usually happens because we do not handle our food safely or observe proper hygiene.</p>
 
 <p style="margin-top:15px;font-size:14.5px; line-height:2;font-family:Open Sans;">Eating contaminated food can cause food poisoning, which can range from mild to severe cases of food poisoning, which could be fatal.&nbsp; We can help safeguard our personal health by maintaining personal hygiene and practising good habits.</p>
 
-<p style="margin-top:15px;font-size:14.5px; line-height:2;font-family:Open Sans;">For&nbsp;food safety tips, you may refer to the&nbsp;<a href="https://www.sfa.gov.sg/food-information/food-safety-education" target="_blank" rel="noopener noreferrer">Singapore Food Agency</a>&nbsp;website.</p>
+<p style="margin-top:15px;font-size:14.5px; line-height:2;font-family:Open Sans;">For&nbsp;food safety tips, you may refer to the&nbsp;<a href="https://www.sfa.gov.sg/food-information/food-safety-education" target="_blank" rel="noopener noreferrer" style="font-family:Open Sans;">Singapore Food Agency</a>&nbsp;website.</p>
 
 <p style="margin-top:15px;font-size:14.5px; line-height:2;font-family:Open Sans;">Your suggestions matter to us. If you have any queries on safety, please feel free to call the Chief Safety Officer at 6500 9580.</p>
