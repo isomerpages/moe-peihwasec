@@ -3,7 +3,7 @@ title: Sexuality Education
 permalink: /programmes/sexuality-education/
 description: ""
 ---
-<h4 style="color:#635f1a;font-weight:bold">MOE Sexuality Education in Schools</h4>
+<h4 style="color:#635f1a;font-weight:bold;font-family:Open Sans;">MOE Sexuality Education in Schools</h4>
 
 <p style="font-size:14.5px; line-height:2;margin-top:15px; font-family:Open Sans">Sexuality Education (SEd) in schools is about enabling students to understand the physiological, social and emotional changes they experience as they mature, develop healthy and rewarding relationships including those with members of the opposite sex, and make wise, informed and responsible decisions on sexuality matters. SEd is premised on the importance of the family as the basic unit of society. This means encouraging healthy, heterosexual marriages and stable nuclear family units with extended family support. The teaching and learning of SEd is based on respect for the values and beliefs of the different ethnic and religious communities in Singapore on sexuality issues.</p>
 
@@ -22,10 +22,10 @@ description: ""
 <li aria-level="1" style="font-size:14.5px; line-height:2;margin-left:17px;font-family:Open Sans;">Abstinence before marriage is the best protection against STIs/HIV and unintended pregnancies. Casual sex can harm and hurt you and your loved ones.</li>
 </ol>
 
-<p style="margin-top:15px;font-size:14.5px; line-height:2;font-family:Open Sans;">You may click&nbsp;<a href="https://www.moe.gov.sg/programmes/sexuality-education" target="_blank" rel="noopener noreferrer">here</a>&nbsp;for more information on MOE Sexuality Education.</p>
+<p style="margin-top:15px;font-size:14.5px; line-height:2;font-family:Open Sans;">You may click&nbsp;<a href="https://www.moe.gov.sg/programmes/sexuality-education" target="_blank" rel="noopener noreferrer" style="font-family:Open Sans;">here</a>&nbsp;for more information on MOE Sexuality Education.</p>
 
 
-<h4 style="color:#635f1a;font-weight:bold">Overview of Pei Hwa Secondary & School & Sexuality Education Programme for 2022</h4>
+<h4 style="color:#635f1a;font-weight:bold;font-family:Open Sans;">Overview of Pei Hwa Secondary & School & Sexuality Education Programme for 2023</h4>
 
  <p style="font-size:14.5px; line-height:2;margin-top:15px; font-family:Open Sans"><p style="margin-top:15px;font-size:14.5px; line-height:2;font-family:Open Sans;">Sexuality Education is delivered in a holistic manner through the school curriculum. The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law. You may click&nbsp;<a href="https://www.moe.gov.sg/programmes/sexuality-education/scope-and-teaching-approach">here</a>&nbsp;for more information on the scope of Sexuality Education in the school curriculum.</p>
 
@@ -36,12 +36,12 @@ description: ""
 </ul>
 
 
-<h4 style="color:#635f1a;font-weight:bold">Sexuality Education Lessons:</h4>
+<h4 style="color:#635f1a;font-weight:bold;font-family:Open Sans;">Sexuality Education Lessons</h4>
 <p style="font-size:14.5px; line-height:2;margin-top:15px; font-family:Open Sans">The values and attitudes of our youth towards sexuality are increasingly shaped by their peers, exposure to the media, popular culture and the internet. Adolescence is a complex stage in life as the adolescent attempts to find his/her own identity and often struggles with new social relationships. The period of middle adolescence (generally from 15 &ndash; 17 years old) can be a turbulent period for adolescents. The gap between physical and emotional/cognitive maturity may result in a tendency to act on impulse, experiment with various activities (including sexual activities), sometimes without understanding the unpleasant consequences that may arise from such experimentation. The need for peer acceptance can be overwhelmingly strong, and hinder one&rsquo;s ability to act responsibly. Given the pressures faced by the middle adolescent from within themselves and from peers, it is important to build a strong sense of self-worth, personal conviction and an understanding of the possible consequences of sexual behaviour.</p>
 
 <p style="margin-top:15px;font-size:14.5px; line-height:2;font-family:Open Sans;">Through the Sexuality Education lessons, secondary students will have the opportunity to develop a positive self-esteem, develop their character, and expand their understanding and repertoire of skills to deal with various issues related to sexuality, which are of prime concern at this age.&nbsp;</p>
 
-<h4 style="color:#635f1a;font-weight:bold">At Pei Hwa Secondary School, the following Sexuality Education lessons will be taught in 2022</h4>
+<h4 style="color:#635f1a;font-weight:bold;font-family:Open Sans;">At Pei Hwa Secondary School, the following Sexuality Education lessons will be taught in 2023</h4>
 
  <p style="margin-top:15px;font-size:17px;"><strong>SECONDARY 1<br /></strong></p>
 
