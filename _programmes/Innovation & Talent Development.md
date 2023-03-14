@@ -3,10 +3,10 @@ title: Innovation & Talent Development
 permalink: /innovation-talent-development-programme/
 description: ""
 ---
-<h4 style="color:#635f1a;font-weight:bold">Our Goals</h4>
+<h4 style="color:#635f1a;font-weight:bold;font-family:Open Sans;">Our Goals</h4>
 <p style="font-size:14.5px; line-height:2;margin-top:15px; font-family:Open Sans">To shape an innovative mindset in our students, the school&rsquo;s innovative thrust aims to provide Pei Hwa students with platforms to expose students to the innovations in the VUCA world, allow students to apply and exhibit their innovative ideas and projects. Leveraging on our very own Pei Hwa Innovation Cycle, we aim to develop an innovative mindset in our students, equipping them with the eight characteristics of an innovator&rsquo;s mindset as defined by George Couros.</p>
 
-<h4 style="color:#635f1a;font-weight:bold">Our Programmes</h4>
+<h4 style="color:#635f1a;font-weight:bold;font-family:Open Sans;">Our Programmes</h4>
 <p style="font-size:14.5px; line-height:2;margin-top:15px; font-family:Open Sans">In order to realise the School&rsquo;s mission to develop innovative and compassionate citizens, it is imperative to cultivate an innovative mindset in our students. In Pei Hwa Secondary School, the approach of a tiered student development is adopted. This differentiated approach aims to provide suitable platforms for students with different readiness levels to be exposed to, apply and exhibit the innovative mindset:</p>
 
 <ul style="margin-top:5px;">
@@ -17,13 +17,13 @@ description: ""
 
 
 <img src="/images/itd1.jpg" style="width: 100%;margin-top:10px;">
-<p style="font-size:13px; line-height:2; text-align:center; margin-top:5px;">Tiered student development for students with different levels of readiness</p>
+<p style="font-size:11px; line-height:2; text-align:center; margin-top:-5px;font-family:Open Sans;">Tiered student development for students with different levels of readiness</p>
 
 <p style="margin-top:15px;font-size:14.5px; line-height:2;font-family:Open Sans;">As part of the tiered student development in Pei Hwa Secondary School, the Innovation Talent Development Programme (TDP) aims to target and select around 45 Secondary One to Three students who have indicated keen interest in the areas of innovation.</p>
 
-<p style="margin-top:15px;font-size:17px;"><strong>Exposure</strong></p>
+<p style="margin-top:15px;font-size:15.5px;"><strong style="font-family:Open Sans;"> Exposure</strong></p>
 
-<p style="font-size:14.5px; line-height:2;margin:-15px 0 13px 0px;font-family:Open Sans;">Innovation TDP provides opportunities for students to gain exposure through&nbsp;<u>learning journeys, discussion forums, speaker series, workshops.</u></p>
+<p style="font-size:14.5px; line-height:2;margin:-15px 0 13px 0px;font-family:Open Sans;">Innovation TDP provides opportunities for students to gain exposure through&nbsp;<u style="font-family:Open Sans;">learning journeys, discussion forums, speaker series, workshops.</u></p>
 
 <ol style="margin-top:5px;">
 <li style="font-size:14.5px; line-height:2;margin-left:17px;font-family:Open Sans;"> Learning Journeys to Design Bridge, Red Dot Museum, 3M, Temasek Polytechnic (School of Design)</li>
@@ -40,9 +40,9 @@ description: ""
 <img src="/images/itd4.png" style="width: 100%;margin-top:10px;">
 </ol>
 
-<p style="margin-top:15px;font-size:17px;"><strong>Application</strong></p>
+<p style="margin-top:15px;font-size:15.5px;"><strong style="font-family:Open Sans;">Application</strong></p>
 
-<p style="font-size:14.5px; line-height:2;margin:-15px 0 13px 0px;font-family:Open Sans;">TDP also provides students with opportunities to apply their innovative mindsets in&nbsp;<u>external platforms/competitions</u>&nbsp;that are&nbsp;<u>nationally recognised.</u></p>
+<p style="font-size:14.5px; line-height:2;margin:-15px 0 13px 0px;font-family:Open Sans;">TDP also provides students with opportunities to apply their innovative mindsets in&nbsp;<u style="font-family:Open Sans;">external platforms/competitions</u>&nbsp;that are&nbsp;<u style="font-family:Open Sans;">nationally recognised.</u></p>
 
 <ul style="margin-top:-5px;">
 	<li style="font-size:14.5px; line-height:2;margin-left:17px;font-family:Open Sans;">MOE Innovation Programme (MOE IvP)</li>
@@ -73,9 +73,9 @@ description: ""
 <img style="width: 100%;margin-top:10px;" src="/images/itd8.png"/>
 
 <br>
-<p style="margin-top:15px;font-size:17px;"><strong>Exhibition</strong></p>
+<p style="margin-top:15px;font-size:15.5px;"><strong style="font-family:Open Sans;">Exhibition</strong></p>
 	
-<p style="font-size:14.5px; line-height:2;margin:-15px 0 13px 0px;font-family:Open Sans;">The exhibition opportunities included in the TDP aims to showcase and exhibit students&rsquo; innovation efforts on various&nbsp;<u>internal and external exhibition platforms.</u></p>
+<p style="font-size:14.5px; line-height:2;margin:-15px 0 13px 0px;font-family:Open Sans;">The exhibition opportunities included in the TDP aims to showcase and exhibit students&rsquo; innovation efforts on various&nbsp;<u style="font-family:Open Sans;">internal and external exhibition platforms.</u></p>
 	
 <p style="margin-top:15px;font-size:14.5px; line-height:2;font-family:Open Sans;">One of the teams which had participated in the MOE IvP was provided with an opportunity to share their innovative solutions at the Young Innovators&rsquo; Fair.</p>
 	
