@@ -163,54 +163,54 @@ third_nav_title: Uniformed Groups
 </tr>
 			
 <tr style="border-bottom: 2px solid #009879;">
-				<td><strong>2008</strong></td>
-				<td style="font-size:15px;margin-bottom:5px;">
-					<strong>Unit Overall Proficiency Award</strong>
+				<td><strong style="font-family:Open Sans;">2008</strong></td>
+				<td style="margin-bottom:5px;">
+					<strong style="font-family:Open Sans;">Unit Overall Proficiency Award</strong>
 					<br>
 					<ul>
-						<li style="font-size:15px;margin-bottom:5px;">Silver</li>
+						<li style="font-family:Open Sans;margin-bottom:5px;">Silver</li>
 					</ul>
-					<strong>Bid and Cook Challenge</strong>
+					<strong style="font-family:Open Sans;">Bid and Cook Challenge</strong>
 					<br>
 					<ul>
-						<li style="font-size:15px;margin-bottom:5px;">1<sup>st</sup> Place (tie with Northland Sec NPCC) (Tan Xue Ni, Siti Aida and Ronald Chia)</li>
+						<li style="font-family:Open Sans;margin-bottom:5px;">1<sup style="font-family:Open Sans;">st</sup> Place (tie with Northland Sec NPCC) (Tan Xue Ni, Siti Aida and Ronald Chia)</li>
 					</ul>
-					<strong>Inter-Unit Fun Shooting Relay Competition</strong>
+					<strong style="font-family:Open Sans;">Inter-Unit Fun Shooting Relay Competition</strong>
 					<br>
 					<ul>
-						<li style="font-size:15px;margin-bottom:5px;">2<sup>nd</sup>Place (Md Mahadhir, Zulhilmy Ridhwan and Ronald Chia)</li>
+						<li style="font-family:Open Sans;margin-bottom:5px;">2<sup style="font-family:Open Sans;">nd</sup> Place (Md Mahadhir, Zulhilmy Ridhwan and Ronald Chia)</li>
 					</ul>
-					<strong>NPCC Best Unit Cadet Award</strong>
+					<strong style="font-family:Open Sans;">NPCC Best Unit Cadet Award</strong>
 					<br>
 					<ul>
-						<li style="font-size:15px;margin-bottom:5px;">Best Cadet Award (Danny Hoe and Nurul Azura Bte Roslan)</li>
+						<li style="font-family:Open Sans;margin-bottom:5px;">Best Cadet Award (Danny Hoe and Nurul Azura Bte Roslan)</li>
 					</ul>
 				</td>
 </tr>
 </tbody>
 </table>
 
-<h4 style="color:#635f1a;font-weight:bold">CCA Details</h4>
+<h4 style="color:#635f1a;font-weight:bold;font-family:Open Sans;">CCA Details</h4>
 <table border="1" style="width:100%;">
 	<tbody>
 		<tr>
-			<td style="background-color: #54585d; font-weight: bold; font-size: 15px; border: 1px solid #54585d; color:white;border-bottom: 1px solid #dddddd;width:24%;">Teacher-In-Charge</td>
-			<td style="border: 1px solid #dddfe1;font-size: 15px;">Mr Lee Kwang Ming</td>
+			<td style="background-color: #54585d; font-weight: bold; font-size: 14.5px; border: 1px solid #54585d; color:white;border-bottom: 1px solid #dddddd;width:24%;font-family:Open Sans;">Teacher-In-Charge</td>
+			<td style="border: 1px solid #dddfe1;font-size: 14.5px;font-family:Open Sans;">Mr Lee Kwang Ming</td>
 		</tr>
 
 <tr>
-			<td style="background-color: #54585d; font-weight: bold; font-size: 15px; border: 1px solid #54585d;border-bottom: 1px solid #dddddd; color:white;">CCA Teacher(s)</td>
-			<td style="border: 1px solid #dddfe1;font-size: 15px;">Mdm Halimah Mohamed Harris<br>Mdm Liyana Filzah<br>Mr Yang Chuanzhi</td>
+			<td style="background-color: #54585d; font-weight: bold; font-size: 14.5px; border: 1px solid #54585d;border-bottom: 1px solid #dddddd; color:white;font-family:Open Sans;">CCA Teacher(s)</td>
+			<td style="border: 1px solid #dddfe1;font-size: 14.5px;font-family:Open Sans;">Mdm Halimah Mohamed Harris<br>Mr Yang Chuanzhi<br>Ms Oh Yi Qi Dora</td>
 		</tr>
 
 <tr>
-			<td style="background-color: #54585d; font-weight: bold; font-size: 15px; border: 1px solid #54585d; color:white;border-bottom: 1px solid #dddddd;">CCA Schedule</td>
-			<td style="border: 1px solid #dddfe1;font-size: 15px;">Fri, 2.30pm – 6.00pm</td>
+			<td style="background-color: #54585d; font-weight: bold; font-size: 14.5px; border: 1px solid #54585d; color:white;border-bottom: 1px solid #dddddd;font-family:Open Sans;">CCA Schedule</td>
+			<td style="border: 1px solid #dddfe1;font-size: 14.5px;font-family:Open Sans;">Fridays, 2.30pm – 6.00pm</td>
 		</tr>
 		
 <tr>
-			<td style="background-color: #54585d; font-weight: bold; font-size: 15px; border: 1px solid #54585d; color:white;">Venues</td>
-			<td style="border: 1px solid #dddfe1;font-size: 15px;">Passion 1 (A130)<br>Passion 5 (A128)<br>Language Room 1-3 (only if needed)<br>Basketball Court</td>
+			<td style="background-color: #54585d; font-weight: bold; font-size: 14.5px; border: 1px solid #54585d; color:white;font-family:Open Sans;">Venues</td>
+			<td style="border: 1px solid #dddfe1;font-size: 14.5px;font-family:Open Sans;">Passion 1 (A130)<br>Passion 5 (A128)<br>Language Room 1-3 (only if needed)<br>Basketball Court</td>
 		</tr>
 </tbody>
 	</table>
