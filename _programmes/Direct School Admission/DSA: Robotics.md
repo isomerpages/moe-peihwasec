@@ -238,13 +238,13 @@ Applicants do not need to possess&nbsp;<strong style="font-family:Open Sans;">AL
 </tr>
 			
 <tr style="background-color: #f3f3f3;border-bottom: 2px solid #009879;">
-				<td><strong>4</strong></td>
-				<td style="font-size:15px;margin-bottom:5px;">Students who receive at least one DSA-Sec offer will receive email and SMS notification on the School Preference Submission in October 2022.</td>
-				<td style="font-size:15px;margin-bottom:5px;">
+				<td><strong style="font-family:Open Sans;">4</strong></td>
+				<td style="font-size:14.5px;font-family:Open Sans;margin-bottom:5px;">Students who receive at least one DSA-Sec offer will receive email and SMS notification on the School Preference Submission in October 2022.</td>
+				<td style="font-size:14.5px;margin-bottom:5px;">
 					<ol>
-						<li style="font-size:15px;margin-bottom:5px;">Both parents are required to login to the DSA-Sec Portal using their SingPass to submit up to three school preferences before the deadline (Please refer to www.moe.gov.sg/dsa-sec for details)</li>
-						<li style="font-size:15px;margin-bottom:5px;">For issues in submission, please approach your child’s primary school for assistance.</li>
-						<li style="font-size:15px;margin-bottom:5px;">Those who took PSLE but were successful in the DSA-Sec are NOT allowed to participate in the S1 Posting as they are expected to honour the commitment made to the DSA-Sec school. Students are also NOT allowed to transfer to another school after the release of the PSLE results. </li>
+						<li style="font-family:Open Sans;font-size:14.5px;margin-bottom:5px;">Both parents are required to login to the DSA-Sec Portal using their SingPass to submit up to three school preferences before the deadline (Please refer to www.moe.gov.sg/dsa-sec for details)</li>
+						<li style="font-size:14.5px;font-family:Open Sans;margin-bottom:5px;">For issues in submission, please approach your child’s primary school for assistance.</li>
+						<li style="font-size:14.5px;font-family:Open Sans;margin-bottom:5px;">Those who took PSLE but were successful in the DSA-Sec are NOT allowed to participate in the S1 Posting as they are expected to honour the commitment made to the DSA-Sec school. Students are also NOT allowed to transfer to another school after the release of the PSLE results. </li>
 					</ol>
 				</td>
 </tr>
@@ -253,17 +253,17 @@ Applicants do not need to possess&nbsp;<strong style="font-family:Open Sans;">AL
 </table>
 
 
-<h4 style="color:#635f1a;font-weight:bold">FAQs</h4>
+<h4 style="color:#635f1a;font-weight:bold;font-family:Open Sans;">FAQs</h4>
 
-<p style="font-size:14.5px; line-height:2;font-family:Open Sans;"><strong>1. How many places can Pei Hwa Secondary offer in DSA Exercise?</strong></p>
+<p style="font-size:14.5px; line-height:2;font-family:Open Sans;"><strong style="font-family:Open Sans;">1. How many places can Pei Hwa Secondary offer in DSA Exercise?</strong></p>
 <p style="font-size:14.5px; line-height:2;font-family:Open Sans;margin-top:-5px;">All secondary schools can admit&nbsp;<strong>up to 20%&nbsp;</strong>of their 2022 S1 non-Integrated Programme (non-IP) intake via the DSA-Sec.</p>
 
-<p style="font-size:14.5px; line-height:2;font-family:Open Sans;"><strong>2. Can my child take part in the DSA exercise if he/she is currently not studying in any of the MOE schools?&nbsp;</strong></p>
+<p style="font-size:14.5px; line-height:2;font-family:Open Sans;"><strong style="font-family:Open Sans;">2. Can my child take part in the DSA exercise if he/she is currently not studying in any of the MOE schools?&nbsp;</strong></p>
 <p style="margin-top:15px;font-size:14.5px; line-height:2;font-family:Open Sans;">Other applicants not studying in MOE mainstream primary schools will need to apply for a Registration Number (RGxxxxxxx) to access the DSA-Sec Portal. Please refer to the MOE website at:&nbsp;<a href="https://go.gov.sg/nmsdsa-sec-application">https://go.gov.sg/nmsdsa-sec-application</a></p>
 
-<p style="font-size:14.5px; line-height:2;font-family:Open Sans;"><strong>3. Will my child be part of the Robotics CCA if he is successful in the DSA application?</strong></p><p style="font-size:14.5px; line-height:2;font-family:Open Sans;margin-top:-5px;"></p><p style="font-size:14.5px; line-height:2;font-family:Open Sans;margin-top:-5px;">Your child will be automatically channelled into Robotics Club as his/her CCA through the DSA Exercise. Hence, your child will not be involved in the CCA Selection Process during the CCA orientation week.</p>
+<p style="font-size:14.5px; line-height:2;font-family:Open Sans;"><strong style="font-family:Open Sans;">3. Will my child be part of the Robotics CCA if he is successful in the DSA application?</strong></p><p style="font-size:14.5px; line-height:2;font-family:Open Sans;margin-top:-5px;"></p><p style="font-size:14.5px; line-height:2;font-family:Open Sans;margin-top:-5px;">Your child will be automatically channelled into Robotics Club as his/her CCA through the DSA Exercise. Hence, your child will not be involved in the CCA Selection Process during the CCA orientation week.</p>
 
-<p style="font-size:14.5px; line-height:2;font-family:Open Sans;"><strong>4. Can my child/ward apply for transfer after getting a confirmed place?</strong></p>
+<p style="font-size:14.5px; line-height:2;font-family:Open Sans;"><strong style="font-family:Open Sans;">4. Can my child/ward apply for transfer after getting a confirmed place?</strong></p>
 <p style="font-size:14.5px; line-height:2;font-family:Open Sans;margin-top:-5px;">Successful DSA –Sec students are&nbsp;<strong>NOT&nbsp;</strong>allowed to transfer to another school after the release of the PSLE results. They are expected to honour the commitment to the posted DSA schools for the duration of the programme they are admitted to.&nbsp;</p>
 
-<p style="margin-top:15px;font-size:14.5px; line-height:2;font-family:Open Sans;"><strong>More FAQ found on&nbsp;</strong><a href="http://www.moe.gov.sg/education/admissions/dsa-sec/faqs/"><strong>http://www.moe.gov.sg/education/admissions/dsa-sec/faqs/</strong></a></p>
+<p style="margin-top:15px;font-size:14.5px; line-height:2;font-family:Open Sans;"><strong style="font-family:Open Sans;">More FAQ found on&nbsp;</strong><a href="http://www.moe.gov.sg/education/admissions/dsa-sec/faqs/" style="font-family:Open Sans;"><strong style="font-family:Open Sans;">http://www.moe.gov.sg/education/admissions/dsa-sec/faqs/</strong></a></p>
