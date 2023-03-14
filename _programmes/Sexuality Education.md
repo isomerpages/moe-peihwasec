@@ -76,163 +76,165 @@ description: ""
 </tr>
 	
 <tr style="background-color:#f3f3f3;font-size:15px;line-height:2">
-		<td style="font-size:15px;margin-bottom:5px;line-height:2">Being Aware, Being Safe<br>Lesson 2<br>(60 mins)</td>
-		<td style="font-size:15px;margin-bottom:5px;line-height:2">This lesson focuses on helping students to be safe from the dangers of sexual grooming and on respecting one’s right to safety. Students will also learn about the legal provisions against sexual abuse, and the impact of sexual abuse on victims, including the psychological impact on the sense of self. <br>
+		<td style="font-size:14.5px;font-family:Open Sans;margin-bottom:5px;line-height:2;text-align:center;">Being Aware, Being Safe<br>Lesson 2<br>(60 mins)</td>
+		<td style="font-size:14.5px;font-family:Open Sans;margin-bottom:5px;line-height:2">This lesson focuses on helping students to be safe from the dangers of sexual grooming and on respecting one’s right to safety. Students will also learn about the legal provisions against sexual abuse, and the impact of sexual abuse on victims, including the psychological impact on the sense of self. <br>
 
 This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</td>
 		<td>
 			<ul style="margin-top:-10px;">
-				<li style="font-size:15px;margin-bottom:5px;line-height:2">Understand that physical and psychological abuse from others, especially those we know and trust, can have strong negative effects on a person’s self-concept</li>
+				<li style="font-size:14.5px;font-family:Open Sans;margin-bottom:5px;line-height:2">Understand that physical and psychological abuse from others, especially those we know and trust, can have strong negative effects on a person’s self-concept</li>
 			</ul>
 		</td>
-		<td style="font-size:15px;margin-bottom:5px;line-height:2">Term 2 Week 9</td>
+		<td style="font-size:14.5px;font-family:Open Sans;margin-bottom:5px;line-height:2">Term 2 Week 9</td>
 </tr>
 	
 <tr style="border-bottom: 2px solid #009879;">
-		<td style="font-size:15px;margin-bottom:5px;line-height:2">More than Meets the Eye<br>Lesson 3 <br>(60 mins)</td>
-	<td style="font-size:15px;margin-bottom:5px;line-height:2">This lesson touches on two areas relevant to an adolescent’s curiosity on matters related to sexuality – masturbation and pornography. Students will gain awareness of the health, legal and moral issues related to viewing, downloading and/or distributing pornography. While students may perceive watching pornography as a private issue without consequences to bear, they will learn that it could lead to addiction and/or other risky sexual behaviours. <br>
+		<td style="font-size:14.5px;font-family:Open Sans;margin-bottom:5px;line-height:2;text-align:center;">More than Meets the Eye<br>Lesson 3 <br>(60 mins)</td>
+	<td style="font-size:14.5px;font-family:Open Sans;margin-bottom:5px;line-height:2">This lesson touches on two areas relevant to an adolescent’s curiosity on matters related to sexuality – masturbation and pornography. Students will gain awareness of the health, legal and moral issues related to viewing, downloading and/or distributing pornography. While students may perceive watching pornography as a private issue without consequences to bear, they will learn that it could lead to addiction and/or other risky sexual behaviours. <br>
 
 This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</td>
 		<td>
 			<ul style="margin-top:-10px;">
-				<li style="font-size:15px;margin-bottom:5px;line-height:2">Understand and accept that as we work towards becoming our best self, there will be times when we make mistakes, and recognise the importance of exercising moral courage in facing up to consequences</li>
-				<li style="font-size:15px;margin-bottom:5px;">Recognise that there are moral and legal consequences of risky sexual behaviours, pornography access and acting irresponsibly or maliciously when online (e.g. spreading of online falsehoods, flouting copyright laws, etc.)</li>
+				<li style="font-size:14.5px;font-family:Open Sans;margin-bottom:5px;line-height:2">Understand and accept that as we work towards becoming our best self, there will be times when we make mistakes, and recognise the importance of exercising moral courage in facing up to consequences</li>
+				<li style="font-size:14.5px;font-family:Open Sans;margin-bottom:5px;">Recognise that there are moral and legal consequences of risky sexual behaviours, pornography access and acting irresponsibly or maliciously when online (e.g. spreading of online falsehoods, flouting copyright laws, etc.)</li>
 			</ul>
 		</td>
-		<td style="font-size:15px;margin-bottom:5px;line-height:2">Term 3 Week 3</td>
+		<td style="font-size:14.5px;font-family:Open Sans;margin-bottom:5px;line-height:2">Term 3 Week 3</td>
 </tr>
 										
 </tbody>
 </table>
 
 <img src="/images/Screenshot-2023-01-25-085338.png">
-<p style="margin-top:15px;font-size:17px;"><strong>SECONDARY 2</strong></p>
+<p style="margin-top:15px;font-size:17px;font-family:Open Sans;"><strong>SECONDARY 2</strong></p>
 
-<table border="1" style="border-collapse: collapse;margin: 25px 0;font-size:15px;font-family: sans-serif;box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);">
-<thead style="background-color: #009879; font-weight: bold; font-size: 16px;">
+<table border="1" style="border-collapse: collapse;margin: 25px 0;font-size:14.5px;font-family: sans-serif;box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);">
+<thead style="background-color: #009879; font-weight: bold; font-size: 14.5px;">
 <tr>
-				<td style="text-align:center;color:white;">UNIT</td>
-				<td style="text-align:center;color:white;">LESSONS / DURATION</td>
-					<td style="text-align:center;color:white;">LESSONS OVERVIEW</td>
-				<td style="text-align:center;color:white;">LESSON OBJECTIVES</td>
-				<td style="text-align:center;color:white;">TIME PERIOD</td>
+				<td style="text-align:center;color:white;font-family:Open Sans;">UNIT</td>
+				<td style="text-align:center;color:white;font-family:Open Sans;">LESSONS / DURATION</td>
+					<td style="text-align:center;color:white;font-family:Open Sans;">LESSONS OVERVIEW</td>
+				<td style="text-align:center;color:white;font-family:Open Sans;">LESSON OBJECTIVES</td>
+				<td style="text-align:center;color:white;font-family:Open Sans;">TIME PERIOD</td>
 			</tr>
 </thead>
 	
 <tbody>
 	
 <tr>
-		<td style="font-size:15px;margin-bottom:5px; line-height:2" rowspan="5">Respectful Relationships & Safety</td>
-		<td style="font-size:15px;margin-bottom:5px;line-height:2">A Role for Everyone<br>Lesson 1<br>(60 mins)</td>
-			<td style="font-size:15px;margin-bottom:5px;line-height:2">This lesson focus on how the family, culture and society can influence one’s perception of their gender roles. Students will learn what gender stereotypes are (e.g. males traditionally as breadwinners and females traditionally as doing household chores) and how gender stereotypes are formed.  Students will discuss how one’s understanding of gender roles should not be limited by gender stereotypes, for example women can be pilots, while men can be nurses. <br>
+		<td style="font-size:14.5px;font-family:Open Sans;margin-bottom:5px; line-height:2" rowspan="5">Respectful Relationships & Safety</td>
+		<td style="font-size:14.5px;font-family:Open Sans;margin-bottom:5px;line-height:2;text-align:center;">A Role for Everyone<br>Lesson 1<br>(60 mins)</td>
+			<td style="font-size:14.5px;font-family:Open Sans;margin-bottom:5px;line-height:2">This lesson focus on how the family, culture and society can influence one’s perception of their gender roles. Students will learn what gender stereotypes are (e.g. males traditionally as breadwinners and females traditionally as doing household chores) and how gender stereotypes are formed.  Students will discuss how one’s understanding of gender roles should not be limited by gender stereotypes, for example women can be pilots, while men can be nurses. <br>
+				
 Students learn to focus on their personal strengths to pursue their interests and build their self- confidence. <br>
+				
 Students will also learn about the definitions of biological sex, gender identity, gender expression and sexual orientation. They will learn to treat everyone with respect and empathy.</td>
 		<td>
 			<ul style="margin-top:-10px;">
-			    <li style="font-size:15px;margin-bottom:5px;line-height:2">Know that one’s understanding of gender roles should not be limited by gender stereotypes</li>
-				<li style="font-size:15px;margin-bottom:5px;line-height:2">Develop an appreciation of one’s own unique qualities and characteristics as a male or female</li>
-					<li style="font-size:15px;margin-bottom:5px;line-height:2">Understand what sexual orientation entails</li>
+			    <li style="font-size:14.5px;font-family:Open Sans;margin-bottom:5px;line-height:2">Know that one’s understanding of gender roles should not be limited by gender stereotypes</li>
+				<li style="font-size:14.5px;font-family:Open Sans;margin-bottom:5px;line-height:2">Develop an appreciation of one’s own unique qualities and characteristics as a male or female</li>
+					<li style="font-size:14.5px;font-family:Open Sans;margin-bottom:5px;line-height:2">Understand what sexual orientation entails</li>
 			</ul>
 		</td>
-		<td style="font-size:15px;margin-bottom:5px;line-height:2">Term 2 Week 1</td>
+		<td style="font-size:14.5px;font-family:Open Sans;margin-bottom:5px;line-height:2">Term 2 Week 1</td>
 </tr>
 	
-<tr style="background-color:#f3f3f3;font-size:15px;line-height:2">
-		<td style="font-size:15px;margin-bottom:5px;line-height:2">Online Safety Challenge Lesson 2A
+<tr style="background-color:#f3f3f3;font-size:14.5px;line-height:2">
+		<td style="font-size:14.5px;font-family:Open Sans;margin-bottom:5px;line-height:2;text-align:center;">Online Safety Challenge<br> Lesson 2A<br>
 (60 mins)</td>
-<td style="font-size:15px;margin-bottom:5px;line-height:2">This lesson focuses on the issue of online grooming and cyber-flashing. It emphasises the need for help-seeking, peer support and positive peer influence. The lesson encourages the safe and responsible use of social media, and aims to deepen students’ conviction, and extend a call to action to students to taking appropriate decisions to safeguard their well-being and safety. 
+<td style="font-size:14.5px;font-family:Open Sans;margin-bottom:5px;line-height:2">This lesson focuses on the issue of online grooming and cyber-flashing. It emphasises the need for help-seeking, peer support and positive peer influence. The lesson encourages the safe and responsible use of social media, and aims to deepen students’ conviction, and extend a call to action to students to taking appropriate decisions to safeguard their well-being and safety. 
 <br>
+	
 This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</td>
 		<td>
 			<ul style="margin-top:-10px;">
-				<li style="font-size:15px;margin-bottom:5px;line-height:2">Recognise one’s vulnerability to risky situations and the importance of exercising discretion to reduce risks and avoid negative consequences, both online and offline</li>
+				<li style="font-size:14.5px;font-family:Open Sans;margin-bottom:5px;line-height:2">Recognise one’s vulnerability to risky situations and the importance of exercising discretion to reduce risks and avoid negative consequences, both online and offline</li>
 			</ul>
 		</td>
-		<td style="font-size:15px;margin-bottom:5px;line-height:2">Term 2 Week 2</td>
+		<td style="font-size:14.5px;font-family:Open Sans;margin-bottom:5px;line-height:2">Term 2 Week 2</td>
 </tr>
 	
 <tr style="border-bottom: 2px solid #009879;">
-		<td style="font-size:15px;margin-bottom:5px;line-height:2">Do I or Don’t I <br>Lesson 2B<br>(60 mins)</td>
-		<td style="font-size:15px;margin-bottom:5px;line-height:2">This lesson focuses on respect for personal boundaries; and how to be safe from risky sexual behaviour, teenage pregnancy and abortion. Students will learn the importance of respecting one another’s boundaries in relationships. This lesson emphasises the importance of responsible decision-making, the value of sexual abstinence, the need for help seeking. Students will be aware of Singapore laws protecting minors, such as the legal consequences of having sex with a minor, abortion and the abandonment of babies.</td>
+		<td style="font-size:14.5px;font-family:Open Sans;margin-bottom:5px;line-height:2;text-align:center;">Do I or Don’t I <br>Lesson 2B<br>(60 mins)</td>
+		<td style="font-size:14.5px;font-family:Open Sans;margin-bottom:5px;line-height:2">This lesson focuses on respect for personal boundaries; and how to be safe from risky sexual behaviour, teenage pregnancy and abortion. Students will learn the importance of respecting one another’s boundaries in relationships. This lesson emphasises the importance of responsible decision-making, the value of sexual abstinence, the need for help seeking. Students will be aware of Singapore laws protecting minors, such as the legal consequences of having sex with a minor, abortion and the abandonment of babies.</td>
 		<td>
 			<ul style="margin-top:-10px;">
-				<li style="font-size:15px;margin-bottom:5px;line-height:2">Recognise the importance of self-respect and respect for others in relating to members of the opposite gender </li>
-				<li style="font-size:15px;margin-bottom:5px;">Recognise one’s vulnerability to risky situations and the importance of exercising discretion to reduce risks and avoid negative consequences, both offline and online</li>
+				<li style="font-size:14.5px;font-family:Open Sans;margin-bottom:5px;line-height:2">Recognise the importance of self-respect and respect for others in relating to members of the opposite gender </li>
+				<li style="font-size:14.5px;font-family:Open Sans;margin-bottom:5px;">Recognise one’s vulnerability to risky situations and the importance of exercising discretion to reduce risks and avoid negative consequences, both offline and online</li>
 			</ul>
 		</td>
-		<td style="font-size:15px;margin-bottom:5px;line-height:2">Term 2 Week 5</td>
+		<td style="font-size:14.5px;font-family:Open Sans;margin-bottom:5px;line-height:2">Term 2 Week 5</td>
 </tr>
 										
 </tbody>
 </table>
 
 <img src="/images/Screenshot-2023-01-25-085338.png">
- <p style="margin-top:15px;font-size:17px;"><strong>SECONDARY 3<br /></strong></p>
+ <p style="margin-top:15px;font-size:17px;"><strong style="font-family:Open Sans;">SECONDARY 3<br /></strong></p>
 
-<table border="1" style="border-collapse: collapse;margin: 25px 0;font-size:15px;font-family: sans-serif;box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);">
-<thead style="background-color: #009879; font-weight: bold; font-size: 16px;">
+<table border="1" style="border-collapse: collapse;margin: 25px 0;font-size:14.5px;font-family: sans-serif;box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);">
+<thead style="background-color: #009879; font-weight: bold; font-size: 14.5px;">
 <tr>
-				<td style="text-align:center;color:white;">UNIT</td>
-				<td style="text-align:center;color:white;">LESSONS / DURATION</td>
-<td style="text-align:center;color:white;">LESSONS OVERVIEW</td>
-				<td style="text-align:center;color:white;">LESSON OBJECTIVES</td>
-				<td style="text-align:center;color:white;">TIME PERIOD</td>
+				<td style="text-align:center;color:white;font-family:Open Sans;">UNIT</td>
+				<td style="text-align:center;color:white;font-family:Open Sans;">LESSONS / DURATION</td>
+<td style="text-align:center;color:white;font-family:Open Sans;">LESSONS OVERVIEW</td>
+				<td style="text-align:center;color:white;font-family:Open Sans;">LESSON OBJECTIVES</td>
+				<td style="text-align:center;color:white;font-family:Open Sans;">TIME PERIOD</td>
 			</tr>
 </thead>
 	
 <tbody>
 	
 <tr>
-		<td style="font-size:15px;margin-bottom:5px; line-height:2" rowspan="5">Respectful Relationships & Safety</td>
-		<td style="font-size:15px;margin-bottom:5px;line-height:2">Love Yourself, Love Others<br>Lesson 1A<br>
+		<td style="font-size:14.5px;font-family:Open Sans;margin-bottom:5px; line-height:2" rowspan="5">Respectful Relationships & Safety</td>
+		<td style="font-size:14.5px;font-family:Open Sans;margin-bottom:5px;line-height:2;text-align:center;">Love Yourself, Love Others<br>Lesson 1A<br>
 (60 mins)</td>
-			<td style="font-size:15px;margin-bottom:5px;line-height:2">This lesson focuses on dating respectfully in healthy relationships. Students will learn about self-esteem, their sources of influence (e.g. friends’ perception) on self-esteem, the impact of one’s self-esteem on our mental well-being as well as relationships with others. Students will also learn how emotional reactions can affect relationships positively or negatively. Students will also learn that maturity and readiness are important when entering into a dating relationship.</td>
+			<td style="font-size:14.5px;font-family:Open Sans;margin-bottom:5px;line-height:2">This lesson focuses on dating respectfully in healthy relationships. Students will learn about self-esteem, their sources of influence (e.g. friends’ perception) on self-esteem, the impact of one’s self-esteem on our mental well-being as well as relationships with others. Students will also learn how emotional reactions can affect relationships positively or negatively. Students will also learn that maturity and readiness are important when entering into a dating relationship</td>
 		<td>
 			<ul style="margin-top:-10px;">
-				<li style="font-size:15px;margin-bottom:5px;line-height:2">Know that self-perception and identity have an impact on our self-esteem and how we interact with others and the choices we make, both online and offline </li>
-			    <li style="font-size:15px;margin-bottom:5px;line-height:2">Understand that expectations of oneself and others may differ and can affect one’s emotions, thoughts and behaviours</li>
-				<li style="font-size:15px;margin-bottom:5px;line-height:2">Recognise what healthy dating relationships involve and know that readiness is important when entering into a dating relationship</li>
+				<li style="font-size:14.5px;font-family:Open Sans;margin-bottom:5px;line-height:2">Know that self-perception and identity have an impact on our self-esteem and how we interact with others and the choices we make, both online and offline </li>
+			    <li style="font-size:14.5px;font-family:Open Sans;margin-bottom:5px;line-height:2">Understand that expectations of oneself and others may differ and can affect one’s emotions, thoughts and behaviours</li>
+				<li style="font-size:14.5px;font-family:Open Sans;margin-bottom:5px;line-height:2">Recognise what healthy dating relationships involve and know that readiness is important when entering into a dating relationship</li>
 			</ul>
 		</td>
-		<td style="font-size:15px;margin-bottom:5px;line-height:2">Term 2 Week 2</td>
+		<td style="font-size:14.5px;font-family:Open Sans;margin-bottom:5px;line-height:2">Term 2 Week 2</td>
 </tr>
 	
 <tr style="background-color:#f3f3f3;font-size:15px;line-height:2">
-		<td style="font-size:15px;margin-bottom:5px;line-height:2">Mending a Broken Heart <br>Lesson 1B<br>
-(60 mins)</td>
-	<td style="font-size:15px;margin-bottom:5px;line-height:2">Students will learn how to manage their emotions if they were to face a breakup and know that relationship building involves person emotions and vulnerabilities, and changes and challenges. Students will also learn that a decision to end a relationship will have consequences on oneself and others, and that grief and loss due to rejections and broken relationships is normal and that one can recover from the experience. They will learn that there are healthy ways of coping with breakdowns in relationships and that family and friends are important pillars of support.</td>
+		<td style="font-size:14.5px;font-family:Open Sans;margin-bottom:5px;line-height:2;text-align:center;">Mending a Broken Heart <br>Lesson 1B<br>(60 mins)</td>
+	<td style="font-size:14.5px;font-family:Open Sans;margin-bottom:5px;line-height:2">Students will learn how to manage their emotions if they were to face a breakup and know that relationship building involves person emotions and vulnerabilities, and changes and challenges. Students will also learn that a decision to end a relationship will have consequences on oneself and others, and that grief and loss due to rejections and broken relationships is normal and that one can recover from the experience. They will learn that there are healthy ways of coping with breakdowns in relationships and that family and friends are important pillars of support.</td>
 		<td>
 			<ul style="margin-top:-10px;">
-				<li style="font-size:15px;margin-bottom:5px;line-height:2">Know that relationship-building involves personal emotions and vulnerabilities, and changes and challenges</li>
-				<li style="font-size:15px;margin-bottom:5px;line-height:2">Know that a decision to end a relationship will have consequences on oneself and others</li>
-				<li style="font-size:15px;margin-bottom:5px;line-height:2">Know that grief and loss due to rejections and broken relationships is normal and one can recover from the experience </li>
-				<li style="font-size:15px;margin-bottom:5px;line-height:2">Know that grief and loss due to rejections and broken relationships is normal and one can recover from the experience </li>
+				<li style="font-size:14.5px;font-family:Open Sans;margin-bottom:5px;line-height:2">Know that relationship-building involves personal emotions and vulnerabilities, and changes and challenges</li>
+				<li style="font-size:14.5px;font-family:Open Sans;margin-bottom:5px;line-height:2">Know that a decision to end a relationship will have consequences on oneself and others</li>
+				<li style="font-size:14.5px;font-family:Open Sans;margin-bottom:5px;line-height:2">Know that grief and loss due to rejections and broken relationships is normal and one can recover from the experience </li>
+				<li style="font-size:14.5px;font-family:Open Sans;margin-bottom:5px;line-height:2">Know that grief and loss due to rejections and broken relationships is normal and one can recover from the experience </li>
 			</ul>
 		</td>
-		<td style="font-size:15px;margin-bottom:5px;line-height:2">Term 2 Week 9</td>
+		<td style="font-size:14.5px;font-family:Open Sans;margin-bottom:5px;line-height:2">Term 2 Week 9</td>
 </tr>
 	
 <tr style="border-bottom: 2px solid #009879;">
-		<td style="font-size:15px;margin-bottom:5px;line-height:2">When Respect Takes Centre Stage <br>
+		<td style="font-size:14.5px;font-family:Open Sans;margin-bottom:5px;line-height:2;text-align:center;">When Respect Takes Centre Stage <br>
 Lesson 2<br>(60 mins)</td>
-	<td style="font-size:15px;margin-bottom:5px;line-height:2">This lesson aims to help students think critically and make informed decisions in the contexts of sexting and voyeurism, and encourages students to exert a positive influence as a respectful online user. It will also deepen students’ convictions about making moral decisions by taking into consideration the impact of their decisions and actions on their well-being and safety, their loved ones, and the community. Students learn that they have a right and responsibility to be safe and protect their personal space and body. They also learn that sexting, voyeurism and other related sexual offences are never justifiable and they can seek help in times of need.</td>
+	<td style="font-size:14.5px;font-family:Open Sans;margin-bottom:5px;line-height:2">This lesson aims to help students think critically and make informed decisions in the contexts of sexting and voyeurism, and encourages students to exert a positive influence as a respectful online user. It will also deepen students’ convictions about making moral decisions by taking into consideration the impact of their decisions and actions on their well-being and safety, their loved ones, and the community. Students learn that they have a right and responsibility to be safe and protect their personal space and body. They also learn that sexting, voyeurism and other related sexual offences are never justifiable and they can seek help in times of need.</td>
 		<td>
 			<ul style="margin-top:-10px;">
-				<li style="font-size:15px;margin-bottom:5px;line-height:2">Recognise the importance of being informed of social and moral issues of the day and the need to reflect on these issues, and weigh them against our own moral standpoints as we form our perspectives about them </li>
-				<li style="font-size:15px;margin-bottom:5px;">understand that we strengthen our character when we commit to sound values-based viewpoints (e.g. respect for life) and decisions, and speak and act in alignment with our beliefs </li>
+				<li style="font-size:14.5px;font-family:Open Sans;margin-bottom:5px;line-height:2">Recognise the importance of being informed of social and moral issues of the day and the need to reflect on these issues, and weigh them against our own moral standpoints as we form our perspectives about them </li>
+				<li style="font-size:14.5px;font-family:Open Sans;margin-bottom:5px;">Understand that we strengthen our character when we commit to sound values-based viewpoints (e.g. respect for life) and decisions, and speak and act in alignment with our beliefs </li>
 			</ul>
 		</td>
-		<td style="font-size:15px;margin-bottom:5px;line-height:2">Term 3 Week 6 </td>
+		<td style="font-size:14.5px;font-family:Open Sans;margin-bottom:5px;line-height:2">Term 3 Week 6 </td>
 </tr>
 										
 </tbody>
 </table>
 
 <img src="/images/Screenshot-2023-01-25-085338.png">
- <p style="margin-top:15px;font-size:17px;"><strong>SECONDARY 4<br></strong></p>
+ <p style="margin-top:15px;font-size:17px;"><strong style="font-family:Open Sans;">SECONDARY 4<br></strong></p>
 
-<table border="1" style="border-collapse: collapse;margin: 25px 0;font-size:15px;font-family: sans-serif;box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);">
-<thead style="background-color: #009879; font-weight: bold; font-size: 16px;">
+<table border="1" style="border-collapse: collapse;margin: 25px 0;font-size:14.5px;font-family: sans-serif;box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);">
+<thead style="background-color: #009879; font-weight: bold; font-size: 14.5px;">
 <tr>
 				<td style="text-align:center;color:white;">UNIT</td>
 				<td style="text-align:center;color:white;">LESSONS / DURATION</td>
