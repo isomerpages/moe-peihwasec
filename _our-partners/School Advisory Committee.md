@@ -9,38 +9,38 @@ description: ""
 
 <p style="margin-top:15px;font-size:14.5px; line-height:2;font-family:Open Sans;">They have a keen interest in the students&rsquo; welfare and the school&rsquo;s vision to be the &lsquo;Pride of the Community&rsquo;. Thus, they have supported the school&rsquo;s special projects which is aimed at building a dynamic, strong and self-reliant student population whilst nurturing their many talents, through funding. Needy pupils have also been provided with valuable financial help.</p>
 
-<p style="margin-top:15px;font-size:17px;"><strong>Its office bearers are:</strong></p>
+<p style="margin-top:15px;font-size:15.5px;"><strong style="font-family:Open Sans;">Its office bearers are:</strong></p>
 
 <table border="1" style="width:100%;">
 	<tbody>
 		<tr>
-			<td style="background-color: #54585d; font-weight: bold; font-size: 15px; border: 1px solid #54585d; color:white;border-bottom: 1px solid #dddddd;width:24%;">Chairman	</td>
-			<td style="border: 1px solid #dddfe1;font-size: 15px;">Mr Jack Wang Yingyang</td>
+			<td style="background-color: #54585d; font-weight: bold; font-size: 14.5px; border: 1px solid #54585d; color:white;border-bottom: 1px solid #dddddd;width:24%;font-family:Open Sans;">Chairman	</td>
+			<td style="border: 1px solid #dddfe1;font-size: 14.5px;font-family:Open Sans;">Mr Jack Wang Yingyang</td>
 		</tr>
 		<tr>
-			<td style="background-color: #54585d; font-weight: bold; font-size: 15px; border: 1px solid #54585d; color:white;border-bottom: 1px solid #dddddd;width:24%;">Vice-Chairman	</td>
-			<td style="border: 1px solid #dddfe1;font-size: 15px;">Mr Kwok Lih</td>
+			<td style="background-color: #54585d; font-weight: bold; font-size: 14.5px; border: 1px solid #54585d; color:white;border-bottom: 1px solid #dddddd;width:24%;font-family:Open Sans;">Vice-Chairman	</td>
+			<td style="border: 1px solid #dddfe1;font-size: 14.5px;font-family:Open Sans;">Mr Kwok Lih</td>
 		</tr>
 		<tr>
-			<td style="background-color: #54585d; font-weight: bold; font-size: 15px; border: 1px solid #54585d; color:white;border-bottom: 1px solid #dddddd;width:24%;">Honorary Treasurer	</td>
-			<td style="border: 1px solid #dddfe1;font-size: 15px;">Mr Toh Ghee Wei Winston</td>
+			<td style="background-color: #54585d; font-weight: bold; font-size: 14.5px; border: 1px solid #54585d; color:white;border-bottom: 1px solid #dddddd;width:24%;font-family:Open Sans;">Honorary Treasurer	</td>
+			<td style="border: 1px solid #dddfe1;font-size: 14.5px;font-family:Open Sans;">Mr Toh Ghee Wei Winston</td>
 		</tr>
 		<tr>
-			<td style="background-color: #54585d; font-weight: bold; font-size: 15px; border: 1px solid #54585d; color:white;border-bottom: 1px solid #dddddd;width:24%;">Honorary Secretary	</td>
-			<td style="border: 1px solid #dddfe1;font-size: 15px;">Mr Mohd Azhar Terimo</td>
+			<td style="background-color: #54585d; font-weight: bold; font-size: 14.5px; border: 1px solid #54585d; color:white;border-bottom: 1px solid #dddddd;width:24%;font-family:Open Sans;">Honorary Secretary	</td>
+			<td style="border: 1px solid #dddfe1;font-size: 14.5px;font-family:Open Sans;">Mr Mohd Azhar Terimo</td>
 		</tr>
 		<tr>
-			<td style="background-color: #54585d; font-weight: bold; font-size: 15px; border: 1px solid #54585d; color:white;border-bottom: 1px solid #dddddd;width:24%;" rowspan="4">Members	</td>
-			<td style="border: 1px solid #dddfe1;font-size: 15px;">Mr Peck Chong Beng</td>
+			<td style="background-color: #54585d; font-weight: bold; font-size: 14.5px; border: 1px solid #54585d; color:white;border-bottom: 1px solid #dddddd;width:24%;font-family:Open Sans;" rowspan="4">Members	</td>
+			<td style="border: 1px solid #dddfe1;font-size: 14.5px;font-family:Open Sans;">Mr Peck Chong Beng</td>
 		</tr>		
 		<tr>
-			<td style="border: 1px solid #dddfe1;font-size: 15px;">Mr Kang Yi Yang</td>
+			<td style="border: 1px solid #dddfe1;font-size: 14.5px;font-family:Open Sans;">Mr Kang Yi Yang</td>
 		</tr>	
 		<tr>
-			<td style="border: 1px solid #dddfe1;font-size: 15px;">Ms Chew Shi Qi</td>
+			<td style="border: 1px solid #dddfe1;font-size: 14.5px;font-family:Open Sans;">Ms Chew Shi Qi</td>
 		</tr>	
 		<tr>
-			<td style="border: 1px solid #dddfe1;font-size: 15px;">Mr Peh Hwee Heong Ricky</td>
+			<td style="border: 1px solid #dddfe1;font-size: 14.5px;font-family:Open Sans;">Mr Peh Hwee Heong Ricky</td>
 		</tr>	
 </tbody>
 	</table>
