@@ -18,7 +18,7 @@ description: ""
 
 <p style="font-size:14.5px; line-height:2;margin-top:15px; font-family:Open Sans">Our Counselling Corner&nbsp;<em style="font-family:Open Sans;"><strong style="font-family:Open Sans;">Ting@ Pei Hwa</strong></em>&nbsp;is located on Block D, 3rd Floor (above the gym and PE room). We are open from 8am to 3pm on school days.</p>
 
-<h4 style="color:#635f1a;font-weight:bold">The People</h4>
+<h4 style="color:#635f1a;font-weight:bold;font-family:Open Sans;">The People</h4>
 <ul style="margin-top:5px">
 <li style="font-size:14.5px; line-height:2;font-family:Open Sans;">Ms Mandy Lee | School Counsellor | 65009580 ext 225</li>
 <li style="font-size:14.5px; line-height:2;font-family:Open Sans;">Mr Vernon Koh | School Counsellor | 65009580 ext 225</li>
