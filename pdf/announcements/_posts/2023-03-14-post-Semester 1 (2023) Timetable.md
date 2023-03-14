@@ -6,7 +6,6 @@ layout: post
 description: ""
 image: ""
 ---
-
 <p style="font-family:Open Sans;font-size:15.5px;">The Semester 1 2023 timetable is out. Please see the respective links below:</p>
 <ol>
 <li style="font-family:Open Sans;font-size:14.5px;">
