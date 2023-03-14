@@ -4,160 +4,160 @@ permalink: /ccas/uniformed-groups/npcc/
 description: ""
 third_nav_title: Uniformed Groups
 ---
-<h4 style="color:#635f1a;font-weight:bold">Achievements</h4>
+<h4 style="color:#635f1a;font-weight:bold;font-family:Open Sans;">Achievements</h4>
 
-<table border="1" style="border-collapse: collapse;margin: 25px 0;font-size:15px;font-family: sans-serif;box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);">
-<thead style="background-color: #009879; font-weight: bold; font-size: 16px;">
+<table border="1" style="border-collapse: collapse;margin: 25px 0;font-size:14.5px;font-family: sans-serif;box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);">
+<thead style="background-color: #009879; font-weight: bold; font-size: 15.5px;">
 			<tr>
-				<td style="text-align:left;color:white;">Year of Competition</td>
-				<td style="text-align:left;color:white;">Achievements</td>
+				<td style="text-align:left;color:white;font-family:Open Sans;">Year of Competition</td>
+				<td style="text-align:left;color:white;font-family:Open Sans;">Achievements</td>
 			</tr>
 </thead>
 <tbody>
 
 <tr>
-				<td><strong>2019</strong></td>
-				<td style="font-size:15px;margin-bottom:5px;">
-					<strong>Unit Overall Proficiency Award (UOPA)</strong>
+				<td><strong style="font-family:Open Sans;">2019</strong></td>
+				<td style="margin-bottom:5px;">
+					<strong style="font-family:Open Sans;">Unit Overall Proficiency Award (UOPA)</strong>
 					<br>
 					<ul>
-						<li style="font-size:15px;margin-bottom:5px;">Gold</li>
+						<li style="font-family:Open Sans;margin-bottom:5px;">Gold</li>
 					</ul>
-					<strong>NPCC Inter Unit Drill Competition</strong>
+					<strong style="font-family:Open Sans;">NPCC Inter Unit Drill Competition</strong>
 					<br>
 					<ul>
-						<li style="font-size:15px;margin-bottom:5px;">29<sup>th</sup> Place (out of 128 schools) </li>
+						<li style="font-family:Open Sans;margin-bottom:5px;">29<sup style="font-family:Open Sans;">th</sup> Place (out of 128 schools) </li>
 					</ul>
 				</td>
 	</tr>
 	
 <tr style="background-color: #f3f3f3;">
-				<td><strong>2018</strong></td>
-				<td style="font-size:15px;margin-bottom:5px;">
-					<strong>Unit Overall Proficiency Award (UOPA)</strong>
+				<td><strong style="font-family:Open Sans;">2018</strong></td>
+				<td style="margin-bottom:5px;">
+					<strong style="font-family:Open Sans;">Unit Overall Proficiency Award (UOPA)</strong>
 					<br>
 					<ul>
-						<li style="font-size:15px;margin-bottom:5px;">Gold</li>
+						<li style="margin-bottom:5px;font-family:Open Sans;">Gold</li>
 					</ul>
 				</td>
 	</tr>
 			
 <tr>
-				<td><strong>2017</strong></td>
-				<td style="font-size:15px;margin-bottom:5px;">
-					<strong>Unit Overall Proficiency Award (UOPA)</strong>
+				<td><strong style="font-family:Open Sans;">2017</strong></td>
+				<td style="margin-bottom:5px;">
+					<strong style="font-family:Open Sans;">Unit Overall Proficiency Award (UOPA)</strong>
 					<br>
 					<ul>
-						<li style="font-size:15px;margin-bottom:5px;">Silver</li>
+						<li style="font-family:Open Sans;margin-bottom:5px;">Silver</li>
 					</ul>		
 				</td>
 	</tr>
 						
 <tr style="background-color: #f3f3f3;">
-				<td><strong>2016</strong></td>
-				<td style="font-size:15px;margin-bottom:5px;">
-					<strong>Unit Overall Proficiency Award (UOPA)</strong>
+				<td><strong style="font-family:Open Sans;">2016</strong></td>
+				<td style="margin-bottom:5px;">
+					<strong style="font-family:Open Sans;">Unit Overall Proficiency Award (UOPA)</strong>
 					<br>
 					<ul>
-						<li style="font-size:15px;margin-bottom:5px;">Gold</li>
+						<li style="font-family:Open Sans;margin-bottom:5px;">Gold</li>
 					</ul>
 				</td>
 	</tr>
 			
 <tr>
-				<td><strong>2015</strong></td>
-				<td style="font-size:15px;margin-bottom:5px;">
-					<strong>Unit Overall Proficiency Award (UOPA)</strong>
+				<td><strong style="font-family:Open Sans;">2015</strong></td>
+				<td style="margin-bottom:5px;">
+					<strong style="font-family:Open Sans;">Unit Overall Proficiency Award (UOPA)</strong>
 					<br>
 					<ul>
-						<li style="font-size:15px;margin-bottom:5px;">Gold</li>
+						<li style="font-family:Open Sans;margin-bottom:5px;">Gold</li>
 					</ul>
 				</td>
 			</tr>
 	
 <tr style="background-color: #f3f3f3;">
-				<td><strong>2013</strong></td>
-				<td style="font-size:15px;margin-bottom:5px;">
-					<strong>‘Future Cop’ Design Competition (organised by Sengkang NPC)</strong>
+				<td><strong style="font-family:Open Sans;">2013</strong></td>
+				<td style="margin-bottom:5px;">
+					<strong style="font-family:Open Sans;">‘Future Cop’ Design Competition (organised by Sengkang NPC)</strong>
 					<br>
 					<ul>
-						<li style="font-size:15px;margin-bottom:5px;">Champions</li>
+						<li style="font-family:Open Sans;margin-bottom:5px;">Champions</li>
 					</ul>
 				</td>
 	</tr>
 			
 <tr>
-				<td><strong>2012</strong></td>
-				<td style="font-size:15px;margin-bottom:5px;">
-					<strong>Unit Overall Proficiency Award (UOPA)</strong>
+				<td><strong style="font-family:Open Sans;">2012</strong></td>
+				<td style="margin-bottom:5px;">
+					<strong style="font-family:Open Sans;">Unit Overall Proficiency Award (UOPA)</strong>
 					<br>
 					<ul>
-						<li style="font-size:15px;margin-bottom:5px;">Silver Award</li>
+						<li style="font-family:Open Sans;margin-bottom:5px;">Silver Award</li>
 					</ul>
 				</td>
 </tr>
 			
 <tr style="background-color: #f3f3f3;">
-				<td><strong>2011</strong></td>
-				<td style="font-size:15px;margin-bottom:5px;">
-					<strong>Unit Overall Proficiency Award (UOPA)</strong>
+				<td><strong style="font-family:Open Sans;">2011</strong></td>
+				<td style="margin-bottom:5px;">
+					<strong style="font-family:Open Sans;">Unit Overall Proficiency Award (UOPA)</strong>
 					<br>
 					<ul>
-						<li style="font-size:15px;margin-bottom:5px;">Silver Award</li>
+						<li style="font-family:Open Sans;margin-bottom:5px;">Silver Award</li>
 					</ul>
-					<strong>Hwa Chong Institution’s 7th Annual Combined UG Bowling Competition (Individual Category – Girls)</strong>
+					<strong style="font-family:Open Sans;">Hwa Chong Institution’s 7th Annual Combined UG Bowling Competition (Individual Category – Girls)</strong>
 					<br>
 					<ul>
-						<li style="font-size:15px;margin-bottom:5px;">Champion</li>
-						<li style="font-size:15px;margin-bottom:5px;">10th Placing</li>
+						<li style="font-family:Open Sans;margin-bottom:5px;">Champion</li>
+						<li style="font-family:Open Sans;margin-bottom:5px;">10th Placing</li>
 					</ul>
-					<strong>Hwa Chong Institution’s 7th Annual Combined UG Bowling Competition (Team Event – Girls)</strong>
+					<strong style="font-family:Open Sans;">Hwa Chong Institution’s 7th Annual Combined UG Bowling Competition (Team Event – Girls)</strong>
 					<br>
 					<ul>
-						<li style="font-size:15px;margin-bottom:5px;">2<sup>nd</sup>Runner-Up</li>
+						<li style="font-family:Open Sans;margin-bottom:5px;">2<sup style="font-family:Open Sans;">nd</sup> Runner-Up</li>
 					</ul>
-					<strong>PHS NPCC 5th Annual Air-Rifle Shooting Competition (Girls)</strong>
+					<strong style="font-family:Open Sans;">PHS NPCC 5th Annual Air-Rifle Shooting Competition (Girls)</strong>
 					<br>
 					<ul>
-						<li style="font-size:15px;margin-bottom:5px;">1<sup>st</sup> Runner-Up</li>
+						<li style="font-family:Open Sans;margin-bottom:5px;">1<sup style="font-family:Open Sans;">st</sup> Runner-Up</li>
 					</ul>
 				</td>
 </tr>
 			
 <tr>
-				<td><strong>2010</strong></td>
-				<td style="font-size:15px;margin-bottom:5px;">
-					<strong>Unit Overall Proficiency Award</strong>
+				<td><strong style="font-family:Open Sans;">2010</strong></td>
+				<td style="margin-bottom:5px;">
+					<strong style="font-family:Open Sans;">Unit Overall Proficiency Award</strong>
 					<br>
 					<ul>
-						<li style="font-size:15px;margin-bottom:5px;">Silver</li>
+						<li style="font-family:Open Sans;margin-bottom:5px;">Silver</li>
 					</ul>
-					<strong>NPCC-NCDCC Multimedia Competition 2010</strong>
+					<strong style="font-family:Open Sans;">NPCC-NCDCC Multimedia Competition 2010</strong>
 					<br>
 					<ul>
-						<li style="font-size:15px;margin-bottom:5px;">Bronze Award</li>
+						<li style="font-size:15px;margin-bottom:5px;font-family:Open Sans;">Bronze Award</li>
 					</ul>
 				</td>
 </tr>
 
 <tr style="background-color: #f3f3f3;">
-				<td><strong>2009</strong></td>
-				<td style="font-size:15px;margin-bottom:5px;">
-					<strong>Unit Overall Proficiency Award</strong>
+				<td><strong style="font-family:Open Sans;">2009</strong></td>
+				<td style="margin-bottom:5px;">
+					<strong style="font-family:Open Sans;">Unit Overall Proficiency Award</strong>
 					<br>
 					<ul>
-						<li style="font-size:15px;margin-bottom:5px;">Silver Award</li>
+						<li style="font-family:Open Sans;margin-bottom:5px;">Silver Award</li>
 					</ul>
-					<strong>Silver</strong>
+					<strong style="font-family:Open Sans;">Silver</strong>
 					<br>
 					<ul>
-						<li style="font-size:15px;margin-bottom:5px;">Champion</li>
-						<li style="font-size:15px;margin-bottom:5px;">10th Placing</li>
+						<li style="font-family:Open Sans;margin-bottom:5px;">Champion</li>
+						<li style="font-family:Open Sans;margin-bottom:5px;">10th Placing</li>
 					</ul>
-					<strong>NPCC Best Unit Cadet Award</strong>
+					<strong style="font-family:Open Sans;">NPCC Best Unit Cadet Award</strong>
 					<br>
 					<ul>
-						<li style="font-size:15px;margin-bottom:5px;">Best Cadet Award (Nicholas Chia and Goh Yee Chen)</li>
+						<li style="font-family:Open Sans;margin-bottom:5px;">Best Cadet Award (Nicholas Chia and Goh Yee Chen)</li>
 					</ul>
 				</td>
 </tr>
