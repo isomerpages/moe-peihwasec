@@ -5,10 +5,10 @@ date: 2022-06-01
 layout: post
 description: ""
 ---
-<p>The Semester 2 (27 June) timetable is out. Please see the respective links below:</p>
+<p>The Semester 1 2023 timetable is out. Please see the respective links below:</p>
 <ol>
 <li>
-<p><a href="/files/Sec-1-Timetable-wef-27-Jun-2022.pdf">Sec 1 Timetable</a></p>
+<p ><a href="https://drive.google.com/drive/folders/1In9AMXTmgdANW9X_aGB39H3pwb83EOJR?usp=sharing" style="font-type:Open Sans;">Sec 1 Timetable</a></p>
 </li>
 <li>
 <p><a href="/files/Sec-2-Timetable-wef-27-Jun-2022.pdf">Sec 2 Timetable</a></p>
