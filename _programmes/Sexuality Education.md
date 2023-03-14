@@ -229,14 +229,15 @@ Lesson 2<br>(60 mins)</td>
 </table>
 
 <img src="/images/Screenshot-2023-01-25-085338.png">
- <p style="margin-top:15px;font-size:17px;"><strong>SECONDARY 4<br /></strong></p>
+ <p style="margin-top:15px;font-size:17px;"><strong>SECONDARY 4<br></strong></p>
 
 <table border="1" style="border-collapse: collapse;margin: 25px 0;font-size:15px;font-family: sans-serif;box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);">
 <thead style="background-color: #009879; font-weight: bold; font-size: 16px;">
 <tr>
 				<td style="text-align:center;color:white;">UNIT</td>
 				<td style="text-align:center;color:white;">LESSONS / DURATION</td>
-				<td style="text-align:center;color:white;">LESSON OBJECTIVES</td>
+				<td style="text-align:center;color:white;">LESSON OVERVIEW</td>
+					<td style="text-align:center;color:white;">LESSON OBJECTIVES</td>
 				<td style="text-align:center;color:white;">TIME PERIOD</td>
 			</tr>
 </thead>
@@ -244,48 +245,53 @@ Lesson 2<br>(60 mins)</td>
 <tbody>
 	
 <tr>
-		<td style="font-size:15px;margin-bottom:5px; line-height:2" rowspan="4">Respectful Relationships &amp;Safety</td>
-		<td style="font-size:15px;margin-bottom:5px;line-height:2">1 (60 mins)</td>
+		<td style="font-size:15px;margin-bottom:5px; line-height:2" rowspan="5">Respectful Relationships & Safety</td>
+		<td style="font-size:15px;margin-bottom:5px;line-height:2">Levelling the Ground <br> Lesson 1 <br>
+(60 mins)</td>
+			<td style="font-size:15px;margin-bottom:5px;line-height:2">This lesson aims to help students think critically about gender stereotypes that exist in our society in the contexts of career and family (e.g. males typically perceived as main breadwinners and females typically perceived as main caregivers in the family), and the impact of these stereotypes on individuals. Students will learn to be aware of possible gender stereotypes that may affect one’s family and future decisions. They will also learn to reframe their perspectives and not judge others based on their own or others’ values and principles, with regard to gender stereotypes.</td>
 		<td>
 			<ul style="margin-top:-10px;">
-				<li style="font-size:15px;margin-bottom:5px;line-height:2">Understand that the value of a person is not tied to one’s gender and not conforming to gender stereotypes does not negate one’s gender identity.</li>
-			    <li style="font-size:15px;margin-bottom:5px;line-height:2">Understand what gender stereotypes comprise, e.g. notions of masculinity and femininity vary over time and space, and are shaped by societal expectations. </li>
-				<li style="font-size:15px;margin-bottom:5px;line-height:2">Know that imposing gender stereotypes on oneself and others can limit one’s experiences, cause harm to the self-esteem of oneself and others and should be avoided.</li>
+				<li style="font-size:15px;margin-bottom:5px;line-height:2">Understand that the value of a person is not tied to one’s gender and not conforming to gender stereotypes does not negate one’s gender identity</li>
+			    <li style="font-size:15px;margin-bottom:5px;line-height:2">Understand what gender stereotypes comprise, e.g. notions of masculinity and femininity vary over time and space, and are shaped by societal expectations</li>
+				<li style="font-size:15px;margin-bottom:5px;line-height:2">Know that imposing gender stereotypes on oneself and others can limit one’s experiences, cause harm to the self-esteem of oneself and others and should be avoided </li>
 			</ul>
 		</td>
-		<td style="font-size:15px;margin-bottom:5px;line-height:2">Term 1 Week 7</td>
+		<td style="font-size:15px;margin-bottom:5px;line-height:2">Term 1 Week 9</td>
 </tr>
 	
 <tr style="background-color:#f3f3f3;font-size:15px;line-height:2">
-		<td style="font-size:15px;margin-bottom:5px;line-height:2">2 (60 mins)</td>
+		<td style="font-size:15px;margin-bottom:5px;line-height:2">When Love Hurts <br>Lesson 2<br>(60 mins)</td>
+			<td style="font-size:15px;margin-bottom:5px;line-height:2">This lesson aims to help students recognise unhealthy relationships and build their help-seeking skills. Students will learn to identify potential signs of an unhealthy relationship and recognise the different forms of dating violence. They will get to understand why dating violence occurs, why victims often feel “trapped” in such unhealthy relationships, and how one can get out of such a relationship safely. Students will learn when, where and how to seek help from trusted adults (e.g. family, teachers, school counsellors) in the supportive environment that they have if they or their friends are involved in an unhealthy relationship.</td>
 		<td>
 			<ul style="margin-top:-10px;">
-				<li style="font-size:15px;margin-bottom:5px;line-height:2">Know there are healthy ways of coping with broken relationships, and family and friends are important pillars of support. </li>
-				<li style="font-size:15px;margin-bottom:5px;line-height:2">Recognise emotions caused by traumatic situations, e.g. bullying, abuse and dating violence, and understand the physiological and psychological, social impact on victims. </li>
-				<li style="font-size:15px;margin-bottom:5px;line-height:2">Understand that we need moral courage and wisdom to recognise and end relationships that are unhealthy and cause harm to our mental and emotional well-being. </li>
-				<li style="font-size:15px;margin-bottom:5px;line-height:2">Understand the importance of ensuring that non-verbal messages match with verbal ones, when communicating personal and emotional boundaries in a relationship.</li>
+				<li style="font-size:15px;margin-bottom:5px;line-height:2">Know there are healthy ways of coping with broken relationships, and family and friends are important pillars of support</li>
+				<li style="font-size:15px;margin-bottom:5px;line-height:2">Recognise emotions caused by traumatic situations, e.g. bullying, abuse and dating violence, and understand the physiological and psychological, social impact on victims </li>
+				<li style="font-size:15px;margin-bottom:5px;line-height:2">Understand that we need moral courage and wisdom to recognise and end relationships that are unhealthy and cause harm to our mental and emotional well-being</li>
+				<li style="font-size:15px;margin-bottom:5px;line-height:2">Understand that we need moral courage and wisdom to recognise and end relationships that are unhealthy and cause harm to our mental and emotional well-being</li>
 			</ul>
 		</td>
 		<td style="font-size:15px;margin-bottom:5px;line-height:2">Term 2 Week 1</td>
 </tr>
 	
 <tr>
-		<td style="font-size:15px;margin-bottom:5px;line-height:2">3 (60 mins)</td>
+		<td style="font-size:15px;margin-bottom:5px;line-height:2">For Better or For Worse<br>Lesson 3<br>(60 mins)</td>
+		<td style="font-size:15px;margin-bottom:5px;line-height:2">This lesson focuses on building a positive relationship with one’s partner in a marriage. Students will understand that while a marriage, defined in Singapore as a union between a man and a woman, requires mutual commitment and effort like the other relationships in their lives, what sets a marriage apart is its lifelong commitment. Students will learn that what really matters to sustain and maintain a long-term romantic relationship leading to marriage is understanding the other person’s perspective and effectively communicating with each other.</td>
 		<td>
 			<ul style="margin-top:-10px;">
 				<li style="font-size:15px;margin-bottom:5px;line-height:2">Know that long-term romantic relationships leading to marriage involve understanding oneself and others in the intellectual, emotional, social and moral dimensions.</li>
 				<li style="font-size:15px;margin-bottom:5px;">Know that marriage entails a union between a man and a woman based on love, trust, commitment, and requires mutual effort. </li>
-				<li style="font-size:15px;margin-bottom:5px;">Understand that conflicts are normal in any relationship, including marriage, and the way in which a couple handles conflict is critical to the success of their marriage.</li>
+				<li style="font-size:15px;margin-bottom:5px;">Understand that conflicts are normal in any relationship, including marriage, and the way in which a couple handles conflict is critical to the success of their marriage.  </li>
 			</ul>
 		</td>
-		<td style="font-size:15px;margin-bottom:5px;line-height:2">Term 2 Week 3 </td>
+		<td style="font-size:15px;margin-bottom:5px;line-height:2">Term 2 Week 2</td>
 </tr>
 	
 <tr style="background-color:#f3f3f3;font-size:15px;line-height:2;border-bottom: 2px solid #009879;">
-		<td style="font-size:15px;margin-bottom:5px;line-height:2">4 (60 mins)</td>
+		<td style="font-size:15px;margin-bottom:5px;line-height:2">There’s Always More to a Story  <br> Lesson 4<br>(60 mins)</td>
+			<td style="font-size:15px;margin-bottom:5px;line-height:2">In this lesson, students will revisit the impact of pornography and deepen their understanding on its impact on relationships. Students will also learn about revenge pornography, including its definition and legal provisions. They will also learn that they can turn to trusted adults for help in setting boundaries and overcoming difficulties in making sound decisions, to prevent themselves from encountering danger.</td>
 		<td>
 			<ul style="margin-top:-10px;">
-				<li style="font-size:15px;margin-bottom:5px;line-height:2">Understand that we strengthen our character when we commit to sound values-based viewpoints (e.g. respect for life) and decisions, and speak and act in alignment with our beliefs.</li>
+				<li style="font-size:15px;margin-bottom:5px;line-height:2">Understand that we strengthen our character when we commit to sound values-based viewpoints (e.g. respect for life) and decisions, and speak and act in alignment with our beliefs</li>
 			</ul>
 		</td>
 		<td style="font-size:15px;margin-bottom:5px;line-height:2">Term 2 Week 5</td>
@@ -303,6 +309,7 @@ Lesson 2<br>(60 mins)</td>
 <tr>
 				<td style="text-align:center;color:white;">UNIT</td>
 				<td style="text-align:center;color:white;">LESSONS / DURATION</td>
+				<td style="text-align:center;color:white;">LESSON OVERVIEW</td>
 				<td style="text-align:center;color:white;">LESSON OBJECTIVES</td>
 				<td style="text-align:center;color:white;">TIME PERIOD</td>
 			</tr>
@@ -311,28 +318,27 @@ Lesson 2<br>(60 mins)</td>
 <tbody>
 	
 <tr style="border-bottom: 2px solid #009879;">
-		<td style="font-size:15px;margin-bottom:5px; line-height:2" rowspan="4">Respectful Relationships &amp;Safety</td>
-		<td style="font-size:15px;margin-bottom:5px;line-height:2">1 (60 mins)</td>
+		<td style="font-size:15px;margin-bottom:5px; line-height:2" rowspan="5">Respectful Relationships & Safety</td>
+		<td style="font-size:15px;margin-bottom:5px;line-height:2">This is Where I Draw the Line  <br>(60 mins)</td>
+			<td style="font-size:15px;margin-bottom:5px;line-height:2">In this lesson, students will understand that different individuals have different emotional and physical boundaries. This lesson highlights the need to respect the boundaries of others and reinforces the importance of showing respect to the opposite sex by using appropriate words and actions. Students will examine personal boundaries from different perspectives and learn the importance of making sound values-based decisions and acting in consideration of the well-being of themselves and others.</td>
 		<td>
 			<ul style="margin-top:-10px;">
-				<li style="font-size:15px;margin-bottom:5px;line-height:2">Understand that the value of a person is not tied to one’s gender and not conforming to gender stereotypes does not negate one’s gender identity.</li>
-			    <li style="font-size:15px;margin-bottom:5px;line-height:2">Understand what gender stereotypes comprise, e.g. notions of masculinity and femininity vary over time and space, and are shaped by societal expectations. </li>
-				<li style="font-size:15px;margin-bottom:5px;line-height:2">Know that imposing gender stereotypes on oneself and others can limit one’s experiences, cause harm to the self-esteem of oneself and others and should be avoided.</li>
+				<li style="font-size:15px;margin-bottom:5px;line-height:2">Understand that we strengthen our character when we commit to sound values-based viewpoints (e.g. respect for life) and decisions, and speak and act in alignment with our beliefs</li>
 			</ul>
 		</td>
-		<td style="font-size:15px;margin-bottom:5px;line-height:2">Term 1 Week 8</td>
+		<td style="font-size:15px;margin-bottom:5px;line-height:2">Term 2 Week 1</td>
 </tr>
 	
 </tbody>
 </table>
 
-<h4 style="color:#635f1a;font-weight:bold"><em>eTeens</em>&nbsp;Programme:</h4>
+<h4 style="color:#635f1a;font-weight:bold"><em>eTeens</em> Programme:</h4>
 
- <p style="font-size:14.5px; line-height:2;margin-top:15px; font-family:Open Sans"><em>eTeens</em>&nbsp;is a programme developed by Health Promotion Board, in collaboration with the Ministry of Education, to provide Secondary 3 students with accurate information on STIs, HIV and protection from a health perspective.&nbsp;<em>eTeens</em>&nbsp;is conducted in two segments &ndash; a mass talk segment and a classroom-based programme.</p>
+ <p style="font-size:14.5px; line-height:2;margin-top:15px; font-family:Open Sans"><em>eTeens</em> is a programme developed by Health Promotion Board, in collaboration with the Ministry of Education, to provide Secondary 3 students with accurate information on STIs, HIV and protection from a health perspective. <em> eTeens </em>is conducted in two segments – a mass talk segment and a classroom-based programme.</p>
 
-<p style="margin-top:15px;font-size:14.5px; line-height:2;font-family:Open Sans;">Students are taught skills such as decision-making, assertiveness and negotiation to say &ldquo;no&rdquo; to sex and negative peer pressure. They also learn that the impact of STIs/HIV extends beyond themselves and involves their family. Abstinence and upholding family values are the key messages. The desired outcome of the&nbsp;<em>eTeens</em>&nbsp;programme is that students are empowered to make wise, informed and sensible decisions.</p>
+<p style="margin-top:15px;font-size:14.5px; line-height:2;font-family:Open Sans;">Students are taught skills such as decision-making, assertiveness and negotiation to say “no” to sex and negative peer pressure. They also learn that the impact of STIs/HIV extends beyond themselves and involves their family. Abstinence and upholding family values are the key messages. The desired outcome of the <em>eTeens</em> programme is that students are empowered to make wise, informed and sensible decisions.</p>
 
-<h4 style="color:#635f1a;font-weight:bold">At Pei Hwa Secondary School, the eTeens programme will be implemented as follows in 2022:</h4>
+<h4 style="color:#635f1a;font-weight:bold">At Pei Hwa Secondary School, the eTeens programme will be implemented as follows in 2023:</h4>
 
 <table border="1" style="border-collapse: collapse;margin: 25px 0;font-size:15px;font-family: sans-serif;box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);">
 <thead style="background-color: #009879; font-weight: bold; font-size: 16px;">
@@ -346,7 +352,7 @@ Lesson 2<br>(60 mins)</td>
 <tbody>
 <tr>
 		<td style="font-size:15px; line-height:2">
-			Mass Talk by HPB appointed vendor
+		Mass Talk by HPB appointed vendor
 		</td>
 		<td style="font-size:15px; line-height:2">
 			<ul>
@@ -357,7 +363,7 @@ Lesson 2<br>(60 mins)</td>
 		</ul>
 		</td>
 		<td style="font-size:15px; line-height:2">
-			Term 2 Week 6
+			Term 2 Week 5
 		</td>
 </tr>
 									
@@ -371,7 +377,7 @@ Lesson 2<br>(60 mins)</td>
 		</ul>
 		</td>
 		<td style="font-size:15px; line-height:2">
-			Term 2 Week 7
+			Term 2 Week 6
 		</td>
 </tr>
 				
@@ -380,11 +386,10 @@ Lesson 2<br>(60 mins)</td>
 </table>
 
 <h4 style="color:#635f1a;font-weight:bold">Information for Parents</h4>
-<p style="font-size:14.5px; line-height:2;margin-top:15px; font-family:Open Sans">Parents may opt their children out of the Sexuality Education lessons,&nbsp;<em>eTeens</em>&nbsp;and/or supplementary sexuality education programmes by MOE-approved external providers.</p>
+<p style="font-size:14.5px; line-height:2;margin-top:15px; font-family:Open Sans">Parents may opt their children out of the Sexuality Education lessons, <em>eTeens</em> and/or supplementary sexuality education programmes by MOE-approved external providers. </p>
 
- <p style="margin-top:15px;font-size:14.5px; line-height:2;font-family:Open Sans;">Parents who wish to opt their children out of the&nbsp;<strong>Sexuality Education lessons</strong>&nbsp;need to complete an opt-out form. This form will be distributed to parents in Term 1 and is also downloadable&nbsp;<a href="/files/Annex-A.pdf">here</a>.&nbsp;The completed form is to be submitted by 28 January 2022 for Secondary 2 and Secondary 4 students. The completed form is to be submitted by 4 February 2022 for Secondary 5 students. The completed form is to be submitted by 25 February 2022 for Secondary 1 and Secondary 3 students.<u></u></p>
+ <p style="margin-top:15px;font-size:14.5px; line-height:2;font-family:Open Sans;">Parents who wish to opt their children out of the <strong>Sexuality Education lessons </strong> need to complete an opt-out form at <a href="https://go.gov.sg/2023-sed-lessons-parent-opt-out-form">https://go.gov.sg/2023-sed-lessons-parent-opt-out-form</a>. The link to this form will be distributed to parents in Term 1 via Parents Gateway and is also downloadable <a href ="https://drive.google.com/file/d/1Do9o9CqIlRP3c4bczZ26gjUPE6Pi6vLL/view">here</a>. The completed form is to be submitted online by 10/02/2023 for Secondary 1-4 students and by 17/02/2023 for Secondary 5 students.</p>
 
- <p style="margin-top:15px;font-size:14.5px; line-height:2;font-family:Open Sans;"><span lang="EN-GB">Parents who wish to opt their children out of the&nbsp;<strong><em>eTeens</em></strong><strong>&nbsp;programme</strong>&nbsp;need to complete an opt-out form. This form will be distributed to parents in Term 2 and is also downloadable&nbsp;<a href="/files/Annex-B.pdf">here</a>.&nbsp;The completed form is to be submitted by 25 February 2022.</span></p>
+ <p style="margin-top:15px;font-size:14.5px; line-height:2;font-family:Open Sans;"><span lang="EN-GB">Parents who wish to opt their children out of the <strong><em>eTeens</em> programme</strong> need to complete an opt-out form at <a href="https://go.gov.sg/2023-eteens-parent-opt-out-form">https://go.gov.sg/2023-eteens-parent-opt-out-form</a>. The link to this form will be distributed to parents in Term 1 via Parents Gateway and is also downloadable <a href="https://drive.google.com/file/d/1ouzgb9CFrLTlQAsCo6LxGUlKwKBZEwiU/view">here</a>. The completed form is to be submitted online by 10/02/2023.</p>
 
- <p style="margin-top:15px;font-size:14.5px; line-height:2;font-family:Open Sans;"><span lang="EN-GB"></span>Parents can contact the school at&nbsp;65009580 ext 293&nbsp;for discussion or to seek clarification about the school&rsquo;s sexuality education programme.</p>
- <p style="margin-top:15px;font-size:14.5px; line-height:2;font-family:Open Sans;">Parents, who wish to attend the school sexuality education programmes, should contact the school to make the necessary arrangements.</p>
+ <p style="margin-top:15px;font-size:14.5px; line-height:2;font-family:Open Sans;"> Parents can contact the school at 65009580 ext 293 for discussion or to seek clarification about the school’s Sexuality Education programme.</p>
