@@ -111,41 +111,41 @@ third_nav_title: Performing Arts
 	<li style="font-size:14.5px; line-height:2;font-family:Open Sans;">Evocation</li>
 </ul>
 
-<h4 style="color:#635f1a;font-weight:bold;margin-bottom:-25px;">Student Testament</h4>
+<h4 style="color:#635f1a;font-weight:bold;margin-bottom:-25px;font-family:Open Sans;">Student Testament</h4>
 
-<blockquote style="font-size: 15px;width:100%;margin:50px auto;font-family:Open Sans;font-style:italic;color: #555555;padding:1.2em 25px 1.2em 25px;border-left:8px solid #78C0A8 ;line-height:1.6;position: relative;background:#EDEDED;">
+<blockquote style="font-size: 14.5px;width:100%;margin:50px auto;font-family:Open Sans;font-style:italic;color: #555555;padding:1.2em 25px 1.2em 25px;border-left:8px solid #78C0A8 ;line-height:1.6;position: relative;background:#EDEDED;">
 <img align="left" alt=""  src="/images/choir4.jpeg" style="width: 23%;margin-right:15px;">
 	"Singing in a choir is definitely a different experience from just singing by yourself, especially when professionals teach you vocal skills &amp; technique and this really helps to improve your vocal skills. Great for people interested in singing! The best part is you do not need any previous musical background to join and all the seniors, instructors and teachers are there to guide you along when you are lost."
-<span style="display:block; color:#333333; margin-top:1em;font-size:15px;"><em>President of Choir, Rachel</em></span><br><br><br><br>
+<span style="display:block; color:#333333; margin-top:1em;font-size:14.5px;"><em style="font-family:Open Sans;">President of Choir, Rachel</em></span><br><br><br><br>
 	</blockquote>
 
-<blockquote style="font-size: 15px;width:100%;margin:50px auto;font-family:Open Sans;font-style:italic;color: #555555;padding:1.2em 25px 1.2em 25px;border-left:8px solid #78C0A8 ;line-height:1.6;position: relative;background:#EDEDED;">
+<blockquote style="font-size: 14.5px;width:100%;margin:50px auto;font-family:Open Sans;font-style:italic;color: #555555;padding:1.2em 25px 1.2em 25px;border-left:8px solid #78C0A8 ;line-height:1.6;position: relative;background:#EDEDED;">
 <img align="left" alt="" src="/images/choir5.jpeg" style="width: 23%;margin-right:15px;">
 	"I enjoy Choir as my CCA because I actually do like singing. At first I thought Choir is going to be very boring but it was completely the opposite. The people there makes it extra fun. It may be a little stressful when there are performances but these are opportunities for us to step out of our comfort zones and perform in and out of school. It was not always smooth but we learnt from our mistakes and did our best. It definitely makes the experience in Choir more memorable and enjoyable."
-<span style="display:block; color:#333333; margin-top:1em;font-size:15px;"><em>Vice-President of Choir, Mikella</em></span><br><br><br>
+<span style="display:block; color:#333333; margin-top:1em;font-size:14.5px;"><em style="font-family:Open Sans;">Vice-President of Choir, Mikella</em></span><br><br><br>
 </blockquote>
 
-<h4 style="color:#635f1a;font-weight:bold">CCA Details</h4>
+<h4 style="color:#635f1a;font-weight:bold;font-family:Open Sans;">CCA Details</h4>
 <table border="1" style="width:100%;">
 	<tbody>
 		<tr>
-			<td style="background-color: #54585d; font-weight: bold; font-size: 15px; border: 1px solid #54585d; color:white;border-bottom: 1px solid #dddddd;width:24%;">Teacher-In-Charge</td>
-			<td style="border: 1px solid #dddfe1;font-size: 15px;">Mr Yeo Wei Qiang, Kenneth</td>
+			<td style="background-color: #54585d; font-weight: bold; font-size: 14.5px; border: 1px solid #54585d; color:white;border-bottom: 1px solid #dddddd;width:24%;font-family:Open Sans;">Teacher-In-Charge</td>
+			<td style="border: 1px solid #dddfe1;font-size: 14.5px;font-family:Open Sans;">Mr Yeo Wei Qiang, Kenneth</td>
 		</tr>
 
 <tr>
-			<td style="background-color: #54585d; font-weight: bold; font-size: 15px; border: 1px solid #54585d;border-bottom: 1px solid #dddddd; color:white;">CCA Teacher(s)</td>
-			<td style="border: 1px solid #dddfe1;font-size: 15px;">Ms Shirlyn Sim<br>Ms Tan Jiewen<br>Ms Wong Ping Fang Claire</td>
+			<td style="background-color: #54585d; font-weight: bold; font-size: 14.5px; border: 1px solid #54585d;border-bottom: 1px solid #dddddd; color:white;font-family:Open Sans;">CCA Teacher(s)</td>
+			<td style="border: 1px solid #dddfe1;font-size: 14.5px;font-family:Open Sans;">Ms Shirlyn Sim<br>Ms Tan Jiewen<br>Ms Wong Ping Fang Claire</td>
 		</tr>
 
 <tr>
-			<td style="background-color: #54585d; font-weight: bold; font-size: 15px; border: 1px solid #54585d; color:white;border-bottom: 1px solid #dddddd;">CCA Schedule</td>
-			<td style="border: 1px solid #dddfe1;font-size: 15px;">Tuesday, 3.30pm – 6.00pm<br>Friday, 2.30pm – 6.00pm</td>
+			<td style="background-color: #54585d; font-weight: bold; font-size: 14.5px; border: 1px solid #54585d; color:white;border-bottom: 1px solid #dddddd;font-family:Open Sans;">CCA Schedule</td>
+			<td style="border: 1px solid #dddfe1;font-size: 14.5px;font-family:Open Sans;">Tuesday, 3.30pm – 6.00pm<br>Friday, 2.30pm – 6.00pm</td>
 		</tr>
 		
 <tr>
-			<td style="background-color: #54585d; font-weight: bold; font-size: 15px; border: 1px solid #54585d; color:white;">Venues</td>
-			<td style="border: 1px solid #dddfe1;font-size: 15px;">AVA Room</td>
+			<td style="background-color: #54585d; font-weight: bold; font-size: 14.5px; border: 1px solid #54585d; color:white;font-family:Open Sans;">Venues</td>
+			<td style="border: 1px solid #dddfe1;font-size: 14.5px;font-family:Open Sans;">AVA Room</td>
 		</tr>
 		
 </tbody>
