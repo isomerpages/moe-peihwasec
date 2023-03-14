@@ -13,9 +13,9 @@ description: ""
 <li style="font-size:14.5px; line-height:2;margin-left:17px;font-family:Open Sans;">resource management</li>
 </ul>
 
-<p style="margin-top:15px;font-size:14.5px; line-height:2;font-family:Open Sans;">Their scope of work includes collaborating and communicating with parents, teachers (including teachers trained in Special Needs (TSNs)), and other school personnel such as the school counsellors, to provide holistic support to students with mild special educational needs (SEN). They also work closely with external partners for consultation and diagnoses.</p>
+<p style="margin-top:15px;font-size:14.5px; line-height:2;font-family:Open Sans;">Their scope of work includes collaborating and communicating with parents, teachers (including teachers trained in Special Needs (TSNs), and other school personnel such as the school counsellors, to provide holistic support to students with mild special educational needs (SEN). They also work closely with external partners for consultation and diagnoses.</p>
 
-<h4 style="color:#635f1a;font-weight:bold">Our AED-LBS are:</h4>
+<h4 style="color:#635f1a;font-weight:bold;font-family:Open Sans;">Our AED-LBS are:</h4>
 <ul style="margin-top:5px;">
 <li style="font-size:14.5px; line-height:2;font-family:Open Sans;">Mrs Anna Leong | Senior AED-LBS | 65009580 ext 205</li>
 <li style="font-size:14.5px; line-height:2;font-family:Open Sans;">Ms Belinda Danker | AED-LBS | 65009580 ext 205</li>
