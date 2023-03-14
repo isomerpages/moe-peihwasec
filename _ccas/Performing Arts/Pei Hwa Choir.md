@@ -135,12 +135,12 @@ third_nav_title: Performing Arts
 
 <tr>
 			<td style="background-color: #54585d; font-weight: bold; font-size: 14.5px; border: 1px solid #54585d;border-bottom: 1px solid #dddddd; color:white;font-family:Open Sans;">CCA Teacher(s)</td>
-			<td style="border: 1px solid #dddfe1;font-size: 14.5px;font-family:Open Sans;">Ms Shirlyn Sim<br>Ms Tan Jiewen<br>Ms Wong Ping Fang Claire</td>
+			<td style="border: 1px solid #dddfe1;font-size: 14.5px;font-family:Open Sans;">Ms Tan Jiewen<br>Ms Wong Ping Fang Claire</td>
 		</tr>
 
 <tr>
 			<td style="background-color: #54585d; font-weight: bold; font-size: 14.5px; border: 1px solid #54585d; color:white;border-bottom: 1px solid #dddddd;font-family:Open Sans;">CCA Schedule</td>
-			<td style="border: 1px solid #dddfe1;font-size: 14.5px;font-family:Open Sans;">Tuesday, 3.30pm – 6.00pm<br>Friday, 2.30pm – 6.00pm</td>
+			<td style="border: 1px solid #dddfe1;font-size: 14.5px;font-family:Open Sans;">Tuesdays, 3.30pm – 6.00pm<br>Fridays, 2.30pm – 6.00pm</td>
 		</tr>
 		
 <tr>
