@@ -10,7 +10,7 @@ The logo is formed by the Chinese characters &ldquo;Pei&rdquo; and &ldquo;Hwa&rd
 
 
 <h4 style="color:#635f1a;font-weight:bold;font-family:Open Sans">Motto</h4>
-<p style="font-size:14.5px; line-height:2;margin-top:15px; font-family:Montserrat">
+<p style="font-size:14.5px; line-height:2;margin-top:15px; font-family:Open Sans">
 Nurturing Talents (meaning of the word &lsquo;Pei Hwa&rsquo; in Chinese)</p>
 
 <h4 style="color:#635f1a;font-weight:bold;font-family:Open Sans">School Song</h4>
