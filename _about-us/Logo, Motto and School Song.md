@@ -22,7 +22,7 @@ In Pei Hwa Secondary School<br>We are the pride of the community<br>To lead and 
 <p style="margin:5px 0 20px; font-size:14.5px; line-height:2;font-family:Open Sans">Here in Pei Hwa<br>Our talents are nurtured<br>Here in Pei Hwa<br>Where we share in harmony<br>We&rsquo;ll spread our wings<br>Fly far and high<br>To bring pride and glory<br>To the happy Pei Hwa family</p>
 <p><strong>***</strong></p>
 
-<p style="margin:5px 0 20px; font-size:14.5px; line-height:2;font-family:Open Sans"><strong style="font-family:Montserrat;">Music by Mr Job Tan</strong>
+<p style="margin:5px 0 20px; font-size:14.5px; line-height:2;font-family:Open Sans"><strong style="font-family:Open Sans;">Music by Mr Job Tan</strong>
 <br>
 <strong style="font-family:Open Sans">Lyrics by Mr Daniel Beng, Miss Thien Li Chin and Mr Tan Yap Kin</strong>
 	<br>
