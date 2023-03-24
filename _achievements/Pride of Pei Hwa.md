@@ -290,17 +290,17 @@ Our former students have graduated from Ngee Ann Polytechnic (NP) this year with
 		
 <tr>
 <td style="font-size:14.5px; line-height:2;font-family:Tahoma;width:10%;">Name</td>
-<td style="font-size:14.5px; line-height:2;font-family:Open Sans;">: <strong style="font-family:Open Sans;">Samuel Chin Wei Kiat</strong></td>
+<td style="font-size:14.5px; line-height:2;font-family:Tahoma;">: <strong style="font-family:Tahoma;">Samuel Chin Wei Kiat</strong></td>
 </tr>
 	
 <tr>
-<td style="font-size:14.5px; line-height:2;font-family:Open Sans; width:10%;">Course</td>
-<td style="font-size:14.5px; line-height:2;font-family:Open Sans;">: Diploma in Banking & Financial Services</td>
+<td style="font-size:14.5px; line-height:2;font-family:Tahoma;width:10%;">Course</td>
+<td style="font-size:14.5px; line-height:2;font-family:Tahoma;">: Diploma in Banking & Financial Services</td>
 </tr>
 	
 <tr>
-<td style="font-size:14.5px; line-height:2;font-family:Open Sans;">Achievement</td>
-<td style="font-size:14.5px; line-height:2;font-family:Open Sans;">: Diploma with Merit<br>&nbsp;&nbsp;IEEE UOB Prize</td>
+<td style="font-size:14.5px; line-height:2;font-family:Tahoma;">Achievement</td>
+<td style="font-size:14.5px; line-height:2;font-family:Tahoma;">: Diploma with Merit<br>&nbsp;&nbsp;IEEE UOB Prize</td>
 </tr>
 	
 </tbody>
@@ -309,23 +309,23 @@ Our former students have graduated from Ngee Ann Polytechnic (NP) this year with
 
 <br>
 <img style="width:70%;margin:0px;" src="/images/gradSPAccountancy2019.jpeg" />
-<p style="margin-top:15px;font-size:14.5px; line-height:2;font-family:Open Sans;">We are proud of the achievements of our former student and believe that she will&nbsp;continue to do Singapore Polytechnic and Pei Hwa Secondary School proud.</p>
+<p style="margin-top:15px;font-size:14.5px; line-height:2;font-family:Tahoma;">We are proud of the achievements of our former student and believe that she will&nbsp;continue to do Singapore Polytechnic and Pei Hwa Secondary School proud.</p>
 <table border="1" style="border-collapse: none;margin: 15px 0;font-size: 0.9em;font-family: sans-serif;min-width: 50px; box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);width:70%;">
 <tbody>
 		
 <tr>
-<td style="font-size:14.5px; line-height:2;font-family:Open Sans;">Name</td>
-<td style="font-size:14.5px; line-height:2;font-family:Open Sans;">: <strong style="font-family:Open Sans;">Foo Ji Gi</strong></td>
+<td style="font-size:14.5px; line-height:2;font-family:Tahoma;">Name</td>
+<td style="font-size:14.5px; line-height:2;font-family:Tahoma;">: <strong style="font-family:Tahoma;">Foo Ji Gi</strong></td>
 </tr>
 	
 <tr>
-<td style="font-size:14.5px; line-height:2;font-family:Open Sans;">Course</td>
-<td style="font-size:14.5px; line-height:2;font-family:Open Sans;">: Diploma In Accountancy</td>
+<td style="font-size:14.5px; line-height:2;font-family:Tahoma;">Course</td>
+<td style="font-size:14.5px; line-height:2;font-family:Tahoma;">: Diploma In Accountancy</td>
 </tr>
 	
 <tr>
-<td style="font-size:14.5px; line-height:2;font-family:Open Sans;">Achievement</td>
-<td style="font-size:14.5px; line-height:2;font-family:Open Sans;">: Diploma with Merit<br>&nbsp;&nbsp;Institute of Singapore Chartered Accountants Gold Medal</td>
+<td style="font-size:14.5px; line-height:2;font-family:Tahoma;">Achievement</td>
+<td style="font-size:14.5px; line-height:2;font-family:Tahoma;">: Diploma with Merit<br>&nbsp;&nbsp;Institute of Singapore Chartered Accountants Gold Medal</td>
 </tr>
 	
 </tbody>
