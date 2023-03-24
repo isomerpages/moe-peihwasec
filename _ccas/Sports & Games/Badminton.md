@@ -53,39 +53,39 @@ B and C division boys came in 1st runner up in the Interschool Badminton Competi
 </tr>
 			
 <tr>
-<td style="font-size:14.5px;"><strong style="font-family:Open Sans;">2018</strong></td>
-<td style="font-size:14.5px;"><strong style="font-family:Open Sans;">Participation</strong></td>
+<td style="font-size:14.5px;"><strong style="font-family:Tahoma;">2018</strong></td>
+<td style="font-size:14.5px;"><strong style="font-family:Tahoma;">Participation</strong></td>
 </tr>
 		
 <tr style="border-bottom: 2px solid #009879; background-color: #f3f3f3;">
-<td><strong style="font-size:14.5px;font-family:Open Sans;">2017</strong></td>
-<td style="font-size:14.5px;"><strong style="font-family:Open Sans;">Participation</strong>
+<td><strong style="font-size:14.5px;font-family:Tahoma;">2017</strong></td>
+<td style="font-size:14.5px;"><strong style="font-family:Tahoma;">Participation</strong>
 </td>
 </tr>
 										
 </tbody>
 </table>
 
-<h4 style="color:#635f1a;font-weight:bold;font-family:Open Sans;">North Zone Badminton Competitions</h4>
+<h4 style="color:#635f1a;">North Zone Badminton Competitions</h4>
 
-<p style="font-size:14.5px; line-height:2;margin-top:15px; font-family:Open Sans">The team has participated in the Inter-Schools North Zone Badminton Tournaments. The players put up a good performance and exemplified the school values of resilience and diligence throughout the competition. The students have also forged strong friendship and demonstrated good teamwork throughout their trainings and in preparation for their competitions. Through their perseverance and hard work, the B division boys qualified for the quarter-finals. We are proud of their progress and improvements in the games.</p>
+<p style="font-size:14.5px; line-height:2;margin-top:15px; font-family:Tahoma">The team has participated in the Inter-Schools North Zone Badminton Tournaments. The players put up a good performance and exemplified the school values of resilience and diligence throughout the competition. The students have also forged strong friendship and demonstrated good teamwork throughout their trainings and in preparation for their competitions. Through their perseverance and hard work, the B division boys qualified for the quarter-finals. We are proud of their progress and improvements in the games.</p>
 
 <img style="width: 100%;margin-top:10px;" src="/images/Picture2.jpg"/>
-<p style="text-align:center; font-size:11px;margin-top:-5px;font-family:Open Sans;">B Division Boys</p>
+<p style="text-align:center; font-size:10px;margin-top:-5px;font-family:Tahoma;">B Division Boys</p>
 
 <img style="width: 100%;margin-top:10px;" src="/images/Picture3.jpg"/>
-<p style="text-align:center; font-size:11px;font-family:Open Sans;margin-top:-5px;">B Division Girls</p>
+<p style="text-align:center; font-size:10px;font-family:Tahoma;margin-top:-5px;">B Division Girls</p>
 
 <img style="width: 100%;margin-top:10px;" src="/images/Picture4.jpg"/>
-<p style="text-align:center; font-size:11px;font-family:Open Sans;margin-top:-5px;">B Division Girls</p>
+<p style="text-align:center; font-size:11px;font-family:Tahoma;margin-top:-5px;">B Division Girls</p>
 
 <img style="width: 100%;margin-top:10px;" src="/images/Picture5.jpg"/>
-<p style="text-align:center; font-size:11px;font-family:Open Sans;margin-top:-5px;">C Division Boys</p>
+<p style="text-align:center; font-size:11px;font-family:Tahoma;margin-top:-5px;">C Division Boys</p>
 
 <img style="width: 100%;margin-top:10px;" src="/images/Picture6.jpg"/>
-<p style="text-align:center; font-size:11px;font-family:Open Sans;margin-top:-5px;">C Division Girls</p>
+<p style="text-align:center; font-size:11px;font-family:Tahoma;margin-top:-5px;">C Division Girls</p>
 
-<h4 style="color:#635f1a;font-weight:bold;font-family:Open Sans;">Farewell Party for the seniors</h4>
+<h4 style="color:#635f1a;">Farewell Party for the seniors</h4>
 <div class="row" style="box-sizing: border-box;"> 
 <div class="column" style="box-sizing: border-box;  float: left; width: 50%; padding: 10px;">
 <img src="/images/Picture7.jpg" style="width:100%; margin-top: 12px;">
@@ -97,7 +97,7 @@ B and C division boys came in 1st runner up in the Interschool Badminton Competi
 </div>  
 </div>
 
-<h4 style="color:#635f1a;font-weight:bold; margin-bottom:-25px;font-family:Open Sans;">Student Testament</h4>
+<h4 style="color:#635f1a;margin-bottom:-25px;">Student Testament</h4>
 <blockquote style="font-size: 15px;
   width:100%;
   margin:50px auto;
@@ -194,27 +194,27 @@ B and C division boys came in 1st runner up in the Interschool Badminton Competi
   <span style="display:block; color:#333333; margin-top:1em;font-size:15px;"><em>Vice-Captain (Girls Team), Charlotte Chia Jia En, 3I5</em></span>
 	</blockquote> 
 
-<h4 style="color:#635f1a;font-weight:bold;font-family:Open Sans;">CCA Details</h4>
+<h4 style="color:#635f1a;">CCA Details</h4>
 <table border="1" style="width:100%;">
 	<tbody>
 		<tr>
-			<td style="background-color: #54585d; font-weight: bold; font-size: 14.5px; border: 1px solid #54585d; color:white;border-bottom: 1px solid #dddddd;width:24%;font-family:Open Sans;">Teacher-In-Charge</td>
-			<td style="border: 1px solid #dddfe1;font-size: 14.5px;font-family:Open Sans;">Mrs Cheow Bee Chuan</td>
+			<td style="background-color: #54585d; font-weight: bold; font-size: 14.5px; border: 1px solid #54585d; color:white;border-bottom: 1px solid #dddddd;width:24%;font-family:Tahoma;">Teacher-In-Charge</td>
+			<td style="border: 1px solid #dddfe1;font-size: 14.5px;font-family:Tahoma;">Mrs Cheow Bee Chuan</td>
 		</tr>
 
 <tr>
-			<td style="background-color: #54585d; font-weight: bold; font-size: 14.5px; border: 1px solid #54585d;border-bottom: 1px solid #dddddd; color:white;font-family:Open Sans;">CCA Teacher(s)</td>
-			<td style="border: 1px solid #dddfe1;font-size: 14.5px;font-family:Open Sans;">Mr Li Hong Jin<br>Miss Tan Hui Ping</td>
+			<td style="background-color: #54585d; font-weight: bold; font-size: 14.5px; border: 1px solid #54585d;border-bottom: 1px solid #dddddd; color:white;font-family:Tahoma;">CCA Teacher(s)</td>
+			<td style="border: 1px solid #dddfe1;font-size: 14.5px;font-family:Tahoma;">Mr Li Hong Jin<br>Miss Tan Hui Ping</td>
 		</tr>
 
 <tr>
-			<td style="background-color: #54585d; font-weight: bold; font-size: 14.5px; border: 1px solid #54585d; color:white;border-bottom: 1px solid #dddddd;font-family:Open Sans;">CCA Schedule</td>
-			<td style="border: 1px solid #dddfe1;font-size: 14.5px;font-family:Open Sans;">Tue: 3.30 pm to 6 pm<br />Fri: 2.30 pm to 6 pm</td>
+			<td style="background-color: #54585d; font-weight: bold; font-size: 14.5px; border: 1px solid #54585d; color:white;border-bottom: 1px solid #dddddd;font-family:Tahoma;">CCA Schedule</td>
+			<td style="border: 1px solid #dddfe1;font-size: 14.5px;font-family:Tahoma;">Tue: 3.30 pm to 6 pm<br />Fri: 2.30 pm to 6 pm</td>
 		</tr>
 		
 <tr>
-			<td style="background-color: #54585d; font-weight: bold; font-size: 14.5px; border: 1px solid #54585d; color:white;font-family:Open Sans;">Venues</td>
-			<td style="border: 1px solid #dddfe1;font-size: 14.5px;font-family:Open Sans;">Indoor Sports Hall (ISH) Level 2</td>
+			<td style="background-color: #54585d; font-weight: bold; font-size: 14.5px; border: 1px solid #54585d; color:white;font-family:Tahoma;">Venues</td>
+			<td style="border: 1px solid #dddfe1;font-size: 14.5px;font-family:Tahoma;">Indoor Sports Hall (ISH) Level 2</td>
 		</tr>
 		
 </tbody>
