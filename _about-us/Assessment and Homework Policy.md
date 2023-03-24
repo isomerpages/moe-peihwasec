@@ -31,115 +31,115 @@ description: ""
 <thead style="background-color: #009879; font-weight: bold; font-size: 16px; ">
 		<tr>
 			<td style="text-align:left;color:white;padding:12px 15px;font-family:Tahoma;">&nbsp;</td>
-			<td style="text-align:left;color:white;padding:12px 15px;font-family:Open Sans;">Term 1</td>
-			<td style="text-align:left;color:white;padding:12px 15px;font-family:Open Sans;">Term 2</td>
-			<td style="text-align:left;color:white;padding:12px 15px;font-family:Open Sans;">Term 3</td>
-			<td style="text-align:left;color:white;padding:12px 15px;font-family:Open Sans;">Term 4</td>
+			<td style="text-align:left;color:white;padding:12px 15px;font-family:Tahoma;">Term 1</td>
+			<td style="text-align:left;color:white;padding:12px 15px;font-family:Tahoma;">Term 2</td>
+			<td style="text-align:left;color:white;padding:12px 15px;font-family:Tahoma;">Term 3</td>
+			<td style="text-align:left;color:white;padding:12px 15px;font-family:Tahoma;">Term 4</td>
 		</tr>
 	</thead>
 
 	
 <tbody>
 <tr style="border-bottom: 1px solid #dddddd;">
-<td style="padding: 12px 15px; font-family:Open Sans;"><strong style="font-family:Open Sans;">Sec 1</strong></td>
-<td style="padding: 12px 15px; font-family:Open Sans;">WA: 15%</td>
-<td style="padding: 12px 15px; font-family:Open Sans;">WA: 15%</td>
-<td style="font-family:Open Sans;padding: 12px 15px;">WA: 15%</td>
-<td style="font-family:Open Sans;padding: 12px 15px;">EOY: 55%</td>
+<td style="padding: 12px 15px;font-family:Tahoma;"><strong style="font-family:Tahoma;">Sec 1</strong></td>
+<td style="padding: 12px 15px; font-family:Tahoma;">WA: 15%</td>
+<td style="padding: 12px 15px; font-family:Tahoma;">WA: 15%</td>
+<td style="font-family:Tahoma;padding: 12px 15px;">WA: 15%</td>
+<td style="font-family:Tahoma;padding: 12px 15px;">EOY: 55%</td>
 </tr>
 	
 <tr style ="background-color: #f3f3f3;border-bottom: 1px solid #dddddd;">
-<td style="padding: 12px 15px;font-family:Open Sans;"><strong style="font-family:Open Sans;">Sec 2</strong></td>
-<td style="padding: 12px 15px;font-family:Open Sans;">WA: 15%</td>
-<td style="padding: 12px 15px;font-family:Open Sans;">WA: 15%</td>
-<td style="padding: 12px 15px;font-family:Open Sans;">WA: 15%</td>
-<td style="padding: 12px 15px;font-family:Open Sans;">EOY: 55%</td>
+<td style="padding: 12px 15px;font-family:Tahoma;"><strong style="font-family:Tahoma;">Sec 2</strong></td>
+<td style="padding: 12px 15px;font-family:Tahoma;">WA: 15%</td>
+<td style="padding: 12px 15px;font-family:Tahoma;">WA: 15%</td>
+<td style="padding: 12px 15px;font-family:Tahoma;">WA: 15%</td>
+<td style="padding: 12px 15px;font-family:Tahoma;">EOY: 55%</td>
 </tr>
 															
 <tr style="border-bottom: 1px solid #dddddd;">
-<td style="padding: 12px 15px;font-family:Open Sans;"><strong style="font-family:Open Sans;">Sec 3</strong></td>
-<td style="padding: 12px 15px; font-family:Open Sans;">WA: 15%</td>
-<td style="padding: 12px 15px; font-family:Open Sans;">WA: 15%</td>
-<td style="padding: 12px 15px;font-family:Open Sans;">WA: 15:%</td>
-<td style="padding: 12px 15px; font-family:Open Sans;">EOY: 55%</td>
+<td style="padding: 12px 15px;font-family:Tahoma;"><strong style="font-family:Open Sans;">Sec 3</strong></td>
+<td style="padding: 12px 15px;font-family:Tahoma;">WA: 15%</td>
+<td style="padding: 12px 15px;font-family:Tahoma;">WA: 15%</td>
+<td style="padding: 12px 15px;font-family:Tahoma;">WA: 15:%</td>
+<td style="padding: 12px 15px;font-family:Tahoma;">EOY: 55%</td>
 </tr>
 															
 <tr style="border-bottom: 2px solid #009879;     background-color: #f3f3f3;">
-<td style="padding: 12px 15px;font-family:Open Sans;"><strong style="font-family:Open Sans;">Sec 4</strong></td>
-<td style="padding: 12px 15px; font-family:Open Sans;font-size:14.5px;">WA: 15%</td>
-<td style="padding: 12px 15px; font-family:Open Sans;font-size:14.5px;">MYE: 15%</td>
-<td style="padding: 12px 15px; font-family:Open Sans;font-size:14.5px;">Prelim: 70%</td>
-<td style="padding: 12px 15px; font-family:Open Sans;font-size:14.5px;">&nbsp;</td>
+<td style="padding: 12px 15px;font-family:Tahoma;"><strong style="font-family:Tahoma;">Sec 4</strong></td>
+<td style="padding: 12px 15px;font-family:Tahoma;font-size:14.5px;">WA: 15%</td>
+<td style="padding: 12px 15px;font-family:Tahoma;font-size:14.5px;">MYE: 15%</td>
+<td style="padding: 12px 15px;font-family:Tahoma;font-size:14.5px;">Prelim: 70%</td>
+<td style="padding: 12px 15px;font-family:Tahoma;font-size:14.5px;">&nbsp;</td>
 </tr>
 	
 </tbody>
 </table>
 
-<p style="margin-top:15px;font-size:15.5px;"><strong style="font-family:Open Sans;">Removal of Mid-Year Examination (MYE) for Sec 1 to Sec 5</strong></p>
+<p style="margin-top:15px;font-size:15.5px;"><strong style="font-family:Tahoma;">Removal of Mid-Year Examination (MYE) for Sec 1 to Sec 5</strong></p>
 
-<p style="font-size:14.5px; line-height:2;margin:-15px 0 13px 0px;font-family:Open Sans;">With the removal of Mid-Year Examinations for Sec 1 to Sec 5, the school will continue with the current practice of gathering information about students’ learning through checkpoints such as class assignments, mini quizzes, presentations and weighted assessments. Whilst only the weighted assessment counts towards the overall result, all other forms of assessment and learning are still crucial in helping our students develop the necessary knowledge and skills for the various subjects.</p>
+<p style="font-size:14.5px; line-height:2;margin:-15px 0 13px 0px;font-family:Tahoma;">With the removal of Mid-Year Examinations for Sec 1 to Sec 5, the school will continue with the current practice of gathering information about students’ learning through checkpoints such as class assignments, mini quizzes, presentations and weighted assessments. Whilst only the weighted assessment counts towards the overall result, all other forms of assessment and learning are still crucial in helping our students develop the necessary knowledge and skills for the various subjects.</p>
 
-<p style="margin-top:15px;font-size:15.5px;"><strong style="font-family:Open Sans;">Examination Regulations </strong></p>
+<p style="margin-top:15px;font-size:15.5px;"><strong style="font-family:Tahoma;">Examination Regulations </strong></p>
 
-<p style="font-size:14.5px; line-height:2;margin:-15px 0 13px 0px;font-family:Open Sans;">In the event of absence from any assessment due to urgent family or medical reasons, official documentation such as medical certificates from recognised medical practitioners (i.e government medical officers or those registered under the Medical Registration Act) must be presented upon return. Medical certificates issued by doctors who are currently not registered under the Medical Registration Act will not be accepted. </p>
+<p style="font-size:14.5px; line-height:2;margin:-15px 0 13px 0px;font-family:Tahoma;">In the event of absence from any assessment due to urgent family or medical reasons, official documentation such as medical certificates from recognised medical practitioners (i.e government medical officers or those registered under the Medical Registration Act) must be presented upon return. Medical certificates issued by doctors who are currently not registered under the Medical Registration Act will not be accepted. </p>
 
-<p style="font-size:14.5px; line-height:2;margin:-15px 0 13px 0px;font-family:Open Sans;">Students who are absent will be given the assessment as practice but the mark obtained will not be included in the overall mark computation.</p>
+<p style="font-size:14.5px; line-height:2;margin-top:15px;font-family:Tahoma;">Students who are absent will be given the assessment as practice but the mark obtained will not be included in the overall mark computation.</p>
 
-<p style="margin-top:15px;font-size:14.5px; line-height:2;font-family:Open Sans;">A medical certificate or a copy of the death certificate has to be given to the form teacher when the student returns to school. All other reasons will be considered on a case-by-case basis subject to the school’s approval.</p>
+<p style="margin-top:15px;font-size:14.5px; line-height:2;font-family:Tahoma;">A medical certificate or a copy of the death certificate has to be given to the form teacher when the student returns to school. All other reasons will be considered on a case-by-case basis subject to the school’s approval.</p>
 
-<p style="margin-top:15px;font-size:14.5px; line-height:2;font-family:Open Sans;">Students who are absent for a weighted assessment with no valid reason will be given a zero mark for that assessment and this assessment mark will be included in the computation of the subject and overall total. </p>
+<p style="margin-top:15px;font-size:14.5px; line-height:2;font-family:Tahoma;">Students who are absent for a weighted assessment with no valid reason will be given a zero mark for that assessment and this assessment mark will be included in the computation of the subject and overall total. </p>
 
-<p style="margin-top:15px;font-size:14.5px; line-height:2;font-family:Open Sans;">For other detailed examination regulations, please refer to page 21 of the student handbook.</p>
+<p style="margin-top:15px;font-size:14.5px; line-height:2;font-family:Tahoma;">For other detailed examination regulations, please refer to page 21 of the student handbook.</p>
 
-<h4 style="color:#635f1a;font-weight:bold;font-family:Open Sans;">HOMEWORK POLICY 2023</h4>
+<h4 style="color:#635f1a;">HOMEWORK POLICY 2023</h4>
 
-<p style="font-size:14.5px; line-height:2;margin-top:15px; font-family:Open Sans">Homework is work that is set to be done outside the time-tabled curriculum. Pei Hwa Secondary School believes that reasonable amounts of academic effort outside the class can enhance student learning, improve achievement and develop students’ study skills. Homework provides an opportunity for students to revisit the concepts or skills taught during lessons.</p>
+<p style="font-size:14.5px; line-height:2;margin-top:15px;font-family:Tahoma;">Homework is work that is set to be done outside the time-tabled curriculum. Pei Hwa Secondary School believes that reasonable amounts of academic effort outside the class can enhance student learning, improve achievement and develop students’ study skills. Homework provides an opportunity for students to revisit the concepts or skills taught during lessons.</p>
 
-<p style="margin-top:15px;font-size:14.5px; line-height:2;font-family:Open Sans;">Homework refers to any task which students are required to carry out for a subject outside of time-tabled curriculum time, regardless of the mode of delivery. This includes projects or research work, but not revision of school work or studying for tests and examinations.</p>
+<p style="margin-top:15px;font-size:14.5px; line-height:2;font-family:Tahoma;">Homework refers to any task which students are required to carry out for a subject outside of time-tabled curriculum time, regardless of the mode of delivery. This includes projects or research work, but not revision of school work or studying for tests and examinations.</p>
 
-<p style="margin-top:15px;font-size:15.5px;"><strong style="font-family:Open Sans;">Suggested Homework Duration</strong></p>
+<p style="margin-top:15px;font-size:15.5px;"><strong style="font-family:Tahoma;">Suggested Homework Duration</strong></p>
 
-<p style="font-size:14.5px; line-height:2;margin:-15px 0 13px 0px;font-family:Open Sans;">Suggested homework maximum average duration per day (including weekends):</p>
+<p style="font-size:14.5px; line-height:2;margin:-15px 0 13px 0px;font-family:Tahoma;">Suggested homework maximum average duration per day (including weekends):</p>
 
 <table border="1" style="border-collapse: collapse;margin: 25px 0;font-size: 0.9em;font-family: sans-serif;min-width: 400px; box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);">
 
 <tbody>
 <tr style="border-bottom: 1px solid #dddddd;">
-<td style="padding: 12px 15px; font-family:Open Sans;">Lower Secondary&nbsp;– 2&nbsp;hours</td>
+<td style="padding: 12px 15px;font-family:Tahoma;">Lower Secondary&nbsp;– 2&nbsp;hours</td>
 </tr>
 															
 <tr style="border-bottom: 1px solid #dddddd; ">
-<td style="padding: 12px 15px;font-family:Open Sans;">Upper Secondary&nbsp;– 2½ hours</td>
+<td style="padding: 12px 15px;font-family:Tahoma;">Upper Secondary&nbsp;– 2½ hours</td>
 </tr>
 	
 </tbody>
 </table>
 
-<p style="margin-top:15px;font-size:15.5px;"><strong style="font-family:Open Sans;">Other Guidelines on Homework</strong></p>
+<p style="margin-top:15px;font-size:15.5px;"><strong style="font-family:Tahoma;">Other Guidelines on Homework</strong></p>
 <ol style="margin-top:5px;">
-<li aria-level="1" style="font-size:14.5px; line-height:2;margin-left:17px;font-family:Open Sans;">During the school holidays:
+<li aria-level="1" style="font-size:14.5px; line-height:2;margin-left:17px;font-family:Tahoma;">During the school holidays:
 
 <table border="1" style="border-collapse: collapse;margin: 25px 0;font-size: 0.9em;font-family: sans-serif;min-width: 400px; box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);">
 	
 <tbody>
 <tr style="border-bottom: 1px solid #dddddd;">
-<td style="padding: 20px 15px; font-size:14.5px; font-family:Open Sans;"><strong style="font-family:Open Sans;">March Holidays</strong></td>
-<td style="padding: 6px 10px;font-size:14.5px;font-family:Open Sans;">9 hours for Sec 1 and 2 <br>12 hours for Sec 3, 4 and 5</td>
+<td style="padding: 20px 15px; font-size:14.5px; font-family:Open Sans;"><strong style="font-family:Tahoma;">March Holidays</strong></td>
+<td style="padding: 6px 10px;font-size:14.5px;font-family:Tahoma;">9 hours for Sec 1 and 2 <br>12 hours for Sec 3, 4 and 5</td>
 </tr>
 	
 <tr style="border-bottom: 1px solid #dddddd;">
-<td style="padding: 20px 15px;font-size:14.5px;font-family:Open Sans;"><strong style="font-family:Open Sans;">June Holidays</strong></td>
-<td style="padding: 6px 10px;font-size:14.5px;font-family:Open Sans;">18 hours for Sec 1 and 2 <br>24 hours for Sec 3, 4 and 5</td>
+<td style="padding: 20px 15px;font-size:14.5px;font-family:Tahoma;"><strong style="font-family:Tahoma;">June Holidays</strong></td>
+<td style="padding: 6px 10px;font-size:14.5px;font-family:Tahoma;">18 hours for Sec 1 and 2 <br>24 hours for Sec 3, 4 and 5</td>
 </tr>
 	
 <tr style="border-bottom: 1px solid #dddddd;">
-<td style="padding: 20px 15px;font-size:14.5px;font-family:Open Sans;"><strong style="font-family:Open Sans;">September Holidays</strong></td>
-<td style="padding: 6px 10px;font-size:14.5px;font-family:Open Sans;">9 hours for Sec 1 and 2 <br>12 hours for Sec 3, 4 and 5</td>
+<td style="padding: 20px 15px;font-size:14.5px;font-family:Tahoma;"><strong style="font-family:Tahoma;">September Holidays</strong></td>
+<td style="padding: 6px 10px;font-size:14.5px;font-family:Tahoma;">9 hours for Sec 1 and 2 <br>12 hours for Sec 3, 4 and 5</td>
 </tr>
 
 <tr style="border-bottom: 1px solid #dddddd;">
-<td style="padding: 20px 15px;font-size:14.5px;font-family:Open Sans;"><strong style="font-family:Open Sans;">Year-End Holidays</strong></td>
-<td style="padding: 6px 10px;font-size:14.5px;font-family:Open Sans;">18 hours for Sec 1 and 2 <br>24 hours for Sec 3, 4 and 5</td>
+<td style="padding: 20px 15px;font-size:14.5px;font-family:Tahoma;"><strong style="font-family:Tahoma;">Year-End Holidays</strong></td>
+<td style="padding: 6px 10px;font-size:14.5px;font-family:Tahoma;">18 hours for Sec 1 and 2 <br>24 hours for Sec 3, 4 and 5</td>
 </tr>
 	
 </tbody>
