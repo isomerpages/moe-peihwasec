@@ -4,20 +4,20 @@ permalink: /student-achievements/
 description: ""
 ---
 <img src="/images/sa1.jpg">
-<p style="margin-top:15px;font-size:17px;"><strong style="font-family:Open Sans;">AWS DeepRacer League Competition</strong></p>
-<p style="font-size:14.5px; line-height:2;margin:-15px 0 13px 0px;font-family:Open Sans;">Congratulations to our five students from Resilience 5 who&nbsp;have participated in the AWS DeepRacer League Competition during the June Holidays.</p>
+<p style="margin-top:15px;font-size:17px;"><strong style="font-family:Tahoma;">AWS DeepRacer League Competition</strong></p>
+<p style="font-size:14.5px; line-height:2;margin:-15px 0 13px 0px;font-family:Tahoma;">Congratulations to our five students from Resilience 5 who&nbsp;have participated in the AWS DeepRacer League Competition during the June Holidays.</p>
 
 <table border="1" style="border-collapse: none;margin: 15px 0;font-size: 0.9em;font-family: sans-serif;min-width: 50px; box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);width:70%;">
 <tbody>
 
 <tr>
-<td style="font-size:14.5px; font-family:Open Sans; width:10%;">Name</td>
-<td style="font-size:14.5px; font-family:Open Sans;">: Cecilia Zhuang Xili<br>&nbsp; &nbsp;Lee Yu Xian Xanth<br>&nbsp; &nbsp;Belinda Wong Min hui<br>&nbsp; &nbsp;Nigel Yap<br>&nbsp; &nbsp;Isabelle Kwa</td>
+<td style="font-size:14.5px;font-family:Tahoma; width:10%;">Name</td>
+<td style="font-size:14.5px;font-family:Tahoma;">: Cecilia Zhuang Xili<br>&nbsp; &nbsp;Lee Yu Xian Xanth<br>&nbsp; &nbsp;Belinda Wong Min hui<br>&nbsp; &nbsp;Nigel Yap<br>&nbsp; &nbsp;Isabelle Kwa</td>
 </tr>
 
 <tr>
-<td style="font-size:14.5px; font-family:Open Sans;">Award</td>
-<td style="font-size:14.5px; font-family:Open Sans;">: 2<sup>nd</sup> Price</td>
+<td style="font-size:14.5px;font-family:Tahoma;">Award</td>
+<td style="font-size:14.5px;font-family:Tahoma;">: 2<sup style="font-family:Tahoma;">nd</sup> Price</td>
 </tr>
 
 </tbody>
@@ -26,32 +26,32 @@ description: ""
 <br>
 
 <img style="width: 50%;" src="/images/sa2.jpg" />
-<p style="margin-top:15px;font-size:17px;"><strong style="font-family:Open Sans;">Team Wushu</strong></p>
+<p style="margin-top:15px;font-size:17px;"><strong style="font-family:Tahoma;">Team Wushu</strong></p>
 
-<p style="font-size:14.5px; line-height:2;margin:-15px 0 13px 0px;font-family:Open Sans;">Congratulations to our two medalists in this year&rsquo;s National School Games B Division Championship.</p>
+<p style="font-size:14.5px; line-height:2;margin:-15px 0 13px 0px;font-family:Tahoma;">Congratulations to our two medalists in this year&rsquo;s National School Games B Division Championship.</p>
 
 
 <table border="1" style="border-collapse: none;margin: 15px 0;font-size: 0.9em;font-family: sans-serif;min-width: 50px; box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);width:70%;">
 <tbody>
 
 <tr>
-<td style="font-size:14.5px; font-family:Open Sans; width:10%;">Name</td>
-<td style="font-size:14.5px; font-family:Open Sans;">: Ethan Cheow</td>
+<td style="font-size:14.5px;font-family:Tahoma;; width:10%;">Name</td>
+<td style="font-size:14.5px;font-family:Tahoma;">: Ethan Cheow</td>
 </tr>
 
 <tr>
-<td style="font-size:14.5px; font-family:Open Sans;">Award</td>
-<td style="font-size:14.5px; font-family:Open Sans;">: 1<sup>st</sup> place in International Sword Routine</td>
+<td style="font-size:14.5px;font-family:Tahoma;">Award</td>
+<td style="font-size:14.5px;font-family:Tahoma;">: 1<sup>st</sup> place in International Sword Routine</td>
 </tr>  
 
 <tr>
-<td style="font-size:14.5px; font-family:Open Sans;">Name</td>
-<td style="font-size:14.5px; font-family:Open Sans;">: Cedric Lim</td>
+<td style="font-size:14.5px;font-family:Tahoma;">Name</td>
+<td style="font-size:14.5px;font-family:Tahoma;">: Cedric Lim</td>
 </tr>
 
 <tr>
-<td style="font-size:14.5px; font-family:Open Sans;">Award</td>
-<td style="font-size:14.5px; font-family:Open Sans;">: 2<sup>nd</sup> place in International Broadsword Routine</td>
+<td style="font-size:14.5px;font-family:Tahoma;">Award</td>
+<td style="font-size:14.5px;font-family:Tahoma;">: 2<sup>nd</sup> place in International Broadsword Routine</td>
 </tr>  
 
 </tbody>
@@ -60,7 +60,7 @@ description: ""
 <br>
 
 <img src="/images/sa3.jpg">
-<p style="margin-top:15px;font-size:17px;"><strong style="font-family:Open Sans;">Chinese Dance</strong>
+<p style="margin-top:15px;font-size:17px;"><strong style="font-family:Tahoma;">Chinese Dance</strong>
 <p style="font-size:14.5px; line-height:2;margin:-15px 0 13px 0px;font-family:Open Sans;">SYF Achievement: Distinction</p>
 
 <br>
