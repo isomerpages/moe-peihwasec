@@ -4,21 +4,21 @@ permalink: /ccas/clubs-societies/student-council/
 description: ""
 third_nav_title: Clubs & Societies
 ---
-<h4 style="color:#635f1a;font-weight:bold; font-family:Open Sans;">Mission</h4>
+<h4 style="color:#635f1a;">Mission</h4>
 
-<p style="font-size:14.5px; line-height:2;margin-top:15px; font-family:Open Sans">The <strong style="font-family:Open Sans;">Student Council</strong> aims to develop innovative, daring and compassionate leaders. As Tier 3 Student Leaders, the Student Council is the voice of the student body and takes the lead in school events and improving student welfare. Student Councillors are also advocates of the environment by raising awareness about environment conservation through events such as Earth Week.</p>
+<p style="font-size:14.5px; line-height:2;margin-top:15px; font-family:Tahoma;">The <strong style="font-family:Tahoma;">Student Council</strong> aims to develop innovative, daring and compassionate leaders. As Tier 3 Student Leaders, the Student Council is the voice of the student body and takes the lead in school events and improving student welfare. Student Councillors are also advocates of the environment by raising awareness about environment conservation through events such as Earth Week.</p>
 
-<p style="margin-top:15px;font-size:14.5px; line-height:2;font-family:Open Sans;">Every year, Student Councillors are officially appointed during the Student Leaders Investiture. As role-models of the student population, Student Councillors lead by example. They are given multiple platforms to develop their leadership and event management skills through organising events such as the Teachers’ Day Celebration and Secondary 1 Orientation, as well as managing the PHun Lounge.</p>
+<p style="margin-top:15px;font-size:14.5px; line-height:2;font-family:Tahoma;">Every year, Student Councillors are officially appointed during the Student Leaders Investiture. As role-models of the student population, Student Councillors lead by example. They are given multiple platforms to develop their leadership and event management skills through organising events such as the Teachers’ Day Celebration and Secondary 1 Orientation, as well as managing the PHun Lounge.</p>
 
-<h4 style="color:#635f1a;font-weight:bold;font-family:Open Sans;">Student Outcomes</h4>
+<h4 style="color:#635f1a;Tahoma">Student Outcomes</h4>
 
-<p style="font-size:14.5px; line-height:2;margin-top:15px; font-family:Open Sans">The CCA will enable our students to:</p>
+<p style="font-size:14.5px; line-height:2;margin-top:15px; font-family:Tahoma">The CCA will enable our students to:</p>
 <ul style="margin-top:5px">
-		<li  style="font-size:14.5px; line-height:2;font-family:Open Sans;"> be equipped with knowledge on leadership, teamwork and project management</li>
+		<li  style="font-size:14.5px; line-height:2;font-family:Tahoma;"> be equipped with knowledge on leadership, teamwork and project management</li>
 	</ul>
 
 
-<h4 style="color:#635f1a;font-weight:bold;font-family:Open Sans;">Student Testament</h4>
+<h4 style="color:#635f1a;">Student Testament</h4>
 <blockquote style="font-size: 15px;
   width:100%;
   margin:50px auto;
@@ -54,33 +54,33 @@ I learnt many things in Council and one of the few is being in charge of a speci
 	</blockquote>
 
 
-<h4 style="color:#635f1a;font-weight:bold;font-family:Open Sans;">CCA Details</h4>
+<h4 style="color:#635f1a;">CCA Details</h4>
 <table border="1" style="width:100%;">
 	<tbody>
 		<tr>
-			<td style="background-color: #54585d; font-weight: bold; font-size: 14.5px; border: 1px solid #54585d; color:white;border-bottom: 1px solid #dddddd;width:24%;font-family:Open Sans;">Teacher-In-Charge</td>
-			<td style="border: 1px solid #dddfe1;font-size: 14.5px;font-family:Open Sans;">Ms Chow Shi Qin</td>
+			<td style="background-color: #54585d; font-weight: bold; font-size: 14.5px; border: 1px solid #54585d; color:white;border-bottom: 1px solid #dddddd;width:24%;font-family:Tahoma;">Teacher-In-Charge</td>
+			<td style="border: 1px solid #dddfe1;font-size: 14.5px;font-family:Tahoma;">Ms Chow Shi Qin</td>
 		</tr>
 
 <tr>
-			<td style="background-color: #54585d; font-weight: bold; font-size: 14.5px; border: 1px solid #54585d;border-bottom: 1px solid #dddddd; color:white;font-family:Open Sans;">CCA Teacher(s)</td>
-			<td style="border: 1px solid #dddfe1;font-size: 14.5px;font-family:Open Sans;">Mdm Nordiana Abbas<br>Mrs Jaslyn Ang<br>Mrs Erin Wong<br>Mrs Michelle Jonathan</td>
+			<td style="background-color: #54585d; font-weight: bold; font-size: 14.5px; border: 1px solid #54585d;border-bottom: 1px solid #dddddd; color:white;font-family:Tahoma;">CCA Teacher(s)</td>
+			<td style="border: 1px solid #dddfe1;font-size: 14.5px;font-family:Tahoma;">Mdm Nordiana Abbas<br>Mrs Jaslyn Ang<br>Mrs Erin Wong<br>Mrs Michelle Jonathan</td>
 		</tr>
 
 <tr>
-			<td style="background-color: #54585d; font-weight: bold; font-size: 14.5px; border: 1px solid #54585d; color:white;border-bottom: 1px solid #dddddd;font-family:Open Sans;">CCA Schedule</td>
-			<td style="border: 1px solid #dddfe1;font-size: 14.5px;font-family:Open Sans;">Monday, 2.30 to 5.15pm</td>
+			<td style="background-color: #54585d; font-weight: bold; font-size: 14.5px; border: 1px solid #54585d; color:white;border-bottom: 1px solid #dddddd;font-family:Tahoma;">CCA Schedule</td>
+			<td style="border: 1px solid #dddfe1;font-size: 14.5px;font-family:Tahoma;">Monday, 2.30 to 5.15pm</td>
 		</tr>
 		
 <tr>
-			<td style="background-color: #54585d; font-weight: bold; font-size: 14.5px; border: 1px solid #54585d; color:white;font-family:Open Sans;">Venues</td>
-			<td style="border: 1px solid #dddfe1;font-size: 14.5px;font-family:Open Sans;">Passion 8 Classroom</td>
+			<td style="background-color: #54585d; font-weight: bold; font-size: 14.5px; border: 1px solid #54585d; color:white;font-family:Tahoma;">Venues</td>
+			<td style="border: 1px solid #dddfe1;font-size: 14.5px;font-family:Tahoma;">Passion 8 Classroom</td>
 		</tr>
 		
 </tbody>
 	</table>
 
-<h4 style="color:#635f1a;font-weight:bold;font-family:Open Sans;">Photo Gallery</h4>
+<h4 style="color:#635f1a;">Photo Gallery</h4>
 <div class="row" style="box-sizing: border-box;width:120%;"> 
 		<div class="column" style="box-sizing: border-box;  float: left; width: 50%; padding: 10px;">
   			<img src="/images/AlbumStudCounsellor4.jpeg" style="width:100%; margin-top: 12px;">
