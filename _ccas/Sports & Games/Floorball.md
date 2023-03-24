@@ -138,64 +138,64 @@ Do check us out on our Instagram page @peihwaphoenix !</p>
 		<ul>
 			<li style="font-size:14.5px;margin-bottom:-13px;margin-top:-10px;font-family:Tahoma;">2<sup style="font-family:Tahoma;">nd</sup></li>
 		</ul>
-		<strong style="font-size:14.5px;font-family:Open Sans;">Merahans Open 3 on 3 (Under-17)</strong>
+		<strong style="font-size:14.5px;font-family:Tahoma;">Merahans Open 3 on 3 (Under-17)</strong>
 		<br>
 		<ul>
-			<li style="font-size:14.5px;margin-bottom:-13px;margin-top:-10px;font-family:Open Sans;">1<sup style="font-family:Open Sans;">st</sup></li>
+			<li style="font-size:14.5px;margin-bottom:-13px;margin-top:-10px;font-family:Tahoma;">1<sup style="font-family:Tahoma;">st</sup></li>
 		</ul>
-		<strong style="font-size:14.5px;font-family:Open Sans;">Merahans Open 3 on 3</strong>
+		<strong style="font-size:14.5px;font-family:Tahoma;">Merahans Open 3 on 3</strong>
 		<br>
 		<ul>
-			<li style="font-size:14.5px;margin-bottom:-13px;margin-top:-10px;font-family:Open Sans;">4<sup style="font-family:Open Sans;">th</sup></li>
+			<li style="font-size:14.5px;margin-bottom:-13px;margin-top:-10px;font-family:Tahoma;">4<sup style="font-family:Tahoma;">th</sup></li>
 		</ul>
-		<strong style="font-size:14.5px; font-family:Open Sans;">Merahans Open MVP (Under-17)</strong>
+		<strong style="font-size:14.5px; font-family:Tahoma;">Merahans Open MVP (Under-17)</strong>
 		<br>
 		<ul>
-			<li style="font-size:14.5px;margin-bottom:5px;margin-top:-10px;font-family:Open Sans;">Shannon Ashwini d/o Kumaran N.</li>
+			<li style="font-size:14.5px;margin-bottom:5px;margin-top:-10px;font-family:Tahoma;">Shannon Ashwini d/o Kumaran N.</li>
 		</ul>
 	</td>
 </tr>
 	
 <tr style="font-size:14.5px;border-bottom: 2px solid #009879;">
-<td><strong style="font-size:14.5px;font-family:Open Sans;">2017</strong></td>
+<td><strong style="font-size:14.5px;font-family:Tahoma;">2017</strong></td>
 <td>
-<strong style="font-size:14.5px;font-family:Open Sans;">National School Games Floorball Championships (B Division)</strong>
+<strong style="font-size:14.5px;font-family:Tahoma;">National School Games Floorball Championships (B Division)</strong>
 <br>
 <ul>
-<li style="font-size:14.5px;margin-bottom:-5px;margin-top:-10px;font-family:Open Sans;">2<sup style="font-family:Open Sans;">nd</sup> Round (Top 10)</li>
+<li style="font-size:14.5px;margin-bottom:-5px;margin-top:-10px;font-family:Tahoma;">2<sup style="font-family:Tahoma;">nd</sup> Round (Top 10)</li>
 </ul>
-<strong style="font-size:14.5px;font-family:Open Sans;">National School Games Floorball Championships (C Division)</strong>
+<strong style="font-size:14.5px;font-family:Tahoma;">National School Games Floorball Championships (C Division)</strong>
 <ul>
-<li style="font-size:14.5px;margin-bottom:-5px;margin-top:-10px;font-family:Open Sans;">4<sup style="font-family:Open Sans;">th</sup></li>
+<li style="font-size:14.5px;margin-bottom:-5px;margin-top:-10px;font-family:Tahoma;">4<sup style="font-family:Tahoma;">th</sup></li>
 </ul>
-<strong style="font-size:14.5px;font-family:Open Sans;">National Colours Award (Team)</strong>
+<strong style="font-size:14.5px;font-family:Tahoma;">National Colours Award (Team)</strong>
 		<ul>
-			<li style="font-size:14.5px;margin-bottom:-5px;margin-top:-10px;font-family:Open Sans;">C Division</li>
+			<li style="font-size:14.5px;margin-bottom:-5px;margin-top:-10px;font-family:Tahoma;">C Division</li>
 		</ul>
-		<strong style="font-size:14.5px; font-family:Open Sans;">Arena@OTH Floorball 3V3 (Under-13)</strong>
+		<strong style="font-size:14.5px; font-family:Tahoma;">Arena@OTH Floorball 3V3 (Under-13)</strong>
 		<br>
 		<ul>
-			<li style="font-size:14.5px;margin-bottom:-5px;margin-top:-10px;font-family:Open Sans;">1<sup style="font-family:Open Sans;">st</sup></li>
+			<li style="font-size:14.5px;margin-bottom:-5px;margin-top:-10px;font-family:Tahoma;">1<sup style="font-family:Tahoma;">st</sup></li>
 		</ul>
-		<strong style="font-size:14.5px;font-family:Open Sans;">Merahans Joka Sports 3V3 (Under-15)</strong>
+		<strong style="font-size:14.5px;font-family:Tahoma;">Merahans Joka Sports 3V3 (Under-15)</strong>
 		<br>
 		<ul>
-			<li style="font-size:14.5px;margin-bottom:-5px;margin-top:-10px;font-family:Open Sans;">1<sup style="font-family:Open Sans;">st</sup></li>
+			<li style="font-size:14.5px;margin-bottom:-5px;margin-top:-10px;font-family:Tahoma;">1<sup style="font-family:Tahoma;">st</sup></li>
 		</ul>
-		<strong style="font-size:14.5px;font-family:Open Sans;">Tampines West CC 3-on-3 (Under- 17)</strong>
+		<strong style="font-size:14.5px;font-family:Tahoma;">Tampines West CC 3-on-3 (Under- 17)</strong>
 <ul>
-			<li style="font-size:14.5px;font-family:Open Sans;">1<sup style="font-family:Open Sans;">st</sup></li>
-			<li style="font-size:14.5px;margin-bottom:5px;font-family:Open Sans;">4<sup style="font-family:Open Sans;">th</sup></li>
+			<li style="font-size:14.5px;font-family:Open Sans;">1<sup style="font-family:Tahoma;">st</sup></li>
+			<li style="font-size:14.5px;margin-bottom:5px;font-family:Tahoma;">4<sup style="font-family:Tahoma;">th</sup></li>
 		</ul>
-		<strong style="font-size:14.5px;font-family:Open Sans;">U Sports 3-on-3 Floorball Faceoff 2017  (Under-15)</strong>
+		<strong style="font-size:14.5px;font-family:Tahoma;">U Sports 3-on-3 Floorball Faceoff 2017  (Under-15)</strong>
 		<br>
 		<ul>
-			<li style="font-size:14.5px;margin-bottom:-5px;margin-top:-10px;font-family:Open Sans;">1<sup style="font-family:Open Sans;">st</sup></li>
+			<li style="font-size:14.5px;margin-bottom:-5px;margin-top:-10px;font-family:Tahoma;">1<sup style="font-family:Open Sans;">st</sup></li>
 		</ul>
-		<strong style="font-size:14.5px;font-family:Open Sans;">ActiveSG-Singapore Floorball League Division 3 Women’s </strong>
+		<strong style="font-size:14.5px;font-family:Tahoma;">ActiveSG-Singapore Floorball League Division 3 Women’s </strong>
 		<br>
 		<ul>
-			<li style="font-size:14.5px;margin-bottom:5px;margin-top:-10px;font-family:Open Sans;">3<sup style="font-family:Open Sans;">rd</sup></li>
+			<li style="font-size:14.5px;margin-bottom:5px;margin-top:-10px;font-family:Tahoma;">3<sup style="font-family:Tahoma;">rd</sup></li>
 		</ul>
 	</td>
 </tr>
@@ -203,15 +203,15 @@ Do check us out on our Instagram page @peihwaphoenix !</p>
 </tbody>
 </table>
 
-<h4 style="color:#635f1a;font-weight:bold;font-family:Open Sans;">Competitions and CCA Activities</h4>
+<h4 style="color:#635f1a;">Competitions and CCA Activities</h4>
 
-<p style="font-size:14.5px; line-height:2;margin-top:15px; font-family:Open Sans">On top of participating in the annual National School Games, our members also take part in many other competitions as part of their passion for learning in the sport. We are actively taking part in the ActiveSG Singapore Floorball League, Singapore National Games, as well as other invitational and ad-hoc competitions held by various schools, organisations and floorball clubs in Singapore.</p>
+<p style="font-size:14.5px; line-height:2;margin-top:15px; font-family:Tahoma;">On top of participating in the annual National School Games, our members also take part in many other competitions as part of their passion for learning in the sport. We are actively taking part in the ActiveSG Singapore Floorball League, Singapore National Games, as well as other invitational and ad-hoc competitions held by various schools, organisations and floorball clubs in Singapore.</p>
 
-<p style="margin-top:14.5px;font-size:14.5px; line-height:2;font-family:Open Sans;">We are also actively involved in workshops, camps and clinics for the betterment of our members. Some of these activities that our members have attended included a Blindsave Goalie Camp conducted by Andis Blinds from Latvia in 2018 and floorball clinics and sports conference held by David Jansson, Head coach for the Swiss National Mens&rsquo; Floorball Team in 2018.</p>
+<p style="margin-top:14.5px;font-size:14.5px; line-height:2;Tahoma;">We are also actively involved in workshops, camps and clinics for the betterment of our members. Some of these activities that our members have attended included a Blindsave Goalie Camp conducted by Andis Blinds from Latvia in 2018 and floorball clinics and sports conference held by David Jansson, Head coach for the Swiss National Mens&rsquo; Floorball Team in 2018.</p>
 
-<p style="margin-top:14.5px;font-size:14.5px; line-height:2;font-family:Open Sans;">There are also plenty of opportunities for our members to be developed as student leaders in the CCA. Student leaders in the CCA are given the opportunity to facilitate events such as our annual CCA Fiesta, Open House and CCA Camps. You will also lead the team for training and competitions. Student leaders are also given the opportunity to hone their leadership further when they are sent to participate in the annual Sec 2 Basic Student Leadership Camp and Sec 3 Advance Student Leadership Camp.</p>
+<p style="margin-top:14.5px;font-size:14.5px; line-height:2;Tahoma;">There are also plenty of opportunities for our members to be developed as student leaders in the CCA. Student leaders in the CCA are given the opportunity to facilitate events such as our annual CCA Fiesta, Open House and CCA Camps. You will also lead the team for training and competitions. Student leaders are also given the opportunity to hone their leadership further when they are sent to participate in the annual Sec 2 Basic Student Leadership Camp and Sec 3 Advance Student Leadership Camp.</p>
 
-<h4 style="color:#635f1a;font-weight:bold;margin-bottom:-25px;font-family:Open Sans;">Student Testament</h4>
+<h4 style="color:#635f1a;margin-bottom:-25px;">Student Testament</h4>
 <blockquote style="font-size: 15px;
   width:100%;
   margin:50px auto;
@@ -225,10 +225,10 @@ Do check us out on our Instagram page @peihwaphoenix !</p>
   background:#EDEDED;">
 <img align="centre" alt="" src="/images/floorball2.jpg" style="width:50%;margin-bottom:10px;">
 	"I look forward to training sessions every week and I really enjoy spending time with my teammates! Floorball has allowed me to hone my communication and leadership skills. Through my position as CCA President and B Division Captain, I have been given a plethora of opportunities that helped me to grow as a person. The relationships forged with my CCA members will always be something I hold close to my heart."
-  <span style="display:block; color:#333333; margin-top:1em;font-size:14.5px;"><em style="font-family:Open Sans;">President and B Division Captain 2019, Jolyn Lye, 4E5 (2020) – left in the picture</em></span>
+  <span style="display:block; color:#333333; margin-top:1em;font-size:14.5px;"><em style="font-family:Tahoma;">President and B Division Captain 2019, Jolyn Lye, 4E5 (2020) – left in the picture</em></span>
 	<br>
 	"Being a part of Pei Hwa Phoenix has given me the chance to realise my interest in Floorball. The time spent on and off court has forged the friendship with my fellow teammates which in turn allowed us to establish good rapport for success. Through the years, with the training and support from our coaches and CCA teachers, the team emerged to be one of the best. All the above has attributed to motivating me to work hard to gain a spot in the Under-19 Womens’ National Team."
-	<span style="display:block; color:#333333; margin-top:1em;font-size:14.5px;"><em style="font-family:Open Sans;">C-Div Captain 2018 &amp; U19 Womens’ National Team, Christie Lim, 4E5 (2020) – right in the picture</em></span>
+	<span style="display:block; color:#333333; margin-top:1em;font-size:14.5px;"><em style="font-family:Tahoma;">C-Div Captain 2018 &amp; U19 Womens’ National Team, Christie Lim, 4E5 (2020) – right in the picture</em></span>
 </blockquote>
 <blockquote style="font-size: 15px;
   width:100%;
@@ -243,7 +243,7 @@ Do check us out on our Instagram page @peihwaphoenix !</p>
   background:#EDEDED;">
 <img align="left" alt="" src="/images/floorball23.jpg" style="width: 23%;margin-right:15px;">
 	"Who would have thought that a sport CCA like floorball could bring so much benefit to your life? Well that was where I was completely wrong. Pei Hwa Floorball has made my years in secondary school the best years of my life because of the culture that has always been supportive and nurturing. From a seemingly ordinary group of students into talented teenagers who are capable of reaching for the stars. I owe a great deal to Pei Hwa Floorball as I would not be the resilient, confident person I am today who had countless opportunities to grow and expand my potential."
-  <span style="display:block; color:#333333; margin-top:1em;font-size:14.5px;"><em style="font-family:Open Sans;">Ulfah Irdina (B Div Vice-Captain 2018, currently Victoria Junior College Floorball Womens&rsquo; Captain 2020)</em></span>
+  <span style="display:block; color:#333333; margin-top:1em;font-size:14.5px;"><em style="font-family:Tahoma;">Ulfah Irdina (B Div Vice-Captain 2018, currently Victoria Junior College Floorball Womens&rsquo; Captain 2020)</em></span>
 	</blockquote>
 <blockquote style="font-size: 15px;
   width:100%;
@@ -258,31 +258,31 @@ Do check us out on our Instagram page @peihwaphoenix !</p>
   background:#EDEDED;">
 <img align="left" alt="" src="/images/floorball3.jpg" style="width: 23%;margin-right:15px;">
 	"Pei Hwa Phoenix has benefitted me in so many ways, on and off the court. I have picked up many skills and values during this journey, such as learning how to be a better leader and being more disciplined. I have grown to become a better individual ever since I first embarked on this floorball journey. I am able to better manage my time and my resilience for my studies has improved. I have been exposed to many opportunities to grow myself as a leader. I am extremely grateful for all the care, guidance and support showered on me by my Phoenix family. It has been a great joy to be part of and leading this incredible team. I have forged strong bonds and created memories that will be deeply treasured. I have no regrets. Thank you, Pei Hwa Phoenix for being one of my greatest highlights in Pei Hwa."
-<span style="display:block; color:#333333; margin-top:1em;font-size:14.5px;"><em style="font-family:Open Sans;">President and B Division Captain 2020, Siti Nur Insyirah binte Mohsin, Integrity 6 (2020)</em></span>
+<span style="display:block; color:#333333; margin-top:1em;font-size:14.5px;"><em style="font-family:Tahoma;">President and B Division Captain 2020, Siti Nur Insyirah binte Mohsin, Integrity 6 (2020)</em></span>
 </blockquote>
 
-<h4 style="color:#635f1a;font-weight:bold;font-family:Open Sans;">CCA Details</h4>
+<h4 style="color:#635f1a;">CCA Details</h4>
 <table border="1" style="width:100%;">
 	<tbody>
 		<tr>
-			<td style="background-color: #54585d; font-weight: bold; font-size: 14.5px; border: 1px solid #54585d; color:white;border-bottom: 1px solid #dddddd;width:24%;font-family:Open Sans;">Teacher-In-Charge</td>
-			<td style="border: 1px solid #dddfe1;font-size: 14.5px;font-family:Open Sans;">Mr Mohamad Arizal Bin Ahmad</td>
+			<td style="background-color: #54585d; font-weight: bold; font-size: 14.5px; border: 1px solid #54585d; color:white;border-bottom: 1px solid #dddddd;width:24%;font-family:Tahoma;">Teacher-In-Charge</td>
+			<td style="border: 1px solid #dddfe1;font-size: 14.5px;font-family:Tahoma;">Mr Mohamad Arizal Bin Ahmad</td>
 		</tr>
 
 <tr>
-			<td style="background-color: #54585d; font-weight: bold; font-size: 14.5px; border: 1px solid #54585d;border-bottom: 1px solid #dddddd; color:white;font-family:Open Sans;">CCA Teacher(s)</td>
-			<td style="border: 1px solid #dddfe1;font-size: 14.5px;">Mdm Nurull Dzarifa Bte Othman Z<br>Ms Yasmin Yeow</td>
+			<td style="background-color: #54585d; font-weight: bold; font-size: 14.5px; border: 1px solid #54585d;border-bottom: 1px solid #dddddd; color:white;font-family:Tahoma;">CCA Teacher(s)</td>
+			<td style="border: 1px solid #dddfe1;font-size: 14.5px;font-family:Tahoma;">Mdm Nurull Dzarifa Bte Othman Z<br>Ms Yasmin Yeow</td>
 		</tr>
 
 <tr>
-			<td style="background-color: #54585d; font-weight: bold; font-size: 14.5px; border: 1px solid #54585d; color:white;border-bottom: 1px solid #dddddd;font-family:Open Sans;">CCA Schedule</td>
-			<td style="border: 1px solid #dddfe1;font-size: 14.5px;font-family:Open Sans;">Tuesday, 3.30pm – 6.00pm<br>
+			<td style="background-color: #54585d; font-weight: bold; font-size: 14.5px; border: 1px solid #54585d; color:white;border-bottom: 1px solid #dddddd;font-family:Tahoma;">CCA Schedule</td>
+			<td style="border: 1px solid #dddfe1;font-size: 14.5px;font-family:Tahoma;">Tuesday, 3.30pm – 6.00pm<br>
 Friday, 2.30pm – 6.00pm</td>
 		</tr>
 		
 <tr>
-			<td style="background-color: #54585d; font-weight: bold; font-size: 14.5px; border: 1px solid #54585d; color:white;font-family:Open Sans;">Venues</td>
-			<td style="border: 1px solid #dddfe1;font-size: 14.5px;font-family:Open Sans;">Wednesday – ISH Level 2<br>
+			<td style="background-color: #54585d; font-weight: bold; font-size: 14.5px; border: 1px solid #54585d; color:white;font-family:Tahoma;">Venues</td>
+			<td style="border: 1px solid #dddfe1;font-size: 14.5px;font-family:Tahoma;">Wednesday – ISH Level 2<br>
 Friday – ISH Level 1</td>
 		</tr>
 		
