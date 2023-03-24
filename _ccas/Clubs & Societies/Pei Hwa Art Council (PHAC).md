@@ -77,40 +77,40 @@ third_nav_title: Clubs & Societies
 </table>
 
 
-<h4 style="color:#635f1a;font-weight:bold;font-family:Open Sans;">Competitions and CCA Activities</h4>
-<p style="font-size:14.5px; line-height:2;margin-top:15px; font-family:Open Sans">PHAC tries to strike a balance between learning new skills, taking part in competitions, supporting school events and in giving back to the community. Our recent participation was ‘Draw My Stamp Story Art Competition’ organised by Singapore Philatelic Museum (SPM) to help students understand and appreciate the importance of designs reflected on our Singapore stamps. Previously, we also took part in the Live On Design Competition which included a Values in Action segment for students to be able to have an insight into the lives of patients and donors. We also put our artistic skills to good use by creating silkscreen designs on tote bags as part of our CCA’s efforts in raising funds for our school’s adopted voluntary welfare organisations during Community Day 2019. When we are not busy taking part in competitions, we have fun going on learning journeys and camps to recharge and learn new skills.</p>
+<h4 style="color:#635f1a;">Competitions and CCA Activities</h4>
+<p style="font-size:14.5px; line-height:2;margin-top:15px; font-family:Tahoma">PHAC tries to strike a balance between learning new skills, taking part in competitions, supporting school events and in giving back to the community. Our recent participation was ‘Draw My Stamp Story Art Competition’ organised by Singapore Philatelic Museum (SPM) to help students understand and appreciate the importance of designs reflected on our Singapore stamps. Previously, we also took part in the Live On Design Competition which included a Values in Action segment for students to be able to have an insight into the lives of patients and donors. We also put our artistic skills to good use by creating silkscreen designs on tote bags as part of our CCA’s efforts in raising funds for our school’s adopted voluntary welfare organisations during Community Day 2019. When we are not busy taking part in competitions, we have fun going on learning journeys and camps to recharge and learn new skills.</p>
 <ul style="font-size:15px; margin-top:-5px;">
-	<li  style="font-size:14.5px; line-height:2;font-family:Open Sans;">2021 Draw My Stamp Story Art Competition</li>
-	<li  style="font-size:14.5px; line-height:2;font-family:Open Sans;">2021 Live On Design Competition ‘Bridge of Hope’ &amp; ‘In Search of Hope’</li>
-	<li  style="font-size:14.5px; line-height:2;font-family:Open Sans;">2020 Live On Design Competition ‘From Fears to Dreams’ &amp; ‘A New Beginning’</li>
-<li  style="font-size:14.5px; line-height:2;font-family:Open Sans;">2020 Live On Values in Action</li>
-<li  style="font-size:14.5px; line-height:2;font-family:Open Sans;">2019 PHAC 2D Day Camp</li>
-<li  style="font-size:14.5px; line-height:2;font-family:Open Sans;">2019 PHSS Open House</li>
-<li  style="font-size:14.5px; line-height:2;font-family:Open Sans;">2019 NYP IDM Day</li>
-<li  style="font-size:14.5px; line-height:2;font-family:Open Sans;">2019 Young Illustrator Award Competition</li>
-<li  style="font-size:14.5px; line-height:2;font-family:Open Sans;">2019 Community Day</li>
-<li  style="font-size:14.5px; line-height:2;font-family:Open Sans;">2019 Learning Journey to National Gallery – to discover different narratives in art and to develop visual literacy and interpretive abilities</li>
-<li  style="font-size:14.5px; line-height:2;font-family:Open Sans;">2019 CCA Fiesta</li>
+	<li  style="font-size:14.5px; line-height:2;font-family:Tahoma;">2021 Draw My Stamp Story Art Competition</li>
+	<li  style="font-size:14.5px; line-height:2;font-family:Tahoma;">2021 Live On Design Competition ‘Bridge of Hope’ &amp; ‘In Search of Hope’</li>
+	<li  style="font-size:14.5px; line-height:2;font-family:Tahoma;">2020 Live On Design Competition ‘From Fears to Dreams’ &amp; ‘A New Beginning’</li>
+<li  style="font-size:14.5px; line-height:2;font-family:Tahoma;">2020 Live On Values in Action</li>
+<li  style="font-size:14.5px; line-height:2;font-family:Tahoma;">2019 PHAC 2D Day Camp</li>
+<li  style="font-size:14.5px; line-height:2;font-family:Tahoma;">2019 PHSS Open House</li>
+<li  style="font-size:14.5px; line-height:2;font-family:Tahoma;">2019 NYP IDM Day</li>
+<li  style="font-size:14.5px; line-height:2;font-family:Tahoma;">2019 Young Illustrator Award Competition</li>
+<li  style="font-size:14.5px; line-height:2;font-family:Tahoma;">2019 Community Day</li>
+<li  style="font-size:14.5px; line-height:2;font-family:Tahoma;">2019 Learning Journey to National Gallery – to discover different narratives in art and to develop visual literacy and interpretive abilities</li>
+<li  style="font-size:14.5px; line-height:2;font-family:Tahoma;">2019 CCA Fiesta</li>
 2018 PHAC 2D1N Visual and Performing Arts Camp
-<li  style="font-size:14.5px; line-height:2;font-family:Open Sans;">2018 PHSS Open House</li>
-<li  style="font-size:14.5px; line-height:2;font-family:Open Sans;">2018 Digital Manga Workshop – to expose students to digital sketching and inking through Manga</li>
-<li  style="font-size:14.5px; line-height:2;font-family:Open Sans;">2018 NKF Schools Postcard Design Contest</li>
-<li  style="font-size:14.5px; line-height:2;font-family:Open Sans;">2018 CCA Fiesta</li>
-<li  style="font-size:14.5px; line-height:2;font-family:Open Sans;">2017 Day Camp: Learning Journey to Singapore Art Museum and Singapore Tyler Print Institute</li>
-<li  style="font-size:14.5px; line-height:2;font-family:Open Sans;">2017 Nature Walks: Changi Intertidal Walk</li>
-<li  style="font-size:14.5px; line-height:2;font-family:Open Sans;">2017 Glass Mosaic Workshop</li>
-<li  style="font-size:14.5px; line-height:2;font-family:Open Sans;">2017 CCA Fiesta</li>
+<li  style="font-size:14.5px; line-height:2;font-family:Tahoma;">2018 PHSS Open House</li>
+<li  style="font-size:14.5px; line-height:2;font-family:Tahoma;">2018 Digital Manga Workshop – to expose students to digital sketching and inking through Manga</li>
+<li  style="font-size:14.5px; line-height:2;font-family:Tahoma;">2018 NKF Schools Postcard Design Contest</li>
+<li  style="font-size:14.5px; line-height:2;font-family:Tahoma;">2018 CCA Fiesta</li>
+<li  style="font-size:14.5px; line-height:2;font-family:Tahoma;">2017 Day Camp: Learning Journey to Singapore Art Museum and Singapore Tyler Print Institute</li>
+<li  style="font-size:14.5px; line-height:2;font-family:Tahoma;">2017 Nature Walks: Changi Intertidal Walk</li>
+<li  style="font-size:14.5px; line-height:2;font-family:Tahoma;">2017 Glass Mosaic Workshop</li>
+<li  style="font-size:14.5px; line-height:2;font-family:Tahoma;">2017 CCA Fiesta</li>
 </ul>
 
 <img src="/images/phac3.png">
 
 
-<h4 style="color:#635f1a;font-weight:bold;margin-bottom:25px;font-family:Open Sans;">Student Testament</h4>
+<h4 style="color:#635f1a;margin-bottom:25px;">Student Testament</h4>
 
 <blockquote style="font-size: 15px;
   width:100%;
   margin:50px auto;
-  font-family:Open Sans;
+  font-family:Tahoma;
   font-style:italic;
   color: #555555;
   padding:1.2em 25px 1.2em 25px;
@@ -126,7 +126,7 @@ third_nav_title: Clubs & Societies
 <blockquote style="font-size: 15px;
   width:100%;
   margin:50px auto;
-  font-family:Open Sans;
+  font-family:Tahoma;
   font-style:italic;
   color: #555555;
   padding:1.2em 25px 1.2em 25px;
@@ -139,27 +139,27 @@ third_nav_title: Clubs & Societies
 </blockquote>
 
 
-<h4 style="color:#635f1a;font-weight:bold;font-family:Open Sans;">CCA Details</h4>
+<h4 style="color:#635f1a;">CCA Details</h4>
 <table border="1" style="width:100%;">
 	<tbody>
 		<tr>
-			<td style="background-color: #54585d; font-weight: bold; font-size: 14.5px; border: 1px solid #54585d; color:white;border-bottom: 1px solid #dddddd; width:24%;font-family:Open Sans;">Teacher-In-Charge</td>
-			<td style="border: 1px solid #dddfe1;font-size: 14.5px;font-family:Open Sans; ">Miss Shenu Binte Hamidun</td>
+			<td style="background-color: #54585d; font-weight: bold; font-size: 14.5px; border: 1px solid #54585d; color:white;border-bottom: 1px solid #dddddd; width:24%;font-family:Tahoma">Teacher-In-Charge</td>
+			<td style="border: 1px solid #dddfe1;font-size: 14.5px;font-family:Tahoma; ">Miss Shenu Binte Hamidun</td>
 		</tr>
 
 <tr>
-			<td style="background-color: #54585d; font-weight: bold; font-size: 14.5px; border: 1px solid #54585d;border-bottom: 1px solid #dddddd; color:white;font-family:Open Sans;">CCA Teacher(s)</td>
-			<td style="border: 1px solid #dddfe1;font-size: 14.5px;font-family:Open Sans;">Mrs Gillian Lee<br>Mdm Seveeneshwary d/o Rajarethinam</td>
+			<td style="background-color: #54585d; font-weight: bold; font-size: 14.5px; border: 1px solid #54585d;border-bottom: 1px solid #dddddd; color:white;font-family:Tahoma;">CCA Teacher(s)</td>
+			<td style="border: 1px solid #dddfe1;font-size: 14.5px;font-family:Tahoma;">Mrs Gillian Lee<br>Mdm Seveeneshwary d/o Rajarethinam</td>
 		</tr>
 
 <tr>
-			<td style="background-color: #54585d; font-weight: bold; font-size: 14.5px; border: 1px solid #54585d; color:white;border-bottom: 1px solid #dddddd;font-family:Open Sans;">CCA Schedule</td>
-			<td style="border: 1px solid #dddfe1;font-size: 14.5px;font-family:Open Sans;">Friday 2.30pm - 6.00pm</td>
+			<td style="background-color: #54585d; font-weight: bold; font-size: 14.5px; border: 1px solid #54585d; color:white;border-bottom: 1px solid #dddddd;font-family:Tahoma;">CCA Schedule</td>
+			<td style="border: 1px solid #dddfe1;font-size: 14.5px;font-family:Tahoma;">Friday 2.30pm - 6.00pm</td>
 		</tr>
 		
 <tr>
-			<td style="background-color: #54585d; font-weight: bold; font-size: 14.5px; border: 1px solid #54585d; color:white;font-family:Open Sans;">Venues</td>
-			<td style="border: 1px solid #dddfe1;font-size: 15px;">Art Studio 1 & 2</td>
+			<td style="background-color: #54585d; font-weight: bold; font-size: 14.5px; border: 1px solid #54585d; color:white;font-family:Tahoma;">Venues</td>
+			<td style="border: 1px solid #dddfe1;font-size: 15px;font-family:Tahoma;">Art Studio 1 & 2</td>
 		</tr>
 		
 </tbody>
