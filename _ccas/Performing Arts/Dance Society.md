@@ -71,30 +71,30 @@ third_nav_title: Performing Arts
 <h4 style="color:#635f1a;">School and Community Performances (2019-2020)</h4>
 
 <ul style="margin-top:5px;">
-		<li style="font-size:14.5px; line-height:2;font-family:Open Sans;">CCA Fiesta</li>
-		<li style="font-size:14.5px; line-height:2;font-family:Open Sans;"> Secondary 1 Orientation Campfire</li>
-		<li style="font-size:14.5px; line-height:2;font-family:Open Sans;"> Chinese New Year Celebrations</li>
-		<li style="font-size:14.5px; line-height:2;font-family:Open Sans;"> Seng Kang West Family Day</li>
-		<li style="font-size:14.5px; line-height:2;font-family:Open Sans;"> MOE Combined Dance Leadership Camp</li>
+		<li style="font-size:14.5px; line-height:2;font-family:Tahoma;">CCA Fiesta</li>
+		<li style="font-size:14.5px; line-height:2;font-family:Tahoma;"> Secondary 1 Orientation Campfire</li>
+		<li style="font-size:14.5px; line-height:2;font-family:Tahoma;"> Chinese New Year Celebrations</li>
+		<li style="font-size:14.5px; line-height:2;font-family:Tahoma;"> Seng Kang West Family Day</li>
+		<li style="font-size:14.5px; line-height:2;font-family:Tahoma;"> MOE Combined Dance Leadership Camp</li>
 	</ul>
 	
-<h4 style="color:#635f1a;font-weight:bold;font-family:Open Sans;">Competitions and CCA Activities</h4>
+<h4 style="color:#635f1a;">Competitions and CCA Activities</h4>
 <ul style="margin-top:5px;">
-		<li style="font-size:14.5px; line-height:2;font-family:Open Sans;">School Performances<br>
-			<img style="width: 65%;margin-top:10px;" src="/images/dance1.jpg" /><p style="text-align: center; font-size:11px;margin-top:-5px;font-family:Open Sans;">Teachers&rsquo; Day Performance 2019</p>
+		<li style="font-size:14.5px; line-height:2;font-family:Tahoma;">School Performances<br>
+			<img style="width: 65%;margin-top:10px;" src="/images/dance1.jpg" /><p style="text-align: center; font-size:10px;margin-top:-5px;font-family:Tahoma;">Teachers&rsquo; Day Performance 2019</p>
 		</li>
-		<li style="font-size:14.5px; line-height:2;font-family:Open Sans;"> Community Events<br>
+		<li style="font-size:14.5px; line-height:2;font-family:Tahoma;"> Community Events<br>
 			<img style="width: 65%; margin-top:10px;" src="/images/dance2.jpg" /><p style="text-align: center; font-size:11px;margin-top:-5px;font-family:Open Sans;">Performance at Anchorvale Community Club 2018</p><br>
-			<img style="width: 65%; margin-top:10px;"  src="/images/dance3.jpg" /><p style="text-align: center; font-size:11px;margin-top:-5px;font-family:Open Sans;">Performance at Seng Kang West Family Day 2019</p>
+			<img style="width: 65%; margin-top:10px;"  src="/images/dance3.jpg" /><p style="text-align: center; font-size:11px;margin-top:-5px;font-family:Tahoma;">Performance at Seng Kang West Family Day 2019</p>
 		</li>
 		<li style="font-size:14.5px; line-height:2;font-family:Open Sans;"> National Competitions<br>
-			<img style="width: 65%; margin-top:10px;" src="/images/dance5.jpg" /><p style="text-align: center; font-size:11px;margin-top:-5px;font-family:Open Sans;">SYF (International Dance) 2019</p><br>
-			<img style="width: 65%; margin-top:10px;" src="/images/dance4.jpg"  /><p style="text-align: center; font-size:11px;margin-top:-5px;font-family:Open Sans;">SYF (Chinese Dance) 2019</p>
+			<img style="width: 65%; margin-top:10px;" src="/images/dance5.jpg" /><p style="text-align: center; font-size:11px;margin-top:-5px;font-family:Tahoma;">SYF (International Dance) 2019</p><br>
+			<img style="width: 65%; margin-top:10px;" src="/images/dance4.jpg"  /><p style="text-align: center; font-size:11px;margin-top:-5px;font-family:Tahoma;">SYF (Chinese Dance) 2019</p>
 		</li>
 </ul>
 
 
-<h4 style="color:#635f1a;font-weight:bold;margin-bottom:-25px;font-family:Open Sans;">Student Testimonials</h4>
+<h4 style="color:#635f1a;font-weight:bold;margin-bottom:-25px;">Student Testimonials</h4>
 <blockquote style="font-size: 14.5px;
   width:100%;
   margin:50px auto;
@@ -114,27 +114,27 @@ third_nav_title: Performing Arts
 	<img align="center" alt="" src="/images/dance7.png" style="width:70%;">
 	</blockquote>
 
-<h4 style="color:#635f1a;font-weight:bold;font-family:Open Sans;">CCA Details</h4>
+<h4 style="color:#635f1a;">CCA Details</h4>
 <table border="1" style="width:100%;">
 	<tbody>
 		<tr>
-			<td style="background-color: #54585d; font-weight: bold; font-size: 14.5px; border: 1px solid #54585d; color:white;border-bottom: 1px solid #dddddd;width:24%;font-family:Open Sans;">Teacher-In-Charge</td>
-			<td style="border: 1px solid #dddfe1;font-size: 14.5px;font-family:Open Sans;">Mdm Lin Airong Michelle (Mrs Neo)</td>
+			<td style="background-color: #54585d; font-weight: bold; font-size: 14.5px; border: 1px solid #54585d; color:white;border-bottom: 1px solid #dddddd;width:24%;font-family:Tahoma;">Teacher-In-Charge</td>
+			<td style="border: 1px solid #dddfe1;font-size: 14.5px;font-familyTahoma;">Mdm Lin Airong Michelle (Mrs Neo)</td>
 		</tr>
 
 <tr>
-			<td style="background-color: #54585d; font-weight: bold; font-size: 14.5px; border: 1px solid #54585d;border-bottom: 1px solid #dddddd; color:white;font-family:Open Sans;">CCA Teacher(s)</td>
-			<td style="border: 1px solid #dddfe1;font-size: 14.5px;font-family:Open Sans;">Ms Thong Jia Man Bernice<br>Ms Chan Xin Hui Michelle (Mrs Jonathan)</td>
+			<td style="background-color: #54585d; font-weight: bold; font-size: 14.5px; border: 1px solid #54585d;border-bottom: 1px solid #dddddd; color:white;font-family:Tahoma;">CCA Teacher(s)</td>
+			<td style="border: 1px solid #dddfe1;font-size: 14.5px;font-family:Tahoma;;">Ms Thong Jia Man Bernice<br>Ms Chan Xin Hui Michelle (Mrs Jonathan)</td>
 		</tr>
 
 <tr>
-			<td style="background-color: #54585d; font-weight: bold; font-size: 14.5px; border: 1px solid #54585d; color:white;border-bottom: 1px solid #dddddd;font-family:Open Sans;">CCA Schedule</td>
-			<td style="border: 1px solid #dddfe1;font-size: 14.5px;font-family:Open Sans;">Tuesdays, 3.30pm – 6.00pm<br>Fridays, 2.30pm – 6.00pm</td>
+			<td style="background-color: #54585d; font-weight: bold; font-size: 14.5px; border: 1px solid #54585d; color:white;border-bottom: 1px solid #dddddd;font-family:Tahoma;">CCA Schedule</td>
+			<td style="border: 1px solid #dddfe1;font-size: 14.5px;font-family:Tahoma;">Tuesdays, 3.30pm – 6.00pm<br>Fridays, 2.30pm – 6.00pm</td>
 		</tr>
 		
 <tr>
-			<td style="background-color: #54585d; font-weight: bold; font-size: 14.5px; border: 1px solid #54585d; color:white;font-family:Open Sans;">Venues</td>
-			<td style="border: 1px solid #dddfe1;font-size: 14.5px;font-family:Open Sans;">Odd Week: Res B, Res C, Res 4 &amp; Res 6 Classrooms <br>Even Week: Music Room &amp; Dance Studio</td>
+			<td style="background-color: #54585d; font-weight: bold; font-size: 14.5px; border: 1px solid #54585d; color:white;font-family:Tahoma;">Venues</td>
+			<td style="border: 1px solid #dddfe1;font-size: 14.5px;font-family:Tahoma;">Odd Week: Res B, Res C, Res 4 &amp; Res 6 Classrooms <br>Even Week: Music Room &amp; Dance Studio</td>
 		</tr>
 		
 </tbody>
