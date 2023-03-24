@@ -4,38 +4,38 @@ permalink: /ccas/clubs-societies/pei-hwa-art-council-phac/
 description: ""
 third_nav_title: Clubs & Societies
 ---
-<p style="font-size:14.5px; line-height:2;font-family:Open Sans;"><strong style="font-family:Open Sans;">Pei Hwa Art Council</strong>&nbsp;is a visual arts CCA which aims to provide students with opportunities to grow creatively. Students are exposed to a mix of fine art and design skills such as drawing and painting, ceramics and digital art to allow them a hands-on at trying out different media. They are also given opportunities to showcase their strengths and talents by participating in various competitions and Values in Action in order to give back to the community.</p>
+<p style="font-size:14.5px; line-height:2;font-family:Tahoma;"><strong style="font-family:Tahoma;">Pei Hwa Art Council</strong>&nbsp;is a visual arts CCA which aims to provide students with opportunities to grow creatively. Students are exposed to a mix of fine art and design skills such as drawing and painting, ceramics and digital art to allow them a hands-on at trying out different media. They are also given opportunities to showcase their strengths and talents by participating in various competitions and Values in Action in order to give back to the community.</p>
 
 
-<h4 style="color:#635f1a;font-weight:bold;font-family:Open Sans;">Student Outcomes</h4>
-<p style="font-size:14.5px; line-height:2;margin-top:15px; font-family:Open Sans">The CCA will enable our students to:</p>
+<h4 style="color:#635f1a;font-weight:bold;font-family:Tahoma;">Student Outcomes</h4>
+<p style="font-size:14.5px; line-height:2;margin-top:15px; font-family:Tahoma;">The CCA will enable our students to:</p>
 <ul style="margin-top:-5px">
-	<li  style="font-size:14.5px; line-height:2;font-family:Open Sans;"> develop better observational and problem-solving skills</li>
-	<li  style="font-size:14.5px; line-height:2;font-family:Open Sans;"> have greater awareness of the arts in order to increase appreciation and participation in the CCA and beyond</li>
-	<li  style="font-size:14.5px; line-height:2;font-family:Open Sans;"> provide support to the school for school-wide events and in partnering with the community</li>
+	<li  style="font-size:14.5px; line-height:2;font-family:Tahoma;"> develop better observational and problem-solving skills</li>
+	<li  style="font-size:14.5px; line-height:2;font-family:Tahoma;"> have greater awareness of the arts in order to increase appreciation and participation in the CCA and beyond</li>
+	<li  style="font-size:14.5px; line-height:2;font-family:Tahoma;"> provide support to the school for school-wide events and in partnering with the community</li>
 </ul>
 
 
-<h4 style="color:#635f1a;font-weight:bold;font-family:Open Sans;">Achievements</h4>
+<h4 style="color:#635f1a;;">Achievements</h4>
 <table style="border-collapse: collapse;margin: 25px 0;font-family: sans-serif;box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);" border="1">
 	
 <thead style="background-color: #009879; font-weight: bold; font-size: 15.5px;">
 	<tr>
-			<td style="text-align:left;color:white;font-family:Open Sans;">Year of Competition</td>
-			<td style="text-align:left;color:white;font-family:Open Sans;">Attainment</td>
+			<td style="text-align:left;color:white;font-family:Tahoma;">Year of Competition</td>
+			<td style="text-align:left;color:white;font-family:Tahoma;">Attainment</td>
 		</tr>
 	</thead>
 	
 <tbody>
 	
 <tr>
-<td style="font-size:14.5px;"><strong style="font-family:Open Sans;">2021</strong></td>
-<td style="font-size:15px;"><strong style="font-family:Open Sans;">NKF Schools Postcard Design Contest</strong>
+<td style="font-size:14.5px;"><strong style="font-family:Tahoma;">2021</strong></td>
+<td style="font-size:15px;"><strong style="font-family:Tahoma;">NKF Schools Postcard Design Contest</strong>
 <br>
 <ul> 
-<li style="font-size:14.5px;font-family:Open Sans;">Draw My Stamp Story’ Art Competition – Nahilus Ng received a Bronze prize for his mixed media illustration in ‘Draw My Stamp Story’ Art Competition. The competition, organised by the Singapore Philatelic Museum required participants to use local stamps as a starting point to create an artwork.</li>
-	<li style="font-size:14.5px;font-family:Open Sans;">2021 ‘Feed My Trashemon’ – Nantres Ng’s design for ‘Feed My Trashemon’ was organised by Public Health Council (PHC) in collaboration with MOE’s CCE Branch secured 8th place in the Top 10 designs.  The competition aimed at raising awareness on environmental issues.</li>
-	<li style="font-size:14.5px;font-family:Open Sans;"><a href="https://www.syf.gov.sg/art-exhibition/about-the-2022-art-exhibition">Singapore Youth Festival 2022 Art Exhibition: Artist and Sustainability</a> – Two of PHAC’s works were exhibited at this year’s ‘Artist and Sustainability’ SYF exhibition at the National Museum. The artworks are by Adlina Binte Mohammed Izad from the lower secondary category and Clara Lum, Chloe Liao and Tan Xiu Ru from the upper secondary.</li>
+<li style="font-size:14.5px;font-family:Tahoma;">Draw My Stamp Story’ Art Competition – Nahilus Ng received a Bronze prize for his mixed media illustration in ‘Draw My Stamp Story’ Art Competition. The competition, organised by the Singapore Philatelic Museum required participants to use local stamps as a starting point to create an artwork.</li>
+	<li style="font-size:14.5px;font-family:Tahoma;">2021 ‘Feed My Trashemon’ – Nantres Ng’s design for ‘Feed My Trashemon’ was organised by Public Health Council (PHC) in collaboration with MOE’s CCE Branch secured 8th place in the Top 10 designs.  The competition aimed at raising awareness on environmental issues.</li>
+	<li style="font-size:14.5px;font-family:Tahoma;"><a href="https://www.syf.gov.sg/art-exhibition/about-the-2022-art-exhibition">Singapore Youth Festival 2022 Art Exhibition: Artist and Sustainability</a> – Two of PHAC’s works were exhibited at this year’s ‘Artist and Sustainability’ SYF exhibition at the National Museum. The artworks are by Adlina Binte Mohammed Izad from the lower secondary category and Clara Lum, Chloe Liao and Tan Xiu Ru from the upper secondary.</li>
 	<div class="row" style="box-sizing: border-box;width:100%;"> 
 		<div class="column" style="box-sizing: border-box;  float: left; width: 50%; padding: 10px;">
   			<img src="/images/PHAC-202101.jpeg" style="width:100%; margin-top: 12px;">
@@ -50,26 +50,26 @@ third_nav_title: Clubs & Societies
 	</td>
 </tr>
 <tr style="background-color: #f3f3f3;">
-<td><strong style="font-size:14.5px; font-family:Open Sans;">2020</strong></td>
-<td style="font-size:14.5px; margin-bottom:5px;"><strong style="font-family:Open Sans;">Live On Design Competition ‘From Fears to Dreams’ &amp; ‘A New Beginning’</strong>
+<td><strong style="font-size:14.5px; font-family:Tahoma;">2020</strong></td>
+<td style="font-size:14.5px; margin-bottom:5px;"><strong style="font-family:Tahoma;">Live On Design Competition ‘From Fears to Dreams’ &amp; ‘A New Beginning’</strong>
 <br>
 <ul>
-<li style="font-size:14.5px;margin-bottom:5px;font-family:Open Sans;"> Awarded Special Mention, Schools Category, 2020 to Ong Zirui, Jesserel</li>
+<li style="font-size:14.5px;margin-bottom:5px;font-family:Tahoma;"> Awarded Special Mention, Schools Category, 2020 to Ong Zirui, Jesserel</li>
 
 <img style="width:60%; height:auto;" src="/images/phac1.jpg">
-<p style="font-size:11px; text-align:center; margin:5px;font-family:Open Sans;"> Painting Your Future, Digital Illustration By Jesserel Ong</p>
+<p style="font-size:10px; text-align:center; margin:5px;font-family:Tahoma;"> Painting Your Future, Digital Illustration By Jesserel Ong</p>
 	</ul>
 </td>
 </tr>
 														
 <tr style="border-bottom: 2px solid #009879;">
-<td style="font-size:14.5px;"><strong style="font-family:Open Sans;">2018</strong></td>
-<td style="font-size:15px;"><strong style="font-family:Open Sans;">NKF Schools Postcard Design Contest</strong>
+<td style="font-size:14.5px;"><strong style="font-family:Tahoma;">2018</strong></td>
+<td style="font-size:15px;"><strong style="font-family:Tahoma;">NKF Schools Postcard Design Contest</strong>
 <br>
 <ul> 
-<li style="font-size:15px; font-family:Open Sans;"> ‘Start the day with a glass of water’ First Prize, Youth Category to Kelly Teo</li>
+<li style="font-size:15px; font-family:Tahoma;"> ‘Start the day with a glass of water’ First Prize, Youth Category to Kelly Teo</li>
 <img style="width:60%; height:auto;" src="/images/phac2.jpg">
-<p style="font-size:11px;text-align:center; margin:5px;font-family:Open Sans;"> ‘Start the day with a glass of water’ By Kelly Teo</p>
+<p style="font-size:10px;text-align:center; margin:5px;font-family:Tahoma;"> ‘Start the day with a glass of water’ By Kelly Teo</p>
 </ul>
 	</td>
 </tr>
