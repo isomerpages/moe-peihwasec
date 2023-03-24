@@ -106,26 +106,26 @@ third_nav_title: Sports & Games
 <tr style="border-bottom: 2px solid #009879; font-size:14.5px;background-color:#f3f3f3;">
 		<td><strong style="font-family:Tahoma;">2018</strong></td>
 		<td style="font-size:14.5px;margin-bottom:-10px;">
-			<strong style="font-family:Open Sans;">National School Games Wushu Championships 2018</strong>
+			<strong style="font-family:Tahoma;">National School Games Wushu Championships 2018</strong>
 			<br>
 			<ul>
-				<li style="font-size:14.5px;margin-bottom:-13px;margin-top:-10px;font-family:Open Sans;">5<sup style="font-family:Open Sans;">th</sup></li>
+				<li style="font-size:14.5px;margin-bottom:-13px;margin-top:-10px;font-family:Tahoma;">5<sup style="font-family:Tahoma;">th</sup></li>
 			    	<ul>
-						<li style="font-size:14.5px;margin-bottom:-13px;margin-top:-10px;font-family:Open Sans;">Formulated 5-Duan Sword – Ethan Cheow</li>
+						<li style="font-size:14.5px;margin-bottom:-13px;margin-top:-10px;font-family:Tahoma;">Formulated 5-Duan Sword – Ethan Cheow</li>
 					</ul>
-				<li style="font-size:14.5px;margin-bottom:-13px;margin-top:-10px;font-family:Open Sans;">6<sup style="font-family:Open Sans;">th</sup></li>
+				<li style="font-size:14.5px;margin-bottom:-13px;margin-top:-10px;font-family:Tahoma;">6<sup style="font-family:Tahoma;">th</sup></li>
 					<ul>
-						<li style="font-size:14.5px;margin-bottom:-13px;margin-top:-10px;font-family:Open Sans;">1<sup style="font-family:Open Sans;">st</sup> International Nan Gun – Ryan Ang Liheng</li>
-						<li style="font-size:14.5px;margin-bottom:-13px;margin-top:-10px;font-family:Open Sans;">1<sup style="font-family:Open Sans;">st</sup> International Spear – Wong Woan Xiu</li>
+						<li style="font-size:14.5px;margin-bottom:-13px;margin-top:-10px;font-family:Tahoma;">1<sup style="font-family:Tahoma;">st</sup> International Nan Gun – Ryan Ang Liheng</li>
+						<li style="font-size:14.5px;margin-bottom:-13px;margin-top:-10px;font-family:Tahoma;">1<sup style="font-family:Tahoma;">st</sup> International Spear – Wong Woan Xiu</li>
 					</ul>
-				<li style="font-size:14.5px;margin-bottom:-13px;margin-top:-10px;font-family:Open Sans;">7<sup style="font-family:Open Sans;">th</sup></li>
+				<li style="font-size:14.5px;margin-bottom:-13px;margin-top:-10px;font-family:Tahoma;">7<sup style="font-family:Tahoma;">th</sup></li>
 			    	<ul>
-						<li style="font-size:14.5px;margin-bottom:-13px;margin-top:-10px;font-family:Open Sans;">Group Quanshu – C Girls</li>
-						<li style="font-size:14.5px;margin-bottom:-13px;margin-top:-10px;font-family:Open Sans;">Group Quanshu – B Girls</li>
+						<li style="font-size:14.5px;margin-bottom:-13px;margin-top:-10px;font-family:Tahoma;">Group Quanshu – C Girls</li>
+						<li style="font-size:14.5px;margin-bottom:-13px;margin-top:-10px;font-family:Tahoma;">Group Quanshu – B Girls</li>
 					</ul>
-				<li style="font-size:14.5px;margin-bottom:-13px;margin-top:-10px;font-family:Open Sans;">8<sup style="font-family:Open Sans;">th</sup></li>
+				<li style="font-size:14.5px;margin-bottom:-13px;margin-top:-10px;font-family:Tahoma;">8<sup style="font-family:Tahoma;">th</sup></li>
 					<ul>
-						<li style="font-size:14.5px;margin-bottom:5px;margin-top:-10px;font-family:Open Sans;">Group Weapon – B Girls</li>
+						<li style="font-size:14.5px;margin-bottom:5px;margin-top:-10px;font-family:Tahoma;">Group Weapon – B Girls</li>
 					</ul>
 			</ul>
 		</td>
@@ -134,17 +134,17 @@ third_nav_title: Sports & Games
 </tbody>
 </table>
 
-<h4 style="color:#635f1a;font-weight:bold;font-family:Open Sans;">Competitions and CCA Activities</h4>
+<h4 style="color:#635f1a;">Competitions and CCA Activities</h4>
 
-<p style="font-size:14.5px;"><strong style="font-family:Open Sans;">Performing at CCA Feista has been an annual event which allows,&nbsp;</strong></p>
+<p style="font-size:14.5px;"><strong style="font-family:Tahoma;">Performing at CCA Feista has been an annual event which allows,&nbsp;</strong></p>
 
 <img src="/images/wushu2.png">
 
-<h4 style="color:#635f1a;font-weight:bold;margin-bottom:-25px;font-family:Open Sans;">Student Testaments</h4>
+<h4 style="color:#635f1a;margin-bottom:-25px;">Student Testaments</h4>
 <blockquote style="font-size: 14.5px;width:100%;margin:50px auto;font-family:Open Sans;font-style:italic;color: #555555;padding:1.2em 25px 1.2em 25px;border-left:8px solid #78C0A8 ;line-height:1.6;position: relative;background:#EDEDED;">
 	<img align="left" alt="" src="/images/wushu3.jpeg" style="width: 23%;margin-right:15px;">
 	"I enjoy this CCA because of our strong team spirit. We will constantly cheer one another on and strive for the best especially during the competition periods. We focus on helping every member improve because no one is bigger than the team. With this mindset, the team trains hard together and works towards a common goal. We have grown closer together and this team spirit is something that I really like about Pei Hwa Wushu."
-	<span style="display:block; color:#333333; margin-top:1em;font-size:14.5px;"><em style="font-family:Open Sans;">Leader for Lower Sec, Zayne from Int 6</em></span><br><br><br>
+	<span style="display:block; color:#333333; margin-top:1em;font-size:14.5px;"><em style="font-family:Tahoma;">Leader for Lower Sec, Zayne from Int 6</em></span><br><br><br>
 	
 </blockquote>
 
@@ -152,30 +152,30 @@ third_nav_title: Sports & Games
 <blockquote style="font-size: 14.5px;width:100%;margin:50px auto;font-family:Open Sans;font-style:italic;color: #555555;padding:1.2em 25px 1.2em 25px;border-left:8px solid #78C0A8 ;line-height:1.6;position: relative;background:#EDEDED;">
 		<img align="left" alt="" src="/images/wushu4.jpg" style="width: 23%;margin-right:15px;">
 	"I started Wushu at the age of 6 years old and my passion in this sport has grown over the years! I always believe that hard work, perseverance and endurance are the key to achieve my goal in Wushu. The CCA has taught me the importance of team spirit and sportsmanship. I look forward in all my training session with my team mates as I enjoy spending time together with them!"
- 		 <span style="display:block; color:#333333; margin-top:1em;font-size:14.5px;"><em style="font-family:Open Sans;">C Boys, Cedric Lim from 2E3</em></span><br><br><br><br><br><br><br><br><br><br>
+ 		 <span style="display:block; color:#333333; margin-top:1em;font-size:14.5px;"><em style="font-family:Tahoma;">C Boys, Cedric Lim from 2E3</em></span><br><br><br><br><br><br><br><br><br><br>
 </blockquote>
 
-<h4 style="color:#635f1a;font-weight:bold;font-family:Open Sans;">CCA Details</h4>
+<h4 style="color:#635f1a;font-weight:bold;font-family:Tahoma;">CCA Details</h4>
 <table border="1" style="width:100%;">
 	<tbody>
 		<tr>
-			<td style="background-color: #54585d; font-weight: bold; font-size: 14.5px; border: 1px solid #54585d; color:white;border-bottom: 1px solid #dddddd;width:24%;font-family:Open Sans;">Teacher-In-Charge</td>
-			<td style="border: 1px solid #dddfe1;font-size: 14.5px;font-family:Open Sans;">Mdm Lee Helen</td>
+			<td style="background-color: #54585d; font-weight: bold; font-size: 14.5px; border: 1px solid #54585d; color:white;border-bottom: 1px solid #dddddd;width:24%;font-family:Tahoma;">Teacher-In-Charge</td>
+			<td style="border: 1px solid #dddfe1;font-size: 14.5px;font-family:Tahoma;">Mdm Lee Helen</td>
 		</tr>
 
 <tr>
-			<td style="background-color: #54585d; font-weight: bold; font-size: 14.5px; border: 1px solid #54585d;border-bottom: 1px solid #dddddd; color:white;font-family:Open Sans;">CCA Teacher(s)</td>
-			<td style="border: 1px solid #dddfe1;font-size: 14.5px;font-family:Open Sans;">Mr Lim Guat Hong<br>Mdm Anna Foo Tsuey Yun</td>
+			<td style="background-color: #54585d; font-weight: bold; font-size: 14.5px; border: 1px solid #54585d;border-bottom: 1px solid #dddddd; color:white;font-family:Tahoma;">CCA Teacher(s)</td>
+			<td style="border: 1px solid #dddfe1;font-size: 14.5px;font-family:Tahoma;">Mr Lim Guat Hong<br>Mdm Anna Foo Tsuey Yun</td>
 		</tr>
 
 <tr>
-			<td style="background-color: #54585d; font-weight: bold; font-size: 14.5px; border: 1px solid #54585d; color:white;border-bottom: 1px solid #dddddd;font-family:Open Sans;">CCA Schedule</td>
-			<td style="border: 1px solid #dddfe1;font-size: 14.5px;font-family:Open Sans;">Tuesdays, 3.30pm – 6.00pm<br>Fridays, 2.30pm – 6.00pm</td>
+			<td style="background-color: #54585d; font-weight: bold; font-size: 14.5px; border: 1px solid #54585d; color:white;border-bottom: 1px solid #dddddd;font-family:Tahoma;">CCA Schedule</td>
+			<td style="border: 1px solid #dddfe1;font-size: 14.5px;font-family:Tahoma;">Tuesdays, 3.30pm – 6.00pm<br>Fridays, 2.30pm – 6.00pm</td>
 		</tr>
 		
 <tr>
-			<td style="background-color: #54585d; font-weight: bold; font-size: 14.5px; border: 1px solid #54585d; color:white;font-family:Open Sans;">Venues</td>
-			<td style="border: 1px solid #dddfe1;font-size: 14.5px;font-family:Open Sans;">School Hall</td>
+			<td style="background-color: #54585d; font-weight: bold; font-size: 14.5px; border: 1px solid #54585d; color:white;font-family:Tahoma;">Venues</td>
+			<td style="border: 1px solid #dddfe1;font-size: 14.5px;font-family:Tahoma;">School Hall</td>
 		</tr>
 		
 </tbody>
