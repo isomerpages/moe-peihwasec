@@ -4,38 +4,38 @@ permalink: /about-us/staff-contact-info/
 description: ""
 ---
 <ul class="jekyllcodex_accordion">
-<li><input id="accordion1" type="checkbox"><label for="accordion1" style="line-height:2;margin-top:15px; font-family:Open Sans">School Leaders and Key Personnel</label>
+<li><input id="accordion1" type="checkbox"><label for="accordion1" style="line-height:2;margin-top:15px; font-family:Tahoma;">School Leaders and Key Personnel</label>
 <div>
 <table style="width:100%" border="1">
-	<thead style="background-color: #54585d; font-weight: bold; font-size: 15.5px; border: 1px solid #54585d; font-family:Open Sans;">
+	<thead style="background-color: #54585d; font-weight: bold; font-size: 15.5px; border: 1px solid #54585d; font-family:Tahoma;">
 		<tr>
-			<td style="text-align:center;color:white; width:20%; font-family:Open Sans">Designation</td>
-			<td style="text-align:center; color:white;width:42%;font-family:Open Sans">Name</td>
-			<td style="text-align:center; color:white;width:38%;font-family:Open Sans">Email</td>
+			<td style="text-align:center;color:white; width:20%; font-family:Tahoma;">Designation</td>
+			<td style="text-align:center; color:white;width:42%;font-family:Tahoma;">Name</td>
+			<td style="text-align:center; color:white;width:38%;font-family:Tahoma;">Email</td>
 		</tr>
 	</thead>
 	<tbody style="font-size:14.5px; line-height: 1.8;">
 		<tr>
-		<td style="text-align:center; border: 1px solid #dddfe1;"><strong style="font-family:Open Sans">Principal</strong>
+		<td style="text-align:center; border: 1px solid #dddfe1;"><strong style="font-family:Tahoma;">Principal</strong>
 		</td>
-		<td style="text-align:center; border: 1px solid #dddfe1;font-family:Open Sans">Mr Mohd Azhar B Terimo</td>
-		<td style="text-align:center; border: 1px solid #dddfe1;">-</td>
+		<td style="text-align:center; border: 1px solid #dddfe1;font-family:Tahoma;">Mr Mohd Azhar B Terimo</td>
+		<td style="text-align:center; border: 1px solid #dddfe1;font-family:Tahoma;">-</td>
 </tr>
 	
 <tr>
 <td style="text-align:center; border: 1px solid #dddfe1;">
-<strong style="font-family:Open Sans">Vice-Principal</strong>
+<strong style="font-family:Tahoma;">Vice-Principal</strong>
 </td>
-<td style="text-align:center; border: 1px solid #dddfe1;font-family:Open Sans">Mrs Michelle Willman</td>
-		<td style="text-align:center; border: 1px solid #dddfe1;">-</td>
+<td style="text-align:center; border: 1px solid #dddfe1;font-family:Tahoma;">Mrs Michelle Willman</td>
+		<td style="text-align:center; border: 1px solid #dddfe1;font-family:Tahoma;">-</td>
 </tr>
 		
 <tr>
 <td style="text-align:center; border: 1px solid #dddfe1;">
-<strong style="font-family:Open Sans">Vice-Principal</strong>
+<strong style="font-family:Tahoma;">Vice-Principal</strong>
 </td>
-<td style="text-align:center; border: 1px solid #dddfe1;font-family:Open Sans">Mr Ow Weng Keong</td>
-		<td style="text-align:center; border: 1px solid #dddfe1;">-</td>
+<td style="text-align:center; border: 1px solid #dddfe1;font-family:Tahoma;">Mr Ow Weng Keong</td>
+		<td style="text-align:center; border: 1px solid #dddfe1;font-family:Tahoma;">-</td>
 </tr>
 	
 <tr>
