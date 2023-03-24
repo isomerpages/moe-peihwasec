@@ -6,49 +6,49 @@ third_nav_title: Sports & Games
 ---
 <img style="width: 100%;" src="/images/Picture1.jpg" />
 
-<p style="font-size:14.5px; line-height:2;font-family:Open Sans;">The CCA aims to provide opportunities for students to learn and apply the technical and tactical skills and rules of badminton, so as to play the sports at a competitive level and as a recreational activity. Through the trainings, we would like to develop within all our members a healthy body and instill in them the virtues of true sportsmanship, PRIDE (Passion for Learning, Resilience, Integrity, Diligence, Excellence for Self and Others), teamwork and discipline.</p>
+<p style="font-size:14.5px; line-height:2;font-family:Tahoma;">The CCA aims to provide opportunities for students to learn and apply the technical and tactical skills and rules of badminton, so as to play the sports at a competitive level and as a recreational activity. Through the trainings, we would like to develop within all our members a healthy body and instill in them the virtues of true sportsmanship, PRIDE (Passion for Learning, Resilience, Integrity, Diligence, Excellence for Self and Others), teamwork and discipline.</p>
 
-<h4 style="color:#635f1a;font-weight:bold;font-family:Open Sans;">Student Outcomes</h4>
+<h4 style="color:#635f1a;">Student Outcomes</h4>
 
-<p style="font-size:14.5px; line-height:2;margin-top:15px; font-family:Open Sans">The CCA will enable our students to:</p>
+<p style="font-size:14.5px; line-height:2;margin-top:15px; font-family:Tahoma">The CCA will enable our students to:</p>
 
 <ul style="margin-top:-5px">
-<li  style="font-size:14.5px; line-height:2;font-family:Open Sans;"> explain and apply their knowledge of badminton rules, its technical and tactical skills to play the game correctly and safely.</li>
-<li  style="font-size:14.5px; line-height:2;font-family:Open Sans;"> play badminton at competitive level for beginners and advanced / school team players and be prepared for the Badminton National School Games and any other ad-hoc competitions or friendly matches.</li>
-<li  style="font-size:14.5px; line-height:2;font-family:Open Sans;"> have the opportunities to develop soft skills such a as communication, teamwork and having good sportsmanship.</li>
-<li  style="font-size:14.5px; line-height:2;font-family:Open Sans;"> have the opportunities to develop holistically in all components of fitness (e.g. stamina, agility, strength) and mental conditioning.</li>
-<li  style="font-size:14.5px; line-height:2;font-family:Open Sans;"> have the opportunities to develop themselves as leaders</li>
+<li  style="font-size:14.5px; line-height:2;font-family:Tahoma;"> explain and apply their knowledge of badminton rules, its technical and tactical skills to play the game correctly and safely.</li>
+<li  style="font-size:14.5px; line-height:2;font-family:Tahoma;"> play badminton at competitive level for beginners and advanced / school team players and be prepared for the Badminton National School Games and any other ad-hoc competitions or friendly matches.</li>
+<li  style="font-size:14.5px; line-height:2;font-family:Tahoma;"> have the opportunities to develop soft skills such a as communication, teamwork and having good sportsmanship.</li>
+<li  style="font-size:14.5px; line-height:2;font-family:Tahoma;"> have the opportunities to develop holistically in all components of fitness (e.g. stamina, agility, strength) and mental conditioning.</li>
+<li  style="font-size:14.5px; line-height:2;font-family:Tahoma;"> have the opportunities to develop themselves as leaders</li>
 </ul>
 	
-<h4 style="color:#635f1a;font-weight:bold;font-family:Open Sans;">Achievements</h4>
+<h4 style="color:#635f1a;;">Achievements</h4>
 	
 <table border="1" style="border-collapse: collapse;margin: 25px 0;font-size:15px;font-family: sans-serif;box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);">
 <thead style="background-color: #009879; font-weight: bold; font-size: 15.5px;">
 <tr>
-<td style="text-align:left;color:white;font-family:Open Sans;">Year of Competition</td>
-<td style="text-align:left;color:white;font-family:Open Sans;">Attainment</td>
+<td style="text-align:left;color:white;font-family:Tahoma;">Year of Competition</td>
+<td style="text-align:left;color:white;font-family:Tahoma;">Attainment</td>
 </tr>
 </thead>
 	
 <tbody>
 <tr>
-<td style="font-size:14.5px;"><strong style="font-family:Open Sans;">2022</strong></td>
-<td style="font-size:14.5px;"><strong style="font-family:Open Sans;">‘B and ‘C’ Division Boys and Girls - Participation</strong></td>
+<td style="font-size:14.5px;"><strong style="font-family:Tahoma;">2022</strong></td>
+<td style="font-size:14.5px;"><strong style="font-family:Tahoma;">‘B and ‘C’ Division Boys and Girls - Participation</strong></td>
 </tr>
 
 <tr style=" background-color: #f3f3f3;">
-<td style="font-size:14.5px;"><strong style="font-family:Open Sans;">2021</strong></td>
-<td style="font-size:14.5px;"><strong style="font-family:Open Sans;">B division boys qualified for the quarter-finals in the North Zone Badminton Tournaments</strong></td>
+<td style="font-size:14.5px;"><strong style="font-family:Tahoma;">2021</strong></td>
+<td style="font-size:14.5px;"><strong style="font-family:Tahoma;">B division boys qualified for the quarter-finals in the North Zone Badminton Tournaments</strong></td>
 </tr>
 			
 <tr>
-<td style="font-size:14.5px;"><strong style="font-family:Open Sans;">2020</strong></td>
-<td style="font-size:14.5px;"><strong style="font-family:Open Sans;">B division boys qualified for the 2<sup style="font-family:Open Sans;">nd</sup>&nbsp;round in the North Zone Badminton Tournaments</strong></td>
+<td style="font-size:14.5px;"><strong style="font-family:Tahoma;">2020</strong></td>
+<td style="font-size:14.5px;"><strong style="font-family:Tahoma;">B division boys qualified for the 2<sup style="font-family:Tahoma;">nd</sup>&nbsp;round in the North Zone Badminton Tournaments</strong></td>
 </tr>
 			
 <tr style=" background-color: #f3f3f3;">
-<td style="font-size:14.5px;"><strong style="font-family:Open Sans;">2019</strong></td>
-<td style="font-size:14.5px;"><strong style="font-family:Open Sans;">B and C division Boys came in 3rd in the first round (in the respective groups) in the North Zone Badminton Tournaments <br><br>
+<td style="font-size:14.5px;"><strong style="font-family:Tahoma;">2019</strong></td>
+<td style="font-size:14.5px;"><strong style="font-family:Tahoma;">B and C division Boys came in 3rd in the first round (in the respective groups) in the North Zone Badminton Tournaments <br><br>
 B and C division boys came in 1st runner up in the Interschool Badminton Competition</strong></td>
 </tr>
 			
