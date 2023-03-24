@@ -3,34 +3,34 @@ title: Assessment and Homework Policy
 permalink: /assessment-and-homework-policy/
 description: ""
 ---
-<h4 style="color:#635f1a;font-weight:bold;font-family:Open Sans;">SCHOOL BASED ASSESSMENT 2023</h4>
+<h4 style="color:#635f1a;">SCHOOL BASED ASSESSMENT 2023</h4>
 
-<p style="font-size:14.5px; line-height:2;margin-top:15px; font-family:Open Sans;">In meeting the challenges of an increasingly complex world, the Ministry of Education (MOE) announced changes to School Based Assessment in 2019 to help our students discover more joy in learning and to develop them into lifelong learners. In 2023, the school continues to make changes to our internal assessments to create time and space for teachers and students to achieve that.</p>
+<p style="font-size:14.5px; line-height:2;margin-top:15px;font-family:Tahoma;">In meeting the challenges of an increasingly complex world, the Ministry of Education (MOE) announced changes to School Based Assessment in 2019 to help our students discover more joy in learning and to develop them into lifelong learners. In 2023, the school continues to make changes to our internal assessments to create time and space for teachers and students to achieve that.</p>
 
-<p style="margin-top:15px;font-size:15.5px;"><strong style="font-family:Open Sans;">Modes of Assessment</strong></p>
+<p style="margin-top:15px;font-size:15.5px;"><strong style="font-family:Tahoma;">Modes of Assessment</strong></p>
 
-<p style="font-size:14.5px; line-height:2;margin:-15px 0 13px 0px;font-family:Open Sans;">All modes of assessments are important as they provide feedback to the students, teachers and parents about what the students have learnt and how well they have applied their learning.</p>
+<p style="font-size:14.5px; line-height:2;margin:-15px 0 13px 0px;font-family:Tahoma;">All modes of assessments are important as they provide feedback to the students, teachers and parents about what the students have learnt and how well they have applied their learning.</p>
 
-<p style="margin-top:15px;font-size:15.5px;"><strong style="font-family:Open Sans;">Formative Assessment</strong></p>
+<p style="margin-top:15px;font-size:15.5px;"><strong style="font-family:Tahoma;">Formative Assessment</strong></p>
 
-<p style="font-size:14.5px; line-height:2;margin:-15px 0 13px 0px;font-family:Open Sans;">Formative Assessment is carried out during lessons to provide feedback to adjust on-going teaching and learning in order to improve students’ learning in the classroom. They are often given in the form of class assignments, mini quizzes and presentations aimed to help students identify their strengths and weaknesses and target areas that need support. Timed practices will continue to be given to students to prepare them for formal assessments and to ensure that they are ready for the end-of-year examinations. Teachers use these practices as formative assessments to give students feedback on areas for improvement. Formative assessment scores, if any, are not weighted.</p>
+<p style="font-size:14.5px; line-height:2;margin:-15px 0 13px 0px;font-family:Tahoma;">Formative Assessment is carried out during lessons to provide feedback to adjust on-going teaching and learning in order to improve students’ learning in the classroom. They are often given in the form of class assignments, mini quizzes and presentations aimed to help students identify their strengths and weaknesses and target areas that need support. Timed practices will continue to be given to students to prepare them for formal assessments and to ensure that they are ready for the end-of-year examinations. Teachers use these practices as formative assessments to give students feedback on areas for improvement. Formative assessment scores, if any, are not weighted.</p>
 
-<p style="margin-top:15.5px;font-size:15.5px;"><strong style="font-family:Open Sans;">Weighted Assessment (WA)</strong></p>
+<p style="margin-top:15.5px;font-size:15.5px;"><strong style="font-family:Tahoma;">Weighted Assessment (WA)</strong></p>
 
-<p style="font-size:14.5px; line-height:2;margin:-15px 0 13px 0px;font-family:Open Sans;">Weighted Assessments (WA) are carried out once a term and the scores attained are weighted and count towards the subject grade. It gives students, teachers and parents information on students’ mastery of content, knowledge and skills.</p>
+<p style="font-size:14.5px; line-height:2;margin:-15px 0 13px 0px;font-family:Tahoma;">Weighted Assessments (WA) are carried out once a term and the scores attained are weighted and count towards the subject grade. It gives students, teachers and parents information on students’ mastery of content, knowledge and skills.</p>
 
-<p style="margin-top:15px;font-size:14.5px; line-height:2;font-family:Open Sans;">Termly WAs are often carried out in the form of a class test, a project, or standardised assignments. Standardised examinations conducted in Term 4 (all levels) are also considered WAs that evaluate our students’ academic progress and achievement.</p>
+<p style="margin-top:15px;font-size:14.5px; line-height:2;font-family:Tahoma;">Termly WAs are often carried out in the form of a class test, a project, or standardised assignments. Standardised examinations conducted in Term 4 (all levels) are also considered WAs that evaluate our students’ academic progress and achievement.</p>
 
-<p style="margin-top:15.5px;font-size:17px;"><strong style="font-family:Open Sans;">Weighting of Assessments</strong></p>
+<p style="margin-top:15.5px;font-size:17px;"><strong style="font-family:Tahoma;">Weighting of Assessments</strong></p>
 
-<p style="font-size:14.5px; line-height:2;margin:-15px 0 13px 0px;font-family:Open Sans;">The following table details the weighting for the different assessment in each term. With the new directions from MOE, assessment has been reduced and there will be not more than one weighted assessment per subject per term.</p>
+<p style="font-size:14.5px; line-height:2;margin:-15px 0 13px 0px;font-family:Tahoma;">The following table details the weighting for the different assessment in each term. With the new directions from MOE, assessment has been reduced and there will be not more than one weighted assessment per subject per term.</p>
 
 
 <table border="1" style="border-collapse: collapse;margin: 25px 0;font-size: 0.9em;font-family: sans-serif;min-width: 400px; box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);">
 	
-<thead style="background-color: #009879; font-weight: bold; font-size: 16px;">
+<thead style="background-color: #009879; font-weight: bold; font-size: 16px; ">
 		<tr>
-			<td style="text-align:left;color:white;padding:12px 15px;font-family:Open Sans;">&nbsp;</td>
+			<td style="text-align:left;color:white;padding:12px 15px;font-family:Tahoma;">&nbsp;</td>
 			<td style="text-align:left;color:white;padding:12px 15px;font-family:Open Sans;">Term 1</td>
 			<td style="text-align:left;color:white;padding:12px 15px;font-family:Open Sans;">Term 2</td>
 			<td style="text-align:left;color:white;padding:12px 15px;font-family:Open Sans;">Term 3</td>
