@@ -4,138 +4,138 @@ permalink: /ccas/clubs-societies/robotics/
 description: ""
 third_nav_title: Clubs & Societies
 ---
-<h4 style="color:#635f1a;font-weight:bold;font-family:Open Sans;">Student Outcomes</h4>
+<h4 style="color:#635f1a;font-weight:bold;font-family:Tahoma;">Student Outcomes</h4>
 
-<p style="font-size:14.5px; line-height:2;margin-top:15px; font-family:Open Sans">The CCA will enable our students to:</p>
+<p style="font-size:14.5px; line-height:2;margin-top:15px; font-family:Tahoma">The CCA will enable our students to:</p>
 
 <ul style="margin-top:5px">
-<li  style="font-size:14.5px; line-height:2;font-family:Open Sans;">innovate, think critically and work collaboratively with their peers in experimenting ideas and solving problems</li>
-<li  style="font-size:14.5px; line-height:2;font-family:Open Sans;">develop robot construction and programming skills through exposure to a variety of robotics platforms</li>
-<li  style="font-size:14.5px; line-height:2;font-family:Open Sans;">compete in internal and national competitions to pitch their skills against the best to build and programme robots to complete assigned missions in the most strategic and efficient manner.</li>
+<li  style="font-size:14.5px; line-height:2;font-family:Tahoma;">innovate, think critically and work collaboratively with their peers in experimenting ideas and solving problems</li>
+<li  style="font-size:14.5px; line-height:2;font-family:Tahoma;">develop robot construction and programming skills through exposure to a variety of robotics platforms</li>
+<li  style="font-size:14.5px; line-height:2;font-family:Tahoma;">compete in internal and national competitions to pitch their skills against the best to build and programme robots to complete assigned missions in the most strategic and efficient manner.</li>
 </ul>
 	
-<h4 style="color:#635f1a;font-weight:bold;font-family:Open Sans;">Achievements</h4>
+<h4 style="color:#635f1a;font-weight:bold;font-family:Tahoma;">Achievements</h4>
 
 <table style="border-collapse: collapse;margin: 25px 0;font-size:15px;font-family: sans-serif;box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);" border="1">
 	
 <thead style="background-color: #009879; font-weight: bold; font-size: 15.5px;">
 	<tr>
 			<td style="text-align:left;color:white;font-family:Open Sans;">Year of Competition</td>
-			<td style="text-align:left;color:white;font-family:Open Sans;">Attainment</td>
+			<td style="text-align:left;color:white;font-family:Tahoma;">Attainment</td>
 		</tr>
 	</thead>
 <tbody>
 	
 <tr>
-<td><strong style="font-size:14.5px; font-family:Open Sans;">2022</strong></td>
+<td><strong style="font-size:14.5px; font-family:Tahoma;">2022</strong></td>
 	<td style="font-size:14.5px;">
-		<strong style="font-size:14.5px; font-family:Open Sans;">RoboCup Singapore Open</strong>
+		<strong style="font-size:14.5px; font-family:Tahoma;">RoboCup Singapore Open</strong>
 		<br>
 		<ul>
-			<li style="font-size:14.5px;margin-bottom:5px;font-family:Open Sans;">OnStage 1<sup style="font-family:Open Sans;">st</sup> Place - 
+			<li style="font-size:14.5px;margin-bottom:5px;font-family:Tahoma;">OnStage 1<sup style="font-family:Tahoma;">st</sup> Place - 
 Tay Kai Wen, Bryan (4D1), Lai Le Xin Grace (3I4), Ain Myeisha Arman (3I1), Chang Guan Zheng (Justin) (2R9), Yan Ging Git (Zhenn Jingjie) (2R9), Chong Yun Ting Felicia (1P4)</li>
-            <li style="font-size:14.5px;margin-bottom:5px;font-family:Open Sans;">Cospace Auto-Driving 3<sup style="font-family:Open Sans;">rd</sup> Place - Valluri Navanith (3I8)</li>
-			<li style="font-size:14.5px;margin-bottom:5px;font-family:Open Sans;">Cospace Auto-Driving 2<sup style="font-family:Open Sans;">nd</sup> Place - Tang Ka Lok (3I8)</li>
-			<li style="font-size:14.5px;margin-bottom:5px;font-family:Open Sans;">Cospace Auto-Driving (SuperTeam) 1<sup style="font-family:Open Sans;">st</sup> Place - Valluri Navanith (3I8), Tay Kai Yi (2R4)</li>
-			<li style="font-size:14.5px;margin-bottom:5px;font-family:Open Sans;">Cospace Auto-Driving (Influencer Award) 1<sup style="font-family:Open Sans;">st</sup> Place - Shah Yashvi Tejas (3I8)</li>
-            <li style="font-size:14.5px;margin-bottom:5px;font-family:Open Sans;">Cospace Rescue FirstSteps 3<sup style="font-family:Open Sans;">rd</sup> Place - Elkan Sin Yew Ken (1P8)</li>
-            <li style="font-size:14.5px;margin-bottom:5px;font-family:Open Sans;">Cospace Rescue FirstSteps 2<sup style="font-family:Open Sans;">nd</sup> Place - Kieran Tan (2R5)</li>
-			<li style="font-size:14.5px;margin-bottom:5px;font-family:Open Sans;">Cospace Rescue FirstSteps 1<sup style="font-family:Open Sans;">st</sup> Place - Devendran Venkatesh (1P3)</li>
-			<li style="font-size:14.5px;margin-bottom:5px;font-family:Open Sans;">Cospace Rescue FirstSteps (SuperTeam) 1<sup style="font-family:Open Sans;">st</sup> Place - Devendran Venkatesh (1P3), Luke Matthias Quek Shou En (2R1), Goh Zhen Jin (2R5)</li>
-            <li style="font-size:14.5px;margin-bottom:5px;font-family:Open Sans;">Cospace Rescue 3<sup style="font-family:Open Sans;">rd</sup> Place - Ritesh Sathiyamoorthi (2R8)</li>
-            <li style="font-size:14.5px;margin-bottom:5px;font-family:Open Sans;">Cospace Rescue (SuperTeam) 1<sup style="font-family:Open Sans;">st</sup> Place - Ng Jun Lin, Cogan (3I7)</li>
-			<li style="font-size:14.5px;margin-bottom:5px;font-family:Open Sans;">Cospace Rescue (Influencer Award) 1<sup style="font-family:Open Sans;">st</sup> Place - Devendran Venkatesh (1P3)</li>
+            <li style="font-size:14.5px;margin-bottom:5px;font-family:Tahoma;">Cospace Auto-Driving 3<sup style="font-family:Tahoma;">rd</sup> Place - Valluri Navanith (3I8)</li>
+			<li style="font-size:14.5px;margin-bottom:5px;font-family:Tahoma;">Cospace Auto-Driving 2<sup style="font-family:Tahoma;">nd</sup> Place - Tang Ka Lok (3I8)</li>
+			<li style="font-size:14.5px;margin-bottom:5px;font-family:Tahoma;">Cospace Auto-Driving (SuperTeam) 1<sup style="font-family:Open Sans;">st</sup> Place - Valluri Navanith (3I8), Tay Kai Yi (2R4)</li>
+			<li style="font-size:14.5px;margin-bottom:5px;font-family:Tahoma;">Cospace Auto-Driving (Influencer Award) 1<sup style="font-family:Tahoma;">st</sup> Place - Shah Yashvi Tejas (3I8)</li>
+            <li style="font-size:14.5px;margin-bottom:5px;font-family:Tahoma;">Cospace Rescue FirstSteps 3<sup style="font-family:Open Sans;">rd</sup> Place - Elkan Sin Yew Ken (1P8)</li>
+            <li style="font-size:14.5px;margin-bottom:5px;font-family:Tahoma;">Cospace Rescue FirstSteps 2<sup style="font-family:Tahoma;">nd</sup> Place - Kieran Tan (2R5)</li>
+			<li style="font-size:14.5px;margin-bottom:5px;font-family:Tahoma;">Cospace Rescue FirstSteps 1<sup style="font-family:Tahoma;">st</sup> Place - Devendran Venkatesh (1P3)</li>
+			<li style="font-size:14.5px;margin-bottom:5px;font-family:Tahoma;">Cospace Rescue FirstSteps (SuperTeam) 1<sup style="font-family:Tahoma;">st</sup> Place - Devendran Venkatesh (1P3), Luke Matthias Quek Shou En (2R1), Goh Zhen Jin (2R5)</li>
+            <li style="font-size:14.5px;margin-bottom:5px;font-family:Tahoma;">Cospace Rescue 3<sup style="font-family:Tahoma;">rd</sup> Place - Ritesh Sathiyamoorthi (2R8)</li>
+            <li style="font-size:14.5px;margin-bottom:5px;font-family:Tahoma;">Cospace Rescue (SuperTeam) 1<sup style="font-family:Tahoma;">st</sup> Place - Ng Jun Lin, Cogan (3I7)</li>
+			<li style="font-size:14.5px;margin-bottom:5px;font-family:Tahoma;">Cospace Rescue (Influencer Award) 1<sup style="font-family:Tahoma;">st</sup> Place - Devendran Venkatesh (1P3)</li>
 		</ul>
 	</td>
 </tr>
 	
 <tr style="background-color: #f3f3f3;">
-<td><strong style="font-size:14.5px; font-family:Open Sans;">2021</strong></td>
+<td><strong style="font-size:14.5px; font-family:Tahoma;">2021</strong></td>
 	<td style="font-size:14.5px;">
-		<strong style="font-family:Open Sans;">Robocup Asia Pacific (held virtually at Aichi, Japan)</strong>
+		<strong style="font-family:Tahoma;">Robocup Asia Pacific (held virtually at Aichi, Japan)</strong>
 		<br>
 		<ul>
-			<li style="font-size:14.5px;margin-bottom:5px;font-family:Open Sans;">Cospace Rescue U19 2<sup style="font-family:Open Sans;">nd</sup> Place </li>
-            <li style="font-size:14.5px;margin-bottom:5px;font-family:Open Sans;">Cospace Rescue U19 1<sup style="font-family:Open Sans;">st</sup> Place (SuperTeam)</li>
-            <li style="font-size:14.5px;margin-bottom:5px;font-family:Open Sans;">Cospace Rescue U19 2<sup style="font-family:Open Sans;">nd</sup> Place (SuperTeam)</li>
-			<li style="font-size:14.5px;margin-bottom:5px;font-family:Open Sans;">Cospace Autonomous Driving U19 Best Presentation </li>
+			<li style="font-size:14.5px;margin-bottom:5px;font-familyTahoma;">Cospace Rescue U19 2<sup style="font-family:Tahoma;">nd</sup> Place </li>
+            <li style="font-size:14.5px;margin-bottom:5px;font-family:Open Sans;">Cospace Rescue U19 1<sup style="font-family:Tahoma;">st</sup> Place (SuperTeam)</li>
+            <li style="font-size:14.5px;margin-bottom:5px;font-family:Tahoma;">Cospace Rescue U19 2<sup style="font-family:Tahoma;">nd</sup> Place (SuperTeam)</li>
+			<li style="font-size:14.5px;margin-bottom:5px;font-family:Tahoma;">Cospace Autonomous Driving U19 Best Presentation </li>
 		</ul>
 		<br>
-		<strong style="font-size:14.5px;font-family:Open Sans;">RoboCup Singapore Open</strong>
+		<strong style="font-size:14.5px;font-family:Tahoma;">RoboCup Singapore Open</strong>
 		<br>
 		<ul>
-			<li style="font-size:14.5px;margin-bottom:5px;font-family:Open Sans;">CoSpace Rescue, 2<sup style="font-family:Open Sans;">nd</sup> Place and Merit Award</li>
-                                <li style="font-size:14.5px;margin-bottom:5px;font-family:Open Sans;">CoSpace Rescue, FirstSteps, 1<sup style="font-family:Open Sans;">st</sup>, 2<sup style="font-family:Open Sans;">nd</sup>, 3<sup style="font-family:Open Sans;">rd</sup> Place, One Distinction and four Merit Awards</li>
-                               <li style="font-size:14.5px;margin-bottom:5px;font-family:Open Sans;">CoSpace Autonomous Driving,  1<sup style="font-family:Open Sans;">st</sup>, 2<sup style="font-family:Open Sans;">nd</sup>, 3<sup style="font-family:Open Sans;">rd</sup> Place, One Distinction and three Merit awards</li>
+			<li style="font-size:14.5px;margin-bottom:5px;font-family:Tahoma;">CoSpace Rescue, 2<sup style="font-family:Tahoma;">nd</sup> Place and Merit Award</li>
+                                <li style="font-size:14.5px;margin-bottom:5px;font-family:Tahoma;">CoSpace Rescue, FirstSteps, 1<sup style="font-family:Tahoma;">st</sup>, 2<sup style="font-family:Tahoma;">nd</sup>, 3<sup style="font-family:Tahoma;">rd</sup> Place, One Distinction and four Merit Awards</li>
+                               <li style="font-size:14.5px;margin-bottom:5px;font-family:Tahoma;">CoSpace Autonomous Driving,  1<sup style="font-family:Tahoma;">st</sup>, 2<sup style="font-family:Tahoma;">nd</sup>, 3<sup style="font-family:Tahoma;">rd</sup> Place, One Distinction and three Merit awards</li>
 		</ul>
 	</td>
 </tr>
 															
 <tr>
-<td style="font-size:14.5px;"><strong style="font-family:Open Sans;">2020</strong></td>
-	<td style="font-size:14.5px;"><strong style="font-family:Open Sans;">International Cospace Online Challenge</strong>
+<td style="font-size:14.5px;"><strong style="font-family:Tahoma;">2020</strong></td>
+	<td style="font-size:14.5px;"><strong style="font-family:Tahoma;">International Cospace Online Challenge</strong>
 		<ul> 
-			<li style="font-size:14.5px;margin-bottom:5px;font-family:Open Sans;">RoboCup Asia Pacific (RCAP) Cospace Grand Prix (GP) U19 Most Creative Presentation Award 1<sup style="font-family:Open Sans;">st</sup> Place</li>
-                                <li style="font-size:14.5px;margin-bottom:5px;font-family:Open Sans;">RCAP Cospace GP U19 Best Presentation Award 3<sup style="font-family:Open Sans;">rd</sup> Place</li>
-                                <li style="font-size:14.5px;margin-bottom:5px;font-family:Open Sans;">Influencer Award (People's Choice) 3<sup style="font-family:Open Sans;">rd</sup> Place</li>
-                                <li style="font-size:14.5px;margin-bottom:5px;font-family:Open Sans;">Influencer Award (Most Popular Video) 3<sup style="font-family:Open Sans;">rd</sup> Place</li>
-                                <li style="font-size:14.5px;margin-bottom:5px;font-family:Open Sans;">Influencer Award (Community Awareness) 2<sup style="font-family:Open Sans;">nd</sup> Place</li>
+			<li style="font-size:14.5px;margin-bottom:5px;font-family:Tahoma;">RoboCup Asia Pacific (RCAP) Cospace Grand Prix (GP) U19 Most Creative Presentation Award 1<sup style="font-family:Tahoma;">st</sup> Place</li>
+                                <li style="font-size:14.5px;margin-bottom:5px;font-family:Tahoma;">RCAP Cospace GP U19 Best Presentation Award 3<sup style="font-family:Open Sans;">rd</sup> Place</li>
+                                <li style="font-size:14.5px;margin-bottom:5px;font-family:Tahoma;">Influencer Award (People's Choice) 3<sup style="font-family:Open Sans;">rd</sup> Place</li>
+                                <li style="font-size:14.5px;margin-bottom:5px;font-family:Tahoma;">Influencer Award (Most Popular Video) 3<sup style="font-family:Open Sans;">rd</sup> Place</li>
+                                <li style="font-size:14.5px;margin-bottom:5px;font-family:Tahoma;">Influencer Award (Community Awareness) 2<sup style="font-family:Tahoma;">nd</sup> Place</li>
 		</ul>
 	</td>
 </tr>
 
 <tr style="background-color: #f3f3f3;">
-<td style="font-size:14.5px;"><strong style="font-family:Open Sans;">2019</strong></td>
+<td style="font-size:14.5px;"><strong style="font-family:Tahoma;">2019</strong></td>
 	<td style="font-size:14.5px;">
-                 <strong style="font-family:Open Sans;">RoboCupJunior Singapore Open</strong>
+                 <strong style="font-family:Tahoma;">RoboCupJunior Singapore Open</strong>
 		<ul> 
-			<li style="font-size:14.5px;font-family:Open Sans;">RoboCup Asia Pacific (RCAP) CoSpace Rescue U12 Challenge – 1<sup style="font-family:Open Sans;">st</sup> &amp; 2<sup style="font-family:Open Sans;">nd</sup> Place </li>
-                                <li style="font-size:14.5px;font-family:Open Sans;">RoboCup Asia Pacific (RCAP) CoSpace Rescue U19 Challenge –  1<sup style="font-family:Open Sans;">st</sup> &amp; 2<sup style="font-family:Open Sans;">nd</sup> Place</li>
-                                <li style="font-size:14.5px;font-family:Open Sans;">RoboCup Asia Pacific (RCAP) CoSpace Rescue First Steps  1<sup style="font-family:Open Sans;">st</sup> &amp; 2<sup style="font-family:Open Sans;">nd</sup> Place</li>
-                                <li style="font-size:14.5px;font-family:Open Sans;">RoboCupJunior CoSpace Rescue league – 3<sup style="font-family:Open Sans;">rd</sup> Place</li>
-                                <li style="font-size:14.5px;font-family:Open Sans;">RoboCup Asia Pacific (RCAP) CoSpace Rescue U19</li>
-                                <li style="font-size:14.5px;font-family:Open Sans;">Friendship Tournament – 1<sup style="font-family:Open Sans;">st</sup> place</li>
-                                <li style="font-size:14.5px;margin-bottom:5px;font-family:Open Sans;">Best Achievement Award (3<sup style="font-family:Open Sans;">rd</sup> time)</li>
+			<li style="font-size:14.5px;font-family:Tahoma;">RoboCup Asia Pacific (RCAP) CoSpace Rescue U12 Challenge – 1<sup style="font-family:Tahoma;">st</sup> &amp; 2<sup style="font-family:Tahoma;">nd</sup> Place </li>
+                                <li style="font-size:14.5px;font-family:Tahoma;">RoboCup Asia Pacific (RCAP) CoSpace Rescue U19 Challenge –  1<sup style="font-family:Tahoma;">st</sup> &amp; 2<sup style="font-family:Tahoma;">nd</sup> Place</li>
+                                <li style="font-size:14.5px;font-family:Tahoma;">RoboCup Asia Pacific (RCAP) CoSpace Rescue First Steps  1<sup style="font-family:Tahoma;">st</sup> &amp; 2<sup style="font-family:Tahoma;">nd</sup> Place</li>
+                                <li style="font-size:14.5px;font-family:Tahoma;">RoboCupJunior CoSpace Rescue league – 3<sup style="font-family:Tahoma;">rd</sup> Place</li>
+                                <li style="font-size:14.5px;font-family:Tahoma;">RoboCup Asia Pacific (RCAP) CoSpace Rescue U19</li>
+                                <li style="font-size:14.5px;font-family:Tahoma;">Friendship Tournament – 1<sup style="font-family:Tahoma;">st</sup> place</li>
+                                <li style="font-size:14.5px;margin-bottom:5px;font-family:Tahoma;">Best Achievement Award (3<sup style="font-family:Tahoma;">rd</sup> time)</li>
 	        </ul>
-                <strong style="font-size:14.5px;font-family:Open Sans;">ITE Robotics Challenge</strong>
+                <strong style="font-size:14.5px;font-family:Tahoma;">ITE Robotics Challenge</strong>
 		<ul> 
-			<li style="font-size:14.5px;margin-bottom:5px;font-family:Open Sans;">Merit award in Tracing Challenge</li>
+			<li style="font-size:14.5px;margin-bottom:5px;font-family:Tahoma;">Merit award in Tracing Challenge</li>
 	        </ul>
-             <strong style="font-family:Open Sans; font-size:14.5px;">3D Tronics Digital Making National Infocomm Competition</strong>
+             <strong style="font-family:Tahoma; font-size:14.5px;">3D Tronics Digital Making National Infocomm Competition</strong>
 		<ul> 
-			<li style="font-size:14.5px;margin-bottom:5px;font-family:Open Sans;">3 <sup style="font-family:Open Sans;">rd</sup> Place</li>
+			<li style="font-size:14.5px;margin-bottom:5px;font-family:Tahoma;">3<sup style="font-family:Tahoma;">rd</sup> Place</li>
 	        </ul>
 	</td>
 </tr>
 
 <tr>
-<td style="font-size:14.px;"><strong style="font-family:Open Sans;">2018</strong></td>
-	<td style="font-size:14.5px;"><strong style="font-family:Open Sans;">RoboCupJunior Singapore Open</strong>
+<td style="font-size:14.px;"><strong style="font-family:Tahoma;">2018</strong></td>
+	<td style="font-size:14.5px;"><strong style="font-family:Tahoma;">RoboCupJunior Singapore Open</strong>
 		<ul> 
-			<li style="font-size:14.5px;margin-bottom:5px;font-family:Open Sans;">2<sup style="font-family:Open Sans;">nd</sup>, 3<sup style="font-family:Open Sans;">rd</sup> &amp; 4<sup style="font-family:Open Sans;">th</sup> Place (RoboCupJunior CoSpace Rescue)</li>
-                                <li style="font-size:14.5px;margin-bottom:5px;font-family:Open Sans;">2<sup style="font-family:Open Sans;">nd</sup> &amp; 3<sup style="font-family:Open Sans;">rd</sup> Place (RoboCup Asia Pacific CoSpace Rescue)</li>
-                                <li style="font-size:14.5px;margin-bottom:5px;font-family:Open Sans;">1<sup style="font-family:Open Sans;">st</sup> Place (RoboCup Asia Pacific CoSpace Grand Prix)</li>
-                                <li style="font-size:14.5px;margin-bottom:5px;font-family:Open Sans;">2<sup style="font-family:Open Sans;">nd</sup>, 3<sup style="font-family:Open Sans;">rd</sup> Place (RoboCup Asia Pacific CoSpace Logistics)
+			<li style="font-size:14.5px;margin-bottom:5px;font-family:Tahoma;">2<sup style="font-family:Tahoma;">nd</sup>, 3<sup style="font-family:Tahoma;">rd</sup> &amp; 4<sup style="font-family:Tahoma;">th</sup> Place (RoboCupJunior CoSpace Rescue)</li>
+                                <li style="font-size:14.5px;margin-bottom:5px;font-family:Tahoma;">2<sup style="font-family:Open Sans;">nd</sup> &amp; 3<sup style="font-family:Tahoma;">rd</sup> Place (RoboCup Asia Pacific CoSpace Rescue)</li>
+                                <li style="font-size:14.5px;margin-bottom:5px;font-family:Tahoma;">1<sup style="font-family:Tahoma;">st</sup> Place (RoboCup Asia Pacific CoSpace Grand Prix)</li>
+                                <li style="font-size:14.5px;margin-bottom:5px;font-family:Tahoma;">2<sup style="font-familyTahoma;">nd</sup>, 3<sup style="font-family:Tahoma;">rd</sup> Place (RoboCup Asia Pacific CoSpace Logistics)
 		</li></ul>
 	</td>
 </tr>
 
 <tr style="background-color: #f3f3f3;border-bottom: 2px solid #009879;">
-<td style="font-size:14.5px;"><strong style="font-family:Open Sans;">2017</strong></td>
-	<td style="font-size:14.5px;"><strong style="font-family:Open Sans;">RoboCupJunior Singapore Open</strong>
+<td style="font-size:14.5px;"><strong style="font-family:Tahoma;">2017</strong></td>
+	<td style="font-size:14.5px;"><strong style="font-family:Tahoma;">RoboCupJunior Singapore Open</strong>
 		<br>
 		<ul> 
-			<li style="font-size:14.5px;margin-bottom:5px;">1<sup style="font-family:Open Sans;">st</sup> 2<sup style="font-family:Open Sans;">nd</sup>, 3<sup style="font-family:Open Sans;">rd</sup> &amp; 4<sup style="font-family:Open Sans;">th</sup> Place (RoboCupJunior CoSpace Rescue)</li>
-                                <li style="font-size:14.5px;margin-bottom:5px;font-family:Open Sans;">1<sup style="font-family:Open Sans;">st</sup> &amp; 2<sup style="font-family:Open Sans;">nd</sup>Place (RoboCupJunior CoSpace Rescue – SuperTeam)</li>
-																	<li style="font-size:14.5px;margin-bottom:5px;font-family:Open Sans;">3<sup style="font-family:Open Sans;">rd</sup> Place (RoboCupJunior CoSpace Grand Prix)</li>
-                                <li style="font-size:14.5px;margin-bottom:5px;font-family:Open Sans;">1<sup style="font-family:Open Sans;">st</sup> &amp; 2<sup>nd</sup> Place (RoboCupJunior CoSpace Logistics)</li>                                
-                                <li style="font-size:14.5px;margin-bottom:5px;font-family:Open Sans;">Best Achievement Award</li>
+			<li style="font-size:14.5px;margin-bottom:5px;">1<sup style="font-family:Tahoma;">st</sup> 2<sup style="font-family:Tahoma;">nd</sup>, 3<sup style="font-family:Tahoma;">rd</sup> &amp; 4<sup style="font-family:Tahoma;">th</sup> Place (RoboCupJunior CoSpace Rescue)</li>
+                                <li style="font-size:14.5px;margin-bottom:5px;font-family:Tahoma;">1<sup style="font-family:Tahoma;">st</sup> &amp; 2<sup style="font-family:Tahoma;">nd</sup>Place (RoboCupJunior CoSpace Rescue – SuperTeam)</li>
+																	<li style="font-size:14.5px;margin-bottom:5px;font-family:Tahoma;">3<sup style="font-family:Tahoma;">rd</sup> Place (RoboCupJunior CoSpace Grand Prix)</li>
+                                <li style="font-size:14.5px;margin-bottom:5px;font-family:Tahoma;">1<sup style="font-family:Tahoma;">st</sup> &amp; 2<sup>nd</sup> Place (RoboCupJunior CoSpace Logistics)</li>                                
+                                <li style="font-size:14.5px;margin-bottom:5px;font-family:Tahoma;">Best Achievement Award</li>
 		</ul>
-	<strong style="font-size:14.5px; font-family:Open Sans;">RoboCup 2017 (Nagoya, Japan)</strong>
+	<strong style="font-size:14.5px; font-family:Tahoma;">RoboCup 2017 (Nagoya, Japan)</strong>
 		<br>
 		<ul> 
-			<li style="font-size:14.5px; margin-bottom:5px;font-family:Open Sans;">2<sup style="font-family:Open Sans;">nd</sup> Place in RoboCupJunior CoSpace Rescue (under 14 category) Individual Team</li>
-                                <li style="font-size:14.5px;margin-bottom:5px;font-family:Open Sans;">12<sup style="font-family:Open Sans;">nd</sup> Place in RoboCupJunior CoSpace Rescue (under 14 category) Super Team (Singapore, Japan, Brazil)</li>
+			<li style="font-size:14.5px; margin-bottom:5px;font-family:Tahoma;">2<sup style="font-family:Tahoma;">nd</sup> Place in RoboCupJunior CoSpace Rescue (under 14 category) Individual Team</li>
+                                <li style="font-size:14.5px;margin-bottom:5px;font-family:Tahoma;">12<sup style="font-family:Tahoma;">nd</sup> Place in RoboCupJunior CoSpace Rescue (under 14 category) Super Team (Singapore, Japan, Brazil)</li>
 		</ul>
 	</td>
 </tr>
@@ -143,22 +143,22 @@ Tay Kai Wen, Bryan (4D1), Lai Le Xin Grace (3I4), Ain Myeisha Arman (3I1), Chang
 </table>
 
 	
-<h4 style="color:#635f1a;font-weight:bold;font-family:Open Sans;">Competitions and CCA Activities</h4>
+<h4 style="color:#635f1a;">Competitions and CCA Activities</h4>
 
 <ol style="margin-top:5px">
-<li  style="font-size:14.5px; line-height:2;font-family:Open Sans;">Robocup Singapore Open (Cospace Rescue, Cospace Grand Prix, OnStage)</li>
+<li  style="font-size:14.5px; line-height:2;font-family:Tahoma;">Robocup Singapore Open (Cospace Rescue, Cospace Grand Prix, OnStage)</li>
 <img style="width:100%; height:auto;" src="/images/Robotics.jpg">
-<li  style="font-size:14.5px; line-height:2;font-family:Open Sans;">Finalists and Award winners of the 2022 Robocup Singapore Open</li>
-<li  style="font-size:14.5px; line-height:2;font-family:Open Sans;">Introduction to Python Programming Language, Data Science with Python</li>
-<li  style="font-size:14.5px; line-height:2;font-family:Open Sans;">Arduino Programming</li>
-<li  style="font-size:14.5px; line-height:2;font-family:Open Sans;">Lego Mindstorms EV3</li>
-<li  style="font-size:14.5px; line-height:2;font-family:Open Sans;">Machine Learning with Huskylens and Micro:bit</li>
-<li  style="font-size:14.5px; line-height:2;font-family:Open Sans;">Codomo Potato Pirates Coding Card Games</li>
+<li  style="font-size:14.5px; line-height:2;font-family:Tahoma;">Finalists and Award winners of the 2022 Robocup Singapore Open</li>
+<li  style="font-size:14.5px; line-height:2;font-family:Tahoma;">Introduction to Python Programming Language, Data Science with Python</li>
+<li  style="font-size:14.5px; line-height:2;font-family:Tahoma;">Arduino Programming</li>
+<li  style="font-size:14.5px; line-height:2;font-family:Tahoma;">Lego Mindstorms EV3</li>
+<li  style="font-size:14.5px; line-height:2;font-family:Tahoma;">Machine Learning with Huskylens and Micro:bit</li>
+<li  style="font-size:14.5px; line-height:2;font-family:Tahoma;">Codomo Potato Pirates Coding Card Games</li>
 <img style="width: 100%;margin-top:10px;" src="/images/collage.jpg"/>
 </ol>
 	
 
-<h4 style="color:#635f1a;font-weight:bold;margin-bottom:-25px;font-family:Open Sans;">Student Testament</h4>
+<h4 style="color:#635f1a;margin-bottom:-25px;">Student Testament</h4>
 <blockquote style="font-size: 14.5px;
   width:100%;
   margin:50px auto;
@@ -191,27 +191,27 @@ Robotics nurtures us as future leaders in addition to being equipped with techno
   <span style="display:block; color:#333333; margin-top:1em;font-size:15px;"><em style="font-family:Open Sans;">Assistant Secretary/Publicity, Shah Yashvi Tejas, Int 8</em></span><br>
 	</blockquote>
 
-<h4 style="color:#635f1a;font-weight:bold;font-family:Open Sans;">CCA Details</h4>
+<h4 style="color:#635f1a;">CCA Details</h4>
 <table border="1" style="width:100%;">
 	<tbody>
 		<tr>
-			<td style="background-color: #54585d; font-weight: bold; font-size: 14.5px; border: 1px solid #54585d; color:white;border-bottom: 1px solid #dddddd;width:24%;font-family:Open Sans;">Teacher-In-Charge</td>
-			<td style="border: 1px solid #dddfe1;font-size: 14.5px;font-family:Open Sans;">Mr Nicholas Ng</td>
+			<td style="background-color: #54585d; font-weight: bold; font-size: 14.5px; border: 1px solid #54585d; color:white;border-bottom: 1px solid #dddddd;width:24%;font-family:Tahoma;">Teacher-In-Charge</td>
+			<td style="border: 1px solid #dddfe1;font-size: 14.5px;font-family:Tahoma;">Mr Nicholas Ng</td>
 		</tr>
 
 <tr>
-			<td style="background-color: #54585d; font-weight: bold; font-size: 14.5px; border: 1px solid #54585d;border-bottom: 1px solid #dddddd; color:white;font-family:Open Sans;">CCA Teacher(s)</td>
-			<td style="border: 1px solid #dddfe1;font-size: 14.5px;font-family:Open Sans;">Mr Joel Neo<br>Mr Ronnie Goh<br>Ms Jane Lian</td>
+			<td style="background-color: #54585d; font-weight: bold; font-size: 14.5px; border: 1px solid #54585d;border-bottom: 1px solid #dddddd; color:white;font-family:Tahoma;">CCA Teacher(s)</td>
+			<td style="border: 1px solid #dddfe1;font-size: 14.5px;font-family:Tahoma;">Mr Joel Neo<br>Mr Ronnie Goh<br>Ms Jane Lian</td>
 		</tr>
 
 <tr>
-			<td style="background-color: #54585d; font-weight: bold; font-size: 14.5px; border: 1px solid #54585d; color:white;border-bottom: 1px solid #dddddd;font-family:Open Sans;">CCA Schedule</td>
-			<td style="border: 1px solid #dddfe1;font-size: 14.5px;font-family:Open Sans;">Tuesday 3.30pm - 6.00pm (for ad-hoc enrichment/intensive training for competition)<br>Fri, 2.30pm – 6.00pm (weekly CCA)</td>
+			<td style="background-color: #54585d; font-weight: bold; font-size: 14.5px; border: 1px solid #54585d; color:white;border-bottom: 1px solid #dddddd;font-family:Tahoma;">CCA Schedule</td>
+			<td style="border: 1px solid #dddfe1;font-size: 14.5px;font-family:Tahoma;">Tuesday 3.30pm - 6.00pm (for ad-hoc enrichment/intensive training for competition)<br>Fri, 2.30pm – 6.00pm (weekly CCA)</td>
 		</tr>
 		
 <tr>
-			<td style="background-color: #54585d; font-weight: bold; font-size: 14.5px; border: 1px solid #54585d; color:white;font-family:Open Sans;">Venues</td>
-			<td style="border: 1px solid #dddfe1;font-size: 14.5px;font-family:Open Sans;">Tue: Technology Room &amp; Computer Lab<br>Fri: Technology Room &amp; Computer Lab 4</td>
+			<td style="background-color: #54585d; font-weight: bold; font-size: 14.5px; border: 1px solid #54585d; color:white;font-family:Tahoma;">Venues</td>
+			<td style="border: 1px solid #dddfe1;font-size: 14.5px;font-family:Tahoma;">Tue: Technology Room &amp; Computer Lab<br>Fri: Technology Room &amp; Computer Lab 4</td>
 		</tr>
 		
 </tbody>
