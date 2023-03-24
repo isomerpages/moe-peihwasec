@@ -61,67 +61,67 @@ description: ""
 
 <img src="/images/sa3.jpg">
 <p style="margin-top:15px;font-size:17px;"><strong style="font-family:Tahoma;">Chinese Dance</strong>
-<p style="font-size:14.5px; line-height:2;margin:-15px 0 13px 0px;font-family:Open Sans;">SYF Achievement: Distinction</p>
+<p style="font-size:14.5px; line-height:2;margin:-15px 0 13px 0px;font-family:Tahoma;">SYF Achievement: Distinction</p>
 
 <br>
 
 <img src="/images/sa4.jpg">
-<p style="margin-top:15px;font-size:17px;"><strong style="font-family:Open Sans;">Modern Dance</strong></p>
-<p style="font-size:14.5px; line-height:2;margin:-15px 0 13px 0px;font-family:Open Sans;">SYF Achievement: Accomplishment</p>
+<p style="margin-top:15px;font-size:17px;"><strong style="font-family:Tahoma;">Modern Dance</strong></p>
+<p style="font-size:14.5px; line-height:2;margin:-15px 0 13px 0px;ffont-family:Tahoma;">SYF Achievement: Accomplishment</p>
 
 <br>
 
 <img src="/images/sa5.jpg">
-<p style="margin-top:15px;font-size:17px;"><strong style="font-family:Open Sans;">Guzheng</strong></p>
-<p style="font-size:14.5px; line-height:2;margin:-15px 0 13px 0px;font-family:Open Sans;">SYF Achievement: Distinction</p>
+<p style="margin-top:15px;font-size:17px;"><strong style="font-family:Tahoma;">Guzheng</strong></p>
+<p style="font-size:14.5px; line-height:2;margin:-15px 0 13px 0px;font-family:Tahoma;">SYF Achievement: Distinction</p>
 <br>
 
 <img src="/images/sa6.jpg">
-<p style="margin-top:15px;font-size:17px;"><strong style="font-family:Open Sans;">Band Team A</strong></p>
-<p style="font-size:14.5px; line-height:2;margin:-15px 0 13px 0px;font-family:Open Sans;">SYF Achievement: Accomplishment</p>
+<p style="margin-top:15px;font-size:17px;"><strong style="font-family:Tahoma;">Band Team A</strong></p>
+<p style="font-size:14.5px; line-height:2;margin:-15px 0 13px 0px;font-family:Tahoma;">SYF Achievement: Accomplishment</p>
 
 <br>
 
 <img src="/images/sa7.jpg">
-<p style="margin-top:15px;font-size:17px;"><strong style="font-family:Open Sans;">Drama Society</strong></p>
-<p style="font-size:14.5px; line-height:2;margin:-15px 0 13px 0px;font-family:Open Sans;">SYF Achievement: Commendation&nbsp;</p>
+<p style="margin-top:15px;font-size:17px;"><strong style="font-family:Tahoma;">Drama Society</strong></p>
+<p style="font-size:14.5px; line-height:2;margin:-15px 0 13px 0px;font-family:Tahoma;">SYF Achievement: Commendation&nbsp;</p>
 
-<h4 style="color:#635f1a;font-weight:bold;font-family:Open Sans;">Summary of all SYF achievements</h4>
+<h4 style="color:#635f1a;">Summary of all SYF achievements</h4>
 
 <table border="1" style="border-collapse: collapse;margin: 25px 0;font-size: 0.9em;font-family: sans-serif;min-width: 400px; box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);">
 	
 <thead style="background-color: #009879; font-weight: bold; font-size: 16px;">
 		<tr>
-			<td style="text-align:left;color:white;padding:12px 15px;font-family:Open Sans;">Performing Arts Group</td>
-			<td style="text-align:left;color:white;padding:12px 15px;font-family:Open Sans;">Certification</td>
+			<td style="text-align:left;color:white;padding:12px 15px;font-family:Tahoma;">Performing Arts Group</td>
+			<td style="text-align:left;color:white;padding:12px 15px;font-family:Tahoma;">Certification</td>
 		</tr>
 	</thead>
 
 <tbody>
 	
 <tr style="border-bottom: 1px solid #dddddd;">
-<td style="padding: 12px 15px; font-size:14.5px; font-family:Open Sans;">Band (Team A)</td>
-<td style="padding: 12px 15px; font-size:14.5px; font-family:Open Sans;">ACCOMPLISHMENT</td>
+<td style="padding: 12px 15px; font-size:14.5px; font-family:Tahoma;">Band (Team A)</td>
+<td style="padding: 12px 15px; font-size:14.5px; font-family:Tahoma;">ACCOMPLISHMENT</td>
 	</tr>
 	
 <tr style ="background-color: #f3f3f3;border-bottom: 1px solid #dddddd;">
-<td style="padding: 12px 15px; font-size:14.5px; font-family:Open Sans;">Dance (Chinese)</td>
-<td style="padding: 12px 15px; font-size:14.5px; font-family:Open Sans;">DISTINCTION</td>
+<td style="padding: 12px 15px; font-size:14.5px; font-family:Tahoma;">Dance (Chinese)</td>
+<td style="padding: 12px 15px; font-size:14.5px; font-family:Tahoma;">DISTINCTION</td>
 </tr>
 	
 <tr style="border-bottom: 1px solid #dddddd;">
-<td style="padding: 12px 15px; font-size:14.5px; font-family:Open Sans;">Dance (International)</td>
-<td style="padding: 12px 15px; font-size:14.5px; font-family:Open Sans;">ACCOMPLISHMENT</td>
+<td style="padding: 12px 15px; font-size:14.5px; font-family:Tahoma;">Dance (International)</td>
+<td style="padding: 12px 15px; font-size:14.5px; font-family:Tahoma;">ACCOMPLISHMENT</td>
 </tr>
 	
 <tr style ="background-color: #f3f3f3;border-bottom: 1px solid #dddddd;">
-<td style="padding: 12px 15px; font-size:14.5px; font-family:Open Sans;">Guzheng</td>
-<td style="padding: 12px 15px; font-size:14.5px; font-family:Open Sans;">DISTINCTION</td>
+<td style="padding: 12px 15px; font-size:14.5px; font-family:Tahoma;">Guzheng</td>
+<td style="padding: 12px 15px; font-size:14.5px; font-family:Tahoma;">DISTINCTION</td>
 </tr>
 
 <tr style="border-bottom: 2px solid #009879;     ">
-<td style="padding: 12px 15px; font-size:14.5px; font-family:Open Sans;">Drama</td>
-<td style="padding: 12px 15px; font-size:14.5px; font-family:Open Sans;">COMMENDATION</td>
+<td style="padding: 12px 15px; font-size:14.5px; font-family:Tahoma;">Drama</td>
+<td style="padding: 12px 15px; font-size:14.5px; font-family:Tahoma;">COMMENDATION</td>
 </tr>
 	
 </tbody>
