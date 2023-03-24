@@ -516,15 +516,15 @@ wong_ser_ching@moe.edu.sg
 </div>
 </li>
 	
-<li><input id="accordion4" type="checkbox"><label for="accordion4" style="font-family:Open Sans;">Secondary 3 Classes 2022</label>
+<li><input id="accordion4" type="checkbox"><label for="accordion4" style="font-family:Tahoma;">Secondary 3 Classes 2022</label>
 <div>
 <table border="1" style="width:100%">
-<thead style="background-color: #54585d; font-weight: bold; font-size: 15.5px; border: 1px solid #54585d;font-family:">
+<thead style="background-color: #54585d; font-weight: bold; font-size: 15.5px; border: 1px solid #54585d;">
 
 <tr>
-<td style="text-align:center;color:white; width:20%;font-family:Open Sans;">Designation</td>
-<td style="text-align:center; color:white;width:42%;font-family:Open Sans;">Name</td>
-<td style="text-align:center; color:white;width:38%;font-family:Open Sans;">Email</td>
+<td style="text-align:center;color:white; width:20%;font-family:Tahoma;">Designation</td>
+<td style="text-align:center; color:white;width:42%;font-family:Tahoma;">Name</td>
+<td style="text-align:center; color:white;width:38%;font-family:Tahoma;">Email</td>
 </tr>
 </thead>
 	
@@ -532,13 +532,13 @@ wong_ser_ching@moe.edu.sg
 
 <tr>
 <td style="text-align:center; border: 1px solid #dddfe1;">
-<strong style="font-family:Open Sans;">Integrity 1</strong>
+<strong style="font-family:Tahoma;">Integrity 1</strong>
 </td>
-<td style="text-align:center; border: 1px solid #dddfe1;font-family:Open Sans;">
+<td style="text-align:center; border: 1px solid #dddfe1;font-family:Tahoma;">
 Miss Wong Ping Fang Claire<br>
 Mr Yang Chao Kai Victor
 </td>
-<td style="text-align:center; border: 1px solid #dddfe1;font-family:Open Sans;">
+<td style="text-align:center; border: 1px solid #dddfe1;font-family:Tahoma;">
 wong_ping_fang@moe.edu.sg<br>
 yang_chao_kai_victor@moe.edu.sg
 </td>
@@ -546,25 +546,25 @@ yang_chao_kai_victor@moe.edu.sg
 	
 <tr>
 <td style="text-align:center; border: 1px solid #dddfe1;">
-<strong style="font-family:Open Sans;">Integrity 2</strong>
+<strong style="font-family:Tahoma;">Integrity 2</strong>
 </td>
-<td style="text-align:center; border: 1px solid #dddfe1;font-family:Open Sans;">
+<td style="text-align:center; border: 1px solid #dddfe1;font-family:Tahoma;">
 Mr Riyaz Huseni
 </td>
-<td style="text-align:center; border: 1px solid #dddfe1;font-family:Open Sans;">
+<td style="text-align:center; border: 1px solid #dddfe1;font-family:Tahoma;">
 riyaz_huseni@moe.edu.sg
 </td>
 </tr>
 	
 <tr>
 <td style="text-align:center; border: 1px solid #dddfe1;">
-<strong style="font-family:Open Sans;">Integrity 3</strong>
+<strong style="font-family:Tahoma;">Integrity 3</strong>
 </td>
-<td style="text-align:center; border: 1px solid #dddfe1;font-family:Open Sans;">
+<td style="text-align:center; border: 1px solid #dddfe1;font-family:Tahoma;">
 Miss Lee Ya Yu<br>
 Mr Tay Swee Hoe
 </td>
-<td style="text-align:center; border: 1px solid #dddfe1;font-family:Open Sans;">
+<td style="text-align:center; border: 1px solid #dddfe1;font-family:Tahoma;">
 lee_ya_yu@moe.edu.sg<br>
 tay_swee_hoe@moe.edu.sg
 </td>
@@ -572,13 +572,13 @@ tay_swee_hoe@moe.edu.sg
 	
 <tr>
 <td style="text-align:center; border: 1px solid #dddfe1;">
-<strong style="font-family:Open Sans;">Integrity 4</strong>
+<strong style="font-family:Tahoma;">Integrity 4</strong>
 </td>
-<td style="text-align:center; border: 1px solid #dddfe1;font-family:Open Sans;">
+<td style="text-align:center; border: 1px solid #dddfe1;font-family:Tahoma;">
 Mr Ong Jun Ming Gary<br>
 Mdm Lin Airong Michelle (Mrs Neo)
 </td>
-<td style="text-align:center; border: 1px solid #dddfe1;font-family:Open Sans;">
+<td style="text-align:center; border: 1px solid #dddfe1;font-family:Tahoma;">
 ong_jun_ming_gary@moe.edu.sg<br>
 lin_airong_michelle@moe.edu.sg
 </td>
@@ -586,13 +586,13 @@ lin_airong_michelle@moe.edu.sg
 	
 <tr>
 <td style="text-align:center; border: 1px solid #dddfe1;">
-<strong style="font-family:Open Sans;">Integrity 5</strong>
+<strong style="font-family:Tahoma;">Integrity 5</strong>
 </td>
-<td style="text-align:center; border: 1px solid #dddfe1;font-family:Open Sans;">
+<td style="text-align:center; border: 1px solid #dddfe1;font-family:Tahoma;">
 Miss Lian Jane<br>
 Mr Fahmie Bin Ali Abdat
 </td>
-<td style="text-align:center; border: 1px solid #dddfe1;font-family:Open Sans;">
+<td style="text-align:center; border: 1px solid #dddfe1;font-family:Tahoma;">
 lian_jane@moe.edu.sg<br>
 fahmie_ali_abdat@moe.edu.sg
 </td>
@@ -600,13 +600,13 @@ fahmie_ali_abdat@moe.edu.sg
 	
 <tr>
 <td style="text-align:center; border: 1px solid #dddfe1;">
-<strong style="font-family:Open Sans;">Integrity 6</strong>
+<strong style="font-family:Tahoma;">Integrity 6</strong>
 </td>
-<td style="text-align:center; border: 1px solid #dddfe1;font-family:Open Sans;">
+<td style="text-align:center; border: 1px solid #dddfe1;font-family:Tahoma;">
 Mr Nicholas Ng Pit Shen <br>
 Mdm Cheng Liangyu
 </td>
-<td style="text-align:center; border: 1px solid #dddfe1;font-family:Open Sans;">
+<td style="text-align:center; border: 1px solid #dddfe1;font-family:Tahoma;">
 ng_pit_shen@moe.edu.sg<br>
 cheng_liangyu@moe.edu.sg
 </td>
@@ -614,13 +614,13 @@ cheng_liangyu@moe.edu.sg
 	
 <tr>
 <td style="text-align:center; border: 1px solid #dddfe1;">
-<strong style="font-family:Open Sans;">Integrity 7</strong>
+<strong style="font-family:Tahoma;">Integrity 7</strong>
 </td>
-<td style="text-align:center; border: 1px solid #dddfe1;font-family:Open Sans;">
+<td style="text-align:center; border: 1px solid #dddfe1;font-family:Tahoma;">
 Mdm Halimah Bte Mohamed Harris<br>
 Miss Ong Geok Leng
 </td>
-<td style="text-align:center; border: 1px solid #dddfe1;font-family:Open Sans;">
+<td style="text-align:center; border: 1px solid #dddfe1;font-family:Tahoma;">
 halimah_mohamed_harris@moe.edu.sg<br>
 ong_geok_leng@moe.edu.sg
 </td>
@@ -628,13 +628,13 @@ ong_geok_leng@moe.edu.sg
 	
 <tr>
 <td style="text-align:center; border: 1px solid #dddfe1;">
-<strong style="font-family:Open Sans;">Integrity 8</strong>
+<strong style="font-family:Tahoma;">Integrity 8</strong>
 </td>
-<td style="text-align:center; border: 1px solid #dddfe1;font-family:Open Sans;">
+<td style="text-align:center; border: 1px solid #dddfe1;font-family:Tahoma;">
 Mdm Lu Yitong<br>
 Miss Wong Li Ching
 </td>
-<td style="text-align:center; border: 1px solid #dddfe1;font-family:Open Sans;">
+<td style="text-align:center; border: 1px solid #dddfe1;font-family:Tahoma;">
 lu_yitong@moe.edu.sg<br>
 wong_li_ching_c@moe.edu.sg
 </td>
@@ -642,13 +642,13 @@ wong_li_ching_c@moe.edu.sg
 	
 <tr>
 <td style="text-align:center; border: 1px solid #dddfe1;">
-<strong style="font-family:Open Sans;">Integrity 9</strong>
+<strong style="font-family:Tahoma;">Integrity 9</strong>
 </td>
-<td style="text-align:center; border: 1px solid #dddfe1;font-family:Open Sans;">
+<td style="text-align:center; border: 1px solid #dddfe1;font-family:Tahoma;">
 Mr Lee Kwang Ming<br>
 Miss Jaime Toh Guek Peng 
 </td>
-<td style="text-align:center; border: 1px solid #dddfe1;font-family:Open Sans;">
+<td style="text-align:center; border: 1px solid #dddfe1;font-family:Tahoma;">
 lee_kwang_ming@moe.edu.sg<br>
 jaime_toh_guek_peng@moe.edu.sg
 </td>
@@ -658,15 +658,15 @@ jaime_toh_guek_peng@moe.edu.sg
 </div>
 </li>
 
-<li><input id="accordion5" type="checkbox"> <label for="accordion5" style="font-family:Open Sans;">Secondary 4/5 Classes 2022</label>
+<li><input id="accordion5" type="checkbox"> <label for="accordion5" style="font-family:Tahoma;">Secondary 4/5 Classes 2022</label>
 <div>
 <table border="1" style="width:100%">
 <thead style="background-color: #54585d; font-weight: bold; font-size: 15.5px; border: 1px solid #54585d; ">
 
 <tr>
-<td style="text-align:center;color:white; width:20%;font-family:Open Sans;">Designation</td>
-<td style="text-align:center; color:white;width:42%;font-family:Open Sans;">Name</td>
-<td style="text-align:center; color:white;width:38%;">Email</td>
+<td style="text-align:center;color:white; width:20%;font-family:Tahoma;">Designation</td>
+<td style="text-align:center; color:white;width:42%;font-family:Tahoma;">Name</td>
+<td style="text-align:center; color:white;width:38%;font-family:Tahoma;">Email</td>
 </tr>
 </thead>
 	
@@ -674,13 +674,13 @@ jaime_toh_guek_peng@moe.edu.sg
 	
 <tr>
 <td style="text-align:center; border: 1px solid #dddfe1;">
-<strong style="font-family:Open Sans;">Diligence 1</strong>
+<strong style="font-family:Tahoma;">Dare 1</strong>
 </td>
-<td style="text-align:center; border: 1px solid #dddfe1;font-family:Open Sans;">
+<td style="text-align:center; border: 1px solid #dddfe1;font-family:Tahoma;">
 Miss Lee Sixian<br>
 Mr Tan Aik Fong
 </td>
-<td style="text-align:center; border: 1px solid #dddfe1;font-family:Open Sans;">
+<td style="text-align:center; border: 1px solid #dddfe1;font-family:Tahoma;">
 lee_sixian@moe.edu.sg<br>
 tan_aik_fong@moe.edu.sg
 </td>
@@ -688,13 +688,13 @@ tan_aik_fong@moe.edu.sg
 		
 <tr>
 <td style="text-align:center; border: 1px solid #dddfe1;">
-<strong style="font-family:Open Sans;">Diligence 2</strong>
+<strong style="font-family:Tahoma;">Dare  2</strong>
 </td>
-<td style="text-align:center; border: 1px solid #dddfe1;font-family:Open Sans;">
+<td style="text-align:center; border: 1px solid #dddfe1;font-family:Tahoma;">
 Miss Nur Syairah Bte Azahari<br>
 Miss Oh Yi Qi Dora
 </td>
-<td style="text-align:center; border: 1px solid #dddfe1;font-family:Open Sans;">
+<td style="text-align:center; border: 1px solid #dddfe1;font-family:Tahoma;">
 nur_syairah_azahari@moe.edu.sg<br>
 oh_yi_qi_dora@moe.edu.sg
 </td>
@@ -702,13 +702,13 @@ oh_yi_qi_dora@moe.edu.sg
 		
 <tr>
 <td style="text-align:center; border: 1px solid #dddfe1;">
-<strong style="font-family:Open Sans;">Diligence 3</strong>
+<strong style="font-family:Tahoma;">Dare  3</strong>
 </td>
-<td style="text-align:center; border: 1px solid #dddfe1;font-family:Open Sans;">
+<td style="text-align:center; border: 1px solid #dddfe1;font-family:Tahoma;">
 Mdm Ong Bee Bee<br>
 Mdm Nurull Dzarifa Bte Othman Z
 </td>
-<td style="text-align:center; border: 1px solid #dddfe1;font-family:Open Sans;">
+<td style="text-align:center; border: 1px solid #dddfe1;font-family:Tahoma;">
 ong_bee_bee@moe.edu.sg<br>
 nurull_dzarifa_othman_z@moe.edu.sg
 </td>
@@ -716,13 +716,13 @@ nurull_dzarifa_othman_z@moe.edu.sg
 		
 <tr>
 <td style="text-align:center; border: 1px solid #dddfe1;">
-<strong style="font-family:Open Sans;">Diligence 4</strong>
+<strong style="font-family:Tahoma;">Dare  4</strong>
 </td>
-<td style="text-align:center; border: 1px solid #dddfe1;font-family:Open Sans;">
+<td style="text-align:center; border: 1px solid #dddfe1;font-family:Tahoma;">
 Mr Huang Weiqiang<br>
 Mdm Afizah Binte Shaik Abdul Rahim
 </td>
-<td style="text-align:center; border: 1px solid #dddfe1;font-family:Open Sans;">
+<td style="text-align:center; border: 1px solid #dddfe1;font-family:Tahoma;">
 huang_weiqiang@moe.edu.sg<br>
 afizah_shaik_abdul_rahim@moe.edu.sg
 </td>
@@ -730,13 +730,13 @@ afizah_shaik_abdul_rahim@moe.edu.sg
 		
 <tr>
 <td style="text-align:center; border: 1px solid #dddfe1;">
-<strong style="font-family:Open Sans;">Diligence 5</strong>
+<strong style="font-family:Tahoma;">Dare 5</strong>
 </td>
-<td style="text-align:center; border: 1px solid #dddfe1;font-family:Open Sans;">
+<td style="text-align:center; border: 1px solid #dddfe1;font-family:Tahoma;">
 Mr Neo Peck Wee Joel <br>Ms Ari Sutanti Bte Haji Mispan
 
 </td>
-<td style="text-align:center; border: 1px solid #dddfe1;font-family:Open Sans;">
+<td style="text-align:center; border: 1px solid #dddfe1;font-family:Tahoma;">
 neo_peck_wee_joel@moe.edu.sg<br>
 ari_sutanti_haji_mispan@moe.edu.sg
 </td>
@@ -744,13 +744,13 @@ ari_sutanti_haji_mispan@moe.edu.sg
 		
 <tr>
 <td style="text-align:center; border: 1px solid #dddfe1;">
-<strong style="font-family:Open Sans;">Diligence 6</strong>
+<strong style="font-family:Tahoma;">Dare 6</strong>
 </td>
-<td style="text-align:center; border: 1px solid #dddfe1;font-family:Open Sans;">
+<td style="text-align:center; border: 1px solid #dddfe1;font-family:Tahoma;">
 Ms Shangeetha Devi D/O Panesilvam<br>
 Mr Yeo Wei Qiang Kenneth
 </td>
-<td style="text-align:center; border: 1px solid #dddfe1;font-family:Open Sans;">
+<td style="text-align:center; border: 1px solid #dddfe1;font-family:Tahoma;">
 shangeetha_devi_panesilvam@moe.edu.sg<br>
 kenneth_yeo_wei_qiang@moe.edu.sg
 </td>
@@ -758,13 +758,13 @@ kenneth_yeo_wei_qiang@moe.edu.sg
 	
 <tr>
 <td style="text-align:center; border: 1px solid #dddfe1;">
-<strong style="font-family:Open Sans;">Diligence 7</strong>
+<strong style="font-family:Tahoma;">Dare 7</strong>
 </td>
-<td style="text-align:center; border: 1px solid #dddfe1;font-family:Open Sans;">
+<td style="text-align:center; border: 1px solid #dddfe1;font-family:Tahoma;">
 Miss Nordiana Bte Abbas<br>
 Mr Yang Chuanzhi
 </td>
-<td style="text-align:center; border: 1px solid #dddfe1;font-family:Open Sans;">
+<td style="text-align:center; border: 1px solid #dddfe1;font-family:Tahoma;">
 nordiana_abbas@moe.edu.sg<br>
 yang_chuanzhi@moe.edu.sg
 </td>
@@ -772,13 +772,13 @@ yang_chuanzhi@moe.edu.sg
 		
 <tr>
 <td style="text-align:center; border: 1px solid #dddfe1;">
-<strong style="font-family:Open Sans;">Diligence 8</strong>
+<strong style="font-family:Tahoma;">Dare 8</strong>
 </td>
-<td style="text-align:center; border: 1px solid #dddfe1;font-family:Open Sans;">
+<td style="text-align:center; border: 1px solid #dddfe1;font-family:Tahoma;">
 Mrs Kamini Lam<br>
 Miss Tang Wai Sim Wendy
 </td>
-<td style="text-align:center; border: 1px solid #dddfe1;font-family:Open Sans;">
+<td style="text-align:center; border: 1px solid #dddfe1;font-family:Tahoma;">
 kamini_lam@moe.edu.sg<br>
 tang_wai_sim_wendy@moe.edu.sg
 </td>
@@ -786,12 +786,12 @@ tang_wai_sim_wendy@moe.edu.sg
 		
 <tr>
 <td style="text-align:center; border: 1px solid #dddfe1;">
-<strong style="font-family:Open Sans;">Excellence 1</strong>
+<strong style="font-family:Tahoma;">Excellence 1</strong>
 </td>
-<td style="text-align:center; border: 1px solid #dddfe1; font-family:Open Sans;">
+<td style="text-align:center; border: 1px solid #dddfe1; font-family:Tahoma;">
 Mr Lim Guat Hong<br>
 </td>
-<td style="text-align:center; border: 1px solid #dddfe1;font-family:Open Sans;">
+<td style="text-align:center; border: 1px solid #dddfe1;font-family:Tahoma;">
 lim_guat_hong@moe.edu.sg<br>
 </td>
 </tr>
