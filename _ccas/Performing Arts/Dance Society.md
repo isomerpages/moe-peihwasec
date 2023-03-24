@@ -4,16 +4,16 @@ permalink: /ccas/performing-arts/dance/
 description: ""
 third_nav_title: Performing Arts
 ---
-<p style="font-size:14.5px; line-height:2;font-family:Open Sans;"><strong style="font-family:Open Sans;">Pei Hwa Dance Society</strong> seeks to provide opportunities for students to explore their dance abilities and artistic expressions. We encourage students to explore various forms of dance through our two dance groups &ndash; Modern Dance and Chinese Dance. We endeavour to cultivate an appreciation for the arts in each of our students. In their journey as Pei Hwa dancers, students will learn the importance of teamwork through performing in an ensemble, resilience and perseverance through their dance practices, and discipline through our dance methodology.</p>
+<p style="font-size:14.5px; line-height:2;font-family:Tahoma;"><strong style="font-family:Tahoma;">Pei Hwa Dance Society</strong> seeks to provide opportunities for students to explore their dance abilities and artistic expressions. We encourage students to explore various forms of dance through our two dance groups &ndash; Modern Dance and Chinese Dance. We endeavour to cultivate an appreciation for the arts in each of our students. In their journey as Pei Hwa dancers, students will learn the importance of teamwork through performing in an ensemble, resilience and perseverance through their dance practices, and discipline through our dance methodology.</p>
 
-<h4 style="color:#635f1a;font-weight:bold;font-family:Open Sans;">Achievements</h4>
-<p style="font-size:14.5px; line-height:2;margin-top:15px; font-family:Open Sans">Pei Hwa Dance Society has been a consistent participant at the Singapore Youth Festival Arts Presentation. In our most recent entry, we successfully achieved Certificates of Distinction for the International and Chinese Dance categories.</p>
+<h4 style="color:#635f1a;">Achievements</h4>
+<p style="font-size:14.5px; line-height:2;margin-top:15px; font-family:Tahoma;">Pei Hwa Dance Society has been a consistent participant at the Singapore Youth Festival Arts Presentation. In our most recent entry, we successfully achieved Certificates of Distinction for the International and Chinese Dance categories.</p>
 
 <table border="1" style="border-collapse: collapse;margin: 25px 0;font-size:15px;font-family: sans-serif;box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);">
 <thead style="background-color: #009879; font-weight: bold; font-size: 15.5px;">
 <tr>
-				<td style="text-align:left;color:white;font-family:Open Sans;">Year of Competition</td>
-				<td style="text-align:left;color:white;font-family:Open Sans;">Achievement</td>
+				<td style="text-align:left;color:white;Tahoma;;">Year of Competition</td>
+				<td style="text-align:left;color:white;font-family:Tahoma;">Achievement</td>
 			</tr>
 </thead>
 
@@ -22,9 +22,9 @@ third_nav_title: Performing Arts
 
 <tr style="font-size:15px;">
 		<td>
-			<strong style="font-family:Open Sans;">2019</strong>
+			<strong style="font-family:Tahoma;">2019</strong>
 		</td>
-		<td style="font-size:14.5px; line-height:2;font-family:Open Sans;">
+		<td style="font-size:14.5px; line-height:2;font-family:Tahoma;">
 				&#8226; Certificate of Distinction (International Dance)<br>
 				&#8226; Certificate of Distinction (Chinese Dance)<br>
 		</td>
@@ -32,9 +32,9 @@ third_nav_title: Performing Arts
 									
 <tr style="background-color:#f3f3f3; font-size:14.5px;">
 		<td>
-			<strong style="font-family:Open Sans;">2017</strong>
+			<strong style="font-family:Tahoma;">2017</strong>
 		</td>
-		<td style="font-size:14.5px; line-height:2;font-family:Open Sans;">
+		<td style="font-size:14.5px; line-height:2;font-family:Tahoma;">
 				&#8226; Certificate of Accomplishment (International Dance)<br>
 				&#8226; Certificate of Accomplishment (Malay Dance)<br>
 				&#8226; Certificate of Accomplishment (Chinese Dance)<br>
@@ -43,9 +43,9 @@ third_nav_title: Performing Arts
 	
 <tr style="font-size:14.5px;">
 		<td>
-			<strong style="font-family:Open Sans;">2015</strong>
+			<strong style="font-family:Tahoma;">2015</strong>
 		</td>
-		<td style="font-size:14.5px; line-height:2;font-family:Open Sans;">
+		<td style="font-size:14.5px; line-height:2;font-family:Tahoma;">
 				&#8226; Certificate of Accomplishment (International Dance)<br>
 				&#8226; Certificate of Accomplishment (Malay Dance)<br>
 				&#8226; Certificate of Accomplishment (Chinese Dance)<br>
@@ -54,9 +54,9 @@ third_nav_title: Performing Arts
 									
 <tr style="background-color:#f3f3f3;border-bottom: 2px solid #009879;font-size:14.5px;">
 		<td>
-			<strong style="font-family:Open Sans;">2013</strong>
+			<strong style="font-family:Tahoma;">2013</strong>
 		</td>
-		<td style="font-size:14.5px; line-height:2;font-family:Open Sans;">
+		<td style="font-size:14.5px; line-height:2;font-family:Tahoma;">
 				&#8226; Certificate of Accomplishment (International Dance)<br>
 				&#8226; Certificate of Accomplishment (Malay Dance)<br>
 				&#8226; Certificate of Accomplishment (Chinese Dance)<br>
@@ -66,9 +66,9 @@ third_nav_title: Performing Arts
 </tbody>
 </table>
 	
-<p style="margin-top:15px;font-size:14.5px; line-height:2;font-family:Open Sans;">Apart from participating in national dance competitions, Pei Hwa Dance Society also actively performs in school and community events. We believe in providing ample opportunities for students to showcase their dance abilities.</p>
+<p style="margin-top:15px;font-size:14.5px; line-height:2; font-family:Tahoma;">Apart from participating in national dance competitions, Pei Hwa Dance Society also actively performs in school and community events. We believe in providing ample opportunities for students to showcase their dance abilities.</p>
 
-<h4 style="color:#635f1a;font-weight:bold;font-family:Open Sans;">School and Community Performances (2019-2020)</h4>
+<h4 style="color:#635f1a;">School and Community Performances (2019-2020)</h4>
 
 <ul style="margin-top:5px;">
 		<li style="font-size:14.5px; line-height:2;font-family:Open Sans;">CCA Fiesta</li>
