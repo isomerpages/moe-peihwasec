@@ -7,96 +7,96 @@ third_nav_title: Sports & Games
 <img src="/images/wushu1.png">
 
 
-<p style="font-size:14.5px; line-height:2;font-family:Open Sans;"><strong style="font-family:Open Sans;">Pei Hwa Wushu</strong> focuses on developing students&rsquo; confidence in body expressions through a vigorous attention on the strengthening of body and mind. The practice of contemporary Chinese martial arts combines elements of performance and martial application. Think of it as a blend of performing arts and sports!</p>
+<p style="font-size:14.5px; line-height:2;font-family:Tahoma;"><strong style="font-family:Tahoma;">Pei Hwa Wushu</strong> focuses on developing students&rsquo; confidence in body expressions through a vigorous attention on the strengthening of body and mind. The practice of contemporary Chinese martial arts combines elements of performance and martial application. Think of it as a blend of performing arts and sports!</p>
 
-<h4 style="color:#635f1a;font-weight:bold;font-family:Open Sans;">Student Outcomes</h4>
+<h4 style="color:#635f1a;">Student Outcomes</h4>
 
-<p style="font-size:14.5px; line-height:2;margin-top:15px; font-family:Open Sans">The CCA will enable our students to:</p>
+<p style="font-size:14.5px; line-height:2;margin-top:15px; font-family:Tahoma;">The CCA will enable our students to:</p>
 
 <ul style="margin-top:5px">
-<li style="font-size:14.5px; line-height:2;font-family:Open Sans;"> develop confidence in body expressions and movements</li>
-<li style="font-size:14.5px; line-height:2;font-family:Open Sans;"> develop healthy lifestyles and habits</li>
-<li style="font-size:14.5px; line-height:2;font-family:Open Sans;"> learn and apply Wushu and School’s values</li>
-<li style="font-size:14.5px; line-height:2;font-family:Open Sans;"> develop a sense of community and teamwork through the focus on team events</li>
+<li style="font-size:14.5px; line-height:2;font-family:Tahoma;"> develop confidence in body expressions and movements</li>
+<li style="font-size:14.5px; line-height:2;font-family:Tahoma;"> develop healthy lifestyles and habits</li>
+<li style="font-size:14.5px; line-height:2;font-family:Tahoma;"> learn and apply Wushu and School’s values</li>
+<li style="font-size:14.5px; line-height:2;font-family:Tahoma;"> develop a sense of community and teamwork through the focus on team events</li>
 </ul>
 	
-<h4 style="color:#635f1a;font-weight:bold;font-family:Open Sans;">Achievements</h4>
+<h4 style="color:#635f1a;font-weight:bold;font-family:Tahoma;">Achievements</h4>
 
 <table border="1" style="border-collapse: collapse;margin: 25px 0;font-size:14.5px;font-family: sans-serif;box-shadow: 0 0 20px rgba(0, 0, 0, 0.15); width:100%;">
 <thead style="background-color: #009879; font-weight: bold; font-size: 15.5px;">
 <tr>
-				<td style="text-align:left;color:white; width:30%;font-family:Open Sans;">Year of Competition</td>
-				<td style="text-align:left;color:white;font-family:Open Sans;">Achievements</td>
+				<td style="text-align:left;color:white; width:30%;font-family:Tahoma;">Year of Competition</td>
+				<td style="text-align:left;color:white;font-family:Tahoma;">Achievements</td>
 			</tr>
 </thead>
 	
 <tbody>
 <tr style="font-size:14.5px;">
-		<td><strong style="font-family:Open Sans;">2022</strong></td>
+		<td><strong style="font-family:Tahoma;">2022</strong></td>
 		<td style="margin-bottom:-10px;">
-			<strong style="font-family:Open Sans;">National School Games Wushu Championships 2022</strong>
+			<strong style="font-family:Tahoma;">National School Games Wushu Championships 2022</strong>
 			<br>
 			<ul>
-				<li style="font-size:14.5px;margin-bottom:-13px;margin-top:-10px;font-family:Open Sans;">Gold (1<sup style="font-family:Open Sans;">st</sup>)</li>
+				<li style="font-size:14.5px;margin-bottom:-13px;margin-top:-10px;font-family:Tahoma;">Gold (1<sup style="font-family:Open Sans;">st</sup>)</li>
 			    	<ul>
-						<li style="font-size:14.5px;margin-bottom:-13px;margin-top:-10px;font-family:Open Sans;">Cudgel (2<sup style="font-family:Open Sans;">nd</sup> Intl) – Lim Dian Kai Cedric</li>
+						<li style="font-size:14.5px;margin-bottom:-13px;margin-top:-10px;font-family:Tahoma;">Cudgel (2<sup style="font-family:Tahoma;">nd</sup> Intl) – Lim Dian Kai Cedric</li>
 					</ul>
-				<li style="font-size:14.5px;margin-bottom:-13px;margin-top:-10px;font-family:Open Sans;">Bronze (3<sup style="font-family:Open Sans;">rd</sup>)</li>
+				<li style="font-size:14.5px;margin-bottom:-13px;margin-top:-10px;font-family:Tahoma;">Bronze (3<sup style="font-family:Tahoma;">rd</sup>)</li>
 					<ul>
-						<li style="font-size:14.5px;margin-bottom:-13px;margin-top:-10px;font-family:Open Sans;">Nanquan (1<sup style="font-family:Open Sans;">st</sup> Intl) – Winona Cai Xuanyu</li>
-						<li style="font-size:14.5px;margin-bottom:5px;font-family:Open Sans;">Nandao (1<sup style="font-family:Open Sans;">st</sup> Intl) – Winona Cai Xuanyu</li>
+						<li style="font-size:14.5px;margin-bottom:-13px;margin-top:-10px;font-family:Tahoma;">Nanquan (1<sup style="font-family:Tahoma;">st</sup> Intl) – Winona Cai Xuanyu</li>
+						<li style="font-size:14.5px;margin-bottom:5px;font-family:Tahoma;">Nandao (1<sup style="font-family:Tahoma;">st</sup> Intl) – Winona Cai Xuanyu</li>
 					</ul>
 			</ul>
 		</td>
 </tr>
 
 <tr style="background-color:#f3f3f3;font-size:14.5px;">
-		<td ><strong style="font-family:Open Sans;">2021</strong></td>
+		<td ><strong style="font-family:Tahoma;">2021</strong></td>
 		<td style="font-size:14.5px;margin-bottom:-10px;">
-			<strong style="font-family:Open Sans;">National School Games Wushu Championships 2021</strong>
+			<strong style="font-family:Tahoma;">National School Games Wushu Championships 2021</strong>
 			<br>
 			<ul>
-				<li style="font-size:14.5px;margin-bottom:-13px;margin-top:-10px;font-family:Open Sans;">Gold (1<sup style="font-family:Open Sans;">st</sup>)</li>
+				<li style="font-size:14.5px;margin-bottom:-13px;margin-top:-10px;font-family:Tahoma;">Gold (1<sup style="font-family:Tahoma;">st</sup>)</li>
 			    	<ul>
-						<li style="font-size:14.5px;margin-bottom:-13px;margin-top:-10px;font-family:Open Sans;">Spear (2<sup style="font-family:Open Sans;">nd</sup> Intl) - Ethan Chow</li>
+						<li style="font-size:14.5px;margin-bottom:-13px;margin-top:-10px;font-family:Tahoma;">Spear (2<sup style="font-family:Tahoma;">nd</sup> Intl) - Ethan Chow</li>
 					</ul>
-				<li style="font-size:14.5px;margin-bottom:-13px;margin-top:-10px;font-family:Open Sans;">Gold (2<sup style="font-family:Open Sans;">nd</sup>)</li>
+				<li style="font-size:14.5px;margin-bottom:-13px;margin-top:-10px;font-family:Tahoma;">Gold (2<sup style="font-family:Tahoma;">nd</sup>)</li>
 					<ul>
-						<li style="font-size:14.5px;margin-bottom:5px;margin-top:-10px;font-family:Open Sans;">Broadsword (2<sup style="font-family:Open Sans;">nd</sup> Intl) - Lim Dian Kai Cedric</li>
+						<li style="font-size:14.5px;margin-bottom:5px;margin-top:-10px;font-family:Tahoma;">Broadsword (2<sup style="font-family:Tahoma;">nd</sup> Intl) - Lim Dian Kai Cedric</li>
 					</ul>
 			</ul>
 		</td>
 </tr>
 	
 <tr style="font-size:14.5px;">
-		<td><strong style="font-family:Open Sans;">2019</strong></td>
+		<td><strong style="font-family:Tahoma;">2019</strong></td>
 		<td style="font-size:14.5px;margin-bottom:-10px;">
-			<strong style="font-family:Open Sans;">National School Games Wushu Championships 2019</strong>
+			<strong style="font-family:Tahoma;">National School Games Wushu Championships 2019</strong>
 		<br>
 			<ul>
-				<li style="font-size:14.5px;margin-bottom:-13px;margin-top:-10px;font-family:Open Sans;">Gold (1<sup style="font-family:Open Sans;">st</sup>)</li>
+				<li style="font-size:14.5px;margin-bottom:-13px;margin-top:-10px;font-family:Tahoma;">Gold (1<sup style="font-family:Tahoma;">st</sup>)</li>
 			    	<ul>
-						<li style="font-size:14.5px;margin-bottom:-13px;margin-top:-10px;font-family:Open Sans;">Formulated 5-Duan Sword – Lim Dian Kai Cedric</li>
+						<li style="font-size:14.5px;margin-bottom:-13px;margin-top:-10px;font-family:Tahoma;">Formulated 5-Duan Sword – Lim Dian Kai Cedric</li>
 					</ul>
 			</ul>
-		<strong style="font-family:Open Sans;">National Wushu &amp; Sanda Championships 2019</strong>
+		<strong style="font-family:Tahoma;">National Wushu &amp; Sanda Championships 2019</strong>
 		<br>
 		<ul>
 				<li style="font-size:14.5px;margin-bottom:-13px;margin-top:-10px;font-family:Open Sans;">Gold</li>
 			    	<ul>
-						<li style="font-size:14.5px;margin-bottom:-13px;margin-top:-10px;font-family:Open Sans;">Group Quanshu – B Boys</li>
-						<li style="font-size:14.5px;margin-bottom:-13px;margin-top:-10px;font-family:Open Sans;">Group Quanshu – B Girls</li>
+						<li style="font-size:14.5px;margin-bottom:-13px;margin-top:-10px;font-family:Tahoma;">Group Quanshu – B Boys</li>
+						<li style="font-size:14.5px;margin-bottom:-13px;margin-top:-10px;Tahoma;">Group Quanshu – B Girls</li>
 					</ul>
-				<li style="font-size:14.5px;margin-bottom:-13px;margin-top:-10px;font-family:Open Sans;">Silver</li>
+				<li style="font-size:14.5px;margin-bottom:-13px;margin-top:-10px;font-family:Tahoma;">Silver</li>
 					<ul>
-						<li style="font-size:14.5px;margin-bottom:-13px;margin-top:-10px;font-family:Open Sans;">Spear (1<sup style="font-family:Open Sans;">st</sup> Intl) – Ethan Chow</li>
-						<li style="font-size:14.5px;margin-bottom:-13px;margin-top:-10px;font-family:Open Sans;">Spear (1<sup style="font-family:Open Sans;">st</sup> Intl) – Wong Woan Xiu</li>
-						<li style="font-size:14.5px;margin-bottom:-13px;margin-top:-10px;font-family:Open Sans;">Group Quanshu – C Boys</li>
+						<li style="font-size:14.5px;margin-bottom:-13px;margin-top:-10px;font-family:Tahoma;">Spear (1<sup style="font-family:Tahoma;">st</sup> Intl) – Ethan Chow</li>
+						<li style="font-size:14.5px;margin-bottom:-13px;margin-top:-10px;font-family:Tahoma;">Spear (1<sup style="font-family:Tahoma;">st</sup> Intl) – Wong Woan Xiu</li>
+						<li style="font-size:14.5px;margin-bottom:-13px;margin-top:-10px;font-family:Tahoma;">Group Quanshu – C Boys</li>
 					</ul>
-				<li style="font-size:14.5px;margin-bottom:-13px;margin-top:-10px;font-family:Open Sans;">Bronze</li>
+				<li style="font-size:14.5px;margin-bottom:-13px;margin-top:-10px;font-family:Tahoma;">Bronze</li>
 					<ul>
-						<li style="font-size:14.5px;margin-bottom:-13px;margin-top:-10px;font-family:Open Sans;">Nan Gun, Nan Dao, Nan Quan – Ryan Ang Liheng</li>
-						<li style="font-size:14.5px;margin-bottom:-13px;margin-top:-10px;font-family:Open Sans;">Changquan (2<sup style="font-family:Open Sans;">nd</sup> Intl) – Loke Jing Yong Leroy</li>
+						<li style="font-size:14.5px;margin-bottom:-13px;margin-top:-10px;font-family:Tahoma;">Nan Gun, Nan Dao, Nan Quan – Ryan Ang Liheng</li>
+						<li style="font-size:14.5px;margin-bottom:-13px;margin-top:-10px;font-family:Tahoma;">Changquan (2<sup style="font-family:Tahoma;">nd</sup> Intl) – Loke Jing Yong Leroy</li>
 						<li style="font-size:14.5px;margin-bottom:5px;margin-top:-10px;font-family:Open Sans;">Broad Sword (1<sup style="font-family:Open Sans;">st</sup> Intl) – Dalsten Chow Cheng Jun</li>
 					</ul>
 			</ul>
@@ -104,7 +104,7 @@ third_nav_title: Sports & Games
 </tr>
 	
 <tr style="border-bottom: 2px solid #009879; font-size:14.5px;background-color:#f3f3f3;">
-		<td><strong style="font-family:Open Sans;">2018</strong></td>
+		<td><strong style="font-family:Tahoma;">2018</strong></td>
 		<td style="font-size:14.5px;margin-bottom:-10px;">
 			<strong style="font-family:Open Sans;">National School Games Wushu Championships 2018</strong>
 			<br>
