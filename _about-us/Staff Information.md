@@ -203,18 +203,18 @@ lee_wei_ying@moe.edu.sg
 
 <tr>
 <td style="text-align:center; border: 1px solid #dddfe1;">
-<strong style="font-family:Tahoma;">SH Student Leadership</strong>
+<strong style="font-family:sans-serif;">SH Student Leadership</strong>
 </td>
-<td style="text-align:center; border: 1px solid #dddfe1;font-family:Tahoma;">Ms Chan Xin Hui Michelle (Mrs Jonathan)</td>
-<td style="text-align:center; border: 1px solid #dddfe1;font-family:Tahoma;">chan_xin_hui_michelle@schools.gov.sg</td>
+<td style="text-align:center; border: 1px solid #dddfe1;font-family:sans-serif;">Ms Chan Xin Hui Michelle (Mrs Jonathan)</td>
+<td style="text-align:center; border: 1px solid #dddfe1;font-family:sans-serif;">chan_xin_hui_michelle@schools.gov.sg</td>
 </tr>
 		
 <tr>
 <td style="text-align:center; border: 1px solid #dddfe1;">
-<strong style="font-family:Tahoma;">SH Mathematics</strong>
+<strong style="font-family:sans-serif;">SH Mathematics</strong>
 </td>
-<td style="text-align:center; border: 1px solid #dddfe1;font-family:Tahoma;">Mdm Oh Shu Ying Serene</td>
-<td style="text-align:center; border: 1px solid #dddfe1;font-family:Tahoma;">oh_shu_ying_serene@moe.edu.sg</td>
+<td style="text-align:center; border: 1px solid #dddfe1;font-family:sans-serif;">Mdm Oh Shu Ying Serene</td>
+<td style="text-align:center; border: 1px solid #dddfe1;font-family:sans-serif;">oh_shu_ying_serene@moe.edu.sg</td>
 </tr>
 		
 <tr>
