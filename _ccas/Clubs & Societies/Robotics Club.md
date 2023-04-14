@@ -143,7 +143,7 @@ Tay Kai Wen, Bryan (4D1), Lai Le Xin Grace (3I4), Ain Myeisha Arman (3I1), Chang
 </table>
 
 	
-<h4 style="color:#635f1a;">Competitions and CCA Activities</h4>
+<h4 style="color:#635f1a;font-family:sans-serif;">Competitions and CCA Activities</h4>
 
 <ol style="margin-top:5px">
 <li style="font-size:14.5px; line-height:2;font-family:sans-serif;">Robocup Singapore Open (Cospace Rescue, Cospace Grand Prix, OnStage)</li>
@@ -158,7 +158,7 @@ Tay Kai Wen, Bryan (4D1), Lai Le Xin Grace (3I4), Ain Myeisha Arman (3I1), Chang
 </ol>
 	
 
-<h4 style="color:#635f1a;margin-bottom:-25px;">Student Testament</h4>
+<h4 style="color:#635f1a;margin-bottom:-25px;font-family:sans-serif;">Student Testament</h4>
 <blockquote style="font-size: 14.5px;
   width:100%;
   margin:50px auto;
