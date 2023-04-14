@@ -119,7 +119,7 @@ third_nav_title: Clubs &amp; Societies
   position: relative;
   background:#EDEDED;">
   “It has been an honour serving as the president of Pei Hwa Art Council. PHAC has enabled me to develop my artistic and creative skills through trying out different mediums and artforms such as watercolour, digital media and ceramics. The process of creating an artwork is thrilling and I feel a great sense of accomplishment when I complete a piece, especially when I can bring it home for keepsake. PHAC has allowed me to use my creativity in other ways to develop my leadership skills like planning games and activities for my CCA mates. It’s great to see everyone having fun and bonding together at PHAC.”<img style="width:40%; height:auto; margin-top:15px;" src="/images/phac4.jpg">
-  <span style="display:block; color:#333333; margin-top:1em;font-size:15px;">Tan Si Hui Nicole, 4D8,&nbsp;<em>PHAC President of PHAC 2020-21</em></span>
+  <span style="display:block; color:#333333; margin-top:1em;font-size:15px;font-family:sans-serif;">Tan Si Hui Nicole, 4D8,&nbsp;<em style="font-family:sans-serif;">PHAC President of PHAC 2020-21</em></span>
 </blockquote>
 
 
@@ -135,7 +135,7 @@ third_nav_title: Clubs &amp; Societies
   position: relative;
   background:#EDEDED;">
   “Pei Hwa Art Council exposed me to multiple forms of art such as ceramics, watercolour and digital drawings. I enjoyed being able to host a bunch of activities and games for my members to enjoy and seeing them have fun while being able to hone their artistic abilities. Being in PHAC not only helped me improve in Art, but also it helped me to grow as a leader too.”<img style="width:40%; height:40%; margin-top:15px;" src="/images/phac5.jpg">
-  <span style="display:block; color:#333333; margin-top:1em;font-size:15px;">Ong Zirui, Jesserel, 4D6, <em>PHAC Treasurer 2020-21</em></span>
+  <span style="display:block; color:#333333; margin-top:1em;font-size:15px;font-family:sans-serif;">Ong Zirui, Jesserel, 4D6, <em style="font-family:sans-serif;">PHAC Treasurer 2020-21</em></span>
 </blockquote>
 
 
