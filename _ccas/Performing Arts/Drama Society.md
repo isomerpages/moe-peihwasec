@@ -4,76 +4,76 @@ permalink: /ccas/clubs-societies/drama-society/
 description: ""
 third_nav_title: Performing Arts
 ---
-<p style="font-size:14.5px; line-height:2;font-family:Open Sans;">The <strong>Drama Society</strong> was set up in 2014. Many of our members join Drama with little to no acting or stage presentation experience. Through the passion for the drama craft, many of our budding actors have grown to become confident artists with no fear of performing in public or taking on performing roles that are in contrast to their individual characters. Through their involvement in the many process involved in staging a show, they have grown in maturity and acting skills. We are also able to have a rich variety of experiences through various public performances at SYF, Choral Reading for the lower sec at Literature Festival and attendance at live theatre performances.</p>
+<p style="font-size:14.5px; line-height:2;font-family:sans-serif;">The <strong style="font-family:sans-serif;font-size:14.5px;">Drama Society</strong> was set up in 2014. Many of our members join Drama with little to no acting or stage presentation experience. Through the passion for the drama craft, many of our budding actors have grown to become confident artists with no fear of performing in public or taking on performing roles that are in contrast to their individual characters. Through their involvement in the many process involved in staging a show, they have grown in maturity and acting skills. We are also able to have a rich variety of experiences through various public performances at SYF, Choral Reading for the lower sec at Literature Festival and attendance at live theatre performances.</p>
 
 <img src="/images/drama1.jpeg">
-<p style="text-align: center; font-size:13px;margin-top:5px;"><strong>Pei Hwa Drama Society</strong></p>
+<p style="text-align: center; font-size:13px;margin-top:5px;font-family:sans-serif;"><strong style="font-family:sans-serif; font-size:10px;">Pei Hwa Drama Society</strong></p>
 
-<h4 style="color:#635f1a;font-weight:bold">Student Outcomes</h4>
-<p style="font-size:14.5px; line-height:2;margin-top:15px; font-family:Open Sans">The CCA will enable our students to:</p>
+<h4 style="color:#635f1a;font-weight:bold;font-family:sans-serif;">Student Outcomes</h4>
+<p style="font-size:14.5px; line-height:2;margin-top:15px; font-family:sans-serif">The CCA will enable our students to:</p>
 <ul style="margin-top:5px;">
-		<li style="font-size:14.5px; line-height:2;font-family:Open Sans;"> attain a good level of competency in terms of Drama knowledge and skills so as to participate in competitive Drama Performances.</li>
-		<li style="font-size:14.5px; line-height:2;font-family:Open Sans;"> explain and apply their knowledge and skills pertaining to Drama and Performance.</li>
-		<li style="font-size:14.5px; line-height:2;font-family:Open Sans;"> demonstrate values of discipline, teamwork, innovation and compassion and self-motivation through Drama and performance.</li>
+		<li style="font-size:14.5px; line-height:2;font-family:sans-serif;"> attain a good level of competency in terms of Drama knowledge and skills so as to participate in competitive Drama Performances.</li>
+		<li style="font-size:14.5px; line-height:2;font-family:sans-serif;"> explain and apply their knowledge and skills pertaining to Drama and Performance.</li>
+		<li style="font-size:14.5px; line-height:2;font-family:sans-serif;"> demonstrate values of discipline, teamwork, innovation and compassion and self-motivation through Drama and performance.</li>
 </ul>
 
-<h4 style="color:#635f1a;font-weight:bold">Achievements</h4>
+<h4 style="color:#635f1a;font-weight:bold;font-family:sans-serif;">Achievements</h4>
 	
 <table border="1" style="border-collapse: collapse;margin: 25px 0;font-size:15px;font-family: sans-serif;box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);">
-<thead style="background-color: #009879; font-weight: bold; font-size: 16px;">
+<thead style="background-color: #009879; font-weight: bold; font-size: 15.5px;">
 <tr>
-				<td style="text-align:left;color:white;">Year of Competition</td>
-				<td style="text-align:left;color:white;">Attainment</td>
+				<td style="text-align:left;color:white;font-family:sans-serif;">Year of Competition</td>
+				<td style="text-align:left;color:white;font-family:sans-serif;">Attainment</td>
 			</tr>
 </thead>
 	
 <tbody>
 <tr>
-				<td><strong>2021</strong></td>
-				<td style="font-size:15px;margin-bottom:5px;">
-					<strong>SYF Arts Presentation</strong>
+				<td><strong style="font-family:sans-serif;">2021</strong></td>
+				<td style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;">
+					<strong style="font-family:sans-serif; font-size:14.5px;">SYF Arts Presentation</strong>
 					<br>
 					<ul>
-						<li style="font-size:15px;margin-bottom:5px;">Certificate of Commendation</li>
+						<li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;">Certificate of Commendation</li>
 					</ul>
 				</td>
 			</tr>
 			
 			
 <tr style="background-color: #f3f3f3;">
-				<td><strong>2019</strong></td>
-				<td style="font-size:15px;margin-bottom:5px;">
-					<strong>SYF Arts Presentation</strong>
+				<td><strong style="font-family:sans-serif;font-size:14.5px;">2019</strong></td>
+				<td style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;">
+					<strong style="font-family:sans-serif;">SYF Arts Presentation</strong>
 					<br>
 					<ul>
-						<li style="font-size:15px;margin-bottom:5px;">Certificate of Commendation</li>
+						<li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;">Certificate of Commendation</li>
 					</ul>
-					<strong>Lit Festival Choral Reading</strong>
+					<strong style="font-family:sans-serif; font-size:14.5px;">Lit Festival Choral Reading</strong>
 					<br>
 					<ul>
-						<li style="font-size:15px;margin-bottom:5px;">1<sup>st</sup> placing</li>
+						<li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;">1<sup style="font-family:sans-serif;font-size:14.5px;">st</sup> placing</li>
 					</ul>
 				</td>
 </tr>
 	
 <tr>
-				<td><strong>2018</strong></td>
-				<td style="font-size:15px;margin-bottom:5px;">
-					<strong>Lit Festival Choral Reading </strong>
+				<td><strong style="font-family:sans-serif;">2018</strong></td>
+				<td style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;">
+					<strong style="font-family:sans-serif;font-size:14.5px;">Lit Festival Choral Reading </strong>
 					<br>
 					<ul>
-						<li style="font-size:15px;margin-bottom:5px;">2<sup>nd</sup> Placing</li>
+						<li style="font-size:15px;margin-bottom:5px;font-family:sans-serif;">2<sup style="font-family:sans-serif;">nd</sup> Placing</li>
 					</ul>
 				</td>
 </tr>
 
 <tr style="background-color: #f3f3f3;">
-				<td><strong>2017</strong></td>
-				<td style="font-size:15px;margin-bottom:5px;">
-					<strong>SYF Arts Presentation</strong>
+				<td><strong style="font-family:sans-serif;">2017</strong></td>
+				<td style="font-size:15px;margin-bottom:5px;font-family:sans-serif;">
+					<strong style="font-family:sans-serif;">SYF Arts Presentation</strong>
 					<br>
 					<ul>
-						<li style="font-size:15px;margin-bottom:5px;">Certificate of Commendation</li>
+						<li style="font-size:15px;margin-bottom:5px;font-family:sans-serif;">Certificate of Commendation</li>
 					</ul>
 				</td>
 </tr>
@@ -94,43 +94,43 @@ third_nav_title: Performing Arts
 
 <h4 style="color:#635f1a;font-weight:bold">Competitions and CCA Activities</h4>
 
-<p style="font-size:14.5px; line-height:2;margin-top:15px; font-family:Open Sans">We have always believed in honing the skills of our Drama members with interactions with other schools. This provides valuable opportunities for Drama members to learn and share the love for performance with one another.</p>
+<p style="font-size:14.5px; line-height:2;margin-top:15px; font-family:sans-serif">We have always believed in honing the skills of our Drama members with interactions with other schools. This provides valuable opportunities for Drama members to learn and share the love for performance with one another.</p>
 
 <img src="/images/drama2.png" style="width: 100%;margin-top:10px;">
 <p style="text-align: center; font-size:13px;margin-top:5px;">SYF 2019</p>
 
-<img style="width: 100%;margin-top:10px;" src="/images/drama3.jpg" />
+<img style="width: 100%;margin-top:10px;" src="/images/drama3.jpg">
 <p style="text-align: center; font-size:13px;margin-top:5px;">Our SYF Performance In 2019</p>
 
-<p style="margin-top:15px;font-size:14.5px; line-height:2;font-family:Open Sans;">Since 2014, the&nbsp;Pei Hwa Dram Society has also participated and performed in many school and external performances like:</p>
+<p style="margin-top:15px;font-size:14.5px; line-height:2;font-family:sans-serif;">Since 2014, the&nbsp;Pei Hwa Dram Society has also participated and performed in many school and external performances like:</p>
 
 <ul style="margin-top:5px;">
-	<li style="font-size:14.5px; line-height:2;font-family:Open Sans;"> National Day celebrations</li>
-	<li style="font-size:14.5px; line-height:2;font-family:Open Sans;"> PHiesta</li>
-	<li style="font-size:14.5px; line-height:2;font-family:Open Sans;"> Literature Festival</li>
-	<li style="font-size:14.5px; line-height:2;font-family:Open Sans;"> Human Values competitions</li>
+	<li style="font-size:14.5px; line-height:2;font-family:sans-serif;"> National Day celebrations</li>
+	<li style="font-size:14.5px; line-height:2;font-family:sans-serif;"> PHiesta</li>
+	<li style="font-size:14.5px; line-height:2;font-family:sans-serif;"> Literature Festival</li>
+	<li style="font-size:14.5px; line-height:2;font-family:sans-serif;"> Human Values competitions</li>
 </ul>
 
 <h4 style="color:#635f1a;font-weight:bold;">Student Testament</h4>
-<img src="/images/drama4.jpeg" style="width: 100%;margin-top:10px;" >
+<img src="/images/drama4.jpeg" style="width: 100%;margin-top:10px;">
 
-<blockquote style="font-size: 15px;width:100%;margin:50px auto;font-family:Open Sans;font-style:italic;color: #555555;padding:1.2em 25px 1.2em 25px;border-left:8px solid #78C0A8 ;line-height:1.6;position: relative;background:#EDEDED;">
-	"In Drama, I can be shameless, in a sense that I&rsquo;m comfortable being myself without the fear of being judged. I&rsquo;ve even been able to improve myself as a person during my time in this CCA, changing from someone who used to be insecure about almost every little thing I did to someone who feels confident to step out of my comfort zone even if I have to make myself look a little weird sometimes. I also feel as if my fellow CCA-mates are like another family to me, where we help each other learn and grow together no matter what our personalities are in this safe space. Here in Drama, I feel that we not only learn to act, but also learn to be the best version of ourselves."
+<blockquote style="font-size: 15px;width:100%;margin:50px auto;font-family:sans-serif;font-style:italic;color: #555555;padding:1.2em 25px 1.2em 25px;border-left:8px solid #78C0A8 ;line-height:1.6;position: relative;background:#EDEDED;">
+	"In Drama, I can be shameless, in a sense that I’m comfortable being myself without the fear of being judged. I’ve even been able to improve myself as a person during my time in this CCA, changing from someone who used to be insecure about almost every little thing I did to someone who feels confident to step out of my comfort zone even if I have to make myself look a little weird sometimes. I also feel as if my fellow CCA-mates are like another family to me, where we help each other learn and grow together no matter what our personalities are in this safe space. Here in Drama, I feel that we not only learn to act, but also learn to be the best version of ourselves."
   <span style="display:block; color:#333333; margin-top:1em;font-size:15px;"><em>President, Keira</em></span>
 	</blockquote>
 	
-<blockquote style="font-size: 15px;width:100%;margin:50px auto;font-family:Open Sans;font-style:italic;color: #555555;padding:1.2em 25px 1.2em 25px;border-left:8px solid #78C0A8 ;line-height:1.6;position: relative;background:#EDEDED;">
+<blockquote style="font-size: 15px;width:100%;margin:50px auto;font-family:sans-serif;font-style:italic;color: #555555;padding:1.2em 25px 1.2em 25px;border-left:8px solid #78C0A8 ;line-height:1.6;position: relative;background:#EDEDED;">
 	"Drama is a place where you can truly be yourself. No, seriously. Take it from someone whose nickname is “The Certified Weirdo” when I say that whatever kind of weird, quirky personality you have we will welcome you wholeheartedly because sometimes, in this dull, boring world, a little weird is good. There are many important behind-the-scenes work that needs to be done too without you needing to show yourself like lights or sounds. So worry not if you don’t enjoy acting on stage, because we’ve got your back!"
   <span style="display:block; color:#333333; margin-top:1em;font-size:15px;"><em>Vice- President, Zorian</em></span>
 	</blockquote>
 	
-<blockquote style="font-size: 15px;width:100%;margin:50px auto;font-family:Open Sans;font-style:italic;color: #555555;padding:1.2em 25px 1.2em 25px;border-left:8px solid #78C0A8 ;line-height:1.6;position: relative;background:#EDEDED;">
-	"Drama taught me lots of skills such as communication, awareness and made me more disciplined. It isn&rsquo;t just about acting."
+<blockquote style="font-size: 15px;width:100%;margin:50px auto;font-family:sans-serif;font-style:italic;color: #555555;padding:1.2em 25px 1.2em 25px;border-left:8px solid #78C0A8 ;line-height:1.6;position: relative;background:#EDEDED;">
+	"Drama taught me lots of skills such as communication, awareness and made me more disciplined. It isn’t just about acting."
   <span style="display:block; color:#333333; margin-top:1em;font-size:15px;"><em>Vice-President (Logistics), Lau Ern</em></span>
 	</blockquote>
 	
-<blockquote style="font-size: 15px;width:100%;margin:50px auto;font-family:Open Sans;font-style:italic;color: #555555;padding:1.2em 25px 1.2em 25px;border-left:8px solid #78C0A8 ;line-height:1.6;position: relative;background:#EDEDED;">
-	"One thing I love about drama is that I enjoy the member&rsquo;s company and trainer&rsquo;s guidance. Drama will no doubt make you look forward to it."
+<blockquote style="font-size: 15px;width:100%;margin:50px auto;font-family:sans-serif;font-style:italic;color: #555555;padding:1.2em 25px 1.2em 25px;border-left:8px solid #78C0A8 ;line-height:1.6;position: relative;background:#EDEDED;">
+	"One thing I love about drama is that I enjoy the member’s company and trainer’s guidance. Drama will no doubt make you look forward to it."
   <span style="display:block; color:#333333; margin-top:1em;font-size:15px;"><em>Vice-President (Welfare), Chang Yao</em></span>
 	</blockquote>
 	
