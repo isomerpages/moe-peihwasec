@@ -3,17 +3,17 @@ title: Logo, Motto and School Song
 permalink: /about-us/logo-motto-and-school-song/
 description: ""
 ---
-<h4 style="color:#635f1a;">Logo</h4>
+<h4 style="color:#635f1a;font-family:sans-serif;">Logo</h4>
 <img style="width:30%; margin-top: 12px; align:left;" src="/images/logo.png">
 <p style="font-size:14.5px; line-height:2;margin-top:15px; font-family:sans-serif;">
 The logo is formed by the Chinese characters “Pei” and “Hwa” which means “Nurturing Talents”. Central to the logo is the figure representing a resilient Pei Hwa pupil who is happy and confident even as he leaps over each obstacle. He is upright (as shown by the “li” character at the top of the figure’s head) and grounded (as shown by the “tu” character) in values. His education in Pei Hwa has enabled him to embrace the world of knowledge with open arms and to push beyond current boundaries.</p>
 
 
-<h4 style="color:#635f1a;">Motto</h4>
+<h4 style="color:#635f1a;font-family:sans-serif;">Motto</h4>
 <p style="font-size:14.5px; line-height:2;margin-top:15px;font-family:sans-serif;">
 Nurturing Talents (meaning of the word ‘Pei Hwa’ in Chinese)</p>
 
-<h4 style="color:#635f1a;">School Song</h4>
+<h4 style="color:#635f1a;font-family:sans-serif;">School Song</h4>
 <p style="font-size:14.5px; line-height:2;margin-top:15px; font-family:sans-serif;">
 In Pei Hwa Secondary School<br>We are the pride of the community<br>To lead and serve with integrity<br>We grow in our resiliency</p>
 
