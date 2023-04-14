@@ -3,7 +3,7 @@ title: Assessment and Homework Policy
 permalink: /assessment-and-homework-policy/
 description: ""
 ---
-<h4 style="color:#635f1a;">SCHOOL BASED ASSESSMENT 2023</h4>
+<h4 style="color:#635f1a;font-family:sans-serif;">SCHOOL BASED ASSESSMENT 2023</h4>
 
 <p style="font-size:14.5px; line-height:2;margin-top:15px;font-family:Tahoma;">In meeting the challenges of an increasingly complex world, the Ministry of Education (MOE) announced changes to School Based Assessment in 2019 to help our students discover more joy in learning and to develop them into lifelong learners. In 2023, the school continues to make changes to our internal assessments to create time and space for teachers and students to achieve that.</p>
 
@@ -28,7 +28,7 @@ description: ""
 
 <table border="1" style="border-collapse: collapse;margin: 25px 0;font-size: 0.9em;font-family: sans-serif;min-width: 400px; box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);">
 	
-<thead style="background-color: #009879; font-weight: bold; font-size: 16px; ">
+<thead style="background-color: #009879; font-weight: bold; font-size: 16px;">
 		<tr>
 			<td style="text-align:left;color:white;padding:12px 15px;font-family:Tahoma;">&nbsp;</td>
 			<td style="text-align:left;color:white;padding:12px 15px;font-family:Tahoma;">Term 1</td>
@@ -48,7 +48,7 @@ description: ""
 <td style="font-family:Tahoma;padding: 12px 15px;">EOY: 55%</td>
 </tr>
 	
-<tr style ="background-color: #f3f3f3;border-bottom: 1px solid #dddddd;">
+<tr style="background-color: #f3f3f3;border-bottom: 1px solid #dddddd;">
 <td style="padding: 12px 15px;font-family:Tahoma;"><strong style="font-family:Tahoma;">Sec 2</strong></td>
 <td style="padding: 12px 15px;font-family:Tahoma;">WA: 15%</td>
 <td style="padding: 12px 15px;font-family:Tahoma;">WA: 15%</td>
@@ -108,7 +108,7 @@ description: ""
 <td style="padding: 12px 15px;font-family:Tahoma;">Lower Secondary&nbsp;– 2&nbsp;hours</td>
 </tr>
 															
-<tr style="border-bottom: 1px solid #dddddd; ">
+<tr style="border-bottom: 1px solid #dddddd;">
 <td style="padding: 12px 15px;font-family:Tahoma;">Upper Secondary&nbsp;– 2½ hours</td>
 </tr>
 	
