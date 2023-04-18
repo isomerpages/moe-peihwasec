@@ -118,7 +118,7 @@ SYF Arts Presentation for Concert Band</strong>
 	<span style="display:block; color:#333333; margin-top:1em;font-size:14.5px;"><em style="font-family:sans-serif;">Band Major of Administration, Tristan Foo 4E1</em></span><br><br>
 </blockquote>
 
-<blockquote style="font-size: 14.5px;width:100%;margin:50px auto;font-style:italic;color: #555555;padding:1.2em 25px 1.2em 25px;border-left:8px solid #78C0A8 ;line-height:1.6;position: relative;background:#EDEDED;">
+<blockquote style="font-size: 14.5px;width:100%;margin:50px auto;font-family:Open Sans;font-style:italic;color: #555555;padding:1.2em 25px 1.2em 25px;border-left:8px solid #78C0A8 ;line-height:1.6;position: relative;background:#EDEDED;">
 	<img align="left" alt="" src="/images/sband4.png" style="width: 23%;margin-right:15px;">
 	"To me Band was the place where I could express my emotions through music. Whenever a new piece was given to us, I always tried to interpret the meaning of the piece and the reasons why the piece was composed the way it was. As this continued on for the past years, it grew to become very enjoyable for me. Band has taught me that cooperation is key to any work that required a team of people. From Band I learnt that the results of any work or project are the results of the team's effort."
 	<span style="display:block; color:#333333; margin-top:1em;font-size:14.5px;"><em style="font-family:sans-serif;">Band Major of Music, Nathen Khng 4N2</em></span><br>
