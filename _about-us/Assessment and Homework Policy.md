@@ -3,7 +3,7 @@ title: Assessment and Homework Policy
 permalink: /assessment-and-homework-policy/
 description: ""
 ---
-<h4 style="color:#635f1a;font-family:sans-serif;">SCHOOL BASED ASSESSMENT 2023</h4>
+<h4 style="color:#635f1a;font-family:sans-serif;font-weight:bold;">SCHOOL BASED ASSESSMENT 2023</h4>
 
 <p style="font-size:14.5px; line-height:2;margin-top:15px;font-family:sans-serif;">In meeting the challenges of an increasingly complex world, the Ministry of Education (MOE) announced changes to School Based Assessment in 2019 to help our students discover more joy in learning and to develop them into lifelong learners. In 2023, the school continues to make changes to our internal assessments to create time and space for teachers and students to achieve that.</p>
 
@@ -91,7 +91,7 @@ description: ""
 
 <p style="margin-top:15px;font-size:14.5px; line-height:2;font-family:sans-serif;">For other detailed examination regulations, please refer to page 21 of the student handbook.</p>
 
-<h4 style="color:#635f1a;font-family:sans-serif;">HOMEWORK POLICY 2023</h4>
+<h4 style="color:#635f1a;font-family:sans-serif;font-weight:bold;">HOMEWORK POLICY 2023</h4>
 
 <p style="font-size:14.5px; line-height:2;margin-top:15px;font-family:sans-serif;">Homework is work that is set to be done outside the time-tabled curriculum. Pei Hwa Secondary School believes that reasonable amounts of academic effort outside the class can enhance student learning, improve achievement and develop students’ study skills. Homework provides an opportunity for students to revisit the concepts or skills taught during lessons.</p>
 
