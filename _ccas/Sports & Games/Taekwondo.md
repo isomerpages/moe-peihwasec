@@ -9,7 +9,7 @@ third_nav_title: Sports &amp; Games
 <p style="margin-top:15px;font-size:14.5px; line-height:2;font-family:sans-serif;">
 	The <strong style="font-family:sans-serif;">Taekwondo</strong> programme in Pei Hwa Secondary School (PHSS) focuses on cultivating individual values such as Respect, Resilience and Self-discipline. Our student athletes have done the school proud by winning individual and team events in national competitions. The team also seeks to foster a sense of team spirit within the CCA.</p>
 
-<h4 style="color:#635f1a;font-family:sans-serif;">Student Outcomes</h4>
+<h4 style="color:#635f1a;font-family:sans-serif;font-weight:bold;">Student Outcomes</h4>
 <p style="font-size:14.5px; line-height:2;margin-top:15px; font-family:sans-serif;">The CCA will enable our students to:</p>
 <ul style="margin-top:5px">
 		<li style="font-size:14.5px; line-height:2;font-family:sans-serif;"> cultivate respectful and rational individuals</li>
@@ -18,7 +18,7 @@ third_nav_title: Sports &amp; Games
 		<li style="font-size:14.5px; line-height:2;font-family:sans-serif;"> deepen understanding of self-discipline and team collaboration</li>
 	</ul>
 	
-<h4 style="color:#635f1a;font-family:sans-serif;">Achievements</h4>
+<h4 style="color:#635f1a;font-family:sans-serif;font-weight:bold;">Achievements</h4>
 	
 <table border="1" style="border-collapse: collapse;margin: 25px 0;font-size:15px;font-family: sans-serif;box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);">
 <thead style="background-color: #009879; font-weight: bold; font-size: 15.5px;">
@@ -94,7 +94,7 @@ third_nav_title: Sports &amp; Games
 </tbody>
 </table>
 
-<h4 style="color:#635f1a;font-family:sans-serif;">Competitions and CCA Activities</h4>
+<h4 style="color:#635f1a;font-family:sans-serif;font-weight:bold;">Competitions and CCA Activities</h4>
 
 <img src="/images/taekwondo.png">
 
@@ -102,7 +102,7 @@ third_nav_title: Sports &amp; Games
 <blockquote style="font-size: 14.5px;
   width:100%;
   margin:50px auto;
-  font-family:Open Sans;
+  font-family:serif;
   font-style:italic;
   color: #555555;
   padding:1.2em 25px 1.2em 25px;
@@ -117,7 +117,7 @@ third_nav_title: Sports &amp; Games
 <blockquote style="font-size: 14.5px;
   width:100%;
   margin:50px auto;
-  font-family:Open Sans;
+  font-family:serif;
   font-style:italic;
   color: #555555;
   padding:1.2em 25px 1.2em 25px;
@@ -132,7 +132,7 @@ third_nav_title: Sports &amp; Games
 <blockquote style="font-size: 14.5px;
   width:100%;
   margin:50px auto;
-  font-family:Open Sans;
+  font-family:serif;
   font-style:italic;
   color: #555555;
   padding:1.2em 25px 1.2em 25px;
@@ -144,7 +144,7 @@ third_nav_title: Sports &amp; Games
   <span style="display:block; color:#333333; margin-top:1em;font-size:14.5px;"><em style="font-family:sans-serif;">Javier Heng, 4D2</em></span>
 	</blockquote>
 
-<h4 style="color:#635f1a;font-family:sans-serif;">CCA Details</h4>
+<h4 style="color:#635f1a;font-family:sans-serif;font-weight:bold;">CCA Details</h4>
 <table border="1" style="width:100%;">
 	<tbody>
 		<tr>
