@@ -4,7 +4,7 @@ permalink: /about-us/departments/humanities/
 description: ""
 third_nav_title: Departments
 ---
-<h4 style="color:#635f1a;">Our Goals</h4>
+<h4 style="color:#635f1a;font-family:sans-serif;">Our Goals</h4>
 <p style="font-size:14.5px; line-height:2;margin-top:15px;font-family:sans-serif;">Through Geography, History and Social Studies, we endeavour to inculcate in students a concern for the environment, an appreciation for the past and an understanding of the present by preparing them to be active citizens of the future with sound values.</p>
 <p style="font-size:14.5px; line-height:2;margin-top:15px;font-family:sans-serif;">We aim to develop students who possess empathy and critical thinking skills and are self-directed in taking ownership of their learning. These skills would be inculcated to them through our lessons that adopt an inquiry-based learning, experiential learning, discussion-based strategies and assessment literacy strategies.</p>
 
