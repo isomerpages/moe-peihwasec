@@ -6,7 +6,7 @@ third_nav_title: Sports &amp; Games
 ---
 <p style="font-size:14.5px; line-height:2;font-family:sans-serif;"><strong style="font-family:sans-serif;">Outdoor Activities Club (ODAC)</strong>  exposes our members to various water sports such as kayaking and dragon boating and as well as climbing activities. Students will go through certification courses such as Kayaking One Star, Orienteering, Basic Wall Climbing and Abseiling. During normal CCA sessions, members are taught various outdoor-related skills such as Camp craft, Orienteering and Outdoor Cooking. They will then apply and hone these skills during our annual year end camp. </p>
 
-<h4 style="color:#635f1a;font-family:sans-serif;">Student Outcomes</h4>
+<h4 style="color:#635f1a;font-family:sans-serif;font-weight:bold;">Student Outcomes</h4>
 
 <p style="font-size:14.5px; line-height:2;margin-top:15px; font-family:sans-serif;">The CCA will enable our students to:
 </p><ul style="margin-top:5px">
@@ -15,7 +15,7 @@ third_nav_title: Sports &amp; Games
 <li style="font-size:14.5px; line-height:2;font-family:sans-serif;"> become innovative, resilient and effective problem solvers</li>
 </ul>
 	
-<h4 style="color:#635f1a;font-family:sans-serif;">Competitions</h4>
+<h4 style="color:#635f1a;font-family:sans-serif;font-weight:bold;">Competitions</h4>
 <ol style="margin-top:5px">
 		<li style="font-size:14.5px; line-height:2;font-family:sans-serif;"> Temasek Regatta</li>
 	<img style="width: 100%;margin-top:10px;" src="/images/Picture 1.jpg">
@@ -27,7 +27,7 @@ third_nav_title: Sports &amp; Games
 </ol>
 
 
-<h4 style="color:#635f1a;font-family:sans-serif;">Activities/Workshops</h4>
+<h4 style="color:#635f1a;font-family:sans-serif;font-weight:bold;">Activities/Workshops</h4>
 <ol style="margin-top:5px">
 		<li style="font-size:14.5px; line-height:2;font-family:sans-serif;"> Kayaking 1 Star and 2 Star Certification</li>
 	<img style="width: 100%;margin-top:10px;align:center;" src="/images/ODAC-Picture5.jpg">
@@ -47,11 +47,11 @@ third_nav_title: Sports &amp; Games
 </ol>
 	
 
-<h4 style="color:#635f1a;margin-bottom:-25px;font-family:sans-serif;">Student Testament</h4>
+<h4 style="color:#635f1a;margin-bottom:-25px;font-family:sans-serif;font-weight:bold;">Student Testament</h4>
 <blockquote style="font-size: 15px;
   width:100%;
   margin:50px auto;
-  font-family:Open Sans;
+  font-family:serif;
   font-style:italic;
   color: #555555;
   padding:1.2em 25px 1.2em 25px;
@@ -67,7 +67,7 @@ To sum up my experience in ODAC, it was nothing short of amazing. I definitely h
   <span style="display:block; color:#333333; margin-top:1em;font-size:15px;"><em style="font-family:sans-serif;">Nixon (3I1), President (2021-2022)</em></span>
 </blockquote>
 
-<h4 style="color:#635f1a;font-family:sans-serif;">CCA Details</h4>
+<h4 style="color:#635f1a;font-family:sans-serif;font-weight:bold;">CCA Details</h4>
 <table border="1" style="width:100%;">
 	<tbody>
 		<tr>
