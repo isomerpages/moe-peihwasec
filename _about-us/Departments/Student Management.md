@@ -4,11 +4,11 @@ permalink: /about-us/departments/student-management/
 description: ""
 third_nav_title: Departments
 ---
-<h4 style="color:#635f1a;font-family:sans-serif;">Our Goals</h4>
+<h4 style="color:#635f1a;font-family:sans-serif;font-weight:bold;">Our Goals</h4>
 <p style="font-size:14.5px; line-height:2;margin-top:15px;font-family:sans-serif;">The Student Management Department looks into the holistic development of the students. It assists the teachers in classroom management and is responsible for the development of students’ life skills and the ability to learn collaboratively. It is upheld by our 5 core school values of Passion for Learning, Resilience, Integrity, Diligence and Excellence for Self and Others (PRIDE). These values are also translated into the school rules and regulations. The Department works hand-in-hand with parents, the community and other external agencies in helping the students realise the school’s vision.</p>
 
 
-<h4 style="color:#635f1a;font-family:sans-serif;">Our Programmes</h4>
+<h4 style="color:#635f1a;font-family:sans-serif;font-weight:bold;">Our Programmes</h4>
 
 <p style="margin-top:15px;font-size:15.5px;"><strong style="font-family:sans-serif;">Best Class Awards (BCA)</strong></p>
 
@@ -33,7 +33,7 @@ third_nav_title: Departments
 <p style="font-size:14.5px; line-height:2;margin:-15px 0 13px 0px;font-family:sans-serif;">This proactive and preventive measure is used to instill in students the habit of being punctual for school and all other activities. After all, punctuality is a life skill that everyone should possess. The programme hopes to work with all parents to inculcate this habit in all our students.</p>
 
 
-<h4 style="color:#635f1a;font-family:sans-serif;">Simple Tips to Have Better Self-Discipline</h4>
+<h4 style="color:#635f1a;font-family:sans-serif;font-weight:bold;">Simple Tips to Have Better Self-Discipline</h4>
 
 <p style="font-size:14.5px; line-height:2;margin-top:15px;font-family:sans-serif;"><strong style="font-family:sans-serif;">Plan.</strong>&nbsp;Have a daily planner to keep track of the tasks to be accomplished for each day. A small amount of planning keeps you on track.</p>
 
@@ -44,7 +44,7 @@ third_nav_title: Departments
 <p style="2;margin-top:15px;font-size:14.5px; line-height:2;font-family:sans-serif;">Source:12 Tips on Developing Self Discipline. (<a href="http://ezinearticles.com/?12-Tips-on-Developing-Self-Discipline&amp;id=2636464" target="_blank" rel="noopener noreferrer" style="font-family:sans-serif;">http://ezinearticles.com/?12-Tips-on-Developing-Self-Discipline&amp;id=2636464</a>)</p>
 
 
-<h4 style="color:#635f1a;font-family:sans-serif;">Bicycle Riding Safety Information</h4>
+<h4 style="color:#635f1a;font-family:sans-serif;font-weight:bold;">Bicycle Riding Safety Information</h4>
 
 <p style="margin-top:15px;font-size:15.5px;"><strong style="font-family:sans-serif;">3 Simple Rules</strong></p>
 
