@@ -4,15 +4,15 @@ permalink: /about-us/departments/poa-ebs/
 description: ""
 third_nav_title: Departments
 ---
-<h4 style="color:#635f1a;font-family:sans-serif;">Our Goals</h4>
+<h4 style="color:#635f1a;font-family:sans-serif;font-weight:bold;">Our Goals</h4>
 <p style="margin-top:15px;font-size:15.5px;"><strong style="font-family:sans-serif;">Principles of Accounts (POA)</strong></p>
 <p style="font-size:14.5px; line-height:2;margin:-15px 0 13px 0px;font-family:sans-serif;">The study of POA helps students understand how businesses measure and communicate their performance, and make use of both accounting and non-accounting information related to their businesses to make decisions. They will acquire transferrable skills such as organising and analysing information for decision-making, and apply these skills in their daily lives. Students will also understand the importance of values such as integrity and objectivity when communicating and making decisions.</p>
 
-<p style="margin-top:15px;font-size:15.5px;"><strong style="font-family:sans-serif;">Elements of Business Skills (EBS)</strong></p>
+<p style="margin-top:15px;font-size:15.5px;font-weight:bold;"><strong style="font-family:sans-serif;">Elements of Business Skills (EBS)</strong></p>
 <p style="font-size:14.5px; line-height:2;margin:-15px 0 13px 0px;font-family:sans-serif;">Through the study of EBS, students will develop decision-making skills and an enterprising mindset as they conduct research and evaluate information to make reasoned recommendations for businesses to make improvements. As students gain knowledge and exposure to trends and innovations in the Singapore business landscape, they also become more aware of the opportunities and challenges they may face in the future.</p>
 
 
-<h4 style="color:#635f1a;font-family:sans-serif;">Our Programmes</h4>
+<h4 style="color:#635f1a;font-family:sans-serif;font-weight:bold;">Our Programmes</h4>
 <p style="margin-top:15px;font-size:15.5px;"><strong style="font-family:sans-serif;">Project Moolah by SMU</strong></p>
 <p style="font-size:14.5px; line-height:2;margin:-15px 0 13px 0px;font-family:sans-serif;">Collaboration with Singapore Management University (SMU) business students to inculcate Financial Literacy and reinforce understanding of accounting concepts and practices.</p>
 
