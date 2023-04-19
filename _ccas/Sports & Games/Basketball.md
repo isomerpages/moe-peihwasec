@@ -7,7 +7,7 @@ third_nav_title: Sports &amp; Games
 <img style="width: 100%;" src="/images/Untitled-3.jpg">
 <p style="font-size:14.5px; line-height:2;font-family:sans-serif;">The<strong style="font-family:sans-serif;"> Pei Hwa&nbsp;Basketball CCA </strong> was set&nbsp;up&nbsp;in 2005. The Basketball CCA seeks to provide opportunities to develop students’ lifelong passion for the sports. Through trainings and competitions, the Pei Hwa Basketball CCA help students to build character, forge friendships and cultivate strong teamwork.</p>
 
-<h4 style="color:#635f1a;font-family:sans-serif;">Student Outcomes</h4>
+<h4 style="color:#635f1a;font-family:sans-serif;font-weight:bold;">Student Outcomes</h4>
 
 <p style="font-size:14.5px; line-height:2;margin-top:15px; font-family:sans-serif">The CCA will enable our students to:</p>
 <ul style="margin-top:5px">
@@ -18,7 +18,7 @@ third_nav_title: Sports &amp; Games
 </ul>
 
 
-<h4 style="color:#635f1a;font-family:sans-serif;">Achievements</h4>
+<h4 style="color:#635f1a;font-family:sans-serif;font-weight:bold;">Achievements</h4>
 
 <table border="1" style="border-collapse: collapse;margin: 25px 0;font-size:15px;font-family: sans-serif;box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);">
 	
@@ -58,17 +58,17 @@ third_nav_title: Sports &amp; Games
 </tbody>
 	</table>
 
-<h4 style="color:#635f1a;font-family:sans-serif;">Competitions and CCA Activities</h4>
+<h4 style="color:#635f1a;font-family:sans-serif;font-weight:bold;">Competitions and CCA Activities</h4>
 
 <p style="font-size:14.5px; line-height:2;margin-top:15px; font-family:sans-serif;">In 2019, the Pei Hwa Basketball CCA participated in the ‘B’ and ‘C’ Boys North Zone Competition. Through the exposure of and preparation for the competitions, the members of Pei Hwa Basketball CCA has certainly, forged strong friendships and developed strong teamwork.</p>
 
 <img style="width:100%;" src="/images/Untitled-1.jpg">
 
-<h4 style="color:#635f1a; margin-bottom:-25px;font-family:sans-serif;">Student Testament</h4>
+<h4 style="color:#635f1a; margin-bottom:-25px;font-family:sans-serif;font-weight:bold;">Student Testament</h4>
 <blockquote style="font-size: 15px;
   width:100%;
   margin:50px auto;
-  font-family:Open Sans;
+  font-family:serif;
   font-style:italic;
   color: #555555;
   padding:1.2em 25px 1.2em 25px;
@@ -83,7 +83,7 @@ third_nav_title: Sports &amp; Games
 
 	
 
-<h4 style="color:#635f1a;font-family:sans-serif;">CCA Details</h4>
+<h4 style="color:#635f1a;font-family:sans-serif;font-weight:bold;">CCA Details</h4>
 <table border="1" style="width:100%;">
 	<tbody>
 		<tr>
