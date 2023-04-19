@@ -4,7 +4,7 @@ permalink: /about-us/departments/cce/
 description: ""
 third_nav_title: Departments
 ---
-<h4 style="color:#635f1a;font-family:sans-serif;">Our Goals</h4>
+<h4 style="color:#635f1a;font-family:sans-serif;font-weight:bold;">Our Goals</h4>
 
 <p style="font-size:14.5px; line-height:2;margin-top:15px;font-family:sans-serif;">The CCE curriculum supports the students’ development of character, citizenship and leadership with the aim of fulfilling the students’ vision of being the PRIDE of the Community.</p>
 
@@ -20,7 +20,7 @@ third_nav_title: Departments
 <p style="text-align: center; font-size:10px;margin-top:0px;"><em style="font-family:sans-serif;">Photographs were taken pre-COVID-19</em></p>
 
 
-<h4 style="color:#635f1a;font-family:sans-serif;">Our Programmes</h4>
+<h4 style="color:#635f1a;font-family:sans-serif;font-weight:bold;">Our Programmes</h4>
 
 <p style="margin-top:15px;font-size:15.5px;"><strong style="font-family:sans-serif;">Overview</strong></p>
 <p style="font-size:14.5px; line-height:2;margin:-15px 0 13px 0px;font-family:sans-serif;">The CCE curriculum provides invaluable lessons and learning experiences to help our students internalise and practise good values and skills, and develop competencies that are critical to character and citizenship development.</p>
