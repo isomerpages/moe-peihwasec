@@ -4,14 +4,14 @@ permalink: /about-us/departments/science/
 description: ""
 third_nav_title: Departments
 ---
-<h4 style="color:#635f1a;font-family:sans-serif;">
+<h4 style="color:#635f1a;font-family:sans-serif;font-weight:bold;">
 Our Goals</h4>
 <p style="font-size:14.5px; line-height:2;margin-top:15px;font-family:sans-serif;">We endeavor to develop students into inquisitive and keen learners of the Sciences and the natural world and to enable them to view the pursuit of science as meaningful and useful. In alignment to the Science Curriculum Framework, we aim to prepare our students to be sufficiently adept as effective citizens, able to function in, make informed decisions and to contribute to an increasingly technologically-driven world.</p>
 <p style="font-size:14.5px; line-height:2;margin-top:15px;font-family:sans-serif;">In the Science department, teaching strategy such as collaborative learning is deployed to nurture students into self-directed learners. Science lessons are inquiry in nature and the teachers of Sciences facilitate and role model the inquiry process in the classrooms. In the teaching and learning of the Sciences, understanding of scientific content, knowledge and skills is reinforced and enhanced through experiential learning such as practical sessions as well as beyond the classroom experiences though enrichment programs.</p>
 
 
 
-<h4 style="color:#635f1a;font-family:sans-serif;">Our Programmes</h4>
+<h4 style="color:#635f1a;font-family:sans-serif;font-weight:bold;">Our Programmes</h4>
 <p style="font-size:14.5px; line-height:2;margin-top:15px;font-family:sans-serif;">The Science Department seeks to provide meaningful learning experiences for students through various enrichment programs and competitions to provide students with the opportunity to learn science outside of the classrooms. Through partnership with external organisations, students are exposed to science and technologies it entails beyond the textbooks. By participating in competitions, we can nurture a greater passion for science in our students.</p>
 
 <p style="margin-top:15px;font-size:15.5px;"><strong style="font-family:sans-serif;">Enrichment Programmes</strong></p>
@@ -76,7 +76,7 @@ Our Goals</h4>
 </div>
 
 
-<h4 style="color:#635f1a;font-family:sans-serif;">
+<h4 style="color:#635f1a;font-family:sans-serif;font-weight:bold;">
 Our Student Learning</h4>
 <p style="margin-top:15px;font-size:15.5px;"><strong style="font-family:sans-serif;">HBL LSS Virtual Practical</strong></p>
 <p style="font-size:15px; line-height:2;margin:-10px 0 13px 0px;font-family:Open Sans;"><strong style="font-family:sans-serif;">Topic: Photosynthesis &amp; Respiration</strong></p>
