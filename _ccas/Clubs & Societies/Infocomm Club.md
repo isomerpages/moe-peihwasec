@@ -13,7 +13,7 @@ third_nav_title: Clubs &amp; Societies
 
 
 
-<h4 style="color:#635f1a;font-family:sans-serif;">Student Outcomes</h4>
+<h4 style="color:#635f1a;font-family:sans-serif;font-weight:bold;">Student Outcomes</h4>
 
 <p style="font-size:14.5px; line-height:2;margin-top:15px; font-family:sans-serif;">The CCA will enable our students to:</p>
 <ul style="margin-top:5px">
@@ -23,7 +23,7 @@ third_nav_title: Clubs &amp; Societies
 	</ul>
 
 	
-<h4 style="color:#635f1a;font-family:sans-serif;">Achievements</h4>
+<h4 style="color:#635f1a;font-family:sans-serif;font-weight:bold;">Achievements</h4>
 
 <table border="1" style="border-collapse: collapse;margin: 25px 0;font-size:15px;font-family: sans-serif;box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);">
 	
@@ -78,7 +78,7 @@ third_nav_title: Clubs &amp; Societies
 </table>
 
 
-<h4 style="color:#635f1a;margin-bottom:-25px;font-family:sans-serif;">Competitions and CCA Activities</h4>
+<h4 style="color:#635f1a;margin-bottom:-25px;font-family:sans-serif;font-weight:bold;">Competitions and CCA Activities</h4>
 <p><strong style="font-size:15px; font-family:sans-serif;">CCA Activities:</strong></p>
 <ul style="list-style-type:none; font-size:15px; margin-top:-5px;">
 	<li style="font-size:14.5px; line-height:2;font-family:sans-serif;">Sec 1: Animation/Stop motion</li>
@@ -92,7 +92,7 @@ third_nav_title: Clubs &amp; Societies
 <img src="/images/info2.jpeg">
 	</ul>
 	
-<h4 style="color:#635f1a;font-family:sans-serif;">CCA Details</h4>
+<h4 style="color:#635f1a;font-family:sans-serif;font-weight:bold;">CCA Details</h4>
 <table border="1" style="width:100%;">
 	<tbody>
 		<tr>
