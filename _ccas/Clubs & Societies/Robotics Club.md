@@ -143,7 +143,7 @@ Tay Kai Wen, Bryan (4D1), Lai Le Xin Grace (3I4), Ain Myeisha Arman (3I1), Chang
 </table>
 
 	
-<h4 style="color:#635f1a;font-family:sans-serif;">Competitions and CCA Activities</h4>
+<h4 style="color:#635f1a;font-family:sans-serif;font-weight:bold;">Competitions and CCA Activities</h4>
 
 <ol style="margin-top:5px">
 <li style="font-size:14.5px; line-height:2;font-family:sans-serif;">Robocup Singapore Open (Cospace Rescue, Cospace Grand Prix, OnStage)</li>
@@ -158,11 +158,11 @@ Tay Kai Wen, Bryan (4D1), Lai Le Xin Grace (3I4), Ain Myeisha Arman (3I1), Chang
 </ol>
 	
 
-<h4 style="color:#635f1a;margin-bottom:-25px;font-family:sans-serif;">Student Testament</h4>
+<h4 style="color:#635f1a;margin-bottom:-25px;font-family:sans-serif;font-weight:bold;">Student Testament</h4>
 <blockquote style="font-size: 14.5px;
   width:100%;
   margin:50px auto;
-  font-family:Open Sans;
+  font-family:serif;
   font-style:italic;
   color: #555555;
   padding:1.2em 25px 1.2em 25px;
@@ -179,7 +179,7 @@ Robotics nurtures us as future leaders in addition to being equipped with techno
 <blockquote style="font-size: 14.5px;
   width:100%;
   margin:50px auto;
-  font-family:Open Sans;
+  font-family:serif;
   font-style:italic;
   color: #555555;
   padding:1.2em 25px 1.2em 25px;
@@ -191,7 +191,7 @@ Robotics nurtures us as future leaders in addition to being equipped with techno
   <span style="display:block; color:#333333; margin-top:1em;font-size:15pxfont-family:sans-serif;;"><em style="font-family:sans-serif;">Assistant Secretary/Publicity, Shah Yashvi Tejas, Int 8</em></span><br>
 	</blockquote>
 
-<h4 style="color:#635f1a;font-family:sans-serif;">CCA Details</h4>
+<h4 style="color:#635f1a;font-family:sans-serif;font-weight:bold;">CCA Details</h4>
 <table border="1" style="width:100%;">
 	<tbody>
 		<tr>
