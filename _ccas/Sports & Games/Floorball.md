@@ -12,7 +12,7 @@ third_nav_title: Sports &amp; Games
 <p style="margin-top:15px;font-size:14.5px; line-height:2;font-family:sans-serif;">
 Do check us out on our Instagram page @peihwaphoenix !</p>
 
-<h4 style="color:#635f1a;font-family:sans-serif;">Student Outcomes</h4>
+<h4 style="color:#635f1a;font-family:sans-serif;font-weight:bold;">Student Outcomes</h4>
 
 <p style="font-size:14.5px; line-height:2;margin-top:15px; font-family:sans-serif;">The CCA will enable our students to:</p>
 <ul style="margin-top:-5px">
@@ -203,7 +203,7 @@ Do check us out on our Instagram page @peihwaphoenix !</p>
 </tbody>
 </table>
 
-<h4 style="color:#635f1a;font-family:sans-serif;">Competitions and CCA Activities</h4>
+<h4 style="color:#635f1a;font-family:sans-serif;font-weight:bold;">Competitions and CCA Activities</h4>
 
 <p style="font-size:14.5px; line-height:2;margin-top:15px; font-family:sans-serif;">On top of participating in the annual National School Games, our members also take part in many other competitions as part of their passion for learning in the sport. We are actively taking part in the ActiveSG Singapore Floorball League, Singapore National Games, as well as other invitational and ad-hoc competitions held by various schools, organisations and floorball clubs in Singapore.</p>
 
@@ -211,11 +211,11 @@ Do check us out on our Instagram page @peihwaphoenix !</p>
 
 <p style="margin-top:14.5px;font-size:14.5px; line-height:2;sans-serif;">There are also plenty of opportunities for our members to be developed as student leaders in the CCA. Student leaders in the CCA are given the opportunity to facilitate events such as our annual CCA Fiesta, Open House and CCA Camps. You will also lead the team for training and competitions. Student leaders are also given the opportunity to hone their leadership further when they are sent to participate in the annual Sec 2 Basic Student Leadership Camp and Sec 3 Advance Student Leadership Camp.</p>
 
-<h4 style="color:#635f1a;margin-bottom:-25px;font-family:sans-serif;">Student Testament</h4>
+<h4 style="color:#635f1a;margin-bottom:-25px;font-family:sans-serif;font-weight:bold;">Student Testament</h4>
 <blockquote style="font-size: 15px;
   width:100%;
   margin:50px auto;
-  font-family:Open Sans;
+  font-family:serif;
   font-style:italic;
   color: #555555;
   padding:1.2em 25px 1.2em 25px;
@@ -233,7 +233,7 @@ Do check us out on our Instagram page @peihwaphoenix !</p>
 <blockquote style="font-size: 15px;
   width:100%;
   margin:50px auto;
-  font-family:Open Sans;
+  font-family:serif;
   font-style:italic;
   color: #555555;
   padding:1.2em 25px 1.2em 25px;
@@ -248,7 +248,7 @@ Do check us out on our Instagram page @peihwaphoenix !</p>
 <blockquote style="font-size: 15px;
   width:100%;
   margin:50px auto;
-  font-family:Open Sans;
+  font-family:serif;
   font-style:italic;
   color: #555555;
   padding:1.2em 25px 1.2em 25px;
@@ -261,7 +261,7 @@ Do check us out on our Instagram page @peihwaphoenix !</p>
 <span style="display:block; color:#333333; margin-top:1em;font-size:14.5px;"><em style="font-family:sans-serif;">President and B Division Captain 2020, Siti Nur Insyirah binte Mohsin, Integrity 6 (2020)</em></span>
 </blockquote>
 
-<h4 style="color:#635f1a;font-family:sans-serif;">CCA Details</h4>
+<h4 style="color:#635f1a;font-family:sans-serif;font-weight:bold;">CCA Details</h4>
 <table border="1" style="width:100%;">
 	<tbody>
 		<tr>
