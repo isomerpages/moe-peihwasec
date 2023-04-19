@@ -6,7 +6,7 @@ third_nav_title: Performing Arts
 ---
 <p style="font-size:14.5px; line-height:2;font-family:sans-serif;"><strong style="font-family:sans-serif;">Pei Hwa Dance Society</strong> seeks to provide opportunities for students to explore their dance abilities and artistic expressions. We encourage students to explore various forms of dance through our two dance groups – Modern Dance and Chinese Dance. We endeavour to cultivate an appreciation for the arts in each of our students. In their journey as Pei Hwa dancers, students will learn the importance of teamwork through performing in an ensemble, resilience and perseverance through their dance practices, and discipline through our dance methodology.</p>
 
-<h4 style="color:#635f1a;font-family:sans-serif;">Achievements</h4>
+<h4 style="color:#635f1a;font-family:sans-serif;font-weight:bold;">Achievements</h4>
 <p style="font-size:14.5px; line-height:2;margin-top:15px; font-family:sans-serif;">Pei Hwa Dance Society has been a consistent participant at the Singapore Youth Festival Arts Presentation. In our most recent entry, we successfully achieved Certificates of Distinction for the International and Chinese Dance categories.</p>
 
 <strong style="font-family:sans-serif;">National School Games</strong><table border="1" style="border-collapse: collapse;margin: 25px 0;font-size:15px;font-family: sans-serif;box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);">
@@ -68,7 +68,7 @@ third_nav_title: Performing Arts
 	
 <p style="margin-top:15px;font-size:14.5px; line-height:2; font-family:sans-serif;">Apart from participating in national dance competitions, Pei Hwa Dance Society also actively performs in school and community events. We believe in providing ample opportunities for students to showcase their dance abilities.</p>
 
-<h4 style="color:#635f1a;font-family:sans-serif;">School and Community Performances (2019-2020)</h4>
+<h4 style="color:#635f1a;font-family:sans-serif;font-weight:bold;">School and Community Performances (2019-2020)</h4>
 
 <ul style="margin-top:5px;">
 		<li style="font-size:14.5px; line-height:2;font-family:sans-serif;">CCA Fiesta</li>
@@ -78,7 +78,7 @@ third_nav_title: Performing Arts
 		<li style="font-size:14.5px; line-height:2;font-family:sans-serif;"> MOE Combined Dance Leadership Camp</li>
 	</ul>
 	
-<h4 style="color:#635f1a;font-family:sans-serif;">Competitions and CCA Activities</h4>
+<h4 style="color:#635f1a;font-family:sans-serif;font-weight:bold;">Competitions and CCA Activities</h4>
 <ul style="margin-top:5px;">
 		<li style="font-size:14.5px; line-height:2;font-family:sans-serif;">School Performances<br>
 			<img style="width: 65%;margin-top:10px;" src="/images/dance1.jpg"><p style="text-align: center; font-size:10px;margin-top:-5px;font-family:sans-serif;">Teachers’ Day Performance 2019</p>
@@ -98,7 +98,7 @@ third_nav_title: Performing Arts
 <blockquote style="font-size: 14.5px;
   width:100%;
   margin:50px auto;
-  font-family:Open Sans;
+  font-family:serif;
   font-style:italic;
   color: #555555;
   padding:1.2em 25px 1.2em 25px;
@@ -114,7 +114,7 @@ third_nav_title: Performing Arts
 	<img align="center" alt="" src="/images/dance7.png" style="width:70%;">
 	</blockquote>
 
-<h4 style="color:#635f1a;font-family:sans-serif;">CCA Details</h4>
+<h4 style="color:#635f1a;font-family:sans-serif;font-weight:bold;">CCA Details</h4>
 <table border="1" style="width:100%;">
 	<tbody>
 		<tr>
