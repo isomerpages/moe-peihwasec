@@ -8,7 +8,7 @@ third_nav_title: Sports &amp; Games
 
 <p style="font-size:14.5px; line-height:2;font-family:sans-serif;">The CCA aims to provide opportunities for students to learn and apply the technical and tactical skills and rules of badminton, so as to play the sports at a competitive level and as a recreational activity. Through the trainings, we would like to develop within all our members a healthy body and instill in them the virtues of true sportsmanship, PRIDE (Passion for Learning, Resilience, Integrity, Diligence, Excellence for Self and Others), teamwork and discipline.</p>
 
-<h4 style="color:#635f1a;font-family:sans-serif;">Student Outcomes</h4>
+<h4 style="color:#635f1a;font-family:sans-serif;font-weight:bold;">Student Outcomes</h4>
 
 <p style="font-size:14.5px; line-height:2;margin-top:15px; font-family:sans-serif">The CCA will enable our students to:</p>
 
@@ -20,7 +20,7 @@ third_nav_title: Sports &amp; Games
 <li style="font-size:14.5px; line-height:2;font-family:sans-serif;"> have the opportunities to develop themselves as leaders</li>
 </ul>
 	
-<h4 style="color:#635f1a;font-family:sans-serif;">Achievements</h4>
+<h4 style="color:#635f1a;font-family:sans-serif;font-weight:bold;">Achievements</h4>
 	
 <table border="1" style="border-collapse: collapse;margin: 25px 0;font-size:15px;font-family: sans-serif;box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);">
 <thead style="background-color: #009879; font-weight: bold; font-size: 15.5px;">
@@ -66,7 +66,7 @@ B and C division boys came in 1st runner up in the Interschool Badminton Competi
 </tbody>
 </table>
 
-<h4 style="color:#635f1a;font-family:sans-serif;">North Zone Badminton Competitions</h4>
+<h4 style="color:#635f1a;font-family:sans-serif;font-weight:bold;">North Zone Badminton Competitions</h4>
 
 <p style="font-size:14.5px; line-height:2;margin-top:15px; font-family:sans-serif">The team has participated in the Inter-Schools North Zone Badminton Tournaments. The players put up a good performance and exemplified the school values of resilience and diligence throughout the competition. The students have also forged strong friendship and demonstrated good teamwork throughout their trainings and in preparation for their competitions. Through their perseverance and hard work, the B division boys qualified for the quarter-finals. We are proud of their progress and improvements in the games.</p>
 
@@ -85,7 +85,7 @@ B and C division boys came in 1st runner up in the Interschool Badminton Competi
 <img style="width: 100%;margin-top:10px;" src="/images/Picture6.jpg">
 <p style="text-align:center; font-size:11px;font-family:sans-serif;margin-top:-5px;">C Division Girls</p>
 
-<h4 style="color:#635f1a;font-family:sans-serif;">Farewell Party for the seniors</h4>
+<h4 style="color:#635f1a;font-family:sans-serif;font-weight:bold;">Farewell Party for the seniors</h4>
 <div class="row" style="box-sizing: border-box;"> 
 <div class="column" style="box-sizing: border-box;  float: left; width: 50%; padding: 10px;">
 <img src="/images/Picture7.jpg" style="width:100%; margin-top: 12px;">
@@ -97,11 +97,11 @@ B and C division boys came in 1st runner up in the Interschool Badminton Competi
 </div>  
 </div>
 
-<h4 style="color:#635f1a;margin-bottom:-25px;font-family:sans-serif;">Student Testament</h4>
+<h4 style="color:#635f1a;margin-bottom:-25px;font-family:sans-serif;font-weight:bold;">Student Testament</h4>
 <blockquote style="font-size: 15px;
   width:100%;
   margin:50px auto;
-  font-family:Open Sans;
+  font-family:serif;
   font-style:italic;
   color: #555555;
   padding:1.2em 25px 1.2em 25px;
@@ -117,7 +117,7 @@ B and C division boys came in 1st runner up in the Interschool Badminton Competi
 <blockquote style="font-size: 15px;
   width:100%;
   margin:50px auto;
-  font-family:Open Sans;
+  font-family:serif;
   font-style:italic;
   color: #555555;
   padding:1.2em 25px 1.2em 25px;
@@ -133,7 +133,7 @@ B and C division boys came in 1st runner up in the Interschool Badminton Competi
 <blockquote style="font-size: 15px;
   width:100%;
   margin:50px auto;
-  font-family:Open Sans;
+  font-family:serif;
   font-style:italic;
   color: #555555;
   padding:1.2em 25px 1.2em 25px;
@@ -149,7 +149,7 @@ B and C division boys came in 1st runner up in the Interschool Badminton Competi
 <blockquote style="font-size: 15px;
   width:100%;
   margin:50px auto;
-  font-family:Open Sans;
+  font-family:serif;
   font-style:italic;
   color: #555555;
   padding:1.2em 25px 1.2em 25px;
@@ -165,7 +165,7 @@ B and C division boys came in 1st runner up in the Interschool Badminton Competi
 <blockquote style="font-size: 15px;
   width:100%;
   margin:50px auto;
-  font-family:Open Sans;
+  font-family:serif;
   font-style:italic;
   color: #555555;
   padding:1.2em 25px 1.2em 25px;
@@ -181,7 +181,7 @@ B and C division boys came in 1st runner up in the Interschool Badminton Competi
 <blockquote style="font-size: 15px;
   width:100%;
   margin:50px auto;
-  font-family:Open Sans;
+  font-family:serif;
   font-style:italic;
   color: #555555;
   padding:1.2em 25px 1.2em 25px;
@@ -194,7 +194,7 @@ B and C division boys came in 1st runner up in the Interschool Badminton Competi
   <span style="display:block; color:#333333; margin-top:1em;font-size:15px;font-family:sans-serif;"><em style="font-family:sans-serif;">Vice-Captain (Girls Team), Charlotte Chia Jia En, 3I5</em></span>
 	</blockquote> 
 
-<h4 style="color:#635f1a;font-family:sans-serif;">CCA Details</h4>
+<h4 style="color:#635f1a;font-family:sans-serif;font-weight:bold;">CCA Details</h4>
 <table border="1" style="width:100%;">
 	<tbody>
 		<tr>
