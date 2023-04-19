@@ -4,7 +4,7 @@ permalink: /about-us/departments/pe/
 description: ""
 third_nav_title: Departments
 ---
-<h4 style="color:#635f1a;font-family:sans-serif;">Our Goals</h4>
+<h4 style="color:#635f1a;font-family:sans-serif;font-weight:bold;">Our Goals</h4>
 
 <p style="font-size:14.5px; line-height:2;margin-top:15px;font-family:sans-serif;">The Pei Hwa Physical Education Programme aims to develop in each student the ability to:</p>
 
@@ -54,7 +54,7 @@ third_nav_title: Departments
 
 
 
-<h4 style="color:#635f1a;font-family:sans-serif;">Our Student Learning</h4>
+<h4 style="color:#635f1a;font-family:sans-serif;font-weight:bold;">Our Student Learning</h4>
 
 <p style="margin-top:15px;font-size:15.5px;"><strong style="font-family:sans-serif;">PE Lessons</strong></p>
 
