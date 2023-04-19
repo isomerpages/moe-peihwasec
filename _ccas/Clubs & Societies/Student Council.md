@@ -4,13 +4,13 @@ permalink: /ccas/clubs-societies/student-council/
 description: ""
 third_nav_title: Clubs &amp; Societies
 ---
-<h4 style="color:#635f1a;font-family:sans-serif;">Mission</h4>
+<h4 style="color:#635f1a;font-family:sans-serif;font-weight:bold;">Mission</h4>
 
 <p style="font-size:14.5px; line-height:2;margin-top:15px; font-family:sans-serif;">The <strong style="font-family:sans-serif;">Student Council</strong> aims to develop innovative, daring and compassionate leaders. As Tier 3 Student Leaders, the Student Council is the voice of the student body and takes the lead in school events and improving student welfare. Student Councillors are also advocates of the environment by raising awareness about environment conservation through events such as Earth Week.</p>
 
 <p style="margin-top:15px;font-size:14.5px; line-height:2;font-family:sans-serif;">Every year, Student Councillors are officially appointed during the Student Leaders Investiture. As role-models of the student population, Student Councillors lead by example. They are given multiple platforms to develop their leadership and event management skills through organising events such as the Teachers’ Day Celebration and Secondary 1 Orientation, as well as managing the PHun Lounge.</p>
 
-<h4 style="color:#635f1a;font-family:sans-serif;">Student Outcomes</h4>
+<h4 style="color:#635f1a;font-family:sans-serif;font-weight:bold;">Student Outcomes</h4>
 
 <p style="font-size:14.5px; line-height:2;margin-top:15px; font-family:sans-serif">The CCA will enable our students to:</p>
 <ul style="margin-top:5px">
@@ -18,11 +18,11 @@ third_nav_title: Clubs &amp; Societies
 	</ul>
 
 
-<h4 style="color:#635f1a;font-family:sans-serif;margin-bottom:-25px;">Student Testament</h4>
+<h4 style="color:#635f1a;font-family:sans-serif;margin-bottom:-25px;font-weight:bold;">Student Testament</h4>
 <blockquote style="font-size: 15px;
   width:100%;
   margin:50px auto;
-  font-family:Open Sans;
+  font-family:serif;
   font-style:italic;
   color: #555555;
   padding:1.2em 25px 1.2em 25px;
@@ -39,7 +39,7 @@ third_nav_title: Clubs &amp; Societies
 <blockquote style="font-size: 15px;
   width:100%;
   margin:50px auto;
-  font-family:Open Sans;
+  font-family:serif;
   font-style:italic;
   color: #555555;
   padding:1.2em 25px 1.2em 25px;
@@ -54,7 +54,7 @@ I learnt many things in Council and one of the few is being in charge of a speci
 	</blockquote>
 
 
-<h4 style="color:#635f1a;font-family:sans-serif;">CCA Details</h4>
+<h4 style="color:#635f1a;font-family:sans-serif;font-weight:bold;">CCA Details</h4>
 <table border="1" style="width:100%;">
 	<tbody>
 		<tr>
@@ -80,7 +80,7 @@ I learnt many things in Council and one of the few is being in charge of a speci
 </tbody>
 	</table>
 
-<h4 style="color:#635f1a;font-family:sans-serif;">Photo Gallery</h4>
+<h4 style="color:#635f1a;font-family:sans-serif;font-weight:bold;">Photo Gallery</h4>
 <div class="row" style="box-sizing: border-box;width:120%;"> 
 		<div class="column" style="box-sizing: border-box;  float: left; width: 50%; padding: 10px;">
   			<img src="/images/AlbumStudCounsellor4.jpeg" style="width:100%; margin-top: 12px;">
