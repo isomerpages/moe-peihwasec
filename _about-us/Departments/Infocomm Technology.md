@@ -4,7 +4,7 @@ permalink: /about-us/departments/ict/
 description: ""
 third_nav_title: Departments
 ---
-<h4 style="color:#635f1a;font-family:sans-serif;">
+<h4 style="color:#635f1a;font-family:sans-serif;font-weight:bold;">
 Objective</h4>
 
 <p style="font-size:14.5px; line-height:2;margin-top:15px;font-family:sans-serif;">In alignment with the Smart Nation initiative, Pei Hwa Secondary School’s ICT vision is to promote the creative and effective use of Information Technology to achieve excellence in teaching and learning through the following 4 processes:</p>
@@ -23,7 +23,7 @@ Objective</h4>
 <p style="font-size:14.5px; line-height:2;margin:-10px 0 5px 20px;font-family:sans-serif;">To harness the capability of ICT to enhance administration and communication for the school.</p>
 
 
-<h4 style="color:#635f1a;font-family:sans-serif;">
+<h4 style="color:#635f1a;font-family:sans-serif;font-weight:bold;">
 Our Programmes</h4>
 
 <p style="margin-top:15px;font-size:15px;"><strong style="font-family:sans-serif;">e-Learning</strong></p>
