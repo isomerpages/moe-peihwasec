@@ -4,7 +4,7 @@ permalink: /about-us/departments/craft-and-technology/
 description: ""
 third_nav_title: Departments
 ---
-<h4 style="color:#635f1a;font-family:sans-serif;">The Art Unit</h4>
+<h4 style="color:#635f1a;font-family:sans-serif;font-weight:bold;">The Art Unit</h4>
 <p style="font-size:14.5px; line-height:2;margin-top:15px;font-family:sans-serif;">At Pei Hwa, we aim to develop a love for Art in our pupils so that they would be creative and confident learners. Our lessons are designed to allow students to&nbsp;appreciate art from various contexts. This is achieved through exploring the&nbsp;different craft types in both 2D and 3D art forms. Pupils in the lower secondary are&nbsp;introduced to observational drawing, photography and ceramics while upper secondary pupils are equipped with painting, printmaking and critique skills. The&nbsp;exposure to different media allows pupils to have a sense of achievement in the&nbsp;practice of Art.</p>
 
 <p style="font-size:14.5px; line-height:2;margin-top:15px;font-family:sans-serif;">For more information, please visit the&nbsp;<a href="http://www.facebook.com/PeiHwaArtGallery" target="_blank" rel="noopener noreferrer" style="font-family:sans-serif;">Pei Hwa Art Gallery Facebook</a>&nbsp;page.</p>
@@ -14,7 +14,7 @@ third_nav_title: Departments
 <img style="width: 65%;" src="/images/ct3.jpg"><br>
 
 
-<h4 style="color:#635f1a;font-family:sans-serif;">The Design &amp; Technology Unit</h4>
+<h4 style="color:#635f1a;font-family:sans-serif;font-weight:bold;">The Design &amp; Technology Unit</h4>
 
 <img style="width: 100%;" src="/images/ct4.jpg">
 
@@ -23,7 +23,7 @@ third_nav_title: Departments
 <p style="font-size:14.5px; line-height:2;margin-top:15px;font-family:sans-serif;">Pupils in the upper secondary level cover technology topics in greater depth and focus on the application of technology in their design coursework. In the area of design, pupils are required to complete one cycle of design, from identification of user’s needs to ideation and finally the realisation (making) of the design.</p>
 
 
-<h4 style="color:#635f1a;font-family:sans-serif;">Food &amp; Consumer Education (FCE): Lower Secondary Syllabus</h4>
+<h4 style="color:#635f1a;font-family:sans-serif;font-weight:bold;">Food &amp; Consumer Education (FCE): Lower Secondary Syllabus</h4>
 
 <img style="width: 100%;" src="/images/ct5.jpg">
 
