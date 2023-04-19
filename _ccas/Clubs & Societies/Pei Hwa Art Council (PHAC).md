@@ -16,7 +16,7 @@ third_nav_title: Clubs &amp; Societies
 </ul>
 
 
-<h4 style="color:#635f1a;font-family:sans-serif;">Achievements</h4>
+<h4 style="color:#635f1a;font-family:sans-serif;font-weight:bold;">Achievements</h4>
 <table style="border-collapse: collapse;margin: 25px 0;font-family: sans-serif;box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);" border="1">
 	
 <thead style="background-color: #009879; font-weight: bold; font-size: 15.5px;">
@@ -77,7 +77,7 @@ third_nav_title: Clubs &amp; Societies
 </table>
 
 
-<h4 style="color:#635f1a;font-family:sans-serif;">Competitions and CCA Activities</h4>
+<h4 style="color:#635f1a;font-family:sans-serif;font-weight:bold;">Competitions and CCA Activities</h4>
 <p style="font-size:14.5px; line-height:2;margin-top:15px; font-family:sans-serif">PHAC tries to strike a balance between learning new skills, taking part in competitions, supporting school events and in giving back to the community. Our recent participation was ‘Draw My Stamp Story Art Competition’ organised by Singapore Philatelic Museum (SPM) to help students understand and appreciate the importance of designs reflected on our Singapore stamps. Previously, we also took part in the Live On Design Competition which included a Values in Action segment for students to be able to have an insight into the lives of patients and donors. We also put our artistic skills to good use by creating silkscreen designs on tote bags as part of our CCA’s efforts in raising funds for our school’s adopted voluntary welfare organisations during Community Day 2019. When we are not busy taking part in competitions, we have fun going on learning journeys and camps to recharge and learn new skills.</p>
 <ul style="font-size:15px; margin-top:-5px;">
 	<li style="font-size:14.5px; line-height:2;font-family:sans-serif;">2021 Draw My Stamp Story Art Competition</li>
@@ -105,12 +105,12 @@ third_nav_title: Clubs &amp; Societies
 <img src="/images/phac3.png">
 
 
-<h4 style="color:#635f1a;margin-bottom:-15px;font-family:sans-serif;">Student Testament</h4>
+<h4 style="color:#635f1a;margin-bottom:-15px;font-family:sans-serif;font-weight:bold;">Student Testament</h4>
 
 <blockquote style="font-size: 15px;
   width:100%;
   margin:50px auto;
-  font-family:sans-serif;
+  font-family:serif;
   font-style:italic;
   color: #555555;
   padding:1.2em 25px 1.2em 25px;
@@ -126,7 +126,7 @@ third_nav_title: Clubs &amp; Societies
 <blockquote style="font-size: 15px;
   width:100%;
   margin:50px auto;
-  font-family:sans-serif;
+  font-family:serif;
   font-style:italic;
   color: #555555;
   padding:1.2em 25px 1.2em 25px;
@@ -139,7 +139,7 @@ third_nav_title: Clubs &amp; Societies
 </blockquote>
 
 
-<h4 style="color:#635f1a;font-family:sans-serif;">CCA Details</h4>
+<h4 style="color:#635f1a;font-family:sans-serif;font-weight:bold;">CCA Details</h4>
 <table border="1" style="width:100%;">
 	<tbody>
 		<tr>
