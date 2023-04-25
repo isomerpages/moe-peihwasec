@@ -1,32 +1,22 @@
 ---
 layout: homepage
-title: Isomer Site
-description: Brief site description here
-image: /images/isomer-logo.svg
+title: Pei Hwa Secondary School
+description: An Isomer site of the Singapore Government
+image: /images/logo.png
 permalink: /
-notification: Here's a notification bar you can use!
+notification: ""
 sections:
-    - hero:
-        title: Hero title
-        subtitle: Hero subtitle
-        background: /images/hero-banner.png
-        button: Contact Us
-        url: /contact-us/
-        key_highlights:
-            - title: Highlight A
-              description: Important highlight A is important
-              url: https://google.com
-            - title: Highlight B
-              description: Important highlight B is equally important
-              url: https://gmail.com
-            - title: Page A
-              description: Page A is important too
-              url: /privacy/
-    - infobar:
-        title: Infobar title
-        subtitle: Subtitle
-        description: About a sentence worth of description here
-        button: Button text
-        url: /faq/
+  - hero:
+      background: /images/IMG_3545_photo-full-3 (1)-min.jpg
+      key_highlights:
+        - title: Home-Based Learning
+          description: Home-Based Learning Page
+          url: /lp-announcement/home-based-learning/
+        - title: Pride of the Community
+          description: We take PRIDE in our values
+          url: /programmes/student-leadership/
+        - title: Innovation and Talent Development
+          description: An innovative environment
+          url: /innovation-talent-development-programme/
+  - resources: {}
 ---
-

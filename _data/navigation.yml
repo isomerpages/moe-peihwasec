@@ -1,13 +1,88 @@
-##################################
-#                                #
-# Feel free to edit this file :) #
-#                                #
-##################################
-
-logo: /images/isomer-logo.svg
-
+logo: /images/cropped-school-logo-new.png
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: Example Page
-    url: /example-page/
+  - title: About Us
+    url: /about-us/logo-motto-and-school-song/
+    sublinks:
+      - title: Logo, Motto and School Song
+        url: /about-us/logo-motto-and-school-song/
+      - title: Vision, Mission and Values
+        url: /about-us/vision-mission-and-values/
+      - title: Staff Information
+        url: /about-us/staff-contact-info/
+      - title: Assessment and Homework Policy
+        url: /assessment-and-homework-policy/
+      - title: Departments
+        url: /about-us/departments/english-language-literature/
+      - title: Corporate Videos/Video Gallery
+        url: /news-media/videos/
+  - title: Achievements
+    url: /news-media/pride-of-pei-hwa/
+    sublinks:
+      - title: Pride of Pei Hwa
+        url: /news-media/pride-of-pei-hwa/
+      - title: Student Achievements
+        url: /student-achievements/
+  - title: CCAS
+    url: /ccas/
+    sublinks:
+      - title: Clubs & Societies
+        url: /ccas/clubs-societies/infocomm-club/
+      - title: Sports & Games
+        url: /ccas/sports-games/badminton/
+      - title: Performing Arts
+        url: /ccas/performing-arts/dance/
+      - title: Uniformed Groups
+        url: /ccas/uniformed-groups/ncc-land/
+  - title: Programmes
+    url: /innovation-talent-development-programme/
+    sublinks:
+      - title: Innovation & Talent Developmen
+        url: /innovation-talent-development-programme/
+      - title: Student Leadership
+        url: /programmes/student-leadership/
+      - title: " Distinctive Programmes"
+        url: /school-distinctive-programme/learning-for-life-programme-community-youth-leadership-llp-cyl/
+      - title: Direct School Admission
+        url: /programmes/direct-school-admission-dsa/
+      - title: ICT Enrichment
+        url: /programmes/ict-enrichment/
+      - title: Sexuality Education
+        url: /programmes/sexuality-education/
+      - title: Family Matters @ School
+        url: /programmes/family-matters-at-school/
+      - title: Counselling
+        url: /programmes/counselling/
+      - title: School Green Awards (SGA)
+        url: /sga/
+      - title: Special Education Needs
+        url: /programmes/special-education-needs/
+  - title: Our Partners
+    url: /our-partners/parents-support-group/
+    sublinks:
+      - title: Parents Support Group
+        url: /our-partners/parents-support-group/
+      - title: Pei Hwa Alumni
+        url: /our-partners/pei-hwa-alumni/
+      - title: School Advisory Committee
+        url: /our-partners/school-advisory-committee/
+  - title: Links
+    url: /links/links-for-teachers/
+    sublinks:
+      - title: SLS Login
+        url: https://vle.learning.moe.edu.sg/login
+      - title: Student iCON Login
+        url: https://workspace.google.com/dashboard
+      - title: Resource Booking System
+        url: https://rbs.avero-tech.com/
+      - title: ACE-Learning
+        url: https://www.ace-learning.com/
+      - title: MySkillsFuture Portal
+        url: https://www.myskillsfuture.gov.sg/content/student/en/secondary.html
+      - title: Links For Teachers
+        url: /links/links-for-teachers/
+      - title: Links for Students
+        url: /links/links-for-students/
+      - title: Links for Parents
+        url: /links/links-for-parents/
+      - title: School Safety
+        url: /links/school-safety/
