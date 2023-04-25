@@ -5,7 +5,12 @@ description: ""
 third_nav_title: Direct School Admission
 ---
 <h4 style="color:#635f1a;font-weight:bold;font-family:sans-serif;">What is Direct School Admission?</h4>
-<p style="font-size:14.5px; line-height:2;margin-top:15px; font-family:sans-serif">DSA-Sec is an initiative by MOE which was introduced in 2004 to give schools greater flexibility in student admission, so as to recognise more diverse range of student achievements and talents. Under the DSA-Sec Exercise, participating schools may select some students for admission via their own admission criteria.</p>
+<p style="font-size:14.5px; line-height:2;margin-top:15px; font-family:sans-serif">DSA-Sec is an initiative by MOE which was introduced in 2004 to give schools greater flexibility in student admission, so as to recognise more diverse range of student achievements and talents. Under the DSA-Sec Exercise, participating schools may select some students for admission via their own admission criteria. </p>
+<p style="font-size:14.5px; line-height:2;margin-top:15px; font-family:sans-serif"> Parents and students are encouraged to choose schools wisely based on the student’s aptitudes and strengths, bearing in mind the schools’ academic and non-academic requirements, and the programmes available to develop the area of talent.</p>
+
+<p style="font-size:14.5px; line-height:2;margin-top:15px; font-family:sans-serif">Students who are successfully admitted to the school via DSA are expected to honour their commitment to the school, and participate in the activities related to the talent they are selected for from year 1-4.</p>
+
+<p style="font-size:14.5px; line-height:2;margin-top:15px; font-family:sans-serif">Pei Hwa Secondary offers DSA through 5 different talent areas. We are looking for students who demonstrate interest and aptitude in these 5 talent areas:</p>
 
 <table border="1" style="border-collapse: collapse;margin: 25px 0;font-size:14.5px;font-family: sans-serif;box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);">
 <tbody><tr style="background-color: #009879;">
