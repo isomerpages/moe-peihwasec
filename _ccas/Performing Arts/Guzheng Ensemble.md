@@ -42,8 +42,16 @@ third_nav_title: Performing Arts
 </thead>
 	
 <tbody>
-<tr style="margin-top:15px;font-size:14.5px;"></tr>
-	<tr>
+		<tr>
+		<td style="font-size:14.5px; line-height:2">
+			<strong style="font-family:sans-serif;">2023</strong>
+		</td>
+		<td style="font-size:14.5px; line-height:2;font-family:sans-serif;">
+			Certificate of Distinction
+		</td>
+</tr>
+	
+<tr style="background-color:#f3f3f3;">
 		<td style="font-size:14.5px; line-height:2">
 			<strong style="font-family:sans-serif;">2021</strong>
 		</td>
@@ -52,7 +60,7 @@ third_nav_title: Performing Arts
 		</td>
 </tr>
 									
-<tr style="background-color:#f3f3f3;">
+<tr>
 		<td style="font-size:14.5px; line-height:2">
 			<strong style="font-family:sans-serif;">2019</strong>
 		</td>
@@ -61,7 +69,7 @@ third_nav_title: Performing Arts
 		</td>
 </tr>
 	
-<tr>
+<tr style="background-color:#f3f3f3;">
 		<td style="font-size:14.5px; line-height:2;font-family:sans-serif;">
 			<strong style="font-family:sans-serif;">2017</strong>
 		</td>
@@ -70,7 +78,7 @@ third_nav_title: Performing Arts
 		</td>
 </tr>
 									
-<tr style="background-color:#f3f3f3;">
+<tr>
 		<td style="font-size:14.5px; line-height:2;font-family:sans-serif;">
 			<strong style="font-family:sans-serif;">2015</strong>
 		</td>
@@ -79,7 +87,7 @@ third_nav_title: Performing Arts
 		</td>
 
 </tr>
-<tr style="border-bottom: 2px solid #009879;">
+<tr style="background-color:#f3f3f3;border-bottom: 2px solid #009879;">
 		<td style="font-size:14.5px; line-height:2;font-family:sans-serif;">
 			<strong style="font-family:sans-serif;">2013</strong>
 		</td>
@@ -91,7 +99,7 @@ third_nav_title: Performing Arts
 </table>
 
 <img style="width: 100%;margin-top:10px;" src="/images/guzheng5.jpg">
-<p style="text-align: center; font-size:10px;margin-top:5px;font-family:sans-serif;">2017 Singapore Youth Festival Arts Presentation</p>
+<p style="text-align: center; font-size:10px;margin-top:-30px;font-family:sans-serif;">2017 Singapore Youth Festival Arts Presentation</p>
 
 <img style="width: 100%;margin-top:10px;" src="/images/guzheng6.jpg">
 <p style="text-align: center; font-size:10px;margin-top:-5px;font-family:sans-serif;">2019 Singapore Youth Festival Arts Presentation</p>
