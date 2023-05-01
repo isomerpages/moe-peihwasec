@@ -40,9 +40,8 @@ third_nav_title: Performing Arts
 				<td style="text-align:left;color:white;font-family:sans-serif;">Achievement</td>
 			</tr>
 </thead>
-	
 <tbody>
-		<tr>
+<tr>
 		<td style="font-size:14.5px; line-height:2">
 			<strong style="font-family:sans-serif;">2023</strong>
 		</td>
