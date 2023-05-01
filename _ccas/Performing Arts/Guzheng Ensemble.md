@@ -113,7 +113,7 @@ third_nav_title: Performing Arts
 <p style="font-size:14.5px; line-height:2;margin-top:15px; font-family:sans-serif">In 2019, the Pei Hwa Guzheng Ensemble had their inaugural Guzheng recital at the Esplanade Recital Studio.</p>
 
 <img style="width: 100%;margin-top:10px;" src="/images/guzheng8.jpg">
-<p style="text-align: center; font-size:13px;margin-top:-10px;">Guzheng Recital at the Esplanade Recital Studio</p>
+<p style="text-align: center; font-size:10px;margin-top:-5px;font-family:sans-serif">Guzheng Recital at the Esplanade Recital Studio</p>
 
 <p style="font-size:14.5px; line-height:2;margin-top:15px; font-family:sans-serif">The Pei Hwa Guzheng Ensemble have also had their recitals in school through lunch-time concerts.</p>
 
