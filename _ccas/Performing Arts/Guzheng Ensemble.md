@@ -38,7 +38,7 @@ third_nav_title: Performing Arts
 <table border="1" style="border-collapse: collapse;margin: 25px 0;font-size:14.5px;font-family: sans-serif;box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);">
 <thead style="background-color: #009879; font-weight: bold; font-size: 15.5px;">
 <tr>
-				<td style="text-align:left;color:white;font-family:sans-serif;">Year of Competition</td>
+	<td style="text-align:left;color:white;font-family:sans-serif;">Year of Competition</td>
 				<td style="text-align:left;color:white;font-family:sans-serif;">Achievement</td>
 			</tr>
 </thead>
@@ -69,7 +69,6 @@ third_nav_title: Performing Arts
 			Certificate of Distinction
 		</td>
 </tr>
-	
 <tr style="background-color:#f3f3f3;">
 		<td style="font-size:14.5px; line-height:2;font-family:sans-serif;">
 			<strong style="font-family:sans-serif;">2017</strong>
@@ -208,4 +207,4 @@ The journey of preparing for SYF or any performances is never easy. We worked ha
 		</tr>
 		
 </tbody>
-	</table>
+</table>
