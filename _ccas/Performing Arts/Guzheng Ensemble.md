@@ -99,7 +99,7 @@ third_nav_title: Performing Arts
 </table>
 
 <img style="width: 100%;margin-top:10px;" src="/images/guzheng5.jpg">
-<p style="text-align: center; font-size:10px;margin-top:-5pxpx;font-family:sans-serif;">2017 Singapore Youth Festival Arts Presentation</p>
+<p style="text-align: center; font-size:10px;margin-top:-5px;font-family:sans-serif;">2017 Singapore Youth Festival Arts Presentation</p>
 
 <img style="width: 100%;margin-top:10px;" src="/images/guzheng6.jpg">
 <p style="text-align: center; font-size:10px;margin-top:-5px;font-family:sans-serif;">2019 Singapore Youth Festival Arts Presentation</p>
