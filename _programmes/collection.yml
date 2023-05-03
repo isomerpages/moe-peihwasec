@@ -2,6 +2,7 @@ collections:
   programmes:
     output: true
     order:
+      - Robotics DSA.md
       - Innovation & Talent Development.md
       - Student Leadership.md
       - Distinctive Programmes/.keep
