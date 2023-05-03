@@ -179,7 +179,8 @@ third_nav_title: Direct School Admission
 			
 <tr style="background-color: #f3f3f3;">
 				<td><strong style="font-family:sans-serif;">4</strong></td>
-				<td style="font-size:14.5px;font-family:sans-serif;margin-bottom:5px;">Once a CO is accepted by the DSA applicant, he/she will not be allowed to participate in the Secondary One Posting Exercise.</td>
+				<td style="font-size:14.5px;font-family:sans-serif;margin-bottom:5px;">	<ol style="margin-top:5px;">
+						<li style="font-family:sans-serif;font-size:14.5px;margin-bottom:5px;">Once a CO is accepted by the DSA applicant, he/she will not be allowed to participate in the Secondary One Posting Exercise.</li></ol></td>
 				<td style="font-size:14.5px;margin-bottom:5px;">
 					<ol style="margin-top:5px;">
 						<li style="font-family:sans-serif;font-size:14.5px;margin-bottom:5px;">DSA applicants who receive at least one DSA-Sec offer will receive email and SMS notification via Postman.gov.sg on the School Preference submission <strong style="font-family:sans-serif;">mid- to end-October 2023</strong>.</li>
