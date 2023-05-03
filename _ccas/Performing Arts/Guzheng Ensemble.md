@@ -33,7 +33,7 @@ third_nav_title: Performing Arts
 <h4 style="color:#635f1a;font-weight:bold;font-family:sans-serif;">Achievements</h4>
 <p style="font-size:14.5px; line-height:2;margin-top:15px; font-family:sans-serif">The Pei Hwa Guzheng Ensemble debuted in the Singapore Youth Festival Arts Presentation (SYF AP) in 2013. Ever since then, the Guzheng Ensemble has always treasured the SYF AP as an opportunity for the ensemble to develop further in competency and in camaraderie.</p>
 
-<strong style="font-family:sans-serif;">Singapore Youth Festival Arts Presentation</strong>
+<p><strong style="font-family:sans-serif;">Singapore Youth Festival Arts Presentation</strong></p>
 
 <table border="1" style="border-collapse: collapse;margin: 25px 0;font-size:14.5px;font-family: sans-serif;box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);">
 <thead style="background-color: #009879; font-weight: bold; font-size: 15.5px;">
