@@ -38,63 +38,50 @@ third_nav_title: Performing Arts
 <table border="1" style="border-collapse: collapse;margin: 25px 0;font-size:14.5px;font-family: sans-serif;box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);">
 <thead style="background-color: #009879; font-weight: bold; font-size: 15.5px;">
 <tr>
-	<td style="text-align:left;color:white;font-family:sans-serif;">Year of Competition</td>
-				<td style="text-align:left;color:white;font-family:sans-serif;">Achievement</td>
-			</tr>
+<td style="text-align:left;color:white;font-family:sans-serif;">Year of Competition</td>
+<td style="text-align:left;color:white;font-family:sans-serif;">Achievement</td>
+</tr>
 </thead>
 <tbody>
 <tr>
-		<td style="font-size:14.5px; line-height:2">
-			<strong style="font-family:sans-serif;">2023</strong>
-		</td>
-		<td style="font-size:14.5px; line-height:2;font-family:sans-serif;">
-			Certificate of Distinction
-		</td>
+<td style="font-size:14.5px; line-height:2">
+<strong style="font-family:sans-serif;">2023</strong>
+</td>
+<td style="font-size:14.5px; line-height:2;font-family:sans-serif;">Certificate of Distinction
+</td>
 </tr>
 	
 <tr style="background-color:#f3f3f3;">
-		<td style="font-size:14.5px; line-height:2">
-			<strong style="font-family:sans-serif;">2021</strong>
-		</td>
-		<td style="font-size:14.5px; line-height:2;font-family:sans-serif;">
-			Certificate of Distinction
-		</td>
-</tr>
+<td style="font-size:14.5px; line-height:2">
+<strong style="font-family:sans-serif;">2021</strong>
+</td>
+<td style="font-size:14.5px; line-height:2;font-family:sans-serif;">Certificate of Distinction</td>
+	</tr>
 									
 <tr>
-		<td style="font-size:14.5px; line-height:2">
-			<strong style="font-family:sans-serif;">2019</strong>
-		</td>
-		<td style="font-size:14.5px; line-height:2;font-family:sans-serif;">
-			Certificate of Distinction
-		</td>
+<td style="font-size:14.5px; line-height:2">
+<strong style="font-family:sans-serif;">2019</strong>
+</td>
+<td style="font-size:14.5px; line-height:2;font-family:sans-serif;">Certificate of Distinction</td>
 </tr>
 <tr style="background-color:#f3f3f3;">
-		<td style="font-size:14.5px; line-height:2;font-family:sans-serif;">
-			<strong style="font-family:sans-serif;">2017</strong>
-		</td>
-		<td style="font-size:14.5px; line-height:2;font-family:sans-serif;">
-			Certificate of Distinction
-		</td>
+<td style="font-size:14.5px; line-height:2;font-family:sans-serif;">
+<strong style="font-family:sans-serif;">2017</strong>
+</td>
+<td style="font-size:14.5px; line-height:2;font-family:sans-serif;">Certificate of Distinction</td>
 </tr>
 									
 <tr>
-		<td style="font-size:14.5px; line-height:2;font-family:sans-serif;">
-			<strong style="font-family:sans-serif;">2015</strong>
-		</td>
-		<td style="font-size:14.5px; line-height:2;font-family:sans-serif;">
-			Certificate of Distinction
-		</td>
-
+<td style="font-size:14.5px; line-height:2;font-family:sans-serif;">
+<strong style="font-family:sans-serif;">2015</strong>
+</td><td style="font-size:14.5px; line-height:2;font-family:sans-serif;">Certificate of Distinction
+</td>
 </tr>
+	
 <tr style="background-color:#f3f3f3;border-bottom: 2px solid #009879;">
-		<td style="font-size:14.5px; line-height:2;font-family:sans-serif;">
-			<strong style="font-family:sans-serif;">2013</strong>
-		</td>
-		<td style="font-size:15px; line-height:2;font-family:sans-serif;">
-			Certificate of Distinction
-		</td>
+<td style="font-size:14.5px; line-height:2;font-family:sans-serif;"><strong style="font-family:sans-serif;">2013</strong></td><td style="font-size:15px; line-height:2;font-family:sans-serif;">Certificate of Distinction</td>
 </tr>
+	
 </tbody>
 </table>
 
