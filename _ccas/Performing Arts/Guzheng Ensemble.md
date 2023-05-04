@@ -33,65 +33,60 @@ third_nav_title: Performing Arts
 <h4 style="color:#635f1a;font-weight:bold;font-family:sans-serif;">Achievements</h4>
 <p style="font-size:14.5px; line-height:2;margin-top:15px; font-family:sans-serif">The Pei Hwa Guzheng Ensemble debuted in the Singapore Youth Festival Arts Presentation (SYF AP) in 2013. Ever since then, the Guzheng Ensemble has always treasured the SYF AP as an opportunity for the ensemble to develop further in competency and in camaraderie.</p>
 
-<strong style="font-family:sans-serif;">Singapore Youth Festival Arts Presentation</strong><table border="1" style="border-collapse: collapse;margin: 25px 0;font-size:14.5px;font-family: sans-serif;box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);">
+<p><strong style="font-family:sans-serif;">Singapore Youth Festival Arts Presentation</strong></p>
+
+<table border="1" style="border-collapse: collapse;margin: 25px 0;font-size:14.5px;font-family: sans-serif;box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);">
 <thead style="background-color: #009879; font-weight: bold; font-size: 15.5px;">
 <tr>
-				<td style="text-align:left;color:white;font-family:sans-serif;">Year of Competition</td>
-				<td style="text-align:left;color:white;font-family:sans-serif;">Achievement</td>
-			</tr>
+<td style="text-align:left;color:white;font-family:sans-serif;">Year of Competition</td>
+<td style="text-align:left;color:white;font-family:sans-serif;">Achievement</td>
+</tr>
 </thead>
-	
 <tbody>
-<tr style="margin-top:15px;font-size:14.5px;"></tr>
-	<tr>
-		<td style="font-size:14.5px; line-height:2">
-			<strong style="font-family:sans-serif;">2021</strong>
-		</td>
-		<td style="font-size:14.5px; line-height:2;font-family:sans-serif;">
-			Certificate of Distinction
-		</td>
-</tr>
-									
-<tr style="background-color:#f3f3f3;">
-		<td style="font-size:14.5px; line-height:2">
-			<strong style="font-family:sans-serif;">2019</strong>
-		</td>
-		<td style="font-size:14.5px; line-height:2;font-family:sans-serif;">
-			Certificate of Distinction
-		</td>
+<tr>
+<td style="font-size:14.5px; line-height:2">
+<strong style="font-family:sans-serif;">2023</strong>
+</td>
+<td style="font-size:14.5px; line-height:2;font-family:sans-serif;">Certificate of Distinction
+</td>
 </tr>
 	
+<tr style="background-color:#f3f3f3;">
+<td style="font-size:14.5px; line-height:2">
+<strong style="font-family:sans-serif;">2021</strong>
+</td>
+<td style="font-size:14.5px; line-height:2;font-family:sans-serif;">Certificate of Distinction</td>
+	</tr>
+									
 <tr>
-		<td style="font-size:14.5px; line-height:2;font-family:sans-serif;">
-			<strong style="font-family:sans-serif;">2017</strong>
-		</td>
-		<td style="font-size:14.5px; line-height:2;font-family:sans-serif;">
-			Certificate of Distinction
-		</td>
+<td style="font-size:14.5px; line-height:2">
+<strong style="font-family:sans-serif;">2019</strong>
+</td>
+<td style="font-size:14.5px; line-height:2;font-family:sans-serif;">Certificate of Distinction</td>
+</tr>
+<tr style="background-color:#f3f3f3;">
+<td style="font-size:14.5px; line-height:2;font-family:sans-serif;">
+<strong style="font-family:sans-serif;">2017</strong>
+</td>
+<td style="font-size:14.5px; line-height:2;font-family:sans-serif;">Certificate of Distinction</td>
 </tr>
 									
-<tr style="background-color:#f3f3f3;">
-		<td style="font-size:14.5px; line-height:2;font-family:sans-serif;">
-			<strong style="font-family:sans-serif;">2015</strong>
-		</td>
-		<td style="font-size:14.5px; line-height:2;font-family:sans-serif;">
-			Certificate of Distinction
-		</td>
-
+<tr>
+<td style="font-size:14.5px; line-height:2;font-family:sans-serif;">
+<strong style="font-family:sans-serif;">2015</strong>
+</td><td style="font-size:14.5px; line-height:2;font-family:sans-serif;">Certificate of Distinction
+</td>
 </tr>
-<tr style="border-bottom: 2px solid #009879;">
-		<td style="font-size:14.5px; line-height:2;font-family:sans-serif;">
-			<strong style="font-family:sans-serif;">2013</strong>
-		</td>
-		<td style="font-size:15px; line-height:2;font-family:sans-serif;">
-			Certificate of Distinction
-		</td>
+	
+<tr style="background-color:#f3f3f3;border-bottom: 2px solid #009879;">
+<td style="font-size:14.5px; line-height:2;font-family:sans-serif;"><strong style="font-family:sans-serif;">2013</strong></td><td style="font-size:15px; line-height:2;font-family:sans-serif;">Certificate of Distinction</td>
 </tr>
+	
 </tbody>
 </table>
 
 <img style="width: 100%;margin-top:10px;" src="/images/guzheng5.jpg">
-<p style="text-align: center; font-size:10px;margin-top:5px;font-family:sans-serif;">2017 Singapore Youth Festival Arts Presentation</p>
+<p style="text-align: center; font-size:10px;margin-top:-5px;font-family:sans-serif;">2017 Singapore Youth Festival Arts Presentation</p>
 
 <img style="width: 100%;margin-top:10px;" src="/images/guzheng6.jpg">
 <p style="text-align: center; font-size:10px;margin-top:-5px;font-family:sans-serif;">2019 Singapore Youth Festival Arts Presentation</p>
@@ -104,7 +99,7 @@ third_nav_title: Performing Arts
 <p style="font-size:14.5px; line-height:2;margin-top:15px; font-family:sans-serif">In 2019, the Pei Hwa Guzheng Ensemble had their inaugural Guzheng recital at the Esplanade Recital Studio.</p>
 
 <img style="width: 100%;margin-top:10px;" src="/images/guzheng8.jpg">
-<p style="text-align: center; font-size:13px;margin-top:-10px;">Guzheng Recital at the Esplanade Recital Studio</p>
+<p style="text-align: center; font-size:10px;margin-top:-5px;font-family:sans-serif">Guzheng Recital at the Esplanade Recital Studio</p>
 
 <p style="font-size:14.5px; line-height:2;margin-top:15px; font-family:sans-serif">The Pei Hwa Guzheng Ensemble have also had their recitals in school through lunch-time concerts.</p>
 
@@ -199,4 +194,4 @@ The journey of preparing for SYF or any performances is never easy. We worked ha
 		</tr>
 		
 </tbody>
-	</table>
+</table>

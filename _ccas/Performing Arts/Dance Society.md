@@ -9,7 +9,10 @@ third_nav_title: Performing Arts
 <h4 style="color:#635f1a;font-family:sans-serif;font-weight:bold;">Achievements</h4>
 <p style="font-size:14.5px; line-height:2;margin-top:15px; font-family:sans-serif;">Pei Hwa Dance Society has been a consistent participant at the Singapore Youth Festival Arts Presentation. In our most recent entry, we successfully achieved Certificates of Distinction for the International and Chinese Dance categories.</p>
 
-<strong style="font-family:sans-serif;">National School Games</strong><table border="1" style="border-collapse: collapse;margin: 25px 0;font-size:15px;font-family: sans-serif;box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);">
+<p style="font-size:14.5px; line-height:2;margin-top:15px; font-family:sans-serif;">
+<strong style="font-family:sans-serif;">National School Games</strong></p>
+
+<table border="1" style="border-collapse: collapse;margin: 25px 0;font-size:15px;font-family: sans-serif;box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);">
 <thead style="background-color: #009879; font-weight: bold; font-size: 15.5px;">
 <tr>
 				<td style="text-align:left;color:white;sans-serif;;">Year of Competition</td>
