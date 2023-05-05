@@ -2,7 +2,7 @@
 title: Robotics Club
 permalink: /ccas/clubs-societies/robotics/
 description: ""
-third_nav_title: Clubs &amp; Societies
+third_nav_title: Clubs & Societies
 ---
 <h4 style="color:#635f1a;font-weight:bold;font-family:sans-serif;">Student Outcomes</h4>
 
