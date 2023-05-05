@@ -1,9 +1,10 @@
 ---
 title: Pei Hwa Foundation Scholarship
 permalink: /lp-announcement/pei-hwa-foundation-scholarship/
-date: 2022-01-01
+date: 2023-04-21
 layout: post
 description: ""
+image: ""
 ---
 <img style="width: 50%;" src="/images/pei-hwa-foundation-2023.jpeg">
 <p style="font-family:sans-serif;font-size:15.5px;"><strong style="font-family:sans-serif;font-size:15.5px;">Pei Hwa Foundation Scholarship for Alumni Youth Wing Members</strong></p>
