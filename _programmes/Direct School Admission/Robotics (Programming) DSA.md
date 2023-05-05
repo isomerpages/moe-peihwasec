@@ -64,29 +64,24 @@ Applicants do not need to possess&nbsp;<strong style="font-family:sans-serif;">A
 <thead style="background-color: #009879; font-weight: bold; font-size: 14.5px;">
 <tr>
 				<td style="text-align:left;color:white;font-family:sans-serif;">Criteria</td>
-				<td style="text-align:left;color:white;font-family:sans-serif;">Weighting</td>
 			</tr>
 </thead>
 	
 <tbody>
 <tr>
 				<td style="font-family:sans-serif;">Level of Experience &amp; Exposure as a Programmer</td>
-				<td style="font-family:sans-serif;margin-bottom:5px;">20%</td>
 </tr>
 			
 <tr style="background-color: #f3f3f3;">
 				<td style="font-family:sans-serif;">E-Portfolio (Evidence of Students’ existing work from School-Based Activities)</td>
-				<td style="font-family:sans-serif;margin-bottom:5px;">20%</td>
 </tr>
 			
 <tr>
 				<td style="font-family:sans-serif;">Interview</td>
-				<td style="font-family:sans-serif;margin-bottom:5px;">30%</td>
 </tr>
 						
 <tr style="background-color: #f3f3f3;border-bottom: 2px solid #009879;">
 				<td>Selection Test</td>
-				<td style="font-family:sans-serif;margin-bottom:5px;">30%</td>
 </tr>
 			
 </tbody>
