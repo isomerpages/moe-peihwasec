@@ -163,7 +163,7 @@ not to change the assigned interview and selection schedule except for valid rea
 				<td><strong style="font-family:sans-serif;">3</strong></td>
 				<td style="font-family:sans-serif;font-size:14.5px;margin-bottom:5px;">
 <ol style="margin-top:5px;">
-						<li style="font-size:14.5px; font-family:sans-serif;margin-bottom:5px;">All DSA applicants will be notified by<strong style="font-family:sans-serif;"> 12 Sep 2023</strong> on the outcome of their application. The decision of the interview panel is final.</li>
+						<li style="font-size:14.5px; font-family:sans-serif;margin-bottom:5px;">All DSA applicants will be notified by<strong style="font-family:sans-serif;"> 11 Sep 2023</strong> on the outcome of their application. The decision of the interview panel is final.</li>
 </ol></td>
 				<td style="font-family:sans-serif;font-size:14.5px;margin-bottom:5px;"><ol style="margin-top:5px;"><li style="font-size:14.5px; font-family:sans-serif;margin-bottom:5px;">Possible outcomes of selection:
 <ul style="margin-top:5px;">
