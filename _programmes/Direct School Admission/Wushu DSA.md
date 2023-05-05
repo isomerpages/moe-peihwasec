@@ -1,48 +1,44 @@
 ---
-title: Floorball
-permalink: /programmes/direct-school-admission/permalink/
+title: Wushu DSA
+permalink: /programmes/direct-school-admission/wushu-dsa/
 description: ""
 third_nav_title: Direct School Admission
 ---
-<h4 style="color:#635f1a;font-weight:bold;font-family:sans-serif;">DSA Admission – Floorball</h4>
+<h4 style="color:#635f1a;font-weight:bold;font-family:sans-serif;">DSA Admission – Wushu</h4>
 
-<p style="font-size:14.5px; line-height:2;margin-top:15px; font-family:sans-serif">Pei Hwa Secondary School is looking for Primary 6 students with passion and talent in playing floorball. Students should meet the admission criteria stated in the following section before
-applying. Shortlisted applicants who meet the admission criteria will be required to attend an interview and selection trial by our panel of teachers.</p>
+<p style="font-size:14.5px; line-height:2;margin-top:15px; font-family:sans-serif">Pei Hwa Secondary School is looking for Primary 6 students with a passion and talent in
+Wushu. Students should meet the admission criteria stated in the following section before applying. Shortlisted applicants who meet the admission criteria will be required to attend an interview and selection trial by our panel of teachers and instructor.</p>
 
 <p style="margin-top:15px;font-size:14.5px; line-height:2;font-family:sans-serif;">Parents and students are encouraged to choose schools wisely based on the student’s aptitudes and strengths, bearing in mind the school’s academic and non-academic requirements, and the programmes available to develop the area of talent.</p>
 
 <p style="margin-top:15px;font-size:14.5px; line-height:2;font-family:sans-serif;">Students who are successfully admitted to the school via DSA are expected to honour their commitment to the school, and participate in the activities related to the talent they are selected
 for from year 1 to 4.</p>
 
-<h4 style="color:#635f1a;font-weight:bold;font-family:sans-serif;">About Pei Hwa Floorball</h4>
+<h4 style="color:#635f1a;font-weight:bold;font-family:sans-serif;">About Pei Hwa Wushu</h4>
 
-<p style="margin-top:15px;font-size:14.5px; line-height:2;font-family:sans-serif;">Pei Hwa Floorball seeks to provide opportunities to develop students’ talents and lifelong passion for the sport. Through the meaningful experiences planned, the floorball CCA also aims
-to help students to build a variety of important skills and qualities, such as teamwork, physical fitness, sportsmanship and leadership. Overall, participating in the floorball CCA can offer students a range of benefits, from physical fitness to social and emotional development, and can help to create a positive and supportive learning environment.</p>
+<p style="margin-top:15px;font-size:14.5px; line-height:2;font-family:sans-serif;">Pei Hwa Wushu&nbsp;focuses on developing students’ confidence in body expressions through a vigorous attention on the strengthening of body and mind. The practice of contemporary Chinese martial arts combines elements of performance and martial application. Some programmes and activities of the Pei Hwa Wushu may include:</p>
 
-<p style="margin-top:15px;font-size:14.5px; line-height:2;font-family:sans-serif;">Some programmes and activities of the floorball CCA include:</p>
+<p style="margin-top:15px;font-size:14.5px; line-height:2;font-family:sans-serif;">Some programmes and activities of the Pei Hwa Taekwondo CCA may include:</p>
 
 <ul style="margin-top:5px;">
-<li style="font-size:14.5px; line-height:2;font-family:sans-serif;">National School Games</li>
-<li style="font-size:14.5px; line-height:2;font-family:sans-serif;">Singapore Floorball League</li>
-<li style="font-size:14.5px; line-height:2;font-family:sans-serif;">Other external floorball competitions</li>
-<li style="font-size:14.5px; line-height:2;font-family:sans-serif;">Floorball enrichment workshops</li>
-<li style="font-size:14.5px; line-height:2;font-family:sans-serif;">Learning journeys</li>
-<li style="font-size:14.5px; line-height:2;font-family:sans-serif;">Training camps</li>
-<li style="font-size:14.5px; line-height:2;font-family:sans-serif;">Leadership opportunities</li>
+<li style="font-size:14.5px; line-height:2;font-family:sans-serif;">School performances</li>
+<li style="font-size:14.5px; line-height:2;font-family:sans-serif;">Exposure to local and overseas competitions</li>
+<li style="font-size:14.5px; line-height:2;font-family:sans-serif;">Exchanges with local schools</li>
 </ul>
 
-<p style="margin-top:15px;font-size:14.5px; line-height:2;font-family:sans-serif;">For more information on Pei Hwa Floorball CCA and their programme, please visit <a style="font-family:sans-serif;" rel="noopener noreferrer" target="_blank" href="https://www.peihwasec.moe.edu.sg/ccas/sports-games/floorball/">https://www.peihwasec.moe.edu.sg/ccas/sports-games/floorball/</a></p>
+<p style="margin-top:15px;font-size:14.5px; line-height:2;font-family:sans-serif;">For more information on Pei Hwa Wushu CCA and their programme, please visit <a href="https://www.peihwasec.moe.edu.sg/ccas/sports-games/wushu/">https://www.peihwasec.moe.edu.sg/ccas/sports-games/wushu/</a></p>
 
 <h4 style="color:#635f1a;font-weight:bold;font-family:sans-serif;">Shortlisting Criteria</h4>
 <p style="font-size:14.5px; line-height:2;margin-top:15px; font-family:sans-serif">
-</p>
 
-<ul style="margin-top:5px;">
+</p><ul style="margin-top:5px;">
+<li style="font-size:14.5px; line-height:2;font-family:sans-serif;">DSA applicants should have experience in practicing Wushu. (Formal Certification is useful, but
+not compulsory)</li>
 <li style="font-size:14.5px; line-height:2;font-family:sans-serif;">Applicants should preferably have:</li>
 	<ul style="margin-top:5px;">
-<li style="font-size:14.5px; line-height:2;font-family:sans-serif;">Experience playing Floorball<strong style="font-size:14.5px; line-height:2;font-family:sans-serif;"> OR</strong></li>
-<li style="font-size:14.5px; line-height:2;font-family:sans-serif;">Represented their primary school in National School Games<strong style="font-size:14.5px; line-height:2;font-family:sans-serif;"> OR</strong></li>
-<li style="font-size:14.5px; line-height:2;font-family:sans-serif;">Other achievement(s)/ attainment(s)</li>
+<li style="font-size:14.5px; line-height:2;font-family:sans-serif;">Relevant experiences in performing in school or external events<strong style="font-size:14.5px; line-height:2;font-family:sans-serif;"> OR</strong></li>
+<li style="font-size:14.5px; line-height:2;font-family:sans-serif;">Represented their primary school in National School Championship<strong style="font-size:14.5px; line-height:2;font-family:sans-serif;"> OR</strong></li>
+<li style="font-size:14.5px; line-height:2;font-family:sans-serif;">Other achievement(s)/ attainment(s) in Wushu</li>
 <li style="font-size:14.5px; line-height:2;font-family:sans-serif;">Good physical abilities</li>
 </ul>
 </ul>
@@ -50,9 +46,7 @@ to help students to build a variety of important skills and qualities, such as t
 <p style="margin-top:15px;font-size:14.5px; line-height:2;font-family:sans-serif;"><strong style="font-family:sans-serif;">Note:</strong></p>
 
 <ol style="margin-top:5px;">
-<li style="font-size:14.5px; line-height:2;font-family:sans-serif;">Floorball CCA is only offered to girls in Pei Hwa Secondary School.</li>
-<li style="font-size:14.5px; line-height:2;font-family:sans-serif;">Applicants do not need to possess ALL of the above criteria to be considered. Meeting
-all the criteria does not guarantee the applicant will be shortlisted / given an offer.</li>
+<li style="font-size:14.5px; line-height:2;font-family:sans-serif;">Applicants do not need to possess&nbsp;<strong style="font-size:14.5px; line-height:2;font-family:sans-serif;">ALL </strong> of the above criteria to be considered.&nbsp;Meeting all the criteria does not guarantee the applicant will be shortlisted / given an offer.</li>
 <li style="font-size:14.5px; line-height:2;font-family:sans-serif;">Students who are successfully admitted to the school via DSA are expected to honour their commitment to the school and participate in the activities related to the talent they are selected for from year 1 to 4.</li>
 </ol>
 
@@ -60,12 +54,16 @@ all the criteria does not guarantee the applicant will be shortlisted / given an
 
 <ul style="margin-top:5px;">
 <li style="font-size:14.5px; line-height:2;font-family:sans-serif;">An interview.</li>
-<li style="font-size:14.5px; line-height:2;font-family:sans-serif;">A selection trial requiring shortlisted DSA applicants to:</li>
+<li style="font-size:14.5px; line-height:2;font-family:sans-serif;">A selection trial requiring them to:</li>
 	<ol style="margin-top:5px;">
-<li style="font-size:14.5px; line-height:2;font-family:sans-serif;">Perform floorball skills as decided by Pei Hwa Secondary School</li>
-<li style="font-size:14.5px; line-height:2;font-family:sans-serif;">Participate in a speed and agility test</li>
-		<li style="font-size:14.5px; line-height:2;font-family:sans-serif;">Play a floorball game</li>
-</ol></ul>
+<li style="font-size:14.5px; line-height:2;font-family:sans-serif;">Demonstrate Wushu foundation skills as decided by Pei Hwa Secondary School.</li>
+<li style="font-size:14.5px; line-height:2;font-family:sans-serif;">Perform a prepared Wushu routine (Duration of routine should not exceed 1 min
+30 seconds).</li>
+		<ol>
+</ol></ol></ul>
+
+<p style="margin-top:15px;font-size:15.5px; line-height:2;font-family:sans-serif;"><strong style="font-family:sans-serif;">Breakdown of Criteria and Weighting</strong></p>
+
 
 <table style="border-collapse: collapse;margin: 25px 0;font-size:14.5px;font-family: sans-serif;box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);" border="1">
 <thead style="background-color: #009879; font-weight: bold; font-size: 14.5px;">
@@ -78,15 +76,14 @@ all the criteria does not guarantee the applicant will be shortlisted / given an
 <tbody>
 <tr>
 				<td style="font-family:sans-serif;">Selection Trial <ul style="margin-top:5px;">
-<li style="font-size:14.5px; line-height:2;font-family:sans-serif;">Floorball skills (40%)</li>
-<li style="font-size:14.5px; line-height:2;font-family:sans-serif;">Speed and Agility (30%)</li>
-					<li style="font-size:14.5px; line-height:2;font-family:sans-serif;">Games Concept (10%)</li></ul></td>
-				<td style="font-family:sans-serif;margin-bottom:5px;">80%</td>
+<li style="font-size:14.5px; line-height:2;font-family:sans-serif;">Wushu Skills (40%)</li>
+<li style="font-size:14.5px; line-height:2;font-family:sans-serif;">Prepared routine (30%)</li></ul></td>
+				<td style="font-family:sans-serif;margin-bottom:5px;">70%</td>
 </tr>
 			
 <tr style="background-color: #f3f3f3;">
 				<td style="font-family:sans-serif;">Interview</td>
-				<td style="font-family:sans-serif;margin-bottom:5px;">20%</td>
+				<td style="font-family:sans-serif;margin-bottom:5px;">30%</td>
 </tr>
 						
 </tbody>
@@ -96,12 +93,14 @@ all the criteria does not guarantee the applicant will be shortlisted / given an
 </p><ul style="margin-top:5px;">
 <li style="font-size:14.5px; line-height:2;font-family:sans-serif;">All Interviews and selection trials will take place face-to-face at Pei Hwa Secondary
 School.</li>
-<li style="font-size:14.5px; line-height:2;font-family:sans-serif;">Applicants may bring their own floorball sticks. Pei Hwa Secondary School can provide floorball sticks if applicants do not have their own.</li>
+<li style="font-size:14.5px; line-height:2;font-family:sans-serif;">Weapons/equipment will/ will not be provided by Pei Hwa Secondary School.
+Shortlisted DSA applicants may bring their own Weapons/equipment for the
+Selection trial, if they wish to.</li>
 </ul>
 <p></p>
 
 <h4 style="color:#635f1a;font-weight:bold;font-family:sans-serif;">Application Procedures for 2023</h4>
-<p style="font-size:14.5px; line-height:2;margin-top:15px;margin-bottom:-15px;font-family:sans-serif;"><strong>Here are the procedures for DSA – Floorball application in Pei Hwa Secondary School.</strong></p>
+<p style="font-size:14.5px; line-height:2;margin-top:15px;margin-bottom:-15px;font-family:sans-serif;"><strong>Here are the procedures for DSA – Taekwondo application in Pei Hwa Secondary School.</strong></p>
 
 <table style="border-collapse: collapse;margin: 25px 0;font-size:14.5px;font-family: sans-serif;box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);" border="1">
 	<thead style="background-color: #009879; font-weight: bold; font-size: 14.6px;">
@@ -207,7 +206,7 @@ intake via the DSA-Sec.</p>
 <p style="font-size:14.5px; line-height:2;font-family:sans-serif;"><strong style="font-family:sans-serif;">2. Can my child take part in the DSA exercise if he/she is currently not studying in any of the MOE schools?</strong></p>
 <p style="margin-top:15px;font-size:14.5px; line-height:2;font-family:sans-serif;">Applicants not studying in MOE mainstream primary schools will need to apply for a Registration Number (RGxxxxxxx) to access the DSA-Sec Portal. Please refer to MOE website at:<a href="https://go.gov.sg/nmsdsa-sec-application" style="font-family:sans-serif;"> https://go.gov.sg/nmsdsa-sec-application</a></p>
 
-<p style="font-size:14.5px; line-height:2;font-family:sans-serif;"><strong style="font-family:sans-serif;">3. Will my child be part of the Floorball CCA if he is successful in the DSA application?</strong></p><p style="font-size:14.5px; line-height:2;font-family:sans-serif;margin-top:-5px;"></p><p style="font-size:14.5px; line-height:2;font-family:sans-serif;margin-top:-5px;">Your child will be automatically channelled into Floorball as his/her CCA through the DSA Exercise. Hence, your child will not be involved in the CCA Selection Process during the CCA orientation week.</p>
+<p style="font-size:14.5px; line-height:2;font-family:sans-serif;"><strong style="font-family:sans-serif;">3. Will my child be part of the Wushu CCA if he is successful in the DSA application?</strong></p><p style="font-size:14.5px; line-height:2;font-family:sans-serif;margin-top:-5px;"></p><p style="font-size:14.5px; line-height:2;font-family:sans-serif;margin-top:-5px;">Your child will be automatically channelled into Wushu as his/her CCA through the DSA Exercise. Hence, your child will not be involved in the CCA Selection Process during the CCA orientation week.</p>
 
 <p style="font-size:14.5px; line-height:2;font-family:sans-serif;"><strong style="font-family:sans-serif;">4. Can my child/ward apply for transfer after getting a confirmed place?</strong></p>
 <p style="font-size:14.5px; line-height:2;font-family:sans-serif;margin-top:-5px;">Successful DSA –Sec students are NOT allowed to transfer to another school after the release of the PSLE results. They are expected to honour the commitment to the posted DSA schools for the duration of the programme they are admitted to.</p>

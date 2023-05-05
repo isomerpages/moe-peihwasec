@@ -1,6 +1,6 @@
 ---
-title: Guzheng Ensemble
-permalink: /programmes/direct-school-admission/permalink/
+title: Guzheng DSA
+permalink: /programmes/direct-school-admission/guzheng-dsa/
 description: ""
 third_nav_title: Direct School Admission
 ---

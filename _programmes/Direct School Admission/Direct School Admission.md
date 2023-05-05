@@ -94,9 +94,13 @@ Apart from developing our students to acquire knowledge in Taekwondo, the CCA al
 </tbody></table>
 
 <h4 style="color:#635f1a;font-weight:bold;font-family:sans-serif;">Related Pages</h4>
-<p style="font-size:14.5px; line-height:2;margin-top:15px; font-family:sans-serif">
-<strong style="font-family:sans-serif;">Please watch this space for updates.</strong></p>
-
+<ol style="margin-top:5px;"> 
+	<li style="font-size:14.5px; line-height:2;font-family:sans-serif;"><a style="font-family:sans-serif;" rel="noopener noreferrer" target="_blank" href="">Guzheng DSA</a></li> 
+<li style="font-size:14.5px; line-height:2;font-family:sans-serif;"><a style="font-family:sans-serif;" rel="noopener noreferrer" target="_blank" href="">Robotics (Programming) DSA</a></li> 
+<li style="font-size:14.5px; line-height:2;font-family:sans-serif;"><a style="font-family:sans-serif;" rel="noopener noreferrer" target="_blank" href="">Floorball DSA</a></li> 
+<li style="font-size:14.5px; line-height:2;font-family:sans-serif;"><a style="font-family:sans-serif;" rel="noopener noreferrer" target="_blank" href="">Wushu DSA</a></li> 
+<li style="font-size:14.5px; line-height:2;font-family:sans-serif;"><a style="font-family:sans-serif;" rel="noopener noreferrer" target="_blank" href="">Taekwondo DSA</a></li> 
+	</ol>
 
 <h4 style="color:#635f1a;font-weight:bold;font-family:sans-serif;">FAQs</h4>
 <p style="font-size:14.5px; line-height:2;margin-top:15px; font-family:sans-serif">

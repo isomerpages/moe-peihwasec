@@ -1,6 +1,6 @@
 ---
-title: Taekwondo
-permalink: /programmes/direct-school-admission/permalink/
+title: Taekwondo DSA
+permalink: /programmes/direct-school-admission/taekwondo-dsa/
 description: ""
 third_nav_title: Direct School Admission
 ---

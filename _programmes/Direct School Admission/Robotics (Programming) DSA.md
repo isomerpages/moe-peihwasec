@@ -1,6 +1,6 @@
 ---
-title: Robotics
-permalink: /programmes/permalink/
+title: Robotics (Programming) DSA
+permalink: /programmes/direct-school-admission/robotics-programming-dsa/
 description: ""
 third_nav_title: Direct School Admission
 ---
