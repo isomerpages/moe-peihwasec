@@ -105,11 +105,9 @@ Safety Tips for Participation in Sports and Games</h4>
 
 <p style="margin-top:15px;font-size:15.5px;"><strong style="font-family:sans-serif;">Student Accident Protection Scheme</strong></p>
 
-<p style="font-size:14.5px; line-height:2;margin:-15px 0 13px 0px;font-family:sans-serif;">All Pei Hwa pupils are covered under the above scheme which provides 24-hour worldwide accident coverage related to school activites and/or CCAs both in and out of school.</p>
+<p style="font-size:14.5px; line-height:2;margin:-15px 0 13px 0px;font-family:sans-serif;">With effect from&nbsp;2022, all student&nbsp;accident&nbsp;insurance claims submission are to be submitted electronically. Parents/students are to submit their claims online and check the claims status through the online portal.&nbsp;</p>
 
-<p style="margin-top:15px;font-size:14.5px; line-height:2;font-family:sans-serif;">The claim forms are available at the General Office.</p>
-
-<p style="margin-top:15px;font-size:14.5px; line-height:2;font-family:sans-serif;">Completed forms and supporting documents/medical bills are to be submitted to the General Office within 1 month of the date of the bill.</p>
+<p style="margin-top:15px;font-size:14.5px; line-height:2;font-family:sans-serif;">Information on claims, FAQs and other details pertaining to the&nbsp;GPA&nbsp;Insurance Plan for Students can be found on NTUC Income’s website at&nbsp;<a style="font-family:sans-serif;" rel="noopener noreferrer" target="_blank" href="https://www.income.com.sg/studentgpa">https://www.income.com.sg/studentgpa</a></p>
 
 <h4 style="color:#635f1a;font-weight:bold;font-family:sans-serif;">Food Safety in School</h4>
 <p style="font-size:14.5px; line-height:2;margin-top:15px; font-family:sans-serif">Food can be easily contaminated and become unsafe for eating. Food contaimination may occur when cooked food is accidentally mixed with raw meat&nbsp;juices, or when food is exposed to dirt, chemicals, bacteria, viruses or other pathogens. This usually happens because we do not handle our food safely or observe proper hygiene.</p>
