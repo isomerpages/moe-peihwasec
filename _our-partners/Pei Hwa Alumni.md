@@ -24,6 +24,6 @@ description: ""
 
 <p style="font-size:14.5px; line-height:2;margin:-10px 0 13px 0px;font-family:sans-serif;">The scholarship aims to foster a sense of belonging amongst all Pei Hwa Alumni members and Pei Hwa Secondary School graduates to the Pei Hwa Family. It also aims to support and encourage Pei Hwa Alumni Youth Wing members to strive for academic excellence and contribute to the community in a meaningful manner.</p>
 
-<p style="margin-top:15px;font-size:14.5px; line-height:2;font-family:sans-serif;">For more information on the scholarship you may refer to the following document:&nbsp;<a href="/files/PHF_Scholarship_general-information_updated_22Mar2022.pdf" style="font-family:sans-serif;font-size:14.5px;">General Info</a>.</p>
+<p style="margin-top:15px;font-size:14.5px; line-height:2;font-family:sans-serif;">For more information on the scholarship you may refer to the following document:&nbsp;<a href="https://drive.google.com/file/d/13SOXVclgpMKWnKHTQpYtIUPvLRKINYRP/view?usp=share_link" style="font-family:sans-serif;font-size:14.5px;">General Info</a>.</p>
 
 <p style="margin-top:15px;font-size:14.5px; line-height:2;font-family:sans-serif;">To download the scholarship application form, click&nbsp;<a href="/files/PHF_Scholarship_App_Form_Mar2021.pdf" style="font-family:sans-serif;font-size:14.5px;">here</a>.</p>
