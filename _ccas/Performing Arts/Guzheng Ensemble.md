@@ -150,7 +150,7 @@ The recitals aim to showcase the passion and talent of the Guzheng Ensemble. Pie
 <img src="/images/Guzheng 2023 06.jpg" style="width: 100%;margin-top:10px;">
 <p style="text-align: center; font-size:10px;margin-top:-5px;font-family:sans-serif;">Performing Arts Camp 2022</p>
 
-<p style="margin-top:15px;font-size:14.5px; line-height:2;font-family:sans-serif;">For more information on the Direct School Admissions to Pei Hwa Secondary School through Guzheng Ensemble, please&nbsp;<a style="font-family:sans-serif;" href="/programmes/direct-school-admission-dsa/guzheng/" target="_blank" rel="noopener noreferrer">click here</a>.</p>
+<p style="margin-top:15px;font-size:14.5px; line-height:2;font-family:sans-serif;">For more information on the Direct School Admissions to Pei Hwa Secondary School through Guzheng Ensemble, please&nbsp;<a style="font-family:sans-serif;" href="https://www.peihwasec.moe.edu.sg/programmes/direct-school-admission/guzheng-dsa/" target="_blank" rel="noopener noreferrer">click here</a>.</p>
 
 <h4 style="color:#635f1a;font-weight:bold;margin-bottom:-25px;font-family:sans-serif;">Student Testament</h4>
 <blockquote style="font-size: 14.5px;width:100%;margin:50px auto;font-family:serif;font-style:italic;color: #555555;padding:1.2em 25px 1.2em 25px;border-left:8px solid #78C0A8 ;line-height:1.6;position: relative;background:#EDEDED;">
