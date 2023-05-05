@@ -71,7 +71,6 @@ all the criteria does not guarantee the applicant will be shortlisted / given an
 <thead style="background-color: #009879; font-weight: bold; font-size: 14.5px;">
 <tr>
 				<td style="text-align:left;color:white;font-family:sans-serif;">Criteria</td>
-				<td style="text-align:left;color:white;font-family:sans-serif;">Weighting</td>
 			</tr>
 </thead>
 	
@@ -81,12 +80,10 @@ all the criteria does not guarantee the applicant will be shortlisted / given an
 <li style="font-size:14.5px; line-height:2;font-family:sans-serif;">Floorball skills (40%)</li>
 <li style="font-size:14.5px; line-height:2;font-family:sans-serif;">Speed and Agility (30%)</li>
 					<li style="font-size:14.5px; line-height:2;font-family:sans-serif;">Games Concept (10%)</li></ul></td>
-				<td style="font-family:sans-serif;margin-bottom:5px;">80%</td>
 </tr>
 			
 <tr style="background-color: #f3f3f3;">
 				<td style="font-family:sans-serif;">Interview</td>
-				<td style="font-family:sans-serif;margin-bottom:5px;">20%</td>
 </tr>
 						
 </tbody>
