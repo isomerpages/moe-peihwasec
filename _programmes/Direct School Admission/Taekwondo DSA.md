@@ -73,7 +73,6 @@ Hwa Secondary School</li>
 <thead style="background-color: #009879; font-weight: bold; font-size: 14.5px;">
 <tr>
 				<td style="text-align:left;color:white;font-family:sans-serif;">Criteria</td>
-				<td style="text-align:left;color:white;font-family:sans-serif;">Weighting</td>
 			</tr>
 </thead>
 	
@@ -83,12 +82,10 @@ Hwa Secondary School</li>
 <li style="font-size:14.5px; line-height:2;font-family:sans-serif;">Taekwondo movement/ stances/ sparring
 techniques (30%)</li>
 <li style="font-size:14.5px; line-height:2;font-family:sans-serif;">Physical ability test (30%)</li></ul></td>
-				<td style="font-family:sans-serif;margin-bottom:5px;">60%</td>
 </tr>
 			
 <tr style="background-color: #f3f3f3;">
 				<td style="font-family:sans-serif;">Interview</td>
-				<td style="font-family:sans-serif;margin-bottom:5px;">40%</td>
 </tr>
 						
 </tbody>

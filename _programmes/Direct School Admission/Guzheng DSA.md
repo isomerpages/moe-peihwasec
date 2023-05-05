@@ -74,24 +74,20 @@ third_nav_title: Direct School Admission
 <thead style="background-color: #009879; font-weight: bold; font-size: 14.5px;">
 <tr>
 				<td style="text-align:left;color:white;font-family:sans-serif;">Criteria</td>
-				<td style="text-align:left;color:white;font-family:sans-serif;">Weighting</td>
 			</tr>
 </thead>
 	
 <tbody>
 <tr>
 				<td style="font-family:sans-serif;">Interview</td>
-				<td style="font-family:sans-serif;margin-bottom:5px;">30%</td>
 </tr>
 			
 <tr style="background-color: #f3f3f3;">
 				<td style="font-family:sans-serif;">Audition: Prepared pieces</td>
-				<td style="font-family:sans-serif;margin-bottom:5px;">35%</td>
 </tr>
 			
 <tr>
 				<td style="font-family:sans-serif;">Audition: Sight reading</td>
-				<td style="font-family:sans-serif;margin-bottom:5px;">35%</td>
 </tr>
 						
 </tbody>

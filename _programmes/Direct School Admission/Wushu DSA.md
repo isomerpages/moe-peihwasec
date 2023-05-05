@@ -69,7 +69,6 @@ not compulsory)</li>
 <thead style="background-color: #009879; font-weight: bold; font-size: 14.5px;">
 <tr>
 				<td style="text-align:left;color:white;font-family:sans-serif;">Criteria</td>
-				<td style="text-align:left;color:white;font-family:sans-serif;">Weighting</td>
 			</tr>
 </thead>
 	
@@ -78,12 +77,10 @@ not compulsory)</li>
 				<td style="font-family:sans-serif;">Selection Trial <ul style="margin-top:5px;">
 <li style="font-size:14.5px; line-height:2;font-family:sans-serif;">Wushu Skills (40%)</li>
 <li style="font-size:14.5px; line-height:2;font-family:sans-serif;">Prepared routine (30%)</li></ul></td>
-				<td style="font-family:sans-serif;margin-bottom:5px;">70%</td>
 </tr>
 			
 <tr style="background-color: #f3f3f3;">
 				<td style="font-family:sans-serif;">Interview</td>
-				<td style="font-family:sans-serif;margin-bottom:5px;">30%</td>
 </tr>
 						
 </tbody>
