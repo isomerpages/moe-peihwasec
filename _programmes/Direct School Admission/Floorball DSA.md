@@ -77,9 +77,9 @@ all the criteria does not guarantee the applicant will be shortlisted / given an
 <tbody>
 <tr>
 				<td style="font-family:sans-serif;">Selection Trial <ul style="margin-top:5px;">
-<li style="font-size:14.5px; line-height:2;font-family:sans-serif;">Floorball skills (40%)</li>
-<li style="font-size:14.5px; line-height:2;font-family:sans-serif;">Speed and Agility (30%)</li>
-					<li style="font-size:14.5px; line-height:2;font-family:sans-serif;">Games Concept (10%)</li></ul></td>
+<li style="font-size:14.5px; line-height:2;font-family:sans-serif;">Floorball skills</li>
+<li style="font-size:14.5px; line-height:2;font-family:sans-serif;">Speed and Agility</li>
+					<li style="font-size:14.5px; line-height:2;font-family:sans-serif;">Games Concept </li></ul></td>
 </tr>
 			
 <tr style="background-color: #f3f3f3;">
