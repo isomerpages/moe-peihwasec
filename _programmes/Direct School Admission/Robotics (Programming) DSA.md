@@ -127,15 +127,15 @@ National Infocomm Competition. Team Pei Hwa clinched a total of 9 awards from th
 <p style="font-size:14.5px; line-height:2;margin-top:15px; font-family:sans-serif">We have won many awards in local and overseas competitions for the past years.</p>
 
 <img src="/images/robocup4.jpg" style="width: 65%;">
-<p style="font-size:11px; line-height:2; text-align:center; margin-top:5px;font-family:sans-serif;">Award Ceremony for RoboCup Singapore 2017</p>
+<p style="font-size:10px; line-height:2; text-align:center; margin-top:5px;font-family:sans-serif;">Award Ceremony for RoboCup Singapore 2017</p>
 
 
 <img src="/images/robocup5.jpg" style="width: 65%;">
-<p style="font-size:11px; line-height:2; text-align:center; margin-top:5px;font-family:sans-serif;">RCJ CoSpace Rescue Championship Award for Team Category in Netherlands 2013</p>
+<p style="font-size:10px; line-height:2; text-align:center; margin-top:5px;font-family:sans-serif;">RCJ CoSpace Rescue Championship Award for Team Category in Netherlands 2013</p>
 
 
 <img src="/images/robocup6.jpg" style="width: 65%;">
-<p style="font-size:11px; line-height:2; text-align:center; margin-top:5px;font-family:sans-serif;">RCJ CoSpace Rescue Championship Award for Team Category in Japan 2017</p>
+<p style="font-size:10px; line-height:2; text-align:center; margin-top:5px;font-family:sans-serif;">RCJ CoSpace Rescue Championship Award for Team Category in Japan 2017</p>
 
 <p style="margin-top:15px;font-size:15.5px; line-height:2;font-family:sans-serif;">International Achievements:</p>
 
@@ -246,7 +246,7 @@ experience is crucial in preparing our students for the Volatile, Uncertain, Com
 			
 <tr>
 				<td><strong style="font-family:sans-serif;">3</strong></td>
-				<td style="font-family:sans-serif;font-size:14.5px;margin-bottom:5px;">All DSA applicants will be notified by <strong style="font-family:sans-serif;">12 Sep 2023</strong> on the outcome of their application. The decision of the interview panel is final.</td>
+				<td style="font-family:sans-serif;font-size:14.5px;margin-bottom:5px;">All DSA applicants will be notified by <strong style="font-family:sans-serif;">11 Sep 2023</strong> on the outcome of their application. The decision of the interview panel is final.</td>
 				<td style="font-family:sans-serif;font-size:14.5px;margin-bottom:5px;">
 					Possible outcomes of selection:
 					<ul>
