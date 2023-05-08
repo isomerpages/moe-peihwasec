@@ -1,10 +1,10 @@
 ---
-title: Floorball DSA
-permalink: /programmes/direct-school-admission/floorball-dsa/
+title: Floorball DSA (For Girls only)
+permalink: /programmes/direct-school-admission/floorball-dsa-for-girls-only/
 description: ""
 third_nav_title: Direct School Admission
 ---
-<h4 style="color:#635f1a;font-weight:bold;font-family:sans-serif;">DSA Admission – Floorball</h4>
+<h4 style="color:#635f1a;font-weight:bold;font-family:sans-serif;">DSA Admission – Floorball (For Girls only)</h4>
 
 <p style="font-size:14.5px; line-height:2;margin-top:15px; font-family:sans-serif">Pei Hwa Secondary School is looking for Primary 6 students with passion and talent in playing floorball. Students should meet the admission criteria stated in the following section before
 applying. Shortlisted applicants who meet the admission criteria will be required to attend an interview and selection trial by our panel of teachers.</p>
