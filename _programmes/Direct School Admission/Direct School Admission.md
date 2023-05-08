@@ -33,7 +33,7 @@ third_nav_title: Direct School Admission
 			
 <tr>
 				<td style="font-family:sans-serif;">Sports and Games</td>
-				<td style="font-family:sans-serif;margin-bottom:5px;">Floorball <br>
+				<td style="font-family:sans-serif;margin-bottom:5px;">Floorball (For Girls only)<br>
 Wushu  <br>
 Taekwondo</td>
 </tr>
@@ -66,7 +66,7 @@ PHSS Guzheng is looking for Primary 6 students with a talent in guzheng, a passi
 </tr>
 	
 <tr style="background-color: #009879;">
-				<td style="font-size:14.5px;margin-bottom:5px; color:white;font-weight:bold;font-family:sans-serif;">Floorball (Girls only)</td>
+				<td style="font-size:14.5px;margin-bottom:5px; color:white;font-weight:bold;font-family:sans-serif;">Floorball (For Girls only)</td>
 </tr>
 			
 <tr>
@@ -97,7 +97,7 @@ Apart from developing our students to acquire knowledge in Taekwondo, the CCA al
 <ol style="margin-top:5px;"> 
 	<li style="font-size:14.5px; line-height:2;font-family:sans-serif;"><a style="font-family:sans-serif;" rel="noopener noreferrer" target="_blank" href="https://www.peihwasec.moe.edu.sg/programmes/direct-school-admission/guzheng-dsa/">Guzheng DSA</a></li> 
 <li style="font-size:14.5px; line-height:2;font-family:sans-serif;"><a style="font-family:sans-serif;" rel="noopener noreferrer" target="_blank" href="https://www.peihwasec.moe.edu.sg/programmes/direct-school-admission/robotics-programming-dsa/">Robotics (Programming) DSA</a></li> 
-<li style="font-size:14.5px; line-height:2;font-family:sans-serif;"><a style="font-family:sans-serif;" rel="noopener noreferrer" target="_blank" href="https://www.peihwasec.moe.edu.sg/programmes/direct-school-admission/floorball-dsa/">Floorball DSA</a></li> 
+<li style="font-size:14.5px; line-height:2;font-family:sans-serif;"><a style="font-family:sans-serif;" rel="noopener noreferrer" target="_blank" href="https://www.peihwasec.moe.edu.sg/programmes/direct-school-admission/floorball-dsa/">Floorball DSA (For Girls only)</a></li> 
 <li style="font-size:14.5px; line-height:2;font-family:sans-serif;"><a style="font-family:sans-serif;" rel="noopener noreferrer" target="_blank" href="https://www.peihwasec.moe.edu.sg/programmes/direct-school-admission/wushu-dsa/">Wushu DSA</a></li> 
 <li style="font-size:14.5px; line-height:2;font-family:sans-serif;"><a style="font-family:sans-serif;" rel="noopener noreferrer" target="_blank" href="https://www.peihwasec.moe.edu.sg/programmes/direct-school-admission/taekwondo-dsa/">Taekwondo DSA</a></li> 
 	</ol>
