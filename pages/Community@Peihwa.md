@@ -7,7 +7,9 @@ description: ""
 
 <div style="display: flex;justify-content: center;align-items: center;flex-wrap: wrap;" class="image-container">
 <figure>
-      <img alt="Serene Sunset Over the Horizon" style="max-width: 300px; margin: 10px;" src="sunset_image1.jpg">
+	<div style="border-radius: 50%; overflow: hidden; width: 100px;height: 100px;" class="circle-image">
+      <img alt="Serene Sunset Over the Horizon" style="width: 100%;height: 100%; object-fit: cover;" src="/images/AlbumStudCounsellor3.jpeg">
+	</div>
 <figcaption style="text-align: center; font-style: italic;" class="caption">Serene Sunset Over the Horizon</figcaption>
 	<figcaption style="text-align: center; font-style: italic;" class="caption">Serene Sunset Over the Horizon</figcaption>
     </figure>
