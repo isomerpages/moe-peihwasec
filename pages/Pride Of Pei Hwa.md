@@ -8,8 +8,8 @@ description: ""
 	<img alt="Description of the image" style="width: 80px;height: auto;object-fit: cover; margin-top:25px;" src="https://img.icons8.com/ios/50/FAB005/open-book--v1.png"> 
 	<div style="color:white;"> 
 		<h4 style="font-size: 20px; font-weight: bold;margin: 0;color: yellow;" class="header">For Students</h4> 
-		<p style="margin-top:-15px; font-size:14.5px; line-height:2;margin-top:15px; font-family:sans-serif;" class="description">Description Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p> 
-		<button style="padding: 5px 0px;color: white;border: none;cursor: pointer; font-size:14.5px; line-height:2;margin-top:15px; font-family:sans-serif;">Discover →</button>
+		<p style="font-size:14.5px; line-height:2;margin-top:5px; font-family:sans-serif;" class="description">Description Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p> 
+		<button style="color: white;border: none;cursor: pointer; font-size:14.5px; line-height:2;margin-top:5px; font-family:sans-serif;">Discover →</button>
 	</div> 
 </div>
 
@@ -17,8 +17,8 @@ description: ""
 	<img alt="Description of the image" style="width: 80px;height: auto;object-fit: cover; margin-top:25px;" src="https://img.icons8.com/external-vitaliy-gorbachev-lineal-vitaly-gorbachev/60/FAB005/external-family-chinese-new-year-vitaliy-gorbachev-lineal-vitaly-gorbachev.png"> 
 	<div style="color:white;"> 
 		<h4 style="font-size: 20px; font-weight: bold;margin: 0;color: yellow;" class="header">For Parents</h4> 
-		<p style="margin-top:-15px; font-size:14.5px; line-height:2;margin-top:15px; font-family:sans-serif;" class="description">Description Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p> 
-		<button style="padding: 5px 0px;color: white;border: none;cursor: pointer; font-size:14.5px; line-height:2;margin-top:15px; font-family:sans-serif;">Discover →</button>
+		<p style="font-size:14.5px; line-height:2;margin-top:5px; font-family:sans-serif;" class="description">Description Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p> 
+		<button style="color: white;border: none;cursor: pointer; font-size:14.5px; line-height:2;font-family:sans-serif;">Discover →</button>
 	</div> 
 </div>
 
@@ -26,14 +26,14 @@ description: ""
 	<img alt="Description of the image" style="width: 80px;height: auto;object-fit: cover; margin-top:25px;" src="https://img.icons8.com/pastel-glyph/64/FAB005/physics-book.png"> 
 	<div style="color:white;"> 
 		<h4 style="font-size: 20px; font-weight: bold;margin: 0;color: yellow;" class="header">For Teachers</h4> 
-		<p style="margin-top:-15px; font-size:14.5px; line-height:2;margin-top:15px; font-family:sans-serif;" class="description">Description Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p> 
-		<button style="padding: 5px 0px;color: white;border: none;cursor: pointer; font-size:14.5px; line-height:2;margin-top:15px; font-family:sans-serif;">Discover →</button>
+		<p style="margin-top:-15px; font-size:14.5px; line-height:2;margin-top:5px; font-family:sans-serif;" class="description">Description Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p> 
+		<button style="color: white;border: none;cursor: pointer; font-size:14.5px; line-height:2;font-family:sans-serif;">Discover →</button>
 	</div> 
 </div>
 </div>
 
 <div style="border: 1px solid #ccc;  margin-top:20px; width:100%; padding: 20px; display: flex; align-items: center;" class="box"> 
-	<img class="image" alt="Image" style="max-width: 200px; margin-right: 20px;" src="image.jpg"> 
+	<img class="image" alt="Image" style="max-width: 200px; margin-right: 20px;" src="https://i.scdn.co/image/ab67616d00001e02af08a1c1088b457401e7d4fc"> 
 	<div style="flex: 1;" class="content"> 
 		<h6 style="margin: 0;">Learning @ Pei Hwa</h6> 
 		<h4 style="margin: 0;">Heading</h4> 
