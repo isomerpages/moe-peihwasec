@@ -41,3 +41,14 @@ description: ""
 		<button style="background-color: #007bff; color: #fff; padding: 10px 20px; border: none; border-radius: 5px; font-size: 16px; cursor: pointer;">Click Here</button>
 	</div> 
 </div>
+
+<h4 style="text-align:center;">Our Signature Programmes</h4>
+
+<div style="border: 1px solid #ccc; padding: 0px; display: flex; flex-direction: column;width:33%;" class="box"> 
+	<img style="max-width: 100%; margin-bottom: 20px;" class="image" alt="Image" src="image.jpg"> 
+	<div style="flex: 1;" class="content"> 
+		<h2 style="font-size: 24px; margin: 0px 15px;">Heading</h2> 
+		<p style="margin: 0px 15px;">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce id ipsum eget est suscipit mollis vel eu lorem. Donec nec eros ipsum.</p>
+		<button style="background-color: #007bff; color: #fff; margin:10px;padding: 10px 20px; border: none; border-radius: 5px; font-size: 16px;">Find out More </button>
+	</div> 
+</div>
