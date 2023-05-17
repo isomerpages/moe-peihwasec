@@ -32,7 +32,7 @@ description: ""
 </div>
 </div>
 
-<div style="margin-top:20px; width:100%; padding: 0px; display: flex; align-items: center;" class="box"> 
+<div style="margin-top:20px; width:100%; padding: 10px; display: flex; align-items: center;" class="box"> 
 	<img class="image" alt="Image" style="max-width: 200px; margin-right: 40px;border-radius: 20px" src="https://i.scdn.co/image/ab67616d00001e02af08a1c1088b457401e7d4fc"> 
 	<div style="flex: 1;" class="content"> 
 		<h6 style="margin: 0;">Learning @ Pei Hwa</h6> 
@@ -104,6 +104,7 @@ description: ""
 </div>
 </div>
 
-<div style="display: flex; align-items: flex-start;" class="container"> 
+<div style="display: flex; align-items: flex-start;" class="container">
+		<h6 style="flex-shrink: 0; margin-right: 20px;">Learning @ Pei Hwa</h6> 
 	<h2 style="flex-shrink: 0; margin-right: 20px;" class="heading">Heading</h2> 
 	<p style="flex-grow: 1; margin: 0;" class="description">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce id ipsum eget est suscipit mollis vel eu lorem. Donec nec eros ipsum.</p> </div>
