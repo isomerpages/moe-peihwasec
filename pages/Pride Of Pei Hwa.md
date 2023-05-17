@@ -5,7 +5,7 @@ description: ""
 ---
 <div style="display: flex;">
 <div style="border-radius: 30px;flex: 1;border: 1px solid #ccc; display: flex; width:23%; gap: 15px; margin:5px;background-color: #0B6623;padding: 10px;box-sizing: border-box;" class="rectangle"> 
-	<img alt="Description of the image" style="width: 80px;height: auto;object-fit: cover; margin-top:10px;" src="https://img.icons8.com/ios/50/FAB005/open-book--v1.png"> 
+	<img alt="Description of the image" style="width: 40%;height: auto;object-fit: cover; margin-top:10px;" src="https://img.icons8.com/ios/50/FAB005/open-book--v1.png"> 
 	<div style="color:white;"> 
 		<h5 style="font-weight: bold;margin: 0;color:#F8BF58;" class="header">For Students</h5> 
 		<p style="font-size:14.5px; line-height:1.5 ;margin-top:5px; font-family:sans-serif;" class="description">Description Lorem ipsum dolor sit amet, consectetur adipiscing elit.<br></p> 
@@ -14,7 +14,7 @@ description: ""
 </div>
 
 <div style="border-radius: 30px;flex: 1;border: 1px solid #ccc; display: flex; width:23%; gap: 15px; margin:5px;background-color: #0B6623;padding: 10px;box-sizing: border-box;" class="rectangle"> 
-	<img alt="Description of the image" style="width: 80px;height: auto;object-fit: cover; margin-top:10px;" src="https://img.icons8.com/external-vitaliy-gorbachev-lineal-vitaly-gorbachev/60/FAB005/external-family-chinese-new-year-vitaliy-gorbachev-lineal-vitaly-gorbachev.png"> 
+	<img alt="Description of the image" style="width: 40%;height: auto;object-fit: cover; margin-top:10px;" src="https://img.icons8.com/external-vitaliy-gorbachev-lineal-vitaly-gorbachev/60/FAB005/external-family-chinese-new-year-vitaliy-gorbachev-lineal-vitaly-gorbachev.png"> 
 	<div style="color:white;"> 
 		<h5 style="font-weight: bold;margin: 0;color:#F8BF58;" class="header">For Parents</h5> 
 		<p style="font-size:14.5px; line-height:1.5 ;margin-top:5px; font-family:sans-serif;" class="description">Description Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p> 
@@ -23,7 +23,7 @@ description: ""
 </div>
 
 <div style="border-radius: 30px;flex: 1;border: 1px solid #ccc; display: flex; width:23%; gap: 15px; margin:5px;background-color: #0B6623;padding: 10px;box-sizing: border-box;" class="rectangle"> 
-	<img alt="Description of the image" style="width: 80px;height: auto;object-fit: cover; margin-top:10px;" src="https://img.icons8.com/pastel-glyph/64/FAB005/physics-book.png"> 
+	<img alt="Description of the image" style="width: 40%;height: auto;object-fit: cover; margin-top:10px;" src="https://img.icons8.com/pastel-glyph/64/FAB005/physics-book.png"> 
 	<div style="color:white;"> 
 		<h5 style="font-weight: bold;margin: 0;color:#F8BF58;" class="header">For Teachers</h5> 
 		<p style="font-size:14.5px; line-height:1.5 ;margin-top:5px; font-family:sans-serif;" class="description">Description Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p> 
