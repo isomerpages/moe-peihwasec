@@ -3,7 +3,7 @@ title: Pride Of Pei Hwa
 permalink: /lp-announcement/pride-of-peihwa/
 description: ""
 ---
-<div style="display: flex;">
+<div style="display: flex;justify-content: space-between;">
 <div style="flex: 1;border-radius: 30px;display: flex;align-items: center;gap: 15px;width: 300px;background-color: green;border: 1px solid #ccc;padding: 10px;box-sizing: border-box;" class="rectangle"> 
 	<img alt="Description of the image" style="width: 80px;height: auto;object-fit: cover; margin-top:25px;" src="https://img.icons8.com/ios/50/FAB005/open-book--v1.png"> 
 	<div style="color:white;"> 
@@ -44,9 +44,17 @@ description: ""
 
 <h4 style="text-align:center;">Our Signature Programmes</h4>
 
-<div style="display:flex;">
+<div style="display:flex;padding: 10px">
 	
-<div style="flex: 2;border: 1px solid #ccc; padding: 0px; display: flex; flex-direction: column;width:33%;gap: 15px;" class="box"> 
+<div style="flex: 2;border: 1px solid #ccc; padding: 10px; display: flex; flex-direction: column;width:33%;gap: 15px;" class="box"> 
+	<img style="max-width: 100%; margin-bottom: 20px;" class="image" alt="Image" src="https://www.allkpop.com/upload/2022/09/content/080142/web_data/allkpop_1662615842_20220908-highlight.jpg"> 
+	<div style="flex: 1;" class="content"> 
+		<h4 style="font-size: 24px; margin: 0px 15px;">Heading</h4> 
+		<p style="margin: 0px 15px;font-size:14.5px; line-height:2;font-family:sans-serif;">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce id ipsum eget est suscipit mollis vel eu lorem. Donec nec eros ipsum.</p>
+		<button style="background-color: #007bff; color: #fff; margin:10px;padding: 10px 20px; border: none; border-radius: 5px; font-size: 16px;">Find out More </button>
+	</div> 
+</div>
+<div style="flex: 2;border: 1px solid #ccc; padding: 10px; display: flex; flex-direction: column;width:33%;gap: 15px;" class="box"> 
 	<img style="max-width: 100%; margin-bottom: 20px;" class="image" alt="Image" src="https://www.allkpop.com/upload/2022/09/content/080142/web_data/allkpop_1662615842_20220908-highlight.jpg"> 
 	<div style="flex: 1;" class="content"> 
 		<h4 style="font-size: 24px; margin: 0px 15px;">Heading</h4> 
@@ -55,16 +63,7 @@ description: ""
 	</div> 
 </div>
 	
-<div style="flex: 2;border: 1px solid #ccc; padding: 0px; display: flex; flex-direction: column;width:33%;gap: 15px;" class="box"> 
-	<img style="max-width: 100%; margin-bottom: 20px;" class="image" alt="Image" src="https://www.allkpop.com/upload/2022/09/content/080142/web_data/allkpop_1662615842_20220908-highlight.jpg"> 
-	<div style="flex: 1;" class="content"> 
-		<h4 style="font-size: 24px; margin: 0px 15px;">Heading</h4> 
-		<p style="margin: 0px 15px;font-size:14.5px; line-height:2;font-family:sans-serif;">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce id ipsum eget est suscipit mollis vel eu lorem. Donec nec eros ipsum.</p>
-		<button style="background-color: #007bff; color: #fff; margin:10px;padding: 10px 20px; border: none; border-radius: 5px; font-size: 16px;">Find out More </button>
-	</div> 
-</div>
-	
-<div style="flex: 2;border: 1px solid #ccc; padding: 0px; display: flex; flex-direction: column;width:33%;gap: 15px;" class="box"> 
+<div style="flex: 2;border: 1px solid #ccc; padding: 10px; display: flex; flex-direction: column;width:33%;gap: 15px;" class="box"> 
 	<img style="max-width: 100%; margin-bottom: 20px;" class="image" alt="Image" src="https://www.allkpop.com/upload/2022/09/content/080142/web_data/allkpop_1662615842_20220908-highlight.jpg"> 
 	<div style="flex: 1;" class="content"> 
 		<h4 style="font-size: 24px; margin: 0px 15px;">Heading</h4> 
