@@ -2,7 +2,7 @@
 title: Student Council
 permalink: /ccas/clubs-societies/student-council/
 description: ""
-third_nav_title: Clubs &amp; Societies
+third_nav_title: Clubs & Societies
 ---
 <h4 style="color:#635f1a;font-family:sans-serif;font-weight:bold;">Mission</h4>
 
@@ -89,5 +89,7 @@ I learnt many things in Council and one of the few is being in charge of a speci
   			<img src="/images/AlbumStudCounsellor3.jpeg" style="width:100%; margin-top: 12px;">
 		</div>  
   	</div>
+		
+		
 
 <br>
