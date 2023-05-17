@@ -29,3 +29,13 @@ description: ""
 		<button style="padding: 5px 0px;color: white;border: none;cursor: pointer;">Discover →</button>
 	</div> 
 </div>
+
+<div style="border: 1px solid #ccc;  margin-top:20px; width:100%; padding: 20px; display: flex; align-items: center;" class="box"> 
+	<img class="image" alt="Image" style="max-width: 200px; margin-right: 20px;" src="image.jpg"> 
+	<div style="flex: 1;" class="content"> 
+		<h6 style="margin: 0;">Learning @ Pei Hwa</h6> 
+		<h2 style="margin: 0;">Heading</h2> 
+		<p style="margin: 10px 0;">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce id ipsum eget est suscipit mollis vel eu lorem. Donec nec eros ipsum.</p>
+		<button style="background-color: #007bff; color: #fff; padding: 10px 20px; border: none; border-radius: 5px; font-size: 16px; cursor: pointer;">Click Here</button>
+	</div> 
+</div>
