@@ -26,13 +26,13 @@ description: ""
 	</div>
 </div>
 
-<div style="display: flex; flex: 1;" class="container"> 
-	<div class="column"> 
-		<h4>Header 1</h4> 
-		<p>Description 1</p> 
+<div style="margin-top:20px;display: flex; flex: 1;" class="container"> 
+	<div style="flex: 1;" class="column"> 
+		<h5 style="font-weight: bold;margin: 0;color:#F8BF58;">Header 1</h5> 
+		<p style="font-size:14.5px; line-height:1.5 ;margin-top:5px; font-family:sans-serif;">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce id ipsum eget est suscipit mollis vel eu lorem. Donec nec eros ipsum.</p> 
 	</div>
-		<div class="column"> 
-		<h4>Header 2</h4> 
-		<p>Description 2</p> 
+		<div style="flex: 1;" class="column"> 
+		<h5 style="font-weight: bold;margin: 0;color:#F8BF58;">Header 2</h5> 
+		<p style="font-size:14.5px; line-height:1.5 ;margin-top:5px; font-family:sans-serif;">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce id ipsum eget est suscipit mollis vel eu lorem. Donec nec eros ipsum.</p> 
 	</div> 
 </div>
