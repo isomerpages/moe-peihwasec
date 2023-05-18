@@ -22,7 +22,7 @@ description: ""
 <p style="margin: -30px 0;font-size:14.5px; line-height:1.5;font-family:sans-serif;color:black;">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce id ipsum eget est suscipit mollis vel eu lorem. Donec nec eros ipsum.</p>
 </div>
 <div style="position: relative; width: 300px; height: 300px; margin-right:-40px;" class="container"> 
-	<img class="image" alt="Image" style="max-width: 250px; margin-right: 40px;border-radius: 10px" src="https://i.scdn.co/image/ab67616d00001e02af08a1c1088b457401e7d4fc">&nbsp;
+	<img class="image" alt="Image" style="max-width: 250px; margin-right: 30px;border-radius: 10px" src="https://i.scdn.co/image/ab67616d00001e02af08a1c1088b457401e7d4fc">&nbsp;
 	</div>
 </div>
 
