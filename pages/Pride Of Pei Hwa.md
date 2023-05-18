@@ -42,7 +42,7 @@ description: ""
 	</div> 
 </div>
 
-<div style="background-color:#FAF3E9;padding:70px;margin-top:15px;">
+<div style="background-color:#FAF3E9;padding:70px;margin-top:20px;">
 <h4 style="text-align:center; color:black; font-weight:bold;">Our Signature Programmes</h4>
 
 <div style="display:flex;">
@@ -103,8 +103,42 @@ description: ""
 </div>
 </div>
 </div>
+<div style="margin-top:20px; width:100%; padding: 10px; display: flex; align-items: center;" class="box"> 
+	<div style="flex: 1;" class="content"> 
+		<h6 style="margin-top:-75px;color: black">Pride of Pei Hwa</h6> 
+		<h4 style="margin: 0;color:#FDBC58">Heading</h4> 
+	</div> 
+	<div style="flex: 1;" class="content"> 
+		<p style="margin: 10px 0;font-size:14.5px; line-height:2;font-family:sans-serif;">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce id ipsum eget est suscipit mollis vel eu lorem. Donec nec eros ipsum.</p>
+		<button style="color: #FDBC58;margin:0px;border: none; border-radius: 5px; font-size: 16px;">Read more →</button>
+	</div> 
+</div>
 
-<div style="display: flex; align-items: flex-start;" class="container">
-		<h6 style="flex-shrink: 0; margin-right: 20px;">Learning @ Pei Hwa</h6> 
-	<h2 style="flex-shrink: 0; margin-right: 20px;" class="heading">Heading</h2> 
-	<p style="flex-grow: 1; margin: 0;" class="description">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce id ipsum eget est suscipit mollis vel eu lorem. Donec nec eros ipsum.</p> </div>
+<div style="padding:70px;margin-top:20px;">
+<h4 style="text-align:center; color:#FDBC58; font-weight:bold;">Our Partners</h4>
+
+<div style="display:flex;">
+	
+<div style="flex: 1;border: 1px solid #ccc; padding: 0px; display: flex; flex-direction: column;width:33%;gap: 10px;margin:5px; background-color:white;background-color: #0B6623;" class="box"> 
+	<img style="max-width: 100%;" class="image" alt="Image" src="https://www.allkpop.com/upload/2022/09/content/080142/web_data/allkpop_1662615842_20220908-highlight.jpg"> 
+	<div style="flex: 1;" class="content"> 
+		<h5 style="color:#FDBC58;font-family:sans-serif;font-weight:bold;text-align:center;">Heading</h5> 
+	</div> 
+</div>
+
+<div style="flex: 1;border: 1px solid #ccc; padding: 0px; display: flex; flex-direction: column;width:33%;gap: 10px;margin:5px; background-color:white;background-color: #0B6623;" class="box"> 
+	<img style="max-width: 100%;" class="image" alt="Image" src="https://www.allkpop.com/upload/2022/09/content/080142/web_data/allkpop_1662615842_20220908-highlight.jpg"> 
+	<div style="flex: 1;" class="content"> 
+		<h5 style="color:#FDBC58;font-family:sans-serif;font-weight:bold;text-align:center;">Heading</h5> 
+	</div> 
+</div>
+	
+<div style="flex: 1;border: 1px solid #ccc; padding: 0px; display: flex; flex-direction: column;width:33%;gap: 10px;margin:5px; background-color:white;background-color: #0B6623;" class="box"> 
+	<img style="max-width: 100%;" class="image" alt="Image" src="https://www.allkpop.com/upload/2022/09/content/080142/web_data/allkpop_1662615842_20220908-highlight.jpg"> 
+	<div style="flex: 1;" class="content"> 
+		<h5 style="color:#FDBC58;font-family:sans-serif;font-weight:bold;text-align:center;">Heading</h5> 
+	</div> 
+</div>
+
+</div>
+</div>
