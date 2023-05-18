@@ -51,28 +51,40 @@ description: ""
 </div>
 	
 <div style="border-top: 1px solid white ; width: 100%;margin-top:30px;" class="line"></div>
-	
-<div style="width:100%; padding: 0; display: flex; align-items: center;gap: 20px;" class="box">&nbsp;
 
-<div style="position: relative;width: 200px;height: 0px;" class="container"> 
-	<img alt="Image 1" style="position: absolute;bottom: 0;left: 0;" src="/images/AlbumStudCounsellor3.jpeg"> 
-	<img alt="Image 2" style="position: absolute;bottom:-20px;left: 60px;width:70%" src="/images/AlbumStudCounsellor4.jpeg"> 
+<div style="margin-top:60px;display: flex; flex: 1; gap: 50px;" class="container"> 
+	<div style="flex: 1;margin-top:120px;" class="column"> 
+<div style="position: relative;width: 200px;height: 0px;" class="container">&nbsp;
+<img alt="Image 1" style="position: absolute;bottom: 0;left: 0;" src="/images/AlbumStudCounsellor3.jpeg">&nbsp;
+
+<img alt="Image 2" style="position: absolute;bottom:-20px;left: 60px;width:70%" src="/images/AlbumStudCounsellor4.jpeg">&nbsp;
+
 </div>
-	
-<div style="flex: 1;margin-top:40px;" class="content">&nbsp;
+
+</div>
+		<div style="flex: 1;" class="column"> 
 <h6 style="margin-top:-30px;font-weight: bold;color:white;">Our School Song</h6>
-	<div style="display: flex;" class="two-column"> 
-	<div style="flex: 1; padding: 0 10px;" class="column"> 
-		<p style="margin: 10px 0;font-size:14.5px; line-height:1.5;font-family:sans-serif;">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p> 
+
+<div style="display: flex;" class="two-column">&nbsp;
+
+<div style="flex: 1; padding: 0 10px;" class="column">&nbsp;
+
+<p style="margin: 10px 0;font-size:14.5px; line-height:1.5;font-family:sans-serif;">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>&nbsp;
+
+</div>&nbsp;
+
+<div style="flex: 1; padding: 0 10px;" class="column">&nbsp;
+
+<p style="margin: 10px 0;font-size:14.5px; line-height:1.5;font-family:sans-serif;">Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>&nbsp;
+
+</div>&nbsp;
+
+</div>
+
+<p style="margin: 10px 0;font-size:14.5px; line-height:1.5;font-family:sans-serif;">Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
 	</div> 
-	<div style="flex: 1; padding: 0 10px;" class="column"> 
-		<p style="margin: 10px 0;font-size:14.5px; line-height:1.5;font-family:sans-serif;">Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p> 
-	</div> 
-	</div>
-	<p style="margin: 10px 0;font-size:14.5px; line-height:1.5;font-family:sans-serif;">Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
 </div>
 	
-</div>
 </div>
 
 <div style="margin-top:20px; width:100%; padding: 10px; display: flex; align-items: center;" class="box">&nbsp;
@@ -82,6 +94,6 @@ description: ""
 <p style="margin: -30px 0;font-size:14.5px; line-height:1.5;font-family:sans-serif;color:black;">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce id ipsum eget est suscipit mollis vel eu lorem. Donec nec eros ipsum.</p>
 </div>
 <div style="position: relative; width: 300px; height: 300px; margin-right:-40px;" class="container"> 
-	<img class="image" alt="Image" style="max-width: 200px; margin-right: 30px;border-radius: 10px" src="https://i.scdn.co/image/ab67616d00001e02af08a1c1088b457401e7d4fc">&nbsp;
+	<img class="image" alt="Image" style="max-width: 250px; margin-right: 30px;border-radius: 10px" src="https://i.scdn.co/image/ab67616d00001e02af08a1c1088b457401e7d4fc">&nbsp;
 	</div>
 </div>
