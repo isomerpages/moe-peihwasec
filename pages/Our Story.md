@@ -3,34 +3,18 @@ title: Our Story
 permalink: /permalink/
 description: ""
 ---
-<div style="display: flex; align-items: center; justify-content: center; width:100%;" class="container">
-      <div style="width:50%;" class="image">
-        <img style="border-radius: 30px;margin-top:60px;width:100%;" src="/images/AlbumStudCounsellor3.jpeg">
-      </div>
-      <div style="font-size: 20px; padding-left: 40px; float: left;width:80%;" class="text">
-               <h6 style="color:green;">Our Story</h6>
-				<h4 style="margin-top:-10px;">Peihwa Secondarry School</h4>
-				<p style="margin-top:-5px;">snfshighlight</p>
-      </div>
-    </div>
-		
-<h5 style="color:#0B6623; text-align:center;">School Advisory Committee</h5>
+<div style="margin-top:20px; width:100%; padding: 10px; display: flex; align-items: center;" class="box">&nbsp;
 
-<div style="display: flex; justify-content: center;" class="image-container"> 
-	<div style="border-radius: 50%; overflow: hidden; width: 100px;height: 100px;margin-right: 20px;" class="circle-image"> 
-		<img alt="Description of image 1" style="width: 100%;height: 100%; object-fit: cover;" src="/images/AlbumStudCounsellor3.jpeg">      
+<div style="position: relative; width: 300px; height: 300px; margin-right:40px;" class="container"> 
+	<img class="image" alt="Image" style="max-width: 115px; margin-left: 180px;border-radius: 10px;position: absolute; bottom: 0; left: 0;" src="https://i.scdn.co/image/ab67616d00001e02af08a1c1088b457401e7d4fc">&nbsp;
+	<img class="image" alt="Image" style="max-width: 250px; margin-right: 40px;border-radius: 10px" src="https://i.scdn.co/image/ab67616d00001e02af08a1c1088b457401e7d4fc">&nbsp;
 	</div>
-			<div style="border-radius: 50%; overflow: hidden; width: 100px;height: 100px;margin-right: 20px;" class="circle-image"> 
-		<img alt="Description of image 1" style="width: 100%;height: 100%; object-fit: cover;" src="/images/AlbumStudCounsellor3.jpeg">      
-	</div>
-		<div style="border-radius: 50%; overflow: hidden; width: 100px;height: 100px;margin-right: 20px;" class="circle-image"> 
-		<img alt="Description of image 1" style="width: 100%;height: 100%; object-fit: cover;" src="/images/AlbumStudCounsellor3.jpeg">      
-	</div>
-		<div style="border-radius: 50%; overflow: hidden; width: 100px;height: 100px;margin-right: 20px;" class="circle-image"> 
-		<img alt="Description of image 1" style="width: 100%;height: 100%; object-fit: cover;" src="/images/AlbumStudCounsellor3.jpeg">      
-	</div>
-		<div style="border-radius: 50%; overflow: hidden; width: 100px;height: 100px;margin-right: 20px;" class="circle-image"> 
-		<img alt="Description of image 1" style="width: 100%;height: 100%; object-fit: cover;" src="/images/AlbumStudCounsellor3.jpeg">      
-	</div>
-	
+
+<div style="flex: 1;" class="content">&nbsp;
+<h6 style="margin-top:-90px;">Learning @ Pei Hwa</h6>&nbsp;
+<h4 style="margin-top:-30px;">Heading</h4>&nbsp;
+<p style="margin: -30px 0;font-size:14.5px; line-height:2;font-family:sans-serif;">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce id ipsum eget est suscipit mollis vel eu lorem. Donec nec eros ipsum.</p>
+
+</div>&nbsp;
+
 </div>
