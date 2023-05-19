@@ -45,8 +45,8 @@ description: ""
 	</div>
 		<div style="flex: 1;" class="column"> 
 		<h6 style="margin: 0;color:white">Our School Logo</h6> 
-<img class="image" alt="Image" style="max-width: 100%" src="/images/sampleLogo.png">
-		<p style="font-size:14.5px; line-height:1.5 ;margin-top:5px; font-family:sans-serif;font-style: italic;font-weight: bold;">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce id ipsum eget est suscipit mollis vel eu lorem. Donec nec eros ipsum.</p> 
+<img class="image" alt="Image" style="max-width: 100%" src="/images/samplelogo2.png">
+		<p style="font-size:14.5px; line-height:1.5 ;margin-top:5px; font-family:sans-serif;font-style: italic;font-weight: bold;color:white;">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce id ipsum eget est suscipit mollis vel eu lorem. Donec nec eros ipsum.</p> 
 	</div>
 </div>
 	
@@ -69,25 +69,22 @@ description: ""
 
 <div style="flex: 1; padding: 0 10px;" class="column">&nbsp;
 
-<p style="margin: 10px 0;font-size:14.5px; line-height:1.5;font-family:sans-serif;">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>&nbsp;
+<p style="margin: 10px 0;font-size:14.5px; line-height:1.5;font-family:sans-serif;color:white;">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>&nbsp;
 
 </div>&nbsp;
 
 <div style="flex: 1; padding: 0 10px;" class="column">&nbsp;
 
-<p style="margin: 10px 0;font-size:14.5px; line-height:1.5;font-family:sans-serif;">Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>&nbsp;
-
+<p style="margin: 10px 0;font-size:14.5px; line-height:1.5;font-family:sans-serif;color:white;">Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>&nbsp;
 </div>&nbsp;
-
 </div>
-
-<p style="margin: 10px 0;font-size:14.5px; line-height:1.5;font-family:sans-serif;">Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+<p style="margin: 10px 0;font-size:14.5px; line-height:1.5;font-family:sans-serif;color:white;">Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
 	</div> 
 </div>
 	
 </div>
 
-<div style="margin-top:20px; width:100%; padding: 10px; display: flex; align-items: center;" class="box">&nbsp;
+<div style="margin-top:20px; width:100%; padding: 30px; display: flex; align-items: center;" class="box">&nbsp;
 <div style="flex: 1;" class="content">&nbsp;
 <h6 style="margin-top:-120px;color:#0B6623;">Our Student Management Philosophy</h6>&nbsp;
 <h4 style="margin-top:-30px;font-weight: bold; color:#000000;">Heading</h4>&nbsp;
