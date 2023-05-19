@@ -26,7 +26,7 @@ description: ""
 	</div>
 </div>
 
-<div style="margin-top:20px;padding:30px;display: flex; flex: 1; gap: 50px;background-image: url('https://raw.githubusercontent.com/isomerpages/moe-peihwasec/staging/images/samplebg1.png');background-size: auto;background-repeat: no-repeat;" class="container"> 
+<div style="margin-top:20px;padding:30px;display: flex; flex: 1; gap: 50px;background-image: url('https://raw.githubusercontent.com/isomerpages/moe-peihwasec/staging/images/samplebg1.png');background-size: 100%;background-repeat: no-repeat;" class="container"> 
 	<div style="flex: 1;" class="column"> 
 		<h6 style="font-weight: bold;margin: 0;color:#F8BF58;">Our Vision</h6> 
 		<p style="font-size:14.5px; line-height:1.5 ;margin-top:5px; font-family:sans-serif;font-style: italic;font-weight: bold;color:white;">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce id ipsum eget est suscipit mollis vel eu lorem. Donec nec eros ipsum.</p> 
@@ -54,10 +54,10 @@ description: ""
 
 <div style="margin-top:60px;display: flex; flex: 1; gap: 50px;" class="container"> 
 	<div style="flex: 1;margin-top:120px;" class="column"> 
-<div style="position: relative;width: 150%;height: 0px;" class="container">&nbsp;
+<div style="position: relative;width: 100%;height: 0px;" class="container">&nbsp;
 <img alt="Image 1" style="position: absolute;bottom: 0;left: 0;" src="/images/AlbumStudCounsellor3.jpeg">&nbsp;
 
-<img alt="Image 2" style="position: absolute;bottom:-40px;left: 100px;width:70%" src="/images/AlbumStudCounsellor4.jpeg">&nbsp;
+<img alt="Image 2" style="position: absolute;bottom:-20px;left: 80px;width:70%" src="/images/AlbumStudCounsellor4.jpeg">&nbsp;
 
 </div>
 
