@@ -54,10 +54,10 @@ description: ""
 
 <div style="margin-top:60px;display: flex; flex: 1; gap: 50px;" class="container"> 
 	<div style="flex: 1;margin-top:120px;" class="column"> 
-<div style="position: relative;width: 100%;height: 0px;" class="container">&nbsp;
+<div style="position: relative;width: 80%;height: 0px;" class="container">&nbsp;
 <img alt="Image 1" style="position: absolute;bottom: 0;left: 0;" src="/images/AlbumStudCounsellor3.jpeg">&nbsp;
 
-<img alt="Image 2" style="position: absolute;bottom:-20px;left: 80px;width:70%" src="/images/AlbumStudCounsellor4.jpeg">&nbsp;
+<img alt="Image 2" style="position: absolute;bottom:-20px;left: 60px;width:70%" src="/images/AlbumStudCounsellor4.jpeg">&nbsp;
 
 </div>
 
