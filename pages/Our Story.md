@@ -53,7 +53,7 @@ description: ""
 <div style="border-top: 1px solid white ; width: 100%;margin-top:30px;" class="line"></div>
 
 <div style="margin-top:60px;display: flex; flex: 1; gap: 50px;" class="container"> 
-	<div style="flex: 1;margin-top:120px;" class="column"> 
+	<div style="flex: 1;margin-top:150px;" class="column"> 
 <div style="position: relative;width: 80%;height: 0px;" class="container">&nbsp;
 <img alt="Image 1" style="position: absolute;bottom: 0;left: 0;" src="/images/AlbumStudCounsellor3.jpeg">&nbsp;
 
