@@ -17,11 +17,11 @@ description: ""
 
 </div>
 
-<div style="display:flex;">
+<div style="display:flex;padding:30px;">
 	
 <div style="flex: 1;border: 1px solid #ccc; padding: 0px; display: flex; flex-direction: column;width:23%;gap: 15px;margin:5px; background-color:#F2F2F2;border-radius: 5px;" class="box"> 
-	<div style="width: 145px; height: 50px; background-color: #FDBC58;border-radius: 5px;display: flex; justify-content: center; align-items: center;" class="title-box">
-		<p><strong style="color: black;text-align: center;">Sec 1 School</strong></p>
+	<div style="width: 100%; height: 50px; background-color: #FDBC58;border-radius: 5px;display: flex; justify-content: center; align-items: center;" class="title-box">
+		<p><strong style="color: black;text-align: center;font-size:14.5px; line-height:1.5;font-family:sans-serif;">Sec 1 School</strong></p>
 		</div>
 	<div style="flex: 1;" class="content"> 
 		<p><strong style="font-size:14.5px; line-height:1.5;margin:0 15px;font-family:sans-serif;">Focus and impact</strong></p> 
@@ -33,21 +33,7 @@ description: ""
 
 </div>
 <div style="flex: 1;border: 1px solid #ccc; padding: 0px; display: flex; flex-direction: column;width:23%;gap: 15px;margin:5px; background-color:#F2F2F2;border-radius: 5px;" class="box"> 
-	<div style="width: 145px; height: 50px; background-color: #FDBC58;border-radius: 5px;display: flex; justify-content: center; align-items: center;" class="title-box">
-		<p><strong style="color: black;text-align: center;">Sec 1 School</strong></p>
-		</div>
-	<div style="flex: 1;" class="content"> 
-		<p><strong style="font-size:14.5px; line-height:1.5;margin:0 15px;font-family:sans-serif;">Focus and impact</strong></p> 
-		<p style="font-size:14.5px; line-height:1.5;margin:0 15px;font-family:sans-serif;">Care for the School Community and environment</p>
-			<div style="width: 100%;height: 1px;background-color: black;margin-top:10px;" class="white-line"></div>
-		<p><strong style="font-size:14.5px; line-height:1.5;margin:0 15px;font-family:sans-serif;">Focus and impact</strong></p> 
-		<p style="font-size:14.5px; line-height:1.5;margin:0 15px;font-family:sans-serif;">Care for the School Community and environment</p>
-		</div>
-
-</div>
-	
-<div style="flex: 1;border: 1px solid #ccc; padding: 0px; display: flex; flex-direction: column;width:23%;gap: 15px;margin:5px; background-color:#F2F2F2;border-radius: 5px;" class="box"> 
-	<div style="width: 145px; height: 50px; background-color: #FDBC58;border-radius: 5px;display: flex; justify-content: center; align-items: center;" class="title-box">
+	<div style="width: 100%; height: 50px; background-color: #FDBC58;border-radius: 5px;display: flex; justify-content: center; align-items: center;" class="title-box">
 		<p><strong style="color: black;text-align: center;">Sec 1 School</strong></p>
 		</div>
 	<div style="flex: 1;" class="content"> 
@@ -61,7 +47,21 @@ description: ""
 </div>
 	
 <div style="flex: 1;border: 1px solid #ccc; padding: 0px; display: flex; flex-direction: column;width:23%;gap: 15px;margin:5px; background-color:#F2F2F2;border-radius: 5px;" class="box"> 
-	<div style="width: 145px; height: 50px; background-color: #FDBC58;border-radius: 5px;display: flex; justify-content: center; align-items: center;" class="title-box">
+	<div style="width: 100%; height: 50px; background-color: #FDBC58;border-radius: 5px;display: flex; justify-content: center; align-items: center;" class="title-box">
+		<p><strong style="color: black;text-align: center;">Sec 1 School</strong></p>
+		</div>
+	<div style="flex: 1;" class="content"> 
+		<p><strong style="font-size:14.5px; line-height:1.5;margin:0 15px;font-family:sans-serif;">Focus and impact</strong></p> 
+		<p style="font-size:14.5px; line-height:1.5;margin:0 15px;font-family:sans-serif;">Care for the School Community and environment</p>
+			<div style="width: 100%;height: 1px;background-color: black;margin-top:10px;" class="white-line"></div>
+		<p><strong style="font-size:14.5px; line-height:1.5;margin:0 15px;font-family:sans-serif;">Focus and impact</strong></p> 
+		<p style="font-size:14.5px; line-height:1.5;margin:0 15px;font-family:sans-serif;">Care for the School Community and environment</p>
+		</div>
+
+</div>
+	
+<div style="flex: 1;border: 1px solid #ccc; padding: 0px; display: flex; flex-direction: column;width:23%;gap: 15px;margin:5px; background-color:#F2F2F2;border-radius: 5px;" class="box"> 
+	<div style="width: 100%; height: 50px; background-color: #FDBC58;border-radius: 5px;display: flex; justify-content: center; align-items: center;" class="title-box">
 		<p><strong style="color: black;text-align: center;">Sec 1 School</strong></p>
 		</div>
 	<div style="flex: 1;" class="content"> 
