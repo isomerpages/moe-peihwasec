@@ -16,3 +16,39 @@ description: ""
 </div>
 
 </div>
+
+<div style="display:flex;">
+	
+<div style="flex: 1;border: 1px solid #ccc; padding: 0px; display: flex; flex-direction: column;width:23%;gap: 15px;margin:5px; background-color:white;" class="box"> 
+	<div style="width: 145px; height: 50px; background-color: #FDBC58;;border-radius: 5px;display: flex; justify-content: center; align-items: center;" class="title-box">
+		<p><strong style="color: black;text-align: center;">Sec 1 School</strong></p>
+		</div>
+	<div style="flex: 1;" class="content"> 
+		<p><strong style="font-size:14.5px; line-height:1.5;margin:0 15px;font-family:sans-serif;">Focus and impact</strong></p> 
+		<p style="font-size:14.5px; line-height:1.5;margin:0 15px;font-family:sans-serif;">Care for the School Community and environment</p>
+		</div>
+	
+</div>
+
+<div style="flex: 1;border: 1px solid #ccc; padding: 0px; display: flex; flex-direction: column;width:23%;gap: 15px;margin:5px; background-color:white;" class="box"> 
+	<img style="max-width: 100%;" class="image" alt="Image" src="https://www.allkpop.com/upload/2022/09/content/080142/web_data/allkpop_1662615842_20220908-highlight.jpg"> 
+	<div style="flex: 1;" class="content"> 
+		<h5 style="color:black;font-family:sans-serif;font-weight:bold;margin:0px 15px;">Heading</h5> 
+		<p style="font-size:14.5px; line-height:1.5;margin:0 15px;font-family:sans-serif;">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce id ipsum eget est suscipit mollis vel eu lorem. Donec nec eros ipsum.</p>
+		<button style="background-color: #FDBC58; color: black; margin:10px;padding: 10px 20px; border: none; border-radius: 5px; font-size: 16px;">Find out More </button>
+	</div> 
+</div>
+	<div style="flex: 1;border: 1px solid #ccc; padding: 0px; display: flex; flex-direction: column;width:23%;gap: 15px;margin:5px; background-color:white;" class="box"> 
+	<img style="max-width: 100%;" class="image" alt="Image" src="https://www.allkpop.com/upload/2022/09/content/080142/web_data/allkpop_1662615842_20220908-highlight.jpg"> 
+	<div style="flex: 1;" class="content"> 
+		<h5 style="color:black;font-family:sans-serif;font-weight:bold;margin:0px 15px;">Heading</h5> 
+		<p style="font-size:14.5px; line-height:1.5;margin:0 15px;font-family:sans-serif;">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce id ipsum eget est suscipit mollis vel eu lorem. Donec nec eros ipsum.</p>
+		<button style="background-color: #FDBC58; color: black; margin:10px;padding: 10px 20px; border: none; border-radius: 5px; font-size: 16px;">Find out More </button>
+	</div> 
+</div>
+</div>
+
+
+
+
+
