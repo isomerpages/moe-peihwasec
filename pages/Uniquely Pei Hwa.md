@@ -156,8 +156,33 @@ description: ""
 </div>
 
 
+<div style="width: 100%; height: 300px; background-image: linear-gradient(to right, rgba(255, 255, 255, 0), rgba(255, 255, 255, 225)), url('https://raw.githubusercontent.com/isomerpages/moe-peihwasec/staging/images/samplebg.jpeg'); background-position: left top; background-repeat: no-repeat; background-size: cover;width:100%; padding: 30px; display: flex; align-items: center;" class="image-container"><div style="flex: 1;" class="content">&nbsp;
 
+<div style="margin-top:20px;display: flex; flex: 1; gap: 50px;" class="container">&nbsp;
+
+<div style="flex: 1;" class="column">&nbsp;
+</div>
+	
+<div style="flex: 1;" class="column">&nbsp;
+	<h6 style="margin-top:-90px;color:#0B6623;">LLP:Community Youth Leadership</h6>&nbsp;
+	<h4 style="margin-top:-30px;font-weight: bold;color:#000000">Lorem ipsum dolor sit amet</h4>&nbsp;
+		<p style="margin: -30px 0;font-size:14.5px; line-height:1.5;font-family:sans-serif;color:black;">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce id ipsum eget est suscipit mollis vel eu lorem. Donec nec eros ipsum.</p>
+	
 <details> 
-	<summary>Click to toggle</summary> 
+	<summary><strong style="color:#0B6623;">Our Programmes</strong></summary> 
 	<p>This is the content of the collapsible group.</p> 
 </details>
+<details> 
+	<summary><strong style="color:#0B6623;">Click to toggle</strong></summary> 
+	<p>This is the content of the collapsible group.</p> 
+</details>
+	
+</div>
+	
+</div>
+
+</div>
+
+</div>
+
+
