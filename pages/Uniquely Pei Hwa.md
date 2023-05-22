@@ -81,7 +81,7 @@ description: ""
 </div>
 
 
-<div style="margin-top:20px;padding:30px;background-image: url('https://raw.githubusercontent.com/isomerpages/moe-peihwasec/staging/images/samplebg1.png');background-size: 550%;background-repeat: no-repeat;" class="container">&nbsp;
+<div style="margin-top:20px;padding:30px;background-image: url('https://raw.githubusercontent.com/isomerpages/moe-peihwasec/staging/images/samplebg1.png');background-size: 520%;background-repeat: no-repeat;" class="container">&nbsp;
 
 
 <h6 style="font-weight: bold;color:white;text-align:center;margin: -10px 0;">ALP:Robotics and  Programming</h6>&nbsp;
@@ -176,12 +176,13 @@ description: ""
 </div>
 </li>
 	
-<li><input id="accordion1" type="checkbox"><label for="accordion1" style="line-height:2;margin-top:15px; font-family:sans-serif;">The CYL Experience</label>
+<li><input id="accordion2" type="checkbox"><label for="accordion2" style="line-height:2;margin-top:15px; font-family:sans-serif;">The CYL Experience</label>
 <div>
 <p style="font-size:14.5px; line-height:1.5;font-family:sans-serif;color:black;">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce id ipsum eget est suscipit mollis vel eu lorem. Donec nec eros ipsum.</p>
 </div>
 </li>
 	</ul>
+	
 </div>
 
 </div>
