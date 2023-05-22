@@ -40,7 +40,7 @@ description: ""
 	<div style="flex: 1;" class="content"> 
 		<p><strong style="font-size:14.5px; line-height:1.5;margin:0 15px;font-family:sans-serif;">Focus and impact</strong></p> 
 		<p style="font-size:14.5px; line-height:1.5;margin: -15px 15px 0px; font-family:sans-serif;">Care for the Community and environment</p>
-			<div style="width: 100%;height: 1px;background-color: black;margin-top:20px;margin-bottom:-20px;" class="white-line"></div>
+			<div style="width: 100%;height: 1px;background-color: black;margin-top:40px;margin-bottom:-20px;" class="white-line"></div>
 		<p><strong style="font-size:14.5px; line-height:1.5;margin:0 15px;font-family:sans-serif;">CYL Experience</strong></p> 
 		<p style="font-size:14.5px; line-height:1.5;margin: -15px 15px 0px; font-family:sans-serif;">LLP -CYL Training <br><br>
 		G2 Neighbour (Programme was suspended in 2020 and 2021.)<br><br>
