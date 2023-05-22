@@ -152,6 +152,12 @@ description: ""
 </div>
 	
 </div>
-
 	
 </div>
+
+
+
+<details> 
+	<summary>Click to toggle</summary> 
+	<p>This is the content of the collapsible group.</p> 
+</details>
