@@ -170,7 +170,7 @@ description: ""
 	
 <details style="margin-bottom: 90px;margin-top:40px;"> 
 	<summary style="cursor: pointer;">Click to expand</summary> 
-	<div> 
+	<div style="margin-top: 10px;"> 
 		<p>This is the content of the collapsible group.</p>
 	</div> 
 	</details>
