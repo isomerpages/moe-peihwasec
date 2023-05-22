@@ -168,9 +168,9 @@ description: ""
 	<h4 style="margin-top:-30px;font-weight: bold;color:#000000">Lorem ipsum dolor sit amet</h4>&nbsp;
 		<p style="margin: -30px 0;font-size:14.5px; line-height:1.5;font-family:sans-serif;color:black;">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce id ipsum eget est suscipit mollis vel eu lorem. Donec nec eros ipsum.</p>
 	
-<details style="margin-bottom: 10px;"> 
+<details style="margin-bottom: 90px;"> 
 	<summary style="cursor: pointer;">Click to expand</summary> 
-	<div style="display: none;"> 
+	<div> 
 		<p>This is the content of the collapsible group.</p>
 	</div> 
 	</details>
