@@ -81,7 +81,7 @@ description: ""
 </div>
 
 
-<div style="margin-top:20px;padding:40px;background-image: url('https://raw.githubusercontent.com/isomerpages/moe-peihwasec/staging/images/samplebg1.png');background-size: 550%;background-repeat: no-repeat;" class="container">&nbsp;
+<div style="margin-top:20px;padding:30px;background-image: url('https://raw.githubusercontent.com/isomerpages/moe-peihwasec/staging/images/samplebg1.png');background-size: 550%;background-repeat: no-repeat;" class="container">&nbsp;
 
 
 <h6 style="font-weight: bold;color:white;text-align:center;margin: -10px 0;">ALP:Robotics and  Programming</h6>&nbsp;
@@ -158,7 +158,7 @@ description: ""
 
 <div style="width: 100%; height: auto; background-image: linear-gradient(to right, rgba(255, 255, 255, 0), rgba(255, 255, 255, 225)), url('https://raw.githubusercontent.com/isomerpages/moe-peihwasec/staging/images/samplebg.jpeg'); background-position: left top; background-repeat: no-repeat; background-size: cover;width:100%; padding: 30px; display: flex; align-items: center;" class="image-container"><div style="flex: 1;" class="content">&nbsp;
 
-<div style="margin-top:20px;display: flex; flex: 1; gap: 50px;" class="container">&nbsp;
+<div style="margin-top:30px;display: flex; flex: 1; gap: 50px;" class="container">&nbsp;
 
 <div style="flex: 1;" class="column">&nbsp;
 </div>
