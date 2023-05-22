@@ -173,7 +173,7 @@ description: ""
 <div>
 <p style="font-size:14.5px; line-height:1.5;font-family:sans-serif;color:black;">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce id ipsum eget est suscipit mollis vel eu lorem. Donec nec eros ipsum.</p>
 </div>
-	</li></ul>
+</li></ul>
 	
 </div>
 
