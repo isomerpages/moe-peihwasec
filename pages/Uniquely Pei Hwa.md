@@ -168,9 +168,13 @@ description: ""
 	<h4 style="margin-top:-30px;font-weight: bold;color:#000000">Lorem ipsum dolor sit amet</h4>&nbsp;
 		<p style="margin: -30px 0;font-size:14.5px; line-height:1.5;font-family:sans-serif;color:black;">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce id ipsum eget est suscipit mollis vel eu lorem. Donec nec eros ipsum.</p>
 	
-<label style="cursor: pointer;" for="toggle">Click to toggle</label> <input style="display: none;" id="toggle" type="checkbox"> <div style="max-height: 0; overflow: hidden; transition: max-height 0.3s ease;"> <p>This is the content of the collapsible group.</p> </div>
-	
+<ul class="jekyllcodex_accordion">
+<li><input id="accordion1" type="checkbox"><label for="accordion1" style="line-height:2;margin-top:15px; font-family:sans-serif;">Our Programmes</label>
+<div>
+<p style="font-size:14.5px; line-height:1.5;font-family:sans-serif;color:black;">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce id ipsum eget est suscipit mollis vel eu lorem. Donec nec eros ipsum.</p>
 </div>
+	
+</li></ul></div>
 
 </div>
 
