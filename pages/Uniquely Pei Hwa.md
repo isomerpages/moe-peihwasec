@@ -168,17 +168,10 @@ description: ""
 	<h4 style="margin-top:-30px;font-weight: bold;color:#000000">Lorem ipsum dolor sit amet</h4>&nbsp;
 		<p style="margin: -30px 0;font-size:14.5px; line-height:1.5;font-family:sans-serif;color:black;">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce id ipsum eget est suscipit mollis vel eu lorem. Donec nec eros ipsum.</p>
 	
-<details style="display: inline-block;margin-top:40px;"> 
-	<summary style="outline: none; cursor: pointer;">Click to expand</summary> 
-		<div style="max-height: 100px; transition: max-height 0.3s ease;margin-bottom:70px;font-size:14.5px; line-height:1.5;font-family:sans-serif;color:black;"> 
-		<p>This is the content of the collapsible group.</p>
-	</div> 
-	</details>
-	
-</div>
+<label style="cursor: pointer;" for="toggle">Click to toggle</label> <input style="display: none;" id="toggle" type="checkbox"> <div style="max-height: 0; overflow: hidden; transition: max-height 0.3s ease;"> <p>This is the content of the collapsible group.</p> </div>
 	
 </div>
 
 </div>
 
-</div>
+</div></div>
