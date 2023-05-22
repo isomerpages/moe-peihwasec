@@ -11,7 +11,9 @@ description: ""
 
 <p style="margin-top:15px;font-size:15.5px;"><strong style="font-family:sans-serif;">Its office bearers are:</strong></p>
 
-<table border="1" style="width:100%;">
+
+\
+			<table border="1" style="width:100%;">
 	<tbody>
 		<tr>
 			<td style="background-color: #54585d; font-weight: bold; font-size: 14.5px; border: 1px solid #54585d; color:white;border-bottom: 1px solid #dddddd;width:24%;font-family:sans-serif;">Chairman	</td>
@@ -27,16 +29,15 @@ description: ""
 		</tr>
 		<tr>
 			<td style="background-color: #54585d; font-weight: bold; font-size: 14.5px; border: 1px solid #54585d; color:white;border-bottom: 1px solid #dddddd;width:24%;font-family:sans-serif;" rowspan="4">Members	</td>
-			<td style="border: 1px solid #dddfe1;font-size: 14.5px;font-family:sans-serif;">Mr Kwan Yui</td>
+	<td style="border: 1px solid #dddfe1;font-size: 14.5px;font-family:sans-serif;">Mr Kang Yi Yang</td>
 		</tr>		
 		<tr>
-			<td style="border: 1px solid #dddfe1;font-size: 14.5px;font-family:sans-serif;">Mr Kang Yi Yang</td>
+						<td style="border: 1px solid #dddfe1;font-size: 14.5px;font-family:sans-serif;">Ms Chew Shi Qi</td>
 		</tr>	
 		<tr>
-			<td style="border: 1px solid #dddfe1;font-size: 14.5px;font-family:sans-serif;">Ms Chew Shi Qi</td>
+				<td style="border: 1px solid #dddfe1;font-size: 14.5px;font-family:sans-serif;">Mr Peh Hwee Heong Ricky</td>
 		</tr>	
-		<tr>
-			<td style="border: 1px solid #dddfe1;font-size: 14.5px;font-family:sans-serif;">Mr Peh Hwee Heong Ricky</td>
+		<tr><td style="border: 1px solid #dddfe1;font-size: 14.5px;font-family:sans-serif;">Mr Kwan Yui</td>
 		</tr>	
 </tbody>
 	</table>
