@@ -169,12 +169,19 @@ description: ""
 		<p style="margin: -30px 0;font-size:14.5px; line-height:1.5;font-family:sans-serif;color:black;">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce id ipsum eget est suscipit mollis vel eu lorem. Donec nec eros ipsum.</p>
 	
 <ul class="jekyllcodex_accordion">
-<li><input id="accordion1" type="checkbox"><label for="accordion1" style="line-height:2;margin-top:15px; font-family:sans-serif;">Our Programmes</label>
+
+<li><input id="accordion1" type="checkbox"><label for="accordion1" style="line-height:2;margin-top:40px; font-family:sans-serif;">Our Programmes</label>
 <div>
 <p style="font-size:14.5px; line-height:1.5;font-family:sans-serif;color:black;">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce id ipsum eget est suscipit mollis vel eu lorem. Donec nec eros ipsum.</p>
 </div>
-</li></ul>
+</li>
 	
+<li><input id="accordion1" type="checkbox"><label for="accordion1" style="line-height:2;margin-top:15px; font-family:sans-serif;">The CYL Experience</label>
+<div>
+<p style="font-size:14.5px; line-height:1.5;font-family:sans-serif;color:black;">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce id ipsum eget est suscipit mollis vel eu lorem. Donec nec eros ipsum.</p>
+</div>
+</li>
+	</ul>
 </div>
 
 </div>
