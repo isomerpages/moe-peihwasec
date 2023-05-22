@@ -44,7 +44,7 @@ description: ""
 		<p><strong style="font-size:14.5px; line-height:1.5;margin:0 15px;font-family:sans-serif;">CYL Experience</strong></p> 
 		<p style="font-size:14.5px; line-height:1.5;margin: -15px 15px 0px; font-family:sans-serif;">LLP -CYL Training <br><br>
 		G2 Neighbour (Programme was suspended in 2020 and 2021.)<br><br>
-		Guided Project (Collaboration with Project Work)</p>
+		Guided Project (Collaboration with Project Work)<br><br></p>
 		</div>
 	
 </div>
