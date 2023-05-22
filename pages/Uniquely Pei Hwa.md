@@ -156,7 +156,8 @@ description: ""
 </div>
 
 
-<div style="width: 100%; height: auto; background-image: linear-gradient(to right, rgba(255, 255, 255, 0), rgba(255, 255, 255, 225)), url('https://raw.githubusercontent.com/isomerpages/moe-peihwasec/staging/images/samplebg.jpeg'); background-position: left top; background-repeat: no-repeat; background-size: cover;width:100%; padding: 30px; display: flex; align-items: center;" class="image-container"><div style="flex: 1;" class="content">&nbsp;
+<div style="width: 100%; height: auto; background-image: linear-gradient(to right, rgba(255, 255, 255, 0), rgba(255, 255, 255, 225)), url('https://raw.githubusercontent.com/isomerpages/moe-peihwasec/staging/images/samplebg.jpeg'); background-position: left top; background-repeat: no-repeat; background-size: cover;width:100%; padding: 30px; display: flex; align-items: center;" class="image-container">
+	<div style="flex: 1;" class="content">&nbsp;
 
 <div style="margin-top:30px;display: flex; flex: 1; gap: 50px;" class="container">&nbsp;
 
@@ -185,6 +186,5 @@ description: ""
 	
 </div>
 
-</div>
 
-</div></div>
+</div></div></div>
