@@ -43,7 +43,7 @@ description: ""
 </div>
 
 <div style="background-color:#FAF3E9;padding:70px;margin-top:20px;">
-<h4 style="text-align:center; color:black; font-weight:900;">Our Signature Programmes</h4>
+<h4><strong style="text-align:center; color:black; font-weight:900;">Our Signature Programmes<strong></strong></strong></h4><strong style="text-align:center; color:black; font-weight:900;"><strong>
 
 <div style="display:flex;">
 	
@@ -102,7 +102,7 @@ description: ""
 	</div> 
 </div>
 </div>
-</div>
+</strong></strong></div><strong style="text-align:center; color:black; font-weight:900;"><strong>
 <div style="margin-top:20px; width:100%; padding: 10px; display: flex; align-items: center;" class="box"> 
 	<div style="flex: 1;" class="content"> 
 		<h6 style="margin-top:-75px;color: black">Pride of Pei Hwa</h6> 
@@ -141,4 +141,4 @@ description: ""
 </div>
 
 </div>
-</div>
+</div></strong></strong>
