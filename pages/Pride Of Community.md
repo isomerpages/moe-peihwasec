@@ -3,8 +3,8 @@ title: Pride Of Community
 permalink: /lp-announcement/pride-of-community/
 description: ""
 ---
-<div style="display: flex;">
-<div style="border-radius: 30px;flex: 1;border: 1px solid #ccc; display: flex; width:16%; gap: 15px; margin:5px;background-color: #0B6623;padding: 25px;box-sizing: border-box;" class="rectangle"> 
+<div style="display: flex;width:70%;margin:0;justify-content: center;">
+<div style="border-radius: 30px;flex: 1;border: 1px solid #ccc; display: flex; width:23%; gap: 15px; margin:5px;background-color: #0B6623;padding: 25px;box-sizing: border-box;" class="rectangle"> 
 	<img alt="Description of the image" style="width: 20%;height: auto;object-fit: cover; margin-top:10px;" src="https://img.icons8.com/ios/50/FAB005/open-book--v1.png"> 
 	<div style="color:white;"> 
 		<p style="font-weight: bold;margin: 0;color:#F8BF58;font-size:20px;" class="header">For Students</p> 
