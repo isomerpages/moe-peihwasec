@@ -8,7 +8,7 @@ description: ""
 	<img alt="Description of the image" style="width: 13%;height: auto;object-fit: cover; margin-top:4px;" src="https://img.icons8.com/ios/50/FAB005/open-book--v1.png"> 
 	<div style="color:white;"> 
 		<p style="font-weight: bold;margin: 0;color:#F8BF58;font-size:22px;" class="header">For Students</p> 
-		<p style="font-size:14.5px; line-height:1.5 ;margin-top:5px; font-family:sans-serif;" class="description">Description a Loorem ipsum dolor sit amet, consectetur adipiscing elit.<br></p> 
+		<p style="font-size:14.5px; line-height:1.5 ;margin-top:5px; font-family:sans-serif;" class="description">Description a Lorem ipsum dolor sit amet, consectetur adipiscing elit.<br></p> 
 		<button style="color: white;border: none;cursor: pointer; font-size:14.5px; line-height:2;margin-top:5px; font-family:sans-serif;">Discover →</button>
 	</div> 
 </div>
