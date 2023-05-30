@@ -3,12 +3,12 @@ title: Pride Of Community
 permalink: /lp-announcement/pride-of-community/
 description: ""
 ---
-<div style="display: flex;width:70%;margin:0;justify-content: center;">
+<div style="display: flex;width:70%;margin:10px;justify-content: center;">
 <div style="border-radius: 30px;flex: 1;border: 1px solid #ccc; display: flex; width:23%; gap: 15px; margin:5px;background-color: #0B6623;padding: 25px;box-sizing: border-box;" class="rectangle"> 
-	<img alt="Description of the image" style="width: 20%;height: auto;object-fit: cover; margin-top:10px;" src="https://img.icons8.com/ios/50/FAB005/open-book--v1.png"> 
+	<img alt="Description of the image" style="width: 30%;height: auto;object-fit: cover; margin-top:10px;" src="https://img.icons8.com/ios/50/FAB005/open-book--v1.png"> 
 	<div style="color:white;"> 
-		<p style="font-weight: bold;margin: 0;color:#F8BF58;font-size:20px;" class="header">For Students</p> 
-		<p style="font-size:14.5px; line-height:1.5 ;margin-top:5px; font-family:sans-serif;" class="description">Description Lorem ipsum dolor sit amet, consectetur adipiscing eldsit.<br></p> 
+		<p style="font-weight: bold;margin: 0;color:#F8BF58;font-size:18px;" class="header">For Students</p> 
+		<p style="font-size:14.5px; line-height:1.5 ;margin-top:5px; font-family:sans-serif;" class="description">Description Lorem ipsum dolor sit amet, consectetur adipiscing elddgsit.<br></p> 
 		<button style="color: white;    background-color: transparent;background-repeat: no-repeat;border: none;cursor: pointer; font-size:14.5px; line-height:2;margin-top:5px; font-family:sans-serif;">Discover →</button>
 	</div> 
 </div>
