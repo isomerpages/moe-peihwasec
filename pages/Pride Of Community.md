@@ -4,8 +4,8 @@ permalink: /lp-announcement/pride-of-community/
 description: ""
 ---
 <div style="display: flex;margin:10px;justify-content: center;">
-<div style="border-radius: 30px;flex: 1;border: 1px solid #ccc; display: flex; width:23%; gap: 15px; margin:5px;background-color: #0B6623;padding: 25px;box-sizing: border-box;" class="rectangle"> 
-	<img alt="Description of the image" style="width: 30%;height: auto;object-fit: cover; margin-top:10px;" src="https://img.icons8.com/ios/50/FAB005/open-book--v1.png"> 
+<div style="border-radius: 30px;flex: 1;border: 1px solid #ccc; display: flex; width:23%; gap: 15px; margin:5px;background-color: #0B6623;padding: 20px;box-sizing: border-box;" class="rectangle"> 
+	<img alt="Description of the image" style="width: 30%;height: auto;object-fit: cover; margin-top:6px;" src="https://img.icons8.com/ios/50/FAB005/open-book--v1.png"> 
 	<div style="color:white;"> 
 		<p style="font-weight: bold;margin: 0;color:#F8BF58;font-size:18px;" class="header">For Students</p> 
 		<p style="font-size:14.5px; line-height:1.5 ;margin-top:5px; font-family:sans-serif;" class="description">Description Lorem ipsum dolor sit amet, consectetur adipiscing elddgsit.<br></p> 
