@@ -3,7 +3,7 @@ title: Pride Of Community
 permalink: /lp-announcement/pride-of-community/
 description: ""
 ---
-<div style="display: flex;width:70%;margin:10px;justify-content: center;">
+<div style="display: flex;margin:10px;justify-content: center;">
 <div style="border-radius: 30px;flex: 1;border: 1px solid #ccc; display: flex; width:23%; gap: 15px; margin:5px;background-color: #0B6623;padding: 25px;box-sizing: border-box;" class="rectangle"> 
 	<img alt="Description of the image" style="width: 30%;height: auto;object-fit: cover; margin-top:10px;" src="https://img.icons8.com/ios/50/FAB005/open-book--v1.png"> 
 	<div style="color:white;"> 
@@ -36,7 +36,7 @@ description: ""
 	<img class="image" alt="Image" style="max-width: 300px; margin-right: 40px;border-radius: 20px" src="https://i.scdn.co/image/ab67616d00001e02af08a1c1088b457401e7d4fc"> 
 	<div style="flex: 1;" class="content"> 
 		<h6 style="margin-top: 10px;color:#6d6b47">Learning @ Pei Hwa</h6> 
-		<p><strong style="margin-top: 10px;color:black;font-weight: 700;">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</strong></p> 
+		<p><strong style="margin-top: 10px;color:black;font-weight: 900;">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</strong></p> 
 		<p style="margin: 10px 0;font-size:14.5px; line-height:2;font-family:sans-serif;">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce id ipsum eget est suscipit mollis vel eu lorem. Donec nec eros ipsum.</p>
 		<button style="background-color: #FDBC58; color: black; margin:0px;padding: 10px 20px; border: none; border-radius: 5px; font-size: 16px;">Discover</button>
 	</div> 
