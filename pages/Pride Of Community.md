@@ -5,27 +5,27 @@ description: ""
 ---
 <div style="display: flex;">
 <div style="border-radius: 30px;flex: 1;border: 1px solid #ccc; display: flex; width:23%; gap: 15px; margin:5px;background-color: #0B6623;padding: 25px;box-sizing: border-box;" class="rectangle"> 
-	<img alt="Description of the image" style="width: 13%;height: auto;object-fit: cover; margin-top:4px;" src="https://img.icons8.com/ios/50/FAB005/open-book--v1.png"> 
+	<img alt="Description of the image" style="width: 15%;height: auto;object-fit: cover; margin-top:4px;" src="https://img.icons8.com/ios/50/FAB005/open-book--v1.png"> 
 	<div style="color:white;"> 
-		<p style="font-weight: bold;margin: 0;color:#F8BF58;font-size:24px;" class="header">For Students</p> 
+		<p style="font-weight: bold;margin: 0;color:#F8BF58;font-size:22px;" class="header">For Students</p> 
 		<p style="font-size:14.5px; line-height:1.5 ;margin-top:5px; font-family:sans-serif;" class="description">Description Lorem ipsum dolor sit amet, consectetur adipiscing edlit.<br></p> 
 		<button style="color: white;border: none;cursor: pointer; font-size:14.5px; line-height:2;margin-top:5px; font-family:sans-serif;background-color:none;">Discover →</button>
 	</div> 
 </div>
 
 <div style="border-radius: 30px;flex: 1;border: 1px solid #ccc; display: flex; width:23%; gap: 15px; margin:5px;background-color: #0B6623;padding: 25px;box-sizing: border-box;" class="rectangle"> 
-	<img alt="Description of the image" style="width: 13%;height: auto;object-fit: cover; margin-top:4px;" src="https://img.icons8.com/external-vitaliy-gorbachev-lineal-vitaly-gorbachev/60/FAB005/external-family-chinese-new-year-vitaliy-gorbachev-lineal-vitaly-gorbachev.png"> 
+	<img alt="Description of the image" style="width: 15%;height: auto;object-fit: cover; margin-top:4px;" src="https://img.icons8.com/external-vitaliy-gorbachev-lineal-vitaly-gorbachev/60/FAB005/external-family-chinese-new-year-vitaliy-gorbachev-lineal-vitaly-gorbachev.png"> 
 	<div style="color:white;"> 
-		<p style="font-weight: bold;margin: 0;color:#F8BF58;font-size:24px;" class="header">For Parents</p> 
+		<p style="font-weight: bold;margin: 0;color:#F8BF58;font-size:22px;" class="header">For Parents</p> 
 		<p style="font-size:14.5px; line-height:1.5 ;margin-top:5px; font-family:sans-serif;" class="description">Description Lorem ipsum dolor sit amet, consectetur adipiscing elit.<br></p> 
 		<button style="color: white;border: none;cursor: pointer; font-size:14.5px; line-height:2;margin-top:5px; font-family:sans-serif;">Discover →</button>
 	</div> 
 </div>
 
 <div style="border-radius: 30px;flex: 1;border: 1px solid #ccc; display: flex; width:23%; gap: 15px; margin:5px;background-color: #0B6623;padding: 25px;box-sizing: border-box;" class="rectangle"> 
-	<img alt="Description of the image" style="width: 13%;height: auto;object-fit: cover; margin-top:4px;" src="https://img.icons8.com/pastel-glyph/64/FAB005/physics-book.png"> 
+	<img alt="Description of the image" style="width: 15%;height: auto;object-fit: cover; margin-top:4px;" src="https://img.icons8.com/pastel-glyph/64/FAB005/physics-book.png"> 
 	<div style="color:white;"> 
-		<p style="font-weight: bold;margin: 0;color:#F8BF58;font-size:24px;" class="header">For Teachers</p> 
+		<p style="font-weight: bold;margin: 0;color:#F8BF58;font-size:22px;" class="header">For Teachers</p> 
 		<p style="font-size:14.5px; line-height:1.5 ;margin-top:5px; font-family:sans-serif;" class="description">Description Lorem ipsum dolor sit amet, consectetur adipiscing elit.<br></p> 
 		<button style="color: white;border: none;cursor: pointer; font-size:14.5px; line-height:2;margin-top:5px; font-family:sans-serif;">Discover →</button>
 	</div> 
