@@ -38,12 +38,12 @@ description: ""
 		<h6 style="margin-top: 5px;color:#6d6b47;font-weight: 900;">Learning @ Pei Hwa</h6> 
 		<p><strong style="margin-top: 5px;color:black;font-weight: 900;">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</strong></p> 
 		<p style="margin: 10px 0;font-size:14.5px; line-height:2;font-family:sans-serif;">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce id ipsum eget est suscipit mollis vel eu lorem. Donec nec eros ipsum.</p>
-		<button style="background-color: #FDBC58; color: black; margin:0px;padding: 10px 20px; border: none; border-radius: 3px; font-size: 16px;">Discover</button>
+		<button style="background-color: #FDBC58; color: black; margin:0px;padding: 10px 20px; border: none; border-radius: 3px; font-size: 16px;font-weight:900">Discover</button>
 	</div> 
 </div>
 
 <div style="background-color:#FAF3E9;padding:70px;margin-top:20px;">
-<h4 style="text-align:center; color:black; font-weight:bold;">Our Signature Programmes</h4>
+<h4 style="text-align:center; color:black; font-weight:900;">Our Signature Programmes</h4>
 
 <div style="display:flex;">
 	
