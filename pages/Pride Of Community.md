@@ -36,8 +36,8 @@ description: ""
 	<img class="image" alt="Image" style="max-width: 300px; margin-right: 40px;border-radius: 20px" src="https://i.scdn.co/image/ab67616d00001e02af08a1c1088b457401e7d4fc"> 
 	<div style="flex: 1;" class="content"> 
 		<h6 style="margin-top: 5px;color:#6d6b47;font-weight: 900;font-size:16px;">Learning @ Pei Hwa</h6> 
-		<p style="margin-top: 5px;color:black;font-weight: 900;">Loreem ipsum dolor sit amet, consectetur adipiscing elit.</p> 
-		<p style="margin: 10px 0;font-size:14.5px; line-height:2;font-family:sans-serif;">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce id ipsum eget est suscipit mollis vel eu lorem. Donec nec eros ipsum.</p>
+		<p style="margin-top: -10px;color:black;font-weight: 900;">Loreem ipsum dolor sit amet, consectetur adipiscing elit.</p> 
+		<p style="margin: -10px 0;font-size:14.5px; line-height:2;font-family:sans-serif;">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce id ipsum eget est suscipit mollis vel eu lorem. Donec nec eros ipsum.</p>
 		<button style="background-color: #FDBC58; color: black; margin:0px;padding: 10px 20px; border: none; border-radius: 3px; font-size: 16px;font-weight:900">Discover</button>
 	</div> 
 </div>
