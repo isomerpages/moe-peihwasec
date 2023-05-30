@@ -33,7 +33,7 @@ description: ""
 </div>
 
 <div style="margin-top:20px; width:100%; padding: 10px; display: flex; align-items: center;" class="box"> 
-	<img class="image" alt="Image" style="max-width: 200px; margin-right: 40px;border-radius: 20px" src="https://i.scdn.co/image/ab67616d00001e02af08a1c1088b457401e7d4fc"> 
+	<img class="image" alt="Image" style="max-width: 300px; margin-right: 40px;border-radius: 20px" src="https://i.scdn.co/image/ab67616d00001e02af08a1c1088b457401e7d4fc"> 
 	<div style="flex: 1;" class="content"> 
 		<h6 style="margin: 0;">Learning @ Pei Hwa</h6> 
 		<h4 style="margin: 0;">Heading</h4> 
