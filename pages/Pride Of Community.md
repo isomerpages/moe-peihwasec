@@ -18,7 +18,7 @@ description: ""
 	<div style="color:white;"> 
 		<p style="font-weight: bold;margin: 0;color:#F8BF58;font-size:22px;" class="header">For Parents</p> 
 		<p style="font-size:14.5px; line-height:1.5 ;margin-top:5px; font-family:sans-serif;" class="description">Description Lorem ipsum dolor sit amet, consectetur adipiscing elit.<br></p> 
-		<button style="color: white;border: none;cursor: pointer; font-size:14.5px; line-height:2;margin-top:5px; font-family:sans-serif;">Discover →</button>
+	<button style="color: white;    background-color: transparent;background-repeat: no-repeat;border: none;cursor: pointer; font-size:14.5px; line-height:2;margin-top:5px; font-family:sans-serif;">Discover →</button>
 	</div> 
 </div>
 
@@ -27,7 +27,7 @@ description: ""
 	<div style="color:white;"> 
 		<p style="font-weight: bold;margin: 0;color:#F8BF58;font-size:22px;" class="header">For Teachers</p> 
 		<p style="font-size:14.5px; line-height:1.5 ;margin-top:5px; font-family:sans-serif;" class="description">Description Lorem ipsum dolor sit amet, consectetur adipiscing elit.<br></p> 
-		<button style="color: white;border: none;cursor: pointer; font-size:14.5px; line-height:2;margin-top:5px; font-family:sans-serif;">Discover →</button>
+<button style="color: white;    background-color: transparent;background-repeat: no-repeat;border: none;cursor: pointer; font-size:14.5px; line-height:2;margin-top:5px; font-family:sans-serif;">Discover →</button>
 	</div> 
 </div>
 </div>
