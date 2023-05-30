@@ -21,6 +21,6 @@ description: ""
 <li style="font-size:14.5px; line-height:2;font-family:sans-serif;"><a href="http://workspace.google.com/dashboard" target="_blank" rel="noopener noreferrer" style="font-family:sans-serif;">Student iCON</a>&nbsp;(students.edu.sg email)</li>
 <li style="font-size:14.5px; line-height:2;font-family:sans-serif;"><a href="https://learning.moe.edu.sg/" target="_blank" rel="noopener noreferrer" style="font-family:sans-serif;">Student Learning Space (SLS)</a></li>
 <li style="font-size:14.5px; line-height:2;font-family:sans-serif;"><a href="https://docs.google.com/forms/d/e/1FAIpQLSfwEIclp4Yx6VdTsWr8ueebfGiNjghD8Q85SgzBzeCRVXg-XQ/viewform" target="_blank" rel="noopener noreferrer" style="font-family:sans-serif;">Student Suggestion Scheme</a></li>
-<li style="font-size:14.5px; line-height:2;font-family:sans-serif;"><a href="[https://go.gov.sg/apptecgc](https://go.gov.sg/apptecgc)" style="font-family:sans-serif;">ECG Counselling Appointments</a>&nbsp;(For booking of ECG Counselling Appointments with ECG Counsellor)</li>
+<li style="font-size:14.5px; line-height:2;font-family:sans-serif;"><a href="https://go.gov.sg/apptecgc" style="font-family:sans-serif;">ECG Counselling Appointments</a>&nbsp;(For booking of ECG Counselling Appointments with ECG Counsellor)</li>
 <li style="font-size:14.5px; line-height:2;font-family:sans-serif;"><a href="https://go.gov.sg/discoverphss" style="font-family:sans-serif;">Discover@Pei Hwa</a></li>
 </ol>

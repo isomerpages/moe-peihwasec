@@ -2,7 +2,7 @@
 title: PH Times
 permalink: /ccas/clubs-societies/ph-times/
 description: ""
-third_nav_title: Clubs &amp; Societies
+third_nav_title: Clubs & Societies
 ---
 <p style="font-size:14.5px; line-height:2;font-family:sans-serif;"><strong style="font-size:14.5px; font-family:sans-serif;">Pei Hwa Times (PH Times) </strong> provides the opportunity for our members to develop technical skills about photography and videography. With these skills, our members will then have the opportunity to embark on a journalism journey; photojournalism and video journalism. We seek to help our members realise their potential and build resilience as well as confidence as they get their heart, head and hands on the journalism journey.</p>
 
@@ -170,7 +170,7 @@ third_nav_title: Clubs &amp; Societies
 
 <tr>
 			<td style="background-color: #54585d; font-weight: bold; font-size: 14.5px; border: 1px solid #54585d;border-bottom: 1px solid #dddddd; color:white;font-family:sans-serif;">CCA Teacher(s)</td>
-			<td style="border: 1px solid #dddfe1;font-size: 14.5px;font-family:sans-serif;">Ms Ari Sutanti Binte Haji Mispan<br>Mdm Woo Nam Cam<br>Miss Koh Ting Suen Jewel<br>Mr Liew Zhen Hong Joey</td>
+			<td style="border: 1px solid #dddfe1;font-size: 14.5px;font-family:sans-serif;">Ms Ari Sutanti Binte Haji Mispan<br>Mdm Woo Nan Cam<br>Miss Koh Ting Suen Jewel</td>
 		</tr>
 
 <tr>
