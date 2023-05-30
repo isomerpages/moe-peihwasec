@@ -9,7 +9,7 @@ description: ""
 	<div style="color:white;"> 
 		<p class="header"><strong style="font-weight: bold;margin: 0;color:#F8BF58;font-size:19px;margin-top:10px;">For Students</strong></p> 
 		<p style="font-size:14.5px; line-height:1.5 ;margin-top:5px; font-family:sans-serif;" class="description">Description as a Lorem ipsum dolor sit amet, consectetur adipiscing elddgsit.<br></p> 
-		<button style="color: white;    background-color: transparent;background-repeat: no-repeat;border: none;cursor: pointer; font-size:14.5px; line-height:2;margin-top:5px; font-family:sans-serif;">Discover →</button>
+		<button style="color: white; background-color: transparent;background-repeat: no-repeat;border: none;cursor: pointer; font-size:14.5px; line-height:2;margin-top:5px; font-family:sans-serif;">Discover →</button>
 	</div> 
 </div>
 
@@ -110,7 +110,7 @@ description: ""
 	</div> 
 	<div style="flex: 1;" class="content"> 
 		<p style="margin: 10px 0;font-size:14.5px; line-height:2;font-family:sans-serif;">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce id ipsum eget est suscipit mollis vel eu lorem. Donec nec eros ipsum.</p>
-		<button style="color: #FDBC58;margin:0px;border: none; border-radius: 5px; font-size: 16px;">Read more →</button>
+		<button style="color: #FDBC58;margin:0px;background-color: transparent;background-repeat: no-repeat;border: none; border-radius: 5px; font-size: 16px;">Read more →</button>
 	</div> 
 </div>
 
