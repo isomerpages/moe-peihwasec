@@ -43,7 +43,7 @@ description: ""
 </div>
 
 <div style="background-color:#FAF3E9;padding:70px;margin-top:20px;">
-<h4><strong style="text-align:center; color:black; font-weight:900;">Our Signature Programmes<strong></strong></strong></h4><strong style="text-align:center; color:black; font-weight:900;"><strong>
+<h4><strong style="text-align:center; color:black; font-weight:900;">Our Signature Programmes</strong></h4><strong style="text-align:center; color:black; font-weight:900;"><strong>
 
 <div style="display:flex;">
 	
