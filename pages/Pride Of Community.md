@@ -106,10 +106,10 @@ description: ""
 
 <div style="margin-top:20px; width:100%; padding: 30px; display: flex; align-items: center;" class="box"> 
 	<div style="flex: 1;" class="content"> 
-		<h6 style="color: black;margin-top:-90px;text-align:left;">Pride of Pei Hwa</h6> 
+		<h6 style="color: black;margin-top:-80px;text-align:left;">Pride of Pei Hwa</h6> 
 		<p style="font-size:18px; line-height:2;font-family:sans-serif;margin: 0;text-align:left;"><strong style="color:#FDBC58; font-weight:900">Heading</strong></p> 
 	</div> 
-	<div style="flex: 1;" class="content">
+	<div style="flex: 2;justify-content: space-between;" class="content">
 		<h6></h6> 
 		<p style="margin: 10px 0;font-size:14.5px; line-height:2;font-family:sans-serif;text-align:left;">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce id ipsum eget est suscipit mollis vel eu lorem. Donec nec eros ipsum.</p>
 		<button style="margin:0px;background-color: transparent;background-repeat: no-repeat;border: none; border-radius: 5px; font-size: 16px;"><strong style="font-size: 16px;color: #FDBC58; font-weight:900;">Read more </strong></button>
