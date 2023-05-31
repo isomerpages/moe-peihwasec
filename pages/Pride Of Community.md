@@ -112,7 +112,7 @@ description: ""
 	<div style="flex: 2;justify-content: space-between;" class="content">
 		<h6></h6><br><br><br>
 		<p style="margin: 10px 0;font-size:14.5px; line-height:2;font-family:sans-serif;text-align:left;">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce id ipsum eget est suscipit mollis vel eu lorem. Donec nec eros ipsum.</p>
-		<button style="margin:0px;background-color: transparent;background-repeat: no-repeat;border: none; border-radius: 5px; font-size: 16px;"><strong style="font-size: 16px;color: #FDBC58; font-weight:900;">Read more </strong></button>
+		<button style="background-color: transparent;background-repeat: no-repeat;border: none;"><strong style="font-size: 16px;color: #FDBC58; font-weight:900;">Read more </strong></button>
 	</div> 
 </div>
 
