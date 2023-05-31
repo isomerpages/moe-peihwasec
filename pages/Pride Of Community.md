@@ -52,7 +52,7 @@ description: ""
 	<div style="flex: 1;" class="content"> 
 		<h5 style="color:black;font-family:sans-serif;font-weight:bold;font-size:18px;margin:0px 15px;text-align:left;">Future Leader Programme</h5> 
 		<p style="font-size:14.5px; line-height:1.5;margin:0 15px;font-family:sans-serif;text-align:left;">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce id ipsum eget est suscipit mollis vel eu lorem. Donec nec eros ipsum.</p>
-		<button style="background-color: #FDBC58; color: black; margin:10px;padding: 10px 20px; border: none; border-radius: 5px; font-size: 16px;">Find out More </button>
+		<button style="background-color: #FDBC58; color: black; margin:10px;padding: 10px 20px; border: none; border-radius: 5px;&nbsp;font-size:14.5px; line-height:1.5;margin-top:5px; font-family:sans-serif;font-weight:900">Find out More </button>
 	</div> 
 </div>
 
@@ -61,7 +61,7 @@ description: ""
 	<div style="flex: 1;" class="content"> 
 		<h5 style="color:black;font-family:sans-serif;font-weight:bold;margin:0px 15px;text-align:left;font-size:18px;">ALP:Robotics and Programming</h5> 
 		<p style="font-size:14.5px; line-height:1.5;margin:0 15px;font-family:sans-serif;text-align:left;">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce id ipsum eget est suscipit mollis vel eu lorem. Donec nec eros ipsum.</p>
-		<button style="background-color: #FDBC58; color: black; margin:10px;padding: 10px 20px; border: none; border-radius: 5px; font-size: 16px;">Find out More </button>
+		<button style="background-color: #FDBC58; color: black; margin:10px;padding: 10px 20px; border: none; border-radius: 5px;&nbsp;font-size:14.5px; line-height:1.5;margin-top:5px; font-family:sans-serif;font-weight:900">Find out More </button>
 	</div> 
 </div>
 	<div style="flex: 1;border: 1px solid #ccc; padding: 0px; display: flex; flex-direction: column;width:23%;gap: 15px;margin:5px; background-color:white;" class="box"> 
@@ -69,7 +69,7 @@ description: ""
 	<div style="flex: 1;" class="content"> 
 		<h5 style="color:black;font-family:sans-serif;font-weight:bold;margin:0px 15px;text-align:left;font-size:18px;">LLP:Community Youth Leadership</h5> 
 		<p style="font-size:14.5px; line-height:1.5;margin:0 15px;font-family:sans-serif;text-align:left;">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce id ipsum eget est suscipit mollis vel eu lorem. Donec nec eros ipsum.</p>
-		<button style="background-color: #FDBC58; color: black; margin:10px;padding: 10px 20px; border: none; border-radius: 5px; font-size: 16px;">Find out More </button>
+		<button style="background-color: #FDBC58; color: black; margin:10px;padding: 10px 20px; border: none; border-radius: 5px;&nbsp;font-size:14.5px; line-height:1.5;margin-top:5px; font-family:sans-serif;font-weight:900">Find out More </button>
 	</div> 
 </div>
 </div>
@@ -81,7 +81,7 @@ description: ""
 	<div style="flex: 1;" class="content"> 
 		<h5 style="color:black;font-family:sans-serif;font-weight:bold;margin:0px 15px;text-align:left;font-size:18px;">Pei Hwa Talent Academy</h5> 
 		<p style="font-size:14.5px; line-height:1.5;margin:0 15px;font-family:sans-serif;text-align:left;">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce id ipsum eget est suscipit mollis vel eu lorem. Donec nec eros ipsum.</p>
-		<button style="background-color: #FDBC58; color: black; margin:10px;padding: 10px 20px; border: none; border-radius: 5px; font-size: 16px;text-align:left;">Find out More </button>
+		<button style="background-color: #FDBC58; color: black; margin:10px;padding: 10px 20px; border: none; border-radius: 5px;&nbsp;font-size:14.5px; line-height:1.5;margin-top:5px; font-family:sans-serif;font-weight:900">Find out More </button>
 	</div> 
 </div>
 
@@ -90,7 +90,7 @@ description: ""
 	<div style="flex: 1;" class="content"> 
 		<h5 style="color:black;font-family:sans-serif;font-weight:bold;margin:0px 15px;text-align:left;font-size:18px;">Beyond Borders Programme</h5> 
 		<p style="font-size:14.5px; line-height:1.5;margin:0 15px;font-family:sans-serif;text-align:left;">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce id ipsum eget est suscipit mollis vel eu lorem. Donec nec eros ipsum.</p>
-		<button style="background-color: #FDBC58; color: black; margin:10px;padding: 10px 20px; border: none; border-radius: 5px; font-size: 16px;">Find out More </button>
+		<button style="background-color: #FDBC58; color: black; margin:10px;padding: 10px 20px; border: none; border-radius: 5px;&nbsp;font-size:14.5px; line-height:1.5;margin-top:5px; font-family:sans-serif;font-weight:900">Find out More </button>
 	</div> 
 </div>
 	<div style="flex: 1;border: 1px solid #ccc; padding: 0px; display: flex; flex-direction: column;width:23%;gap: 15px;margin:5px; background-color:white;" class="box"> 
@@ -98,7 +98,7 @@ description: ""
 	<div style="flex: 1;" class="content"> 
 		<h5 style="color:black;font-family:sans-serif;font-weight:bold;margin:0px 15px;text-align:left;font-size:18px;">Innovative ChangeMakers Programme</h5> 
 		<p style="font-size:14.5px; line-height:1.5;margin:0 15px;font-family:sans-serif;text-align:left;">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce id ipsum eget est suscipit mollis vel eu lorem. Donec nec eros ipsum.</p>
-		<button style="background-color: #FDBC58; color: black; margin:10px;padding: 10px 20px; border: none; border-radius: 5px; font-size: 16px;">Find out More </button>
+		<button style="background-color: #FDBC58; color: black; margin:10px;padding: 10px 20px; border: none; border-radius: 5px;&nbsp;font-size:14.5px; line-height:1.5;margin-top:5px; font-family:sans-serif;font-weight:900">Find out More </button>
 	</div> 
 </div>
 </div>
