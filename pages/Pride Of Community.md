@@ -36,7 +36,7 @@ description: ""
 	<img class="image" alt="Image" style="max-width: 300px; margin-right: 70px;border-radius: 20px" src="https://i.scdn.co/image/ab67616d00001e02af08a1c1088b457401e7d4fc"> 
 	<div style="flex: 1;" class="content"> 
 		<h6 style="margin-top: 5px;color:#6d6b47;font-weight: 700;font-size:16px; font-family:sans-serif;">Learning @ Pei Hwa</h6> 
-		<h5 style="margin-top: 5px;color:black;font-weight: 900;font-size:18px; font-family:sans-serif;">Lorem ipsum dolor a sit amet, consectetur adipiscing elit.</h5> 
+		<h5 style="margin-top: 5px;color:black;font-weight: 900;font-size:18px; font-family:sans-serif;line-height:1.4">Lorem ipsum dolor a sit amet, consectetur adipiscing elit.</h5> 
 		<p style="font-size:14.5px; line-height:1.5 ;margin-top:5px; font-family:sans-serif;" class="description">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce id ipsum eget est suscipit mollis vel eu lorem. Donec nec eros ipsum.</p>
 				<button style="background-color: #FDBC58; color: black; margin:10px;padding: 10px 20px; border: none; border-radius: 5px;&nbsp;font-size:14.5px; line-height:1.5;margin-top:5px; font-family:sans-serif;font-weight:bold;">Discover</button>
 	</div> 
@@ -97,7 +97,7 @@ description: ""
 	<img style="max-width: 100%;" class="image" alt="Image" src="https://www.allkpop.com/upload/2022/09/content/080142/web_data/allkpop_1662615842_20220908-highlight.jpg"> 
 	<div style="flex: 1;" class="content"> 
 		<h5 style="color:black;font-family:sans-serif;font-weight:bold;margin:0px 15px;text-align:left;font-size:18px;line-height:1.5;">Innovative ChangeMakers Programme</h5> 
-				<p style="font-size:14.5px; line-height:1.5;margin:0 15px;font-family:sans-serif;text-align:left;font-weight:normal;">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce id ipsum eget est.</p>
+				<p style="font-size:14.5px; line-height:1.5;margin:0 15px;font-family:sans-serif;text-align:left;font-weight:normal;">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce id ipsum eget est suscipit mollis vel eu lorem. </p>
 		<button style="background-color: #FDBC58; color: black; margin:10px;padding: 10px 20px; border: none; border-radius: 5px;&nbsp;font-size:14.5px; line-height:1.5;margin-top:5px; font-family:sans-serif;font-weight:bold">Find out More </button>
 	</div> 
 </div>
