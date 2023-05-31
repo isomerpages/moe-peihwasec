@@ -11,28 +11,28 @@ description: ""
     <h3 style="margin: 0;">Title 1</h3>
     <p style="margin: 0;">Description 1</p>
   </div>
-    <div style="width: 30%; margin-bottom: 20px; padding: 10px; box-sizing: border-box; text-align: center;" class="image-box">
-    <img style="width: 100%; height: auto; margin-bottom: 10px;" alt="Image 1" src="image1.jpg">
+   <div style="width: 30%; margin-bottom: 20px; padding: 10px; box-sizing: border-box; text-align: center;" class="image-box">
+    <img style="width: 100%; height: auto; margin-bottom: 10px;border-radius: 50%;" alt="Image 1" src="/images/AlbumStudCounsellor3.jpeg">
     <h3 style="margin: 0;">Title 1</h3>
     <p style="margin: 0;">Description 1</p>
   </div>
-    <div style="width: 30%; margin-bottom: 20px; padding: 10px; box-sizing: border-box; text-align: center;" class="image-box">
-    <img style="width: 100%; height: auto; margin-bottom: 10px;" alt="Image 1" src="image1.jpg">
+   <div style="width: 30%; margin-bottom: 20px; padding: 10px; box-sizing: border-box; text-align: center;" class="image-box">
+    <img style="width: 100%; height: auto; margin-bottom: 10px;border-radius: 50%;" alt="Image 1" src="/images/AlbumStudCounsellor3.jpeg">
     <h3 style="margin: 0;">Title 1</h3>
     <p style="margin: 0;">Description 1</p>
   </div>
-    <div style="width: 30%; margin-bottom: 20px; padding: 10px; box-sizing: border-box; text-align: center;" class="image-box">
-    <img style="width: 100%; height: auto; margin-bottom: 10px;" alt="Image 1" src="image1.jpg">
+   <div style="width: 30%; margin-bottom: 20px; padding: 10px; box-sizing: border-box; text-align: center;" class="image-box">
+    <img style="width: 100%; height: auto; margin-bottom: 10px;border-radius: 50%;" alt="Image 1" src="/images/AlbumStudCounsellor3.jpeg">
     <h3 style="margin: 0;">Title 1</h3>
     <p style="margin: 0;">Description 1</p>
   </div>
-    <div style="width: 30%; margin-bottom: 20px; padding: 10px; box-sizing: border-box; text-align: center;" class="image-box">
-    <img style="width: 100%; height: auto; margin-bottom: 10px;" alt="Image 1" src="image1.jpg">
+  <div style="width: 30%; margin-bottom: 20px; padding: 10px; box-sizing: border-box; text-align: center;" class="image-box">
+    <img style="width: 100%; height: auto; margin-bottom: 10px;border-radius: 50%;" alt="Image 1" src="/images/AlbumStudCounsellor3.jpeg">
     <h3 style="margin: 0;">Title 1</h3>
     <p style="margin: 0;">Description 1</p>
   </div>
-    <div style="width: 30%; margin-bottom: 20px; padding: 10px; box-sizing: border-box; text-align: center;" class="image-box">
-    <img style="width: 100%; height: auto; margin-bottom: 10px;" alt="Image 1" src="image1.jpg">
+  <div style="width: 30%; margin-bottom: 20px; padding: 10px; box-sizing: border-box; text-align: center;" class="image-box">
+    <img style="width: 100%; height: auto; margin-bottom: 10px;border-radius: 50%;" alt="Image 1" src="/images/AlbumStudCounsellor3.jpeg">
     <h3 style="margin: 0;">Title 1</h3>
     <p style="margin: 0;">Description 1</p>
   </div>
