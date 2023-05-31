@@ -7,7 +7,7 @@ description: ""
 <div style="border-radius: 20px;flex: 1;border: 1px solid #ccc; display: flex; width:23%; gap: 15px; margin:5px;background-color: #0B6623;padding: 15px;box-sizing: border-box;" class="rectangle"> 
 	<img alt="Description of the image" style="width: 30%;height: auto;object-fit: cover; margin-top:17px;" src="https://img.icons8.com/ios/50/FAB005/open-book--v1.png"> 
 	<div style="color:white;"> 
-		<h5 style="font-weight: 900;margin: 0;color:#F8BF58;font-size:20px;margin-top:15px;" class="header">For Students</h5> 
+		<h5 style="font-weight: bold;margin: 0;color:#F8BF58;font-size:18px;margin-top:15px;" class="header">For Students</h5> 
 		<p style="font-size:14.5px; line-height:1.5 ;margin-top:5px; font-family:sans-serif;" class="description">Description as a Lorem ipsum dolor sit amet, consectetur adipiscing elddgsit.<br></p> 
 		<button style="color: white; background-color: transparent;background-repeat: no-repeat;border: none;cursor: pointer; font-size:14.5px; line-height:2;margin-top:5px; font-family:sans-serif;font-weight:900">Discover →</button>
 	</div> 
@@ -16,18 +16,18 @@ description: ""
 <div style="border-radius: 20px;flex: 1;border: 1px solid #ccc; display: flex; width:23%; gap: 15px; margin:5px;background-color: #0B6623;padding: 15px;box-sizing: border-box;" class="rectangle"> 
 	<img alt="Description of the image" style="width: 30%;height: auto;object-fit: cover; margin-top:17px;" src="https://img.icons8.com/external-vitaliy-gorbachev-lineal-vitaly-gorbachev/60/FAB005/external-family-chinese-new-year-vitaliy-gorbachev-lineal-vitaly-gorbachev.png"> 
 	<div style="color:white;"> 
-		<p style="font-weight: bold;margin: 0;color:#F8BF58;font-size:20px;margin-top:15px;" class="header">For Parents</p> 
+		<h5 style="font-weight: bold;margin: 0;color:#F8BF58;font-size:18px;margin-top:15px;" class="header">For Parents</h5> 
 		<p style="font-size:14.5px; line-height:1.5 ;margin-top:5px; font-family:sans-serif;" class="description">Description Lorem ipsum dolor sit amet, consectetur adipiscing elit.<br></p> 
-	<button style="color: white;    background-color: transparent;background-repeat: no-repeat;border: none;cursor: pointer; font-size:14.5px; line-height:2;margin-top:5px; font-family:sans-serif;">Discover →</button>
+	<button style="color: white; background-color: transparent;background-repeat: no-repeat;border: none;cursor: pointer; font-size:14.5px; line-height:2;margin-top:5px; font-family:sans-serif;font-weight:900">Discover →</button>
 	</div> 
 </div>
 
 <div style="border-radius: 20px;flex: 1;border: 1px solid #ccc; display: flex; width:23%; gap: 15px; margin:5px;background-color: #0B6623;padding: 15px;box-sizing: border-box;" class="rectangle"> 
 	<img alt="Description of the image" style="width: 30%;height: auto;object-fit: cover; margin-top:17px;" src="https://img.icons8.com/pastel-glyph/64/FAB005/physics-book.png"> 
 	<div style="color:white;"> 
-		<p style="font-weight: bold;margin: 0;color:#F8BF58;font-size:20px;margin-top:15px;" class="header">For Teachers</p> 
+		<h5 style="font-weight: bold;margin: 0;color:#F8BF58;font-size:18px;margin-top:15px;" class="header">For Teachers</h5> 
 		<p style="font-size:14.5px; line-height:1.5 ;margin-top:5px; font-family:sans-serif;" class="description">Description as Lorem ipsum dolor sit amet, consectetur adipiscing elit.<br></p> 
-<button style="color: white;    background-color: transparent;background-repeat: no-repeat;border: none;cursor: pointer; font-size:14.5px; line-height:2;margin-top:5px; font-family:sans-serif;">Discover →</button>
+<button style="color: white; background-color: transparent;background-repeat: no-repeat;border: none;cursor: pointer; font-size:14.5px; line-height:2;margin-top:5px; font-family:sans-serif;font-weight:900">Discover →</button>
 	</div> 
 </div>
 </div>
