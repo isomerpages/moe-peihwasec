@@ -33,12 +33,12 @@ description: ""
 </div>
 
 <div style="margin-top:20px; width:100%; padding: 10px; display: flex; align-items: center;" class="box"> 
-	<img class="image" alt="Image" style="max-width: 300px; margin-right: 40px;border-radius: 20px" src="https://i.scdn.co/image/ab67616d00001e02af08a1c1088b457401e7d4fc"> 
+	<img class="image" alt="Image" style="max-width: 300px; margin-right: 70px;border-radius: 20px" src="https://i.scdn.co/image/ab67616d00001e02af08a1c1088b457401e7d4fc"> 
 	<div style="flex: 1;" class="content"> 
 		<h6 style="margin-top: 5px;color:#6d6b47;font-weight: 700;font-size:16px; font-family:sans-serif;">Learning @ Pei Hwa</h6> 
 		<h5 style="margin-top: 5px;color:black;font-weight: 900;font-size:18px; font-family:sans-serif;">Lorem ipsum dolor a sit amet, consectetur adipiscing elit.</h5> 
 		<p style="font-size:14.5px; line-height:1.5 ;margin-top:5px; font-family:sans-serif;" class="description">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce id ipsum eget est suscipit mollis vel eu lorem. Donec nec eros ipsum.</p>
-		<button style="color: white;background-color: transparent;background-repeat: no-repeat;border: none;cursor: pointer; font-size:14.5px; line-height:2;margin-top:5px; font-family:sans-serif;">Discover</button>
+				<button style="background-color: #FDBC58; color: black; margin:10px;padding: 10px 20px; border: none; border-radius: 5px;&nbsp;font-size:14.5px; line-height:1.5;margin-top:5px; font-family:sans-serif;font-weight:bold;">Discover</button>
 	</div> 
 </div>
 
