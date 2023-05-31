@@ -8,8 +8,8 @@ description: ""
 	<img alt="Description of the image" style="width: 30%;height: auto;object-fit: cover; margin-top:17px;" src="https://img.icons8.com/ios/50/FAB005/open-book--v1.png"> 
 	<div style="color:white;"> 
 		<h5 style="font-weight: bold;margin: 0;color:#F8BF58;font-size:18px;margin-top:15px;" class="header">For Students</h5> 
-		<p style="font-size:14.5px; line-height:1.5 ;margin-top:5px; font-family:sans-serif;" class="description">Description as a Lorem ipsum dolor sit amet, consectetur adipiscing elddgsit.<br></p> 
-		<button style="color: white; background-color: transparent;background-repeat: no-repeat;border: none;cursor: pointer; font-size:14.5px; line-height:2;margin-top:5px; font-family:sans-serif;font-weight:900">Discover →</button>
+		<p style="font-size:14.5px; line-height:1.5 ;margin-top:5px; font-family:sans-serif;" class="description">Description as a Lorem ipsum dolor sit amet, consectetur adipiscing elddgsit.</p> 
+		<button style="color: white; background-color: transparent;background-repeat: no-repeat;border: none;cursor: pointer; font-size:14.5px; line-height:2;font-family:sans-serif;font-weight:900">Discover →</button>
 	</div> 
 </div>
 
@@ -18,7 +18,7 @@ description: ""
 	<div style="color:white;"> 
 		<h5 style="font-weight: bold;margin: 0;color:#F8BF58;font-size:18px;margin-top:15px;" class="header">For Parents</h5> 
 		<p style="font-size:14.5px; line-height:1.5 ;margin-top:5px; font-family:sans-serif;" class="description">Description Lorem ipsum dolor sit amet, consectetur adipiscing elit.<br></p> 
-	<button style="color: white; background-color: transparent;background-repeat: no-repeat;border: none;cursor: pointer; font-size:14.5px; line-height:2;margin-top:5px; font-family:sans-serif;font-weight:900">Discover →</button>
+	<button style="color: white; background-color: transparent;background-repeat: no-repeat;border: none;cursor: pointer; font-size:14.5px; line-height:2;font-family:sans-serif;font-weight:900">Discover →</button>
 	</div> 
 </div>
 
@@ -27,7 +27,7 @@ description: ""
 	<div style="color:white;"> 
 		<h5 style="font-weight: bold;margin: 0;color:#F8BF58;font-size:18px;margin-top:15px;" class="header">For Teachers</h5> 
 		<p style="font-size:14.5px; line-height:1.5 ;margin-top:5px; font-family:sans-serif;" class="description">Description as Lorem ipsum dolor sit amet, consectetur adipiscing elit.<br></p> 
-<button style="color: white; background-color: transparent;background-repeat: no-repeat;border: none;cursor: pointer; font-size:14.5px; line-height:2;margin-top:5px; font-family:sans-serif;font-weight:900">Discover →</button>
+<button style="color: white; background-color: transparent;background-repeat: no-repeat;border: none;cursor: pointer; font-size:14.5px; line-height:2; font-family:sans-serif;font-weight:900">Discover →</button>
 	</div> 
 </div>
 </div>
@@ -50,7 +50,7 @@ description: ""
 <div style="flex: 1;border: 1px solid #ccc; padding: 0px; display: flex; flex-direction: column;width:23%;gap: 15px;margin:5px; background-color:white;" class="box"> 
 	<img style="max-width: 100%;" class="image" alt="Image" src="https://www.allkpop.com/upload/2022/09/content/080142/web_data/allkpop_1662615842_20220908-highlight.jpg"> 
 	<div style="flex: 1;" class="content"> 
-		<h5 style="color:black;font-family:sans-serif;font-weight:bold;margin:0px 15px;text-align:left;">Future Leader Programme</h5> 
+		<h5 style="color:black;font-family:sans-serif;font-weight:bold;font-size:18px;margin:0px 15px;text-align:left;">Future Leader Programme</h5> 
 		<p style="font-size:14.5px; line-height:1.5;margin:0 15px;font-family:sans-serif;text-align:left;">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce id ipsum eget est suscipit mollis vel eu lorem. Donec nec eros ipsum.</p>
 		<button style="background-color: #FDBC58; color: black; margin:10px;padding: 10px 20px; border: none; border-radius: 5px; font-size: 16px;">Find out More </button>
 	</div> 
@@ -59,7 +59,7 @@ description: ""
 <div style="flex: 1;border: 1px solid #ccc; padding: 0px; display: flex; flex-direction: column;width:23%;gap: 15px;margin:5px; background-color:white;" class="box"> 
 	<img style="max-width: 100%;" class="image" alt="Image" src="https://www.allkpop.com/upload/2022/09/content/080142/web_data/allkpop_1662615842_20220908-highlight.jpg"> 
 	<div style="flex: 1;" class="content"> 
-		<h5 style="color:black;font-family:sans-serif;font-weight:bold;margin:0px 15px;text-align:left;">ALP:Robotics and Programming</h5> 
+		<h5 style="color:black;font-family:sans-serif;font-weight:bold;margin:0px 15px;text-align:left;font-size:18px;">ALP:Robotics and Programming</h5> 
 		<p style="font-size:14.5px; line-height:1.5;margin:0 15px;font-family:sans-serif;text-align:left;">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce id ipsum eget est suscipit mollis vel eu lorem. Donec nec eros ipsum.</p>
 		<button style="background-color: #FDBC58; color: black; margin:10px;padding: 10px 20px; border: none; border-radius: 5px; font-size: 16px;">Find out More </button>
 	</div> 
@@ -67,7 +67,7 @@ description: ""
 	<div style="flex: 1;border: 1px solid #ccc; padding: 0px; display: flex; flex-direction: column;width:23%;gap: 15px;margin:5px; background-color:white;" class="box"> 
 	<img style="max-width: 100%;" class="image" alt="Image" src="https://www.allkpop.com/upload/2022/09/content/080142/web_data/allkpop_1662615842_20220908-highlight.jpg"> 
 	<div style="flex: 1;" class="content"> 
-		<h5 style="color:black;font-family:sans-serif;font-weight:bold;margin:0px 15px;text-align:left;">LLP:Community Youth Leadership</h5> 
+		<h5 style="color:black;font-family:sans-serif;font-weight:bold;margin:0px 15px;text-align:left;font-size:18px;">LLP:Community Youth Leadership</h5> 
 		<p style="font-size:14.5px; line-height:1.5;margin:0 15px;font-family:sans-serif;text-align:left;">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce id ipsum eget est suscipit mollis vel eu lorem. Donec nec eros ipsum.</p>
 		<button style="background-color: #FDBC58; color: black; margin:10px;padding: 10px 20px; border: none; border-radius: 5px; font-size: 16px;">Find out More </button>
 	</div> 
@@ -79,7 +79,7 @@ description: ""
 <div style="flex: 1;border: 1px solid #ccc; padding: 0px; display: flex; flex-direction: column;width:23%;gap: 15px;margin:5px; background-color:white;" class="box"> 
 	<img style="max-width: 100%;" class="image" alt="Image" src="https://www.allkpop.com/upload/2022/09/content/080142/web_data/allkpop_1662615842_20220908-highlight.jpg"> 
 	<div style="flex: 1;" class="content"> 
-		<h5 style="color:black;font-family:sans-serif;font-weight:bold;margin:0px 15px;text-align:left;">Pei Hwa Talent Academy</h5> 
+		<h5 style="color:black;font-family:sans-serif;font-weight:bold;margin:0px 15px;text-align:left;font-size:18px;">Pei Hwa Talent Academy</h5> 
 		<p style="font-size:14.5px; line-height:1.5;margin:0 15px;font-family:sans-serif;text-align:left;">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce id ipsum eget est suscipit mollis vel eu lorem. Donec nec eros ipsum.</p>
 		<button style="background-color: #FDBC58; color: black; margin:10px;padding: 10px 20px; border: none; border-radius: 5px; font-size: 16px;text-align:left;">Find out More </button>
 	</div> 
@@ -88,7 +88,7 @@ description: ""
 <div style="flex: 1;border: 1px solid #ccc; padding: 0px; display: flex; flex-direction: column;width:23%;gap: 15px;margin:5px; background-color:white;" class="box"> 
 	<img style="max-width: 100%;" class="image" alt="Image" src="https://www.allkpop.com/upload/2022/09/content/080142/web_data/allkpop_1662615842_20220908-highlight.jpg"> 
 	<div style="flex: 1;" class="content"> 
-		<h5 style="color:black;font-family:sans-serif;font-weight:bold;margin:0px 15px;text-align:left;">Beyond Borders Programme</h5> 
+		<h5 style="color:black;font-family:sans-serif;font-weight:bold;margin:0px 15px;text-align:left;font-size:18px;">Beyond Borders Programme</h5> 
 		<p style="font-size:14.5px; line-height:1.5;margin:0 15px;font-family:sans-serif;text-align:left;">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce id ipsum eget est suscipit mollis vel eu lorem. Donec nec eros ipsum.</p>
 		<button style="background-color: #FDBC58; color: black; margin:10px;padding: 10px 20px; border: none; border-radius: 5px; font-size: 16px;">Find out More </button>
 	</div> 
@@ -96,7 +96,7 @@ description: ""
 	<div style="flex: 1;border: 1px solid #ccc; padding: 0px; display: flex; flex-direction: column;width:23%;gap: 15px;margin:5px; background-color:white;" class="box"> 
 	<img style="max-width: 100%;" class="image" alt="Image" src="https://www.allkpop.com/upload/2022/09/content/080142/web_data/allkpop_1662615842_20220908-highlight.jpg"> 
 	<div style="flex: 1;" class="content"> 
-		<h5 style="color:black;font-family:sans-serif;font-weight:bold;margin:0px 15px;text-align:left;">Innovative ChangeMakers Programme</h5> 
+		<h5 style="color:black;font-family:sans-serif;font-weight:bold;margin:0px 15px;text-align:left;font-size:18px;">Innovative ChangeMakers Programme</h5> 
 		<p style="font-size:14.5px; line-height:1.5;margin:0 15px;font-family:sans-serif;text-align:left;">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce id ipsum eget est suscipit mollis vel eu lorem. Donec nec eros ipsum.</p>
 		<button style="background-color: #FDBC58; color: black; margin:10px;padding: 10px 20px; border: none; border-radius: 5px; font-size: 16px;">Find out More </button>
 	</div> 
