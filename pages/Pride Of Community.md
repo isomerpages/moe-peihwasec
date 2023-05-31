@@ -104,7 +104,7 @@ description: ""
 </div>
 </div>
 
-<div style="width:100%; padding: 40px; display: flex; align-items: center;" class="box"> 
+<div style="width:100%; padding: 70px;margin-top:-140px; display: flex; align-items: center;" class="box"> 
 	<div style="flex: 1;" class="content"> 
 		<h6 style="color: black;text-align:left;">Pride of Pei Hwa</h6> 
 		<p style="font-size:18px; line-height:2;font-family:sans-serif;margin: 0;text-align:left;"><strong style="color:#FDBC58; font-weight:900;font-family:sans-serif;">Heading</strong></p> 
