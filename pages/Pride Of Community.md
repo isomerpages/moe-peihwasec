@@ -102,11 +102,12 @@ description: ""
 	</div> 
 </div>
 </div>
-</strong></strong></div><strong style="text-align:center; color:black; font-weight:900;"><strong>
-<div style="margin-top:20px; width:100%; padding: 10px; display: flex; align-items: center;" class="box"> 
+</strong></strong></div>
+
+<div style="margin-top:20px; width:100%; padding: 30px; display: flex; align-items: center;" class="box"> 
 	<div style="flex: 1;" class="content"> 
 		<h6 style="color: black;margin-top:-90px;text-align:left;">Pride of Pei Hwa</h6> 
-		<p style="font-size:18px; line-height:2;font-family:sans-serif;margin: 0;color:#FDBC58;text-align:left;">Heading</p> 
+		<p style="font-size:18px; line-height:2;font-family:sans-serif;margin: 0;text-align:left;"><strong style="color:#FDBC58; font-weight:900">Heading</strong></p> 
 	</div> 
 	<div style="flex: 1;" class="content">
 		<h6></h6> 
@@ -142,4 +143,4 @@ description: ""
 </div>
 
 </div>
-	</div></strong></strong>
+	</div>
