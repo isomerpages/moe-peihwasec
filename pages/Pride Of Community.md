@@ -4,11 +4,11 @@ permalink: /lp-announcement/pride-of-community/
 description: ""
 ---
 <div style="display: flex;margin:10px;justify-content: center;">
-<div style="border-radius: 30px;flex: 1;border: 1px solid #ccc; display: flex; width:23%; gap: 15px; margin:5px;background-color: #0B6623;padding: 20px;box-sizing: border-box;" class="rectangle"> 
-	<img alt="Description of the image" style="width: 30%;height: auto;object-fit: cover; margin-top:6px;" src="https://img.icons8.com/ios/50/FAB005/open-book--v1.png"> 
+<div style="border-radius: 20px;flex: 1;border: 1px solid #ccc; display: flex; width:23%; gap: 5px; margin:5px;background-color: #0B6623;padding: 10px;box-sizing: border-box;" class="rectangle"> 
+	<img alt="Description of the image" style="width: 30%;height: auto;object-fit: cover; margin-top:17px;" src="https://img.icons8.com/ios/50/FAB005/open-book--v1.png"> 
 	<div style="color:white;"> 
 		<p style="font-weight: bold;margin: 0;color:#F8BF58;font-size:20px;margin-top:15px;" class="header">For Students</p> 
-		<p style="font-size:14.5px; line-height:1.5 ;margin-top:5px; font-family:sans-serif;" class="description">Description as a Loorem ipsum dolor sit amet, consectetur adipiscing elddgsit.<br></p> 
+		<p style="font-size:14.5px; line-height:1.5 ;margin-top:5px; font-family:sans-serif;" class="description">Description as a Lorem ipsum dolor sit amet, consectetur adipiscing elddgsit.<br></p> 
 		<button style="color: white; background-color: transparent;background-repeat: no-repeat;border: none;cursor: pointer; font-size:14.5px; line-height:2;margin-top:5px; font-family:sans-serif;">Discover →</button>
 	</div> 
 </div>
@@ -105,12 +105,13 @@ description: ""
 </strong></strong></div><strong style="text-align:center; color:black; font-weight:900;"><strong>
 <div style="margin-top:20px; width:100%; padding: 10px; display: flex; align-items: center;" class="box"> 
 	<div style="flex: 1;" class="content"> 
-		<h6 style="margin-top:-75px;color: black">Pride of Pei Hwa</h6> 
-		<h4 style="margin: 0;color:#FDBC58">Heading</h4> 
+		<h6 style="color: black;margin-top:-90px;text-align:left;">Pride of Pei Hwa</h6> 
+		<p style="font-size:18px; line-height:2;font-family:sans-serif;margin: 0;color:#FDBC58;text-align:left;">Heading</p> 
 	</div> 
-	<div style="flex: 1;" class="content"> 
-		<p style="margin: 10px 0;font-size:14.5px; line-height:2;font-family:sans-serif;">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce id ipsum eget est suscipit mollis vel eu lorem. Donec nec eros ipsum.</p>
-		<button style="color: #FDBC58;margin:0px;background-color: transparent;background-repeat: no-repeat;border: none; border-radius: 5px; font-size: 16px;">Read more →</button>
+	<div style="flex: 1;" class="content">
+		<h6></h6> 
+		<p style="margin: 10px 0;font-size:14.5px; line-height:2;font-family:sans-serif;text-align:left;">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce id ipsum eget est suscipit mollis vel eu lorem. Donec nec eros ipsum.</p>
+		<button style="margin:0px;background-color: transparent;background-repeat: no-repeat;border: none; border-radius: 5px; font-size: 16px;"><strong style="font-size: 16px;color: #FDBC58; font-weight:900;">Read more </strong></button>
 	</div> 
 </div>
 
@@ -122,21 +123,21 @@ description: ""
 <div style="flex: 1;border: 1px solid #ccc; padding: 0px; display: flex; flex-direction: column;width:33%;gap: 10px;margin:5px; background-color:white;background-color: #0B6623;" class="box"> 
 	<img style="max-width: 100%;" class="image" alt="Image" src="https://www.allkpop.com/upload/2022/09/content/080142/web_data/allkpop_1662615842_20220908-highlight.jpg"> 
 	<div style="flex: 1;" class="content"> 
-		<h5 style="color:#FDBC58;font-family:sans-serif;font-weight:bold;text-align:center;">School Advisory Committee</h5> 
+		<h5 style="color:#FDBC58;font-family:sans-serif;font-weight:bold;text-align:center;font-size:18px;">School Advisory Committee</h5> 
 	</div> 
 </div>
 
 <div style="flex: 1;border: 1px solid #ccc; padding: 0px; display: flex; flex-direction: column;width:33%;gap: 10px;margin:5px; background-color:white;background-color: #0B6623;" class="box"> 
 	<img style="max-width: 100%;" class="image" alt="Image" src="https://www.allkpop.com/upload/2022/09/content/080142/web_data/allkpop_1662615842_20220908-highlight.jpg"> 
 	<div style="flex: 1;" class="content"> 
-		<h5 style="color:#FDBC58;font-family:sans-serif;font-weight:bold;text-align:center;">Parents' Support Group</h5> 
+		<h5 style="color:#FDBC58;font-family:sans-serif;font-weight:bold;text-align:center;font-size:18px;">Parents' Support Group</h5> 
 	</div> 
 </div>
 	
 <div style="flex: 1;border: 1px solid #ccc; padding: 0px; display: flex; flex-direction: column;width:33%;gap: 10px;margin:5px; background-color:white;background-color: #0B6623;" class="box"> 
 	<img style="max-width: 100%;" class="image" alt="Image" src="https://www.allkpop.com/upload/2022/09/content/080142/web_data/allkpop_1662615842_20220908-highlight.jpg"> 
 	<div style="flex: 1;" class="content"> 
-		<h5 style="color:#FDBC58;font-family:sans-serif;font-weight:bold;text-align:center;">Pei Hwa Alumni</h5> 
+		<h5 style="color:#FDBC58;font-family:sans-serif;font-weight:bold;text-align:center;font-size:18px;">Pei Hwa Alumni</h5> 
 	</div> 
 </div>
 
