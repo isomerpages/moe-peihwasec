@@ -50,7 +50,8 @@ description: ""
   </div>
 </div>
 
-<div style="margin-top:20px; width:100%; padding: 10px; display: flex; align-items: center;background-image: url(/images/bgfade.png);" class="box"> 
+<div style="margin-top:20px; width:100%; padding: 10px; display: flex; align-items: center;
+background-image: url('https://raw.githubusercontent.com/isomerpages/moe-peihwasec/staging/images/bgfade2.png'); background-size: 100%; background-repeat: no-repeat;" class="box"> 
 	<div style="flex: 1;" class="content"> </div> 
 	<div style="flex: 1;" class="content"> 
 		<h6 style="margin-top: 5px;color:#0B6623;font-weight: 700;font-size:16px; font-family:sans-serif;">Parents' Support Group</h6> 
