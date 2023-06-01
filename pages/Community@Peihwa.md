@@ -50,7 +50,7 @@ description: ""
   </div>
 </div>
 
-<div style="margin-top:20px; width:100%; padding: 20px; display: flex; align-items: center;
+<div style="margin-top:20px; width:150%; padding: 20px; display: flex; align-items: center;
 background-image: url('https://raw.githubusercontent.com/isomerpages/moe-peihwasec/staging/images/bgfade2.png'); background-repeat: no-repeat;background-size: 100%; background-position: center;" class="box"> 
 	<div style="flex: 1;" class="content"> </div> 
 	<div style="flex: 2;" class="content"> 
