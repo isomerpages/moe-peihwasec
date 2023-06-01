@@ -50,8 +50,8 @@ description: ""
   </div>
 </div>
 
-<div style="margin-top:20px; width:100%; padding: 20px; display: flex; align-items: center;
-background-image: url('https://raw.githubusercontent.com/isomerpages/moe-peihwasec/staging/images/bgfade2.png'); background-repeat: no-repeat;background-size: 100%;;height:100% background-position: center;" class="box"> 
+<div style="background-image: url('https://raw.githubusercontent.com/isomerpages/moe-peihwasec/staging/images/bgfade2.png'); background-repeat: no-repeat;background-size: 100%;;height:100% background-position: center;">
+<div style="margin-top:20px; width:100%; padding: 20px; display: flex; align-items: center;" class="box"> 
 	<div style="flex: 1;" class="content"> </div> 
 	<div style="flex: 2;" class="content"> 
 		<h6 style="margin:0;color:#0B6623;font-weight: 700;font-size:16px; font-family:sans-serif;">Parents' Support Group</h6> 
@@ -75,4 +75,5 @@ background-image: url('https://raw.githubusercontent.com/isomerpages/moe-peihwas
 		
 <button style="background-color: #FDBC58; color: black;padding: 10px 20px; border: none; border-radius: 5px;&nbsp;font-size:14.5px; line-height:1.5;font-family:sans-serif;font-weight:bold;">Discover</button>
 	</div> 
+</div>
 </div>
