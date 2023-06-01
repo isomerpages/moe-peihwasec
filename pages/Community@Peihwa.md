@@ -54,7 +54,7 @@ description: ""
 background-image: url('https://raw.githubusercontent.com/isomerpages/moe-peihwasec/staging/images/bgfade2.png'); background-size: 120%; background-repeat: no-repeat;" class="box"> 
 	<div style="flex: 1;" class="content"> </div> 
 	<div style="flex: 2;" class="content"> 
-		<h6 style="margin-top: 5px;color:#0B6623;font-weight: 700;font-size:16px; font-family:sans-serif;">Parents' Support Group</h6> 
+		<h6 style="margin:0;color:#0B6623;font-weight: 700;font-size:16px; font-family:sans-serif;">Parents' Support Group</h6> 
 		<h5 style="margin-top: 5px;color:black;font-weight: 900;font-size:18px; font-family:sans-serif;line-height:1.4">Lorem ipsum dolor a sit amet, consectetur adipiscing elit.</h5> 
 		<p style="font-size:14.5px; line-height:1.5 ;margin-top:5px; font-family:sans-serif;" class="description">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce id ipsum eget est suscipit mollis vel eu lorem. Donec nec eros ipsum.</p>
 
