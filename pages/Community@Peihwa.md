@@ -59,14 +59,14 @@ background-image: url('https://raw.githubusercontent.com/isomerpages/moe-peihwas
 		<p style="font-size:14.5px; line-height:1.5 ;margin-top:5px; font-family:sans-serif;" class="description">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce id ipsum eget est suscipit mollis vel eu lorem. Donec nec eros ipsum.</p>
 
 <ul class="jekyllcodex_accordion">
-<li><input id="accordion1" type="checkbox"><label for="accordion1" style="line-height:2;margin-top:15px; font-family:sans-serif;">School Leaders and Key Personnel</label>
+<li><input id="accordion1" type="checkbox"><label for="accordion1" style="line-height:1.5;margin:0; font-family:sans-serif;">School Leaders and Key Personnel</label>
 <div>
-	<p style="font-size:14.5px; line-height:1.5 ;font-family:sans-serif;" class="description">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce id ipsum eget est suscipit mollis vel eu lorem. Donec nec eros ipsum.</p>
+	<p style="font-size:14.5px; line-height:1.5;font-family:sans-serif;margin:0;" class="description">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce id ipsum eget est suscipit mollis vel eu lorem. Donec nec eros ipsum.</p>
 </div>
 </li>
 	
-<li><input id="accordion2" type="checkbox"> <label for="accordion2" style="font-family:sans-serif;;">Secondary 1 Classes 2022</label>
-<div>![]()
+<li><input id="accordion2" type="checkbox"> <label for="accordion2" style="font-family:sans-serif;">Secondary 1 Classes 2022</label>
+<div>
 	<p style="font-size:14.5px; line-height:1.5 ;font-family:sans-serif;" class="description">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce id ipsum eget est suscipit mollis vel eu lorem. Donec nec eros ipsum.</p>	
 </div>
 </li>
