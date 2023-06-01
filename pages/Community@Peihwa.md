@@ -3,7 +3,7 @@ title: Community@Peihwa
 permalink: /lp-announcement/community-peihwa/
 description: ""
 ---
-<h5 style="font-weight: 700;margin: 0;color:#0B6623;font-size:18px;margin-top:15px; font-family:sans-serif;text-align:center;" class="header">School Advisory Committee</h5>
+<h5 style="font-weight: 700;color:#0B6623;font-size:18px;margin:20px; font-family:sans-serif;text-align:center;" class="header">School Advisory Committee</h5>
 
 <div style="display: flex; flex-wrap: wrap; justify-content: space-between; max-width: 800px; margin: 0 auto;" class="image-container">
   <div style="width: 25%; margin-bottom: 20px; box-sizing: border-box; text-align: center;" class="image-box">
