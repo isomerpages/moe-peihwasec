@@ -145,15 +145,12 @@ description: ""
 		<p style="font-size:14.5px; line-height:1.5;margin: -15px 15px 0px; font-family:sans-serif;">Charity Food <br><br>
 		Drive International Friendship Day Project</p>
 		</div>
-	
 </div>
-	
 </div>
-	
 </div>
 
 
-<div style="width: 100%; height: auto; background-image:url('https://raw.githubusercontent.com/isomerpages/moe-peihwasec/staging/images/bgfade2.png');background-size: cover; background-repeat: no-repeat; background-position: center; width: 100%; height: 80vh;padding: 30px;align-items: center;" class="image-container">
+<div style="width: 100%; height: auto; background-image:url('https://raw.githubusercontent.com/isomerpages/moe-peihwasec/staging/images/bgfade2.png');background-size: cover; background-repeat: no-repeat; background-position: center; width: 100%; height: 70vh;padding: 30px;align-items: center;" class="image-container">
 	
 <div style="flex: 1;margin:20px;" class="content">&nbsp;
 
@@ -182,8 +179,6 @@ description: ""
 </li>
 	</ul>
 </div>
-
+	
 </div>
-
 </div></div>
-
