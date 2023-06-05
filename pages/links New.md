@@ -67,43 +67,43 @@ background-color:#0B6623;" class="box">
 <ul class="jekyllcodex_accordion">
 <li><input id="accordion1" type="checkbox"><label for="accordion1" style="line-height:1.5;margin:0; font-family:sans-serif;color:#F8BF58;font-weight:700;">Direct School Admissions</label>
 <div>
-	<p style="font-size:14.5px; line-height:1.5;font-family:sans-serif;margin:0;" class="description">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce id ipsum eget est suscipit mollis vel eu lorem. Donec nec eros ipsum.</p>
+	<p style="font-size:14.5px; line-height:1.5;font-family:sans-serif;margin:0;color:white;" class="description">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce id ipsum eget est suscipit mollis vel eu lorem. Donec nec eros ipsum.</p>
 </div>
 </li>
 	
-<li><input id="accordion2" type="checkbox"> <label for="accordion1" style="line-height:1.5;margin:0; font-family:sans-serif;color:#F8BF58;font-weight:700;">Robotics Club</label>
+<li><input id="accordion2" type="checkbox"> <label for="accordion2" style="line-height:1.5;margin:0; font-family:sans-serif;color:#F8BF58;font-weight:700;">Robotics Club</label>
 <div>
-	<p style="font-size:14.5px; line-height:1.5 ;font-family:sans-serif;" class="description">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce id ipsum eget est suscipit mollis vel eu lorem. Donec nec eros ipsum.</p>	
+	<p style="font-size:14.5px; line-height:1.5 ;font-family:sans-serif;color:white;" class="description">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce id ipsum eget est suscipit mollis vel eu lorem. Donec nec eros ipsum.</p>	
 </div>
 </li>
 	
-<li><input id="accordion2" type="checkbox"> <label for="accordion1" style="line-height:1.5;margin:0; font-family:sans-serif;color:#F8BF58;font-weight:700;">Admission Criteria</label>
+<li><input id="accordion3" type="checkbox"> <label for="accordion3" style="line-height:1.5;margin:0; font-family:sans-serif;color:#F8BF58;font-weight:700;">Admission Criteria</label>
 <div>
-	<p style="font-size:14.5px; line-height:1.5 ;font-family:sans-serif;" class="description">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce id ipsum eget est suscipit mollis vel eu lorem. Donec nec eros ipsum.</p>	
+	<p style="font-size:14.5px; line-height:1.5 ;font-family:sans-serif;color:white;" class="description">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce id ipsum eget est suscipit mollis vel eu lorem. Donec nec eros ipsum.</p>	
 </div>
 </li>
 	
-<li><input id="accordion2" type="checkbox"> <label for="accordion1" style="line-height:1.5;margin:0; font-family:sans-serif;color:#F8BF58;font-weight:700;">Selection Process and Criteria</label>
+<li><input id="accordion4" type="checkbox"> <label for="accordion4" style="line-height:1.5;margin:0; font-family:sans-serif;color:#F8BF58;font-weight:700;">Selection Process and Criteria</label>
 <div>
-	<p style="font-size:14.5px; line-height:1.5 ;font-family:sans-serif;" class="description">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce id ipsum eget est suscipit mollis vel eu lorem. Donec nec eros ipsum.</p>	
+	<p style="font-size:14.5px; line-height:1.5 ;font-family:sans-serif;color:white;" class="description">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce id ipsum eget est suscipit mollis vel eu lorem. Donec nec eros ipsum.</p>	
 </div>
 </li>
 	
-<li><input id="accordion2" type="checkbox"> <label for="accordion1" style="line-height:1.5;margin:0; font-family:sans-serif;color:#F8BF58;font-weight:700;">Guzheng</label>
+<li><input id="accordion5" type="checkbox"> <label for="accordion5" style="line-height:1.5;margin:0; font-family:sans-serif;color:#F8BF58;font-weight:700;">Guzheng</label>
 <div>
-	<p style="font-size:14.5px; line-height:1.5 ;font-family:sans-serif;" class="description">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce id ipsum eget est suscipit mollis vel eu lorem. Donec nec eros ipsum.</p>	
+	<p style="font-size:14.5px; line-height:1.5 ;font-family:sans-serif;color:white;" class="description">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce id ipsum eget est suscipit mollis vel eu lorem. Donec nec eros ipsum.</p>	
 </div>
 </li>
 	
-<li><input id="accordion2" type="checkbox"> <label for="accordion1" style="line-height:1.5;margin:0; font-family:sans-serif;color:#F8BF58;font-weight:700;">Admission Criteria </label>
+<li><input id="accordion6" type="checkbox"> <label for="accordion6" style="line-height:1.5;margin:0; font-family:sans-serif;color:#F8BF58;font-weight:700;">Admission Criteria </label>
 <div>
-	<p style="font-size:14.5px; line-height:1.5 ;font-family:sans-serif;" class="description">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce id ipsum eget est suscipit mollis vel eu lorem. Donec nec eros ipsum.</p>	
+	<p style="font-size:14.5px; line-height:1.5 ;font-family:sans-serif;color:white;" class="description">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce id ipsum eget est suscipit mollis vel eu lorem. Donec nec eros ipsum.</p>	
 </div>
 </li>
 	
-<li><input id="accordion2" type="checkbox"> <label for="accordion1" style="line-height:1.5;margin:0; font-family:sans-serif;color:#F8BF58;font-weight:700;">Selection Process and Criteria</label>
+<li><input id="accordion7" type="checkbox"> <label for="accordion7" style="line-height:1.5;margin:0; font-family:sans-serif;color:#F8BF58;font-weight:700;">Selection Process and Criteria</label>
 <div>
-	<p style="font-size:14.5px; line-height:1.5 ;font-family:sans-serif;" class="description">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce id ipsum eget est suscipit mollis vel eu lorem. Donec nec eros ipsum.</p>	
+	<p style="font-size:14.5px; line-height:1.5 ;font-family:sans-serif;color:white;" class="description">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce id ipsum eget est suscipit mollis vel eu lorem. Donec nec eros ipsum.</p>	
 </div>
 </li>
 
@@ -116,20 +116,48 @@ background-color:#0B6623;" class="box">
 		<p style="font-size:14.5px; line-height:1.5 ;margin-top:5px; font-family:sans-serif;color:white;" class="description">Loorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce id ipsum eget est suscipit mollis vel eu lorem. Donec nec eros ipsum.</p>
 
 <ul class="jekyllcodex_accordion">
-<li><input id="accordion1" type="checkbox"><label for="accordion1" style="line-height:1.5;margin:0; font-family:sans-serif;color:#F8BF58;">School Leaders and Key Personnel</label>
+<li><input id="accordion1" type="checkbox"><label for="accordion1" style="line-height:1.5;margin:0; font-family:sans-serif;color:#F8BF58;font-weight:700;">Loorem ipsum dolor sit amet, consectetur</label>
 <div>
 	<p style="font-size:14.5px; line-height:1.5;font-family:sans-serif;margin:0;color:white;" class="description">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce id ipsum eget est suscipit mollis vel eu lorem. Donec nec eros ipsum.</p>
 </div>
 </li>
 	
-<li><input id="accordion1" type="checkbox"><label for="accordion1" style="line-height:1.5;margin:0; font-family:sans-serif;color:#F8BF58;">School Leaders and Key Personnel</label>
+<li><input id="accordion2" type="checkbox"> <label for="accordion2" style="line-height:1.5;margin:0; font-family:sans-serif;color:#F8BF58;font-weight:700;">Loorem ipsum dolor sit amet, consectetur</label>
 <div>
-	<p style="font-size:14.5px; line-height:1.5;font-family:sans-serif;margin:0;color:white;" class="description">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce id ipsum eget est suscipit mollis vel eu lorem. Donec nec eros ipsum.</p>
+	<p style="font-size:14.5px; line-height:1.5 ;font-family:sans-serif;color:white;" class="description">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce id ipsum eget est suscipit mollis vel eu lorem. Donec nec eros ipsum.</p>	
+</div>
+</li>
+
+<li><input id="accordion3" type="checkbox"> <label for="accordion3" style="line-height:1.5;margin:0; font-family:sans-serif;color:#F8BF58;font-weight:700;">Loorem ipsum dolor sit amet, consectetur</label>
+<div>
+	<p style="font-size:14.5px; line-height:1.5 ;font-family:sans-serif;color:white;" class="description">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce id ipsum eget est suscipit mollis vel eu lorem. Donec nec eros ipsum.</p>	
+</div>
+</li>
+
+<li><input id="accordion4" type="checkbox"> <label for="accordion4" style="line-height:1.5;margin:0; font-family:sans-serif;color:#F8BF58;font-weight:700;">Loorem ipsum dolor sit amet, consectetur</label>
+<div>
+	<p style="font-size:14.5px; line-height:1.5 ;font-family:sans-serif;color:white;" class="description">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce id ipsum eget est suscipit mollis vel eu lorem. Donec nec eros ipsum.</p>	
+</div>
+</li>
+	
+<li><input id="accordion5" type="checkbox"> <label for="accordion5" style="line-height:1.5;margin:0; font-family:sans-serif;color:#F8BF58;font-weight:700;">Loorem ipsum dolor sit amet, consectetur</label>
+<div>
+	<p style="font-size:14.5px; line-height:1.5 ;font-family:sans-serif;color:white;" class="description">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce id ipsum eget est suscipit mollis vel eu lorem. Donec nec eros ipsum.</p>	
+</div>
+</li>
+	
+<li><input id="accordion6" type="checkbox"> <label for="accordion6" style="line-height:1.5;margin:0; font-family:sans-serif;color:#F8BF58;font-weight:700;">Loorem ipsum dolor sit amet, consectetur</label>
+<div>
+	<p style="font-size:14.5px; line-height:1.5 ;font-family:sans-serif;color:white;" class="description">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce id ipsum eget est suscipit mollis vel eu lorem. Donec nec eros ipsum.</p>	
+</div>
+</li>
+	
+<li><input id="accordion7" type="checkbox"> <label for="accordion7" style="line-height:1.5;margin:0; font-family:sans-serif;color:#F8BF58;font-weight:700;">Loorem ipsum dolor sit amet, consectetur</label>
+<div>
+	<p style="font-size:14.5px; line-height:1.5 ;font-family:sans-serif;color:white;" class="description">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce id ipsum eget est suscipit mollis vel eu lorem. Donec nec eros ipsum.</p>	
 </div>
 </li>
 
 </ul>
 		
-<button style="background-color: #FDBC58; color: black;padding: 10px 20px; border: none; border-radius: 5px;&nbsp;font-size:14.5px; line-height:1.5;font-family:sans-serif;font-weight:bold;">Discover</button>
-	</div> 
-</div>
+</div></div>
