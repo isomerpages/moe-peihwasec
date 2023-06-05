@@ -157,7 +157,7 @@ description: ""
 <div style="flex: 1;" class="column">&nbsp;
 </div>
 	
-<div style="flex: 1;" class="column">&nbsp;
+<div style="flex: 1;margin-top:-50px;" class="column">&nbsp;
 	<h6 style="color:#0B6623;">LLP:Community Youth Leadership</h6>&nbsp;
 	<h4 style="margin-top:-30px;font-weight: bold;color:#000000">Lorem ipsum dolor sit amet</h4>&nbsp;
 		<p style="margin-top:-20px;font-size:14.5px; line-height:1.5;font-family:sans-serif;color:black;">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce id ipsum eget est suscipit mollis vel eu lorem. Donec nec eros ipsum.</p>
@@ -165,13 +165,13 @@ description: ""
 <ul class="jekyllcodex_accordion">
 	
 <li><input id="accordion1" type="checkbox"><label for="accordion1" style="line-height:2;font-family:sans-serif;">Our Programmes</label>
-<div>
+<div style="margin-top:-10px;">
 <p style="font-size:14.5px; line-height:1.5;font-family:sans-serif;color:black;">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce id ipsum eget est suscipit mollis vel eu lorem. Donec nec eros ipsum.</p>
 </div>
 </li>
 	
 <li><input id="accordion2" type="checkbox"><label for="accordion2" style="line-height:2;font-family:sans-serif;">The CYL Experience</label>
-<div>
+<div style="margin-top:-10px;">
 <p style="font-size:14.5px; line-height:1.5;font-family:sans-serif;color:black;">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce id ipsum eget est suscipit mollis vel eu lorem. Donec nec eros ipsum.</p>
 </div>
 </li>
