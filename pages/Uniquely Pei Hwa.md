@@ -150,7 +150,7 @@ description: ""
 </div>
 
 
-<div style="background-image:url('https://raw.githubusercontent.com/isomerpages/moe-peihwasec/staging/images/bgfade2.png'); background-size: cover; background-repeat: no-repeat; background-position: center; width: 100%; height: 100vh;padding: 30px;align-items: center;" class="image-container">
+<div style="width: 200%; height: auto; background-image:url('https://raw.githubusercontent.com/isomerpages/moe-peihwasec/staging/images/bgfade2.png');background-size: cover; background-repeat: no-repeat; background-position: center; width: 100%; height: 70vh;padding: 30px;align-items: center;" class="image-container">
 	
 <div style="flex: 1;margin:20px;" class="content">&nbsp;
 
