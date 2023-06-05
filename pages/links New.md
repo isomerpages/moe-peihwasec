@@ -8,35 +8,36 @@ description: ""
 
 <div style="display:flex;">
 	
-<div style="flex: 1;border: 1px solid #ccc; padding: 0px; display: flex; flex-direction: column;width:100%;gap: 10px;margin:5px; background-color:white;background-color: #0B6623;" class="box"> 
+<div style="flex: 1;border: 1px solid #ccc; padding: 0px; display: flex; flex-direction: column;width:150%;gap: 10px;margin:10px; background-color:white;background-color: #0B6623;" class="box"> 
 	<img style="max-width: 100%;" class="image" alt="Image" src="https://www.allkpop.com/upload/2022/09/content/080142/web_data/allkpop_1662615842_20220908-highlight.jpg"> 
 	<div style="flex: 1;" class="content"> 
 		<h5 style="color:#FDBC58;font-family:sans-serif;font-weight:bold;text-align:center;font-size:18px;">SLS</h5> 
 	</div> 
 </div>
 
-<div style="flex: 1;border: 1px solid #ccc; padding: 0px; display: flex; flex-direction: column;width:100%;gap: 10px;margin:5px; background-color:white;background-color: #0B6623;" class="box"> 
+<div style="flex: 1;border: 1px solid #ccc; padding: 0px; display: flex; flex-direction: column;width:150%;gap: 10px;margin:10px; background-color:white;background-color: #0B6623;" class="box"> 
 	<img style="max-width: 100%;" class="image" alt="Image" src="https://www.allkpop.com/upload/2022/09/content/080142/web_data/allkpop_1662615842_20220908-highlight.jpg"> 
 	<div style="flex: 1;" class="content"> 
-		<h5 style="color:#FDBC58;font-family:sans-serif;font-weight:bold;text-align:center;font-size:18px;">ACE Learning</h5> 
+		<h5 style="color:#FDBC58;font-family:sans-serif;font-weight:bold;text-align:center;font-size:18px;">SLS</h5> 
 	</div> 
 </div>
+
 	
-<div style="flex: 1;border: 1px solid #ccc; padding: 0px; display: flex; flex-direction: column;width:100%;gap: 10px;margin:5px; background-color:white;background-color: #0B6623;" class="box"> 
+<div style="flex: 1;border: 1px solid #ccc; padding: 0px; display: flex; flex-direction: column;width:150%;gap: 10px;margin:10px; background-color:white;background-color: #0B6623;" class="box"> 
 	<img style="max-width: 100%;" class="image" alt="Image" src="https://www.allkpop.com/upload/2022/09/content/080142/web_data/allkpop_1662615842_20220908-highlight.jpg"> 
 	<div style="flex: 1;" class="content"> 
-		<h5 style="color:#FDBC58;font-family:sans-serif;font-weight:bold;text-align:center;font-size:18px;">Student ICON</h5> 
+		<h5 style="color:#FDBC58;font-family:sans-serif;font-weight:bold;text-align:center;font-size:18px;">SLS</h5> 
 	</div> 
 </div>
 
-<br>
 
-<div style="flex: 1;border: 1px solid #ccc; padding: 0px; display: flex; flex-direction: column;width:100%;gap: 10px;margin:5px; background-color:white;background-color: #0B6623;" class="box"> 
+<div style="flex: 1;border: 1px solid #ccc; padding: 0px; display: flex; flex-direction: column;width:150%;gap: 10px;margin:10px; background-color:white;background-color: #0B6623;" class="box"> 
 	<img style="max-width: 100%;" class="image" alt="Image" src="https://www.allkpop.com/upload/2022/09/content/080142/web_data/allkpop_1662615842_20220908-highlight.jpg"> 
 	<div style="flex: 1;" class="content"> 
-		<h5 style="color:#FDBC58;font-family:sans-serif;font-weight:bold;text-align:center;font-size:18px;">SLSd</h5> 
+		<h5 style="color:#FDBC58;font-family:sans-serif;font-weight:bold;text-align:center;font-size:18px;">SLS</h5> 
 	</div> 
 </div>
+
 
 </div>
 </div>
