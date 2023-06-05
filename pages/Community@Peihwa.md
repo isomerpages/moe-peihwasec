@@ -7,7 +7,7 @@ description: ""
 
 <div style="display: flex; flex-wrap: wrap; justify-content: space-between; max-width: 800px; margin: 0 auto;" class="image-container">
 	<div style="width: 20%; margin-bottom: 20px; box-sizing: border-box; text-align: center;" class="image-box">
-    <img style="height: 100%; margin-bottom: 10px;border-radius: 50%;" alt="Image 1" src="/images/100by100(export50).png">
+    <img style="width: 40%; margin-bottom: 10px;border-radius: 50%;" alt="Image 1" src="/images/100by100(export50).png">
     <h5 style="font-weight: 700;margin: 0;color:#F8BF58;font-size:18px;font-family:sans-serif;margin0;" class="header">Lee Daniel</h5>
     <p style="font-size:14.5px; line-height:1.5 ;margin:0; font-family:sans-serif;">Head of Operation</p>
   </div>
@@ -50,7 +50,7 @@ description: ""
   </div>
 </div>
 
-<div style="margin-top:20px; width:100%; padding: 20px; display: flex; align-items: center;
+<div style="margin-top:20px; width:100%; height:100%; padding: 20px; display: flex; align-items: center;
 background-image: url('https://raw.githubusercontent.com/isomerpages/moe-peihwasec/staging/images/bgfade2.png'); background-repeat: no-repeat;background-size: 100%;height:100% background-position: center;flex-wrap: wrap; justify-content: space-between;" class="box"> 
 	<div style="flex: 1;" class="content"></div> 
 	<div style="flex: 2;" class="content"> 
