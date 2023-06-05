@@ -150,7 +150,7 @@ description: ""
 </div>
 
 
-<div style="width: 100%; height: auto; background-image:url('https://raw.githubusercontent.com/isomerpages/moe-peihwasec/staging/images/bgfade2.png');background-size: cover; background-repeat: no-repeat; background-position: center; width: 100%; height: 70vh;padding: 30px;align-items: center;" class="image-container">
+<div style="width: 100%; height: auto; background-image:url('https://raw.githubusercontent.com/isomerpages/moe-peihwasec/staging/images/bgfade2.png');background-size: cover; background-repeat: no-repeat; background-position: center; width: 200%; height: 70vh;padding: 30px;align-items: center;" class="image-container">
 	
 <div style="flex: 1;margin:20px;" class="content">&nbsp;
 
@@ -165,14 +165,14 @@ description: ""
 		<p style="margin: -30px 0;font-size:14.5px; line-height:1.5;font-family:sans-serif;color:black;">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce id ipsum eget est suscipit mollis vel eu lorem. Donec nec eros ipsum.</p>
 	
 <ul class="jekyllcodex_accordion">
-
-<li><input id="accordion1" type="checkbox"><label for="accordion1" style="line-height:2;margin-top:40px; font-family:sans-serif;">Our Programmes</label>
+	
+<li><input id="accordion1" type="checkbox"><label for="accordion1" style="line-height:2;font-family:sans-serif;">Our Programmes</label>
 <div>
 <p style="font-size:14.5px; line-height:1.5;font-family:sans-serif;color:black;">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce id ipsum eget est suscipit mollis vel eu lorem. Donec nec eros ipsum.</p>
 </div>
 </li>
 	
-<li><input id="accordion2" type="checkbox"><label for="accordion2" style="line-height:2;margin-top:15px; font-family:sans-serif;">The CYL Experience</label>
+<li><input id="accordion2" type="checkbox"><label for="accordion2" style="line-height:2;font-family:sans-serif;">The CYL Experience</label>
 <div>
 <p style="font-size:14.5px; line-height:1.5;font-family:sans-serif;color:black;">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce id ipsum eget est suscipit mollis vel eu lorem. Donec nec eros ipsum.</p>
 </div>
