@@ -331,11 +331,7 @@ description: ""
 
 <div style="display: flex; flex: 1; gap: 50px;" class="container">&nbsp;
 
-<div style="flex: 1;" class="column">
-	<div style="position: relative; width: 300px; height: 300px;" class="container">&nbsp;
-<img class="image" alt="Image" style="max-width: 115px; margin-left: 180px;border-radius: 10px;position: absolute; bottom: 0; left: 0;" src="https://i.scdn.co/image/ab67616d00001e02af08a1c1088b457401e7d4fc">&nbsp;
-<img class="image" alt="Image" style="max-width: 250px; margin-right: 40px;border-radius: 10px" src="https://i.scdn.co/image/ab67616d00001e02af08a1c1088b457401e7d4fc">&nbsp;
-</div>
+<div style="flex: 1;" class="column">&nbsp;
 </div>
 	
 <div style="flex: 1;margin-top:-50px;" class="column">&nbsp;
