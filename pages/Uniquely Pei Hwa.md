@@ -335,7 +335,7 @@ description: ""
 </div>
 	
 <div style="flex: 1;margin-top:-50px;" class="column">&nbsp;
-	<h6 style="color:#0B6623;">LLP:Community Youth Leadership</h6>&nbsp;
+	<h6 style="color:#0B6623;">Innovative Change Makers Programme</h6>&nbsp;
 	<h4 style="margin-top:-30px;font-weight: bold;color:#000000">Lorem ipsum dolor sit amet</h4>&nbsp;
 		<p style="margin-top:-20px;font-size:14.5px; line-height:1.5;font-family:sans-serif;color:black;">Loorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce id ipsum eget est suscipit mollis vel eu lorem. Donec nec eros ipsum.</p>
 	
