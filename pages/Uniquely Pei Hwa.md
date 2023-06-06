@@ -327,7 +327,7 @@ description: ""
 </div>
 </div>
 
-<div style="width: 200%; height: auto; background-image:url('https://raw.githubusercontent.com/isomerpages/moe-peihwasec/staging/images/bgfade2.png');background-size: cover; background-repeat: no-repeat; background-position: center; width: 100%; height: 60vh;align-items: center;" class="image-container">
+<div style="width: 200%; height: auto; background-image:url('');background-size: cover; background-repeat: no-repeat; background-position: center; width: 100%; height: 60vh;align-items: center;" class="image-container">
 
 <div style="display: flex; flex: 1; gap: 50px;" class="container">&nbsp;
 
