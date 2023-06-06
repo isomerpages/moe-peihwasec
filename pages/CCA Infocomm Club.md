@@ -46,7 +46,7 @@ description: ""
 
 <tr>
 			<td style="font-weight: bold; font-size: 15px; border-bottom: 1px solid #dddddd;width:25%;font-family:sans-serif;">CCA Teacher(s)</td>
-			<td style="font-size: 14.5px; border-bottom: 1px solid #dddddd;font-family:sans-serif;">Ms Tang Wai Sim Wendy,Ms Cheng Liangyu</td>
+			<td style="font-size: 14.5px; border-bottom: 1px solid #dddddd;font-family:sans-serif;">Ms Tang Wai Sim Wendy, Ms Cheng Liangyu</td>
 		</tr>
 
 <tr>
