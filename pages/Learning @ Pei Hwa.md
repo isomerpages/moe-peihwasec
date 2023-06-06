@@ -9,7 +9,47 @@ description: ""
 
 <p style="font-size:14.5px; line-height:1.5 ;margin-top:5px; font-family:sans-serif;text-align:center;" class="description">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce id ipsum eget est suscipit mollis vel eu lorem. Donec nec eros ipsum.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce id ipsum eget est suscipit mollis vel eu lorem. Donec nec eros ipsum.</p>
 
-<div id="full-picture" style="width:100%; overflow: hidden;float: left;">
+<div id="gallery" style="width: 100%;overflow: hidden;
+position: relative;z-index: 1;margin:0;">
+      <ul id="navigation" style="list-style: none;padding: 0;margin: 0;float:left;">
+        <li style="padding: 0;margin: 0;">
+          <a href="#picture1" style="display: block;">
+						<p>asbe</p>
+          </a>
+        </li>
+        <li style="padding: 0;margin: 0;">
+          <a href="#picture2" style="display: block;">
+           <p>asbe2</p>
+          </a>
+        </li>
+        <li style="padding: 0;margin: 0;">
+          <a href="#picture3" style="display: block;">
+            <p>asbe</p>
+          </a>
+        </li>
+        <li style="padding: 0;margin: 0;">
+          <a href="#picture4" style="display: block;">
+            <p>asbe</p>
+          </a>
+        </li>
+		<li style="padding: 0;margin: 0;">
+          <a href="#picture5" style="display: block;">
+            <p>asbe</p>
+          </a>
+        </li>
+		  <li style="padding: 0;margin: 0;margin: 5px 0 20px;">
+          <a href="#picture6" style="display: block;">
+            <p>asbe</p>
+          </a>
+        </li>
+		  <li style="padding: 0;margin: 0;margin: 5px 0 20px;">
+          <a href="#picture7" style="display: block;">
+            <p>asbe</p>
+          </a>
+        </li>
+</ul>
+	
+<div id="full-picture" style="width:100%; overflow: hidden;float: right;">
 	<div>
 		<a name="picture1" style="display: block;"></a>
 		<img alt="" src="/images/Kai%20Jie%20Storyboard%201.jpg" style="width:100%;">
@@ -38,4 +78,4 @@ description: ""
 		<a name="picture7" style="display: block;"></a>
 		<img alt="" src="/images/Kai Jie Storyboard 7.jpg" style="width:100%;">
 	</div>
-</div>
+</div></div>
