@@ -164,7 +164,7 @@ description: ""
 	
 <ul style="decoration:none;" class="jekyllcodex_accordion">
 	
-<li style="margin-bottom:-10px;margin-top:-10px;"><input style="margin-bottom:-10px;margin-top:-10px;" id="accordion1" type="checkbox"><label for="accordion1" style="line-height:2;font-family:sans-serif;color:#0B6623;">Our Programme</label>
+<li style="margin-bottom:-10px;margin-top:-10px;decoration:none;"><input style="margin-bottom:-10px;margin-top:-10px;" id="accordion1" type="checkbox"><label for="accordion1" style="line-height:2;font-family:sans-serif;color:#0B6623;">Our Programmes</label>
 <div style="margin-top:-15px;margin-bottom:-15px;">
 <p style="font-size:14.5px; line-height:1.5;font-family:sans-serif;color:black;">Loorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce id ipsum eget est suscipit mollis vel eu lorem. Donec nec eros ipsum.</p>
 </div>
