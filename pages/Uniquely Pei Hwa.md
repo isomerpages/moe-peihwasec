@@ -164,15 +164,15 @@ description: ""
 	
 <ul class="jekyllcodex_accordion">
 	
-<li><input id="accordion1" type="checkbox"><label for="accordion1" style="line-height:2;font-family:sans-serif;">Our Programmes</label>
+<li style="margin-bottom:-10px;margin-top:-10px;"><input id="accordion1" type="checkbox"><label for="accordion1" style="line-height:2;font-family:sans-serif;color:#0B6623;">Our Programmes</label>
 <div style="margin-top:-15px;margin-bottom:-15px;">
-<p style="font-size:14.5px; line-height:1.5;font-family:sans-serif;color:black;">Loorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce id ipsum eget est suscipit mollis vel eu lorem. Donec nec eros ipsum.</p>
+<p style="font-size:14.5px; line-height:1.5;font-family:sans-serif;color:black;">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce id ipsum eget est suscipit mollis vel eu lorem. Donec nec eros ipsum.</p>
 </div>
 </li>
 	
-<li style="margin-bottom:-15px;"><input id="accordion2" type="checkbox"><label for="accordion2" style="line-height:2;font-family:sans-serif;">Our Programmes</label>
+<li style="margin-bottom:-10px;margin-top:-10px;"><input id="accordion2" type="checkbox"><label for="accordion2" style="line-height:2;font-family:sans-serif;color:#0B6623;">The CYL Experience</label>
 <div style="margin-top:-15px;margin-bottom:-15px;">
-<p style="font-size:14.5px; line-height:1.5;font-family:sans-serif;color:black;">Loorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce id ipsum eget est suscipit mollis vel eu lorem. Donec nec eros ipsum.</p>
+<p style="font-size:14.5px; line-height:1.5;font-family:sans-serif;color:black;">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce id ipsum eget est suscipit mollis vel eu lorem. Donec nec eros ipsum.</p>
 </div>
 </li>
 	</ul>
