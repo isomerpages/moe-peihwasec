@@ -84,7 +84,7 @@ position: relative;z-index: 1;margin: 10px auto;">
         </li>
 </ul>
       
-<div id="full-picture" style="width: 600px;height: 450px;overflow: hidden;float: left;">
+<div id="full-picture" style="width: 600px;height: 450px;overflow: hidden;float: left;margin-top:-70px;">
         <div>
           <a name="picture1" style="display: block;"></a>
           <img alt="" src="/images/Kai%20Jie%20Storyboard%201.jpg" style="width:100%;">
