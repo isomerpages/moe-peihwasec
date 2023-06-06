@@ -170,8 +170,8 @@ description: ""
 </div>
 </li>
 	
-<li><input id="accordion2" type="checkbox"><label for="accordion2" style="line-height:2;font-family:sans-serif;">Our Programme</label>
-<div style="margin-top:-15px;margin-bottom:-35px;">
+<li style="margin-bottom:-15px;"><input id="accordion2" type="checkbox"><label for="accordion2" style="line-height:2;font-family:sans-serif;">Our Programmes</label>
+<div style="margin-top:-15px;margin-bottom:-15px;">
 <p style="font-size:14.5px; line-height:1.5;font-family:sans-serif;color:black;">Loorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce id ipsum eget est suscipit mollis vel eu lorem. Donec nec eros ipsum.</p>
 </div>
 </li>
