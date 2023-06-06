@@ -40,22 +40,22 @@ description: ""
 <table style="width:100%;border-collapse: collapse;border: none;">
 	<tbody style="border: none;">
 		<tr style="border: none;">
-			<td style="font-weight: bold; font-size: 15px; border-bottom: 1px solid #dddddd;width:35%;font-family:sans-serif;">Teacher-In-Charge</td>
+			<td style="font-weight: bold; font-size: 15px; border-bottom: 1px solid #dddddd;width:25%;font-family:sans-serif;">Teacher-In-Charge</td>
 			<td style="font-size: 14.5px; border-bottom: 1px solid #dddddd;font-family:sans-serif;">Mr Toh Wee Teeck</td>
 		</tr>
 
 <tr>
-			<td style="font-weight: bold; font-size: 15px; border-bottom: 1px solid #dddddd;width:35%;font-family:sans-serif;">CCA Teacher(s)</td>
+			<td style="font-weight: bold; font-size: 15px; border-bottom: 1px solid #dddddd;width:25%;font-family:sans-serif;">CCA Teacher(s)</td>
 			<td style="font-size: 14.5px; border-bottom: 1px solid #dddddd;font-family:sans-serif;">Ms Tang Wai Sim Wendy,Ms Cheng Liangyu</td>
 		</tr>
 
 <tr>
-			<td style="font-weight: bold; font-size: 15px; border-bottom: 1px solid #dddddd;width:35%;font-family:sans-serif;">CCA Schedule</td>
+			<td style="font-weight: bold; font-size: 15px; border-bottom: 1px solid #dddddd;width:25%;font-family:sans-serif;">CCA Schedule</td>
 			<td style="font-size: 14.5px; border-bottom: 1px solid #dddddd;font-family:sans-serif;">Tuesday 3.30pm - 6.00pm</td>
 		</tr>
 		
 <tr>
-			<td style="font-weight: bold; font-size: 15px; border-bottom: 1px solid #dddddd;width:35%;font-family:sans-serif;">Venues</td>
+			<td style="font-weight: bold; font-size: 15px; border-bottom: 1px solid #dddddd;width:25%;font-family:sans-serif;">Venues</td>
 			<td style="font-size: 14.5px; border-bottom: 1px solid #dddddd;font-family:sans-serif;">Computer Lab 1 &amp; 2</td>
 		</tr>
 		
