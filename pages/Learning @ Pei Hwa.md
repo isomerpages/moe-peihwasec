@@ -59,7 +59,7 @@ position: relative;z-index: 1;margin: 20px auto;display: flex;">
         </li>
 </ul>
 	
-<div id="full-picture" style="width: 600px;height: 540px;overflow: hidden;float: left;margin-top:-30px;">
+<div id="full-picture" style="width: 600px;height: 530px;overflow: hidden;float: left;margin-top:-30px;">
         <div>
           <a name="subject1" style="display: block;"></a>
           <div style="position: relative; display: inline-block;" class="container"> 
@@ -224,7 +224,7 @@ position: relative;z-index: 1;margin: 20px auto;display: flex;">
 <div id="gallery" style="width: 100%;overflow: hidden;
 position: relative;z-index: 1;margin: 10px auto;">
       <ul id="navigation" style="list-style: none;padding: 0;margin: 20px;display: flex; justify-content: space-between;">
-        <li style="padding: 0margin: 0;">
+        <li style="padding: 0;margin: 0;">
           <a href="#cce1" style="display: block;">
             <button style="color: #0B6623; border: none;border-radius:10px;background-color: white;font-size:16px; line-height:1.5;font-family:sans-serif;text-align:center;margin-bottom:-15px;padding:10px;" class="button">Character &amp; Citizenship <br>Education</button>
           </a>
