@@ -221,4 +221,61 @@ position: relative;z-index: 1;margin: 20px auto;display: flex;">
 
 <h3 style="margin-top:10px;font-weight: bold;text-align:center;color:#F8BF58;">Lorem ipsum dolor sit amet, consectetur adipiscing </h3>
 
+<div id="gallery" style="width: 100%;overflow: hidden;
+position: relative;z-index: 1;margin: 10px auto;">
+      <ul id="navigation" style="list-style: none;padding: 0;margin: 0;display: flex; justify-content: space-between;">
+        <li style="padding: 0;margin: 0;">
+          <a href="#picture1" style="display: block;">
+            <button style="color: #0B6623; border: none;background-color: white;font-size:16px; line-height:1.5;font-family:sans-serif;text-align:left;margin-bottom:-15px;" class="button">Character &amp; Citizenship <br>Education</button>
+          </a>
+        </li>
+        <li style="padding: 0;margin: 0;">
+          <a href="#picture2" style="display: block;">
+            <button style="color: #0B6623; border: none;background-color: white;font-size:16px; line-height:1.5;font-family:sans-serif;text-align:left;margin-bottom:-15px;" class="button">Pastoral Care &amp; <br> Career Guidance </button>
+          </a>
+        </li>
+        <li style="padding: 0;margin: 0;">
+          <a href="#picture3" style="display: block;">
+            <button style="color: #0B6623; border: none;background-color: white;font-size:16px; line-height:1.5;font-family:sans-serif;text-align:left;margin-bottom:-15px;" class="button">Sexuality Education</button>
+          </a>
+        </li>
+        <li style="padding: 0;margin: 0;">
+          <a href="#picture4" style="display: block;">
+            <button style="color: #0B6623; border: none;background-color: white;font-size:16px; line-height:1.5;font-family:sans-serif;text-align:left;margin-bottom:-15px;" class="button">Cyberwellness</button>
+          </a>
+        </li>
+		
+</ul>
+      
+<div id="full-picture" style="width: 100% height: 450px;overflow: hidden;float: left;margin-top:-70px;">
+        <div>
+          <a name="picture1" style="display: block;"></a>
+          <img alt="" src="/images/Kai%20Jie%20Storyboard%201.jpg" style="width:100%;">
+        </div>
+        <div>
+          <a name="picture2" style="display: block;"></a>
+          <img alt="" src="/images/Kai%Jie%Storyboard%202.jpg" style="width:100%;">
+        </div>
+        <div>
+          <a name="picture3" style="display: block;"></a>
+          <img alt="" src="/images/Kai%20Jie%20Storyboard%203.jpg" style="width:100%;">
+        </div>
+        <div>
+          <a name="picture4" style="display: block;"></a>
+          <img alt="" src="/images/Kai%20Jie%20Storyboard%204.jpg">
+        </div>
+		<div>
+          <a name="picture5" style="display: block;"></a>
+          <img alt="" src="/images/Kai Jie Storyboard 5.jpg" style="width:100%;"> 
+        </div>
+        <div>
+          <a name="picture6" style="display: block;"></a>
+          <img alt="" src="/images/Kai Jie Storyboard 6.jpg" style="width:100%;">
+        </div>
+        <div>
+          <a name="picture7" style="display: block;"></a>
+          <img alt="" src="/images/Kai Jie Storyboard 7.jpg" style="width:100%;">
+        </div>
+      </div>
+ </div>
 </div>
