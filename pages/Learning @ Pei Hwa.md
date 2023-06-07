@@ -16,14 +16,14 @@ description: ""
 		<a style="margin-right: 10px;" href="#description3" class="button">Button 3</a> 
 	</div> 
 	<div> 
-		<div style="display: none;" class="description-content" id="description1"> 
+		<div style="display: none;" class="description-content" name="description1"> 
 			<p>Description 1</p> 
 		</div> 
-		<div style="display: none;" class="description-content" id="description2"> 
+		<div style="display: none;" class="description-content" name="description2"> 
 			<p>Description 2</p> 
 		</div> 
-		<div style="display: none;" class="description-content" id="description3"> 
-			<p>Description 3</p> 
+		<div style="display: none;" class="description-content" name="description3"> 
+			<p>Description 33</p> 
 		</div> 
 	</div> 
 </div>
