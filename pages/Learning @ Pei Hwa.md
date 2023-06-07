@@ -59,7 +59,7 @@ position: relative;z-index: 1;margin: 20px auto;display: flex;">
         </li>
 </ul>
 	
-<div id="full-picture" style="width: 600px;height: 550px;overflow: hidden;float: left;margin-top:-30px;">
+<div id="full-picture" style="width: 600px;height: 545px;overflow: hidden;float: left;margin-top:-30px;">
         <div>
           <a name="subject1" style="display: block;"></a>
           <div style="position: relative; display: inline-block;" class="container"> 
@@ -223,25 +223,25 @@ position: relative;z-index: 1;margin: 20px auto;display: flex;">
 
 <div id="gallery" style="width: 100%;overflow: hidden;
 position: relative;z-index: 1;margin: 10px auto;">
-      <ul id="navigation" style="list-style: none;padding: 0;margin: 0;display: flex; justify-content: space-between;">
+      <ul id="navigation" style="list-style: none;padding: 0;margin: 20px;display: flex; justify-content: space-between;">
         <li style="padding: 0;margin: 0;">
           <a href="#cce1" style="display: block;">
-            <button style="color: #0B6623; border: none;background-color: white;font-size:16px; line-height:1.5;font-family:sans-serif;text-align:left;margin-bottom:-15px;" class="button">Character &amp; Citizenship <br>Education</button>
+            <button style="color: #0B6623; border: none;border-radius:10px;background-color: white;font-size:16px; line-height:1.5;font-family:sans-serif;text-align:center;margin-bottom:-15px;" class="button">Character &amp; Citizenship <br>Education</button>
           </a>
         </li>
         <li style="padding: 0;margin: 0;">
           <a href="#pccg2" style="display: block;">
-            <button style="color: #0B6623; border: none;background-color: white;font-size:16px; line-height:1.5;font-family:sans-serif;text-align:left;margin-bottom:-15px;" class="button">Pastoral Care &amp; <br> Career Guidance </button>
+            <button style="color: #0B6623; border: none;border-radius:10px;background-color: white;font-size:16px; line-height:1.5;font-family:sans-serif;text-align:center;margin-bottom:-15px;" class="button">Pastoral Care &amp; <br> Career Guidance </button>
           </a>
         </li>
         <li style="padding: 0;margin: 0;">
           <a href="#se3" style="display: block;">
-            <button style="color: #0B6623; border: none;background-color: white;font-size:16px; line-height:1.5;font-family:sans-serif;text-align:left;margin-bottom:-15px;" class="button">Sexuality Education</button>
+            <button style="color: #0B6623; border: none;border-radius:10px;background-color: white;font-size:16px; line-height:1.5;font-family:sans-serif;text-align:center;margin-bottom:-15px;" class="button">Sexuality Education</button>
           </a>
         </li>
         <li style="padding: 0;margin: 0;">
           <a href="#cw4" style="display: block;">
-            <button style="color: #0B6623; border: none;background-color: white;font-size:16px; line-height:1.5;font-family:sans-serif;text-align:left;margin-bottom:-15px;" class="button">Cyberwellness</button>
+            <button style="color: #0B6623; border: none;border-radius:10px;background-color: white;font-size:16px; line-height:1.5;font-family:sans-serif;text-align:center;margin-bottom:-15px;" class="button">Cyberwellness</button>
           </a>
         </li>
 		
