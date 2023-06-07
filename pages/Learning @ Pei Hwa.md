@@ -14,52 +14,52 @@ position: relative;z-index: 1;margin: 20px auto;display: flex; gap:20px;">
       <ul id="navigation" style="list-style: none;margin: 0;">
         <li style="padding: 0;margin: 0;">
           <a href="#picture1" style="display: block;">
-            <button style="color: #0B6623; border: none;&nbsp;font-size:14.5px; line-height:1.5;font-family:sans-serif;text-align:left;" class="button">English Language and Literature </button>
+            <button style="color: #0B6623; border: none;background-color: transparent;font-size:14.5px; line-height:1.5;font-family:sans-serif;text-align:left;" class="button">English Language and Literature </button>
           </a>
         </li>
         <li style="padding: 0;margin: 0;">
           <a href="#picture2" style="display: block;">
-            <button style="color: #0B6623; border: none;&nbsp;font-size:14.5px; line-height:1.5;font-family:sans-serif;text-align:left;" class="button">Mother Tongue Languages</button>
+            <button style="color: #0B6623; border: none;background-color: transparent;font-size:14.5px; line-height:1.5;font-family:sans-serif;text-align:left;" class="button">Mother Tongue Languages</button>
           </a>
         </li>
         <li style="padding: 0;margin: 0;">
           <a href="#picture3" style="display: block;">
-            <button style="color: #0B6623; border: none;&nbsp;font-size:14.5px; line-height:1.5;font-family:sans-serif;text-align:left;" class="button">Mathematics</button>
+            <button style="color: #0B6623; border: none;background-color: transparent;font-size:14.5px; line-height:1.5;font-family:sans-serif;text-align:left;" class="button">Mathematics</button>
           </a>
         </li>
         <li style="padding: 0;margin: 0;">
           <a href="#picture4" style="display: block;">
-            <button style="color: #0B6623; border: none;&nbsp;font-size:14.5px; line-height:1.5;font-family:sans-serif;text-align:left;" class="button">Science</button>
+            <button style="color: #0B6623; border: none;background-color: transparent;font-size:14.5px; line-height:1.5;font-family:sans-serif;text-align:left;" class="button">Science</button>
           </a>
         </li>
 		<li style="padding: 0;margin: 0;">
           <a href="#picture5" style="display: block;">
-            <button style="color: #0B6623; border: none;&nbsp;font-size:14.5px; line-height:1.5;font-family:sans-serif;text-align:left;" class="button">Humanities</button>
+            <button style="color: #0B6623; border: none;background-color: transparent;font-size:14.5px; line-height:1.5;font-family:sans-serif;text-align:left;" class="button">Humanities</button>
           </a>
         </li>
 		  <li style="padding: 0;margin: 0;">
           <a href="#picture6" style="display: block;">
-            <button style="color: #0B6623; border: none;&nbsp;font-size:14.5px; line-height:1.5;font-family:sans-serif;text-align:left;" class="button">Craft &amp; Technology</button>
+            <button style="color: #0B6623; border: none;background-color: transparent;font-size:14.5px; line-height:1.5;font-family:sans-serif;text-align:left;" class="button">Craft &amp; Technology</button>
           </a>
         </li>
 		  <li style="padding: 0;margin: 0;">
           <a href="#picture7" style="display: block;">
-            <button style="color: #0B6623; border: none;&nbsp;font-size:14.5px; line-height:1.5;font-family:sans-serif;text-align:left;" class="button">POA and EBS</button>
+            <button style="color: #0B6623; border: none;background-color: transparent;font-size:14.5px; line-height:1.5;font-family:sans-serif;text-align:left;" class="button">POA and EBS</button>
           </a>
         </li>
 				<li style="padding: 0;margin: 0;">
           <a href="#picture8" style="display: block;">
-            <button style="color: #0B6623; border: none;&nbsp;font-size:14.5px; line-height:1.5;font-family:sans-serif;text-align:left;" class="button">PE</button>
+            <button style="color: #0B6623; border: none;background-color: transparent;font-size:14.5px; line-height:1.5;font-family:sans-serif;text-align:left;" class="button">PE</button>
           </a>
         </li>
 				<li style="padding: 0;margin: 0;">
           <a href="#picture9" style="display: block;">
-            <button style="color: #0B6623; border: none;&nbsp;font-size:14.5px; line-height:1.5;font-family:sans-serif;text-align:left;" class="button">Homework and Assessment Policy</button>
+            <button style="color: #0B6623; border: none;background-color: transparent;font-size:14.5px; line-height:1.5;font-family:sans-serif;text-align:left;" class="button">Homework and Assessment Policy</button>
           </a>
         </li>
 </ul>
 	
-<div id="full-picture" style="width: 600px;height: 560px;overflow: hidden;float: left;margin-top:-30px;">
+<div id="full-picture" style="width: 600px;height: 559px;overflow: hidden;float: left;margin-top:-30px;">
         <div>
           <a name="picture1" style="display: block;"></a>
           <div style="position: relative; display: inline-block;" class="container"> 
