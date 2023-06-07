@@ -59,7 +59,7 @@ position: relative;z-index: 1;margin: 20px auto;display: flex; gap:20px;">
         </li>
 </ul>
 	
-<div id="full-picture" style="width: 600px;height: 600px;overflow: hidden;float: left;margin-top:-30px;">
+<div id="full-picture" style="width: 600px;height: 580px;overflow: hidden;float: left;margin-top:-30px;">
         <div>
           <a name="picture1" style="display: block;"></a>
           <div style="position: relative; display: inline-block;" class="container"> 
