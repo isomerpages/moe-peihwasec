@@ -9,7 +9,7 @@ description: ""
 
 <p style="font-size:14.5px; line-height:1.5 ;margin-top:5px; font-family:sans-serif;text-align:center;" class="description">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce id ipsum eget est suscipit mollis vel eu lorem. Donec nec eros ipsum.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce id ipsum eget est suscipit mollis vel eu lorem. Donec nec eros ipsum.</p>
 
-<div id="gallery" style="width: 100%; height: 800px;overflow: hidden;
+<div id="gallery" style="width: 100%; height: 900px;overflow: hidden;
 position: relative;z-index: 1;margin:0;">
       <ul id="navigation" style="list-style: none;padding: 0;margin: 0;float:left;">
         <li style="padding: 0;margin: 0;">
