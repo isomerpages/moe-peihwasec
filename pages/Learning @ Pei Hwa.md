@@ -59,11 +59,11 @@ position: relative;z-index: 1;margin: 20px auto;display: flex; gap:20px;">
         </li>
 </ul>
 	
-<div id="full-picture" style="width: 600px;height: 580px;overflow: hidden;float: left;margin-top:-30px;">
+<div id="full-picture" style="width: 600px;height: 560px;overflow: hidden;float: left;margin-top:-30px;">
         <div>
           <a name="picture1" style="display: block;"></a>
           <div style="position: relative; display: inline-block;" class="container"> 
-						<img class="image" alt="Image" style="display: block;border-radius: 20px;;" src="https://pbs.twimg.com/media/EYGixLfU0AEE05U.jpg"> 
+						<img class="image" alt="Image" style="display: block;border-radius: 20px;" src="https://pbs.twimg.com/media/EYGixLfU0AEE05U.jpg"> 
 						<div style="position: absolute; bottom: 5px; left: 30px; color: #fff; padding: 5px;" class="text"><strong style="color: #fff; font-size:25px;text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);">English Language and Literature</strong></div> 
 					</div>
 				<div style="display: flex;" class="container"> 
@@ -215,3 +215,11 @@ position: relative;z-index: 1;margin: 20px auto;display: flex; gap:20px;">
         </div>
       </div>
  </div>
+ 
+<div style="background-color:#0B6623;">
+	<h5 style="font-weight: bold;margin: 0;color:#0B6623;font-size:18px;text-align:center;" class="header">Instructional Programmes</h5>
+
+<h3 style="margin-top:10px;font-weight: bold;color:#000000;text-align:center;">Lorem ipsum dolor sit amet, consectetur adipiscing </h3>
+
+<p style="font-size:14.5px; line-height:1.5 ;margin-top:5px; font-family:sans-serif;text-align:center;" class="description">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce id ipsum eget est suscipit mollis vel eu lorem. Donec nec eros ipsum.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce id ipsum eget est suscipit mollis vel eu lorem. Donec nec eros ipsum.</p>
+</div>
