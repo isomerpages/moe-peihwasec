@@ -217,9 +217,8 @@ position: relative;z-index: 1;margin: 20px auto;display: flex; gap:20px;">
  </div>
  
 <div style="background-color:#0B6623;">
-	<h5 style="font-weight: bold;margin: 0;color:#0B6623;font-size:18px;text-align:center;" class="header">Instructional Programmes</h5>
+	<h5 style="font-weight: bold;margin: 0;color:white;font-size:18px;text-align:center;" class="header">Instructional Programmes</h5>
 
-<h3 style="margin-top:10px;font-weight: bold;color:#000000;text-align:center;">Lorem ipsum dolor sit amet, consectetur adipiscing </h3>
+<h3 style="margin-top:10px;font-weight: bold;text-align:center;color:#F8BF58;">Lorem ipsum dolor sit amet, consectetur adipiscing </h3>
 
-<p style="font-size:14.5px; line-height:1.5 ;margin-top:5px; font-family:sans-serif;text-align:center;" class="description">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce id ipsum eget est suscipit mollis vel eu lorem. Donec nec eros ipsum.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce id ipsum eget est suscipit mollis vel eu lorem. Donec nec eros ipsum.</p>
 </div>
