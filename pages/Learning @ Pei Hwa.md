@@ -226,43 +226,91 @@ position: relative;z-index: 1;margin: 10px auto;">
       <ul id="navigation" style="list-style: none;padding: 0;margin: 20px;display: flex; justify-content: space-between;">
         <li style="padding: 0;margin: 0;">
           <a href="#cce1" style="display: block;">
-            <button style="color: #0B6623; border: none;border-radius:10px;background-color: white;font-size:16px; line-height:1.5;font-family:sans-serif;text-align:center;margin-bottom:-15px;padding:10px;" class="button">Character &amp; Citizenship <br>Education</button>
+            <button style="color: #0B6623; border: none;border-radius:10px;background-color: white;font-size:16px; line-height:1.5;font-family:sans-serif;text-align:center;margin-bottom:-15px;padding:10px;width:120px;" class="button">Character &amp; Citizenship <br>Education</button>
           </a>
         </li>
         <li style="padding: 0;margin: 0;">
           <a href="#pccg2" style="display: block;">
-            <button style="color: #0B6623; border: none;border-radius:10px;background-color: white;font-size:16px; line-height:1.5;font-family:sans-serif;text-align:center;margin-bottom:-15px;padding:10px;" class="button">Pastoral Care &amp; <br> Career Guidance </button>
+            <button style="color: #0B6623; border: none;border-radius:10px;background-color: white;font-size:16px; line-height:1.5;font-family:sans-serif;text-align:center;margin-bottom:-15px;padding:10px;width:120px;" class="button">Pastoral Care &amp; <br> Career Guidance </button>
           </a>
         </li>
         <li style="padding: 0;margin: 0;">
           <a href="#se3" style="display: block;">
-            <button style="color: #0B6623; border: none;border-radius:10px;background-color: white;font-size:16px; line-height:1.5;font-family:sans-serif;text-align:center;margin-bottom:-15px;padding:10px;" class="button">Sexuality Education<br></button>
+            <button style="color: #0B6623; border: none;border-radius:10px;background-color: white;font-size:16px; line-height:1.5;font-family:sans-serif;text-align:center;margin-bottom:-15px;padding:10px;width:120px;" class="button">Sexuality Education<br></button>
           </a>
         </li>
         <li style="padding: 0;margin: 0;">
           <a href="#cw4" style="display: block;">
-            <button style="color: #0B6623; border: none;border-radius:10px;background-color: white;font-size:16px; line-height:1.5;font-family:sans-serif;text-align:center;margin-bottom:-15px;padding:10px;" class="button">Cyberwellness<br></button>
+            <button style="color: #0B6623; border: none;border-radius:10px;background-color: white;font-size:16px; line-height:1.5;font-family:sans-serif;text-align:center;margin-bottom:-15px;padding:10px;width:120px;" class="button">Cyberwellness<br></button>
           </a>
         </li>
 		
 </ul>
       
-<div id="full-picture" style="width: 100% height: 450px;overflow: hidden;float: left;margin-top:-70px;">
+<div id="full-picture" style="width: 100% height: 150px;overflow: hidden;float: left;margin-top:-70px;">
         <div>
           <a name="cce1" style="display: block;"></a>
-          <img alt="" src="/images/Kai%20Jie%20Storyboard%201.jpg" style="width:100%;">
+          <div style="margin-top:20px; width:100%; padding: 30px; display: flex; align-items: center;" class="box">&nbsp;
+<div style="position: relative; width: 300px; height: 300px; margin-right:40px;" class="container">&nbsp;
+<img class="image" alt="Image" style="max-width: 115px; margin-left: 180px;border-radius: 10px;position: absolute; bottom: 0; left: 0;" src="https://i.scdn.co/image/ab67616d00001e02af08a1c1088b457401e7d4fc">&nbsp;
+<img class="image" alt="Image" style="max-width: 250px; margin-right: 40px;border-radius: 10px" src="https://i.scdn.co/image/ab67616d00001e02af08a1c1088b457401e7d4fc">&nbsp;
+</div>
+
+<div style="flex: 1;" class="content">&nbsp;
+<h6 style="margin-top:-90px;color:white;">Character &amp; Citizenship Education</h6>&nbsp;
+	<h4 style="margin-top:-30px;font-weight: bold;color:#F8BF58;">Lorem ipsum dolor sit amet,<br>consectetur adipiscing</h4>&nbsp;
+<p style="margin: -30px 0;font-size:14.5px; line-height:1.5;font-family:sans-serif;color:white;">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce id ipsum eget est suscipit mollis vel eu lorem. Donec nec eros ipsum.</p>
+</div>
+
+</div>
         </div>
         <div>
           <a name="pccg2" style="display: block;"></a>
-          <img alt="" src="/images/Kai%Jie%Storyboard%202.jpg" style="width:100%;">
+					          <div style="margin-top:20px; width:100%; padding: 30px; display: flex; align-items: center;" class="box">&nbsp;
+<div style="position: relative; width: 300px; height: 300px; margin-right:40px;" class="container">&nbsp;
+<img class="image" alt="Image" style="max-width: 115px; margin-left: 180px;border-radius: 10px;position: absolute; bottom: 0; left: 0;" src="https://i.scdn.co/image/ab67616d00001e02af08a1c1088b457401e7d4fc">&nbsp;
+<img class="image" alt="Image" style="max-width: 250px; margin-right: 40px;border-radius: 10px" src="https://i.scdn.co/image/ab67616d00001e02af08a1c1088b457401e7d4fc">&nbsp;
+</div>
+
+<div style="flex: 1;" class="content">&nbsp;
+<h6 style="margin-top:-90px;color:white;">Pastoral Care &amp; Career Guidance</h6>&nbsp;
+	<h4 style="margin-top:-30px;font-weight: bold;color:#F8BF58;">Lorem ipsum dolor sit amet,<br>consectetur adipiscing</h4>&nbsp;
+<p style="margin: -30px 0;font-size:14.5px; line-height:1.5;font-family:sans-serif;color:white;">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce id ipsum eget est suscipit mollis vel eu lorem. Donec nec eros ipsum.</p>
+</div>
+
+</div>
         </div>
         <div>
           <a name="se3" style="display: block;"></a>
-          <img alt="" src="/images/Kai%20Jie%20Storyboard%203.jpg" style="width:100%;">
+                    <div style="margin-top:20px; width:100%; padding: 30px; display: flex; align-items: center;" class="box">&nbsp;
+<div style="position: relative; width: 300px; height: 300px; margin-right:40px;" class="container">&nbsp;
+<img class="image" alt="Image" style="max-width: 115px; margin-left: 180px;border-radius: 10px;position: absolute; bottom: 0; left: 0;" src="https://i.scdn.co/image/ab67616d00001e02af08a1c1088b457401e7d4fc">&nbsp;
+<img class="image" alt="Image" style="max-width: 250px; margin-right: 40px;border-radius: 10px" src="https://i.scdn.co/image/ab67616d00001e02af08a1c1088b457401e7d4fc">&nbsp;
+</div>
+
+<div style="flex: 1;" class="content">&nbsp;
+<h6 style="margin-top:-90px;color:white;"> Sexuality Education</h6>&nbsp;
+	<h4 style="margin-top:-30px;font-weight: bold;color:#F8BF58;">Lorem ipsum dolor sit amet,<br>consectetur adipiscing</h4>&nbsp;
+<p style="margin: -30px 0;font-size:14.5px; line-height:1.5;font-family:sans-serif;color:white;">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce id ipsum eget est suscipit mollis vel eu lorem. Donec nec eros ipsum.</p>
+</div>
+
+</div>
         </div>
         <div>
           <a name="cw4" style="display: block;"></a>
-          <img alt="" src="/images/Kai%20Jie%20Storyboard%204.jpg">
+                    <div style="margin-top:20px; width:100%; padding: 30px; display: flex; align-items: center;" class="box">&nbsp;
+<div style="position: relative; width: 300px; height: 300px; margin-right:40px;" class="container">&nbsp;
+<img class="image" alt="Image" style="max-width: 115px; margin-left: 180px;border-radius: 10px;position: absolute; bottom: 0; left: 0;" src="https://i.scdn.co/image/ab67616d00001e02af08a1c1088b457401e7d4fc">&nbsp;
+<img class="image" alt="Image" style="max-width: 250px; margin-right: 40px;border-radius: 10px" src="https://i.scdn.co/image/ab67616d00001e02af08a1c1088b457401e7d4fc">&nbsp;
+</div>
+
+<div style="flex: 1;" class="content">&nbsp;
+<h6 style="margin-top:-90px;color:white;">Cyberwellness</h6>&nbsp;
+	<h4 style="margin-top:-30px;font-weight: bold;color:#F8BF58;">Lorem ipsum dolor sit amet,<br>consectetur adipiscing</h4>&nbsp;
+<p style="margin: -30px 0;font-size:14.5px; line-height:1.5;font-family:sans-serif;color:white;">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce id ipsum eget est suscipit mollis vel eu lorem. Donec nec eros ipsum.</p>
+</div>
+
+</div>
         </div>
       </div>
  </div>
