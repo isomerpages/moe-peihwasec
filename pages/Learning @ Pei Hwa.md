@@ -12,37 +12,37 @@ description: ""
 <div id="gallery" style="width: 100%; height: 900px;overflow: hidden;
 position: relative;z-index: 1;margin:0;">
       <ul id="navigation" style="list-style: none;padding: 0;margin: 0;float:left;">
-        <li style="padding: 0;margin: 0;margin: 5px 0 20px;">
+        <li style="padding: 0;margin: 0;">
           <a href="#picture1" style="display: block;">
 						<p>asbe</p>
           </a>
         </li>
-        <li style="padding: 0;margin: 0;margin: 5px 0 20px;">
+        <li style="padding: 0;margin: 0;">
           <a href="#picture2" style="display: block;">
            <p>asbe2</p>
           </a>
         </li>
-        <li style="padding: 0;margin: 0;margin: 5px 0 20px;">
+        <li style="padding: 0;margin: 0;">
           <a href="#picture3" style="display: block;">
             <p>asbe</p>
           </a>
         </li>
-        <li style="padding: 0;margin: 0;margin: 5px 0 20px;">
+        <li style="padding: 0;margin: 0;">
           <a href="#picture4" style="display: block;">
             <p>asbe</p>
           </a>
         </li>
-		<li style="padding: 0;margin: 0;margin: 5px 0 20px;">
+		<li style="padding: 0;margin: 0;">
           <a href="#picture5" style="display: block;">
             <p>asbe</p>
           </a>
         </li>
-		  <li style="padding: 0;margin: 0;margin: 5px 0 20px;">
+		  <li style="padding: 0;margin: 0;">
           <a href="#picture6" style="display: block;">
             <p>asbe</p>
           </a>
         </li>
-		  <li style="padding: 0;margin: 0;margin: 5px 0 20px;">
+		  <li style="padding: 0;margin: 0;">
           <a href="#picture7" style="display: block;">
             <p>asbe</p>
           </a>
