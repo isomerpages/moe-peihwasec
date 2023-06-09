@@ -76,6 +76,9 @@ description: ""
 			</div> 
 		</div>
 	</div>
+
+<div style="background-color:#0B6623; width:100%; height:auto;">
 	
 <h5 style="font-weight: bold;margin: 0;color:white;font-size:18px;text-align:center;" class="header">Instructional Programmes</h5>
-<h3 style="margin-top:10px;font-weight: bold;text-align:center;color:#F8BF58;">Lorem ipsum dolor sit amet, consectetur adipiscing </h3></div></div>
+<h3 style="margin-top:10px;font-weight: bold;text-align:center;color:#F8BF58;">Lorem ipsum dolor sit amet, consectetur adipiscing </h3>
+</div></div></div>
