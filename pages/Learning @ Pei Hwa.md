@@ -220,7 +220,7 @@ description: ""
 	
 <h5 style="font-weight: bold;margin: 0;color:white;font-size:18px;text-align:center;" class="header">Instructional Programmes</h5>
 <h3 style="margin-top:10px;font-weight: bold;text-align:center;color:#F8BF58;">Lorem ipsum dolor sit amet,<br> consectetur adipiscing </h3>
-	<div id="full-picture" style="width: 100%; height:530px;overflow: hidden;float: left;margin-top:-30px;">
+	<div id="full-picture" style="width: 100%; height:530px;overflow: hidden;float: left;">
 	<ul id="navigation2" style="list-style: none;padding: 0;margin: 20px;display: flex; justify-content: space-between;align-items: center;">
 		<li style="padding: 0;margin: 0;">
 			<a href="#cce1" style="display: block;">
