@@ -220,26 +220,26 @@ description: ""
 	
 <h5 style="font-weight: bold;margin: 0;color:white;font-size:18px;text-align:center;" class="header">Instructional Programmes</h5>
 <h3 style="margin-top:10px;font-weight: bold;text-align:center;color:#F8BF58;">Lorem ipsum dolor sit amet, consectetur adipiscing </h3>
-	<div id="full-picture" style="width: 600px;height:530px;overflow: hidden;float: left;margin-top:-30px;">
+	<div id="full-picture" style="width: 100%; height:530px;overflow: hidden;float: left;margin-top:-30px;">
 	<ul id="navigation2" style="list-style: none;padding: 0;margin: 20px;display: flex; justify-content: space-between;">
 		<li style="padding: 0;margin: 0;">
 			<a href="#cce1" style="display: block;">
-				<button style="color: #0B6623; border: none;border-radius:10px;background-color: white;font-size:16px; line-height:1.5;font-family:sans-serif;text-align:center;margin-bottom:-15px;padding:10px;width:180px;" class="button">Character &amp; Citizenship <br>Education</button>
+					<button style="color: #0B6623; border: none;border-radius:10px;background-color: white;font-size:16px; line-height:1.5;font-family:sans-serif;text-align:center;margin-bottom:-15px;padding:6px;width:100%;" class="button">Character &amp; Citizenship <br>Education</button>
 			</a>
         </li>
 		<li style="padding: 0;margin: 0;">
 			<a href="#pccg2" style="display: block;">
-				<button style="color: #0B6623; border: none;border-radius:10px;background-color: white;font-size:16px; line-height:1.5;font-family:sans-serif;text-align:center;margin-bottom:-15px;padding:10px;width:180px;" class="button">Pastoral Care &amp; <br> Career Guidance </button>
+				<button style="color: #0B6623; border: none;border-radius:10px;background-color: white;font-size:16px; line-height:1.5;font-family:sans-serif;text-align:center;margin-bottom:-15px;padding:6px;width:100%;" class="button">Pastoral Care &amp; <br> Career Guidance </button>
 			</a>
 		</li>
        	<li style="padding: 0;margin: 0;">
 			<a href="#se3" style="display: block;">
-            	<button style="color: #0B6623; border: none;border-radius:10px;background-color: white;font-size:16px; line-height:1.5;font-family:sans-serif;text-align:center;margin-bottom:-15px;padding:10px;width:180px;" class="button">Sexuality Education<br></button>
+            	<button style="color: #0B6623; border: none;border-radius:10px;background-color: white;font-size:16px; line-height:1.5;font-family:sans-serif;text-align:center;margin-bottom:-15px;padding:6px;width:100%;" class="button">Sexuality Education<br></button>
 			</a>
         </li>
         <li style="padding: 0;margin: 0;">
         	<a href="#cw4" style="display: block;">
-            	<button style="color: #0B6623; border: none;border-radius:10px;background-color: white;font-size:16px; line-height:1.5;font-family:sans-serif;text-align:center;margin-bottom:-15px;padding:10px;width:180px;" class="button">Cyberwellness<br></button>
+            	<button style="color: #0B6623; border: none;border-radius:10px;background-color: white;font-size:16px; line-height:1.5;font-family:sans-serif;text-align:center;margin-bottom:-15px;padding:6px;width:100%;" class="button">Cyberwellness<br></button>
           	</a>
         </li>
 	</ul>
