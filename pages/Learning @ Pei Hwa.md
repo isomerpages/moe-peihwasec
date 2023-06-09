@@ -229,7 +229,7 @@ description: ""
         </li>
 		<li style="padding: 0;margin: 0;">
 			<a href="#pccg2" style="display: block;">
-				<button style="color: #0B6623; border: none;border-radius:10px;background-color: white;font-size:16px; line-height:1.5;font-family:sans-serif;text-align:center;margin-bottom:-15px;padding:10px;width:120%;" class="button">Pastoral Care &amp; <br> Career Guidance </button>
+				<button style="color: #0B6623; border: none;border-radius:10px;background-color: white;font-size:16px; line-height:1.5;font-family:sans-serif;text-align:center;margin-bottom:-15px;padding:10px;width:130%;" class="button">Pastoral Care &amp; <br> Career Guidance </button>
 			</a>
 		</li>
        	<li style="padding: 0;margin: 0;">
@@ -239,7 +239,7 @@ description: ""
         </li>
         <li style="padding: 0;margin: 0;">
         	<a href="#cw4" style="display: block;">
-            	<button style="color: #0B6623; border: none;border-radius:10px;background-color: white;font-size:16px; line-height:1.5;font-family:sans-serif;text-align:center;margin-bottom:-15px;padding:10px;width:150%;" class="button">Cyberwellness<br></button>
+            	<button style="color: #0B6623; border: none;border-radius:10px;background-color: white;font-size:16px; line-height:1.5;font-family:sans-serif;text-align:center;margin-bottom:-15px;padding:10px;width:130%;" class="button">Cyberwellness<br></button>
           	</a>
         </li>
 	</ul>
