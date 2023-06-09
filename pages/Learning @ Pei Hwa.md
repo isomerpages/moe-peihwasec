@@ -57,7 +57,7 @@ description: ""
           </a>
         </li>
 </ul>
-	<div id="full-picture" style="width: 600px;height: 530px;overflow: hidden;float: left;margin-top:-30px;">
+	<div id="full-picture" style="width: 600px;height: 540px;overflow: hidden;float: left;margin-top:-30px;">
 		<div>
 		<a name="subject1" style="display: block;"></a>
 		<div style="position: relative; display: inline-block;" class="container"> 
