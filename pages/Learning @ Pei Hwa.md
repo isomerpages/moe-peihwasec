@@ -234,12 +234,12 @@ description: ""
 		</li>
        	<li style="padding: 0;margin: 0;">
 			<a href="#se3" style="display: block;">
-            	<button style="color: #0B6623; border: none;border-radius:10px;background-color: white;font-size:16px; line-height:1.5;font-family:sans-serif;text-align:center;margin-bottom:-15px;padding:10px;width:180px;" class="button">Sexuality Education<br></button>
+            	<button style="color: #0B6623; border: none;border-radius:10px;background-color: white;font-size:16px; line-height:1.5;font-family:sans-serif;text-align:center;margin-bottom:-15px;padding:10px;width:180px;" class="button">Sexuality Education<br><br></button>
 			</a>
         </li>
         <li style="padding: 0;margin: 0;">
         	<a href="#cw4" style="display: block;">
-            	<button style="color: #0B6623; border: none;border-radius:10px;background-color: white;font-size:16px; line-height:1.5;font-family:sans-serif;text-align:center;margin-bottom:-15px;padding:10px;width:180px;" class="button">Cyberwellness<br></button>
+            	<button style="color: #0B6623; border: none;border-radius:10px;background-color: white;font-size:16px; line-height:1.5;font-family:sans-serif;text-align:center;margin-bottom:-15px;padding:10px;width:180px;" class="button">Cyberwellness<br><br></button>
           	</a>
         </li>
 	</ul>
