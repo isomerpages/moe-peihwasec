@@ -267,7 +267,7 @@ description: ""
 					<img class="image" alt="Image" style="max-width: 115px; margin-left: 180px;border-radius: 10px;position: absolute; bottom: 0; left: 0;" src="https://i.scdn.co/image/ab67616d00001e02af08a1c1088b457401e7d4fc">&nbsp;
 					<img class="image" alt="Image" style="max-width: 250px; margin-right: 40px;border-radius: 10px" src="https://i.scdn.co/image/ab67616d00001e02af08a1c1088b457401e7d4fc">&nbsp;
 				</div>
-						<div style="flex: 1;" class="content">&nbsp;
+					<div style="flex: 1; margin:40px; padding: 50px; margin: 5px;" class="content">&nbsp;
 					<h6 style="margin-top:-90px;color:white;">Pastoral Care &amp; Career Guidance</h6>&nbsp;
 					<h4 style="margin-top:-30px;font-weight: bold;color:#F8BF58;">Lorem ipsum dolor sit amet,<br>consectetur adipiscing</h4>&nbsp;
 					<p style="margin: -30px 0;font-size:14.5px; line-height:1.5;font-family:sans-serif;color:white;">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce id ipsum eget est suscipit mollis vel eu lorem. Donec nec eros ipsum.</p>
@@ -281,7 +281,7 @@ description: ""
 					<img class="image" alt="Image" style="max-width: 115px; margin-left: 180px;border-radius: 10px;position: absolute; bottom: 0; left: 0;" src="https://i.scdn.co/image/ab67616d00001e02af08a1c1088b457401e7d4fc">&nbsp;
 					<img class="image" alt="Image" style="max-width: 250px; margin-right: 40px;border-radius: 10px" src="https://i.scdn.co/image/ab67616d00001e02af08a1c1088b457401e7d4fc">&nbsp;
 				</div>
-						<div style="flex: 1;" class="content">&nbsp;
+					<div style="flex: 1; margin:40px; padding: 50px; margin: 5px;" class="content">&nbsp;
 					<h6 style="margin-top:-90px;color:white;"> Sexuality Education</h6>&nbsp;
 					<h4 style="margin-top:-30px;font-weight: bold;color:#F8BF58;">Lorem ipsum dolor sit amet,<br>consectetur adipiscing</h4>&nbsp;
 					<p style="margin: -30px 0;font-size:14.5px; line-height:1.5;font-family:sans-serif;color:white;">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce id ipsum eget est suscipit mollis vel eu lorem. Donec nec eros ipsum.</p>
@@ -304,4 +304,25 @@ description: ""
         </div>
     </div>
 </div>
+</div>
+
+<h5 style="font-weight: bold;margin: 0;margin-top:30px;color:#0B6623;font-size:18px;text-align:center;" class="header">Instructional Programmes</h5>
+
+<h3 style="margin-top:10px;font-weight: bold;color:#000000;text-align:center;">Lorem ipsum dolor sit amet, consectetur adipiscing </h3>
+
+<p style="font-size:14.5px; line-height:1.5 ;margin-top:5px; font-family:sans-serif;text-align:center;" class="description">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce id ipsum eget est suscipit mollis vel eu lorem. Donec nec eros ipsum.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce id ipsum eget est suscipit mollis vel eu lorem. Donec nec eros ipsum.</p>
+
+<div style="display: flex;" class="container"> 
+	<div style="flex: 1; background-color: lightblue; margin: 10px; padding: 20px; text-align: center;" class="box">
+		<p>Box 1</p> 
+	</div> 
+	<div style="flex: 1; background-color: lightblue; margin: 10px; padding: 20px; text-align: center;" class="box"> 
+		<p>Box 2</p> 
+	</div> 
+	<div style="flex: 1; background-color: lightblue; margin: 10px; padding: 20px; text-align: center;" class="box">
+		<p>Box 3</p> 
+	</div> 
+	<div style="flex: 1; background-color: lightblue; margin: 10px; padding: 20px; text-align: center;" class="box"> 
+		<p>Box 4</p> 
+	</div> 
 </div>
