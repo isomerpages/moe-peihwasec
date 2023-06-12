@@ -216,7 +216,7 @@ description: ""
 	</div>
 </div>
 
-<div style="background-color:#0B6623; width:100%;height:650px;padding:20px;">
+<div style="background-color:#0B6623; width:100%;height:630px;padding:20px;">
 	
 <h5 style="font-weight: bold;margin: 0;color:white;font-size:18px;text-align:center;" class="header">Instructional Programmes</h5>
 <h3 style="margin:0;font-weight: bold;text-align:center;color:#F8BF58;">Lorem ipsum dolor sit amet,<br> consectetur adipiscing </h3>
