@@ -314,24 +314,25 @@ description: ""
 
 <div style="display: flex;" class="container"> 
 	<div style="flex: 1; background-color: lightblue; margin: 10px; padding: 20px; text-align: center;" class="box">
-		<p><strong>Club &amp; Societies</strong></p> 
+		<p style="font-size:14.5px; line-height:1.5 ;margin-top:5px; font-family:sans-serif;text-align:center;"><strong style="font-size:14.5px; line-height:1.5 ;margin-top:5px; font-family:sans-serif;text-align:center;">Club &amp; Societies</strong></p> 
 	</div> 
 	<div style="flex: 1; background-color: lightblue; margin: 10px; padding: 20px; text-align: center;" class="box"> 
-		<p><strong>Sports &amp; Games</strong></p> 
+		<p style="font-size:14.5px; line-height:1.5 ;margin-top:5px; font-family:sans-serif;text-align:center;"><strong style="font-size:14.5px; line-height:1.5 ;margin-top:5px; font-family:sans-serif;text-align:center;">Sports &amp; Games</strong></p> 
 	</div> 
 	<div style="flex: 1; background-color: lightblue; margin: 10px; padding: 20px; text-align: center;" class="box">
-		<p>
-			<strong>Uniformed Groups</strong>
-			</p><ul>
-				<li>National Cadet Corps (land)</li>
-				<li>National Civil Defence Cadet Corps</li>
-				<li>National Police Cadet Corps</li>
+		<p style="font-size:14.5px; line-height:1.5 ;margin-top:5px; font-family:sans-serif;text-align:center;">
+			<strong style="font-size:14.5px; line-height:1.5 ;margin-top:5px; font-family:sans-serif;text-align:center;">Uniformed Groups</strong>
+			</p>
+		<ul style="list-style-type: none;">
+				<li style="font-size:14.5px; line-height:1.5 ;margin-top:5px; font-family:sans-serif;text-align:center;">National Cadet Corps (land)</li>
+				<li style="font-size:14.5px; line-height:1.5 ;margin-top:5px; font-family:sans-serif;text-align:center;">National Civil Defence Cadet Corps</li>
+				<li style="font-size:14.5px; line-height:1.5 ;margin-top:5px; font-family:sans-serif;text-align:center;">National Police Cadet Corps</li>
 		</ul>
 		<p></p> 
 	</div> 
 	<div style="flex: 1; background-color: lightblue; margin: 10px; padding: 20px; text-align: center;" class="box"> 
-		<p>
-			<strong>Performing Arts</strong>
+		<p style="font-size:14.5px; line-height:1.5 ;margin-top:5px; font-family:sans-serif;text-align:center;">
+			<strong style="font-size:14.5px; line-height:1.5 ;margin-top:5px; font-family:sans-serif;text-align:center;">Performing Arts</strong>
 			</p><ul>
 				<li>
 				</li>
