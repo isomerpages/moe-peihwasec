@@ -243,7 +243,7 @@ description: ""
           	</a>
         </li>
 		</ul>
-	<div id="full-picture3" style="width: 1000px;height: 430px;overflow: hidden;float: left;margin-top:-25px; margin-bottom:30px;">
+	<div id="full-picture3" style="width: 800px;height: 430px;overflow: hidden;float: left;margin-top:-25px; margin-bottom:30px;">
 		<div>
 			<a name="cce1" style="display: block;"></a>
 			<div style="margin-top:20px; width:100%; padding: 20px; display: flex; align-items: center;" class="box">&nbsp;
