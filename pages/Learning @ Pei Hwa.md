@@ -215,34 +215,34 @@ description: ""
     </div>
 	</div>
 </div>
- 
+
 <div style="background-color:#0B6623; width:100%;height:600px;padding:20px;">
 	
 <h5 style="font-weight: bold;margin: 0;color:white;font-size:18px;text-align:center;" class="header">Instructional Programmes</h5>
 <h3 style="margin:0;font-weight: bold;text-align:center;color:#F8BF58;">Lorem ipsum dolor sit amet,<br> consectetur adipiscing </h3>
-	<div id="full-picture" style="width: 100%; overflow: hidden;float: left;">
-	<ul id="navigation2" style="list-style: none;padding: 0;margin: 20px;display: flex; justify-content: space-between;align-items: center;">
-		<li style="padding: 0;margin: 0;">
+<div id="gallery" style="width: 100%; overflow: hidden; position: relative;z-index: 1;margin: 20px auto;display: flex;">
+<ul id="navigation2" style="list-style: none;padding: 0;margin: 20px;display: flex; justify-content: space-between;align-items: center;">
+	<li style="padding: 0;margin: 0;">
 			<a href="#cce1" style="display: block;">
 					<button style="color: #0B6623; border: none;border-radius:10px;background-color: white;font-size:16px; line-height:1.5;font-family:sans-serif;text-align:center;margin-bottom:-15px;padding:5px;width:180px;" class="button">Character &amp; Citizenship <br>Education</button>
 			</a>
         </li>
-		<li style="padding: 0;margin: 0;">
+			<li style="padding: 0;margin: 0;">
 			<a href="#pccg2" style="display: block;">
 				<button style="color: #0B6623; border: none;border-radius:10px;background-color: white;font-size:16px; line-height:1.5;font-family:sans-serif;text-align:center;margin-bottom:-15px;padding:5px;width:180px;" class="button">Pastoral Care &amp; <br> Career Guidance </button>
 			</a>
 		</li>
-       	<li style="padding: 0;margin: 0;">
+       		<li style="padding: 0;margin: 0;">
 			<a href="#se3" style="display: block;">
             	<button style="color: #0B6623; border: none;border-radius:10px;background-color: white;font-size:16px; line-height:2.3;font-family:sans-serif;text-align:center;margin-bottom:-15px;padding:10px;width:180px;" class="button">Sexuality Education</button>
 			</a>
         </li>
-        <li style="padding: 0;margin: 0;">
+       		<li style="padding: 0;margin: 0;">
         	<a href="#cw4" style="display: block;">
             	<button style="color: #0B6623; border: none;border-radius:10px;background-color: white;font-size:16px; line-height:2.3;font-family:sans-serif;text-align:center;margin-bottom:-15px;padding:10px;width:180px;" class="button">Cyberwellness</button>
           	</a>
         </li>
-	</ul>
+		</ul>
 	<div id="full-picture3" style="width: 600px;height: 450px;overflow: hidden;float: left;margin-top:-70px;">
 		<div>
 			<a name="cce1" style="display: block;"></a>
