@@ -289,14 +289,14 @@ description: ""
 			</div>
         </div>
          <div>
-			<a name="pccg2" style="display: block;"></a>
+			<a name="cw4" style="display: block;"></a>
 						<div style="margin-top:10px;width:100%; padding: 20px; display: flex; align-items: center;" class="box">&nbsp;
 				<div style="position: relative; width: 300px; height: 300px;margin-left:10px;" class="container">&nbsp;
 					<img class="image" alt="Image" style="max-width: 115px; margin-left: 180px;border-radius: 10px;position: absolute; bottom: 0; left: 0;" src="https://i.scdn.co/image/ab67616d00001e02af08a1c1088b457401e7d4fc">&nbsp;
 					<img class="image" alt="Image" style="max-width: 250px; margin-right: 40px;border-radius: 10px" src="https://i.scdn.co/image/ab67616d00001e02af08a1c1088b457401e7d4fc">&nbsp;
 				</div>
 					<div style="flex: 1; margin:40px; padding: 50px; margin: 5px;" class="content">&nbsp;
-					<h6 style="margin-top:-90px;color:white;">Pastoral Care &amp; Career Guidance</h6>&nbsp;
+					<h6 style="margin-top:-90px;color:white;">Cyberwellness</h6>&nbsp;
 					<h4 style="margin-top:-30px;font-weight: bold;color:#F8BF58;">Lorem ipsum dolor sit amet,<br>consectetur adipiscing</h4>&nbsp;
 					<p style="margin: -30px 0;font-size:14.5px; line-height:1.5;font-family:sans-serif;color:white;">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce id ipsum eget est suscipit mollis vel eu lorem. Donec nec eros ipsum.</p>
 				</div>
@@ -320,13 +320,13 @@ description: ""
 		<p style="font-size:14.5px; line-height:1.5 ;margin-top:5px; font-family:sans-serif;text-align:center;"><strong style="font-size:14.5px; line-height:1.5 ;margin-top:5px; font-family:sans-serif;text-align:center;">Sports &amp; Games</strong></p> 
 	</div> 
 	<div style="flex: 1; background-color: lightblue; margin: 10px; padding: 20px; text-align: center; border-radius: 10%; width: 200px; height: 200px;" class="box">
-		<p style="font-size:14.5px; line-height:1.5 ;margin-top:5px; font-family:sans-serif;text-align:center;">
-			<strong style="font-size:14.5px; line-height:1.5 ;margin-top:5px; font-family:sans-serif;text-align:center;">Uniformed Groups</strong>
+		<p style="font-size:14.5px; line-height:1.5 ;margin-top:5px; font-family:sans-serif;text-align:left;">
+			<strong style="font-size:14.5px; line-height:1.5 ;margin-top:5px; font-family:sans-serif;text-align:left;">Uniformed Groups</strong>
 			</p>
-		<ul style="list-style-type: none;margin:0;">
-				<li style="font-size:14.5px; line-height:1.5 ;font-family:sans-serif;text-align:center;">National Cadet Corps (land)</li>
-				<li style="font-size:14.5px; line-height:1.5 ;font-family:sans-serif;text-align:center;">National Civil Defence Cadet Corps</li>
-				<li style="font-size:14.5px; line-height:1.5 ;font-family:sans-serif;text-align:center;">National Police Cadet Corps</li>
+		<ul style="list-style-type: none;margin:0;text-align:left;">
+				<li style="font-size:14.5px; line-height:1.5 ;font-family:sans-serif;text-align:center;text-align:left;">National Cadet Corps (land)</li>
+				<li style="font-size:14.5px; line-height:1.5 ;font-family:sans-serif;text-align:left;;">National Civil Defence Cadet Corps</li>
+				<li style="font-size:14.5px; line-height:1.5 ;font-family:sans-serif;text-align:left;">National Police Cadet Corps</li>
 		</ul>
 		<p></p> 
 	</div> 
