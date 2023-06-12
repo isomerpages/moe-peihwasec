@@ -314,15 +314,28 @@ description: ""
 
 <div style="display: flex;" class="container"> 
 	<div style="flex: 1; background-color: lightblue; margin: 10px; padding: 20px; text-align: center;" class="box">
-		<p>Box 1</p> 
+		<p><strong>Club &amp; Societies</strong></p> 
 	</div> 
 	<div style="flex: 1; background-color: lightblue; margin: 10px; padding: 20px; text-align: center;" class="box"> 
-		<p>Box 2</p> 
+		<p><strong>Sports &amp; Games</strong></p> 
 	</div> 
 	<div style="flex: 1; background-color: lightblue; margin: 10px; padding: 20px; text-align: center;" class="box">
-		<p>Box 3</p> 
+		<p>
+			<strong>Uniformed Groups</strong>
+			</p><ul>
+				<li>National Cadet Corps (land)</li>
+				<li>National Civil Defence Cadet Corps</li>
+				<li>National Police Cadet Corps</li>
+		</ul>
+		<p></p> 
 	</div> 
 	<div style="flex: 1; background-color: lightblue; margin: 10px; padding: 20px; text-align: center;" class="box"> 
-		<p>Box 4</p> 
+		<p>
+			<strong>Performing Arts</strong>
+			</p><ul>
+				<li>
+				</li>
+		</ul>
+		<p></p>
 	</div> 
 </div>
