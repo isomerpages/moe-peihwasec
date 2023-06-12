@@ -223,24 +223,24 @@ description: ""
 	
 <div id="gallery" style="width: 100%; overflow: hidden; position: relative;z-index: 1;">
 <ul id="navigation2" style="list-style: none;padding: 0;margin: 20px;display: flex; justify-content: space-between;align-items: center;">
-	<li>
+	<li style="padding: 0;margin: 0;">
 			<a href="#cce1" style="display: block;">
-					<button style="color: #0B6623; border: none;border-radius:10px;background-color: white;font-size:16px; line-height:1.5;font-family:sans-serif;text-align:center;margin-bottom:-15px;padding:10px;width:180px;" class="button">Character &amp; Citizenship <br>Education</button>
+					<button style="color: #0B6623; border: none;border-radius:10px;background-color: white;font-size:16px; line-height:1.5;font-family:sans-serif;text-align:center;margin-bottom:-15px;padding:5px;width:180px;" class="button">Character &amp; Citizenship <br>Education</button>
 			</a>
         </li>
-			<li>
+			<li style="padding: 0;margin: 0;">
 			<a href="#pccg2" style="display: block;">
-					<button style="color: #0B6623; border: none;border-radius:10px;background-color: white;font-size:16px; line-height:1.5;font-family:sans-serif;text-align:center;margin-bottom:-15px;padding:10px;width:180px;" class="button">Pastoral Care &amp; <br> Career Guidance </button>
+				<button style="color: #0B6623; border: none;border-radius:10px;background-color: white;font-size:16px; line-height:1.5;font-family:sans-serif;text-align:center;margin-bottom:-15px;padding:5px;width:180px;" class="button">Pastoral Care &amp; <br> Career Guidance </button>
 			</a>
 		</li>
-       		<li>
+       		<li style="padding: 0;margin: 0;">
 			<a href="#se3" style="display: block;">
-            		<button style="color: #0B6623; border: none;border-radius:10px;background-color: white;font-size:16px; line-height:2.3;font-family:sans-serif;text-align:center;margin-bottom:-15px;padding:10px;width:180px;" class="button">Sexuality Education</button>
+            	<button style="color: #0B6623; border: none;border-radius:10px;background-color: white;font-size:16px; line-height:2.3;font-family:sans-serif;text-align:center;margin-bottom:-15px;padding:5px;width:180px;" class="button">Sexuality Education</button>
 			</a>
         </li>
-       		<li>
+       		<li style="padding: 0;margin: 0;">
         	<a href="#cw4" style="display: block;">
-            		<button style="color: #0B6623; border: none;border-radius:10px;background-color: white;font-size:16px; line-height:2.3;font-family:sans-serif;text-align:center;margin-bottom:-15px;padding:10px;width:180px;" class="button">Cyberwellness</button>
+            	<button style="color: #0B6623; border: none;border-radius:10px;background-color: white;font-size:16px; line-height:2.3;font-family:sans-serif;text-align:center;margin-bottom:-15px;padding:5px;width:180px;" class="button">Cyberwellness</button>
           	</a>
         </li>
 		</ul>
@@ -312,14 +312,14 @@ description: ""
 
 <p style="font-size:14.5px; line-height:1.5 ;margin-top:5px; font-family:sans-serif;text-align:center;" class="description">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce id ipsum eget est suscipit mollis vel eu lorem. Donec nec eros ipsum.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce id ipsum eget est suscipit mollis vel eu lorem. Donec nec eros ipsum.</p>
 
-<div style="display: flex;width:100%" class="container"> 
-	<div style="flex: 1; background-color: lightblue; margin: 5px; padding: 10px; text-align: center; border-radius: 10%; width: 33%;" class="box">
+<div style="display: flex;" class="container"> 
+	<div style="flex: 1; background-color: #F8BF58; margin: 10px; padding: 25px; text-align: center; border-radius: 10%; width: 225px; height: 225px;" class="box">
 		<p style="font-size:14.5px; line-height:1.5 ;margin-top:5px; font-family:sans-serif;text-align:center;"><strong style="font-size:14.5px; line-height:1.5 ;margin-top:5px; font-family:sans-serif;text-align:center;">Club &amp; Societies</strong></p> 
 	</div> 
-	<div style="flex: 1; background-color: lightblue; margin: 5px; padding: 10px; text-align: center; border-radius: 10%; width: 33%;" class="box">
+	<div style="flex: 1; background-color: #F8BF58;; margin: 10px; padding: 25px; text-align: center; border-radius: 10%; width: 225px; height: 225px;" class="box"> 
 		<p style="font-size:14.5px; line-height:1.5 ;margin-top:5px; font-family:sans-serif;text-align:center;"><strong style="font-size:14.5px; line-height:1.5 ;margin-top:5px; font-family:sans-serif;text-align:center;">Sports &amp; Games</strong></p> 
 	</div> 
-	<div style="flex: 1; background-color: lightblue; margin: 5px; padding: 10px; text-align: center; border-radius: 10%; width: 33%;" class="box">
+	<div style="flex: 1; background-color: #F8BF58;; margin: 10px; padding: 25px; text-align: center; border-radius: 10%; width: 225px; height: 225px;" class="box">
 		<p style="font-size:14.5px; line-height:1.5 ;margin-top:5px; font-family:sans-serif;text-align:left;">
 			<strong style="font-size:14.5px; line-height:1.5 ;margin-top:5px; font-family:sans-serif;text-align:left;">Uniformed Groups</strong>
 			</p>
@@ -330,7 +330,7 @@ description: ""
 		</ul>
 		<p></p> 
 	</div> 
-	<div style="flex: 1; background-color: lightblue; margin: 5px; padding: 10px; text-align: center; border-radius: 10%; width: 33%;" class="box">
+	<div style="flex: 1; background-color: #F8BF58;; margin: 10px; padding: 25px; text-align: center; border-radius: 10%; width: 225px; height: 225px;" class="box"> 
 		<p style="font-size:14.5px; line-height:1.5 ;margin-top:5px; font-family:sans-serif;text-align:center;">
 			<strong style="font-size:14.5px; line-height:1.5 ;margin-top:5px; font-family:sans-serif;text-align:center;">Performing Arts</strong>
 			</p><ul style="list-style-type: none;margin:0;">
