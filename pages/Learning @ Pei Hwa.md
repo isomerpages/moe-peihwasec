@@ -313,13 +313,13 @@ description: ""
 <p style="font-size:14.5px; line-height:1.5 ;margin-top:5px; font-family:sans-serif;text-align:center;" class="description">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce id ipsum eget est suscipit mollis vel eu lorem. Donec nec eros ipsum.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce id ipsum eget est suscipit mollis vel eu lorem. Donec nec eros ipsum.</p>
 
 <div style="display: flex;" class="container"> 
-	<div style="flex: 1; background-color: lightblue; margin: 10px; padding: 20px; text-align: center; border-radius: 10%; width: 200px; height: 200px;" class="box">
+	<div style="flex: 1; background-color: lightblue; margin: 10px; padding: 20px; text-align: center; border-radius: 10%; width: 250px; height: 250px;" class="box">
 		<p style="font-size:14.5px; line-height:1.5 ;margin-top:5px; font-family:sans-serif;text-align:center;"><strong style="font-size:14.5px; line-height:1.5 ;margin-top:5px; font-family:sans-serif;text-align:center;">Club &amp; Societies</strong></p> 
 	</div> 
-	<div style="flex: 1; background-color: lightblue; margin: 10px; padding: 20px; text-align: center; border-radius: 10%; width: 200px; height: 200px;" class="box"> 
+	<div style="flex: 1; background-color: lightblue; margin: 10px; padding: 20px; text-align: center; border-radius: 10%; width: 250px; height: 250px;" class="box"> 
 		<p style="font-size:14.5px; line-height:1.5 ;margin-top:5px; font-family:sans-serif;text-align:center;"><strong style="font-size:14.5px; line-height:1.5 ;margin-top:5px; font-family:sans-serif;text-align:center;">Sports &amp; Games</strong></p> 
 	</div> 
-	<div style="flex: 1; background-color: lightblue; margin: 10px; padding: 20px; text-align: center; border-radius: 10%; width: 200px; height: 200px;" class="box">
+	<div style="flex: 1; background-color: lightblue; margin: 10px; padding: 20px; text-align: center; border-radius: 10%; width: 250px; height: 250px;" class="box">
 		<p style="font-size:14.5px; line-height:1.5 ;margin-top:5px; font-family:sans-serif;text-align:left;">
 			<strong style="font-size:14.5px; line-height:1.5 ;margin-top:5px; font-family:sans-serif;text-align:left;">Uniformed Groups</strong>
 			</p>
@@ -330,7 +330,7 @@ description: ""
 		</ul>
 		<p></p> 
 	</div> 
-	<div style="flex: 1; background-color: lightblue; margin: 10px; padding: 20px; text-align: center; border-radius: 10%; width: 200px; height: 200px;" class="box"> 
+	<div style="flex: 1; background-color: lightblue; margin: 10px; padding: 20px; text-align: center; border-radius: 10%; width: 250px; height: 250px;" class="box"> 
 		<p style="font-size:14.5px; line-height:1.5 ;margin-top:5px; font-family:sans-serif;text-align:center;">
 			<strong style="font-size:14.5px; line-height:1.5 ;margin-top:5px; font-family:sans-serif;text-align:center;">Performing Arts</strong>
 			</p><ul style="list-style-type: none;margin:0;">
