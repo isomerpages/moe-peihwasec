@@ -216,10 +216,11 @@ description: ""
 	</div>
 </div>
 
-<div style="background-color:#0B6623; width:100%;height:700px;padding:20px;">
+<div style="background-color:#0B6623; width:100%;height:650px;padding:20px;">
 	
 <h5 style="font-weight: bold;margin: 0;color:white;font-size:18px;text-align:center;" class="header">Instructional Programmes</h5>
 <h3 style="margin:0;font-weight: bold;text-align:center;color:#F8BF58;">Lorem ipsum dolor sit amet,<br> consectetur adipiscing </h3>
+	
 <div id="gallery" style="width: 100%; overflow: hidden; position: relative;z-index: 1;">
 <ul id="navigation2" style="list-style: none;padding: 0;margin: 20px;display: flex; justify-content: space-between;align-items: center;">
 	<li style="padding: 0;margin: 0;">
@@ -243,11 +244,12 @@ description: ""
           	</a>
         </li>
 		</ul>
-	<div id="full-picture3" style="width: 800px;height: 430px;overflow: hidden;float: left;margin-top:-25px; margin-bottom:30px;">
+	
+<div id="full-picture3" style="width: 800px;height: 360px;overflow: hidden;float: left;margin-left:20px;margin-top:-25px; margin-bottom:30px;">
 		<div>
 			<a name="cce1" style="display: block;"></a>
-			<div style="margin-top:20px; width:100%; padding: 20px; display: flex; align-items: center;" class="box">&nbsp;
-				<div style="position: relative; width: 300px; height: 300px;" class="container">&nbsp;
+			<div style="margin-top:10px;width:100%; padding: 20px; display: flex; align-items: center;" class="box">&nbsp;
+				<div style="position: relative; width: 300px; height: 300px;margin-left:10px;" class="container">&nbsp;
 					<img class="image" alt="Image" style="max-width: 115px; margin-left: 180px;border-radius: 10px;position: absolute; bottom: 0; left: 0;" src="https://i.scdn.co/image/ab67616d00001e02af08a1c1088b457401e7d4fc">&nbsp;
 				  	<img class="image" alt="Image" style="max-width: 250px; margin-right: 40px;border-radius: 10px" src="https://i.scdn.co/image/ab67616d00001e02af08a1c1088b457401e7d4fc">&nbsp;
 				</div>
@@ -260,8 +262,8 @@ description: ""
         </div>
         <div>
 			<a name="pccg2" style="display: block;"></a>
-						<div style="margin-top:20px; width:100%; padding: 20px; display: flex; align-items: center;" class="box">&nbsp;
-				<div style="position: relative; width: 300px; height: 300px;" class="container">&nbsp;
+						<div style="margin-top:10px;width:100%; padding: 20px; display: flex; align-items: center;" class="box">&nbsp;
+				<div style="position: relative; width: 300px; height: 300px;margin-left:10px;" class="container">&nbsp;
 					<img class="image" alt="Image" style="max-width: 115px; margin-left: 180px;border-radius: 10px;position: absolute; bottom: 0; left: 0;" src="https://i.scdn.co/image/ab67616d00001e02af08a1c1088b457401e7d4fc">&nbsp;
 					<img class="image" alt="Image" style="max-width: 250px; margin-right: 40px;border-radius: 10px" src="https://i.scdn.co/image/ab67616d00001e02af08a1c1088b457401e7d4fc">&nbsp;
 				</div>
@@ -274,8 +276,8 @@ description: ""
         </div>
         <div>
 			<a name="se3" style="display: block;"></a>
-						<div style="margin-top:20px; width:100%; padding: 20px; display: flex; align-items: center;" class="box">&nbsp;
-				<div style="position: relative; width: 300px; height: 300px;" class="container">&nbsp;
+						<div style="margin-top:10px;width:100%; padding: 20px; display: flex; align-items: center;" class="box">&nbsp;
+				<div style="position: relative; width: 300px; height: 300px;margin-left:10px;" class="container">&nbsp;
 					<img class="image" alt="Image" style="max-width: 115px; margin-left: 180px;border-radius: 10px;position: absolute; bottom: 0; left: 0;" src="https://i.scdn.co/image/ab67616d00001e02af08a1c1088b457401e7d4fc">&nbsp;
 					<img class="image" alt="Image" style="max-width: 250px; margin-right: 40px;border-radius: 10px" src="https://i.scdn.co/image/ab67616d00001e02af08a1c1088b457401e7d4fc">&nbsp;
 				</div>
@@ -288,8 +290,9 @@ description: ""
         </div>
         <div>
 			<a name="cw4" style="display: block;"></a>
-						<div style="margin-top:20px; width:100%; padding: 20px; display: flex; align-items: center;" class="box">&nbsp;
-				<div style="position: relative; width: 300px; height: 300px;" class="container">&nbsp;<img class="image" alt="Image" style="max-width: 115px; margin-left: 180px;border-radius: 10px;position: absolute; bottom: 0; left: 0;" src="https://i.scdn.co/image/ab67616d00001e02af08a1c1088b457401e7d4fc">&nbsp;
+			<div style="margin-top:10px;width:100%; padding: 20px; display: flex; align-items: center;" class="box">&nbsp;
+				<div style="position: relative; width: 300px; height: 300px;margin-left:10px;" class="container">&nbsp;
+					<img class="image" alt="Image" style="max-width: 115px; margin-left: 180px;border-radius: 10px;position: absolute; bottom: 0; left: 0;" src="https://i.scdn.co/image/ab67616d00001e02af08a1c1088b457401e7d4fc">&nbsp;
 					<img class="image" alt="Image" style="max-width: 250px; margin-right: 40px;border-radius: 10px" src="https://i.scdn.co/image/ab67616d00001e02af08a1c1088b457401e7d4fc">&nbsp;
 				</div>
 					<div style="flex: 1;" class="content">&nbsp;
