@@ -344,7 +344,7 @@ description: ""
 <div style="width:100%; margin: 0; margin-top:30px;height:100%; display: flex; align-items: center;
 background-image: url('https://raw.githubusercontent.com/isomerpages/moe-peihwasec/staging/images/bgfade2.png'); background-repeat: no-repeat;background-size: 100%;height:100% background-position: center;flex-wrap: wrap; justify-content: space-between;" class="box"> 
 	<div style="flex: 1;margin:0;" class="content"></div> 
-	<div style="flex: 1;margin-top:20px;" class="content"> 
+	<div style="flex: 1;" class="content"> 
 		<h6 style="margin:0;color:#0B6623;font-weight: 700;font-size:16px; font-family:sans-serif;">Student Leadership</h6> 
 		<h5 style="margin-top: 5px;color:black;font-weight: 900;font-size:18px; font-family:sans-serif;line-height:1.4">Loorem ipsum doloor a sit amet, consectetur adipiscing elit.</h5> 
 		<p style="font-size:14.5px; line-height:1.5 ;margin-top:5px; font-family:sans-serif;" class="description">Loorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce id ipsum eget est suscipit mollis vel eu lorem. Donec nec eros ipsum.</p>
