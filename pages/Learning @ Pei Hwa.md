@@ -340,7 +340,7 @@ description: ""
 	</div> 
 </div>
 
-<div style="display: flex;margin-top:30px;width: 100%; height: 100vh; background-image: url('https://raw.githubusercontent.com/isomerpages/moe-peihwasec/staging/images/bgfade2.png'); background-size: cover;" class="flex-container"> 
+<div style="display: flex;margin-top:30px;width: 100%; height: 100%; background-image: url('https://raw.githubusercontent.com/isomerpages/moe-peihwasec/staging/images/bgfade2.png'); background-size: cover;" class="flex-container"> 
 	<div style="flex: 1; margin: 10px; padding: 10px;" class="flex-item"></div> 
 	<div style="flex: 1; margin: 10px; padding: 10px;" class="flex-item"> 
 		<h6 style="margin:0;color:#0B6623;font-weight: 700;font-size:16px; font-family:sans-serif;">Student Leadership</h6> 
