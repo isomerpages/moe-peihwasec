@@ -113,7 +113,7 @@ description: ""
     	<div>
 		<a name="subject4" style="display: block;"></a>
         <div style="position: relative; display: inline-block;" class="container"> 
-			<img class="image" alt="Image" style="display: block;border-radius: 20px;;" src="https://pbs.twimg.com/media/EYGixLfU0AEE05U.jpg"> 
+			<img class="image" alt="Image" style="display: block;border-radius: 20px;;" src="https://raw.githubusercontent.com/isomerpages/moe-peihwasec/staging/images/BANNERs/bannerscidept.png"> 
 			<div style="position: absolute; bottom: 5px; left: 30px; color: #fff; padding: 5px;" class="text"><strong style="color: #fff; font-size:25px;text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);">Science</strong>
 			</div> 
 		</div>
@@ -131,7 +131,7 @@ description: ""
 		<div>
 		<a name="subject5" style="display: block;"></a>
 		<div style="position: relative; display: inline-block;" class="container"> 
-						<img class="image" alt="Image" style="display: block;border-radius: 20px;;" src="https://pbs.twimg.com/media/EYGixLfU0AEE05U.jpg"> 
+						<img class="image" alt="Image" style="display: block;border-radius: 20px;;" src="https://raw.githubusercontent.com/isomerpages/moe-peihwasec/staging/images/BANNERs/bannerhumdept.png"> 
 						<div style="position: absolute; bottom: 5px; left: 30px; color: #fff; padding: 5px;" class="text"><strong style="color: #fff; font-size:25px;text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);">Humanities</strong></div> 
 					</div>
 		<div style="display: flex;" class="container">
@@ -148,7 +148,7 @@ description: ""
     	<div>
 		<a name="subject6" style="display: block;"></a>
 		<div style="position: relative; display: inline-block;" class="container"> 
-				<img class="image" alt="Image" style="display: block;border-radius: 20px;;" src="https://pbs.twimg.com/media/EYGixLfU0AEE05U.jpg"> 
+				<img class="image" alt="Image" style="display: block;border-radius: 20px;;" src="https://raw.githubusercontent.com/isomerpages/moe-peihwasec/staging/images/BANNERs/bannercntdept.png"> 
 				<div style="position: absolute; bottom: 5px; left: 30px; color: #fff; padding: 5px;" class="text"><strong style="color: #fff; font-size:25px;text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);">Craft and Technology</strong></div> 
 			</div>
 		<div style="display: flex;" class="container"> 
@@ -165,7 +165,7 @@ description: ""
     	<div>
 		<a name="subject7" style="display: block;"></a>
         <div style="position: relative; display: inline-block;" class="container"> 
-			<img class="image" alt="Image" style="display: block;border-radius: 20px;;" src="https://pbs.twimg.com/media/EYGixLfU0AEE05U.jpg"> 
+			<img class="image" alt="Image" style="display: block;border-radius: 20px;;" src="https://raw.githubusercontent.com/isomerpages/moe-peihwasec/staging/images/BANNERs/bannerebsncpadept.png"> 
 			<div style="position: absolute; bottom: 5px; left: 30px; color: #fff; padding: 5px;" class="text"><strong style="color: #fff; font-size:25px;text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);">POA and EBS</strong></div> 
 		</div>
 		<div style="display: flex;" class="container"> 
