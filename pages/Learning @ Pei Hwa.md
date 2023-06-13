@@ -348,14 +348,14 @@ background-image: url('https://raw.githubusercontent.com/isomerpages/moe-peihwas
 		<h5 style="margin-top: 5px;color:black;font-weight: 900;font-size:18px; font-family:sans-serif;line-height:1.4">Loorem ipsum doloor a sit amet, consectetur adipiscing elit.</h5> 
 		<p style="font-size:14.5px; line-height:1.5 ;margin-top:5px; font-family:sans-serif;" class="description">Loorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce id ipsum eget est suscipit mollis vel eu lorem. Donec nec eros ipsum.</p>
 		
-<ul class="jekyllcodex_accordion">
-<li style="list-style: none; margin-top:-10px;"><input id="accordion1" type="checkbox"><label for="accordion1" style="line-height:1.3;margin:0; font-family:sans-serif;color:#0B6623;list-style: none;">Leadership Opportunities @ Pei Hwa </label>
+<ul style="list-style: none; padding: 0; margin: 0;" class="jekyllcodex_accordion">
+<li style="list-style: none; margin-top:-10px;margin-bottom: 10px;"><input id="accordion1" type="checkbox"><label for="accordion1" style="line-height:1.3;margin:0; font-family:sans-serif;color:#0B6623;list-style: none;">Leadership Opportunities @ Pei Hwa </label>
 <div style="list-style: none; margin-top:-5px;">
 	<p style="font-size:14.5px; line-height:1.5;font-family:sans-serif;margin:0;" class="description">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce id ipsum eget est suscipit mollis vel eu lorem. Donec nec eros ipsum.</p>
 </div>
 </li>
 	
-<li style="list-style: none; margin-top:-10px;"><input id="accordion2" type="checkbox"> <label for="accordion2" style="font-family:sans-serif;color:#0B6623;line-height:1.3">Leadership Training @ Pei Hwa</label>
+<li style="list-style: none; margin-top:-10px;margin-bottom: 10px;"><input id="accordion2" type="checkbox"> <label for="accordion2" style="font-family:sans-serif;color:#0B6623;line-height:1.3">Leadership Training @ Pei Hwa</label>
 <div style="list-style: none; margin-top:-5px;">
 	<p style="font-size:14.5px; line-height:1.5 ;font-family:sans-serif;" class="description">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce id ipsum eget est suscipit mollis vel eu lorem. Donec nec eros ipsum.</p>	
 </div>
