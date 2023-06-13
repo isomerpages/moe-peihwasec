@@ -79,7 +79,7 @@ description: ""
   		<div>
 		<a name="subject2" style="display: block;"></a>
 		<div style="position: relative; display: inline-block;" class="container"> 
-			<img class="image" alt="Image" style="display: block;border-radius: 20px;;" src="https://pbs.twimg.com/media/EYGixLfU0AEE05U.jpg"> 
+			<img class="image" alt="Image" style="display: block;border-radius: 20px;;" src="https://raw.githubusercontent.com/isomerpages/moe-peihwasec/staging/images/bannermtdept.png"> 
 			<div style="position: absolute; bottom: 5px; left: 30px; color: #fff; padding: 5px;" class="text"><strong style="color: #fff; font-size:25px;text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);">Mother Tongue Languages</strong></div> 
 		</div>
 		<div style="display: flex;" class="container"> 
@@ -96,7 +96,7 @@ description: ""
    		<div>
 		<a name="subject3" style="display: block;"></a>
 		<div style="position: relative; display: inline-block;" class="container"> 
-			<img class="image" alt="Image" style="display: block;border-radius: 20px;;" src="https://pbs.twimg.com/media/EYGixLfU0AEE05U.jpg"> 
+			<img class="image" alt="Image" style="display: block;border-radius: 20px;;" src="https://raw.githubusercontent.com/isomerpages/moe-peihwasec/staging/images/BANNERs/bannermathdept.png"> 
 			<div style="position: absolute; bottom: 5px; left: 30px; color: #fff; padding: 5px;" class="text"><strong style="color: #fff; font-size:25px;text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);">Mathematics</strong></div> 
 		</div>
 		<div style="display: flex;" class="container"> 
