@@ -340,10 +340,10 @@ description: ""
 	</div> 
 </div>
 
-<div style="display: flex;margin-top:30px;width: 100%; height: 300px; background-image: url('https://raw.githubusercontent.com/isomerpages/moe-peihwasec/staging/images/bgfade2.png'); background-size: cover;" class="flex-container"> 
+<div style="display: flex;margin-top:30px;width: 100%; height: 100%; background-image: url('https://whatthekpop.com/wp-content/uploads/2017/03/Highlight-1.jpg'); background-size: cover;" class="flex-container"> 
 	<div style="flex: 1; margin: 10px; padding: 10px;" class="flex-item"></div> 
 	<div style="flex: 1; margin: 10px; padding: 10px;" class="flex-item"> 
-		<h6 style="margin:0;color:#0B6623;font-weight: 700;font-size:16px; font-family:sans-serif;">Student Leadership</h6> 
+		<h6 style="margin:0;color:#0B6623;font-weight: 700;font-size:16px; font-family:sans-serif;">Students Leadership</h6> 
 		<h5 style="margin-top: 5px;color:black;font-weight: 900;font-size:18px; font-family:sans-serif;line-height:1.4">Loorem ipsum doloor a sit amet, consectetur adipiscing elit.</h5> 
 		<p style="font-size:14.5px; line-height:1.5 ;margin-top:5px; font-family:sans-serif;" class="description">Loorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce id ipsum eget est suscipit mollis vel eu lorem. Donec nec eros ipsum.</p>
 	</div></div>
