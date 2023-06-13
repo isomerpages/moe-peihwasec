@@ -343,7 +343,7 @@ description: ""
 <div style="margin: 0;width: 100%; height: 100vh;display: flex; align-items: center;
 background-image: url('https://raw.githubusercontent.com/isomerpages/moe-peihwasec/staging/images/artboard%201.png'); background-size: contain; background-repeat: no-repeat; background-position: center;margin-top:-30px;" class="box"> 
 	<div style="flex: 1;" class="flex-item"></div> 
-	<div style="flex: 1; padding:30px;" class="flex-item"> 
+	<div style="flex: 1; margin-top:30px;" class="flex-item"> 
 		<h6 style="margin:0;color:#0B6623;font-weight: 700;font-size:16px; font-family:sans-serif;">Student Leadership</h6> 
 		<h5 style="margin-top: 5px;color:black;font-weight: 900;font-size:18px; font-family:sans-serif;line-height:1.4">Loorem ipsum doloor a sit amet, consectetur adipiscing elit.</h5> 
 		<p style="font-size:14.5px; line-height:1.5 ;margin-top:5px; font-family:sans-serif;" class="description">Loorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce id ipsum eget est suscipit mollis vel eu lorem. Donec nec eros ipsum.</p>
