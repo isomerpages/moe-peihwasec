@@ -340,7 +340,7 @@ description: ""
 	</div> 
 </div>
 
-<div style="display: flex;margin-top:30px; margin:0;width: 100%; height: 100%; background-image: url('https://whatthekpop.com/wp-content/uploads/2017/03/Highlight-1.jpg'); background-size: cover;background-repeat: no-repeat;" class="flex-container"> 
+<div style="display: flex;margin-top:30px; margin:0;width: 100%; height: 100%; background-image: url('https://img.koreatimes.co.kr/upload/newsV2/images/202104/2a0c19f6b74c48e7bf1dfe569048c573.jpg'); background-size: cover;background-repeat: no-repeat;" class="flex-container"> 
 	<div style="flex: 1; margin: 10px; padding: 10px;" class="flex-item"></div> 
 	<div style="flex: 1; margin: 10px; padding: 10px;" class="flex-item"> 
 		<h6 style="margin:0;color:#0B6623;font-weight: 700;font-size:16px; font-family:sans-serif;">Students Leadership</h6> 
