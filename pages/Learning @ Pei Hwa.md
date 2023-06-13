@@ -311,7 +311,7 @@ description: ""
 
 <p style="font-size:14.5px; line-height:1.5 ;margin-top:5px; font-family:sans-serif;text-align:center;" class="description">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce id ipsum eget est suscipit mollis vel eu lorem. Donec nec eros ipsum.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce id ipsum eget est suscipit mollis vel eu lorem. Donec nec eros ipsum.</p>
 
-<div style="display: flex;" class="container"> 
+<div style="display: flex; margin:0;padding:0;" class="container"> 
 	<div style="flex: 1; background-color: #F8BF58; margin: 10px; padding: 25px; text-align: center; border-radius: 10%; width: 225px; height: 225px;" class="box">
 		<p style="font-size:14.5px; line-height:1.5 ;margin-top:5px; font-family:sans-serif;text-align:center;"><strong style="font-size:14.5px; line-height:1.5 ;margin-top:5px; font-family:sans-serif;text-align:center;">Club &amp; Societies</strong></p> 
 	</div> 
@@ -341,7 +341,7 @@ description: ""
 </div>
 
 <div style="margin: 0;width: 100%; height: 100vh;display: flex; align-items: center;
-background-image: url('https://raw.githubusercontent.com/isomerpages/moe-peihwasec/staging/images/artboard%201.png'); background-size: contain; background-repeat: no-repeat; background-position: center;margin-top:-30px;" class="box"> 
+background-image: url('https://raw.githubusercontent.com/isomerpages/moe-peihwasec/staging/images/artboard%201.png'); background-size: contain; background-repeat: no-repeat; background-position: center;margin-top:-100px;" class="box"> 
 	<div style="flex: 1;" class="flex-item"></div> 
 	<div style="flex: 1; margin-top:30px;" class="flex-item"> 
 		<h6 style="margin:0;color:#0B6623;font-weight: 700;font-size:16px; font-family:sans-serif;">Student Leadership</h6> 
@@ -365,6 +365,29 @@ background-image: url('https://raw.githubusercontent.com/isomerpages/moe-peihwas
 	</div>
 </div>
 
-<div style="margin-top:30px;">
-	<p>;sdf</p>
+<div style="display: flex;" class="flex-container"> 
+	<div style="flex: 1; margin: 10px; padding: 10px;" class="flex-item"> 
+		<img class="image" alt="Image" style="display: block;border-radius: 20px;" src="https://img.koreatimes.co.kr/upload/newsV2/images/202104/2a0c19f6b74c48e7bf1dfe569048c573.jpg">
+			<h5 style="font-weight: bold;margin: 15px 0;color:#0B6623;font-size:18px;text-align:left;" class="header">Lower Secondary</h5>
+
+<h3 style="margin-top:-10px;font-weight: bold;color:#000000;text-align:left">Lorem ipsum dolor sit amet, consectetur adipiscing </h3>
+
+<p style="font-size:14.5px; line-height:1.5 ;margin-top:5px; font-family:sans-serif;text-align:left;" class="description">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce id ipsum eget est suscipit mollis vel eu lorem. Donec nec eros ipsum.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce id ipsum eget est suscipit mollis vel eu lorem. Donec nec eros ipsum.</p>
+	</div> 
+	<div style="flex: 1; margin: 10px; padding: 10px;" class="flex-item">
+		<img class="image" alt="Image" style="display: block;border-radius: 20px;" src="https://img.koreatimes.co.kr/upload/newsV2/images/202104/2a0c19f6b74c48e7bf1dfe569048c573.jpg">
+					<h5 style="font-weight: bold;margin: 0;color:#0B6623;font-size:18px;text-align:left;margin: 15px 0;" class="header">Upper Secondary </h5>
+
+<h3 style="margin-top:-10px;font-weight: bold;color:#000000;text-align:left">Lorem ipsum dolor sit amet, consectetur adipiscing </h3>
+
+<p style="font-size:14.5px; line-height:1.5 ;margin-top:5px; font-family:sans-serif;text-align:left;" class="description">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce id ipsum eget est suscipit mollis vel eu lorem. Donec nec eros ipsum.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce id ipsum eget est suscipit mollis vel eu lorem. Donec nec eros ipsum.</p>
+	</div> 
+</div>
+
+<div style="background-color:#0B6623;padding:30px;">
+	<h6 style="font-weight: bold;margin: 0;margin-top:30px;color:white;font-size:16px;text-align:center;" class="header">Full SBB Experience</h6>
+
+<h4 style="margin-top:10px;font-weight: bold;color:#F8BF58;line-height:1.3;text-align:center;">Lorem ipsum dolor sit amet,<br> consectetur adipiscing </h4>
+
+<p style="font-size:14.5px; line-height:1.5 ;margin-top:5px; font-family:sans-serif;text-align:center; color:white;" class="description">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce id ipsum eget est suscipit mollis vel eu lorem. Donec nec eros ipsum.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce id ipsum eget est suscipit mollis vel eu lorem. Donec nec eros ipsum.</p>
 	</div>
