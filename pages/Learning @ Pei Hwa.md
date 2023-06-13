@@ -340,7 +340,7 @@ description: ""
 	</div> 
 </div>
 
-<div style="margin: 0;width: 100%; height: 100%;display: flex; align-items: center;
+<div style="margin: 0;width: 100%; height: 100vh;display: flex; align-items: center;
 background-image: url('https://raw.githubusercontent.com/isomerpages/moe-peihwasec/staging/images/artboard%201.png'); background-size: contain; background-repeat: no-repeat; background-position: center;margin-top:-30px;" class="box"> 
 	<div style="flex: 1;" class="flex-item"></div> 
 	<div style="flex: 1; padding:30px;" class="flex-item"> 
