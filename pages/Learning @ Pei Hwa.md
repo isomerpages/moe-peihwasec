@@ -320,10 +320,22 @@ description: ""
 			<li style="font-size:14.5px; line-height:1.5 ;font-family:sans-serif;text-align:left;;">PH Times</li>
 			<li style="font-size:14.5px; line-height:1.5 ;font-family:sans-serif;text-align:left;;">Robotics Club</li>
 			<li style="font-size:14.5px; line-height:1.5 ;font-family:sans-serif;text-align:left;;">Student Council</li>
+			<br>
 		</ul>
 	</div> 
 	<div style="flex: 1; background-color: #F8BF58;; margin: 10px; padding: 25px; text-align: center; border-radius: 10%; width: 225px; height: 225px;" class="box"> 
-		<p style="font-size:14.5px; line-height:1.5 ;margin-top:5px; font-family:sans-serif;text-align:center;"><strong style="font-size:14.5px; line-height:1.5 ;margin-top:5px; font-family:sans-serif;text-align:center;">Sports &amp; Games</strong></p> 
+		<p style="font-size:14.5px; line-height:1.5 ;margin-top:5px; font-family:sans-serif;text-align:center;"><strong style="font-size:14.5px; line-height:1.5 ;margin-top:5px; font-family:sans-serif;text-align:center;">Sports &amp; Games</strong></p>
+				<ul style="list-style-type: none;margin:0;text-align:left;">
+				<li style="font-size:14.5px; line-height:1.5 ;font-family:sans-serif;text-align:center;text-align:left;">Badminton</li>
+				<li style="font-size:14.5px; line-height:1.5 ;font-family:sans-serif;text-align:left;;">Basketball</li>
+			<li style="font-size:14.5px; line-height:1.5 ;font-family:sans-serif;text-align:left;;">Floorball</li>
+			<li style="font-size:14.5px; line-height:1.5 ;font-family:sans-serif;text-align:left;;">Football</li>
+			<li style="font-size:14.5px; line-height:1.5 ;font-family:sans-serif;text-align:left;;">Outdoor Activities Club (ODAC)</li>
+								<li style="font-size:14.5px; line-height:1.5 ;font-family:sans-serif;text-align:left;;">Table Tennis</li>
+			<li style="font-size:14.5px; line-height:1.5 ;font-family:sans-serif;text-align:left;;">Taekwondo</li>
+			<li style="font-size:14.5px; line-height:1.5 ;font-family:sans-serif;text-align:left;;">Wushu</li>
+			<br>
+		</ul>
 	</div> 
 	<div style="flex: 1; background-color: #F8BF58;; margin: 10px; padding: 25px; text-align: center; border-radius: 10%; width: 225px; height: 225px;" class="box">
 		<p style="font-size:14.5px; line-height:1.5 ;margin-top:5px; font-family:sans-serif;text-align:left;">
@@ -338,11 +350,14 @@ description: ""
 	<div style="flex: 1; background-color: #F8BF58;; margin: 10px; padding: 25px; text-align: center; border-radius: 10%; width: 225px; height: 225px;" class="box"> 
 		<p style="font-size:14.5px; line-height:1.5 ;margin-top:5px; font-family:sans-serif;text-align:center;">
 			<strong style="font-size:14.5px; line-height:1.5 ;margin-top:5px; font-family:sans-serif;text-align:center;">Performing Arts</strong>
-			</p><ul style="list-style-type: none;margin:0;">
-				<li>
-				</li>
+			</p>		<ul style="list-style-type: none;margin:0;text-align:left;">
+				<li style="font-size:14.5px; line-height:1.5 ;font-family:sans-serif;text-align:center;text-align:left;">Dance Society</li>
+				<li style="font-size:14.5px; line-height:1.5 ;font-family:sans-serif;text-align:left;;">Drama Society</li>
+			<li style="font-size:14.5px; line-height:1.5 ;font-family:sans-serif;text-align:left;;">Guzheng Ensemble</li>
+			<li style="font-size:14.5px; line-height:1.5 ;font-family:sans-serif;text-align:left;;">Pei Hwa Choir</li>
+			<li style="font-size:14.5px; line-height:1.5 ;font-family:sans-serif;text-align:left;;">Symphonic Band</li>
+			<br>
 		</ul>
-		<p></p>
 	</div> 
 </div>
 
