@@ -314,7 +314,7 @@ description: ""
 <div style="display: flex; margin:0;padding:0;" class="container"> 
 	<div style="flex: 1; background-color: #F8BF58;; margin: 10px; padding: 25px; text-align: center; width: 225px; height: auto;padding-bottom:-10px;" class="box"> 
 		<p style="font-size:14.5px; line-height:1.5 ;margin-top:5px; font-family:sans-serif;text-align:center;"><strong style="font-size:14.5px; line-height:1.5 ;margin-top:5px; font-family:sans-serif;text-align:center;">Club &amp; Societies</strong></p> 
-		<ul style="list-style-type: none;margin:0;text-align:left;">
+		<ul style="list-style-type: none;margin:0;text-align:left;padding:0;">
 				<li style="font-size:14.5px; line-height:1.5 ;font-family:sans-serif;text-align:center;text-align:left;">Infocomm Club</li>
 				<li style="font-size:14.5px; line-height:1.5 ;font-family:sans-serif;text-align:left;;">Pei Hwa Art Council (PHAC)</li>
 			<li style="font-size:14.5px; line-height:1.5 ;font-family:sans-serif;text-align:left;;">PH Times</li>
@@ -324,7 +324,7 @@ description: ""
 	</div> 
 	<div style="flex: 1; background-color: #F8BF58;; margin: 10px; padding: 25px; text-align: center; width: 225px; height: auto;padding-bottom:-10px;" class="box"> 
 		<p style="font-size:14.5px; line-height:1.5 ;margin-top:5px; font-family:sans-serif;text-align:center;"><strong style="font-size:14.5px; line-height:1.5 ;margin-top:5px; font-family:sans-serif;text-align:center;">Sports &amp; Games</strong></p>
-				<ul style="list-style-type: none;margin:0;text-align:left;">
+				<ul style="list-style-type: none;margin:0;text-align:left;padding:0;">
 				<li style="font-size:14.5px; line-height:1.5 ;font-family:sans-serif;text-align:center;text-align:left;">Badminton</li>
 				<li style="font-size:14.5px; line-height:1.5 ;font-family:sans-serif;text-align:left;;">Basketball</li>
 			<li style="font-size:14.5px; line-height:1.5 ;font-family:sans-serif;text-align:left;;">Floorball</li>
@@ -339,7 +339,7 @@ description: ""
 		<p style="font-size:14.5px; line-height:1.5 ;margin-top:5px; font-family:sans-serif;text-align:left;">
 			<strong style="font-size:14.5px; line-height:1.5 ;margin-top:5px; font-family:sans-serif;text-align:left;">Uniformed Groups</strong>
 			</p>
-		<ul style="list-style-type: none;margin:0;text-align:left;">
+		<ul style="list-style-type: none;margin:0;text-align:left;padding:0;">
 				<li style="font-size:14.5px; line-height:1.5 ;font-family:sans-serif;text-align:center;text-align:left;">National Cadet Corps (land)</li>
 				<li style="font-size:14.5px; line-height:1.5 ;font-family:sans-serif;text-align:left;;">National Civil Defence Cadet Corps</li>
 				<li style="font-size:14.5px; line-height:1.5 ;font-family:sans-serif;text-align:left;">National Police Cadet Corps</li>
@@ -348,7 +348,8 @@ description: ""
 	<div style="flex: 1; background-color: #F8BF58;; margin: 10px; padding: 25px; text-align: center; width: 225px; height: auto;padding-bottom:-10px;" class="box">  
 		<p style="font-size:14.5px; line-height:1.5 ;margin-top:5px; font-family:sans-serif;text-align:center;">
 			<strong style="font-size:14.5px; line-height:1.5 ;margin-top:5px; font-family:sans-serif;text-align:center;">Performing Arts</strong>
-			</p>		<ul style="list-style-type: none;margin:0;text-align:left;">
+			</p>	
+		<ul style="list-style-type: none;margin:0;text-align:left;padding:0;">
 				<li style="font-size:14.5px; line-height:1.5 ;font-family:sans-serif;text-align:center;text-align:left;">Dance Society</li>
 				<li style="font-size:14.5px; line-height:1.5 ;font-family:sans-serif;text-align:left;;">Drama Society</li>
 			<li style="font-size:14.5px; line-height:1.5 ;font-family:sans-serif;text-align:left;;">Guzheng Ensemble</li>
@@ -358,7 +359,7 @@ description: ""
 	</div> 
 </div>
 
-<div style="margin: 0;width: 100%; height: 100vh;display: flex; align-items: center;
+<div style="margin: 0;padding:0;width: 100%; height: 100vh;display: flex; align-items: center;
 background-image: url('https://raw.githubusercontent.com/isomerpages/moe-peihwasec/staging/images/artboard%201.png'); background-size: contain; background-repeat: no-repeat; background-position: center;margin-top:-100px;" class="box"> 
 	<div style="flex: 1;" class="flex-item"></div> 
 	<div style="flex: 1; margin-top:30px;" class="flex-item"> 
@@ -383,7 +384,7 @@ background-image: url('https://raw.githubusercontent.com/isomerpages/moe-peihwas
 	</div>
 </div>
 
-<div style="display: flex;" class="flex-container"> 
+<div style="display: flex;margin-top:-70px;" class="flex-container"> 
 	<div style="flex: 1; margin: 10px; padding: 10px;" class="flex-item"> 
 		<img class="image" alt="Image" style="display: block;border-radius: 20px;" src="https://img.koreatimes.co.kr/upload/newsV2/images/202104/2a0c19f6b74c48e7bf1dfe569048c573.jpg">
 			<h5 style="font-weight: bold;margin: 15px 0;color:#0B6623;font-size:18px;text-align:left;" class="header">Lower Secondary</h5>
@@ -403,7 +404,7 @@ background-image: url('https://raw.githubusercontent.com/isomerpages/moe-peihwas
 </div>
 
 <div style="background-color:#0B6623;padding:30px;">
-	<h6 style="font-weight: bold;margin: 0;margin-top:30px;color:white;font-size:16px;text-align:center;" class="header">Full SBB Experience</h6>
+	<h6 style="font-weight: bold;margin: 0;color:white;font-size:16px;text-align:center;" class="header">Full SBB Experience</h6>
 
 <h4 style="margin-top:10px;font-weight: bold;color:#F8BF58;line-height:1.3;text-align:center;">Lorem ipsum dolor sit amet,<br> consectetur adipiscing </h4>
 
