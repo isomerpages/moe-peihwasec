@@ -312,7 +312,7 @@ description: ""
 <p style="font-size:14.5px; line-height:1.5 ;margin-top:5px; font-family:sans-serif;text-align:center;" class="description">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce id ipsum eget est suscipit mollis vel eu lorem. Donec nec eros ipsum.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce id ipsum eget est suscipit mollis vel eu lorem. Donec nec eros ipsum.</p>
 
 <div style="display: flex; margin:0;padding:0;" class="container"> 
-	<div style="flex: 1; background-color: #F8BF58; margin: 10px; padding: 25px; text-align: center; border-radius: 10%; width: 225px; height: 225px;" class="box">
+	<div style="flex: 1; background-color: #F8BF58;; margin: 10px; padding: 25px; text-align: center; border-radius: 10%; width: 225px; height: auto" class="box"> 
 		<p style="font-size:14.5px; line-height:1.5 ;margin-top:5px; font-family:sans-serif;text-align:center;"><strong style="font-size:14.5px; line-height:1.5 ;margin-top:5px; font-family:sans-serif;text-align:center;">Club &amp; Societies</strong></p> 
 		<ul style="list-style-type: none;margin:0;text-align:left;">
 				<li style="font-size:14.5px; line-height:1.5 ;font-family:sans-serif;text-align:center;text-align:left;">Infocomm Club</li>
@@ -320,10 +320,9 @@ description: ""
 			<li style="font-size:14.5px; line-height:1.5 ;font-family:sans-serif;text-align:left;;">PH Times</li>
 			<li style="font-size:14.5px; line-height:1.5 ;font-family:sans-serif;text-align:left;;">Robotics Club</li>
 			<li style="font-size:14.5px; line-height:1.5 ;font-family:sans-serif;text-align:left;;">Student Council</li>
-			<br>
 		</ul>
 	</div> 
-	<div style="flex: 1; background-color: #F8BF58;; margin: 10px; padding: 25px; text-align: center; border-radius: 10%; width: 225px; height: 225px;" class="box"> 
+	<div style="flex: 1; background-color: #F8BF58;; margin: 10px; padding: 25px; text-align: center; border-radius: 10%; width: 225px; height: auto" class="box"> 
 		<p style="font-size:14.5px; line-height:1.5 ;margin-top:5px; font-family:sans-serif;text-align:center;"><strong style="font-size:14.5px; line-height:1.5 ;margin-top:5px; font-family:sans-serif;text-align:center;">Sports &amp; Games</strong></p>
 				<ul style="list-style-type: none;margin:0;text-align:left;">
 				<li style="font-size:14.5px; line-height:1.5 ;font-family:sans-serif;text-align:center;text-align:left;">Badminton</li>
@@ -334,10 +333,9 @@ description: ""
 								<li style="font-size:14.5px; line-height:1.5 ;font-family:sans-serif;text-align:left;;">Table Tennis</li>
 			<li style="font-size:14.5px; line-height:1.5 ;font-family:sans-serif;text-align:left;;">Taekwondo</li>
 			<li style="font-size:14.5px; line-height:1.5 ;font-family:sans-serif;text-align:left;;">Wushu</li>
-			<br>
 		</ul>
 	</div> 
-	<div style="flex: 1; background-color: #F8BF58;; margin: 10px; padding: 25px; text-align: center; border-radius: 10%; width: 225px; height: 225px;" class="box">
+	<div style="flex: 1; background-color: #F8BF58;; margin: 10px; padding: 25px; text-align: center; border-radius: 10%; width: 225px; height: auto" class="box"> 
 		<p style="font-size:14.5px; line-height:1.5 ;margin-top:5px; font-family:sans-serif;text-align:left;">
 			<strong style="font-size:14.5px; line-height:1.5 ;margin-top:5px; font-family:sans-serif;text-align:left;">Uniformed Groups</strong>
 			</p>
@@ -347,7 +345,7 @@ description: ""
 				<li style="font-size:14.5px; line-height:1.5 ;font-family:sans-serif;text-align:left;">National Police Cadet Corps</li>
 		</ul>
 	</div> 
-	<div style="flex: 1; background-color: #F8BF58;; margin: 10px; padding: 25px; text-align: center; border-radius: 10%; width: 225px; height: 225px;" class="box"> 
+	<div style="flex: 1; background-color: #F8BF58;; margin: 10px; padding: 25px; text-align: center; border-radius: 10%; width: 225px; height: auto" class="box">  
 		<p style="font-size:14.5px; line-height:1.5 ;margin-top:5px; font-family:sans-serif;text-align:center;">
 			<strong style="font-size:14.5px; line-height:1.5 ;margin-top:5px; font-family:sans-serif;text-align:center;">Performing Arts</strong>
 			</p>		<ul style="list-style-type: none;margin:0;text-align:left;">
@@ -356,7 +354,6 @@ description: ""
 			<li style="font-size:14.5px; line-height:1.5 ;font-family:sans-serif;text-align:left;;">Guzheng Ensemble</li>
 			<li style="font-size:14.5px; line-height:1.5 ;font-family:sans-serif;text-align:left;;">Pei Hwa Choir</li>
 			<li style="font-size:14.5px; line-height:1.5 ;font-family:sans-serif;text-align:left;;">Symphonic Band</li>
-			<br>
 		</ul>
 	</div> 
 </div>
