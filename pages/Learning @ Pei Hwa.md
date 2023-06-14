@@ -148,18 +148,18 @@ description: ""
     	<div>
 		<a name="subject6" style="display: block;"></a>
 		<div style="position: relative; display: inline-block;" class="container"> 
-				<img class="image" alt="Image" style="display: block;border-radius: 20px;;" src="https://raw.githubusercontent.com/isomerpages/moe-peihwasec/staging/images/BANNERs/bannercntdept.png"> 
-				<div style="position: absolute; bottom: 5px; left: 30px; color: #fff; padding: 5px;" class="text"><strong style="color: #fff; font-size:25px;text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);">Craft and Technology</strong></div> 
-			</div>
-		<div style="display: flex;" class="container"> 
+						<img class="image" alt="Image" style="display: block;border-radius: 20px;;" src="https://raw.githubusercontent.com/isomerpages/moe-peihwasec/staging/images/BANNERs/bannercntdept.png"> 
+						<div style="position: absolute; bottom: 5px; left: 30px; color: #fff; padding: 5px;" class="text"><strong style="color: #fff; font-size:25px;text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);">Craft &amp; Technology</strong></div> 
+					</div>
+		<div style="display: flex;" class="container">
 				<div style="flex: 1;padding: 5px;" class="column"> 
 					<h6 style="margin-top:5px;color:#0B6623;">Philosophy</h6> 
 					<p style="font-size:14.5px; line-height:1.5;margin-top:5px; font-family:sans-serif;" class="description">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce id ipsum eget est suscipit mollis vel eu lorem. Donec nec eros ipsum.Lorem ipsum dolor sit amet, consectetur adipiscing elit. </p> 
-				</div> 
+					</div> 
 				<div style="flex: 1; padding: 5px;" class="column"> 
 					<h6 style="margin-top:5px;color:#0B6623;">Programmes</h6> 
 					<p style="font-size:14.5px; line-height:1.5;margin-top:5px; font-family:sans-serif;" class="description">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce id ipsum eget est suscipit mollis vel eu lorem. Donec nec eros ipsum.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce id ipsum eget est suscipit mollis vel eu lorem. Donec nec eros ipsum. <br><br>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce id ipsum eget est suscipit mollis vel eu lorem. Donec nec eros ipsum.</p> 
-				</div> 
+				</div>
 			</div>
 	</div>
     	<div>
