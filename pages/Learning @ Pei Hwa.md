@@ -37,7 +37,7 @@ description: ""
           </a>
         </li>
 		  <li style="padding: 0;margin: 0;">
-          <a href="#subect6" style="display: block;">
+          <a href="#subject6" style="display: block;">
             <button style="color: #0B6623; border: none;background-color: transparent;font-size:16px; line-height:1.5;font-family:sans-serif;text-align:left;margin-bottom:-15px;" class="button">Craft &amp; Technology</button>
           </a>
         </li>
