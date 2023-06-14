@@ -23,7 +23,7 @@ color:#F8BF58;">Heading</h4>&nbsp;
 		<p style="margin: -30px 0;font-size:14.5px; line-height:1.5;font-family:sans-serif;color:white;">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce id ipsum eget est suscipit mollis vel eu lorem. Donec nec eros ipsum.</p>
 	</div>
 	<div style="position: relative; width: 300px; height: 300px; margin-right:40px;" class="container">&nbsp;
-		<img class="image" alt="Image" style="max-width: 115px; border-radius: 10px;position: absolute; bottom: 50px; left: 40px;" src="https://raw.githubusercontent.com/isomerpages/moe-peihwasec/staging/images/general04.png">&nbsp;
+		<img class="image" alt="Image" style="max-width: 115px; border-radius: 10px;position: absolute; bottom: 40px; left: 40px;" src="https://raw.githubusercontent.com/isomerpages/moe-peihwasec/staging/images/general04.png">&nbsp;
 		<img class="image" alt="Image" style="max-width: 250px; margin-left: 50px;border-radius: 10px" src="https://raw.githubusercontent.com/isomerpages/moe-peihwasec/staging/images/general03.png">&nbsp;
 	</div>
 </div>
