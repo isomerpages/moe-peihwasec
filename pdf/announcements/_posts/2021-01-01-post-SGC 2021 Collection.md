@@ -5,10 +5,13 @@ date: 2021-01-01
 layout: post
 description: ""
 ---
-<p><strong>SGC Collection (for 2021 Sec 4 Students in&nbsp;<u>ALL</u>&nbsp;streams)</strong></p>
-<p>Your SGCs are ready for&nbsp;collection. Do take note of the following:</p>
-<ol>
-<li>Please call the General Office @65009580 to make an appointment for collection. The collection can be done from Monday to Friday, 8am to 3pm.</li>
-<li>Bring along your identification card for verification.</li>
-<li>You need to be properly attired (no slippers, no shorts).</li>
-</ol>
+<p style="font-family:sans-serif;font-size:14.5px;">
+	<strong style="font-family:sans-serif;font-size:14.5px;">SGC Collection (for 2021 Sec 4 Students in&nbsp;<u>ALL</u>&nbsp;streams)</strong></p>
+
+<p style="font-family:sans-serif;font-size:14.5px;line-height:1">Dear Graduates, </p>
+<p style="font-family:sans-serif;font-size:14.5px;padding-left:10px;line-height:2;">
+We are pleased to inform you that your School Graduation Certificates (SGC) are now ready for collection.Please call the school at 67566760 to make an appointment before you come down for collection.You will need to provide your particulars at the guard post when you report to school for collection.
+Please be appropriately dressed when you come collect your SGC (i.e., covered footwear).
+	</p>
+
+<p style="font-family:sans-serif;font-size:14.5px;line-height:1;">Thank you.</p>
