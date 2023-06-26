@@ -38,19 +38,19 @@ third_nav_title: Clubs & Societies
 <table style="width:100%;border-collapse: collapse;border: none;">
 	<tbody style="border: none;">
 <tr>
-			<td style="font-weight: bold; font-size: 15px; border-bottom: 1px solid #dddddd;width:25%;font-family:sans-serif;">Teachers-in-Charge</td>
+			<td style="font-weight: bold; font-size: 15px; border-bottom: 1px solid #dddddd;width:30%;font-family:sans-serif;">Teachers-in-Charge</td>
 			<td style="font-size: 14.5px; border-bottom: 1px solid #dddddd;font-family:sans-serif;">Mr Toh Wee Teck, Ms Tang Wai Sim Wendy, Ms Cheng Liangyu</td>
 		</tr>
 		
 <tr>
-			<td style="font-weight: bold; font-size: 15px; border-bottom: 1px solid #dddddd;width:25%;font-family:sans-serif;">Trainers (Infocomm &amp; AVA)<br>
+			<td style="font-weight: bold; font-size: 15px; border-bottom: 1px solid #dddddd;width:30%;font-family:sans-serif;">Trainers (Infocomm &amp; AVA)<br>
 Trainers (AVA)
 </td>
 			<td style="font-size: 14.5px; border-bottom: 1px solid #dddddd;font-family:sans-serif;">Ms Nuratiqah<br> Mr Muhammad Haady Raihan </td>
 		</tr>
 
 <tr>
-			<td style="font-weight: bold; font-size: 15px; border-bottom: 1px solid #dddddd;width:25%;font-family:sans-serif;">CCA Schedule</td>
+			<td style="font-weight: bold; font-size: 15px; border-bottom: 1px solid #dddddd;width:30%;font-family:sans-serif;">CCA Schedule</td>
 			<td style="font-size: 14.5px; border-bottom: 1px solid #dddddd;font-family:sans-serif;">Tuesday 3.30pm - 6.00pm<br>*Fridays 2.30-5:30pm
 <br><br>
 *ad-hoc trainings (only for AVA crew members)
@@ -58,7 +58,7 @@ Trainers (AVA)
 		</tr>
 		
 <tr>
-			<td style="font-weight: bold; font-size: 15px; border-bottom: 1px solid #dddddd;width:25%;font-family:sans-serif;">Venues</td>
+			<td style="font-weight: bold; font-size: 15px; border-bottom: 1px solid #dddddd;width:30%;font-family:sans-serif;">Venues</td>
 			<td style="font-size: 14.5px; border-bottom: 1px solid #dddddd;font-family:sans-serif;">Computer Lab 1 &amp; 2</td>
 		</tr>
 		
