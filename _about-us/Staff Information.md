@@ -96,19 +96,6 @@ Mr Yip Guanhui
 yip_guanhui@moe.edu.sg
 </td>
 </tr>
-		
-<tr>
-<td style="text-align:center; border: 1px solid #dddfe1;">
-<strong style="font-family:sans-serif;">HOD Special Project</strong>
-</td>
-<td style="text-align:center; border: 1px solid #dddfe1;font-family:sans-serif;">
-Mr Lim Thai Wee&nbsp;David
-</td>
-<td style="text-align:center; border: 1px solid #dddfe1;font-family:sans-serif;">
-lim_thai_wee_david@moe.edu.sg
-</td>
-</tr>
-	
 <tr>
 <td style="text-align:center; border: 1px solid #dddfe1;">
 <strong style="font-family:sans-serif;">HOD Mother Tongue</strong>
@@ -224,6 +211,14 @@ lee_wei_ying@moe.edu.sg
 <td style="text-align:center; border: 1px solid #dddfe1;font-family:sans-serif;">Mr Lim Jin Kng Emmanuel</td>
 <td style="text-align:center; border: 1px solid #dddfe1;font-family:sans-serif;">lim_jin_kng_emmanuel@moe.edu.sg</td>
 </tr>
+		
+<tr>
+<td style="text-align:center; border: 1px solid #dddfe1;">
+<strong style="font-family:sans-serif;">SH Chinese Language</strong>
+</td>
+<td style="text-align:center; border: 1px solid #dddfe1;font-family:sans-serif;">Miss Koh Jia Tian</td>
+<td style="text-align:center; border: 1px solid #dddfe1;font-family:sans-serif;">koh_jia_tian@moe.edu.sg</td>
+</tr>
 	
 <tr>
 <td style="text-align:center; border: 1px solid #dddfe1;"><strong style="font-family:sans-serif;">Lead Teacher/<br>Malay Language</strong></td>
@@ -266,7 +261,7 @@ lee_wei_ying@moe.edu.sg
 </div>
 </li>
 	
-<li><input id="accordion2" type="checkbox"> <label for="accordion2" style="font-family:sans-serif;;">Secondary 1 Classes 2022</label>
+<li><input id="accordion2" type="checkbox"> <label for="accordion2" style="font-family:sans-serif;;">Secondary 1 Classes 2023</label>
 <div>
 <table style="width:100%" border="1">
 <thead style="background-color: #54585d; font-weight: bold; font-size: 15.5px; border: 1px solid #54585d;">
@@ -378,9 +373,11 @@ goh_kok_soon@moe.edu.sg
 </td>
 <td style="text-align:center; border: 1px solid #dddfe1;font-family:sans-serif;">
 Mdm Lee Helen<br>
+Miss Chua Jin Xia, Valerie
 </td>
 <td style="text-align:center; border: 1px solid #dddfe1;font-family:sans-serif;">
-lee_helen_a@moe.edu.sg
+lee_helen_a@moe.edu.sg<br>
+chua_jin_xia_valerie@moe.edu.sg
 </td>
 </tr>
 	
@@ -389,7 +386,7 @@ lee_helen_a@moe.edu.sg
 </div>
 </li>
 
-<li><input id="accordion3" type="checkbox"> <label for="accordion3" style="font-family:sans-serif;">Secondary 2 Classes 2022</label>
+<li><input id="accordion3" type="checkbox"> <label for="accordion3" style="font-family:sans-serif;">Secondary 2 Classes 2023</label>
 <div>
 <table style="width:100%" border="1">
 <thead style="background-color: #54585d; font-weight: bold; font-size: 15.5px; border: 1px solid #54585d;">
@@ -434,11 +431,13 @@ nur_fateha_kamsani@moe.edu.sg
 </td>
 <td style="text-align:center; border: 1px solid #dddfe1;font-family:sans-serif;">
 Mdm Tai Bee Chuan (Mrs Cheow)<br>
-Mdm Rositah Binte Yusof
+Mdm Rositah Binte Yusof<br>
+Miss Heera Farzana
 </td>
 <td style="text-align:center; border: 1px solid #dddfe1;font-family:sans-serif;">
 tai_bee_chuan@moe.edu.sg<br>
-rositah_yusof@moe.edu.sg
+rositah_yusof@moe.edu.sg<br>
+-
 </td>
 </tr>
 	
@@ -516,7 +515,7 @@ wong_ser_ching@moe.edu.sg
 </div>
 </li>
 	
-<li><input id="accordion4" type="checkbox"><label for="accordion4" style="font-family:sans-serif;">Secondary 3 Classes 2022</label>
+<li><input id="accordion4" type="checkbox"><label for="accordion4" style="font-family:sans-serif;">Secondary 3 Classes 2023</label>
 <div>
 <table border="1" style="width:100%">
 <thead style="background-color: #54585d; font-weight: bold; font-size: 15.5px; border: 1px solid #54585d;">
@@ -632,11 +631,13 @@ ong_geok_leng@moe.edu.sg
 </td>
 <td style="text-align:center; border: 1px solid #dddfe1;font-family:sans-serif;">
 Mdm Lu Yitong<br>
-Miss Wong Li Ching
+Miss Wong Li Ching<br>
+Mr Wong Hon Kit Benjamin
 </td>
 <td style="text-align:center; border: 1px solid #dddfe1;font-family:sans-serif;">
 lu_yitong@moe.edu.sg<br>
-wong_li_ching_c@moe.edu.sg
+wong_li_ching_c@moe.edu.sg<br>
+-
 </td>
 </tr>
 	
@@ -658,7 +659,7 @@ jaime_toh_guek_peng@moe.edu.sg
 </div>
 </li>
 
-<li><input id="accordion5" type="checkbox"> <label for="accordion5" style="font-family:Tahoma;">Secondary 4/5 Classes 2022</label>
+<li><input id="accordion5" type="checkbox"> <label for="accordion5" style="font-family:Tahoma;">Secondary 4/5 Classes 2023</label>
 <div>
 <table border="1" style="width:100%">
 <thead style="background-color: #54585d; font-weight: bold; font-size: 15.5px; border: 1px solid #54585d;">
