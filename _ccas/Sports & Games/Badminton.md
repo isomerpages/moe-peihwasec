@@ -2,7 +2,7 @@
 title: Badminton
 permalink: /ccas/sports-games/badminton/
 description: ""
-third_nav_title: Sports &amp; Games
+third_nav_title: Sports & Games
 ---
 <img style="width: 100%;" src="/images/Picture1.jpg">
 
