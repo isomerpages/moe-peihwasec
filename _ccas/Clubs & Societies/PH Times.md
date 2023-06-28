@@ -125,76 +125,68 @@ third_nav_title: Clubs & Societies
 	
 <div style="display: flex; flex-wrap: wrap; justify-content: space-between; max-width: 800px; margin: 0 auto;" class="image-container">
 	<div style="width: 45%; margin-bottom: 20px; box-sizing: border-box; text-align: center;" class="image-box">
-    <img style="width: 100%; margin-bottom: 10px;" alt="Image 1" src="https://raw.githubusercontent.com/isomerpages/moe-peihwasec/staging/images/CCA/phtimesbanner.png">
-    <p style="font-size:14.5px; line-height:1.5 ;margin:0; font-family:sans-serif;">Head of Operation</p>
+    <img style="width: 100%; margin-bottom: 10px;" alt="Image 1" src="https://raw.githubusercontent.com/isomerpages/moe-peihwasec/staging/images/CCA/phtimes02.png">
+    <p style="font-size:14.5px; line-height:1.5 ;margin:0; font-family:sans-serif;">Filming a SYF Band performance during COVID-19 period</p>
   </div>
 	<div style="width: 45%; margin-bottom: 20px; box-sizing: border-box; text-align: center;" class="image-box">
-    <img style="width: 100%; margin-bottom: 10px;" alt="Image 1" src="https://raw.githubusercontent.com/isomerpages/moe-peihwasec/staging/images/CCA/phtimesbanner.png">
-    <p style="font-size:14.5px; line-height:1.5 ;margin:0; font-family:sans-serif;">Head of Operation</p>
+    <img style="width: 100%; margin-bottom: 10px;" alt="Image 1" src="https://raw.githubusercontent.com/isomerpages/moe-peihwasec/staging/images/CCA/phtimes03.png">
+    <p style="font-size:14.5px; line-height:1.5 ;margin:0; font-family:sans-serif;">Pei Hwa Secondary School’s National Day Parade</p>
   </div>
 	<div style="width: 45%; margin-bottom: 20px; box-sizing: border-box; text-align: center;" class="image-box">
-    <img style="width: 100%; margin-bottom: 10px;" alt="Image 1" src="https://raw.githubusercontent.com/isomerpages/moe-peihwasec/staging/images/CCA/phtimesbanner.png">
-    <p style="font-size:14.5px; line-height:1.5 ;margin:0; font-family:sans-serif;">Head of Operation</p>
+    <img style="width: 100%; margin-bottom: 10px;" alt="Image 1" src="https://raw.githubusercontent.com/isomerpages/moe-peihwasec/staging/images/CCA/phtimes04.png">
+    <p style="font-size:14.5px; line-height:1.5 ;margin:0; font-family:sans-serif;">A broadcast production</p>
   </div><div style="width: 45%; margin-bottom: 20px; box-sizing: border-box; text-align: center;" class="image-box">
-    <img style="width: 100%; margin-bottom: 10px;" alt="Image 1" src="https://raw.githubusercontent.com/isomerpages/moe-peihwasec/staging/images/CCA/phtimesbanner.png">
-    <p style="font-size:14.5px; line-height:1.5 ;margin:0; font-family:sans-serif;">Head of Operation</p>
+    <img style="width: 100%; margin-bottom: 10px;" alt="Image 1" src="https://raw.githubusercontent.com/isomerpages/moe-peihwasec/staging/images/CCA/phtimes05.png">
+    <p style="font-size:14.5px; line-height:1.5 ;margin:0; font-family:sans-serif;">Mapping the layout of articles produced by PH Times members</p>
   </div>
 </div>
 
-<h4 style="color:#635f1a;font-weight:bold;margin-bottom:-25px;font-family:sans-serif;">Student Testament</h4>
-<blockquote style="font-size: 15px;
-  width:100%;
-  margin:50px auto;
-  font-family:serif;
-  font-style:italic;
-  color: #555555;
-  padding:1.2em 25px 1.2em 25px;
-  border-left:8px solid #78C0A8 ;
-  line-height:1.6;
-  position: relative;
-  background:#EDEDED;">
-  “In PH Times, I have learnt about photography and photo editing skills which I use in doing what I like; editing pictures of cars by enhancing the visuals of the picture. My friends and relatives would also ask me to take photos of them after finding out what I do in the CCA. I was able to take better photos and apply different types of shots from different angles like the bird’s eye view and over the shoulder shots. As a leader, I was able to communicate better with others and manage situations where different people have contrasting views and ideas.”<span style="display:block; color:#333333; margin-top:1em;font-size:15px;font-family:sans-serif;"><em style="font-family:sans-serif;">Vice-president 2021</em></span>
+<p style="font-size:14.5px; line-height:2;margin-top:15px; font-family:sans-serif;">Our CCA also encourages members to take part in the following competitions:</p>
+
+<ul style="margin-top:5px">
+	<li style="font-size:14.5px; line-height:1.5 ;margin-top:5px; font-family:sans-serif;"> Our School, Our Stories Photo and Video Contest</li>
+<li style="font-size:14.5px; line-height:1.5 ;margin-top:5px; font-family:sans-serif;"> Our School, Our Stories Photo and Video Contest</li>
+	</ul>
+
+<h3 style="margin-top:10px;font-weight: bold;color:#000000">Student Testament</h3>
+
+<blockquote style="font-size: 15px;width:100%;margin: 25px 0;font-family:serif;font-style:italic;color: #555555;padding:1.2em 25px 1.2em 25px;border-left:8px solid #78C0A8 ;line-height:1.5;position: relative;background:#EDEDED;">
+  “One of my greatest achievements in PH Times was being able to conduct CCA sessions on videography with my CCA members successfully. It was sometimes hard for me to find time to plan meaningful sessions for my members especially when we leaders had to discuss plans online because it was difficult to find a common time to meet up. Thus, I was glad to have been able to overcome this obstacle of not being able to meet with my other fellow leaders but still being able to plan sessions for my members. I have also made new friends in the CCA and I will definitely miss the times I spent with my seniors and juniors in PH Times.”
+  <span style="display:block; color:#333333; margin-top:1em;font-size:15px;font-family:sans-serif;">Tan Ying En, on her experience as a Student Leader</span>
 </blockquote>
 
-
-<blockquote style="font-size: 15px;
-  width:100%;
-  margin:50px auto;
-  font-family:serif;
-  font-style:italic;
-  color: #555555;
-  padding:1.2em 25px 1.2em 25px;
-  border-left:8px solid #78C0A8 ;
-  line-height:1.6;
-  position: relative;
-  background:#EDEDED;">
-  “One of my greatest achievements in PH Times was being able to conduct CCA sessions on videography with my CCA members successfully. It was sometimes hard for me to find time to plan meaningful sessions for my members especially when we leaders had to discuss plans online because it was difficult to find a common time to meet up. Thus, I was glad to have been able to overcome this obstacle of not being able to meet with my other fellow leaders but still being able to plan sessions for my members. I have also made new friends in the CCA and I will definitely miss the times I spent with my seniors and juniors in PH Times.”<img style="width:40%; height:40%; margin-top:15px;" src="/images/ph2.jpg">
-  <span style="display:block; color:#333333; margin-top:1em;font-size:15px;font-family:sans-serif;"><em style="font-family:sans-serif;">Head of Video</em></span>
+<blockquote style="font-size: 15px;width:100%;margin: 25px 0;font-family:serif;font-style:italic;color: #555555;padding:1.2em 25px 1.2em 25px;border-left:8px solid #78C0A8 ;line-height:1.5;position: relative;background:#EDEDED;">
+  “I joined the CCA when I was in Secondary 2. At that time, I had no prior knowledge on photography or videography. However, I have nice friends and caring teachers who provided help throughout my journey in PH Times. What I love most about the CCA is the precious opportunities to put my skills to test during school events and competitions. It gives me the chance to review and improve my skills.””
+  <span style="display:block; color:#333333; margin-top:1em;font-size:15px;font-family:sans-serif;">Ng Qi En, on her journey in PH Times</span>
 </blockquote>
 
+<blockquote style="font-size: 15px;width:100%;margin: 25px 0;font-family:serif;font-style:italic;color: #555555;padding:1.2em 25px 1.2em 25px;border-left:8px solid #78C0A8 ;line-height:1.5;position: relative;background:#EDEDED;">
+  “My greatest takeaway from PH Times would be being able to better myself. As the President of PH Times, I had the opportunity to hone my communication skills. It also allowed me to learn to work together with the team of student leaders to achieve a common goal and to ensure that PH Times members enjoy the CCA as much as we do. Throughout my journey in the CCA, not only was I able to grow as a leader, but I was also able to learn a variety of skills such as using the digital cameras, video cameras and creating the PHactors website, which can be applicable in my daily life. I remember being nervous when I was preparing to interview the Education Minister last year (2022). However, with the support from my peers and teachers, I was able to step out of my comfort zone and gain confidence for the interview. My journey in PH Times has been a memorable and rewarding one, especially with the times I spent with my peers and juniors. I am thankful for the memories made. They are irreplaceable.”
+  <span style="display:block; color:#333333; margin-top:1em;font-size:15px;font-family:sans-serif;">Lee Xiang, on her journey in PH Times</span>
+</blockquote>
 
+<blockquote style="font-size: 15px;width:100%;margin: 25px 0;font-family:serif;font-style:italic;color: #555555;padding:1.2em 25px 1.2em 25px;border-left:8px solid #78C0A8 ;line-height:1.5;position: relative;background:#EDEDED;">
+  “I was given the opportunity to be in the planning team for our School Wide Photo Contest. It was fun working with people who I seldom get to work with. There were moments where our ideas clashed, but I learnt to manage the situation as the leader of the team. It was a fulfilling experience and I would definitely consider doing it again.”
+  <span style="display:block; color:#333333; margin-top:1em;font-size:15px;font-family:sans-serif;">Yeo Le Yu Amadeus, on his experience planning the School Wide Photo Contest</span>
+</blockquote>
 
-<h4 style="color:#635f1a;font-family:sans-serif;font-weight:bold;">CCA Details</h4>
-<table border="1" style="width:100%;">
-	<tbody>
-		<tr>
-			<td style="background-color: #54585d; font-weight: bold; font-size: 14.5px; border: 1px solid #54585d; color:white;border-bottom: 1px solid #dddddd; width:24%;font-family:sans-serif;">Teacher-In-Charge</td>
-			<td style="border: 1px solid #dddfe1;font-size: 14.5px;font-family:sans-serif;">Mdm Rasyidah Binte Ramli</td>
-		</tr>
+<h3 style="margin-top:10px;font-weight: bold;color:#000000">CCA Details</h3>
 
+<table style="width:100%;border-collapse: collapse;border: none;">
+	<tbody style="border: none;">
 <tr>
-			<td style="background-color: #54585d; font-weight: bold; font-size: 14.5px; border: 1px solid #54585d;border-bottom: 1px solid #dddddd; color:white;font-family:sans-serif;">CCA Teacher(s)</td>
-			<td style="border: 1px solid #dddfe1;font-size: 14.5px;font-family:sans-serif;">Ms Ari Sutanti Binte Haji Mispan<br>Mdm Woo Nan Cam<br>Miss Koh Ting Suen Jewel</td>
+			<td style="font-weight: bold; font-size: 15px; border-bottom: 1px solid #dddddd;width:30%;font-family:sans-serif;letter-spacing:0.2px">Teachers-in-Charge</td>
+			<td style="font-size: 14.5px; border-bottom: 1px solid #dddddd;font-family:sans-serif;letter-spacing:0.2px">Mdm Rasyidah Binte Ramli, Ms Ari Sutanti Binte Haji Mispan, Miss Koh Ting Suen Jewel, Ms Woo Nam Cam</td>
 		</tr>
-
 <tr>
-			<td style="background-color: #54585d; font-weight: bold; font-size: 14.5px; border: 1px solid #54585d; color:white;border-bottom: 1px solid #dddddd;font-family:sans-serif;">CCA Schedule</td>
-			<td style="border: 1px solid #dddfe1;font-size: 14.5px;font-family:sans-serif;">Friday 2.30pm - 6.00pm</td>
+			<td style="font-weight: bold; font-size: 15px; border-bottom: 1px solid #dddddd;width:30%;font-family:sans-serif;letter-spacing:0.2px">CCA Schedule</td>
+			<td style="font-size: 14.5px; border-bottom: 1px solid #dddddd;font-family:sans-serif;letter-spacing:0.2px">Friday 2.30pm - 5.30pm
+</td>
 		</tr>
 		
 <tr>
-			<td style="background-color: #54585d; font-weight: bold; font-size: 14.5px; border: 1px solid #54585d; color:white;font-family:sans-serif;">Venues</td>
-			<td style="border: 1px solid #dddfe1;font-size: 14.5px;font-family:sans-serif;">Computer Lab 2, Passion A, Studio, Resillience</td>
+			<td style="font-weight: bold; font-size: 15px; border-bottom: 1px solid #dddddd;width:30%;font-family:sans-serif;letter-spacing:0.2px">Venues</td>
+			<td style="font-size: 14.5px; border-bottom: 1px solid #dddddd;font-family:sans-serif;letter-spacing:0.2px">Computer Lab 2, Passion A, Studio, Resillience C, Resilience 7</td>
 		</tr>
 		
 </tbody>
