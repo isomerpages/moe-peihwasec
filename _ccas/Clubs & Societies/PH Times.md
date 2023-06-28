@@ -124,7 +124,7 @@ third_nav_title: Clubs & Societies
 	</ul>
 	
 <div style="display: flex;" class="flex-container"> 
-  <div style="flex: 1; margin: 10px; padding: 10px;width" class="flex-item"> 
+  <div style="flex: 1; margin: 10px; padding: 10px;" class="flex-item"> 
     <img class="image" alt="Image" style="display: block;border-radius: 20px;" src="https://img.koreatimes.co.kr/upload/newsV2/images/202104/2a0c19f6b74c48e7bf1dfe569048c573.jpg">
       <h5 style="font-weight: bold;margin: 15px 0;color:#0B6623;font-size:18px;text-align:left;" class="header">Lower Secondary</h5>
 
