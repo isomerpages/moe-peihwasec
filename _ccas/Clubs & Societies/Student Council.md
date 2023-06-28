@@ -4,6 +4,8 @@ permalink: /ccas/clubs-societies/student-council/
 description: ""
 third_nav_title: Clubs & Societies
 ---
+<img style="width: 100%; height: auto;margin-top:30px;margin-bottom:30px;" alt="Image" src="https://raw.githubusercontent.com/isomerpages/moe-peihwasec/staging/images/CCA/studentcouncilbanner.png">
+
 <h4 style="color:#635f1a;font-family:sans-serif;font-weight:bold;">Mission</h4>
 
 <p style="font-size:14.5px; line-height:2;margin-top:15px; font-family:sans-serif;">The <strong style="font-family:sans-serif;">Student Council</strong> aims to develop innovative, daring and compassionate leaders. As Tier 3 Student Leaders, the Student Council is the voice of the student body and takes the lead in school events and improving student welfare. Student Councillors are also advocates of the environment by raising awareness about environment conservation through events such as Earth Week.</p>
