@@ -38,112 +38,110 @@ third_nav_title: Clubs & Societies
 	</td>
 </tr>
 	
-<tr>
+<tr style="background-color: #f3f3f3;">
 <td><strong style="font-family:sans-serif;font-size:14.5px;">2022</strong></td>
 	<td><strong style="font-family:sans-serif;font-size:15px;">RoboCup Singapore Open</strong>
 		<br>
 		<ul>
-			<li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;">OnStage 1<sup style="font-family:sans-serif;">st</sup> Place - 
+			<li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">OnStage 1<sup style="font-family:sans-serif;">st</sup> Place - 
 Tay Kai Wen, Bryan (4D1), Lai Le Xin Grace (3I4), Ain Myeisha Arman (3I1), Chang Guan Zheng (Justin) (2R9), Yan Ging Git (Zhenn Jingjie) (2R9), Chong Yun Ting Felicia (1P4)</li>
-            <li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;">Cospace Auto-Driving 3<sup style="font-family:sans-serif;">rd</sup> Place - Valluri Navanith (3I8)</li>
-			<li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;">Cospace Auto-Driving 2<sup style="font-family:sans-serif;">nd</sup> Place - Tang Ka Lok (3I8)</li>
-			<li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;">Cospace Auto-Driving (SuperTeam) 1<sup style="font-family:Open Sans;">st</sup> Place - Valluri Navanith (3I8), Tay Kai Yi (2R4)</li>
-			<li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;">Cospace Auto-Driving (Influencer Award) 1<sup style="font-family:sans-serif;">st</sup> Place - Shah Yashvi Tejas (3I8)</li>
-            <li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;">Cospace Rescue FirstSteps 3<sup style="font-family:Open Sans;">rd</sup> Place - Elkan Sin Yew Ken (1P8)</li>
-            <li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;">Cospace Rescue FirstSteps 2<sup style="font-family:sans-serif;">nd</sup> Place - Kieran Tan (2R5)</li>
-			<li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;">Cospace Rescue FirstSteps 1<sup style="font-family:sans-serif;">st</sup> Place - Devendran Venkatesh (1P3)</li>
-			<li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;">Cospace Rescue FirstSteps (SuperTeam) 1<sup style="font-family:sans-serif;">st</sup> Place - Devendran Venkatesh (1P3), Luke Matthias Quek Shou En (2R1), Goh Zhen Jin (2R5)</li>
-            <li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;">Cospace Rescue 3<sup style="font-family:sans-serif;">rd</sup> Place - Ritesh Sathiyamoorthi (2R8)</li>
-            <li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;">Cospace Rescue (SuperTeam) 1<sup style="font-family:sans-serif;">st</sup> Place - Ng Jun Lin, Cogan (3I7)</li>
-			<li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;">Cospace Rescue (Influencer Award) 1<sup style="font-family:sans-serif;">st</sup> Place - Devendran Venkatesh (1P3)</li>
+         <li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">Cospace Auto-Driving 3<sup style="font-family:sans-serif;">rd</sup> Place - Valluri Navanith (3I8)</li>
+			<li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">Cospace Auto-Driving 2<sup style="font-family:sans-serif;">nd</sup> Place - Tang Ka Lok (3I8)</li>
+			<li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">Cospace Auto-Driving (SuperTeam) 1<sup style="font-family:Open Sans;">st</sup> Place - Valluri Navanith (3I8), Tay Kai Yi (2R4)</li>
+			<li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">Cospace Auto-Driving (Influencer Award) 1<sup style="font-family:sans-serif;">st</sup> Place - Shah Yashvi Tejas (3I8)</li>
+        <li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">Cospace Rescue FirstSteps 3<sup style="font-family:Open Sans;">rd</sup> Place - Elkan Sin Yew Ken (1P8)</li>
+       <li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">Cospace Rescue FirstSteps 2<sup style="font-family:sans-serif;">nd</sup> Place - Kieran Tan (2R5)</li>
+			<li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">Cospace Rescue FirstSteps 1<sup style="font-family:sans-serif;">st</sup> Place - Devendran Venkatesh (1P3)</li>
+			<li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">Cospace Rescue FirstSteps (SuperTeam) 1<sup style="font-family:sans-serif;">st</sup> Place - Devendran Venkatesh (1P3), Luke Matthias Quek Shou En (2R1), Goh Zhen Jin (2R5)</li>
+       <li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">Cospace Rescue 3<sup style="font-family:sans-serif;">rd</sup> Place - Ritesh Sathiyamoorthi (2R8)</li>
+         <li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">Cospace Rescue (SuperTeam) 1<sup style="font-family:sans-serif;">st</sup> Place - Ng Jun Lin, Cogan (3I7)</li>
+			<li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">Cospace Rescue (Influencer Award) 1<sup style="font-family:sans-serif;">st</sup> Place - Devendran Venkatesh (1P3)</li>
 		</ul>
 	</td>
 </tr>
 	
-<tr style="background-color: #f3f3f3;">
+<tr>
 <td><strong style="font-family:sans-serif;font-size:14.5px;">2021</strong></td>
 	<td><strong style="font-family:sans-serif;font-size:15px;">Robocup Asia Pacific (held virtually at Aichi, Japan)</strong>
-		<br>
 		<ul>
-			<li style="font-size:14.5px;margin-bottom:5px;font-familysans-serif;">Cospace Rescue U19 2<sup style="font-family:sans-serif;">nd</sup> Place </li>
-            <li style="font-size:14.5px;margin-bottom:5px;font-family:Open Sans;">Cospace Rescue U19 1<sup style="font-family:sans-serif;">st</sup> Place (SuperTeam)</li>
-            <li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;">Cospace Rescue U19 2<sup style="font-family:sans-serif;">nd</sup> Place (SuperTeam)</li>
-			<li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;">Cospace Autonomous Driving U19 Best Presentation </li>
+			<li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">Cospace Rescue U19 2<sup style="font-family:sans-serif;">nd</sup> Place </li>
+       <li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">Cospace Rescue U19 1<sup style="font-family:sans-serif;">st</sup> Place (SuperTeam)</li>
+        <li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">Cospace Rescue U19 2<sup style="font-family:sans-serif;">nd</sup> Place (SuperTeam)</li>
+		<li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">Cospace Autonomous Driving U19 Best Presentation </li>
 		</ul>
 		<strong style="font-family:sans-serif;font-size:15px;">RoboCup Singapore Open</strong>
-		<br>
 		<ul>
-			<li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;">CoSpace Rescue, 2<sup style="font-family:sans-serif;">nd</sup> Place and Merit Award</li>
-                                <li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;">CoSpace Rescue, FirstSteps, 1<sup style="font-family:sans-serif;">st</sup>, 2<sup style="font-family:sans-serif;">nd</sup>, 3<sup style="font-family:sans-serif;">rd</sup> Place, One Distinction and four Merit Awards</li>
-                               <li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;">CoSpace Autonomous Driving,  1<sup style="font-family:sans-serif;">st</sup>, 2<sup style="font-family:sans-serif;">nd</sup>, 3<sup style="font-family:sans-serif;">rd</sup> Place, One Distinction and three Merit awards</li>
+			<li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">CoSpace Rescue, 2<sup style="font-family:sans-serif;">nd</sup> Place and Merit Award</li>
+          <li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">CoSpace Rescue, FirstSteps, 1<sup style="font-family:sans-serif;">st</sup>, 2<sup style="font-family:sans-serif;">nd</sup>, 3<sup style="font-family:sans-serif;">rd</sup> Place, One Distinction and four Merit Awards</li>
+           <li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">CoSpace Autonomous Driving,  1<sup style="font-family:sans-serif;">st</sup>, 2<sup style="font-family:sans-serif;">nd</sup>, 3<sup style="font-family:sans-serif;">rd</sup> Place, One Distinction and three Merit awards</li>
 		</ul>
 	</td>
 </tr>
 															
-<tr>
+<tr style="background-color: #f3f3f3;">
 <td><strong style="font-family:sans-serif;font-size:14.5px;">2020</strong></td>
 	<td><strong style="font-family:sans-serif;font-size:15px;">International Cospace Online Challenge</strong>
 		<ul> 
-			<li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;">RoboCup Asia Pacific (RCAP) Cospace Grand Prix (GP) U19 Most Creative Presentation Award 1<sup style="font-family:sans-serif;">st</sup> Place</li>
-                                <li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;">RCAP Cospace GP U19 Best Presentation Award 3<sup style="font-family:Open Sans;">rd</sup> Place</li>
-                                <li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;">Influencer Award (People's Choice) 3<sup style="font-family:Open Sans;">rd</sup> Place</li>
-                                <li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;">Influencer Award (Most Popular Video) 3<sup style="font-family:Open Sans;">rd</sup> Place</li>
-                                <li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;">Influencer Award (Community Awareness) 2<sup style="font-family:sans-serif;">nd</sup> Place</li>
+			<li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">RoboCup Asia Pacific (RCAP) Cospace Grand Prix (GP) U19 Most Creative Presentation Award 1<sup style="font-family:sans-serif;">st</sup> Place</li>
+             <li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">RCAP Cospace GP U19 Best Presentation Award 3<sup style="font-family:Open Sans;">rd</sup> Place</li>
+              <li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">Influencer Award (People's Choice) 3<sup style="font-family:Open Sans;">rd</sup> Place</li>
+                <li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">Influencer Award (Most Popular Video) 3<sup style="font-family:Open Sans;">rd</sup> Place</li>
+               <li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">Influencer Award (Community Awareness) 2<sup style="font-family:sans-serif;">nd</sup> Place</li>
 		</ul>
+	</td>
+</tr>
+
+<tr>
+<td><strong style="font-family:sans-serif;font-size:14.5px;">2019</strong></td>
+	<td><strong style="font-family:sans-serif;font-size:15px;">RoboCupJunior Singapore Open</strong>
+		<ul> 
+			<li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">RoboCup Asia Pacific (RCAP) CoSpace Rescue U12 Challenge – 1<sup style="font-family:sans-serif;">st</sup> &amp; 2<sup style="font-family:sans-serif;">nd</sup> Place </li>
+            <li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">RoboCup Asia Pacific (RCAP) CoSpace Rescue U19 Challenge –  1<sup style="font-family:sans-serif;">st</sup> &amp; 2<sup style="font-family:sans-serif;">nd</sup> Place</li>
+           <li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">RoboCup Asia Pacific (RCAP) CoSpace Rescue First Steps  1<sup style="font-family:sans-serif;">st</sup> &amp; 2<sup style="font-family:sans-serif;">nd</sup> Place</li>
+            <li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">RoboCupJunior CoSpace Rescue league – 3<sup style="font-family:sans-serif;">rd</sup> Place</li>
+             <li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">RoboCup Asia Pacific (RCAP) CoSpace Rescue U19</li>
+              <li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">Friendship Tournament – 1<sup style="font-family:sans-serif;">st</sup> place</li>
+                <li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">Best Achievement Award (3<sup style="font-family:sans-serif;">rd</sup> time)</li>
+	        </ul>
+                <strong style="font-family:sans-serif;font-size:15px;">ITE Robotics Challenge</strong>
+		<ul> 
+			<li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">Merit award in Tracing Challenge</li>
+	        </ul>
+             <strong style="font-family:sans-serif;font-size:15px;">3D Tronics Digital Making National Infocomm Competition</strong>
+		<ul> 
+			<li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">3<sup style="font-family:sans-serif;">rd</sup> Place</li>
+	        </ul>
 	</td>
 </tr>
 
 <tr style="background-color: #f3f3f3;">
-<td><strong style="font-family:sans-serif;font-size:14.5px;">2019</strong></td>
-	<td><strong style="font-family:sans-serif;font-size:15px;">RoboCupJunior Singapore Open</strong>
-		<ul> 
-			<li style="font-size:14.5px;font-family:sans-serif;">RoboCup Asia Pacific (RCAP) CoSpace Rescue U12 Challenge – 1<sup style="font-family:sans-serif;">st</sup> &amp; 2<sup style="font-family:sans-serif;">nd</sup> Place </li>
-                                <li style="font-size:14.5px;font-family:sans-serif;">RoboCup Asia Pacific (RCAP) CoSpace Rescue U19 Challenge –  1<sup style="font-family:sans-serif;">st</sup> &amp; 2<sup style="font-family:sans-serif;">nd</sup> Place</li>
-                                <li style="font-size:14.5px;font-family:sans-serif;">RoboCup Asia Pacific (RCAP) CoSpace Rescue First Steps  1<sup style="font-family:sans-serif;">st</sup> &amp; 2<sup style="font-family:sans-serif;">nd</sup> Place</li>
-                                <li style="font-size:14.5px;font-family:sans-serif;">RoboCupJunior CoSpace Rescue league – 3<sup style="font-family:sans-serif;">rd</sup> Place</li>
-                                <li style="font-size:14.5px;font-family:sans-serif;">RoboCup Asia Pacific (RCAP) CoSpace Rescue U19</li>
-                                <li style="font-size:14.5px;font-family:sans-serif;">Friendship Tournament – 1<sup style="font-family:sans-serif;">st</sup> place</li>
-                                <li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;">Best Achievement Award (3<sup style="font-family:sans-serif;">rd</sup> time)</li>
-	        </ul>
-                <strong style="font-family:sans-serif;font-size:15px;">ITE Robotics Challenge</strong>
-		<ul> 
-			<li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;">Merit award in Tracing Challenge</li>
-	        </ul>
-             <strong style="font-family:sans-serif;font-size:15px;">3D Tronics Digital Making National Infocomm Competition</strong>
-		<ul> 
-			<li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;">3<sup style="font-family:sans-serif;">rd</sup> Place</li>
-	        </ul>
-	</td>
-</tr>
-
-<tr>
 <td><strong style="font-family:sans-serif;font-size:14.5px;">2018</strong></td>
 	<td><strong style="font-family:sans-serif;font-size:15px;">RoboCupJunior Singapore Open</strong>
 		<ul> 
-			<li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;">2<sup style="font-family:sans-serif;">nd</sup>, 3<sup style="font-family:sans-serif;">rd</sup> &amp; 4<sup style="font-family:sans-serif;">th</sup> Place (RoboCupJunior CoSpace Rescue)</li>
-                                <li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;">2<sup style="font-family:Open Sans;">nd</sup> &amp; 3<sup style="font-family:sans-serif;">rd</sup> Place (RoboCup Asia Pacific CoSpace Rescue)</li>
-                                <li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;">1<sup style="font-family:sans-serif;">st</sup> Place (RoboCup Asia Pacific CoSpace Grand Prix)</li>
-                                <li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;">2<sup style="font-familysans-serif;">nd</sup>, 3<sup style="font-family:sans-serif;">rd</sup> Place (RoboCup Asia Pacific CoSpace Logistics)
+			<li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">2<sup style="font-family:sans-serif;">nd</sup>, 3<sup style="font-family:sans-serif;">rd</sup> &amp; 4<sup style="font-family:sans-serif;">th</sup> Place (RoboCupJunior CoSpace Rescue)</li>
+             <li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">2<sup style="font-family:Open Sans;">nd</sup> &amp; 3<sup style="font-family:sans-serif;">rd</sup> Place (RoboCup Asia Pacific CoSpace Rescue)</li>
+            <li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">1<sup style="font-family:sans-serif;">st</sup> Place (RoboCup Asia Pacific CoSpace Grand Prix)</li>
+              <li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">2<sup style="font-familysans-serif;">nd</sup>, 3<sup style="font-family:sans-serif;">rd</sup> Place (RoboCup Asia Pacific CoSpace Logistics)
 		</li></ul>
 	</td>
 </tr>
 
-<tr style="background-color: #f3f3f3;border-bottom: 2px solid #009879;">
+<tr style="border-bottom: 2px solid #009879;">
 <td><strong style="font-family:sans-serif;font-size:14.5px;">2017</strong></td>
 	<td><strong style="font-family:sans-serif;font-size:15px;">RoboCupJunior Singapore Open</strong>
 		<br>
 		<ul> 
-			<li style="font-size:14.5px;margin-bottom:5px;">1<sup style="font-family:sans-serif;">st</sup> 2<sup style="font-family:sans-serif;">nd</sup>, 3<sup style="font-family:sans-serif;">rd</sup> &amp; 4<sup style="font-family:sans-serif;">th</sup> Place (RoboCupJunior CoSpace Rescue)</li>
-                                <li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;">1<sup style="font-family:sans-serif;">st</sup> &amp; 2<sup style="font-family:sans-serif;">nd</sup>Place (RoboCupJunior CoSpace Rescue – SuperTeam)</li>
-																	<li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;">3<sup style="font-family:sans-serif;">rd</sup> Place (RoboCupJunior CoSpace Grand Prix)</li>
-                                <li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;">1<sup style="font-family:sans-serif;">st</sup> &amp; 2<sup>nd</sup> Place (RoboCupJunior CoSpace Logistics)</li>                                
-                                <li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;">Best Achievement Award</li>
+		<li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">st 2<sup style="font-family:sans-serif;">nd</sup>, 3<sup style="font-family:sans-serif;">rd</sup> &amp; 4<sup style="font-family:sans-serif;">th</sup> Place (RoboCupJunior CoSpace Rescue)</li>
+           <li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">1<sup style="font-family:sans-serif;">st</sup> &amp; 2<sup style="font-family:sans-serif;">nd</sup>Place (RoboCupJunior CoSpace Rescue – SuperTeam)</li>
+							<li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">3<sup style="font-family:sans-serif;">rd</sup> Place (RoboCupJunior CoSpace Grand Prix)</li>
+                 <li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">1<sup style="font-family:sans-serif;">st</sup> &amp; 2<sup>nd</sup> Place (RoboCupJunior CoSpace Logistics)</li>                                
+              <li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">Best Achievement Award</li>
 		</ul>
 	<strong style="font-family:sans-serif;font-size:15px;">RoboCup 2017 (Nagoya, Japan)</strong>
 		<br>
 		<ul> 
-			<li style="font-size:14.5px; margin-bottom:5px;font-family:sans-serif;">2<sup style="font-family:sans-serif;">nd</sup> Place in RoboCupJunior CoSpace Rescue (under 14 category) Individual Team</li>
-                                <li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;">12<sup style="font-family:sans-serif;">nd</sup> Place in RoboCupJunior CoSpace Rescue (under 14 category) Super Team (Singapore, Japan, Brazil)</li>
+			<li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">2<sup style="font-family:sans-serif;">nd</sup> Place in RoboCupJunior CoSpace Rescue (under 14 category) Individual Team</li>
+            <li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">12<sup style="font-family:sans-serif;">nd</sup> Place in RoboCupJunior CoSpace Rescue (under 14 category) Super Team (Singapore, Japan, Brazil)</li>
 		</ul>
 	</td>
 </tr>
