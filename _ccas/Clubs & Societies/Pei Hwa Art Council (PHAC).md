@@ -6,10 +6,10 @@ third_nav_title: Clubs & Societies
 ---
 <img style="width: 100%; height: auto;margin-top:30px;margin-bottom:30px;" alt="Image" src="https://raw.githubusercontent.com/isomerpages/moe-peihwasec/staging/images/CCA/phacbanner.png">
 
-<p style="font-size:14.5px; line-height:2;font-family:sans-serif;"><strong style="font-family:sans-serif;">Pei Hwa Art Council</strong>is a visual arts CCA which aims to provide students with opportunities to grow creatively. Students are exposed to a mix of fine art and design skills such as drawing and painting, ceramics and digital art to give them a hands-on at trying out different media. They are also given opportunities to showcase their strengths and talents by participating in various competitions and Values-in-Action programmes to give back to the community.</p>
+<p style="font-size:14.5px; line-height:2 ;margin-top:5px; font-family:sans-serif;" class="description"><strong style="font-family:sans-serif;">Pei Hwa Art Council</strong> is a visual arts CCA which aims to provide students with opportunities to grow creatively. Students are exposed to a mix of fine art and design skills such as drawing and painting, ceramics and digital art to give them a hands-on at trying out different media. They are also given opportunities to showcase their strengths and talents by participating in various competitions and Values-in-Action programmes to give back to the community.</p>
 
+<p style="font-size:14.5px; line-height:2 ;margin-top:5px; font-family:sans-serif;" class="description">Students are exposed to a range of art-making to let them have a feel of different media as part of their creative expression. While some of our members have some background in art, we also have new students join us to discover their hidden talents. Through regular practice and active participation, our members emerge skillful and confident under the care and guidance of the teachers. </p>
 
-<h4 style="color:#635f1a;font-weight:bold;font-family:sans-serif;">Student Outcomes</h4>
 <p style="font-size:14.5px; line-height:2;margin-top:15px; font-family:sans-serif;">The CCA will enable our students to:</p>
 <ul style="margin-top:-5px">
 	<li style="font-size:14.5px; line-height:2;font-family:sans-serif;"> develop better observational and problem-solving skills</li>
@@ -29,25 +29,19 @@ third_nav_title: Clubs & Societies
 	</thead>
 	
 <tbody>
+
+<tr>
+<td style="font-size:14.5px;"><strong style="font-family:sans-serif;">2022</strong></td>
+<td style="font-size:15px;"><strong style="font-family:sans-serif;">Participated in Singapore Youth Festival 2022 Art Exhibition: Artist and Sustainability</strong>
+	</td>
+</tr>
 	
 <tr>
 <td style="font-size:14.5px;"><strong style="font-family:sans-serif;">2021</strong></td>
 <td style="font-size:15px;"><strong style="font-family:sans-serif;">NKF Schools Postcard Design Contest</strong>
 <br>
 <ul> 
-<li style="font-size:14.5px;font-family:sans-serif;">Draw My Stamp Story’ Art Competition – Nahilus Ng received a Bronze prize for his mixed media illustration in ‘Draw My Stamp Story’ Art Competition. The competition, organised by the Singapore Philatelic Museum required participants to use local stamps as a starting point to create an artwork.</li>
-	<li style="font-size:14.5px;font-family:sans-serif;">2021 ‘Feed My Trashemon’ – Nantres Ng’s design for ‘Feed My Trashemon’ was organised by Public Health Council (PHC) in collaboration with MOE’s CCE Branch secured 8th place in the Top 10 designs.  The competition aimed at raising awareness on environmental issues.</li>
-	<li style="font-size:14.5px;font-family:sans-serif;"><a href="https://www.syf.gov.sg/art-exhibition/about-the-2022-art-exhibition">Singapore Youth Festival 2022 Art Exhibition: Artist and Sustainability</a> – Two of PHAC’s works were exhibited at this year’s ‘Artist and Sustainability’ SYF exhibition at the National Museum. The artworks are by Adlina Binte Mohammed Izad from the lower secondary category and Clara Lum, Chloe Liao and Tan Xiu Ru from the upper secondary.</li>
-	<div class="row" style="box-sizing: border-box;width:100%;"> 
-		<div class="column" style="box-sizing: border-box;  float: left; width: 50%; padding: 10px;">
-  			<img src="/images/PHAC-202101.jpeg" style="width:100%; margin-top: 12px;">
-			  			<img src="/images/PHAC-202102.jpeg" style="width:100%; margin-top: 12px;">
-  		</div>
-  		<div class="column" style="box-sizing: border-box;  float: left;width: 50%;padding: 10px;">
-	<img src="/images/PHAC-202103.jpeg" style="width:100%; margin-top: 12px;">
-			<img src="/images/PHAC-202104.jpeg" style="width:100%; margin-top: 12px;">
-		</div>  
-  	</div>	
+	<li style="font-size:14.5px;font-family:sans-serif;">‘Feed My Trashemon’ – 8th place in the Top 10 designs</li>
 </ul>
 	</td>
 </tr>
