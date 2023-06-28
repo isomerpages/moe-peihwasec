@@ -659,7 +659,7 @@ jaime_toh_guek_peng@moe.edu.sg
 </div>
 </li>
 
-<li><input id="accordion5" type="checkbox"> <label for="accordion5" style="font-family:Tahoma;">Secondary 4/5 Classes 2023</label>
+<li><input id="accordion5" type="checkbox"> <label for="accordion5" style="font-family:sans-serif;">Secondary 4/5 Classes 2023</label>
 <div>
 <table border="1" style="width:100%">
 <thead style="background-color: #54585d; font-weight: bold; font-size: 15.5px; border: 1px solid #54585d;">
