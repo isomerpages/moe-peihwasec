@@ -4,32 +4,43 @@ permalink: /ccas/clubs-societies/robotics/
 description: ""
 third_nav_title: Clubs & Societies
 ---
-<h4 style="color:#635f1a;font-weight:bold;font-family:sans-serif;">Student Outcomes</h4>
+<img style="width: 100%; height: auto;margin-top:30px;margin-bottom:30px;" alt="Image" src="https://raw.githubusercontent.com/isomerpages/moe-peihwasec/staging/images/CCA/roboticsclubbanner.png">
 
-<p style="font-size:14.5px; line-height:2;margin-top:15px; font-family:sans-serif">The CCA will enable our students to:</p>
-
-<ul style="margin-top:5px">
-<li style="font-size:14.5px; line-height:2;font-family:sans-serif;">innovate, think critically and work collaboratively with their peers in experimenting ideas and solving problems</li>
-<li style="font-size:14.5px; line-height:2;font-family:sans-serif;">develop robot construction and programming skills through exposure to a variety of robotics platforms</li>
-<li style="font-size:14.5px; line-height:2;font-family:sans-serif;">compete in internal and national competitions to pitch their skills against the best to build and programme robots to complete assigned missions in the most strategic and efficient manner.</li>
-</ul>
+<p style="font-size:14.5px; line-height:2 ;margin-top:5px; font-family:sans-serif;" class="description"><strong style="font-size:14.5px; line-height:2; font-family:sans-serif;">Pei Hwa Robotics Club</strong> plays an important role in Singapore’s Smart Nation initiative. In the Club, students innovate, think critically and work collaboratively with their peers in experimenting ideas and solving problems. They develop robot construction and programming skills through exposure to a variety of robotics platforms such as Cospace (Rescue, Autonomous Driving and OnStage), Arduino and many more. The students were given the opportunities to compete in national and international competitions where they pitch their skills against the best to build and programme robots to complete assigned missions in the most strategic and efficient manner.</p>
 	
-<h4 style="color:#635f1a;font-weight:bold;font-family:sans-serif;">Achievements</h4>
+<h3 style="margin-top:10px;font-weight: bold;color:#000000">Achievements</h3>
 
-<table style="border-collapse: collapse;margin: 25px 0;font-size:15px;font-family: sans-serif;box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);" border="1">
+<table style="border-collapse: collapse;margin: 25px 0;font-family: sans-serif;box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);" border="1">
 	
 <thead style="background-color: #009879; font-weight: bold; font-size: 15.5px;">
 	<tr>
-			<td style="text-align:left;color:white;font-family:Open Sans;">Year of Competition</td>
+			<td style="text-align:left;color:white;font-family:sans-serif;">Year of Competition</td>
 			<td style="text-align:left;color:white;font-family:sans-serif;">Attainment</td>
 		</tr>
 	</thead>
+	
 <tbody>
+
+<tr>
+<td style="font-size:14.5px;"><strong style="font-family:sans-serif;">2023</strong></td>
+	<td><strong style="font-family:sans-serif;font-size:15px;">RoboCup Singapore Open</strong>
+		<ul>
+			<li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">Cospace Rescue FirstSteps U19 1<sup>st</sup> Place - Ng Sze Qin Kaelyn (1P5), Seumus Koh (1P5), Cheonh Yue Heng Nathaniel (1P1)</li>
+			<li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">Cospace Rescue U19 3<sup>rd</sup> Place - Bryceton Lam (4D4), Lee Yee Jay (4D4)</li>
+			<li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">Cospace Rescue U19 Superteams 1st Place - Ritesh Sathiyamoorthi (3I8), Kieran Tan (3I5)</li>
+			<li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">Cospace Auto-Driving U19 2<sup>nd</sup> Place - Heng Sheng Jun Ashton (3I5), Tu Jinyang (2R8)</li>
+			<li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">Cospace Auto-Driving U19 Superteams 1<sup>st</sup> Place - Heng Sheng Jun Ashton (3I5), Tu Jinyang (2R8), Emil Azkiputrasha (3I1)</li>
+			<li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">OnStage U19 1<sup>st</sup> Place - Lim Junbin (4D2), Bryson Teo Zhi Kai (2R5), Haw Rui Heng (2R3), Heng Zeng Zi (2R6), Erlene Koh En (1P4)</li>
+			<li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">OnStage U19 2<sup>nd</sup> Place - Lai Le Xin Grace (4D4), Yan Ging Git (3I9), Chang Guan Zheng (3I9), Chong Yun Ting Felicia (2R4), Thiyagarajan Santosh (1P8)</li>
+			<li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">Cospace Auto-Driving Influencer Award 2<sup>nd</sup> Place - Shah Yashvi Tejas (4D8)</li>
+			<li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">Cospace Rescue Influencer Award 2<sup>nd</sup> Place - Devendran Venkatesh (2R3), Luke Matthias Quek Shou En (3I1)  </li>
+		</ul>
+	</td>
+</tr>
 	
 <tr>
 <td><strong style="font-size:14.5px; font-family:sans-serif;">2022</strong></td>
-	<td style="font-size:14.5px;">
-		<strong style="font-size:14.5px; font-family:sans-serif;">RoboCup Singapore Open</strong>
+	<td><strong style="font-family:sans-serif;font-size:15px;">RoboCup Singapore Open</strong>
 		<br>
 		<ul>
 			<li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;">OnStage 1<sup style="font-family:sans-serif;">st</sup> Place - 
@@ -51,8 +62,7 @@ Tay Kai Wen, Bryan (4D1), Lai Le Xin Grace (3I4), Ain Myeisha Arman (3I1), Chang
 	
 <tr style="background-color: #f3f3f3;">
 <td><strong style="font-size:14.5px; font-family:sans-serif;">2021</strong></td>
-	<td style="font-size:14.5px;">
-		<strong style="font-family:sans-serif;">Robocup Asia Pacific (held virtually at Aichi, Japan)</strong>
+	<td><strong style="font-family:sans-serif;font-size:15px;">Robocup Asia Pacific (held virtually at Aichi, Japan)</strong>
 		<br>
 		<ul>
 			<li style="font-size:14.5px;margin-bottom:5px;font-familysans-serif;">Cospace Rescue U19 2<sup style="font-family:sans-serif;">nd</sup> Place </li>
@@ -60,8 +70,7 @@ Tay Kai Wen, Bryan (4D1), Lai Le Xin Grace (3I4), Ain Myeisha Arman (3I1), Chang
             <li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;">Cospace Rescue U19 2<sup style="font-family:sans-serif;">nd</sup> Place (SuperTeam)</li>
 			<li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;">Cospace Autonomous Driving U19 Best Presentation </li>
 		</ul>
-		<br>
-		<strong style="font-size:14.5px;font-family:sans-serif;">RoboCup Singapore Open</strong>
+		<strong style="font-family:sans-serif;font-size:15px;">RoboCup Singapore Open</strong>
 		<br>
 		<ul>
 			<li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;">CoSpace Rescue, 2<sup style="font-family:sans-serif;">nd</sup> Place and Merit Award</li>
@@ -73,7 +82,7 @@ Tay Kai Wen, Bryan (4D1), Lai Le Xin Grace (3I4), Ain Myeisha Arman (3I1), Chang
 															
 <tr>
 <td style="font-size:14.5px;"><strong style="font-family:sans-serif;">2020</strong></td>
-	<td style="font-size:14.5px;"><strong style="font-family:sans-serif;">International Cospace Online Challenge</strong>
+	<td><strong style="font-family:sans-serif;font-size:15px;">International Cospace Online Challenge</strong>
 		<ul> 
 			<li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;">RoboCup Asia Pacific (RCAP) Cospace Grand Prix (GP) U19 Most Creative Presentation Award 1<sup style="font-family:sans-serif;">st</sup> Place</li>
                                 <li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;">RCAP Cospace GP U19 Best Presentation Award 3<sup style="font-family:Open Sans;">rd</sup> Place</li>
@@ -86,8 +95,7 @@ Tay Kai Wen, Bryan (4D1), Lai Le Xin Grace (3I4), Ain Myeisha Arman (3I1), Chang
 
 <tr style="background-color: #f3f3f3;">
 <td style="font-size:14.5px;"><strong style="font-family:sans-serif;">2019</strong></td>
-	<td style="font-size:14.5px;">
-                 <strong style="font-family:sans-serif;">RoboCupJunior Singapore Open</strong>
+	<td><strong style="font-family:sans-serif;font-size:15px;">RoboCupJunior Singapore Open</strong>
 		<ul> 
 			<li style="font-size:14.5px;font-family:sans-serif;">RoboCup Asia Pacific (RCAP) CoSpace Rescue U12 Challenge – 1<sup style="font-family:sans-serif;">st</sup> &amp; 2<sup style="font-family:sans-serif;">nd</sup> Place </li>
                                 <li style="font-size:14.5px;font-family:sans-serif;">RoboCup Asia Pacific (RCAP) CoSpace Rescue U19 Challenge –  1<sup style="font-family:sans-serif;">st</sup> &amp; 2<sup style="font-family:sans-serif;">nd</sup> Place</li>
@@ -97,11 +105,11 @@ Tay Kai Wen, Bryan (4D1), Lai Le Xin Grace (3I4), Ain Myeisha Arman (3I1), Chang
                                 <li style="font-size:14.5px;font-family:sans-serif;">Friendship Tournament – 1<sup style="font-family:sans-serif;">st</sup> place</li>
                                 <li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;">Best Achievement Award (3<sup style="font-family:sans-serif;">rd</sup> time)</li>
 	        </ul>
-                <strong style="font-size:14.5px;font-family:sans-serif;">ITE Robotics Challenge</strong>
+                <strong style="font-family:sans-serif;font-size:15px;">ITE Robotics Challenge</strong>
 		<ul> 
 			<li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;">Merit award in Tracing Challenge</li>
 	        </ul>
-             <strong style="font-family:sans-serif; font-size:14.5px;">3D Tronics Digital Making National Infocomm Competition</strong>
+             <strong style="font-family:sans-serif;font-size:15px;">3D Tronics Digital Making National Infocomm Competition</strong>
 		<ul> 
 			<li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;">3<sup style="font-family:sans-serif;">rd</sup> Place</li>
 	        </ul>
@@ -110,7 +118,7 @@ Tay Kai Wen, Bryan (4D1), Lai Le Xin Grace (3I4), Ain Myeisha Arman (3I1), Chang
 
 <tr>
 <td style="font-size:14.px;"><strong style="font-family:sans-serif;">2018</strong></td>
-	<td style="font-size:14.5px;"><strong style="font-family:sans-serif;">RoboCupJunior Singapore Open</strong>
+	<td><strong style="font-family:sans-serif;font-size:15px;">RoboCupJunior Singapore Open</strong>
 		<ul> 
 			<li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;">2<sup style="font-family:sans-serif;">nd</sup>, 3<sup style="font-family:sans-serif;">rd</sup> &amp; 4<sup style="font-family:sans-serif;">th</sup> Place (RoboCupJunior CoSpace Rescue)</li>
                                 <li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;">2<sup style="font-family:Open Sans;">nd</sup> &amp; 3<sup style="font-family:sans-serif;">rd</sup> Place (RoboCup Asia Pacific CoSpace Rescue)</li>
@@ -122,7 +130,7 @@ Tay Kai Wen, Bryan (4D1), Lai Le Xin Grace (3I4), Ain Myeisha Arman (3I1), Chang
 
 <tr style="background-color: #f3f3f3;border-bottom: 2px solid #009879;">
 <td style="font-size:14.5px;"><strong style="font-family:sans-serif;">2017</strong></td>
-	<td style="font-size:14.5px;"><strong style="font-family:sans-serif;">RoboCupJunior Singapore Open</strong>
+	<td><strong style="font-family:sans-serif;font-size:15px;">RoboCupJunior Singapore Open</strong>
 		<br>
 		<ul> 
 			<li style="font-size:14.5px;margin-bottom:5px;">1<sup style="font-family:sans-serif;">st</sup> 2<sup style="font-family:sans-serif;">nd</sup>, 3<sup style="font-family:sans-serif;">rd</sup> &amp; 4<sup style="font-family:sans-serif;">th</sup> Place (RoboCupJunior CoSpace Rescue)</li>
@@ -131,7 +139,7 @@ Tay Kai Wen, Bryan (4D1), Lai Le Xin Grace (3I4), Ain Myeisha Arman (3I1), Chang
                                 <li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;">1<sup style="font-family:sans-serif;">st</sup> &amp; 2<sup>nd</sup> Place (RoboCupJunior CoSpace Logistics)</li>                                
                                 <li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;">Best Achievement Award</li>
 		</ul>
-	<strong style="font-size:14.5px; font-family:sans-serif;">RoboCup 2017 (Nagoya, Japan)</strong>
+	<strong style="font-family:sans-serif;font-size:15px;">RoboCup 2017 (Nagoya, Japan)</strong>
 		<br>
 		<ul> 
 			<li style="font-size:14.5px; margin-bottom:5px;font-family:sans-serif;">2<sup style="font-family:sans-serif;">nd</sup> Place in RoboCupJunior CoSpace Rescue (under 14 category) Individual Team</li>
