@@ -148,76 +148,35 @@ Tay Kai Wen, Bryan (4D1), Lai Le Xin Grace (3I4), Ain Myeisha Arman (3I1), Chang
 </tbody>
 </table>
 
+<h3 style="margin-top:10px;font-weight: bold;color:#000000">CCA Activities</h3>
+<ul style="margin-top:5px">
+	<li style="font-size:14.5px; line-height:1.5 ;margin-top:5px; font-family:sans-serif;"> Robocup Singapore Open (Cospace Rescue, Cospace Autonomous Driving and Cospace OnStage)</li>
+<li style="font-size:14.5px; line-height:1.5 ;margin-top:5px; font-family:sans-serif;"> In-house Enrichments: Introduction to Python Programming Language, Intermediate Python, Data Science with Python</li>
+		<li style="font-size:14.5px; line-height:1.5 ;margin-top:5px; font-family:sans-serif;"> Arduino Programming</li>
+<li style="font-size:14.5px; line-height:1.5 ;margin-top:5px; font-family:sans-serif;"> AI with Huskylens and Micro:bit</li>
+		<li style="font-size:14.5px; line-height:1.5 ;margin-top:5px; font-family:sans-serif;"> Lego Mindstorms EV3</li>
+<li style="font-size:14.5px; line-height:1.5 ;margin-top:5px; font-family:sans-serif;"> Codomo Potato Pirates Coding Card Games</li>
+	</ul>
 	
-<h4 style="color:#635f1a;font-family:sans-serif;font-weight:bold;">Competitions and CCA Activities</h4>
+<h3 style="margin-top:10px;font-weight: bold;color:#000000">CCA Details</h3>
 
-<ol style="margin-top:5px">
-<li style="font-size:14.5px; line-height:2;font-family:sans-serif;">Robocup Singapore Open (Cospace Rescue, Cospace Grand Prix, OnStage)</li>
-<img style="width:100%; height:auto;" src="/images/Robotics.jpg">
-<li style="font-size:14.5px; line-height:2;font-family:sans-serif;">Finalists and Award winners of the 2022 Robocup Singapore Open</li>
-<li style="font-size:14.5px; line-height:2;font-family:sans-serif;">Introduction to Python Programming Language, Data Science with Python</li>
-<li style="font-size:14.5px; line-height:2;font-family:sans-serif;">Arduino Programming</li>
-<li style="font-size:14.5px; line-height:2;font-family:sans-serif;">Lego Mindstorms EV3</li>
-<li style="font-size:14.5px; line-height:2;font-family:sans-serif;">Machine Learning with Huskylens and Micro:bit</li>
-<li style="font-size:14.5px; line-height:2;font-family:sans-serif;">Codomo Potato Pirates Coding Card Games</li>
-<img style="width: 100%;margin-top:10px;" src="/images/collage.jpg">
-</ol>
-	
-
-<h4 style="color:#635f1a;margin-bottom:-25px;font-family:sans-serif;font-weight:bold;">Student Testament</h4>
-<blockquote style="font-size: 14.5px;
-  width:100%;
-  margin:50px auto;
-  font-family:serif;
-  font-style:italic;
-  color: #555555;
-  padding:1.2em 25px 1.2em 25px;
-  border-left:8px solid #78C0A8 ;
-  line-height:1.6;
-  position: relative;
-  background:#EDEDED;">
-<img align="left" src="/images/ROBOTICS05.jpg" style="width: 23%;margin-right:15px;">
-“Despite the COVID-19 pandemic which has created several disruptions not just in the CCA but throughout the world, I have learnt various skills during CCA that I can apply in my everyday life, in addition to technology. I look forward to the upcoming CCA sessions because I get to learn new programming languages and compete in various competitions.<br><br>
-Robotics nurtures us as future leaders in addition to being equipped with technological skills. I am grateful to have the opportunity to inspire the CCA's members to be leaders and problem-solvers. Leadership and technology have both increased in importance in the twenty-first century. The future of the Robotics Club excites me, and I look forward to the growth of the CCA.”
-  <span style="display:block; color:#333333; margin-top:1em;font-size:15px;font-family:sans-serif;"><em style="font-family:sans-serif;">Vice President, Ng Jun Lin, Cogan, Int 7</em></span>
-</blockquote>
-
-<blockquote style="font-size: 14.5px;
-  width:100%;
-  margin:50px auto;
-  font-family:serif;
-  font-style:italic;
-  color: #555555;
-  padding:1.2em 25px 1.2em 25px;
-  border-left:8px solid #78C0A8 ;
-  line-height:1.6;
-  position: relative;
-  background:#EDEDED;">
-<img align="left" src="/images/ROBOTICS6.jpg" style="width: 23%;margin-right:15px;">“Every week I am eager to attend CCA as the sessions are fun and I get learn new things. The teachers and instructors are very helpful and they leave none of our questions unanswered. Even though we are unable to go for some competitions due to the pandemic, we are able to make the best of what we have and excel in it. The Robotics Club gave me the opportunity to be a leader and I hope that we can continue to strive for excellence in the years to come”
-  <span style="display:block; color:#333333; margin-top:1em;font-size:15pxfont-family:sans-serif;;"><em style="font-family:sans-serif;">Assistant Secretary/Publicity, Shah Yashvi Tejas, Int 8</em></span><br>
-	</blockquote>
-
-<h4 style="color:#635f1a;font-family:sans-serif;font-weight:bold;">CCA Details</h4>
-<table border="1" style="width:100%;">
-	<tbody>
-		<tr>
-			<td style="background-color: #54585d; font-weight: bold; font-size: 14.5px; border: 1px solid #54585d; color:white;border-bottom: 1px solid #dddddd;width:24%;font-family:sans-serif;">Teacher-In-Charge</td>
-			<td style="border: 1px solid #dddfe1;font-size: 14.5px;font-family:sans-serif;">Mr Nicholas Ng</td>
-		</tr>
-
+<table style="width:100%;border-collapse: collapse;border: none;">
+	<tbody style="border: none;">
 <tr>
-			<td style="background-color: #54585d; font-weight: bold; font-size: 14.5px; border: 1px solid #54585d;border-bottom: 1px solid #dddddd; color:white;font-family:sans-serif;">CCA Teacher(s)</td>
-			<td style="border: 1px solid #dddfe1;font-size: 14.5px;font-family:sans-serif;">Mr Joel Neo<br>Mr Ronnie Goh<br>Ms Jane Lian</td>
+			<td style="font-weight: bold; font-size: 15px; border-bottom: 1px solid #dddddd;width:30%;font-family:sans-serif;">Teachers-in-Charge</td>
+			<td style="font-size: 14.5px; border-bottom: 1px solid #dddddd;font-family:sans-serif;line-height:1.5">Mr Nicholas Ng, Mr Joel Neo, Mr Ronnie Goh, Ms Jane Lian </td>
 		</tr>
-
 <tr>
-			<td style="background-color: #54585d; font-weight: bold; font-size: 14.5px; border: 1px solid #54585d; color:white;border-bottom: 1px solid #dddddd;font-family:sans-serif;">CCA Schedule</td>
-			<td style="border: 1px solid #dddfe1;font-size: 14.5px;font-family:sans-serif;">Tuesday 3.30pm - 6.00pm (for ad-hoc enrichment/intensive training for competition)<br>Fri, 2.30pm – 6.00pm (weekly CCA)</td>
+			<td style="font-weight: bold; font-size: 15px; border-bottom: 1px solid #dddddd;width:30%;font-family:sans-serif;">CCA Schedule</td>
+			<td style="font-size: 14.5px; border-bottom: 1px solid #dddddd;font-family:sans-serif;line-height:1.5">Tuesday 3.30pm - 6.00pm (only for ad-hoc enrichment/intensive training for competition)<br>
+Fridays 2.30-6pm
+</td>
 		</tr>
 		
 <tr>
-			<td style="background-color: #54585d; font-weight: bold; font-size: 14.5px; border: 1px solid #54585d; color:white;font-family:sans-serif;">Venues</td>
-			<td style="border: 1px solid #dddfe1;font-size: 14.5px;font-family:sans-serif;">Tue: Technology Room &amp; Computer Lab<br>Fri: Technology Room &amp; Computer Lab 4</td>
+			<td style="font-weight: bold; font-size: 15px; border-bottom: 1px solid #dddddd;width:30%;font-family:sans-serif;">Venues</td>
+			<td style="font-size: 14.5px; border-bottom: 1px solid #dddddd;font-family:sans-serif;">Technology Room 1 and 2, Computer Lab 4
+</td>
 		</tr>
 		
 </tbody>
