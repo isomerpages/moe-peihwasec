@@ -16,119 +16,113 @@ third_nav_title: Clubs & Societies
 	<li style="font-size:14.5px; line-height:1.5;font-family:sans-serif;"> develop into being a team player and work collaboratively with others</li>
 </ul>
 
-<h4 style="color:#635f1a;font-family:sans-serif;font-weight:bold;">Achievements</h4>
+<h3 style="margin-top:10px;font-weight: bold;color:#000000">Achievements</h3>
 
-<table border="1" style="border-collapse: collapse;margin: 25px 0;font-size:15px;box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);">
+<table style="border-collapse: collapse;margin: 25px 0;font-family: sans-serif;box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);" border="1">
 	
 <thead style="background-color: #009879; font-weight: bold; font-size: 15.5px;">
 	<tr>
-			<td style="text-align:left;color:white;font-familysans-serif;">Year of Competition</td>
+			<td style="text-align:left;color:white;font-family:sans-serif;">Year of Competition</td>
 			<td style="text-align:left;color:white;font-family:sans-serif;">Attainment</td>
 		</tr>
 	</thead>
-<tbody>
 	
-<tr style="border-bottom: 1px solid #dddddd;">
-<td><strong style="font-family:sans-serif;font-size:14.5px;">2016</strong></td>
-	<td style="font-size:14.5px;"><strong style="font-family:sans-serif;">Canon Photomarathon</strong>
-		<br>
-		<ul>
-			<li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;">2<sup>nd</sup> Runner-up (Carina Chew)</li>
-		</ul>
+<tbody>
+
+<tr>
+<td style="font-size:14.5px;"><strong style="font-family:sans-serif;">2016</strong></td>
+<td style="font-size:15px;"><strong style="font-family:sans-serif;">Canon Photomarathon</strong>
+	<ul> 
+	<li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">2<sup>nd</sup> Runner-up (Carina Chew)</li>
+	
+</ul>
 	</td>
 </tr>
-															
+	
 <tr style="background-color: #f3f3f3;">
 <td style="font-size:14.5px;"><strong style="font-family:sans-serif;">2013</strong></td>
-	<td style="font-size:14.5px;"><strong style="font-family:sans-serif;">Safety-starts-with-me Photo Competition</strong>
-		<ul> 
-			<li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;">Silver Award, $1000 Cash Prize (Aaron Lim Cheng Kiat)</li>
-		</ul>
+<td style="font-size:15px;"><strong style="font-family:sans-serif;">Safety-starts-with-me Photo Competition</strong>
+<br>
+<ul> 
+	<li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">Silver Award, $1000 Cash Prize (Aaron Lim Cheng Kiat)</li>
+</ul>
 	</td>
 </tr>
 
 <tr>
-<td style="font-size:14.5px;"><strong style="font-family:sans-serif;">2012</strong></td>
-	<td style="font-size:14.5px;"><strong style="font-family:sans-serif;">National Photography Competition 'Climate Change'</strong>
-		<ul> 
-			<li style="font-size:14.5px;font-family:sans-serif;">2<sup style="font-family:sans-serif;">nd</sup> Prize (Amanda Goh)</li>
-<li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;"> Consolation (Aaron Lim)</li>
-		</ul>
-	</td>
+<td><strong style="font-size:14.5px; font-family:sans-serif;">2012</strong></td>
+<td style="font-size:14.5px; margin-bottom:5px;"><strong style="font-family:sans-serif;">National Photography Competition 'Climate Change'</strong>
+<br>
+<ul>
+<li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;"> 2<sup>nd</sup> Prize (Amanda Goh)</li>
+	<li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;"> Consolation (Aaron Lim)</li>
+	</ul>
+</td>
 </tr>
-
+														
 <tr style="background-color: #f3f3f3;">
 <td style="font-size:14.5px;"><strong style="font-family:sans-serif;">2011</strong></td>
-	<td style="font-size:14.5px;"><strong style="font-family:sans-serif;">Canon Photomarathon</strong>
-		
+<td style="font-size:15px;"><strong style="font-family:sans-serif;">Canon Photomarathon</strong>
+<br>
 <ul> 
-			<li style="font-size:14.5px;font-family:sans-serif;">Student Category Winner (Douglas Tham)</li>
-<li style="font-size:14.5px;font-family:sans-serif;"> Best of Show Student Category Winner (Douglas Tham)</li>
-<li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;"> School's Challenge Winner</li>
-		</ul>
-<strong style="font-size:14.5px;font-family:sans-serif;">Freshness of Life by School of Photography</strong>
-		<br>
-		<ul> 
-			<li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;">1<sup style="font-family:Open Sans;">st</sup> Prize (Dion Lim)</li>
-		</ul>
-	<strong style="font-size:14.5px;font-family:sans-serif;">N3 Cluster International Friendship Day Photography Competition</strong>
-		<br>
-		<ul> 
-			<li style="font-size:14.5px; margin-bottom:5px;font-family:sans-serif;"> 1<sup>st</sup> Prize</li>
-		</ul>
+<li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;"> Student Category Winner (Douglas Tham)</li>
+	<li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;"> Best of Show Student Category Winner (Douglas Tham)</li>
+	<li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;"> School's Challenge Winner</li>
+</ul>
+	<strong style="font-family:sans-serif;">Freshness of Life by School of Photography</strong>
+<br>
+<ul> 
+<li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;"> 1<sup>st</sup> Prize (Dion Lim)</li>
+</ul>
+		<strong style="font-family:sans-serif;">N3 Cluster International Friendship Day Photography Competition</strong>
+<br>
+<ul> 
+<li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;"> 1<sup>st</sup> Prize</li>
+</ul>
 	</td>
 </tr>
-
+	
 <tr>
-<td style="font-size:14.5px;"><strong style="font-family:sans-serif;">2009</strong></td>
-	<td style="font-size:14.5px;"><strong style="font-size:14.5px; font-family:sans-serif;">Straits Times National Schools Newspaper Competition</strong>
-		<br>
-		<ul> 
-			<li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;"> Consolation Prize</li>
-		</ul>
-	<strong style="font-size:14.5px; font-family:sans-serif;">HDB Competition</strong>
-		<br>
-		<ul> 
-			<li style="font-size:14.5px; margin-bottom:5px;font-family:sans-serif;"> Consolation Prize (Douglas Tham)</li>
-		</ul>
-	</td>
+<td><strong style="font-size:14.5px; font-family:sans-serif;">2009</strong></td>
+<td style="font-size:14.5px; margin-bottom:5px;"><strong style="font-family:sans-serif;">Straits Times National Schools Newspaper Competition</strong>
+<br>
+<ul>
+<li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;"> Consolation Prize</li>
+	</ul>
+	<strong style="font-family:sans-serif;">HDB Competition</strong>
+<br>
+<ul>
+<li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;"> Consolation Prize</li>
+	</ul>
+</td>
 </tr>
-
-<tr style="background-color: #f3f3f3;border-bottom: 2px solid #009879;">
+														
+<tr style="border-bottom: 2px solid #009879;background-color: #f3f3f3;">
 <td style="font-size:14.5px;"><strong style="font-family:sans-serif;">2008</strong></td>
-	<td style="font-size:14.5px;"><strong style="font-family:sans-serif;">Straits Times National Schools Newspaper Competition</strong>
-		<br>
-		<ul> 
-			<li style="font-size:14.5px; margin-bottom:5px;font-family:sans-serif;"> Consolation Prize</li>
-		</ul>
-	<strong style="font-size:14.5px;font-family:sans-serif;">GMAC Competition</strong>
-		<br>
-		<ul> 
-			<li style="font-size:14.5px; margin-bottom:5px;font-family:sans-serif;"> 3<sup style="font-family:sans-serif;">rd</sup> Place (Lim Ying Yun, Martin Goh, Charmaine Toh, Saw Jia Hui)</li>
-		</ul>
+<td style="font-size:15px;"><strong style="font-family:sans-serif;">Straits Times National Schools Newspaper Competition</strong>
+<br>
+<ul> 
+<li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;"> Consolation Prize</li>
+</ul>
+	<strong style="font-family:sans-serif;">GMAC Competition</strong>
+<br>
+<ul> 
+<li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">	3<sup>rd</sup> Place (Lim Ying Yun, Martin Goh, Charmaine Toh, Saw Jia Hui)</li>
+</ul>
 	</td>
 </tr>
-												
+	
 </tbody>
 </table>
 
-<h4 style="color:#635f1a;font-family:sans-serif;font-weight:bold;">Competitions and CCA Activities</h4>
-<p style="font-size:14.5px; line-height:2;margin-top:15px; font-family:sans-serif;">Our CCA members are given the opportunity to apply their photography and videography knowledge and skills in various platforms. Some of the non-competition platforms are:</p>
+<h3 style="margin-top:10px;font-weight: bold;color:#000000">CCA Activities</h3>
+<p style="font-size:14.5px; line-height:2;margin-top:15px; font-family:sans-serif;">Our CCA members are given the opportunity to apply their photography and videography knowledge and skills in various platforms. This allows them to explore photojournalism, broadcast journalism and digital journalism. Some of the platforms are:</p>
 
-<ul style="margin-top:5px;">
-<li style="font-size:14.5px; line-height:2;font-family:sans-serif;"> school events and celebrations</li>
-<li style="font-size:14.5px; line-height:2;font-family:sans-serif;"> Pei Hwa CCA Photo</li>
-<li style="font-size:14.5px; line-height:2;font-family:sans-serif;"> student-led CCA activities/ projects</li>
-<img style="width: 85%;" src="/images/ph1.jpg">
-<p style="text-align: center; font-size:10px;margin-top:-5px;">NCC CCA photo taking by PH Times</p>
-</ul>
-
-<p style="margin-top:15px;font-size:14.5px; line-height:2;font-family:sans-serif;">Our CCA also encourages members to take part in the following competitions:</p>
-<ul style="margin-top:5px;">
-<li style="font-size:14.5px; line-height:2;font-family:sans-serif;"> Our School, Our Stories Photo Contest</li>
-<li style="font-size:14.5px; line-height:2;font-family:sans-serif;"> Anti Drug Video Competition</li>
+<ul style="margin-top:5px">
+	<li style="font-size:14.5px; line-height:1.5 ;margin-top:5px; font-family:sans-serif;"> school events and celebrations</li>
+<li style="font-size:14.5px; line-height:1.5 ;margin-top:5px; font-family:sans-serif;"> student-led CCA activities / projects</li>
 	</ul>
-	
+
 <h4 style="color:#635f1a;font-weight:bold;margin-bottom:-25px;font-family:sans-serif;">Student Testament</h4>
 <blockquote style="font-size: 15px;
   width:100%;
