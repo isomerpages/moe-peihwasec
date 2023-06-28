@@ -4,7 +4,7 @@ permalink: /ccas/clubs-societies/infocomm-club/
 description: ""
 third_nav_title: Clubs & Societies
 ---
-<img style="width: 100%; height: auto;margin-top:30px;margin-bottom:30px;" alt="Image" src="https://raw.githubusercontent.com/isomerpages/moe-peihwasec/staging/images/CCA/picture01-infocomm.png">
+<img style="width: 100%; height: auto;margin-top:30px;margin-bottom:30px;" alt="Image" src="https://raw.githubusercontent.com/isomerpages/moe-peihwasec/staging/images/CCA/infocommbanner.png">
 
 <p style="font-size:14.5px; line-height:1.5;margin-top:5px; font-family:sans-serif;" class="description">The Infocomm Club is a co-curricular activity that centers around the domains of information, communication, and technology.</p>
 
@@ -12,11 +12,11 @@ third_nav_title: Clubs & Societies
 
 <p style="font-size:14.5px; line-height:1.5 ;margin-top:5px; font-family:sans-serif;" class="description">Within the realm of Infocomm, participants acquire the skills necessary to utilise technology as a means of effectively conveying information to their intended audience. Members are provided with the opportunity to develop technical proficiencies in animation, photo editing, and video editing. Moreover, they can acquire knowledge pertaining to employing digital media for the purpose of engaging in impactful communication. Armed with these acquired competencies, students are empowered to transform their creative ideas into digital artefacts suitable for diverse applications such as school events, competitions, and projects. Additionally, the Infocomm Club fosters a safe and collaborative environment, enabling members to engage in group work and collaboration.</p>
 
-<img style="width: 100%; height: auto;margin-top:20px;margin-bottom:30px;" alt="Image" src="https://raw.githubusercontent.com/isomerpages/moe-peihwasec/staging/images/CCA/infocomm-picture06new.png">
+<img style="width: 100%; height: auto;margin-top:20px;margin-bottom:30px;" alt="Image" src="https://raw.githubusercontent.com/isomerpages/moe-peihwasec/staging/images/CCA/infocommclub01.png">
 
 <p style="font-size:14.5px; line-height:1.5 ;margin-top:5px; font-family:sans-serif;" class="description">The Infocomm Club encompasses a subsidiary group known as the Audio Visual Aid (AVA) Club. The primary focus of the AVA Club lies in supporting our school by providing audio and visual services. Within this sub-group, AVA crew members gain proficiency in setting up audio and visual equipment for various school performances. However, it should be noted that membership in the Infocomm Club does not automatically indicate membership in the AVA Club. Infocomm Club members have the option to volunteer for AVA training, upon successful completion of which they can join the AVA crew as members.</p>
 
-<img style="width: 100%; height: auto;margin-top:20px;margin-bottom:30px;" alt="Image" src="https://raw.githubusercontent.com/isomerpages/moe-peihwasec/staging/images/CCA/infocomm-picture0680.png">
+<img style="width: 100%; height: auto;margin-top:20px;margin-bottom:30px;" alt="Image" src="https://raw.githubusercontent.com/isomerpages/moe-peihwasec/staging/images/CCA/infocommclubava.png">
 
 <h3 style="margin-top:10px;font-weight: bold;color:#000000">Achievements</h3>
 
