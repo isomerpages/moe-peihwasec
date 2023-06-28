@@ -6,15 +6,15 @@ third_nav_title: Clubs & Societies
 ---
 <img style="width: 100%; height: auto;margin-top:30px;margin-bottom:30px;" alt="Image" src="https://raw.githubusercontent.com/isomerpages/moe-peihwasec/staging/images/CCA/infocommbanner.png">
 
-<p style="font-size:14.5px; line-height:2;margin-top:5px; font-family:sans-serif;letter-spacing:0.2px;" class="description">The Infocomm Club is a co-curricular activity that centers around the domains of information, communication, and technology.</p>
+<p style="font-size:14.5px; line-height:2 ;margin-top:5px; font-family:sans-serif;" class="description">The Infocomm Club is a co-curricular activity that centers around the domains of information, communication, and technology.</p>
 
 <img style="width: 70%; height: auto;margin-top:0px;margin-bottom:30px;" alt="Image" src="https://raw.githubusercontent.com/isomerpages/moe-peihwasec/staging/images/CCA/infocomm-picture06.png">
 
-<p style="font-size:14.5px;line-height:2;margin-top:5px; font-family:sans-serif;letter-spacing:0.2px" class="description">Within the realm of Infocomm, participants acquire the skills necessary to utilise technology as a means of effectively conveying information to their intended audience. Members are provided with the opportunity to develop technical proficiencies in animation, photo editing, and video editing. Moreover, they can acquire knowledge pertaining to employing digital media for the purpose of engaging in impactful communication. Armed with these acquired competencies, students are empowered to transform their creative ideas into digital artefacts suitable for diverse applications such as school events, competitions, and projects. Additionally, the Infocomm Club fosters a safe and collaborative environment, enabling members to engage in group work and collaboration.</p>
+<p style="font-size:14.5px; line-height:2 ;margin-top:5px; font-family:sans-serif;" class="description">Within the realm of Infocomm, participants acquire the skills necessary to utilise technology as a means of effectively conveying information to their intended audience. Members are provided with the opportunity to develop technical proficiencies in animation, photo editing, and video editing. Moreover, they can acquire knowledge pertaining to employing digital media for the purpose of engaging in impactful communication. Armed with these acquired competencies, students are empowered to transform their creative ideas into digital artefacts suitable for diverse applications such as school events, competitions, and projects. Additionally, the Infocomm Club fosters a safe and collaborative environment, enabling members to engage in group work and collaboration.</p>
 
 <img style="width: 100%; height: auto;margin-top:20px;margin-bottom:30px;" alt="Image" src="https://raw.githubusercontent.com/isomerpages/moe-peihwasec/staging/images/CCA/infocommclub01.png">
 
-<p style="font-size:14.5px; line-height:2;margin-top:5px; font-family:sans-serif;letter-spacing:0.2px" class="description">The Infocomm Club encompasses a subsidiary group known as the Audio Visual Aid (AVA) Club. The primary focus of the AVA Club lies in supporting our school by providing audio and visual services. Within this sub-group, AVA crew members gain proficiency in setting up audio and visual equipment for various school performances. However, it should be noted that membership in the Infocomm Club does not automatically indicate membership in the AVA Club. Infocomm Club members have the option to volunteer for AVA training, upon successful completion of which they can join the AVA crew as members.</p>
+<p style="font-size:14.5px; line-height:2 ;margin-top:5px; font-family:sans-serif;" class="description">The Infocomm Club encompasses a subsidiary group known as the Audio Visual Aid (AVA) Club. The primary focus of the AVA Club lies in supporting our school by providing audio and visual services. Within this sub-group, AVA crew members gain proficiency in setting up audio and visual equipment for various school performances. However, it should be noted that membership in the Infocomm Club does not automatically indicate membership in the AVA Club. Infocomm Club members have the option to volunteer for AVA training, upon successful completion of which they can join the AVA crew as members.</p>
 
 <img style="width: 100%; height: auto;margin-top:20px;margin-bottom:30px;" alt="Image" src="https://raw.githubusercontent.com/isomerpages/moe-peihwasec/staging/images/CCA/infocommclubava.png">
 
@@ -22,49 +22,49 @@ third_nav_title: Clubs & Societies
 
 <table border="1" style="border-collapse: collapse;margin: 25px 0;font-size:15px;font-family: sans-serif;box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);line-height:1.3;">
 	
-<thead style="background-color: #009879; font-weight: bold; font-size: 15.5px;line-height:1.3;">
-	<tr style="line-height:1.3;">
-			<td style="text-align:left;color:white;font-family:sans-serif;letter-spacing:0.2px">Year of Competition</td>
-			<td style="text-align:left;color:white;font-family:sans-serif;letter-spacing:0.2px">Attainment</td>
+<thead style="background-color: #009879; font-weight: bold; font-size: 15.5px;">
+	<tr>
+			<td style="text-align:left;color:white;font-family:sans-serif;">Year of Competition</td>
+			<td style="text-align:left;color:white;font-family:sans-serif;">Attainment</td>
 		</tr>
 	</thead>
 	
 <tbody>
 <tr style="border-bottom: 1px solid #dddddd;">
-<td><strong style="font-size:14.5px; font-family:sans-serif;letter-spacing:0.2px">2012</strong></td>
-	<td style="font-size:14.5px;"><strong style="font-family:sans-serif;line-height:1.5;letter-spacing:0.2px">National Infocomm Club Awards</strong>
+<td><strong style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">2012</strong></td>
+	<td style="font-size:14.5px;"><strong style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">National Infocomm Club Awards</strong>
 		<br>
 		<ul style="margin-top:-5px">
-			<li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;letter-spacing:0.2px">The Choice Award</li>
+			<li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">The Choice Award</li>
 		</ul>
 	</td>
 </tr>
 															
 <tr style="background-color: #f3f3f3;line-height:1.3;">
-<td style="font-size:14.5px;"><strong style="font-family:sans-serif;letter-spacing:0.2px">2011</strong></td>
-	<td style="font-size:14.5px;"><strong style="font-family:sans-serif;line-height:1.5;letter-spacing:0.2px">North Zone Comic Life Competition</strong>
+<td style="font-size:14.5px;"><strong style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">2011</strong></td>
+	<td style="font-size:14.5px;"><strong style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">North Zone Comic Life Competition</strong>
 		<br>
 		<ul style="margin-top:-5px"> 
-			<li style="font-size:14.5px;font-family:sans-serif;line-height:1.5;letter-spacing:0.2px"> 1<sup>st</sup> Position (Lee Jia Jing)</li>
-		<li style="font-size:14.5px;font-family:sans-serif;line-height:1.5;letter-spacing:0.2px"> 2<sup>nd</sup> Position (Tan Xing Wei)</li>
-		<li style="font-size:14.5px;margin-bottom:-5px;font-family:sans-serif;line-height:1.5;letter-spacing:0.2px"> 3<sup>rd</sup> Position (Ku Wan Jing)</li>
+			<li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;"> 1<sup>st</sup> Position (Lee Jia Jing)</li>
+		<li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;"> 2<sup>nd</sup> Position (Tan Xing Wei)</li>
+		<li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;"> 3<sup>rd</sup> Position (Ku Wan Jing)</li>
 		</ul>
-		<strong style="font-family:sans-serif;letter-spacing:0.2px">Digital Music Carnival 2 Competition (organised by Elchemi Education)</strong>
+		<strong style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">Digital Music Carnival 2 Competition (organised by Elchemi Education)</strong>
 		<ul style="margin-top:-5px;">
-			<li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;letter-spacing:0.2px">  Gold Award</li>
+			<li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">  Gold Award</li>
 		</ul>
 	</td>
 </tr>
 		
 <tr style="border-bottom: 2px solid #009879; font-size:15px;">
-<td><strong style="font-family:sans-serif;font-size:14.5px;letter-spacing:0.2px">2010</strong></td>
-	<td style="font-size:14,5px;"><strong style="font-family:sans-serif;line-height:1.5;letter-spacing:0.2px">NorthZone ICT Competition (Comics)</strong>
+<td><strong style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">2010</strong></td>
+	<td style="font-size:14,5px;"><strong style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">NorthZone ICT Competition (Comics)</strong>
 		<br>
 		<ul style="margin-top:-5px">
-			<li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;letter-spacing:0.2px"> 1<sup>st</sup> Place (Secondary Category)</li>
+			<li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;"> 1<sup>st</sup> Place (Secondary Category)</li>
 		</ul>
-		<strong style="font-family:sans-serif; font-size:14.5px;line-height:1.5;letter-spacing:0.2px">Digital Music Carnival(organised by Elchemi Education)</strong><ul>
-		<li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;letter-spacing:0.2px"> Gold Award (Avante Garde Category)</li>
+		<strong style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">Digital Music Carnival(organised by Elchemi Education)</strong><ul>
+		<li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;"> Gold Award (Avante Garde Category)</li>
 		</ul>
 	</td>
 </tr>
@@ -76,16 +76,16 @@ third_nav_title: Clubs & Societies
 <h3 style="margin-top:10px;font-weight: bold;color:#000000">CCA Activities</h3>
 
 <ul style="margin-top:5px">
-	<li style="font-size:14.5px; line-height:2;font-family:sans-serif;letter-spacing:0.2px"> Sec 1: Animation (e.g. Stop Motion &amp; Scratch)</li>
-<li style="font-size:14.5px; line-height:2;font-family:sans-serif;letter-spacing:0.2px"> Sec 2: Photo &amp; Illustration (e.g. Adobe Photoshop &amp; Adobe Illustrator)</li>
-<li style="font-size:14.5px; line-height:2;font-family:sans-serif;letter-spacing:0.2px"> Sec 3: Visual Effects &amp; Video Editing (e.g. Adobe After Effects &amp; Adobe Premier Pro)</li>
+	<li style="font-size:14.5px; line-height:1.5 ;margin-top:5px; font-family:sans-serif;"> Sec 1: Animation (e.g. Stop Motion &amp; Scratch)</li>
+<li style="font-size:14.5px; line-height:1.5 ;margin-top:5px; font-family:sans-serif;"> Sec 2: Photo &amp; Illustration (e.g. Adobe Photoshop &amp; Adobe Illustrator)</li>
+<li style="font-size:14.5px; line-height:1.5 ;margin-top:5px; font-family:sans-serif;"> Sec 3: Visual Effects &amp; Video Editing (e.g. Adobe After Effects &amp; Adobe Premier Pro)</li>
 	</ul>
 
 <h3 style="margin-top:10px;font-weight: bold;color:#000000">CCA Competitions</h3>
 
 <ul style="margin-top:5px">
-	<li style="font-size:14.5px; line-height:2;font-family:sans-serif;letter-spacing:0.2px"> Schools Digital Media Awards</li>
-<li style="font-size:14.5px; line-height:2;font-family:sans-serif;letter-spacing:0.2px"> NEmation</li>
+	<li style="font-size:14.5px; line-height:1.5 ;margin-top:5px; font-family:sans-serif;"> Schools Digital Media Awards</li>
+<li style="font-size:14.5px; line-height:1.5 ;margin-top:5px; font-family:sans-serif;"> NEmation</li>
 	</ul>
 
 <h3 style="margin-top:10px;font-weight: bold;color:#000000">CCA Details</h3>
