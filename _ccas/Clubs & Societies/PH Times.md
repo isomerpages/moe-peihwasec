@@ -122,6 +122,25 @@ third_nav_title: Clubs & Societies
 	<li style="font-size:14.5px; line-height:1.5 ;margin-top:5px; font-family:sans-serif;"> school events and celebrations</li>
 <li style="font-size:14.5px; line-height:1.5 ;margin-top:5px; font-family:sans-serif;"> student-led CCA activities / projects</li>
 	</ul>
+	
+<div style="display: flex;" class="flex-container"> 
+  <div style="flex: 1; margin: 10px; padding: 10px;width" class="flex-item"> 
+    <img class="image" alt="Image" style="display: block;border-radius: 20px;" src="https://img.koreatimes.co.kr/upload/newsV2/images/202104/2a0c19f6b74c48e7bf1dfe569048c573.jpg">
+      <h5 style="font-weight: bold;margin: 15px 0;color:#0B6623;font-size:18px;text-align:left;" class="header">Lower Secondary</h5>
+
+  </div> 
+  <div style="flex: 1; margin: 10px; padding: 10px;" class="flex-item">
+    <img class="image" alt="Image" style="display: block;border-radius: 20px;" src="https://img.koreatimes.co.kr/upload/newsV2/images/202104/2a0c19f6b74c48e7bf1dfe569048c573.jpg">
+          <h5 style="font-weight: bold;margin: 0;color:#0B6623;font-size:18px;text-align:left;margin: 15px 0;" class="header">Upper Secondary </h5>
+	      <img class="image" alt="Image" style="display: block;border-radius: 20px;" src="https://img.koreatimes.co.kr/upload/newsV2/images/202104/2a0c19f6b74c48e7bf1dfe569048c573.jpg">
+      <h5 style="font-weight: bold;margin: 15px 0;color:#0B6623;font-size:18px;text-align:left;" class="header">Lower Secondary</h5>
+
+  </div> 
+  <div style="flex: 1; margin: 10px; padding: 10px;" class="flex-item">
+    <img class="image" alt="Image" style="display: block;border-radius: 20px;" src="https://img.koreatimes.co.kr/upload/newsV2/images/202104/2a0c19f6b74c48e7bf1dfe569048c573.jpg">
+          <h5 style="font-weight: bold;margin: 0;color:#0B6623;font-size:18px;text-align:left;margin: 15px 0;" class="header">Upper Secondary </h5>
+  </div> 
+</div>
 
 <h4 style="color:#635f1a;font-weight:bold;margin-bottom:-25px;font-family:sans-serif;">Student Testament</h4>
 <blockquote style="font-size: 15px;
