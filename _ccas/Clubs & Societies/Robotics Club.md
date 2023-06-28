@@ -22,7 +22,7 @@ third_nav_title: Clubs & Societies
 <tbody>
 
 <tr>
-<td style="font-size:14.5px;"><strong style="font-family:sans-serif;">2023</strong></td>
+<td style="font-size:14.5px;"><strong style="font-family:sans-serif;font-size:14.5px;">2023</strong></td>
 	<td><strong style="font-family:sans-serif;font-size:15px;">RoboCup Singapore Open</strong>
 		<ul>
 			<li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">Cospace Rescue FirstSteps U19 1<sup>st</sup> Place - Ng Sze Qin Kaelyn (1P5), Seumus Koh (1P5), Cheonh Yue Heng Nathaniel (1P1)</li>
@@ -39,7 +39,7 @@ third_nav_title: Clubs & Societies
 </tr>
 	
 <tr>
-<td><strong style="font-size:14.5px; font-family:sans-serif;">2022</strong></td>
+<td><strong style="font-family:sans-serif;font-size:14.5px;">2022</strong></td>
 	<td><strong style="font-family:sans-serif;font-size:15px;">RoboCup Singapore Open</strong>
 		<br>
 		<ul>
@@ -61,7 +61,7 @@ Tay Kai Wen, Bryan (4D1), Lai Le Xin Grace (3I4), Ain Myeisha Arman (3I1), Chang
 </tr>
 	
 <tr style="background-color: #f3f3f3;">
-<td><strong style="font-size:14.5px; font-family:sans-serif;">2021</strong></td>
+<td><strong style="font-family:sans-serif;font-size:14.5px;">2021</strong></td>
 	<td><strong style="font-family:sans-serif;font-size:15px;">Robocup Asia Pacific (held virtually at Aichi, Japan)</strong>
 		<br>
 		<ul>
@@ -81,7 +81,7 @@ Tay Kai Wen, Bryan (4D1), Lai Le Xin Grace (3I4), Ain Myeisha Arman (3I1), Chang
 </tr>
 															
 <tr>
-<td style="font-size:14.5px;"><strong style="font-family:sans-serif;">2020</strong></td>
+<td><strong style="font-family:sans-serif;font-size:14.5px;">2020</strong></td>
 	<td><strong style="font-family:sans-serif;font-size:15px;">International Cospace Online Challenge</strong>
 		<ul> 
 			<li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;">RoboCup Asia Pacific (RCAP) Cospace Grand Prix (GP) U19 Most Creative Presentation Award 1<sup style="font-family:sans-serif;">st</sup> Place</li>
@@ -94,7 +94,7 @@ Tay Kai Wen, Bryan (4D1), Lai Le Xin Grace (3I4), Ain Myeisha Arman (3I1), Chang
 </tr>
 
 <tr style="background-color: #f3f3f3;">
-<td style="font-size:14.5px;"><strong style="font-family:sans-serif;">2019</strong></td>
+<td><strong style="font-family:sans-serif;font-size:14.5px;">2019</strong></td>
 	<td><strong style="font-family:sans-serif;font-size:15px;">RoboCupJunior Singapore Open</strong>
 		<ul> 
 			<li style="font-size:14.5px;font-family:sans-serif;">RoboCup Asia Pacific (RCAP) CoSpace Rescue U12 Challenge – 1<sup style="font-family:sans-serif;">st</sup> &amp; 2<sup style="font-family:sans-serif;">nd</sup> Place </li>
@@ -117,7 +117,7 @@ Tay Kai Wen, Bryan (4D1), Lai Le Xin Grace (3I4), Ain Myeisha Arman (3I1), Chang
 </tr>
 
 <tr>
-<td style="font-size:14.px;"><strong style="font-family:sans-serif;">2018</strong></td>
+<td><strong style="font-family:sans-serif;font-size:14.5px;">2018</strong></td>
 	<td><strong style="font-family:sans-serif;font-size:15px;">RoboCupJunior Singapore Open</strong>
 		<ul> 
 			<li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;">2<sup style="font-family:sans-serif;">nd</sup>, 3<sup style="font-family:sans-serif;">rd</sup> &amp; 4<sup style="font-family:sans-serif;">th</sup> Place (RoboCupJunior CoSpace Rescue)</li>
@@ -129,7 +129,7 @@ Tay Kai Wen, Bryan (4D1), Lai Le Xin Grace (3I4), Ain Myeisha Arman (3I1), Chang
 </tr>
 
 <tr style="background-color: #f3f3f3;border-bottom: 2px solid #009879;">
-<td style="font-size:14.5px;"><strong style="font-family:sans-serif;">2017</strong></td>
+<td><strong style="font-family:sans-serif;font-size:14.5px;">2017</strong></td>
 	<td><strong style="font-family:sans-serif;font-size:15px;">RoboCupJunior Singapore Open</strong>
 		<br>
 		<ul> 
