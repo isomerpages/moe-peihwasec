@@ -126,21 +126,17 @@ third_nav_title: Clubs & Societies
 <div style="display: flex; flex-wrap: wrap; justify-content: space-between; max-width: 800px; margin: 0 auto;" class="image-container">
 	<div style="width: 45%; margin-bottom: 20px; box-sizing: border-box; text-align: center;" class="image-box">
     <img style="width: 100%; margin-bottom: 10px;" alt="Image 1" src="https://raw.githubusercontent.com/isomerpages/moe-peihwasec/staging/images/CCA/phtimesbanner.png">
-    <h5 style="font-weight: 700;margin: 0;color:#F8BF58;font-size:18px;font-family:sans-serif;margin0;" class="header">Lee Daniel</h5>
     <p style="font-size:14.5px; line-height:1.5 ;margin:0; font-family:sans-serif;">Head of Operation</p>
   </div>
 	<div style="width: 45%; margin-bottom: 20px; box-sizing: border-box; text-align: center;" class="image-box">
     <img style="width: 100%; margin-bottom: 10px;" alt="Image 1" src="https://raw.githubusercontent.com/isomerpages/moe-peihwasec/staging/images/CCA/phtimesbanner.png">
-    <h5 style="font-weight: 700;margin: 0;color:#F8BF58;font-size:18px;font-family:sans-serif;margin0;" class="header">Lee Daniel</h5>
     <p style="font-size:14.5px; line-height:1.5 ;margin:0; font-family:sans-serif;">Head of Operation</p>
   </div>
 	<div style="width: 45%; margin-bottom: 20px; box-sizing: border-box; text-align: center;" class="image-box">
     <img style="width: 100%; margin-bottom: 10px;" alt="Image 1" src="https://raw.githubusercontent.com/isomerpages/moe-peihwasec/staging/images/CCA/phtimesbanner.png">
-    <h5 style="font-weight: 700;margin: 0;color:#F8BF58;font-size:18px;font-family:sans-serif;margin0;" class="header">Lee Daniel</h5>
     <p style="font-size:14.5px; line-height:1.5 ;margin:0; font-family:sans-serif;">Head of Operation</p>
   </div><div style="width: 45%; margin-bottom: 20px; box-sizing: border-box; text-align: center;" class="image-box">
     <img style="width: 100%; margin-bottom: 10px;" alt="Image 1" src="https://raw.githubusercontent.com/isomerpages/moe-peihwasec/staging/images/CCA/phtimesbanner.png">
-    <h5 style="font-weight: 700;margin: 0;color:#F8BF58;font-size:18px;font-family:sans-serif;margin0;" class="header">Lee Daniel</h5>
     <p style="font-size:14.5px; line-height:1.5 ;margin:0; font-family:sans-serif;">Head of Operation</p>
   </div>
 </div>
