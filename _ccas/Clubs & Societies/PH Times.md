@@ -4,14 +4,16 @@ permalink: /ccas/clubs-societies/ph-times/
 description: ""
 third_nav_title: Clubs & Societies
 ---
+<img style="width: 100%; height: auto;margin-top:30px;margin-bottom:30px;" alt="Image" src="https://raw.githubusercontent.com/isomerpages/moe-peihwasec/staging/images/CCA/phtimesbanner.png">
+
 <p style="font-size:14.5px; line-height:2;font-family:sans-serif;"><strong style="font-size:14.5px; font-family:sans-serif;">Pei Hwa Times (PH Times) </strong> provides the opportunity for our members to develop technical skills about photography and videography. With these skills, our members will then have the opportunity to embark on a journalism journey; photojournalism and video journalism. We seek to help our members realise their potential and build resilience as well as confidence as they get their heart, head and hands on the journalism journey.</p>
 
-<h4 style="color:#635f1a;font-family:sans-serif;font-weight:bold;">Student Outcomes</h4>
-<p style="font-size:14.5px; line-height:2;margin-top:15px; font-family:sans-serif;">The CCA will enable our students to:</p>
+
+<p style="font-size:14.5px; line-height:1.5;margin-top:15px; font-family:sans-serif;">The CCA will enable our students to:</p>
 <ul style="margin-top:5px;">
-	<li style="font-size:14.5px; line-height:2;font-family:sans-serif;"> acquire and apply basic photography and videography knowledge and skills</li>
-	<li style="font-size:14.5px; line-height:2;font-family:sans-serif;"> demonstrate creativity through photography and videography activities</li>
-	<li style="font-size:14.5px; line-height:2;font-family:sans-serif;"> develop into being a team player and work collaboratively with others</li>
+	<li style="font-size:14.5px; line-height:1.5;font-family:sans-serif;"> acquire and apply basic photography and videography knowledge and skills</li>
+	<li style="font-size:14.5px; line-height:1.5;font-family:sans-serif;"> demonstrate creativity through photography and videography activities</li>
+	<li style="font-size:14.5px; line-height:1.5;font-family:sans-serif;"> develop into being a team player and work collaboratively with others</li>
 </ul>
 
 <h4 style="color:#635f1a;font-family:sans-serif;font-weight:bold;">Achievements</h4>
