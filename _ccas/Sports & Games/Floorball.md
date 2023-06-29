@@ -4,7 +4,7 @@ permalink: /ccas/sports-games/floorball/
 description: ""
 third_nav_title: Sports & Games
 ---
-<img style="width: 100%; height: auto;margin-top:30px;margin-bottom:30px;" alt="Image" src="https://raw.githubusercontent.com/isomerpages/moe-peihwasec/staging/images/CCA/floorballbanner.png">
+<img style="width: 100%; height: auto;margin-top:30px;margin-bottom:30px;" alt="Image" src="">
 
 <p style="font-size:14.5px; line-height:2;font-family:sans-serif;"><strong style="font-family:sans-serif;">Floorball</strong> is becoming a very popular sport around the world and in Singapore. The number of players and teams are increasing every year and there is no sign that the positive development would stop. In 2009, floorball started as a CCA in Pei Hwa Secondary School. The floorball team, also known as Pei Hwa Phoenix, is the ultimate symbol of strength and renewal. Pei Hwa Floorball has achieved outstanding results over the years. Currently, we have 6 Pei Hwa alumni and current students in the U19 Singapore Women’s National Team. #peihwaphoenix #flyphoenixfly #floorball #singaporefloorball</p>
 
