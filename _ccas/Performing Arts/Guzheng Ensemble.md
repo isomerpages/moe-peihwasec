@@ -136,5 +136,28 @@ third_nav_title: Performing Arts
 <img style="width: 100%; height: auto;margin-top:20px;" alt="Image" src="">
 <p style="text-align: center; font-size:10px;margin-top:-5px;font-family:sans-serif;">Performing Arts Camp 2022</p>
 
-<p style="font-size:14.5px; line-height:2 ;margin-top:5px; font-family:sans-serif;" class="description">For more information on the Direct School Admissions to Pei Hwa Secondary School through Guzheng Ensemble, please click here [insert link]  https://peihwasec.moe.edu.sg/programmes/direct-school-admission-dsa/guzheng/.</p>
+<p style="font-size:14.5px; line-height:2 ;margin-top:5px; font-family:sans-serif;" class="description">For more information on the Direct School Admissions to Pei Hwa Secondary School through Guzheng Ensemble, please click <a href="https://peihwasec.moe.edu.sg/programmes/direct-school-admission-dsa/guzheng/" style="font-size:14.5px; line-height:2 ;margin-top:5px; font-family:sans-serif;">here</a>.</p>
 
+<h3 style="margin-top:10px;font-weight: bold;color:#000000">CCA Details</h3>
+
+<table style="width:100%;border-collapse: collapse;border: none;">
+	<tbody style="border: none;">
+<tr>
+			<td style="font-weight: bold; font-size: 15px; border-bottom: 1px solid #dddddd;width:30%;font-family:sans-serif;letter-spacing:0.2px">Teachers-in-Charge</td>
+			<td style="font-size: 14.5px; border-bottom: 1px solid #dddddd;font-family:sans-serif;letter-spacing:0.2px">Ms Lee Ya Yu, Ms Lu Yitong, Ms Ong Geok Leng, Ms Megan Lim Si Yi </td>
+		</tr>
+<tr>
+			<td style="font-weight: bold; font-size: 15px; border-bottom: 1px solid #dddddd;width:30%;font-family:sans-serif;letter-spacing:0.2px">CCA Schedule</td>
+			<td style="font-size: 14.5px; border-bottom: 1px solid #dddddd;font-family:sans-serif;letter-spacing:0.2px">Tuesdays, 3.30pm – 6.00pm<br>
+Fridays, 2.30pm – 6.00pm
+</td>
+		</tr>
+		
+<tr>
+			<td style="font-weight: bold; font-size: 15px; border-bottom: 1px solid #dddddd;width:30%;font-family:sans-serif;letter-spacing:0.2px">Venues</td>
+			<td style="font-size: 14.5px; border-bottom: 1px solid #dddddd;font-family:sans-serif;letter-spacing:0.2px">Guzheng room @ Block D Level 3
+</td>
+		</tr>
+		
+</tbody>
+</table>
