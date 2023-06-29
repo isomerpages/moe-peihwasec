@@ -138,4 +138,3 @@ Our singers are exposed to different art forms through our collaboration with ot
 		
 </tbody>
 </table>
-	
