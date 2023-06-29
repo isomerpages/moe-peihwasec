@@ -4,9 +4,15 @@ permalink: /ccas/sports-games/badminton/
 description: ""
 third_nav_title: Sports & Games
 ---
-<img style="width: 100%;" src="/images/Picture1.jpg">
+<img style="width: 100%; height: auto;margin-top:30px;margin-bottom:30px;" alt="Image" src="https://raw.githubusercontent.com/isomerpages/moe-peihwasec/staging/images/CCA/badmintonbanner.png">
 
-<p style="font-size:14.5px; line-height:2;font-family:sans-serif;">The CCA aims to provide opportunities for students to learn and apply the technical and tactical skills and rules of badminton, so as to play the sports at a competitive level and as a recreational activity. Through the trainings, we would like to develop within all our members a healthy body and instill in them the virtues of true sportsmanship, PRIDE (Passion for Learning, Resilience, Integrity, Diligence, Excellence for Self and Others), teamwork and discipline.</p>
+<p style="font-size:14.5px; line-height:2 ;margin-top:5px; font-family:sans-serif;" class="description">The <strong style="font-size:14.5px; line-height:2; font-family:sans-serif;">Pei Hwa Badminton team </strong> is committed to promoting a healthy lifestyle and cultivating core values such as good sportsmanship, teamwork and discipline among its members. We offer students a wide range of opportunities to enhance their understanding and proficiency in the technical and strategic aspects of badminton. Through our programme, students can learn and apply these skills while gaining a comprehensive understanding of the rules and regulations governing the sport. Our aim is to empower students to participate in badminton both competitively and for leisure, fostering their passion and enjoyment of the game.</p>
+
+<p style="font-size:14.5px; line-height:2 ;margin-top:5px; font-family:sans-serif;" class="description">The CCA provides opportunities for students to enhance their soft skills such as communication, collaboration and self-management. In addition, the improvement of their physical fitness areas such as stamina, agility, strength and mental conditioning can contribute to their holistic development.  Participation in National School Games, friendly matches and committing to weekly training sessions aid in the development of students’ character and confidence, while also fostering a sense of camaraderie among them, and encourage the development of essential values such as resilience, respect and self-discipline. </p>
+
+<p style="font-size:14.5px; line-height:2 ;margin-top:5px; font-family:sans-serif;" class="description">Every year fills us with excitement and anticipation as we prepare ourselves for the highly anticipated National School Games. At Pei Hwa Badminton, we take pride in being one big family, brought together by a community of like-minded students who share a passion for playing badminton.</p>
+
+<img style="width: 100%; height: auto;margin-top:20px;margin-bottom:30px;" alt="Image" src="https://raw.githubusercontent.com/isomerpages/moe-peihwasec/staging/images/CCA/infocommclub01.png">
 
 <h4 style="color:#635f1a;font-family:sans-serif;font-weight:bold;">Student Outcomes</h4>
 
