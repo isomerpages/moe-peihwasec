@@ -4,172 +4,158 @@ permalink: /ccas/uniformed-groups/ncdcc/
 description: ""
 third_nav_title: Uniformed Groups
 ---
-<h4 style="color:#635f1a;font-weight:bold;font-family:sans-serif;">National Civil Defence Cadet Corps – a choice uniformed group of community first responders</h4>
+<h4 style="margin-top:10px;font-weight: bold;color:#000000">National Civil Defence Cadet Corps – A Choice Uniformed Group of Community First Responders</h4>
 
-<p style="font-size:14.5px; line-height:2;margin-top:15px; font-family:sans-serif;"><strong style="font-family:sans-serif;">NCDCC</strong> cadets always strive to&nbsp;<strong style="font-family:sans-serif;">Learn</strong>&nbsp;the Triangle of Life skills, which include basic firefighting, first aid and CPR+AED so as to be able to&nbsp;<strong style="font-family:sans-serif;">Lead&nbsp;</strong>their peers upon going through one of the three tracks under the Specialisation Model. They will then in turn&nbsp;<strong style="font-family:sans-serif;">Serve</strong>&nbsp;their school or the wider community through public education platforms such as being advocates of Emergency Preparedness. The learning cycle will continue to evolve to a higher plane of achievement such as lending a helping hand as Community First Responders. The <strong style="font-family:sans-serif;">Learn Lead Serve </strong>Motto serves as the guiding principle for all trainings and activities in NCDCC.</p>
+<img style="width: 100%; height: auto;margin-top:30px;margin-bottom:30px;" alt="Image" src="">
 
-<h4 style="color:#635f1a;font-weight:bold;font-family:sans-serif;">Student Outcomes</h4>
-<p style="font-size:14.5px; line-height:2;margin-top:15px; font-family:sans-serif;">
-NCDCC seeks to develop and empower our youths to be active and concerned citizens advocating life-saving skills.</p>
-<img src="/images/NCDCC-1.png" style="width: 100%;margin-top:10px;">
+<p style="font-size:14.5px; line-height:2 ;margin-top:5px; font-family:sans-serif;" class="description">Our <strong style="font-size:14.5px; line-height:2; font-family:sans-serif;">NCDCC</strong> cadets are always eager to Learn the essential Life skills encompassed by the Triangle of Life. These encompass fundamental firefighting techniques, proficiency in first aid and CPR+AED, enabling them to emerge as leaders who Lead within their respective tracks under the Specialisation Model. Once equipped with these skills, they Serve the school and the wider community through various public education initiatives, becoming advocates for Emergency Preparedness. As their journey progresses, their growth and achievements soar to new heights, culminating in their valuable contributions as Community First Responders. Throughout this transformative process, the Learn Lead Serve Motto serves as the guiding principle, shaping all training sessions and activities in NCDCC.</p>
 
-<h4 style="color:#635f1a;font-weight:bold;font-family:sans-serif;">Achievements</h4>
+<p style="font-size:14.5px; line-height:2 ;margin-top:5px; font-family:sans-serif;" class="description">NCDCC seeks to develop and empower our youths to be active and concerned citizens who are advocates of life-saving skills</p>
 
-<table border="1" style="border-collapse: collapse;margin: 25px 0;font-size:14.5px;font-family: sans-serif;box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);">
+<h3 style="margin-top:10px;font-weight: bold;color:#000000;">Achievements</h3>
+
+<table border="1" style="border-collapse: collapse;margin: 25px 0;font-size:15px;font-family: sans-serif;box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);line-height:1.3;">
+	
 <thead style="background-color: #009879; font-weight: bold; font-size: 15.5px;">
 	<tr>
-				<td style="text-align:left;color:white;font-family:sans-serif;">Year of Competition</td>
-				<td style="text-align:left;color:white;font-family:sans-serif;">Achievements</td>
-	</tr>
-</thead>
+			<td style="text-align:left;color:white;font-family:sans-serif;">Year of Competition</td>
+			<td style="text-align:left;color:white;font-family:sans-serif;">Attainment</td>
+		</tr>
+	</thead>
 	
 <tbody>
-
-<tr>
-	<td><strong style="font-family:sans-serif;">2022</strong></td>
-	<td style="margin-bottom:5px;">
-		<strong style="font-family:sans-serif;">Unit Overall Performance Assessment </strong>
+<tr style="border-bottom: 1px solid #dddddd;">
+<td><strong style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">2022</strong></td>
+	<td style="font-size:14.5px;">
+		<strong style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">Unit Overall Performance Award</strong>
 		<br>
-		<ul>
-			<li style="font-family:sans-serif;margin-bottom:5px;">Gold</li>
+		<ul style="margin-top:-5px">
+			<li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">Gold</li>
 		</ul>
-		<strong style="font-family:sans-serif;">Instructional Video Competition</strong>
+		<strong style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">Instructional Video Competition</strong><br>
+	<strong style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">Precision Drill Competition </strong>
 		<br>
-		<strong style="font-family:sans-serif;">Precision Drill Competition</strong>
+		<ul style="margin-top:-5px">
+			<li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">9<sup>th</sup> Place</li>
+		</ul>
 	</td>
-					
-</tr>	
-<tr style="background-color: #f3f3f3;">
-				<td><strong style="font-family:sans-serif;">2021</strong></td>
-				<td style="margin-bottom:5px;">
-					<strong style="font-family:sans-serif;">Infographic Design Competition</strong>
-				</td>
-	</tr>
-			
-<tr>
-				<td><strong style="font-family:sans-serif;">2020</strong></td>
-				<td style="margin-bottom:5px;">
-					<strong style="font-family:sans-serif;">UOPA suspended due to national posture</strong>
-				</td>
 </tr>
-			
-<tr style="background-color: #f3f3f3;">
-				<td><strong style="font-family:sans-serif;">2019</strong></td>
-				<td style="margin-bottom:5px;">
-					<strong style="font-family:sans-serif;">Unit Overall Performance Award </strong>
-					<br>
-					<ul>
-						<li style="font-family:sans-serif;margin-bottom:5px;">Gold</li>
-					</ul>
-						<strong style="font-family:sans-serif;">Precision Drill Competition</strong>
-					<br>
-					<ul>
-						<li style="font-family:sans-serif;margin-bottom:5px;">6<sup style="font-family:sans-serif;">th</sup> Place</li>
-					</ul>
-						<strong style="font-family:sans-serif;">Skills-Up Project Recognition Award</strong>					
-				</td>
+															
+<tr style="background-color: #f3f3f3;line-height:1.3;">
+<td style="font-size:14.5px;"><strong style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">2021</strong></td>
+		<td style="font-size:14.5px;">
+				<strong style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">Infographic Design Competition</strong><br>
+	<strong style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">Precision Drill Competition </strong>
+		<br>
+		<ul style="margin-top:-5px">
+			<li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">9<sup>th</sup> Place</li>
+		</ul>
+	</td>
 </tr>
-						
-<tr>
-				<td><strong style="font-family:sans-serif;">2018</strong></td>
-				<td style="margin-bottom:5px;">
-					<strong style="font-family:sans-serif;">Unit Overall Performance Award </strong>
-					<br>
-					<ul>
-						<li style="font-family:sans-serif;margin-bottom:5px;">Gold</li>
-					</ul>
-					<strong style="font-family:sans-serif;">Precision Drill Competition</strong>
-					<br>
-					<ul>
-						<li style="font-family:sans-serif;margin-bottom:5px;">5<sup style="font-family:sans-serif;">th Place</sup></li>
-					</ul>
-				</td>
+		
+<tr style="font-size:15px;">
+<td><strong style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">2019</strong></td>
+		<td style="font-size:14.5px;">
+		<strong style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">Unit Overall Performance Award</strong>
+		<br>
+		<ul style="margin-top:-5px">
+			<li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">Gold</li>
+		</ul>
+		<strong style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">Skills-Up Project Recognition Award</strong><br>
+	<strong style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">Precision Drill Competition </strong>
+		<br>
+		<ul style="margin-top:-5px">
+			<li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">6<sup>th</sup> Place</li>
+		</ul>
+	</td>
 </tr>
-			
-<tr style="border-bottom: 2px solid #009879;background-color: #f3f3f3;">
-				<td><strong style="font-family:sans-serif;">2017</strong></td>
-				<td style="margin-bottom:5px;">
-					<strong style="font-family:sans-serif;">Unit Overall Performance Award </strong>
-					<br>
-					<ul>
-						<li style="font-family:sans-serif;margin-bottom:5px;">Gold</li>
-					</ul>
-						<strong style="font-family:sans-serif;">Unit Drill Instructor Course</strong>
-					<br>
-					<ul>
-						<li style="font-family:sans-serif;margin-bottom:5px;">Best in Methods of Instruction (Alluyise Ting Wei Lau)</li>
-					</ul>
-					<strong style="font-family:sans-serif;">Falconites’ Challenge</strong>	
-					<br>
-					<ul>
-						<li style="font-family:sans-serif;margin-bottom:5px;">Champion</li>
-					</ul>
-					<strong style="font-family:sans-serif;">NFEC-NCDCC Inter Unit Quiz</strong>	
-					<br>
-					<ul>
-						<li style="font-family:sans-serif;margin-bottom:5px;">10<sup style="font-family:sans-serif;">th</sup> Position</li>
-					</ul>
-				</td>
+	
+<tr style="background-color: #f3f3f3;line-height:1.3;">
+<td style="font-size:14.5px;"><strong style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">2018</strong></td>
+		<td style="font-size:14.5px;">
+		<strong style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">Unit Overall Performance Award</strong>
+		<br>
+		<ul style="margin-top:-5px">
+			<li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">Gold</li>
+		</ul>
+			<strong style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">Precision Drill Competition </strong>
+		<br>
+		<ul style="margin-top:-5px">
+			<li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">5<sup>th</sup> Place</li>
+		</ul>
+	</td>
 </tr>
+		
+<tr style="border-bottom: 2px solid #009879; font-size:15px;">
+<td><strong style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">2017</strong></td>
+		<td style="font-size:14.5px;">
+		<strong style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">Unit Overall Performance Award</strong>
+		<br>
+		<ul style="margin-top:-5px">
+			<li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">Gold</li>
+		</ul>
+	<strong style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">Unit Drill Instructor Course </strong>
+		<br>
+		<ul style="margin-top:-5px">
+			<li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">Best in Methods of Instruction (Alluyise Ting Wei Lau)</li>
+		</ul>
+				<strong style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">Falconites’ Challenge </strong>
+		<br>
+		<ul style="margin-top:-5px">
+			<li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">Champion</li>
+		</ul>
+				<strong style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">NFEC-NCDCC Inter Unit Quiz </strong>
+		<br>
+		<ul style="margin-top:-5px">
+			<li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">10<sup>th</sup> Place</li>
+		</ul>
+	</td>
+</tr>
+										
 </tbody>
 </table>
 
-<h4 style="color:#635f1a;font-weight:bold;font-family:sans-serif;">Competitions and CCA Activities</h4>
-<p style="font-size:14.5px; line-height:2;margin-top:15px; font-family:sans-serif">
-Pei Hwa NCDCC Unit takes part in programs that highlight the knowledge and skills of the cadets. NCDCC core values of Noble, Caring, Disciplined, Courageous and Committed are the guiding principles that form their strong identity and dictate the desired behaviour and action of the cadets. Through these programs, cadets are able to work as a team and display the core values of NCDCC.</p>
+<h3 style="margin-top:10px;font-weight: bold;color:#000000">CCA Activities and Competition</h3>
 
-<p style="margin-top:15px;font-size:14.5px; line-height:2;font-family:sans-serif;">Volunteer Adult Leaders who are themselves alumni of the school work with Teacher Officers to serve as mentors to senior cadets who plan and execute the training activities for junior cadets.</p>
+<p style="font-size:14.5px; line-height:2 ;margin-top:5px; font-family:sans-serif;" class="description">The Pei Hwa NCDCC Unit actively engages in enriching programmes that showcase the exemplary knowledge and skills of its dedicated cadets. Upholding the core values of NCDCC—Noble, Caring, Disciplined, Courageous, and Committed—the unit firmly establishes its distinctive identity while shaping the desired conduct and actions of its cadets. These programmes serve as a platform for cadets to collaborate harmoniously as a team, exemplifying and embodying the cherished core values of NCDCC.</p>
 
-<p style="margin-top:15px;font-size:14.5px; line-height:2;font-family:sans-serif;">The following are some programs and training activities in 2022:</p>
+<p style="font-size:14.5px; line-height:2 ;margin-top:5px; font-family:sans-serif;" class="description">Dedicated Volunteer Adult Leaders, who are esteemed alumni of the school, collaborate closely with Teacher Officers to fulfill the vital role of mentors. Together, they guide and support senior cadets in designing and implementing training activities for their junior counterparts, fostering a culture of leadership and responsibility within the cadet community.</p>
+
+<p style="font-size:14.5px; line-height:1.5;margin-top:15px; font-family:sans-serif;">Programmes and training activities which include:</p>
 <ul style="margin-top:5px;">
-<li style="font-size:14.5px; line-height:2;font-family:sans-serif;">Year One Cadets Affirmation Day</li>
-<li style="font-size:14.5px; line-height:2;font-family:sans-serif;">Annual Unit Day Camp</li>
-<li style="font-size:14.5px; line-height:2;font-family:sans-serif;">Basic Cardiac Life Support (BCLS) Course</li>
-<li style="font-size:14.5px; line-height:2;font-family:sans-serif;">Instructional Video Competition</li>
-<li style="font-size:14.5px; line-height:2;font-family:sans-serif;">NCO Course</li>
-<li style="font-size:14.5px; line-height:2;font-family:sans-serif;">Precision Drills Challenge</li>
-<li style="font-size:14.5px; line-height:2;font-family:sans-serif;">Service Month project (PHNCD Community Day)</li>
-<li style="font-size:14.5px; line-height:2;font-family:sans-serif;">Specialisation Courses (Fire Safety, Medical Response, Urban Rescue)</li>
-<li style="font-size:14.5px; line-height:2;font-family:sans-serif;">Tour of Exhibition in Civil Defence Academy (CDA)</li>
-<li style="font-size:14.5px; line-height:2;font-family:sans-serif;">Unit Drill Instructor (UDI) Course</li>
-<li style="font-size:14.5px; line-height:2;font-family:sans-serif;">Urban Adventure Civil Defence Knowledge Challenge (UACDC)</li>
+	<li style="font-size:14.5px; line-height:1.5;font-family:sans-serif;">Year One Cadets Affirmation Day</li>
+	<li style="font-size:14.5px; line-height:1.5;font-family:sans-serif;">Annual Unit Day Camp</li>
+	<li style="font-size:14.5px; line-height:1.5;font-family:sans-serif;">Basic Cardiac Life Support (BCLS) Course</li>
+		<li style="font-size:14.5px; line-height:1.5;font-family:sans-serif;">Instructional Video Competition</li>
+		<li style="font-size:14.5px; line-height:1.5;font-family:sans-serif;">NCO Course</li>
+	<li style="font-size:14.5px; line-height:1.5;font-family:sans-serif;">Precision Drills Challenge</li>
+		<li style="font-size:14.5px; line-height:1.5;font-family:sans-serif;">Service Month project (PHNCD Community Day)</li>
+			<li style="font-size:14.5px; line-height:1.5;font-family:sans-serif;">Specialisation Courses (Fire Safety, Medical Response, Urban Rescue)</li>
+	<li style="font-size:14.5px; line-height:1.5;font-family:sans-serif;">Tour of Exhibition in Civil Defence Academy (CDA)</li>
+	<li style="font-size:14.5px; line-height:1.5;font-family:sans-serif;">Unit Drill Instructor (UDI) Course</li>
+		<li style="font-size:14.5px; line-height:1.5;font-family:sans-serif;">Urban Adventure Civil Defence Knowledge Challenge (UACDC)</li>
 </ul>
-	
-<h4 style="color:#635f1a;font-weight:bold;margin-bottom:-25px;font-family:sans-serif;">Student Testament</h4>
 
-<blockquote style="font-size: 14.5px;width:100%;margin:50px auto;font-family:serif;font-style:italic;color: #555555;padding:1.2em 25px 1.2em 25px;border-left:8px solid #78C0A8 ;line-height:1.6;position: relative;background:#EDEDED;">
-	<img align="left" alt="" src="/images/NCDCC-4.jpg" style="width: 23%;margin-right:15px;">
-	"During our CCA day camp, we were able to bond with our other level CCA mates and learned how important it is to use teamwork to accomplish everything. We built a tent together, we tied knots together and even just go to know each other a little better. Apart from those activities, we also have learnt foot drills. Foot drills may be very tedious and tiring but when you and your batch mates able to do it consistently and well, you would also feel so good especially when you perform it for other people to see."
-	<span style="display:block; color:#333333; margin-top:1em;font-size:14.5px;"><em style="font-family:sans-serif;">CPL Brenan Kuan (ROTA 20 cadet)</em></span><br><br><br><br>
-</blockquote>
 	
-<blockquote style="font-size: 14.5px;width:100%;margin:50px auto;font-family:serif;font-style:italic;color: #555555;padding:1.2em 25px 1.2em 25px;border-left:8px solid #78C0A8 ;line-height:1.6;position: relative;background:#EDEDED;">
-	<img align="left" alt="" src="/images/NCDCC-5.jpg" style="width: 23%;margin-right:15px;">
-	"NCDCC has really made an impact in my life. Especially through this year’s NCO course, I really got a chance to discover my strengths and weaknesses. It helped me to nurture my strengths and work on my weaknesses. Through this course I also got a chance get to know my batchmates better as we face the challenges together, it gave us the opportunity to work together as a ROTA and help one another out. This course really made me understand the saying “All for one, one for all” it made me realized that we should always look out for the people around us and if we work together, we can come out stronger."
-	<span style="display:block; color:#333333; margin-top:1em;font-size:14.5px;"><em style="font-family:sans-serif;">SSG Avan Ang (ROTA 19 cadet)</em></span><br><br><br>
-</blockquote>
-	
-<h4 style="color:#635f1a;font-weight:bold;font-family:sans-serif;">CCA Details</h4>
-<table border="1" style="width:100%;">
-	<tbody>
-		<tr>
-			<td style="background-color: #54585d; font-weight: bold; font-size: 14.5px; border: 1px solid #54585d; color:white;border-bottom: 1px solid #dddddd;width:24%;font-family:sans-serif;">Teacher-In-Charge</td>
-			<td style="border: 1px solid #dddfe1;font-size: 14.5px;font-family:sans-serif;">Mr Ong Jun Ming Gary</td>
-		</tr>
+<h3 style="margin-top:10px;font-weight: bold;color:#000000">CCA Details</h3>
 
+<table style="width:100%;border-collapse: collapse;border: none;">
+	<tbody style="border: none;">
 <tr>
-			<td style="background-color: #54585d; font-weight: bold; font-size: 14.5px; border: 1px solid #54585d;border-bottom: 1px solid #dddddd; color:white;font-family:sans-serif;">CCA Teacher(s)</td>
-			<td style="border: 1px solid #dddfe1;font-size: 14.5px;font-family:sans-serif;">Mdm Chen Peishi<br>Ms Jovitta Christopher Pereira<br>Mdm Ong Xin Yi</td>
+			<td style="font-weight: bold; font-size: 15px; border-bottom: 1px solid #dddddd;width:30%;font-family:sans-serif;letter-spacing:0.2px">Teachers-in-Charge</td>
+			<td style="font-size: 14.5px; border-bottom: 1px solid #dddddd;font-family:sans-serif;letter-spacing:0.2px">Mr Ong Jun Ming Gary, Mdm Chen Peishi, Mdm Ong Xin Yi, Ms Jovitta Christopher Pereira</td>
 		</tr>
-
 <tr>
-			<td style="background-color: #54585d; font-weight: bold; font-size: 14.5px; border: 1px solid #54585d; color:white;border-bottom: 1px solid #dddddd;font-family:sans-serif;">CCA Schedule</td>
-			<td style="border: 1px solid #dddfe1;font-size: 14.5px;font-family:sans-serif;">Fridays, 2.30pm – 5.40pm</td>
+			<td style="font-weight: bold; font-size: 15px; border-bottom: 1px solid #dddddd;width:30%;font-family:sans-serif;letter-spacing:0.2px">CCA Schedule</td>
+			<td style="font-size: 14.5px; border-bottom: 1px solid #dddddd;font-family:sans-serif;letter-spacing:0.2px">Fridays 2.30-5.40pm
+</td>
 		</tr>
 		
 <tr>
-			<td style="background-color: #54585d; font-weight: bold; font-size: 14.5px; border: 1px solid #54585d; color:white;font-family:sans-serif;">Venues</td>
-			<td style="border: 1px solid #dddfe1;font-size: 14.5px;font-family:sans-serif;">1P1, 1P2 and Fire Engine Access area</td>
+			<td style="font-weight: bold; font-size: 15px; border-bottom: 1px solid #dddddd;width:30%;font-family:sans-serif;letter-spacing:0.2px">Venues</td>
+			<td style="font-size: 14.5px; border-bottom: 1px solid #dddddd;font-family:sans-serif;letter-spacing:0.2px">1P1, 1P2, 1P3, 1P4, Quadrangle
+</td>
 		</tr>
+		
 </tbody>
-	</table>
+</table>
