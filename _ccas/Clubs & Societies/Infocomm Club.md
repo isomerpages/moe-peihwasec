@@ -42,14 +42,15 @@ third_nav_title: Clubs & Societies
 															
 <tr style="background-color: #f3f3f3;line-height:1.3;">
 <td style="font-size:14.5px;"><strong style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">2011</strong></td>
-	<td style="font-size:14.5px;"><strong style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">North Zone Comic Life Competition</strong>
+	<td style="font-size:14.5px;">
+		<strong style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">North Zone Comic Life Competition</strong>
 		<br>
 		<ul style="margin-top:-5px"> 
 			<li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;"> 1<sup>st</sup> Position (Lee Jia Jing)</li>
-		<li style="font-size:14.5px; line-height:1.5;margin-top:5px; font-family:sans-serif;"> 2<sup>nd</sup> Position (Tan Xing Wei)</li>
-		<li style="font-size:14.5px; line-height:1.5 ;margin-top:5px; font-family:sans-serif;"> 3<sup>rd</sup> Position (Ku Wan Jing)</li>
+		<li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;"> 2<sup>nd</sup> Position (Tan Xing Wei)</li>
+		<li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;"> 3<sup>rd</sup> Position (Ku Wan Jing)</li>
 		</ul>
-		<strong style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">Digital Music Carnival 2 Competition (organised by Elchemi Education)</strong>
+		<strong style="font-size:14.5px;font-family:sans-serif;line-height:1.5;">Digital Music Carnival 2 Competition (organised by Elchemi Education)</strong>
 		<ul style="margin-top:-5px;">
 			<li style="font-size:14.5px;margin-bottom:0px;font-family:sans-serif;line-height:1.5;">  Gold Award</li>
 		</ul>
