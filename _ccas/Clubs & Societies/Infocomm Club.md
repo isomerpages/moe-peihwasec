@@ -6,7 +6,7 @@ third_nav_title: Clubs & Societies
 ---
 <img style="width: 100%; height: auto;margin-top:30px;margin-bottom:30px;" alt="Image" src="https://raw.githubusercontent.com/isomerpages/moe-peihwasec/staging/images/CCA/infocommbanner.png">
 
-<p style="font-size:14.5px; line-height:2 ;margin-top:5px; font-family:sans-serif;" class="description">The Infocomm Club is a co-curricular activity that centers around the domains of information, communication, and technology.</p>
+<p style="font-size:14.5px; line-height:2 ;margin-top:5px; font-family:sans-serif;" class="description">The <strong style="font-family:sans-serif;">Infocomm Club</strong> is a co-curricular activity that centers around the domains of information, communication, and technology.</p>
 
 <img style="width: 70%; height: auto;margin-top:0px;margin-bottom:30px;" alt="Image" src="https://raw.githubusercontent.com/isomerpages/moe-peihwasec/staging/images/CCA/infocomm-picture06.png">
 
@@ -14,7 +14,7 @@ third_nav_title: Clubs & Societies
 
 <img style="width: 100%; height: auto;margin-top:20px;margin-bottom:30px;" alt="Image" src="https://raw.githubusercontent.com/isomerpages/moe-peihwasec/staging/images/CCA/infocommclub01.png">
 
-<p style="font-size:14.5px; line-height:2 ;margin-top:5px; font-family:sans-serif;" class="description">The Infocomm Club encompasses a subsidiary group known as the Audio Visual Aid (AVA) Club. The primary focus of the AVA Club lies in supporting our school by providing audio and visual services. Within this sub-group, AVA crew members gain proficiency in setting up audio and visual equipment for various school performances. However, it should be noted that membership in the Infocomm Club does not automatically indicate membership in the AVA Club. Infocomm Club members have the option to volunteer for AVA training, upon successful completion of which they can join the AVA crew as members.</p>
+<p style="font-size:14.5px; line-height:2 ;margin-top:5px; font-family:sans-serif;" class="description">The Infocomm Club encompasses a subsidiary group known as the <strong style="font-family:sans-serif;">Audio Visual Aid (AVA) Club</strong>. The primary focus of the AVA Club lies in supporting our school by providing audio and visual services. Within this sub-group, AVA crew members gain proficiency in setting up audio and visual equipment for various school performances. However, it should be noted that membership in the Infocomm Club does not automatically indicate membership in the AVA Club. Infocomm Club members have the option to volunteer for AVA training, upon successful completion of which they can join the AVA crew as members.</p>
 
 <img style="width: 100%; height: auto;margin-top:20px;margin-bottom:30px;" alt="Image" src="https://raw.githubusercontent.com/isomerpages/moe-peihwasec/staging/images/CCA/infocommclubava.png">
 
@@ -89,7 +89,7 @@ third_nav_title: Clubs & Societies
 
 <h3 style="margin-top:10px;font-weight: bold;color:#000000">CCA Details</h3>
 
-<table style="width:100%;border-collapse: collapse;border: none;">
+<table style="width:100%;margin-top:5px;border-collapse: collapse;border: none;">
 	<tbody style="border: none;">
 <tr>
 			<td style="font-weight: bold; font-size: 15px; border-bottom: 1px solid #dddddd;width:30%;font-family:sans-serif;letter-spacing:0.2px">Teachers-in-Charge</td>
