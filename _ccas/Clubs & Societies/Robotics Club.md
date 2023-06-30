@@ -119,7 +119,7 @@ Tay Kai Wen, Bryan (4D1), Lai Le Xin Grace (3I4), Ain Myeisha Arman (3I1), Chang
 	<td><strong style="font-family:sans-serif;font-size:15px;">RoboCupJunior Singapore Open</strong>
 		<ul> 
 			<li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">2<sup style="font-family:sans-serif;">nd</sup>, 3<sup style="font-family:sans-serif;">rd</sup> &amp; 4<sup style="font-family:sans-serif;">th</sup> Place (RoboCupJunior CoSpace Rescue)</li>
-             <li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">2<sup style="font-family:Open Sans;">nd</sup> &amp; 3<sup style="font-family:sans-serif;">rd</sup> Place (RoboCup Asia Pacific CoSpace Rescue)</li>
+             <li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">2<sup style="font-family:sans-serif;">nd</sup> &amp; 3<sup style="font-family:sans-serif;">rd</sup> Place (RoboCup Asia Pacific CoSpace Rescue)</li>
             <li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">1<sup style="font-family:sans-serif;">st</sup> Place (RoboCup Asia Pacific CoSpace Grand Prix)</li>
               <li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">2<sup style="font-familysans-serif;">nd</sup>, 3<sup style="font-family:sans-serif;">rd</sup> Place (RoboCup Asia Pacific CoSpace Logistics)
 		</li></ul>
@@ -131,7 +131,7 @@ Tay Kai Wen, Bryan (4D1), Lai Le Xin Grace (3I4), Ain Myeisha Arman (3I1), Chang
 	<td><strong style="font-family:sans-serif;font-size:15px;">RoboCupJunior Singapore Open</strong>
 		<br>
 		<ul> 
-		<li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">st 2<sup style="font-family:sans-serif;">nd</sup>, 3<sup style="font-family:sans-serif;">rd</sup> &amp; 4<sup style="font-family:sans-serif;">th</sup> Place (RoboCupJunior CoSpace Rescue)</li>
+		<li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">1<sup style="font-family:sans-serif;">st</sup>,  2<sup style="font-family:sans-serif;">nd</sup>, 3<sup style="font-family:sans-serif;">rd</sup> &amp; 4<sup style="font-family:sans-serif;">th</sup> Place (RoboCupJunior CoSpace Rescue)</li>
            <li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">1<sup style="font-family:sans-serif;">st</sup> &amp; 2<sup style="font-family:sans-serif;">nd</sup> Place (RoboCupJunior CoSpace Rescue – SuperTeam)</li>
 							<li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">3<sup style="font-family:sans-serif;">rd</sup> Place (RoboCupJunior CoSpace Grand Prix)</li>
                  <li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">1<sup style="font-family:sans-serif;">st</sup> &amp; 2<sup style="font-family:sans-serif;">nd</sup> Place (RoboCupJunior CoSpace Logistics)</li>                                
@@ -168,8 +168,10 @@ Tay Kai Wen, Bryan (4D1), Lai Le Xin Grace (3I4), Ain Myeisha Arman (3I1), Chang
 		</tr>
 <tr>
 			<td style="font-weight: bold; font-size: 15px; border-bottom: 1px solid #dddddd;width:30%;font-family:sans-serif;">CCA Schedule</td>
-			<td style="font-size: 14.5px; border-bottom: 1px solid #dddddd;font-family:sans-serif;line-height:1.5">Tuesday 3.30pm - 6.00pm (only for ad-hoc enrichment/intensive training for competition)<br>
-Fridays 2.30-6pm
+			<td style="font-size: 14.5px; border-bottom: 1px solid #dddddd;font-family:sans-serif;line-height:1.5">*Tuesday 3.30pm - 6.00pm<br>
+Fridays 2.30 - 6.00pm
+				<br><br>
+*ad-hoc enrichment/intensive training for competition
 </td>
 		</tr>
 		
