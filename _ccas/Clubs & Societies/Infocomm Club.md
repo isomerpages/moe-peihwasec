@@ -20,7 +20,7 @@ third_nav_title: Clubs & Societies
 
 <h3 style="margin-top:10px;font-weight: bold;color:#000000;">Achievements</h3>
 
-<table border="1" style="border-collapse: collapse;margin: 25px 0; margin-top:5px;font-size:15px;font-family: sans-serif;box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);line-height:1.3;">
+<table style="border-collapse: collapse;margin: 25px 0;font-family: sans-serif;box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);" border="1">
 	
 <thead style="background-color: #009879; font-weight: bold; font-size: 15.5px;">
 	<tr>
@@ -30,7 +30,8 @@ third_nav_title: Clubs & Societies
 	</thead>
 	
 <tbody>
-<tr style="border-bottom: 1px solid #dddddd;">
+
+<tr>
 <td><strong style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">2012</strong></td>
 	<td style="font-size:14.5px;"><strong style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">National Infocomm Club Awards</strong>
 		<br>
@@ -46,9 +47,9 @@ third_nav_title: Clubs & Societies
 		<strong style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">North Zone Comic Life Competition</strong>
 		<br>
 		<ul style="margin-top:-5px"> 
-			<li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;"> 1<sup>st</sup> Position (Lee Jia Jing)</li>
-		<li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;"> 2<sup>nd</sup> Position (Tan Xing Wei)</li>
-		<li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;"> 3<sup>rd</sup> Position (Ku Wan Jing)</li>
+			<li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;"> 1<sup>st</sup> Place (Lee Jia Jing)</li>
+		<li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;"> 2<sup>nd</sup> Place (Tan Xing Wei)</li>
+		<li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;"> 3<sup>rd</sup> Place (Ku Wan Jing)</li>
 		</ul>
 		<strong style="font-size:14.5px;font-family:sans-serif;line-height:1.5;">Digital Music Carnival 2 Competition (organised by Elchemi Education)</strong>
 		<ul style="margin-top:-5px;">
@@ -64,7 +65,7 @@ third_nav_title: Clubs & Societies
 		<ul style="margin-top:-5px">
 			<li style="font-size:14.5px;margin-bottom:-5px;font-family:sans-serif;line-height:1.5;"> 1<sup>st</sup> Place (Secondary Category)</li>
 		</ul>
-		<strong style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">Digital Music Carnival(organised by Elchemi Education)</strong><ul>
+		<strong style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">Digital Music Carnival (organised by Elchemi Education)</strong><ul>
 		<li style="font-size:14.5px;margin-bottom:0px;font-family:sans-serif;line-height:1.5;"> Gold Award (Avante Garde Category)</li>
 		</ul>
 	</td>
@@ -107,7 +108,7 @@ Trainers (AVA)
 
 <tr>
 			<td style="font-weight: bold; font-size: 15px; border-bottom: 1px solid #dddddd;width:30%;font-family:sans-serif;letter-spacing:0.2px">CCA Schedule</td>
-			<td style="font-size: 14.5px; border-bottom: 1px solid #dddddd;font-family:sans-serif;letter-spacing:0.2px">Tuesday 3.30pm - 6.00pm<br>*Fridays 2.30-5:30pm
+			<td style="font-size: 14.5px; border-bottom: 1px solid #dddddd;font-family:sans-serif;letter-spacing:0.2px">Tuesday 3.30pm - 6.00pm<br>*Fridays 2.30 - 5:30pm
 <br><br>
 *ad-hoc trainings (only for AVA crew members)
 </td>
