@@ -19,11 +19,11 @@ third_nav_title: Clubs & Societies
 
 
 <h3 style="margin-top:10px;font-weight: bold;color:#000000">Achievements</h3>
-<table style="border-collapse: collapse;margin: 25px 0;font-family: sans-serif;box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);" border="1">
+<table style="border-collapse: collapse;margin: 25px 0;margin-top:5px;font-family: sans-serif;box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);" border="1">
 	
 <thead style="background-color: #009879; font-weight: bold; font-size: 15.5px;">
 	<tr>
-			<td style="text-align:left;color:white;font-family:sans-serif;">Year of Competition</td>
+			<td style="text-align:left;color:white;font-family:sans-serif;">Year of <br>Competition</td>
 			<td style="text-align:left;color:white;font-family:sans-serif;">Attainment</td>
 		</tr>
 	</thead>
@@ -62,7 +62,7 @@ third_nav_title: Clubs & Societies
 <td style="font-size:15px;"><strong style="font-family:sans-serif;">NKF Schools Postcard Design Contest</strong>
 <br>
 <ul> 
-<li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;"> First Prize</li>
+<li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;"> 1<sup>st</sup> Prize</li>
 </ul>
 	</td>
 </tr>
@@ -80,7 +80,7 @@ third_nav_title: Clubs & Societies
 
 <h3 style="margin-top:10px;font-weight: bold;color:#000000">CCA Details</h3>
 
-<table style="width:100%;border-collapse: collapse;border: none;">
+<table style="width:100%;border-collapse: collapse;border: none;margin-top:5px">
 	<tbody style="border: none;">
 <tr>
 			<td style="font-weight: bold; font-size: 15px; border-bottom: 1px solid #dddddd;width:30%;font-family:sans-serif;">Teachers-in-Charge</td>
