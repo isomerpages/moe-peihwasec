@@ -41,7 +41,7 @@ third_nav_title: Clubs & Societies
 <td style="font-size:15px;"><strong style="font-family:sans-serif;">NKF Schools Postcard Design Contest</strong>
 <br>
 <ul> 
-	<li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">‘Feed My Trashemon’ – 8th place in the Top 10 designs</li>
+	<li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">‘Feed My Trashemon’ – 8<sup style="font-family:sans-serif;">th</sup> Place in the Top 10 designs</li>
 	<li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">Draw My Stamp Story’ Art Competition – Bronze</li>
 </ul>
 	</td>
@@ -62,7 +62,7 @@ third_nav_title: Clubs & Societies
 <td style="font-size:15px;"><strong style="font-family:sans-serif;">NKF Schools Postcard Design Contest</strong>
 <br>
 <ul> 
-<li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;"> 1<sup>st</sup> Prize</li>
+<li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;"> 1<sup style="font-family:sans-serif;">st</sup> Prize</li>
 </ul>
 	</td>
 </tr>
