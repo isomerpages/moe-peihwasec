@@ -18,10 +18,9 @@ third_nav_title: Clubs & Societies
 
 <img style="width: 100%; height: auto;margin-top:20px;margin-bottom:30px;" alt="Image" src="https://raw.githubusercontent.com/isomerpages/moe-peihwasec/staging/images/CCA/infocommclubava.png">
 
-
 <h3 style="margin-top:10px;font-weight: bold;color:#000000">Achievements</h3>
 
-<table style="border-collapse: collapse;margin: 25px 0;font-family: sans-serif;box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);" border="1">
+<table style="border-collapse: collapse;margin: 25px 0;margin-top:5px;font-family: sans-serif;box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);" border="1">
 	
 <thead style="background-color: #009879; font-weight: bold; font-size: 15.5px;">
 	<tr>
@@ -31,53 +30,47 @@ third_nav_title: Clubs & Societies
 	</thead>
 	
 <tbody>
+
 <tr>
-		<td style="font-size:14.5px;"><strong style="font-family:sans-serif;">2012</strong></td>
-		<td style="font-size:15px;"><strong style="font-family:sans-serif;">National Infocomm Club Awards</strong>
-			<br>
-			<ul> 
-				<li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">The Choice Award</li>
-			</ul>
-		</td>
-	</tr>
+<td style="font-size:14.5px;"><strong style="font-family:sans-serif;font-size:14.5px;">2012</strong></td>
+	<td><strong style="font-family:sans-serif;font-size:15px;">National Infocomm Club Awards</strong>
+		<ul>
+			<li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">The Choice Award</li>
+		</ul>
+	</td>
+</tr>
 	
 <tr style="background-color: #f3f3f3;">
-		<td style="font-size:14.5px;"><strong style="font-family:sans-serif;">2011</strong></td>
-		<td style="font-size:15px;">
-			<strong style="font-family:sans-serif;">North Zone Comic Life Competition</strong>
-			<br>
-			<ul> 
-				<li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">1<sup>st</sup> Place (Lee Jia Jing)</li>
-				<li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">2<sup>nd</sup> Place (Tan Xing Wei)</li>
-				<li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">3<sup>rd</sup> Position (Ku Wan Jing)</li>
-			</ul>
-			<strong style="font-family:sans-serif;">Digital Music Carnival 2 Competition (organised by Elchemi Education)</strong>
-			<br>
-			<ul> 
-				<li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">Gold Award</li>
-			</ul>
-		</td>
-	</tr>
-
+<td><strong style="font-family:sans-serif;font-size:14.5px;">2011</strong></td>
+	<td><strong style="font-family:sans-serif;font-size:15px;">North Zone Comic Life Competition</strong>
+		<br>
+		<ul>
+			<li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">1<sup>st</sup> Place (Lee Jia Jing)</li>
+         <li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">2<sup>nd</sup> Place (Tan Xing Wei)</li>
+			<li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">3<sup>rd</sup> Position (Ku Wan Jing)</li>
+		</ul>
+		<strong style="font-family:sans-serif;font-size:15px;">Digital Music Carnival 2 Competition (organised by Elchemi Education)</strong>
+		<ul>
+			<li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">Gold Award</li>
+		</ul>
+	</td>
+</tr>
+	
 <tr style="border-bottom: 2px solid #009879;">
-		<td style="font-size:14.5px;"><strong style="font-size:14.5px; font-family:sans-serif;">2010</strong></td>
-		<td style="font-size:14.5px; margin-bottom:5px;">
-			<strong style="font-family:sans-serif;">NorthZone ICT Competition (Comics)</strong>
-			<br>
-			<ul>
-				<li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">1<sup>st</sup> Place (Secondary Category)</li>
-			</ul>
-			<strong style="font-family:sans-serif;">Digital Music Carnival (organised by Elchemi Education)</strong>
-			<br>
-			<ul>
-				<li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">Gold Award (Avante Garde Category)</li>
-			</ul>
-		</td>
-	</tr>
-														
+<td><strong style="font-family:sans-serif;font-size:14.5px;">2010</strong></td>
+	<td><strong style="font-family:sans-serif;font-size:15px;">NorthZone ICT Competition (Comics)</strong>
+		<ul>
+			<li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">1<sup>st</sup> Place (Secondary Category)</li>
+		</ul>
+		<strong style="font-family:sans-serif;font-size:15px;">Digital Music Carnival (organised by Elchemi Education)</strong>
+		<ul>
+			<li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">Gold Award (Avante Garde Category)</li>
+		</ul>
+	</td>
+</tr>
+
 </tbody>
 </table>
-
 <h3 style="margin-top:10px;font-weight: bold;color:#000000">CCA Activities</h3>
 
 <ul style="margin-top:5px">
