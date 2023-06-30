@@ -14,11 +14,11 @@ third_nav_title: Sports & Games
 
 <h3 style="margin-top:10px;font-weight: bold;color:#000000;">Achievements</h3>
 
-<table border="1" style="border-collapse: collapse;margin: 25px 0;font-size:15px;font-family: sans-serif;box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);line-height:1.3;">
+<table style="border-collapse: collapse;margin: 25px 0;margin-top:5px;font-family: sans-serif;box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);" border="1">
 	
 <thead style="background-color: #009879; font-weight: bold; font-size: 15.5px;">
 	<tr>
-			<td style="text-align:left;color:white;font-family:sans-serif;">Year of Competition</td>
+			<td style="text-align:left;color:white;font-family:sans-serif;">Year of <br>Competition</td>
 			<td style="text-align:left;color:white;font-family:sans-serif;">Attainment</td>
 		</tr>
 	</thead>
@@ -29,14 +29,14 @@ third_nav_title: Sports & Games
 	<td style="font-size:14.5px;"><strong style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">PAssion Wave Orienteering Championship ‘B’ division </strong>
 		<br>
 		<ul style="margin-top:-5px">
-			<li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">2 <sup>nd</sup> Place</li>
+			<li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">2<sup style="font-family:sans-serif;">nd</sup> Place</li>
 		</ul>
 		<strong style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">PAssion Wave Orienteering Championship ‘C’ division </strong>
 		<br>
 		<ul style="margin-top:-5px">
-			<li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">1<sup>st</sup> Place</li>
-			<li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">2<sup>nd</sup> Place</li>
-			<li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">3<sup>rd</sup> Place</li>
+			<li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">1<sup style="font-family:sans-serif;">st</sup> Place</li>
+			<li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">2<sup style="font-family:sans-serif;">nd</sup> Place</li>
+			<li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">3<sup style="font-family:sans-serif;">rd</sup> Place</li>
 		</ul>
 	</td>
 </tr>
@@ -46,11 +46,11 @@ third_nav_title: Sports & Games
 	<td style="font-size:14.5px;"><strong style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">GARanG Race Mixed category </strong>
 		<br>
 		<ul style="margin-top:-5px"> 
-			<li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;"> 4<sup>th</sup> Place</li>
+			<li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;"> 4<sup style="font-family:sans-serif;">th</sup> Place</li>
 		</ul>
 		<strong style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">National Orienteering Race ‘C’ division </strong>
 		<ul style="margin-top:-5px;">
-			<li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;"> 3<sup>rd</sup> Place</li>
+			<li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;"> 3<sup style="font-family:sans-serif;">rd</sup> Place</li>
 		</ul>
 	</td>
 </tr>
@@ -81,7 +81,7 @@ third_nav_title: Sports & Games
 		</tr>
 <tr>
 			<td style="font-weight: bold; font-size: 15px; border-bottom: 1px solid #dddddd;width:30%;font-family:sans-serif;letter-spacing:0.2px">CCA Schedule</td>
-			<td style="font-size: 14.5px; border-bottom: 1px solid #dddddd;font-family:sans-serif;letter-spacing:0.2px">Tuesdays 3.30-5pm<br>Fridays 2.30-5.30pm
+			<td style="font-size: 14.5px; border-bottom: 1px solid #dddddd;font-family:sans-serif;letter-spacing:0.2px">Tuesdays 3.30 - 5.00pm<br>Fridays 2.30 - 5.30pm
 </td>
 		</tr>
 		
