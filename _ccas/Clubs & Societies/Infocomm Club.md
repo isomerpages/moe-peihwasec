@@ -20,7 +20,7 @@ third_nav_title: Clubs & Societies
 
 <h3 style="margin-top:10px;font-weight: bold;color:#000000;">Achievements</h3>
 
-<table border="1" style="border-collapse: collapse;margin: 25px 0;font-size:15px;font-family: sans-serif;box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);line-height:1.3;">
+<table border="1" style="border-collapse: collapse;margin: 25px 0; margin-top:5px;font-size:15px;font-family: sans-serif;box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);line-height:1.3;">
 	
 <thead style="background-color: #009879; font-weight: bold; font-size: 15.5px;">
 	<tr>
@@ -46,8 +46,8 @@ third_nav_title: Clubs & Societies
 		<br>
 		<ul style="margin-top:-5px"> 
 			<li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;"> 1<sup>st</sup> Position (Lee Jia Jing)</li>
-		<li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;"> 2<sup>nd</sup> Position (Tan Xing Wei)</li>
-		<li style="font-size:14.5px;margin-bottom:-5px;font-family:sans-serif;line-height:1.5;"> 3<sup>rd</sup> Position (Ku Wan Jing)</li>
+		<li style="font-size:14.5px; line-height:1.5;margin-top:5px; font-family:sans-serif;"> 2<sup>nd</sup> Position (Tan Xing Wei)</li>
+		<li style="font-size:14.5px; line-height:1.5 ;margin-top:5px; font-family:sans-serif;"> 3<sup>rd</sup> Position (Ku Wan Jing)</li>
 		</ul>
 		<strong style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">Digital Music Carnival 2 Competition (organised by Elchemi Education)</strong>
 		<ul style="margin-top:-5px;">
