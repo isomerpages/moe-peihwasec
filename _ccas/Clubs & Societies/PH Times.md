@@ -10,7 +10,7 @@ third_nav_title: Clubs & Societies
 
 
 <p style="font-size:14.5px; line-height:1.5;margin-top:15px; font-family:sans-serif;">The CCA will enable our students to:</p>
-<ul style="margin-top:5px;">
+<ul style="margin-top:-5px;">
 	<li style="font-size:14.5px; line-height:1.5;font-family:sans-serif;"> acquire and apply basic photography and videography knowledge and skills</li>
 	<li style="font-size:14.5px; line-height:1.5;font-family:sans-serif;"> demonstrate creativity through photography and videography activities</li>
 	<li style="font-size:14.5px; line-height:1.5;font-family:sans-serif;"> develop into being a team player and work collaboratively with others</li>
@@ -18,17 +18,16 @@ third_nav_title: Clubs & Societies
 
 <h3 style="margin-top:10px;font-weight: bold;color:#000000">Achievements</h3>
 
-<table style="border-collapse: collapse;margin: 25px 0;font-family: sans-serif;box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);" border="1">
+<table style="border-collapse: collapse;margin: 25px 0;margin-top:5px;font-family: sans-serif;box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);" border="1">
 	
 <thead style="background-color: #009879; font-weight: bold; font-size: 15.5px;">
 	<tr>
-			<td style="text-align:left;color:white;font-family:sans-serif;">Year of Competition</td>
+			<td style="text-align:left;color:white;font-family:sans-serif;">Year of <br>Competition</td>
 			<td style="text-align:left;color:white;font-family:sans-serif;">Attainment</td>
 		</tr>
 	</thead>
 	
 <tbody>
-
 <tr>
 <td style="font-size:14.5px;"><strong style="font-family:sans-serif;">2016</strong></td>
 <td style="font-size:15px;"><strong style="font-family:sans-serif;">Canon Photomarathon</strong>
@@ -118,7 +117,7 @@ third_nav_title: Clubs & Societies
 <h3 style="margin-top:10px;font-weight: bold;color:#000000">CCA Activities</h3>
 <p style="font-size:14.5px; line-height:2;margin-top:15px; font-family:sans-serif;">Our CCA members are given the opportunity to apply their photography and videography knowledge and skills in various platforms. This allows them to explore photojournalism, broadcast journalism and digital journalism. Some of the platforms are:</p>
 
-<ul style="margin-top:5px">
+<ul style="margin-top:-5px">
 	<li style="font-size:14.5px; line-height:1.5 ;margin-top:5px; font-family:sans-serif;"> school events and celebrations</li>
 <li style="font-size:14.5px; line-height:1.5 ;margin-top:5px; font-family:sans-serif;"> student-led CCA activities / projects</li>
 	</ul>
@@ -126,26 +125,26 @@ third_nav_title: Clubs & Societies
 <div style="display: flex; flex-wrap: wrap; justify-content: space-between; max-width: 800px; margin: 0 auto;" class="image-container">
 	<div style="width: 45%; margin-bottom: 20px; box-sizing: border-box; text-align: center;" class="image-box">
     <img style="width: 100%; margin-bottom: 10px;" alt="Image 1" src="https://raw.githubusercontent.com/isomerpages/moe-peihwasec/staging/images/CCA/phtimes02.png">
-    <p style="font-size:14.5px; line-height:1.5 ;margin:0; font-family:sans-serif;">Filming a SYF Band performance during COVID-19 period</p>
+    <p style="text-align: center; font-size:10px;margin-top:-5px;font-family:sans-serif;line-height:1.5;">Filming a SYF Band performance during COVID-19 period</p>
   </div>
 	<div style="width: 45%; margin-bottom: 20px; box-sizing: border-box; text-align: center;" class="image-box">
     <img style="width: 100%; margin-bottom: 10px;" alt="Image 1" src="https://raw.githubusercontent.com/isomerpages/moe-peihwasec/staging/images/CCA/phtimes03.png">
-    <p style="font-size:14.5px; line-height:1.5 ;margin:0; font-family:sans-serif;">Pei Hwa Secondary School’s National Day Parade</p>
+    <p style="text-align: center; font-size:10px;margin-top:-5px;font-family:sans-serif;line-height:1.5;">Pei Hwa Secondary School’s National Day Parade</p>
   </div>
 	<div style="width: 45%; margin-bottom: 20px; box-sizing: border-box; text-align: center;" class="image-box">
     <img style="width: 100%; margin-bottom: 10px;" alt="Image 1" src="https://raw.githubusercontent.com/isomerpages/moe-peihwasec/staging/images/CCA/phtimes04.png">
-    <p style="font-size:14.5px; line-height:1.5 ;margin:0; font-family:sans-serif;">A broadcast production</p>
+    <p style="text-align: center; font-size:10px;margin-top:-5px;font-family:sans-serif;line-height:1.5;">A broadcast production</p>
   </div><div style="width: 45%; margin-bottom: 20px; box-sizing: border-box; text-align: center;" class="image-box">
     <img style="width: 100%; margin-bottom: 10px;" alt="Image 1" src="https://raw.githubusercontent.com/isomerpages/moe-peihwasec/staging/images/CCA/phtimes05.png">
-    <p style="font-size:14.5px; line-height:1.5 ;margin:0; font-family:sans-serif;">Mapping the layout of articles produced by PH Times members</p>
+    <p style="text-align: center; font-size:10px;margin-top:-5px;font-family:sans-serif;line-height:1.5;">Mapping the layout of articles produced by PH Times members</p>
   </div>
 </div>
 
 <p style="font-size:14.5px; line-height:2;margin-top:15px; font-family:sans-serif;">Our CCA also encourages members to take part in the following competitions:</p>
 
-<ul style="margin-top:5px">
+<ul style="margin-top:-5px">
 	<li style="font-size:14.5px; line-height:1.5 ;margin-top:5px; font-family:sans-serif;"> Our School, Our Stories Photo and Video Contest</li>
-<li style="font-size:14.5px; line-height:1.5 ;margin-top:5px; font-family:sans-serif;"> Our School, Our Stories Photo and Video Contest</li>
+<li style="font-size:14.5px; line-height:1.5 ;margin-top:5px; font-family:sans-serif;"> DRUGFREESG Video Competition</li>
 	</ul>
 
 <h3 style="margin-top:10px;font-weight: bold;color:#000000">Student Testament</h3>
