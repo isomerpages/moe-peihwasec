@@ -35,7 +35,7 @@ third_nav_title: Clubs & Societies
 	<td style="font-size:14.5px;"><strong style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">National Infocomm Club Awards</strong>
 		<br>
 		<ul style="margin-top:-5px">
-			<li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">The Choice Award</li>
+			<li style="font-size:14.5px;margin-bottom:0px;font-family:sans-serif;line-height:1.5;">The Choice Award</li>
 		</ul>
 	</td>
 </tr>
@@ -47,11 +47,11 @@ third_nav_title: Clubs & Societies
 		<ul style="margin-top:-5px"> 
 			<li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;"> 1<sup>st</sup> Position (Lee Jia Jing)</li>
 		<li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;"> 2<sup>nd</sup> Position (Tan Xing Wei)</li>
-		<li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;"> 3<sup>rd</sup> Position (Ku Wan Jing)</li>
+		<li style="font-size:14.5px;margin-bottom:-5px;font-family:sans-serif;line-height:1.5;"> 3<sup>rd</sup> Position (Ku Wan Jing)</li>
 		</ul>
 		<strong style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">Digital Music Carnival 2 Competition (organised by Elchemi Education)</strong>
 		<ul style="margin-top:-5px;">
-			<li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">  Gold Award</li>
+			<li style="font-size:14.5px;margin-bottom:0px;font-family:sans-serif;line-height:1.5;">  Gold Award</li>
 		</ul>
 	</td>
 </tr>
@@ -61,10 +61,10 @@ third_nav_title: Clubs & Societies
 	<td style="font-size:14,5px;"><strong style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">NorthZone ICT Competition (Comics)</strong>
 		<br>
 		<ul style="margin-top:-5px">
-			<li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;"> 1<sup>st</sup> Place (Secondary Category)</li>
+			<li style="font-size:14.5px;margin-bottom:-5px;font-family:sans-serif;line-height:1.5;"> 1<sup>st</sup> Place (Secondary Category)</li>
 		</ul>
 		<strong style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">Digital Music Carnival(organised by Elchemi Education)</strong><ul>
-		<li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;"> Gold Award (Avante Garde Category)</li>
+		<li style="font-size:14.5px;margin-bottom:0px;font-family:sans-serif;line-height:1.5;"> Gold Award (Avante Garde Category)</li>
 		</ul>
 	</td>
 </tr>
