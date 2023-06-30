@@ -18,7 +18,7 @@ third_nav_title: Clubs & Societies
 
 <p style="font-size:14.5px; line-height:2 ;margin-top:5px; font-family:sans-serif;" class="description">Some other school events which the Student Council would support include:</p>
 
-<ul style="margin-top:5px">
+<ul style="margin-top:-5px">
 	<li style="font-size:14.5px; line-height:1.5 ;margin-top:5px; font-family:sans-serif;"> Chinese New Year Celebration</li>
 <li style="font-size:14.5px; line-height:1.5 ;margin-top:5px; font-family:sans-serif;"> PHiesta </li>
 		<li style="font-size:14.5px; line-height:1.5 ;margin-top:5px; font-family:sans-serif;"> Awards Day</li>
@@ -48,7 +48,7 @@ third_nav_title: Clubs & Societies
 <h5 style="margin-top:10px;font-weight: bold;color:#000000">Leadership Development Opportunities</h5>
 
 <p style="font-size:14.5px; line-height:2 ;margin-top:5px; font-family:sans-serif;" class="description">In addition</p>
-<ul style="margin-top:5px">
+<ul style="margin-top:-5px">
 	<li style="font-size:14.5px; line-height:1.5 ;margin-top:5px; font-family:sans-serif;"> Sec 2 Basic Leadership Camp</li>
 <li style="font-size:14.5px; line-height:1.5 ;margin-top:5px; font-family:sans-serif;"> Sec 3 Advanced Leadership Camp</li>
 		<li style="font-size:14.5px; line-height:1.5 ;margin-top:5px; font-family:sans-serif;"> Communications Training</li>
@@ -56,4 +56,3 @@ third_nav_title: Clubs & Societies
 		<li style="font-size:14.5px; line-height:1.5 ;margin-top:5px; font-family:sans-serif;"> Strengths Finder Workshop</li>
 	<li style="font-size:14.5px; line-height:1.5 ;margin-top:5px; font-family:sans-serif;"> Leadership events by other organisations</li>
 	</ul>
-
