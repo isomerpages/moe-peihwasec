@@ -24,16 +24,17 @@ third_nav_title: Sports & Games
 	
 <h3 style="margin-top:10px;font-weight: bold;color:#000000;">Achievements</h3>
 
-<table border="1" style="border-collapse: collapse;margin: 25px 0;font-size:15px;font-family: sans-serif;box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);line-height:1.3;">
+<table style="border-collapse: collapse;margin: 25px 0;margin-top:5px;font-family: sans-serif;box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);" border="1">
 	
 <thead style="background-color: #009879; font-weight: bold; font-size: 15.5px;">
 	<tr>
-			<td style="text-align:left;color:white;font-family:sans-serif;">Year of Competition</td>
+			<td style="text-align:left;color:white;font-family:sans-serif;">Year of <br>Competition</td>
 			<td style="text-align:left;color:white;font-family:sans-serif;">Attainment</td>
 		</tr>
 	</thead>
 	
 <tbody>
+
 <tr style="border-bottom: 1px solid #dddddd;">
 <td><strong style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">2023</strong></td>
 	<td style="font-size:14.5px;"><strong style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">National School Games Floorball Championships (B Division) 2<sup>nd</sup> Round</strong>
@@ -45,7 +46,7 @@ third_nav_title: Sports & Games
 	<td style="font-size:14.5px;"><strong style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">Pesta Sukan Floorball Competition U14 </strong>
 		<br>
 		<ul style="margin-top:-5px"> 
-			<li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">4<sup>th</sup> Position</li>
+			<li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">4<sup style="font-family:sans-serif;">th</sup> Place</li>
 		</ul>
 	</td>
 </tr>
@@ -55,13 +56,13 @@ third_nav_title: Sports & Games
 	<td style="font-size:14,5px;"><strong style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">National School Games Floorball Championships (B Division) </strong>
 		<br>
 		<ul style="margin-top:-5px">
-			<li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;"> 3<sup>rd</sup> Position</li>
+			<li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;"> 3<sup style="font-family:sans-serif;">rd</sup> Place</li>
 		</ul>
 		<strong style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">ActiveSG-Singapore Floorball League Division 2 Women’s </strong><ul>
-		<li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;"> 10<sup>th</sup> Position</li>
+		<li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;"> 10<sup style="font-family:sans-serif;">th</sup> Place</li>
 		</ul>
 		<strong style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">ActiveSG-Singapore Floorball League Division 3 Women’s </strong><ul>
-		<li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;"> 13<sup>th</sup> Position</li>
+		<li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;"> 13<sup style="font-family:sans-serif;">th</sup> Place</li>
 		</ul>
 		<strong style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">National Colours Best Sportsgirl Award </strong><ul>
 		<li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">Shannon Ashwini d/o Kumaran N.</li>
@@ -71,7 +72,7 @@ third_nav_title: Sports & Games
 		<li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;"> Kristine Lim Li Ying</li>
 		</ul>
 		<strong style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">Northland Floorball Faceoff (B Division)</strong><ul>
-		<li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;"> 1<sup>st</sup> Position</li>
+		<li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;"> 1<sup style="font-family:sans-serif;">st</sup> Place</li>
 		</ul>
 	</td>
 </tr>
@@ -89,48 +90,48 @@ third_nav_title: Sports & Games
 		<li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;"> Top 10</li>
 		</ul>
 		<strong style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">Singapore Youth Olympic Festival Floorball Competition (Under-14)</strong><ul>
-		<li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;"> 3<sup>rd</sup> Position</li>
+		<li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;"> 3<sup style="font-family:sans-serif;">rd</sup> Place</li>
 		</ul>
 		<strong style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">Singapore Youth Olympic Festival Floorball Competition (Under-17)  </strong><ul>
-		<li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">1<sup>st</sup> Position</li>
+		<li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">1<sup style="font-family:sans-serif;">st</sup> Place</li>
 		</ul>
 		<strong style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">ActiveSG-Singapore Floorball League Division 2 Women’s </strong>
 	<ul>
-		<li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;"> 8<sup>th</sup> Position</li>
+		<li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;"> 8<sup style="font-family:sans-serif;">th</sup> Place</li>
 		</ul>
 		<strong style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">ActiveSG-Singapore Floorball League Division 3 Women’s  </strong><ul>
-		<li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;"> 7<sup>th</sup> Position</li>
+		<li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;"> 7<sup style="font-family:sans-serif;">th</sup> Place</li>
 		</ul>
 		<strong style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">Taishan Floorball Cup (Under-17) </strong><ul>
-		<li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;"> 3<sup>rd</sup> Position</li>
+		<li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;"> 3<sup style="font-family:sans-serif;">rd</sup> Place</li>
 		</ul>
 	<strong style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">Kent Ridge Invitational Floorball Cup (C Division)</strong>
 		<br>
 		<ul style="margin-top:-5px">
-			<li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">1<sup>st</sup> Position</li>
+			<li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">1<sup style="font-family:sans-serif;">st</sup> Place</li>
 		</ul>
 		<strong style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">Northland Invitational Floorball Tournament (B Division) 
 </strong><ul>
-		<li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;"> 1<sup>st</sup> Position</li>
+		<li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;"> 1<sup style="font-family:sans-serif;">st</sup> Place</li>
 		</ul>
 		<strong style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">Tampines Floorball Cup (Under-14)</strong><ul>
-		<li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;"> 2<sup>nd</sup> Position</li>
+		<li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;"> 2<sup style="font-family:sans-serif;">nd</sup> Place</li>
 		</ul>
 		<strong style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">Tampines Floorball Cup (Under-17) </strong><ul>
-		<li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">1<sup>st</sup> Position</li>
+		<li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">1<sup style="font-family:sans-serif;">st</sup> Place</li>
 		</ul>
 		<strong style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">Tampines Floorball Cup MVP (Under-17) </strong>
 	<ul>
 		<li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;"> Ulfah Irdina</li>
 		</ul>
 		<strong style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">Belles Floorball Fiesta 2018 (Under-17) </strong><ul>
-		<li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;"> 2<sup>nd</sup> Position</li>
+		<li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;"> 2<sup style="font-family:sans-serif;">nd</sup> Place</li>
 		</ul>
 		<strong style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">Merahans Open 3 on 3 (Under-17) </strong><ul>
-		<li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;"> 1<sup>st</sup> Position</li>
+		<li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;"> 1<sup style="font-family:sans-serif;">st</sup> Place</li>
 		</ul>
 			<strong style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">Merahans Open 3 on 3 </strong><ul>
-		<li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;"> 4<sup>th</sup> Position</li>
+		<li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;"> 4<sup style="font-family:sans-serif;">th</sup> Place</li>
 		</ul>
 		<strong style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">Merahans Open MVP (Under-17) </strong><ul>
 		<li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;"> Shannon Ashwini d/o Kumaran N.</li>
@@ -146,24 +147,24 @@ third_nav_title: Sports & Games
 			<li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;"> Top 10</li>
 		</ul>
 		<strong style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">National School Games Floorball Championships (C Division) </strong><ul>
-		<li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;"> 4<sup>th</sup> Position</li>
+		<li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;"> 4<sup style="font-family:sans-serif;">th</sup> Place</li>
 		</ul>
 		<strong style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">National Colours Award (Team) C Division</strong>
 		<strong style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">Arena@OTH Floorball 3V3 (Under-13) </strong><ul>
-		<li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">1<sup>st </sup> Position</li>
+		<li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">1<sup style="font-family:sans-serif;">st</sup> Place</li>
 		</ul>
 		<strong style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">Merahans Joka Sports 3V3 (Under-15)</strong>
 	<ul>
-		<li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;"> 1<sup>st</sup> Position</li>
+		<li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;"> 1<sup style="font-family:sans-serif;">st</sup> Place</li>
 		</ul>
 		<strong style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">Tampines West CC 3-on-3 (Under- 17) </strong><ul>
-		<li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;"> 1<sup>st</sup> Position</li>
+		<li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;"> 1<sup style="font-family:sans-serif;">st</sup> Place</li>
 		</ul>
 		<strong style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">U Sports 3-on-3 Floorball Faceoff 2017 (Under-15) </strong><ul>
-		<li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;"> 1<sup>st</sup> Position</li>
+		<li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;"> 1<sup style="font-family:sans-serif;">st</sup> Place</li>
 		</ul>
 		<strong style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">ActiveSG-Singapore Floorball League Division 3 Women’s </strong><ul>
-		<li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;"> 3<sup>rd</sup> Position</li>
+		<li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;"> 3<sup style="font-family:sans-serif;">rd</sup> Place</li>
 		</ul>
 	</td>
 </tr>
@@ -189,7 +190,7 @@ third_nav_title: Sports & Games
 		</tr>
 <tr>
 			<td style="font-weight: bold; font-size: 15px; border-bottom: 1px solid #dddddd;width:30%;font-family:sans-serif;letter-spacing:0.2px">CCA Schedule</td>
-			<td style="font-size: 14.5px; border-bottom: 1px solid #dddddd;font-family:sans-serif;letter-spacing:0.2px">Tuesdays 3.30-6pm<br>Fridays 2.30-6pm
+			<td style="font-size: 14.5px; border-bottom: 1px solid #dddddd;font-family:sans-serif;letter-spacing:0.2px">Tuesdays 3.30 - 6.00pm<br>Fridays 2.30 - 6.00pm
 
 </td>
 		</tr>
