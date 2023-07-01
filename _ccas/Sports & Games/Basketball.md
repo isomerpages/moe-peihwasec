@@ -58,6 +58,37 @@ third_nav_title: Sports & Games
 </tbody>
 </table>
 
+<h3 style="margin-top:10px;font-weight: bold;color:#000000">Student Testament</h3>
+
+<blockquote style="font-size: 15px;
+  width:100%;
+  margin:50px auto;
+  font-family:serif;
+  font-style:italic;
+  color: #555555;
+  padding:1.2em 25px 1.2em 25px;
+  border-left:8px solid #78C0A8 ;
+  line-height:1.6;
+  position: relative;
+  background:#EDEDED;">
+<img align="left" src="/images/Picture14.jpg" style="width: 23%;  margin-right:15px;">
+	"I enjoy my CCA a lot as I can make new friends from different levels and widen up my social circle. In our badminton CCA, we always learn new skills and techniques from one another and  we all can improve together. My CCA mates have been very supportive and caring towards me.  This CCA has not only taught me badminton skills but also taught me important values such as resilience, teamwork and sportsmanship. I always look forward to CCA as I get to mingle with my CCA mates and understand them better. This also gives us the opportunity to interact with different levels to know what everyone is learning about. We are united as one and we always share our problems and true feelings with one another. Despite the tough training, we enjoy ourselves as we all go through the hardship as a CCA."
+  <span style="display:block; color:#333333; margin-top:1em;font-size:15px;font-family:sans-serif;"><em style="font-family:sans-serif;">Vice-Captain (Boys Team), Wong Xi Jie, 3I5</em></span>
+	</blockquote> 
+	
+<blockquote>
+  <p style="float:right;width:50%;">	"I enjoy my CCA a lot as I can make new friends from different levels and widen up my social circle. In our badminton CCA, we always learn new skills and techniques from one another and  we all can improve together. My CCA mates have been very supportive and caring towards me.  This CCA has not only taught me badminton skills but also taught me important values such as resilience, teamwork and sportsmanship</p>
+  <figure>
+    <img style="float left;" alt="This is an image" src="image.jpg">
+  </figure>
+</blockquote>
+	
+<blockquote style="font-size: 15px;width:100%;margin:50px auto;font-family:serif;font-style:italic;color: #555555;padding:1.2em 25px 1.2em 25px;border-left:8px solid #78C0A8 ;line-height:1.6;background:#EDEDED;">
+<img src="/images/Picture14.jpg" style="width: 50%;">
+	"I enjoy my CCA a lot as I can make new friends from different levels and widen up my social circle. In our badminton CCA, we always learn new skills and techniques from one another and  we all can improve together. My CCA mates have been very supportive and caring towards me.  This CCA has not only taught me badminton skills but also taught me important values such as resilience, teamwork and sportsmanship. I always look forward to CCA as I get to mingle with my CCA mates and understand them better. This also gives us the opportunity to interact with different levels to know what everyone is learning about. We are united as one and we always share our problems and true feelings with one another. Despite the tough training, we enjoy ourselves as we all go through the hardship as a CCA."
+  <span style="display:block; color:#333333; margin-top:1em;font-size:15px;font-family:sans-serif;"><em style="font-family:sans-serif;">Vice-Captain (Boys Team), Wong Xi Jie, 3I5</em></span>
+	</blockquote> 
+
 <h3 style="margin-top:10px;font-weight: bold;color:#000000">CCA Details</h3>
 
 <table style="width:100%;border-collapse: collapse;border: none;">
