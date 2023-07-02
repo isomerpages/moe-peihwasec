@@ -6,7 +6,7 @@ third_nav_title: Uniformed Groups
 ---
 <h4 style="margin-top:10px;font-weight: bold;color:#000000">Nurturing. Committed. Cool.</h4>
 
-<img style="width: 100%; height: auto;margin-top:30px;margin-bottom:30px;" alt="Image" src="">
+<img style="width: 100%; height: auto;margin-top:30px;margin-bottom:30px;" alt="Image" src="https://raw.githubusercontent.com/isomerpages/moe-peihwasec/staging/images/CCA/nccbanner.png">
 
 <p style="font-size:14.5px; line-height:2 ;margin-top:5px; font-family:sans-serif;" class="description">In <strong style="font-size:14.5px; line-height:2; font-family:sans-serif;">Pei Hwa NCC</strong>, our motto is "Learning Above All." With a team of dedicated teachers, mentors, and seniors, we foster a mindset among cadets where they find courage in taking on challenges, valuing the experience of trying rather than fearing the possibility of failure. We aim to develop cadets with outstanding moral and character values through the "Cadet Strong" framework and the 3-tiered curriculum. Our training often incorporates outdoor components that are fun and engaging. During our comprehensive training programme, cadets have the valuable opportunity to forge strong bonds and foster a deep sense of camaraderie with each other. </p>
 
@@ -14,11 +14,11 @@ third_nav_title: Uniformed Groups
 
 <h3 style="margin-top:10px;font-weight: bold;color:#000000;">Achievements</h3>
 
-<table border="1" style="border-collapse: collapse;margin: 25px 0;font-size:15px;font-family: sans-serif;box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);line-height:1.3;">
+<table style="border-collapse: collapse;margin: 25px 0;margin-top:5px;font-family: sans-serif;box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);" border="1">
 	
-<thead style="background-color: #009879; font-weight: bold; font-size: 15.5px;">
+<thead style="background-color:#0C6523; font-weight: bold; font-size: 15.5px;">
 	<tr>
-			<td style="text-align:left;color:white;font-family:sans-serif;">Year of Competition</td>
+			<td style="text-align:left;color:white;font-family:sans-serif;">Year of <br>Competition</td>
 			<td style="text-align:left;color:white;font-family:sans-serif;">Attainment</td>
 		</tr>
 	</thead>
@@ -79,7 +79,7 @@ third_nav_title: Uniformed Groups
 	</td>
 </tr>
 	
-<tr style="background-color: #f3f3f3;border-bottom: 2px solid #009879; line-height:1.3;">
+<tr style="background-color: #f3f3f3;border-bottom: 2px solid #0C6523;  line-height:1.3;">
 <td style="font-size:14.5px;"><strong style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">2016</strong></td>
 			<td style="font-size:14.5px;">
 		<strong style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">Unit Recognition Award</strong>
@@ -116,8 +116,8 @@ third_nav_title: Uniformed Groups
 		</tr>
 <tr>
 			<td style="font-weight: bold; font-size: 15px; border-bottom: 1px solid #dddddd;width:30%;font-family:sans-serif;letter-spacing:0.2px">CCA Schedule</td>
-			<td style="font-size: 14.5px; border-bottom: 1px solid #dddddd;font-family:sans-serif;letter-spacing:0.2px">Tuesdays, 3.30pm – 6.00pm<br>
-Fridays, 2.30pm – 6.00pm
+			<td style="font-size: 14.5px; border-bottom: 1px solid #dddddd;font-family:sans-serif;letter-spacing:0.2px">Tuesdays 3.30pm – 6.00pm<br>
+Fridays 2.30pm – 6.00pm
 </td>
 		</tr>
 		
