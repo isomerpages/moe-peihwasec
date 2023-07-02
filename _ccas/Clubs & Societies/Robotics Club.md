@@ -12,7 +12,7 @@ third_nav_title: Clubs & Societies
 
 <table style="border-collapse: collapse;margin: 25px 0;margin-top:5px;font-family: sans-serif;box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);" border="1">
 	
-<thead style="background-color: #009879; font-weight: bold; font-size: 15.5px;">
+<thead style="background-color: #0C6523;font-weight: bold; font-size: 15.5px;">
 	<tr>
 			<td style="text-align:left;color:white;font-family:sans-serif;">Year of <br>Competition</td>
 			<td style="text-align:left;color:white;font-family:sans-serif;">Attainment</td>
@@ -20,7 +20,6 @@ third_nav_title: Clubs & Societies
 	</thead>
 	
 <tbody>
-
 <tr>
 <td style="font-size:14.5px;"><strong style="font-family:sans-serif;font-size:14.5px;">2023</strong></td>
 	<td><strong style="font-family:sans-serif;font-size:15px;">RoboCup Singapore Open</strong>
@@ -126,7 +125,7 @@ Tay Kai Wen, Bryan (4D1), Lai Le Xin Grace (3I4), Ain Myeisha Arman (3I1), Chang
 	</td>
 </tr>
 
-<tr style="border-bottom: 2px solid #009879;">
+<tr style="border-bottom: 2px solid #0C6523;">
 <td><strong style="font-family:sans-serif;font-size:14.5px;">2017</strong></td>
 	<td><strong style="font-family:sans-serif;font-size:15px;">RoboCupJunior Singapore Open</strong>
 		<br>
@@ -168,8 +167,8 @@ Tay Kai Wen, Bryan (4D1), Lai Le Xin Grace (3I4), Ain Myeisha Arman (3I1), Chang
 		</tr>
 <tr>
 			<td style="font-weight: bold; font-size: 15px; border-bottom: 1px solid #dddddd;width:30%;font-family:sans-serif;">CCA Schedule</td>
-			<td style="font-size: 14.5px; border-bottom: 1px solid #dddddd;font-family:sans-serif;line-height:1.5">*Tuesday 3.30pm - 6.00pm<br>
-Fridays 2.30 - 6.00pm
+			<td style="font-size: 14.5px; border-bottom: 1px solid #dddddd;font-family:sans-serif;line-height:1.5">*Tuesdays 3.30pm - 6.00pm<br>
+Fridays 2.30pm - 6.00pm
 				<br><br>
 *ad-hoc enrichment/intensive training for competition
 </td>
