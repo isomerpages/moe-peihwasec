@@ -148,8 +148,8 @@ third_nav_title: Performing Arts
 		</tr>
 <tr>
 			<td style="font-weight: bold; font-size: 15px; border-bottom: 1px solid #dddddd;width:30%;font-family:sans-serif;letter-spacing:0.2px">CCA Schedule</td>
-			<td style="font-size: 14.5px; border-bottom: 1px solid #dddddd;font-family:sans-serif;letter-spacing:0.2px">Tuesdays, 3.30pm – 6.00pm<br>
-Fridays, 2.30pm – 6.00pm
+			<td style="font-size: 14.5px; border-bottom: 1px solid #dddddd;font-family:sans-serif;letter-spacing:0.2px">Tuesdays 3.30pm – 6.00pm<br>
+Fridays 2.30pm – 6.00pm
 </td>
 		</tr>
 		
