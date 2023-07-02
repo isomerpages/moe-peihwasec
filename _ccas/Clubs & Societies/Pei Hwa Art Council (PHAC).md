@@ -21,7 +21,7 @@ third_nav_title: Clubs & Societies
 <h3 style="margin-top:10px;font-weight: bold;color:#000000">Achievements</h3>
 <table style="border-collapse: collapse;margin: 25px 0;margin-top:5px;font-family: sans-serif;box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);" border="1">
 	
-<thead style="background-color: #009879; font-weight: bold; font-size: 15.5px;">
+<thead style="background-color:#0C6523; font-weight: bold; font-size: 15.5px;">
 	<tr>
 			<td style="text-align:left;color:white;font-family:sans-serif;">Year of <br>Competition</td>
 			<td style="text-align:left;color:white;font-family:sans-serif;">Attainment</td>
@@ -57,7 +57,7 @@ third_nav_title: Clubs & Societies
 </td>
 </tr>
 														
-<tr style="border-bottom: 2px solid #009879;background-color: #f3f3f3;">
+<tr style="border-bottom: 2px solid #0C6523;background-color: #f3f3f3;">
 <td style="font-size:14.5px;"><strong style="font-family:sans-serif;">2018</strong></td>
 <td style="font-size:15px;"><strong style="font-family:sans-serif;">NKF Schools Postcard Design Contest</strong>
 <br>
@@ -88,7 +88,7 @@ third_nav_title: Clubs & Societies
 		</tr>
 <tr>
 			<td style="font-weight: bold; font-size: 15px; border-bottom: 1px solid #dddddd;width:30%;font-family:sans-serif;">CCA Schedule</td>
-			<td style="font-size: 14.5px; border-bottom: 1px solid #dddddd;font-family:sans-serif;">Friday 2.30pm - 6.00pm
+			<td style="font-size: 14.5px; border-bottom: 1px solid #dddddd;font-family:sans-serif;">Fridays 2.30pm - 6.00pm
 </td>
 		</tr>
 		
