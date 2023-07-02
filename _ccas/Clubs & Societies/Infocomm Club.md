@@ -22,7 +22,7 @@ third_nav_title: Clubs & Societies
 
 <table style="border-collapse: collapse;margin: 25px 0;margin-top:5px;font-family: sans-serif;box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);" border="1">
 	
-<thead style="background-color: #009879; font-weight: bold; font-size: 15.5px;">
+<thead style="background-color:#0C6523; font-weight: bold; font-size: 15.5px;">
 	<tr>
 			<td style="text-align:left;color:white;font-family:sans-serif;">Year of <br>Competition</td>
 			<td style="text-align:left;color:white;font-family:sans-serif;">Attainment</td>
@@ -56,7 +56,7 @@ third_nav_title: Clubs & Societies
 	</td>
 </tr>
 	
-<tr style="border-bottom: 2px solid #009879;">
+<tr style="border-bottom: 2px solid #0C6523;">
 <td><strong style="font-family:sans-serif;font-size:14.5px;">2010</strong></td>
 	<td><strong style="font-family:sans-serif;font-size:15px;">NorthZone ICT Competition (Comics)</strong>
 		<ul>
@@ -105,7 +105,7 @@ Trainers (AVA)
 
 <tr>
 			<td style="font-weight: bold; font-size: 15px; border-bottom: 1px solid #dddddd;width:30%;font-family:sans-serif;letter-spacing:0.2px">CCA Schedule</td>
-			<td style="font-size: 14.5px; border-bottom: 1px solid #dddddd;font-family:sans-serif;letter-spacing:0.2px">Tuesday 3.30pm - 6.00pm<br>*Fridays 2.30 - 5:30pm
+			<td style="font-size: 14.5px; border-bottom: 1px solid #dddddd;font-family:sans-serif;letter-spacing:0.2px">Tuesdays 3.30pm - 6.00pm<br>*Fridays 2.30pm - 5.30pm
 <br><br>
 *ad-hoc trainings (only for AVA crew members)
 </td>
