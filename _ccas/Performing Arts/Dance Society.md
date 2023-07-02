@@ -4,14 +4,14 @@ permalink: /ccas/performing-arts/dance/
 description: ""
 third_nav_title: Performing Arts
 ---
-<img style="width: 100%; height: auto;margin-top:30px;margin-bottom:30px;" alt="Image" src="">
+<img style="width: 100%; height: auto;margin-top:30px;margin-bottom:30px;" alt="Image" src="https://raw.githubusercontent.com/isomerpages/moe-peihwasec/staging/images/CCA/dancebanner.png">
 
 <p style="font-size:14.5px; line-height:2 ;margin-top:5px; font-family:sans-serif;" class="description"> The <strong style="font-size:14.5px; line-height:2; font-family:sans-serif;">Pei Hwa Dance Society</strong> has a long history of being exposed to Modern, Chinese and Malay Dance. It is our goal that in the 4 years of our dancers’ journey, they will explore various genres of dance (Modern / Chinese / Hip Hop / Jazz) in order to develop techniques that will empower them to be versatile performers on stage. </p>
 
 <p style="font-size:14.5px; line-height:2 ;margin-top:5px; font-family:sans-serif;" class="description">Many of our members join with little or no dance background. It is through the regular trainings and role modelling of our diligent and passionate dance leaders, and under the careful tutelage of our instructors, that each member of dance society improves and hones their dance skills. In Dance Society, we expose students to as many opportunities as possible where they participate in public performances such as PHiesta, compete at The Singapore Youth Festival (SYF) and go on learning journeys such as watching performances.</p>
 
 <p style="font-size:14.5px; line-height:1.5;margin-top:15px; font-family:sans-serif;">The CCA will enable our students to:</p>
-<ul style="margin-top:5px;">
+<ul style="margin-top:-5px;">
 	<li style="font-size:14.5px; line-height:1.5;font-family:sans-serif;"> Attain a good level of competency in terms of dance technique </li>
 	<li style="font-size:14.5px; line-height:1.5;font-family:sans-serif;"> Develop and understand spatial and bodily movements</li>
 	<li style="font-size:14.5px; line-height:1.5;font-family:sans-serif;"> Develop stage presence</li>
@@ -21,11 +21,11 @@ third_nav_title: Performing Arts
 
 <h3 style="margin-top:10px;font-weight: bold;color:#000000;">Achievements</h3>
 
-<table border="1" style="border-collapse: collapse;margin: 25px 0;font-size:15px;font-family: sans-serif;box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);line-height:1.3;">
+<table style="border-collapse: collapse;margin: 25px 0;margin-top:5px;font-family: sans-serif;box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);" border="1">
 	
-<thead style="background-color: #009879; font-weight: bold; font-size: 15.5px;">
+<thead style="background-color:#0C6523; font-weight: bold; font-size: 15.5px;">
 	<tr>
-			<td style="text-align:left;color:white;font-family:sans-serif;">Year of Competition</td>
+			<td style="text-align:left;color:white;font-family:sans-serif;">Year of <br>Competition</td>
 			<td style="text-align:left;color:white;font-family:sans-serif;">Attainment</td>
 		</tr>
 	</thead>
@@ -63,7 +63,7 @@ third_nav_title: Performing Arts
 	</td>
 </tr>
 		
-<tr style="border-bottom: 2px solid #009879; font-size:15px;">
+<tr style="border-bottom: 2px solid #0C6523; font-size:15px;">
 <td><strong style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">2019</strong></td>
 		<td style="font-size:14.5px;">
 		<strong style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">	SYF Arts Presentation for International Dance </strong>
@@ -100,8 +100,8 @@ third_nav_title: Performing Arts
 		</tr>
 <tr>
 			<td style="font-weight: bold; font-size: 15px; border-bottom: 1px solid #dddddd;width:30%;font-family:sans-serif;letter-spacing:0.2px">CCA Schedule</td>
-			<td style="font-size: 14.5px; border-bottom: 1px solid #dddddd;font-family:sans-serif;letter-spacing:0.2px">Tuesdays, 3.30pm – 6.00pm<br>
-Fridays, 2.30pm – 6.00pm
+			<td style="font-size: 14.5px; border-bottom: 1px solid #dddddd;font-family:sans-serif;letter-spacing:0.2px">Tuesdays 3.30pm – 6.00pm<br>
+Fridays 2.30pm – 6.00pm
 </td>
 		</tr>
 		
