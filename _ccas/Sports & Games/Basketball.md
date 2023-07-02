@@ -16,7 +16,7 @@ third_nav_title: Sports & Games
 
 <table style="border-collapse: collapse;margin: 25px 0;margin-top:5px;font-family: sans-serif;box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);" border="1">
 	
-<thead style="background-color: #009879; font-weight: bold; font-size: 15.5px;">
+<thead style="background-color:#0C6523; font-weight: bold; font-size: 15.5px;">
 	<tr>
 			<td style="text-align:left;color:white;font-family:sans-serif;">Year of <br>Competition</td>
 			<td style="text-align:left;color:white;font-family:sans-serif;">Attainment</td>
@@ -49,7 +49,7 @@ third_nav_title: Sports & Games
 	</td>
 </tr>
 		
-<tr style="border-bottom: 2px solid #009879; font-size:15px;">
+<tr style="border-bottom: 2px solid #0C6523; font-size:15px;">
 <td><strong style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">2018</strong></td>
 	<td style="font-size:14,5px;"><strong style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">NSG B &amp; C Division Boys  – Group Stage</strong>
 	</td>
@@ -60,10 +60,22 @@ third_nav_title: Sports & Games
 
 <h3 style="margin-top:10px;font-weight: bold;color:#000000">Student Testament</h3>
 
-<blockquote style="font-size: 15px;width:100%;margin:50px auto;margin-top:5px;font-family:serif;font-style:italic;color: #555555;padding:1.2em 25px 1.2em 25px;border-left:8px solid #78C0A8 ;line-height:1.6;position: relative;background:#EDEDED;">
+<blockquote style="font-size: 15px;width:100%;margin:50px auto;margin-top:5px;font-family:serif;font-style:italic;color: #555555;padding:1.2em 25px 1.2em 25px;border-left:8px solid #0C6523;line-height:1.6;position: relative;background:#EDEDED;">
 <img align="left" src="https://raw.githubusercontent.com/isomerpages/moe-peihwasec/staging/images/CCA/basketballtestimonial01.png" style="width: 30%; border-radius: 7%;  margin-right:15px;">
 	"My time in the CCA has shaped me into a more resilient, determined, and confident individual. Firstly, the dedication, expertise, and passion of my coach and teachers for the sport have fostered a supportive and encouraging environment that has allowed me to grow as a player. Their guidance and coaching have helped me to improve my skills and reach new levels of performance for the sport. Moreover, the CCA has given me the privilege of playing alongside talented and driven seniors and teammates who share the same love for the game. Through many hours of training and competing together, we have formed strong friendships and created unforgettable memories. Through the training, our physical conditioning, mental resilience, and understanding of the game have improved as well. These few years in my CCA have not only improved my basketball skills but have also instilled valuable life lessons such as discipline, perseverance, and leadership."
   <span style="display:block; color:#333333; margin-top:1em;font-size:15px;font-family:sans-serif;"><em style="font-family:sans-serif;">B division Captain, Cardano Ryen Chris Esguerra</em></span>
+	</blockquote> 
+
+<blockquote style="font-size: 15px;width:100%;margin:50px auto;margin-top:5px;font-family:serif;font-style:italic;color: #555555;padding:1.2em 25px 1.2em 25px;border-left:8px solid #0C6523;line-height:1.6;position: relative;background:#EDEDED;">
+<img align="left" src="https://raw.githubusercontent.com/isomerpages/moe-peihwasec/staging/images/CCA/basketballtestimonial02.png" style="width: 30%; border-radius: 7%;  margin-right:15px;">
+	"Joining this CCA has changed me, both on and off the court. The teachers and coach’s commitment to encouraging teamwork has given us a sense of unity through our experiences in practices and games. The memories, friendships, and lessons I have gained from my time in the CCA will stay with me for a long time to come. The CCA’s commitment to holistic development has allowed me to demonstrate discipline in my studies while leading in the CCA at the same time, instilling values in me such as leadership and determination. The CCA has not only made me a better basketball player but has also developed my passion for Basketball and given me the opportunity to thrive both in the game and in the real world through the values and lessons they have taught me."
+  <span style="display:block; color:#333333; margin-top:1em;font-size:15px;font-family:sans-serif;"><em style="font-family:sans-serif;">B division Vice-Captain, Ritz Ng (Huang Zijun)</em></span>
+	</blockquote> 
+	
+<blockquote style="font-size: 15px;width:100%;margin:50px auto;margin-top:5px;font-family:serif;font-style:italic;color: #555555;padding:1.2em 25px 1.2em 25px;border-left:8px solid #0C6523;line-height:1.6;position: relative;background:#EDEDED;">
+<img align="left" src="https://raw.githubusercontent.com/isomerpages/moe-peihwasec/staging/images/CCA/basketballtestimonial03.png" style="width: 30%; border-radius: 7%;  margin-right:15px;">
+	"In my one and a half years of basketball CCA so far, my passion for basketball has been growing. Through my time in the basketball CCA, I have gotten to know many different types of people from all walks of life who share the same passion and love for the game of basketball. I enjoy almost every minute of basketball CCA, from the warmups, the drills and even the tactics my coach has set for the team to learn. I have made so many friends along the way as well. In addition, my CCA teachers in charge and coaches have really groomed me as a player and as a captain for the C Division basketball team as well, allowing me to take on a greater leadership role and nurturing my leadership capabilities. As a C Division captain, I feel that I play an important role in shaping my team and influencing them as well."
+  <span style="display:block; color:#333333; margin-top:1em;font-size:15px;font-family:sans-serif;"><em style="font-family:sans-serif;">C division Captain, Muhammad Zaheer Bin Zahid </em></span>
 	</blockquote> 
 	
 
