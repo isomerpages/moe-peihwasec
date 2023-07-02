@@ -32,7 +32,7 @@ third_nav_title: Clubs & Societies
 <td style="font-size:14.5px;"><strong style="font-family:sans-serif;">2016</strong></td>
 <td style="font-size:15px;"><strong style="font-family:sans-serif;">Canon Photomarathon</strong>
 	<ul> 
-	<li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">2<sup>nd</sup> Runner-up (Carina Chew)</li>
+	<li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">2<sup style="font-family:sans-serif;">nd</sup> Runner-up (Carina Chew)</li>
 	
 </ul>
 	</td>
@@ -53,7 +53,7 @@ third_nav_title: Clubs & Societies
 <td style="font-size:14.5px; margin-bottom:5px;"><strong style="font-family:sans-serif;">National Photography Competition 'Climate Change'</strong>
 <br>
 <ul>
-<li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;"> 2<sup>nd</sup> Prize (Amanda Goh)</li>
+<li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;"> 2<sup style="font-family:sans-serif;">nd</sup> Prize (Amanda Goh)</li>
 	<li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;"> Consolation (Aaron Lim)</li>
 	</ul>
 </td>
@@ -71,12 +71,12 @@ third_nav_title: Clubs & Societies
 	<strong style="font-family:sans-serif;">Freshness of Life by School of Photography</strong>
 <br>
 <ul> 
-<li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;"> 1<sup>st</sup> Prize (Dion Lim)</li>
+<li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">1<sup style="font-family:sans-serif;">st</sup> Prize (Dion Lim)</li>
 </ul>
 		<strong style="font-family:sans-serif;">N3 Cluster International Friendship Day Photography Competition</strong>
 <br>
 <ul> 
-<li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;"> 1<sup>st</sup> Prize</li>
+<li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;"> 1<sup style="font-family:sans-serif;">st</sup> Prize</li>
 </ul>
 	</td>
 </tr>
@@ -91,12 +91,12 @@ third_nav_title: Clubs & Societies
 	<strong style="font-family:sans-serif;">HDB Competition</strong>
 <br>
 <ul>
-<li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;"> Consolation Prize</li>
+<li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">Consolation Prize</li>
 	</ul>
 </td>
 </tr>
 														
-<tr style="border-bottom: 2px solid #009879;background-color: #f3f3f3;">
+<tr style="border-bottom: 2px solid #0C6523;background-color: #f3f3f3;">
 <td style="font-size:14.5px;"><strong style="font-family:sans-serif;">2008</strong></td>
 <td style="font-size:15px;"><strong style="font-family:sans-serif;">Straits Times National Schools Newspaper Competition</strong>
 <br>
@@ -106,7 +106,7 @@ third_nav_title: Clubs & Societies
 	<strong style="font-family:sans-serif;">GMAC Competition</strong>
 <br>
 <ul> 
-<li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">	3<sup>rd</sup> Place (Lim Ying Yun, Martin Goh, Charmaine Toh, Saw Jia Hui)</li>
+<li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">	3<sup style="font-family:sans-serif;">rd</sup> Place (Lim Ying Yun, Martin Goh, Charmaine Toh, Saw Jia Hui)</li>
 </ul>
 	</td>
 </tr>
@@ -146,28 +146,6 @@ third_nav_title: Clubs & Societies
 	<li style="font-size:14.5px; line-height:1.5 ;margin-top:5px; font-family:sans-serif;"> Our School, Our Stories Photo and Video Contest</li>
 <li style="font-size:14.5px; line-height:1.5 ;margin-top:5px; font-family:sans-serif;"> DRUGFREESG Video Competition</li>
 	</ul>
-
-<h3 style="margin-top:10px;font-weight: bold;color:#000000">Student Testament</h3>
-
-<blockquote style="font-size: 15px;width:100%;margin: 25px 0;font-family:serif;font-style:italic;color: #555555;padding:1.2em 25px 1.2em 25px;border-left:8px solid #78C0A8 ;line-height:1.5;position: relative;background:#EDEDED;">
-  “One of my greatest achievements in PH Times was being able to conduct CCA sessions on videography with my CCA members successfully. It was sometimes hard for me to find time to plan meaningful sessions for my members especially when we leaders had to discuss plans online because it was difficult to find a common time to meet up. Thus, I was glad to have been able to overcome this obstacle of not being able to meet with my other fellow leaders but still being able to plan sessions for my members. I have also made new friends in the CCA and I will definitely miss the times I spent with my seniors and juniors in PH Times.”
-  <span style="display:block; color:#333333; margin-top:1em;font-size:15px;font-family:sans-serif;">Tan Ying En, on her experience as a Student Leader</span>
-</blockquote>
-
-<blockquote style="font-size: 15px;width:100%;margin: 25px 0;font-family:serif;font-style:italic;color: #555555;padding:1.2em 25px 1.2em 25px;border-left:8px solid #78C0A8 ;line-height:1.5;position: relative;background:#EDEDED;">
-  “I joined the CCA when I was in Secondary 2. At that time, I had no prior knowledge on photography or videography. However, I have nice friends and caring teachers who provided help throughout my journey in PH Times. What I love most about the CCA is the precious opportunities to put my skills to test during school events and competitions. It gives me the chance to review and improve my skills.””
-  <span style="display:block; color:#333333; margin-top:1em;font-size:15px;font-family:sans-serif;">Ng Qi En, on her journey in PH Times</span>
-</blockquote>
-
-<blockquote style="font-size: 15px;width:100%;margin: 25px 0;font-family:serif;font-style:italic;color: #555555;padding:1.2em 25px 1.2em 25px;border-left:8px solid #78C0A8 ;line-height:1.5;position: relative;background:#EDEDED;">
-  “My greatest takeaway from PH Times would be being able to better myself. As the President of PH Times, I had the opportunity to hone my communication skills. It also allowed me to learn to work together with the team of student leaders to achieve a common goal and to ensure that PH Times members enjoy the CCA as much as we do. Throughout my journey in the CCA, not only was I able to grow as a leader, but I was also able to learn a variety of skills such as using the digital cameras, video cameras and creating the PHactors website, which can be applicable in my daily life. I remember being nervous when I was preparing to interview the Education Minister last year (2022). However, with the support from my peers and teachers, I was able to step out of my comfort zone and gain confidence for the interview. My journey in PH Times has been a memorable and rewarding one, especially with the times I spent with my peers and juniors. I am thankful for the memories made. They are irreplaceable.”
-  <span style="display:block; color:#333333; margin-top:1em;font-size:15px;font-family:sans-serif;">Lee Xiang, on her journey in PH Times</span>
-</blockquote>
-
-<blockquote style="font-size: 15px;width:100%;margin: 25px 0;font-family:serif;font-style:italic;color: #555555;padding:1.2em 25px 1.2em 25px;border-left:8px solid #78C0A8 ;line-height:1.5;position: relative;background:#EDEDED;">
-  “I was given the opportunity to be in the planning team for our School Wide Photo Contest. It was fun working with people who I seldom get to work with. There were moments where our ideas clashed, but I learnt to manage the situation as the leader of the team. It was a fulfilling experience and I would definitely consider doing it again.”
-  <span style="display:block; color:#333333; margin-top:1em;font-size:15px;font-family:sans-serif;">Yeo Le Yu Amadeus, on his experience planning the School Wide Photo Contest</span>
-</blockquote>
 
 <h3 style="margin-top:10px;font-weight: bold;color:#000000">CCA Details</h3>
 
