@@ -4,7 +4,7 @@ permalink: /ccas/performing-arts/symphonic-band/
 description: ""
 third_nav_title: Performing Arts
 ---
-<img style="width: 100%; height: auto;margin-top:30px;margin-bottom:30px;" alt="Image" src="">
+<img style="width: 100%; height: auto;margin-top:30px;margin-bottom:30px;" alt="Image" src="https://raw.githubusercontent.com/isomerpages/moe-peihwasec/staging/images/CCA/symphonicbandbanner.png">
 
 <p style="font-size:14.5px; line-height:2 ;margin-top:5px; font-family:sans-serif;" class="description">At <strong style="font-size:14.5px; line-height:2; font-family:sans-serif;">Pei Hwa Symphonic Band</strong>, we take great pride in our rigorous training programme which is designed to nurture the talents of our students and inspire them to achieve their potential. We firmly believe that discipline and perseverance are essential qualities for success, and we strive to instill these values in our students as they pursue their passion for music.</p>
 
@@ -14,13 +14,15 @@ third_nav_title: Performing Arts
 
 <h4 style="color:#635f1a;font-weight:bold;font-family:sans-serif;">Achievements</h4>
 	
-<table border="1" style="border-collapse: collapse;margin: 25px 0;font-size:14.5px;font-family: sans-serif;box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);">
-<thead style="background-color: #009879; font-weight: bold; font-size: 15.5px;">
-<tr>
-				<td style="text-align:left;color:white;font-family:sans-serif;">Year of Competition</td>
-				<td style="text-align:left;color:white;font-family:sans-serif;">Attainment</td>
-			</tr>
-</thead>
+<table style="border-collapse: collapse;margin: 25px 0;margin-top:5px;font-family: sans-serif;box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);" border="1">
+	
+<thead style="background-color:#0C6523; font-weight: bold; font-size: 15.5px;">
+	<tr>
+			<td style="text-align:left;color:white;font-family:sans-serif;">Year of <br>Competition</td>
+			<td style="text-align:left;color:white;font-family:sans-serif;">Attainment</td>
+		</tr>
+	</thead>
+	
 <tbody>
 <tr>
 				<td><strong style="font-family:sans-serif;">2021</strong></td>
@@ -65,7 +67,7 @@ SYF Arts Presentation for Concert Band </strong>
 					</ul>
 				</td>
 </tr>
-<tr style="border-bottom: 2px solid #009879;">
+<tr style="border-bottom: 2px solid #0C6523;">
 				<td><strong style="font-family:sans-serif;">2013</strong></td>
 				<td style="margin-bottom:5px;">
 					<strong style="font-family:sans-serif;">	
@@ -102,8 +104,8 @@ SYF Arts Presentation for Concert Band </strong>
 		</tr>
 <tr>
 			<td style="font-weight: bold; font-size: 15px; border-bottom: 1px solid #dddddd;width:30%;font-family:sans-serif;letter-spacing:0.2px">CCA Schedule</td>
-			<td style="font-size: 14.5px; border-bottom: 1px solid #dddddd;font-family:sans-serif;letter-spacing:0.2px">Tuesdays, 3.30pm – 6.00pm<br>
-Fridays, 2.30pm – 6.00pm
+			<td style="font-size: 14.5px; border-bottom: 1px solid #dddddd;font-family:sans-serif;letter-spacing:0.2px">Tuesdays 3.30pm – 6.00pm<br>
+Fridays 2.30pm – 6.00pm
 </td>
 		</tr>
 		
