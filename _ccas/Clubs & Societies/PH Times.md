@@ -157,7 +157,7 @@ third_nav_title: Clubs & Societies
 		</tr>
 <tr>
 			<td style="font-weight: bold; font-size: 15px; border-bottom: 1px solid #dddddd;width:30%;font-family:sans-serif;letter-spacing:0.2px">CCA Schedule</td>
-			<td style="font-size: 14.5px; border-bottom: 1px solid #dddddd;font-family:sans-serif;letter-spacing:0.2px">Friday 2.30pm - 5.30pm
+			<td style="font-size: 14.5px; border-bottom: 1px solid #dddddd;font-family:sans-serif;letter-spacing:0.2px">Fridays 2.30pm - 5.30pm
 </td>
 		</tr>
 		
