@@ -18,7 +18,7 @@ third_nav_title: Sports & Games
 	
 <table style="border-collapse: collapse;margin: 25px 0;margin-top:5px;font-family: sans-serif;box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);" border="1">
 	
-<thead style="background-color: #009879; font-weight: bold; font-size: 15.5px;">
+<thead style="background-color:#0C6523; font-weight: bold; font-size: 15.5px;">
 	<tr>
 			<td style="text-align:left;color:white;font-family:sans-serif;">Year of <br>Competition</td>
 			<td style="text-align:left;color:white;font-family:sans-serif;">Attainment</td>
@@ -57,7 +57,7 @@ third_nav_title: Sports & Games
 	</td>
 </tr>
 	
-<tr style="background-color: #f3f3f3;border-bottom: 2px solid #009879;line-height:1.3;">
+<tr style="background-color: #f3f3f3;border-bottom: 2px solid #0C6523;line-height:1.3;">
 <td style="font-size:14.5px;"><strong style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">2020</strong></td>
 	<td style="font-size:14.5px;"><strong style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">North Zone NSG (B Div Boys) </strong>
 		<br>
@@ -79,8 +79,6 @@ third_nav_title: Sports & Games
 	<li style="font-size:14.5px; line-height:1.5 ;margin-top:5px; font-family:sans-serif;"> Bonding Activities</li>
 	</ul>
 
-<h3 style="margin-top:10px;font-weight: bold;color:#000000">Student Testament</h3>
-
 <h3 style="margin-top:10px;font-weight: bold;color:#000000">CCA Details</h3>
 
 <table style="width:100%;margin-top:5px;border-collapse: collapse;border: none;">
@@ -92,8 +90,8 @@ third_nav_title: Sports & Games
 
 <tr>
 			<td style="font-weight: bold; font-size: 15px; border-bottom: 1px solid #dddddd;width:30%;font-family:sans-serif;letter-spacing:0.2px">CCA Schedule</td>
-			<td style="font-size: 14.5px; border-bottom: 1px solid #dddddd;font-family:sans-serif;letter-spacing:0.2px">Tuesdays 3.30-6pm<br>
-Fridays 2.00-6pm
+			<td style="font-size: 14.5px; border-bottom: 1px solid #dddddd;font-family:sans-serif;letter-spacing:0.2px">Tuesdays 3.30pm - 6.00pm<br>
+Fridays 2.00pm - 6.00pm
 </td>
 		</tr>
 		
