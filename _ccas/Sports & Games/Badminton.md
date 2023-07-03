@@ -21,7 +21,7 @@ third_nav_title: Sports & Games
 <thead style="background-color:#0C6523; font-weight: bold; font-size: 15.5px;">
 	<tr>
 			<td style="text-align:left;color:white;font-family:sans-serif;width:17%;">Year of <br>Competition</td>
-			<td style="text-align:left;color:white;font-family:sans-serif;">Attainmente</td>
+			<td style="text-align:left;color:white;font-family:sans-serif;">Attainment</td>
 		</tr>
 	</thead>
 	
@@ -80,7 +80,7 @@ third_nav_title: Sports & Games
 <blockquote style="font-size: 15px;width:100%;margin:50px auto;margin-top:5px;font-family:serif;font-style:italic;color: #555555;padding:1.2em 25px 1.2em 25px;border-left:8px solid #0C6523;line-height:1.6;position: relative;background:#EDEDED;">
 <img align="left" src="https://raw.githubusercontent.com/isomerpages/moe-peihwasec/staging/images/CCA/badmintontestimonial01.png" style="width: 23%; border-radius: 7%;  margin-right:15px;">
 	"Being in the badminton CCA has taught me many things, one being that success doesn’t come overnight, and you must put in the hard work and effort to achieve your goals. It has also trained my mental strength, enabling me to handle stressful situations much better, especially during National School Games. Being able to be in this CCA is something I really appreciate a lot, because of how much it has helped me grow."
-  <span style="display:block; color:#333333; margin-top:1em;font-size:15px;font-family:sans-serif;"><em style="font-family:sans-serif;">Vice Captain, Jeriel Tan Teng Kang</em></span><br><br><br><br><br>
+  <span style="display:block; color:#333333; margin-top:1em;font-size:15px;font-family:sans-serif;"><em style="font-family:sans-serif;">Vice Captain, Jeriel Tan Teng Kang</em></span><br><br><br><br>
 </blockquote>
 	
 <blockquote style="font-size: 15px;width:100%;margin:50px auto;margin-top:5px;font-family:serif;font-style:italic;color: #555555;padding:1.2em 25px 1.2em 25px;border-left:8px solid #0C6523;line-height:1.6;position: relative;background:#EDEDED;">
