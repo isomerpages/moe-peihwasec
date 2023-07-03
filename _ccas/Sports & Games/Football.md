@@ -14,55 +14,53 @@ third_nav_title: Sports & Games
 
 <h3 style="margin-top:10px;font-weight: bold;color:#000000;">Achievements</h3>
 
-<table style="border-collapse: collapse;margin: 25px 0;margin-top:5px;font-family: sans-serif;box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);" border="1">
+<table style="border-collapse: collapse;margin: 25px 0;margin-top:5px;font-family: sans-serif;box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);width:100%" border="1">
 	
 <thead style="background-color:#0C6523; font-weight: bold; font-size: 15.5px;">
 	<tr>
-			<td style="text-align:left;color:white;font-family:sans-serif;">Year of <br>Competition</td>
+			<td style="text-align:left;color:white;font-family:sans-serif;width:17%;">Year of <br>Competition</td>
 			<td style="text-align:left;color:white;font-family:sans-serif;">Attainment</td>
 		</tr>
 	</thead>
 	
 <tbody>
-
-
-<tr style="border-bottom: 1px solid #dddddd;">
-<td><strong style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">2023</strong></td>
-	<td style="font-size:14.5px;"><strong style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">NSG B Division Boys League 3 – Group Stage</strong>
+<tr>
+<td><strong style="font-family:sans-serif;font-size:14.5px;">2023</strong></td>
+	<td><strong style="font-family:sans-serif;font-size:15px;">NSG B Division Boys League 3 – Group Stage</strong>
 	</td>
 </tr>
 															
-<tr style="background-color: #f3f3f3;line-height:1.3;">
-<td style="font-size:14.5px;"><strong style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">2022</strong></td>
-	<td style="font-size:14.5px;"><strong style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">NSG B &amp; C Division Boys  – Group Stage</strong>
+<tr style="background-color: #f3f3f3;">
+<td><strong style="font-family:sans-serif;font-size:14.5px;">2022</strong></td>
+	<td><strong style="font-family:sans-serif;font-size:15px;">NSG B &amp; C Division Boys  – Group Stage</strong>
 	</td>
 </tr>
 		
-<tr style="font-size:15px;">
-<td><strong style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">2020</strong></td>
-	<td style="font-size:14,5px;"><strong style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">NSG B Division Boys League 2 – Group Stage</strong>
+<tr>
+<td><strong style="font-family:sans-serif;font-size:14.5px;">2020</strong></td>
+	<td><strong style="font-family:sans-serif;font-size:15px;">NSG B Division Boys League 2 – Group Stage</strong>
 	</td>
 </tr>
 	
-<tr style="background-color: #f3f3f3;line-height:1.3;">
-<td style="font-size:14.5px;"><strong style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">2019</strong></td>
-	<td style="font-size:14.5px;"><strong style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">NSG B Division Boys League 4 – Group Stage</strong><br>
-		<strong style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">NSG B Division Boys League 5 – Quarter Finals</strong>
+<tr style="background-color: #f3f3f3;">
+<td><strong style="font-family:sans-serif;font-size:14.5px;">2019</strong></td>
+	<td><strong style="font-family:sans-serif;font-size:15px;">NSG B Division Boys League 4 – Group Stage</strong><br>
+		<strong style="font-family:sans-serif;font-size:15px;">NSG B Division Boys League 5 – Quarter Finals</strong>
 	</td>
 </tr>
 		
-<tr style="font-size:15px;">
-<td><strong style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">2018</strong></td>
-	<td style="font-size:14,5px;"><strong style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">YJC Celebrating Values Day (7-a-side)</strong>
+<tr>
+<td><strong style="font-family:sans-serif;font-size:14.5px;">2018</strong></td>
+	<td><strong style="font-family:sans-serif;font-size:15px;">YJC Celebrating Values Day (7-a-side)</strong>
 		<ul> 
 	<li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">1<sup style="font-family:sans-serif;">st</sup> Position</li>
 </ul>
 	</td>
 </tr>
 	
-<tr style="background-color: #f3f3f3;border-bottom: 2px solid #0C6523; line-height:1.3;">
-<td style="font-size:14.5px;"><strong style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">2016</strong></td>
-	<td style="font-size:14.5px;"><strong style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">YJC Celebrating Values Day (7-a-side)</strong>
+<tr style="background-color: #f3f3f3;border-bottom: 2px solid #0C6523;">
+<td><strong style="font-family:sans-serif;font-size:14.5px;">2016</strong></td>
+	<td><strong style="font-family:sans-serif;font-size:15px;">YJC Celebrating Values Day (7-a-side)</strong>
 			<ul> 
 	<li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">1<sup style="font-family:sans-serif;">st</sup> Position</li>
 </ul>
