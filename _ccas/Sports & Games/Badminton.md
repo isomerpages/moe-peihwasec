@@ -20,7 +20,7 @@ third_nav_title: Sports & Games
 	
 <thead style="background-color:#0C6523; font-weight: bold; font-size: 15.5px;">
 	<tr>
-			<td style="text-align:left;color:white;font-family:sans-serif;">Year of <br>Competition</td>
+			<td style="text-align:left;color:white;font-family:sans-serif;width:20%;">Year of <br>Competition</td>
 			<td style="text-align:left;color:white;font-family:sans-serif;">Attainment</td>
 		</tr>
 	</thead>
@@ -28,7 +28,7 @@ third_nav_title: Sports & Games
 <tbody>
 
 <tr>
-<td style="font-size:14.5px;"><strong style="font-family:sans-serif;font-size:14.5px;">2023</strong></td>
+<td><strong style="font-family:sans-serif;font-size:14.5px;">2023</strong></td>
 	<td><strong style="font-family:sans-serif;font-size:15px;">North Zone NSG (B Div Boys, B Div Girls, C Div Boys)</strong>
 		<ul>
 			<li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">Quarter Finals</li>
@@ -37,7 +37,7 @@ third_nav_title: Sports & Games
 </tr>
 															
 <tr style="background-color: #f3f3f3;">
-<td style="font-size:14.5px;"><strong style="font-family:sans-serif;font-size:14.5px;">2022</strong></td>
+<td><strong style="font-family:sans-serif;font-size:14.5px;">2022</strong></td>
 	<td><strong style="font-family:sans-serif;font-size:15px;">North Zone NSG</strong>
 		<ul> 
 			<li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">Participation</li>
@@ -46,7 +46,7 @@ third_nav_title: Sports & Games
 </tr>
 		
 <tr>
-<td style="font-size:14.5px;"><strong style="font-family:sans-serif;font-size:14.5px;">2021</strong></td>
+<td><strong style="font-family:sans-serif;font-size:14.5px;">2021</strong></td>
 	<td><strong style="font-family:sans-serif;font-size:15px;">North Zone NSG (B Div Boys)</strong>
 		<ul>
 			<li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">Quarter Finals</li>
@@ -55,7 +55,7 @@ third_nav_title: Sports & Games
 </tr>
 	
 <tr style="background-color: #f3f3f3;border-bottom: 2px solid #0C6523;">
-<td style="font-size:14.5px;"><strong style="font-family:sans-serif;font-size:14.5px;">2020</strong></td>
+<td><strong style="font-family:sans-serif;font-size:14.5px;">2020</strong></td>
 	<td><strong style="font-family:sans-serif;font-size:15px;">North Zone NSG (B Div Boys) </strong>
 		<ul> 
 			<li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">Quarter Finals</li>
