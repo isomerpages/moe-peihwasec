@@ -29,84 +29,71 @@ third_nav_title: Uniformed Groups
 <td><strong style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">2022</strong></td>
 	<td style="font-size:14.5px;">
 		<strong style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">Unit Overall Performance Award</strong>
-		<br>
 		<ul style="margin-top:-5px">
 			<li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">Gold</li>
 		</ul>
-		<strong style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">Instructional Video Competition</strong><br>
-	<strong style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">Precision Drill Competition </strong>
-		<br>
+		<strong style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">Instructional Video Competition</strong>	<strong style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">Precision Drill Competition </strong>
 		<ul style="margin-top:-5px">
 			<li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">9<sup style="font-family:sans-serif;">th</sup> Place</li>
 		</ul>
 	</td>
 </tr>
 															
-<tr style="background-color: #f3f3f3;line-height:1.3;">
-<td style="font-size:14.5px;"><strong style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">2021</strong></td>
+<tr style="background-color: #f3f3f3;border-bottom: 1px solid #dddddd;">
+<td><strong style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">2021</strong></td>
 		<td style="font-size:14.5px;">
-				<strong style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">Infographic Design Competition</strong><br>
-	<strong style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">Precision Drill Competition </strong>
-		<br>
+				<strong style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">Infographic Design Competition</strong>	<strong style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">Precision Drill Competition </strong>
 		<ul style="margin-top:-5px">
 			<li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">9<sup style="font-family:sans-serif;">th</sup> Place</li>
 		</ul>
 	</td>
 </tr>
 		
-<tr style="font-size:15px;">
+<tr style="border-bottom: 1px solid #dddddd;">
 <td><strong style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">2019</strong></td>
 		<td style="font-size:14.5px;">
 		<strong style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">Unit Overall Performance Award</strong>
-		<br>
 		<ul style="margin-top:-5px">
 			<li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">Gold</li>
 		</ul>
 		<strong style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">Skills-Up Project Recognition Award</strong><br>
 	<strong style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">Precision Drill Competition </strong>
-		<br>
 		<ul style="margin-top:-5px">
 			<li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">6<sup style="font-family:sans-serif;">th</sup> Place</li>
 		</ul>
 	</td>
 </tr>
 	
-<tr style="background-color: #f3f3f3;line-height:1.3;">
-<td style="font-size:14.5px;"><strong style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">2018</strong></td>
+<tr style="background-color: #f3f3f3;border-bottom: 1px solid #dddddd;">
+<td><strong style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">2018</strong></td>
 		<td style="font-size:14.5px;">
 		<strong style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">Unit Overall Performance Award</strong>
-		<br>
 		<ul style="margin-top:-5px">
 			<li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">Gold</li>
 		</ul>
 			<strong style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">Precision Drill Competition </strong>
-		<br>
 		<ul style="margin-top:-5px">
 			<li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">5<sup style="font-family:sans-serif;">th</sup> Place</li>
 		</ul>
 	</td>
 </tr>
 		
-<tr style="border-bottom: 2px solid #0C6523; font-size:15px;">
+<tr style="border-bottom: 2px solid #0C6523;">
 <td><strong style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">2017</strong></td>
-		<td style="font-size:14.5px;">
+		<td>
 		<strong style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">Unit Overall Performance Award</strong>
-		<br>
 		<ul style="margin-top:-5px">
 			<li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">Gold</li>
 		</ul>
 	<strong style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">Unit Drill Instructor Course </strong>
-		<br>
 		<ul style="margin-top:-5px">
 			<li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">Best in Methods of Instruction (Alluyise Ting Wei Lau)</li>
 		</ul>
 				<strong style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">Falconites’ Challenge </strong>
-		<br>
 		<ul style="margin-top:-5px">
 			<li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">Champion</li>
 		</ul>
 				<strong style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">NFEC-NCDCC Inter Unit Quiz </strong>
-		<br>
 		<ul style="margin-top:-5px">
 			<li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">10<sup style="font-family:sans-serif;">th</sup> Place</li>
 		</ul>
