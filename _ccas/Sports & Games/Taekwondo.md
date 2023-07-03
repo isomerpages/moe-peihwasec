@@ -20,69 +20,69 @@ third_nav_title: Sports & Games
 
 <h3 style="margin-top:10px;font-weight: bold;color:#000000;">Achievements</h3>
 
-<table style="border-collapse: collapse;margin: 25px 0;margin-top:5px;font-family: sans-serif;box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);" border="1">
+<table style="border-collapse: collapse;margin: 25px 0;margin-top:5px;font-family: sans-serif;box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);width:100%" border="1">
 	
 <thead style="background-color:#0C6523; font-weight: bold; font-size: 15.5px;">
 	<tr>
-			<td style="text-align:left;color:white;font-family:sans-serif;">Year of <br>Competition</td>
+			<td style="text-align:left;color:white;font-family:sans-serif;width:17%;">Year of <br>Competition</td>
 			<td style="text-align:left;color:white;font-family:sans-serif;">Attainment</td>
 		</tr>
 	</thead>
 	
 <tbody>
-<tr style="border-bottom: 1px solid #dddddd;">
-<td><strong style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">2023</strong></td>
-	<td style="font-size:14.5px;">
-		<strong style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">Overal 4<sup style="font-family:sans-serif;">th</sup> C DIVISION MALE POOMSAE</strong><br>
-		<strong style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">OVERAL 4<sup style="font-family:sans-serif;">th</sup> B DIVISION FEMALE KYORUGI</strong><br>
-		<strong style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">OVERAL 4<sup style="font-family:sans-serif;">th</sup> B DIVISION MALE KYORUGI</strong>
+
+<tr>
+<td><strong style="font-family:sans-serif;font-size:14.5px;">2023</strong></td>
+	<td>
+		<strong style="font-family:sans-serif;font-size:15px;">Overall 4<sup style="font-family:sans-serif;">th</sup> C DIVISION MALE POOMSAE</strong><br>
+		<strong style="font-family:sans-serif;font-size:15px;">Overall 4<sup style="font-family:sans-serif;">th</sup> B DIVISION FEMALE KYORUGI</strong><br>
+		<strong style="font-family:sans-serif;font-size:15px;">Overall 4<sup style="font-family:sans-serif;">th</sup> B DIVISION MALE KYORUGI</strong>
 	</td>
 </tr>
 															
-<tr style="background-color: #f3f3f3;line-height:1.3;">
-<td style="font-size:14.5px;"><strong style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">2022</strong></td>
-	<td style="font-size:14.5px;">
-		<strong style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">Overall 3<sup style="font-family:sans-serif;">rd</sup> B BOYS POOMSAE </strong><br>
-		<strong style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">Overall 3<sup style="font-family:sans-serif;">rd</sup> C GIRLS POOMSAE</strong><br>
+<tr style="background-color: #f3f3f3;">
+<td><strong style="font-family:sans-serif;font-size:14.5px;">2022</strong></td>
+	<td>
+		<strong style="font-family:sans-serif;font-size:15px;">Overall 3<sup style="font-family:sans-serif;">rd</sup> B BOYS POOMSAE </strong><br>
+		<strong style="font-family:sans-serif;font-size:15px;">Overall 3<sup style="font-family:sans-serif;">rd</sup> C GIRLS POOMSAE</strong><br>
 	</td>
 </tr>
 		
-<tr style="border-bottom: 1px solid #dddddd;">
-<td><strong style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">2021</strong></td>
-	<td style="font-size:14.5px;">
-		<strong style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">Overall 3<sup style="font-family:sans-serif;">rd</sup> B Division Boys Poomsae (Team)</strong><br>
-		<strong style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">Overall 3<sup style="font-family:sans-serif;">rd</sup> B Division Girls Poomsae (Team)</strong><br>
-		<strong style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">Overall 3<sup style="font-family:sans-serif;">rd</sup> B Division Boys Poomsae (Individual)</strong><br>
+<tr>
+<td><strong style="font-family:sans-serif;font-size:14.5px;">2021</strong></td>
+	<td>
+		<strong style="font-family:sans-serif;font-size:15px;">Overall 3<sup style="font-family:sans-serif;">rd</sup> B Division Boys Poomsae (Team)</strong><br>
+		<strong style="font-family:sans-serif;font-size:15px;">Overall 3<sup style="font-family:sans-serif;">rd</sup> B Division Girls Poomsae (Team)</strong><br>
+	<strong style="font-family:sans-serif;font-size:15px;">Overall 3<sup style="font-family:sans-serif;">rd</sup> B Division Boys Poomsae (Individual)</strong>
 	</td>
 </tr>
 	
-<tr style="background-color: #f3f3f3;line-height:1.3;">
-<td style="font-size:14.5px;"><strong style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">2019</strong></td>
-	<td style="font-size:14.5px;">
-		<strong style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">Overall 1<sup style="font-family:sans-serif;">st</sup> B Division Girls Kyorugi</strong><br>
-		<strong style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">Overall 2<sup style="font-family:sans-serif;">nd</sup> B Division Boys Kyorugi</strong><br>
-				<strong style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">Overall 4<sup style="font-family:sans-serif;">th</sup> C Division Boys Poomsae</strong>
+<tr style="background-color: #f3f3f3;">
+<td><strong style="font-family:sans-serif;font-size:14.5px;">2019</strong></td>
+	<td>
+		<strong style="font-family:sans-serif;font-size:15px;">Overall 1<sup style="font-family:sans-serif;">st</sup> B Division Girls Kyorugi</strong><br>
+		<strong style="font-family:sans-serif;font-size:15px;">Overall 2<sup style="font-family:sans-serif;">nd</sup> B Division Boys Kyorugi</strong><br>
+				<strong style="font-family:sans-serif;font-size:15px;">Overall 4<sup style="font-family:sans-serif;">th</sup> C Division Boys Poomsae</strong>
 	</td>
 </tr>
 
-<tr style="border-bottom: 1px solid #dddddd;">
-<td><strong style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">2018</strong></td>
-	<td style="font-size:14.5px;">
-		<strong style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">3<sup style="font-family:sans-serif;">rd</sup> B Division Boys Poomsae (Team)</strong><br>
-		<strong style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">3<sup style="font-family:sans-serif;">rd</sup> B Division Girls Poomsae (Team)</strong><br>
-		<strong style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">3<sup style="font-family:sans-serif;">rd</sup> B Division Boys Poomsae (Individual)</strong><br>
+<tr>
+<td><strong style="font-family:sans-serif;font-size:14.5px;">2018</strong></td>
+	<td>
+		<strong style="font-family:sans-serif;font-size:15px;">3<sup style="font-family:sans-serif;">rd</sup> B Division Boys Poomsae (Team)</strong><br>
+		<strong style="font-family:sans-serif;font-size:15px;">3<sup style="font-family:sans-serif;">rd</sup> B Division Girls Poomsae (Team)</strong><br>
+		<strong style="font-family:sans-serif;font-size:15px;">3<sup style="font-family:sans-serif;">rd</sup> B Division Boys Poomsae (Individual)</strong><br>
 	</td>
 </tr>
 	
-<tr style="background-color: #f3f3f3;border-bottom: 2px solid #0C6523;line-height:1.3;">
-<td style="font-size:14.5px;"><strong style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">2017</strong></td>
-	<td style="font-size:14.5px;"><strong style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">Poomsae (Pattern) event</strong>
-		<br>
+<tr style="background-color: #f3f3f3;border-bottom: 2px solid #0C6523;">
+<td><strong style="font-family:sans-serif;font-size:14.5px;">2017</strong></td>
+	<td><strong style="font-family:sans-serif;font-size:15px;">Poomsae (Pattern) event</strong>
 		<ul style="margin-top:-5px"> 
 			<li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;"> 3 Silver</li>
-		<li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;"> 5 Bronze</li>
+		<li style="font-size:14.5px;margin-bottom:-5px;font-family:sans-serif;line-height:1.5;"> 5 Bronze</li>
 		</ul>
-		<strong style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">Kyorugi (Sparring) event Overall Title </strong>
+		<strong style="font-family:sans-serif;font-size:15px;">Kyorugi (Sparring) event Overall Title </strong>
 		<ul style="margin-top:-5px;">
 			<li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;"> 5 Gold Overall 1<sup style="font-family:sans-serif;">st</sup> B Div Girls</li>
 			<li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;"> 6 Silver Overall 2<sup style="font-family:sans-serif;">nd</sup> C Div Girls</li>
