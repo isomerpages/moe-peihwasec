@@ -95,25 +95,8 @@ third_nav_title: Sports & Games
 </blockquote>
 	
 <h3 style="margin-top:10px;font-weight: bold;color:#000000">CCA Details</h3>
-<table style="border-collapse: collapse;margin: 25px 0;margin-top:5px;font-family: sans-serif;box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);" border="1">
-	
-<thead style="background-color:#0C6523; font-weight: bold; font-size: 15.5px;">
-	<tr>
-			<td style="text-align:left;color:white;font-family:sans-serif;">Year of <br>Competition</td>
-			<td style="text-align:left;color:white;font-family:sans-serif;">Attainment</td>
-		</tr>
-	</thead>
-	
-<tbody>
-	 
 
- 
-	
- 
-
-
-
-</tbody></table><table style="width:100%;margin-top:5px;border-collapse: collapse;border: none;">
+<table style="width:100%;margin-top:5px;border-collapse: collapse;border: none;">
 	<tbody style="border: none;">
 <tr>
 			<td style="font-weight: bold; font-size: 15px; border-bottom: 1px solid #dddddd;width:30%;font-family:sans-serif;letter-spacing:0.2px">Teachers-in-Charge</td>
