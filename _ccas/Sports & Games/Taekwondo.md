@@ -4,14 +4,14 @@ permalink: /ccas/sports-games/taekwondo/
 description: ""
 third_nav_title: Sports & Games
 ---
-<img style="width: 100%; height: auto;margin-top:30px;margin-bottom:30px;" alt="Image" src="">
+<img style="width: 100%; height: auto;margin-top:30px;margin-bottom:30px;" alt="Image" src="https://raw.githubusercontent.com/isomerpages/moe-peihwasec/staging/images/CCA/taekwandobanner.png">
 
 <p style="font-size:14.5px; line-height:2 ;margin-top:5px; font-family:sans-serif;" class="description"> The<strong style="font-size:14.5px; line-height:2; font-family:sans-serif;"> Taekwondo</strong> programme in Pei Hwa Secondary School focuses on cultivating individual values such as respect, resilience and self-discipline. Since 2007, our Taekwondo student athletes have participated in many national competitions and have done the school proud by winning individual and team event accolades. Over the years, the CCA has groomed and nurtured many talented members in both Kyorugi (sparring) and Poomsae (Pattern) and has garnered numerous medals yearly.</p>
 
 <p style="font-size:14.5px; line-height:2 ;margin-top:5px; font-family:sans-serif;" class="description">Apart from developing our students to acquire knowledge in Taekwondo, the CCA also aims to develop desirable values such as modesty, perseverance, respect and an indomitable spirit. Hence, in line with its goal of nurturing sport talents who can foster team spirit, we are looking for committed students who demonstrate forte and aptitude in Taekwondo.</p>
 
 <p style="font-size:14.5px; line-height:1.5;margin-top:15px; font-family:sans-serif;">The CCA will enable our students to:</p>
-<ul style="margin-top:5px;">
+<ul style="margin-top:-5px;">
 	<li style="font-size:14.5px; line-height:1.5;font-family:sans-serif;"> cultivate respectful and rational individuals</li>
 	<li style="font-size:14.5px; line-height:1.5;font-family:sans-serif;"> develop desirable values such as modesty, perseverance and an indomitable spirit</li>
 	<li style="font-size:14.5px; line-height:1.5;font-family:sans-serif;"> acquire knowledge in Taekwondo and experience stage performances</li>
@@ -20,11 +20,11 @@ third_nav_title: Sports & Games
 
 <h3 style="margin-top:10px;font-weight: bold;color:#000000;">Achievements</h3>
 
-<table border="1" style="border-collapse: collapse;margin: 25px 0;font-size:15px;font-family: sans-serif;box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);line-height:1.3;">
+<table style="border-collapse: collapse;margin: 25px 0;margin-top:5px;font-family: sans-serif;box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);" border="1">
 	
-<thead style="background-color: #009879; font-weight: bold; font-size: 15.5px;">
+<thead style="background-color:#0C6523; font-weight: bold; font-size: 15.5px;">
 	<tr>
-			<td style="text-align:left;color:white;font-family:sans-serif;">Year of Competition</td>
+			<td style="text-align:left;color:white;font-family:sans-serif;">Year of <br>Competition</td>
 			<td style="text-align:left;color:white;font-family:sans-serif;">Attainment</td>
 		</tr>
 	</thead>
@@ -33,48 +33,48 @@ third_nav_title: Sports & Games
 <tr style="border-bottom: 1px solid #dddddd;">
 <td><strong style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">2023</strong></td>
 	<td style="font-size:14.5px;">
-		<strong style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">Overal 4<sup>th</sup> C DIVISION MALE POOMSAE</strong><br>
-		<strong style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">OVERAL 4<sup>th</sup> B DIVISION FEMALE KYORUGI</strong><br>
-		<strong style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">OVERAL 4<sup>th</sup> B DIVISION MALE KYORUGI</strong>
+		<strong style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">Overal 4<sup style="font-family:sans-serif;">th</sup> C DIVISION MALE POOMSAE</strong><br>
+		<strong style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">OVERAL 4<sup style="font-family:sans-serif;">th</sup> B DIVISION FEMALE KYORUGI</strong><br>
+		<strong style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">OVERAL 4<sup style="font-family:sans-serif;">th</sup> B DIVISION MALE KYORUGI</strong>
 	</td>
 </tr>
 															
 <tr style="background-color: #f3f3f3;line-height:1.3;">
 <td style="font-size:14.5px;"><strong style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">2022</strong></td>
 	<td style="font-size:14.5px;">
-		<strong style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">Overall 3<sup>rd</sup> B BOYS POOMSAE </strong><br>
-		<strong style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">Overall 3<sup>rd</sup> C GIRLS POOMSAE</strong><br>
+		<strong style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">Overall 3<sup style="font-family:sans-serif;">rd</sup> B BOYS POOMSAE </strong><br>
+		<strong style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">Overall 3<sup style="font-family:sans-serif;">rd</sup> C GIRLS POOMSAE</strong><br>
 	</td>
 </tr>
 		
 <tr style="border-bottom: 1px solid #dddddd;">
 <td><strong style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">2021</strong></td>
 	<td style="font-size:14.5px;">
-		<strong style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">Overall 3<sup>rd</sup> B Division Boys Poomsae (Team)</strong><br>
-		<strong style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">Overall 3<sup>rd</sup> B Division Girls Poomsae (Team)</strong><br>
-		<strong style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">Overall 3<sup>rd</sup> B Division Boys Poomsae (Individual)</strong><br>
+		<strong style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">Overall 3<sup style="font-family:sans-serif;">rd</sup> B Division Boys Poomsae (Team)</strong><br>
+		<strong style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">Overall 3<sup style="font-family:sans-serif;">rd</sup> B Division Girls Poomsae (Team)</strong><br>
+		<strong style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">Overall 3<sup style="font-family:sans-serif;">rd</sup> B Division Boys Poomsae (Individual)</strong><br>
 	</td>
 </tr>
 	
 <tr style="background-color: #f3f3f3;line-height:1.3;">
 <td style="font-size:14.5px;"><strong style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">2019</strong></td>
 	<td style="font-size:14.5px;">
-		<strong style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">Overall 1<sup>st</sup> B Division Girls Kyorugi</strong><br>
-		<strong style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">Overall 2<sup>nd</sup> B Division Boys Kyorugi</strong><br>
-				<strong style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">Overall 4<sup>th</sup> C Division Boys Poomsae</strong>
+		<strong style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">Overall 1<sup style="font-family:sans-serif;">st</sup> B Division Girls Kyorugi</strong><br>
+		<strong style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">Overall 2<sup style="font-family:sans-serif;">nd</sup> B Division Boys Kyorugi</strong><br>
+				<strong style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">Overall 4<sup style="font-family:sans-serif;">th</sup> C Division Boys Poomsae</strong>
 	</td>
 </tr>
 
 <tr style="border-bottom: 1px solid #dddddd;">
 <td><strong style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">2018</strong></td>
 	<td style="font-size:14.5px;">
-		<strong style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">3<sup>rd</sup> B Division Boys Poomsae (Team)</strong><br>
-		<strong style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">3<sup>rd</sup> B Division Girls Poomsae (Team)</strong><br>
-		<strong style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">3<sup>rd</sup> B Division Boys Poomsae (Individual)</strong><br>
+		<strong style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">3<sup style="font-family:sans-serif;">rd</sup> B Division Boys Poomsae (Team)</strong><br>
+		<strong style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">3<sup style="font-family:sans-serif;">rd</sup> B Division Girls Poomsae (Team)</strong><br>
+		<strong style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">3<sup style="font-family:sans-serif;">rd</sup> B Division Boys Poomsae (Individual)</strong><br>
 	</td>
 </tr>
 	
-<tr style="background-color: #f3f3f3;border-bottom: 2px solid #009879;line-height:1.3;">
+<tr style="background-color: #f3f3f3;border-bottom: 2px solid #0C6523;line-height:1.3;">
 <td style="font-size:14.5px;"><strong style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">2017</strong></td>
 	<td style="font-size:14.5px;"><strong style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">Poomsae (Pattern) event</strong>
 		<br>
@@ -84,9 +84,9 @@ third_nav_title: Sports & Games
 		</ul>
 		<strong style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">Kyorugi (Sparring) event Overall Title </strong>
 		<ul style="margin-top:-5px;">
-			<li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;"> 5 Gold Overall 1<sup>st</sup> B Div Girls</li>
-			<li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;"> 6 Silver Overall 2<sup>nd</sup> C Div Girls</li>
-			<li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;"> 8 Bronze Overall 2<sup>nd</sup> B Division Boys</li>
+			<li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;"> 5 Gold Overall 1<sup style="font-family:sans-serif;">st</sup> B Div Girls</li>
+			<li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;"> 6 Silver Overall 2<sup style="font-family:sans-serif;">nd</sup> C Div Girls</li>
+			<li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;"> 8 Bronze Overall 2<sup style="font-family:sans-serif;">nd</sup> B Division Boys</li>
 		</ul>
 	</td>
 </tr>
@@ -109,11 +109,11 @@ third_nav_title: Sports & Games
 	<tbody style="border: none;">
 <tr>
 			<td style="font-weight: bold; font-size: 15px; border-bottom: 1px solid #dddddd;width:30%;font-family:sans-serif;letter-spacing:0.2px">Teachers-in-Charge</td>
-			<td style="font-size: 14.5px; border-bottom: 1px solid #dddddd;font-family:sans-serif;letter-spacing:0.2px">Ong Bee Bee, Nur Fateha, Yeo Kwok Coleen</td>
+			<td style="font-size: 14.5px; border-bottom: 1px solid #dddddd;font-family:sans-serif;letter-spacing:0.2px">Mdm Ong Bee Bee, Ms Nur Fateha, Mrs Yeo Kwok Coleen</td>
 		</tr>
 <tr>
 			<td style="font-weight: bold; font-size: 15px; border-bottom: 1px solid #dddddd;width:30%;font-family:sans-serif;letter-spacing:0.2px">CCA Schedule</td>
-			<td style="font-size: 14.5px; border-bottom: 1px solid #dddddd;font-family:sans-serif;letter-spacing:0.2px">Tuesdays 3.30-6pm<br>Fridays 2.30-6pm
+			<td style="font-size: 14.5px; border-bottom: 1px solid #dddddd;font-family:sans-serif;letter-spacing:0.2px">Tuesdays 3.30pm - 6.00pm<br>Fridays 2.30pm - 6.00pm
 </td>
 		</tr>
 		
