@@ -35,8 +35,8 @@ third_nav_title: Uniformed Groups
 	</td>
 </tr>
 															
-<tr style="background-color: #f3f3f3;line-height:1.3;">
-<td style="font-size:14.5px;"><strong style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">2021</strong></td>
+<tr style="background-color: #f3f3f3;border-bottom: 1px solid #dddddd;">
+<td><strong style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">2021</strong></td>
 			<td style="font-size:14.5px;">
 		<strong style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">Unit Recognition Award</strong>
 		<br>
@@ -46,7 +46,7 @@ third_nav_title: Uniformed Groups
 	</td>
 </tr>
 		
-<tr style="font-size:15px;">
+<tr style="border-bottom: 1px solid #dddddd;">
 <td><strong style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">2019</strong></td>
 			<td style="font-size:14.5px;">
 		<strong style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">Unit Recognition Award</strong>
@@ -57,8 +57,8 @@ third_nav_title: Uniformed Groups
 	</td>
 </tr>
 	
-<tr style="background-color: #f3f3f3;line-height:1.3;">
-<td style="font-size:14.5px;"><strong style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">2018</strong></td>
+<tr style="background-color: #f3f3f3;border-bottom: 1px solid #dddddd;">
+<td><strong style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">2018</strong></td>
 			<td style="font-size:14.5px;">
 		<strong style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">Unit Recognition Award</strong>
 		<br>
@@ -68,7 +68,7 @@ third_nav_title: Uniformed Groups
 	</td>
 </tr>
 		
-<tr style="font-size:15px;">
+<tr style="border-bottom: 1px solid #dddddd;">
 <td><strong style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">2017</strong></td>
 			<td style="font-size:14.5px;">
 		<strong style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">Unit Recognition Award</strong>
@@ -79,8 +79,8 @@ third_nav_title: Uniformed Groups
 	</td>
 </tr>
 	
-<tr style="background-color: #f3f3f3;border-bottom: 2px solid #0C6523;  line-height:1.3;">
-<td style="font-size:14.5px;"><strong style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">2016</strong></td>
+<tr style="background-color: #f3f3f3;border-bottom: 2px solid #0C6523;">
+<td><strong style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">2016</strong></td>
 			<td style="font-size:14.5px;">
 		<strong style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">Unit Recognition Award</strong>
 		<br>
