@@ -80,7 +80,7 @@ third_nav_title: Clubs & Societies
 <td><strong style="font-family:sans-serif;font-size:14.5px;">2009</strong></td>
 <td><strong style="font-family:sans-serif;font-size:15px;">Straits Times National Schools Newspaper Competition</strong>
 <ul>
-<li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;"></li><li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">Consolation Prize</li>
+<li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">Consolation Prize</li>
 	</ul>
 	<strong style="font-family:sans-serif;font-size:15px;">HDB Competition</strong>
 <ul>
