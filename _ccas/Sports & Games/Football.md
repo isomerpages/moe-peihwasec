@@ -2,141 +2,94 @@
 title: Football
 permalink: /ccas/sports-games/football/
 description: ""
-third_nav_title: Sports &amp; Games
+third_nav_title: Sports & Games
 ---
-<p style="font-size:14.5px; line-height:2;font-family:sans-serif;">The <strong style="font-family:sans-serif;">Pei Hwa Football Team</strong> is a group of like-minded students who enjoys playing football. Other than developing football skills and concepts, the CCA also seeks to foster meaningful friendships, cultivate a sense of belonging to the school and develop values such as teamwork, resilience and respect.</p>
+<img style="width: 100%; height: auto;margin-top:30px;margin-bottom:30px;" alt="Image" src="https://raw.githubusercontent.com/isomerpages/moe-peihwasec/staging/images/CCA/footballbanner.png">
 
-<h4 style="color:#635f1a;font-family:sans-serif;font-weight:bold;">Student Outcomes</h4>
-<p style="font-size:14.5px; line-height:2;margin-top:15px; font-family:sans-serif;">The CCA will enable our students to:</p>
-<ul style="margin-top:5px">
-<li style="font-size:14.5px; line-height:2;font-family:sans-serif;"> appreciate football as a sport</li>
-<li style="font-size:14.5px; line-height:2;font-family:sans-serif;">learn the basic skills and concepts to play football</li>
-<li style="font-size:14.5px; line-height:2;font-family:sans-serif;"> acquire the experience and positive values from taking part in competitions</li>
-<li style="font-size:14.5px; line-height:2;font-family:sans-serif;"> deepen understanding of self-discipline and team collaboration</li>
-</ul>
+<p style="font-size:14.5px; line-height:2 ;margin-top:5px; font-family:sans-serif;" class="description"> <strong style="font-size:14.5px; line-height:2; font-family:sans-serif;">Football</strong> promotes teamwork, discipline, physical fitness, and strategic thinking, all of which are important skills for young people to develop. At Pei Hwa Secondary School, the Football CCA provides an excellent opportunity for students to learn and grow through this beloved sport.</p>
+
+<p style="font-size:14.5px; line-height:2 ;margin-top:5px; font-family:sans-serif;" class="description">One of the primary goals of the CCA is to promote teamwork and camaraderie among students. Students will learn the value of collaboration, communication, and how to handle setbacks and challenges as a team, which is a valuable life lesson that will serve them well in future. In addition to the social and emotional benefits, the CCA also provides many physical benefits for students. They will also learn important skills like coordination, balance, and body control, which are essential for success on the football field. Students will also develop other important values such as resilience, respect and self-discipline through weekly training sessions, friendlies and National School Games.</p>
+
+<p style="font-size:14.5px; line-height:2 ;margin-top:5px; font-family:sans-serif;" class="description">Each year, each student will have an opportunity to represent the school to play for National School Games. At Pei Hwa Football, we are proud to say that we are one big family, united by a group of like-minded students who enjoy playing football.</p>
+
+<h3 style="margin-top:10px;font-weight: bold;color:#000000;">Achievements</h3>
+
+<table style="border-collapse: collapse;margin: 25px 0;margin-top:5px;font-family: sans-serif;box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);width:100%" border="1">
 	
-<h4 style="color:#635f1a;font-family:sans-serif;font-weight:bold;">Achievements</h4>
-	
-<table border="1" style="border-collapse: collapse;margin: 25px 0;font-size:15px;font-family: sans-serif;box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);">
-		<thead style="background-color: #009879; font-weight: bold; font-size: 15.5px;">
-			<tr>
-				<td style="text-align:left;color:white;font-family:sans-serif;">Year of Competition</td>
-				<td style="text-align:left;color:white;font-family:sans-serif;">Attainment</td>
-			</tr>
-		</thead>
+<thead style="background-color:#0C6523; font-weight: bold; font-size: 15.5px;">
+	<tr>
+			<td style="text-align:left;color:white;font-family:sans-serif;width:17%;">Year of <br>Competition</td>
+			<td style="text-align:left;color:white;font-family:sans-serif;">Attainment</td>
+		</tr>
+	</thead>
 	
 <tbody>
 <tr>
-<td><strong style="font-size:14.5px;font-family:sans-serif;">2020</strong></td>
-	<td style="font-size:14.5px;">
-		<strong style="font-family:sans-serif;">NSG B Division Boys League 2</strong>
-		<br>
-		<ul>
-			<li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;">Group Stage</li>
-		</ul>
+<td><strong style="font-family:sans-serif;font-size:14.5px;">2023</strong></td>
+	<td><strong style="font-family:sans-serif;font-size:15px;">NSG B Division Boys League 3 – Group Stage</strong>
 	</td>
 </tr>
 															
-<tr style="background-color:#f3f3f3;font-size:15px;">
-<td style="font-size:14.5px;"><strong style="font-family:sans-serif;">2019</strong></td>
-	<td style="font-size:14.5px;">
-		<strong style="font-family:sans-serif;">NSG B Division Boys League 4</strong>
-		<br>
-		<ul>
-			<li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;">Group Stage</li>
-		</ul>
-		<strong style="font-family:sans-serif;">NSG B Division Boys League 5</strong>
-		<br>
-		<ul>
-			<li style="font-size:14.5px; margin-bottom:5px;font-family:sans-serif;">Quarter Finals</li>
-		</ul>
+<tr style="background-color: #f3f3f3;">
+<td><strong style="font-family:sans-serif;font-size:14.5px;">2022</strong></td>
+	<td><strong style="font-family:sans-serif;font-size:15px;">NSG B &amp; C Division Boys  – Group Stage</strong>
 	</td>
 </tr>
-			
-<tr style="font-size:14.5px;">
-<td><strong style="font-family:sans-serif;">2018</strong></td>
-	<td>
-		<strong style="font-family:sans-serif;">YJC Celebrating Values Day (7-a-side)</strong>
-		<br>
-		<ul>
-			<li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;">1<sup style="font-family:sans-serif;">st</sup></li>
-		</ul>
+		
+<tr>
+<td><strong style="font-family:sans-serif;font-size:14.5px;">2020</strong></td>
+	<td><strong style="font-family:sans-serif;font-size:15px;">NSG B Division Boys League 2 – Group Stage</strong>
 	</td>
 </tr>
-<tr style="background-color:#f3f3f3;font-size:14.5px;border-bottom: 2px solid #009879;">
-<td><strong style="font-family:sans-serif;">2018</strong></td>
-	<td style="font-size:14.5px;">
-		<strong style="font-family:sans-serif;">YJC Celebrating Values Day (7-a-side)</strong>
-		<br>
-		<ul>
-			<li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;">1<sup style="font-family:sans-serif;">st</sup></li>
-		</ul>
+	
+<tr style="background-color: #f3f3f3;">
+<td><strong style="font-family:sans-serif;font-size:14.5px;">2019</strong></td>
+	<td><strong style="font-family:sans-serif;font-size:15px;">NSG B Division Boys League 4 – Group Stage</strong><br>
+		<strong style="font-family:sans-serif;font-size:15px;">NSG B Division Boys League 5 – Quarter Finals</strong>
+	</td>
+</tr>
+		
+<tr>
+<td><strong style="font-family:sans-serif;font-size:14.5px;">2018</strong></td>
+	<td><strong style="font-family:sans-serif;font-size:15px;">YJC Celebrating Values Day (7-a-side)</strong>
+		<ul> 
+	<li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">1<sup style="font-family:sans-serif;">st</sup> Position</li>
+</ul>
+	</td>
+</tr>
+	
+<tr style="background-color: #f3f3f3;border-bottom: 2px solid #0C6523;">
+<td><strong style="font-family:sans-serif;font-size:14.5px;">2016</strong></td>
+	<td><strong style="font-family:sans-serif;font-size:15px;">YJC Celebrating Values Day (7-a-side)</strong>
+			<ul> 
+	<li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">1<sup style="font-family:sans-serif;">st</sup> Position</li>
+</ul>
 	</td>
 </tr>
 										
 </tbody>
 </table>
 
-<h4 style="color:#635f1a;font-family:sans-serif;font-weight:bold;">Competitions and CCA Activities</h4>
+<h3 style="margin-top:10px;font-weight: bold;color:#000000">CCA Details</h3>
 
-<p style="font-size:14.5px; line-height:2;margin-top:15px; font-family:sans-serif;">Since 2017, the Pei Hwa Football Team have been participating in the yearly Northeast Friendship Tournament. The tournament was formed to provide another opportunity for students from schools in the Sengkang and Punggol areas to take part in a competition. Through this friendly competition, the students gained match experience, learned the importance of teamwork and developed friendships with their neighboring rivals.</p>
-
-<img src="/images/football1.jpg" style="align:center;">
-
-<h4 style="color:#635f1a;font-weight:bold;margin-bottom:-25px;font-family:sans-serif;">Student Testament</h4>
-<blockquote style="font-size: 15px;
-  width:100%;
-  margin:50px auto;
-  font-family:serif;
-  font-style:italic;
-  color: #555555;
-  padding:1.2em 25px 1.2em 25px;
-  border-left:8px solid #78C0A8 ;
-  line-height:1.6;
-  position: relative;
-  background:#EDEDED;">
-	"My CCA really helped me open up and be less timid. My seniors really helped ease me into the CCA, guiding me along the way and improving myself as a person. I am very thankful to the teachers and my teammates who are constantly supportive of me. The CCA also allowed me to showcase my leadership skills and gave me opportunities to apply what I know. I really love Pei Hwa Football!"
-  <span style="display:block; color:#333333; margin-top:1em;font-size:15px;"><em style="font-family:sans-serif;">Vice-Captain of Football B Boys, Kirpal Singh, Int 1</em></span>
-	</blockquote>
-	
-<blockquote style="font-size: 15px;
-  width:100%;
-  margin:50px auto;
-  font-family:serif;
-  font-style:italic;
-  color: #555555;
-  padding:1.2em 25px 1.2em 25px;
-  border-left:8px solid #78C0A8 ;
-  line-height:1.6;
-  position: relative;
-  background:#EDEDED;">
-	"Football CCA helped me open up and make many more friends. In the past, I was quiet and unsure in my speech. Now, I am more confident and having a great time with others playing the sport we love. Not only does my CCA instil resilience and a sense of responsibility, it has also helped me develop leadership and public-speaking skills which could be helpful in the future! The teachers and seniors from upper secondary would always guide me when I am unsure. I am grateful for their guidance and patience!"
-  <span style="display:block; color:#333333; margin-top:1em;font-size:15px;"><em style="font-family:sans-serif;">Vice-Captain of Football C Boys, Caden Chan, 2E4</em></span>
-	</blockquote>
-
-<h4 style="color:#635f1a;font-family:sans-serif;font-weight:bold;">CCA Details</h4>
-<table border="1" style="width:100%;">
-	<tbody>
-		<tr>
-			<td style="background-color: #54585d; font-weight: bold; font-size: 14.5px; border: 1px solid #54585d; color:white;border-bottom: 1px solid #dddddd;width:24%;font-family:sans-serif;">Teacher-In-Charge</td>
-			<td style="border: 1px solid #dddfe1;font-size: 14.5px; font-family:sans-serif;">Mr Huang Weiqiang</td>
-		</tr>
-
+<table style="width:100%;border-collapse: collapse;border: none;">
+	<tbody style="border: none;">
 <tr>
-			<td style="background-color: #54585d; font-weight: bold; font-size: 14.5px; border: 1px solid #54585d;border-bottom: 1px solid #dddddd; color:white;font-family:sans-serif;">CCA Teacher(s)</td>
-			<td style="border: 1px solid #dddfe1;font-size: 14.5px;font-family:sans-serif;">Mr Fahmie Bin Ali Abdat<br>Mr Lim Yanshan Russell</td>
+			<td style="font-weight: bold; font-size: 15px; border-bottom: 1px solid #dddddd;width:30%;font-family:sans-serif;letter-spacing:0.2px">Teachers-in-Charge</td>
+			<td style="font-size: 14.5px; border-bottom: 1px solid #dddddd;font-family:sans-serif;letter-spacing:0.2px">Mr Huang Weiqiang, Mr Fahmie Ali Abdat, Mr Russell Lin Yanshan, Mr Andrew Cheng Chang Hup</td>
 		</tr>
-
 <tr>
-			<td style="background-color: #54585d; font-weight: bold; font-size: 14.5px; border: 1px solid #54585d; color:white;border-bottom: 1px solid #dddddd;font-family:sans-serif;">CCA Schedule</td>
-			<td style="border: 1px solid #dddfe1;font-size: 14.5px;font-family:sans-serif;">Tue, 3.30pm – 6.00pm<br>Fri, 2.30pm – 6.00pm</td>
+			<td style="font-weight: bold; font-size: 15px; border-bottom: 1px solid #dddddd;width:30%;font-family:sans-serif;letter-spacing:0.2px">CCA Schedule</td>
+			<td style="font-size: 14.5px; border-bottom: 1px solid #dddddd;font-family:sans-serif;letter-spacing:0.2px">Tuesdays 3.30pm - 5.30pm<br>Fridays 2.30pm - 5.30pm
+</td>
 		</tr>
 		
 <tr>
-			<td style="background-color: #54585d; font-weight: bold; font-size: 14.5px; border: 1px solid #54585d; color:white;font-family:sans-serif;">Venues</td>
-			<td style="border: 1px solid #dddfe1;font-size: 14.5px;font-familysans-serif;">Field<br>
-Wet Weather – Gym / Classroom</td>
+			<td style="font-weight: bold; font-size: 15px; border-bottom: 1px solid #dddddd;width:30%;font-family:sans-serif;letter-spacing:0.2px">Venues</td>
+			<td style="font-size: 14.5px; border-bottom: 1px solid #dddddd;font-family:sans-serif;letter-spacing:0.2px">Field<br>
+Wet Weather – Classroom / Sheltered area within school compound
+</td>
 		</tr>
 		
 </tbody>
-	</table>
+</table>

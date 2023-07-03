@@ -4,92 +4,55 @@ permalink: /ccas/clubs-societies/student-council/
 description: ""
 third_nav_title: Clubs & Societies
 ---
-<h4 style="color:#635f1a;font-family:sans-serif;font-weight:bold;">Mission</h4>
+<img style="width: 100%; height: auto;margin-top:30px;margin-bottom:30px;" alt="Image" src="https://raw.githubusercontent.com/isomerpages/moe-peihwasec/staging/images/CCA/studentcouncilbanner.png">
 
-<p style="font-size:14.5px; line-height:2;margin-top:15px; font-family:sans-serif;">The <strong style="font-family:sans-serif;">Student Council</strong> aims to develop innovative, daring and compassionate leaders. As Tier 3 Student Leaders, the Student Council is the voice of the student body and takes the lead in school events and improving student welfare. Student Councillors are also advocates of the environment by raising awareness about environment conservation through events such as Earth Week.</p>
+<p style="font-size:14.5px; line-height:2 ;margin-top:5px; font-family:sans-serif;" class="description">The <strong style="font-size:14.5px; line-height:2; font-family:sans-serif;">Pei Hwa Student Council </strong> seeks to develop forward-looking leaders who are confident communicators, effective collaborators, active and empathetic contributors and innovative changemakers. The Student Council aspires to promote the school’s PRIDE values and to be exemplary role models to their fellow Pei Hwa-ians. </p>
 
-<p style="margin-top:15px;font-size:14.5px; line-height:2;font-family:sans-serif;">Every year, Student Councillors are officially appointed during the Student Leaders Investiture. As role-models of the student population, Student Councillors lead by example. They are given multiple platforms to develop their leadership and event management skills through organising events such as the Teachers’ Day Celebration and Secondary 1 Orientation, as well as managing the PHun Lounge.</p>
+<h5 style="margin-top:10px;font-weight: bold;color:#000000">Serving the school</h5>
 
-<h4 style="color:#635f1a;font-family:sans-serif;font-weight:bold;">Student Outcomes</h4>
+<p style="font-size:14.5px; line-height:2 ;margin-top:5px; font-family:sans-serif;" class="description">The Student Council serves the school by taking the lead or supporting in school events. Some of the key events led by the Student Council includes the Secondary 1 Orientation Programme and Teachers’ Day Celebration. As they lead the planning process of these events, the Student Council also learn to work with various stakeholders, like the Student Development Team, Class Leaders and the Alumni. </p>
 
-<p style="font-size:14.5px; line-height:2;margin-top:15px; font-family:sans-serif">The CCA will enable our students to:</p>
-<ul style="margin-top:5px">
-		<li style="font-size:14.5px; line-height:2;font-family:sans-serif;"> be equipped with knowledge on leadership, teamwork and project management</li>
+<p style="font-size:14.5px; line-height:2 ;margin-top:5px; font-family:sans-serif;" class="description">The Student Council also leads the school in morning assembly and hosts the weekly Celebration of Success segment where they seek to foster a greater sense of pride and affect for the school among the student body. They would encourage the school to cheer on the CCAs or groups of students representing the school in events and competitions. At the weekly Celebration of Success segment, they would share good news for the school to rejoice and celebrate together. </p>
+
+<p style="font-size:14.5px; line-height:2 ;margin-top:5px; font-family:sans-serif;" class="description">The Student Council also collaborates with the Student Development Team (SDT) to plan the Graduation Prom for the graduating batch and supports the SDT in the gear up programme. </p>
+
+<p style="font-size:14.5px; line-height:2 ;margin-top:5px; font-family:sans-serif;" class="description">Some other school events which the Student Council would support include:</p>
+
+<ul style="margin-top:-5px">
+	<li style="font-size:14.5px; line-height:1.5 ;margin-top:5px; font-family:sans-serif;"> Chinese New Year Celebration</li>
+<li style="font-size:14.5px; line-height:1.5 ;margin-top:5px; font-family:sans-serif;"> PHiesta </li>
+		<li style="font-size:14.5px; line-height:1.5 ;margin-top:5px; font-family:sans-serif;"> Awards Day</li>
+<li style="font-size:14.5px; line-height:1.5 ;margin-top:5px; font-family:sans-serif;"> National Day Celebration </li>
+		<li style="font-size:14.5px; line-height:1.5 ;margin-top:5px; font-family:sans-serif;"> Open House</li>
 	</ul>
+	
+<h5 style="margin-top:10px;font-weight: bold;color:#000000">Promoting Student Voice</h5>
 
+<p style="font-size:14.5px; line-height:2 ;margin-top:5px; font-family:sans-serif;" class="description">The Student Council is the bridge between the student body and the school. The Student Council seeks to contribute to building a caring and enabling school environment where student voice matters. The promotion of student voice helps students feel respected; students feel a stronger sense of agency and they believe that they can be a changemaker to make a difference; and students feel an increased sense of belonging to the school. </p>
 
-<h4 style="color:#635f1a;font-family:sans-serif;margin-bottom:-25px;font-weight:bold;">Student Testament</h4>
-<blockquote style="font-size: 15px;
-  width:100%;
-  margin:50px auto;
-  font-family:serif;
-  font-style:italic;
-  color: #555555;
-  padding:1.2em 25px 1.2em 25px;
-  border-left:8px solid #78C0A8 ;
-  line-height:1.6;
-  position: relative;
-  background:#EDEDED;">
-<img align="left" alt="14<sup>th</sup>&nbsp;President of Student Council" src="/images/sc1.jpg" style="width:33%;margin-right:15px;">
-	"Student Council provided me with a safe space to experiment various methods in leading a team, and I thoroughly enjoyed having an opportunity to work together with all sorts of people with vastly different backgrounds and leadership styles. This exposure has helped me gain a better perspective and grasp of leadership to develop my skills, alongside the support of my fellow Councillors. The opportunity to attend many events, such as leadership camps and external conventions has enabled my personal growth immensely through meeting and working with other like-minded individuals. To connect, impact and influence the rest of the school community is a large responsibility that gave me purpose and drive to serve as a Student Councillor. <br><br>
-	I have learnt how to be quick-thinking and adaptable in the challenges I face. Taking charge of planning large scale projects such as the Secondary 1 Orientation, and assisting my fellow Councillors in events such as Teachers’ Day or Earth week have been invaluable experiences that let me grow in my management and communication skills. Through Council, I have become a more effective communicator, through giving clear instructions and providing direction to my teammates, especially when problems arise. Council has enriched my schooling experience and made it more worthwhile by pushing my capabilities further than what I had anticipated, and enabled me to become a well-rounded and confident leader."
-  <span style="display:block; color:#333333; margin-top:1em;font-size:15px;"><em style="font-family:sans-serif;">Trinity Oh, 14<sup style="font-family:sans-serif;">th</sup>&nbsp;President of Student Council (Currently a student in ACJC)</em></span>
-	</blockquote>
+<p style="font-size:14.5px; line-height:2 ;margin-top:5px; font-family:sans-serif;" class="description">The Student Council facilitates the inclusion of student voice in some of the decision-making in the school. They do it through calling for suggestions on various areas in school through Student Forums or submission of online forms and conducting polls based on suggestions from the ground. After receiving these responses, they seek to better understand the perspectives of their schoolmates and the considerations from the school. They apply the design thinking approach to problem-solving, then propose possible solutions and ideas to the school leaders. Some of the projects which they have undertaken include changes to the school bell, school jacket, graduation prom and canteen rejuvenation project.</p>
 
-<blockquote style="font-size: 15px;
-  width:100%;
-  margin:50px auto;
-  font-family:serif;
-  font-style:italic;
-  color: #555555;
-  padding:1.2em 25px 1.2em 25px;
-  border-left:8px solid #78C0A8 ;
-  line-height:1.6;
-  position: relative;
-  background:#EDEDED;">
-<img align="left" alt="President of Student Council" src="images/sc2.jpg" style="width:33%;margin-right:15px;">
-"The Student Council allows me to make new friends with peers from different levels and it allows me to experience skills that a normal student would not have the privilege to do, but it also makes me think of the school and how I can use this privilege I have to make changes that benefits everyone in the school.<br><br>
-I learnt many things in Council and one of the few is being in charge of a specific sub group for an event. It allowed me to learn how I should be a leader and how I should distribute the work so everyone plays their part in the planning of the event. Another thing I learnt is to speak confidently in front of the school from being the emcee of our school’s Teachers Day Celebration which allowed me to develop the skill of public speaking. I think that Student Council helps to bring out a part of you that hasn’t been found and that will be found as we go through different events."
-  <span style="display:block; color:#333333; margin-top:1em;font-size:15px;"><em style="font-family:sans-serif;">Ang Kaitlynn, 16<sup style="font-family:Open Sans;">th</sup>&nbsp;President of Student Council</em></span>
-	</blockquote>
+<h5 style="margin-top:10px;font-weight: bold;color:#000000">Promoting Student Well-Being</h5>
 
+<p style="font-size:14.5px; line-height:2 ;margin-top:5px; font-family:sans-serif;" class="description">As the representatives of the student body, the Student Council seeks to promote student well-being. One way is through the PHun Lounge – our very own afterschool recreation centre for students to relax and have fun with their friends after a long day of school. In the PHun Lounge, students have access to board games, console games and other games like pool, foosball. The Student Council also organizes regular PHun Lounge events during the term. Some of these events and competitions include the Pool Competition, MarioKart Competition, Jenga Competition, Chess Competion.</p>
 
-<h4 style="color:#635f1a;font-family:sans-serif;font-weight:bold;">CCA Details</h4>
-<table border="1" style="width:100%;">
-	<tbody>
-		<tr>
-			<td style="background-color: #54585d; font-weight: bold; font-size: 14.5px; border: 1px solid #54585d; color:white;border-bottom: 1px solid #dddddd;width:24%;font-family:sans-serif;">Teacher-In-Charge</td>
-			<td style="border: 1px solid #dddfe1;font-size: 14.5px;font-family:sans-serif;">Ms Chow Shi Qin</td>
-		</tr>
+<div style="display: flex; flex-wrap: wrap; justify-content: space-between; max-width: 800px; margin: 0 auto;" class="image-container">
+	<div style="width: 45%; margin-bottom: 20px; box-sizing: border-box; text-align: center;" class="image-box">
+    <img style="width: 100%; margin-bottom: 10px;" alt="Image 1" src="https://raw.githubusercontent.com/isomerpages/moe-peihwasec/staging/images/CCA/studentcouncil01.png">
+  </div>
+	<div style="width: 45%; margin-bottom: 20px; box-sizing: border-box; text-align: center;" class="image-box">
+    <img style="width: 100%; margin-bottom: 10px;" alt="Image 1" src="https://raw.githubusercontent.com/isomerpages/moe-peihwasec/staging/images/CCA/studentcouncil02.png">
+  </div>
+</div>
 
-<tr>
-			<td style="background-color: #54585d; font-weight: bold; font-size: 14.5px; border: 1px solid #54585d;border-bottom: 1px solid #dddddd; color:white;font-family:sans-serif;">CCA Teacher(s)</td>
-			<td style="border: 1px solid #dddfe1;font-size: 14.5px;font-family:sans-serif;">Mdm Nordiana Abbas<br>Mrs Jaslyn Ang<br>Mrs Erin Wong<br>Mrs Michelle Jonathan</td>
-		</tr>
+<h5 style="margin-top:10px;font-weight: bold;color:#000000">Leadership Development Opportunities</h5>
 
-<tr>
-			<td style="background-color: #54585d; font-weight: bold; font-size: 14.5px; border: 1px solid #54585d; color:white;border-bottom: 1px solid #dddddd;font-family:sans-serif;">CCA Schedule</td>
-			<td style="border: 1px solid #dddfe1;font-size: 14.5px;font-family:sans-serif;">Monday, 2.30 to 5.15pm</td>
-		</tr>
-		
-<tr>
-			<td style="background-color: #54585d; font-weight: bold; font-size: 14.5px; border: 1px solid #54585d; color:white;font-family:sans-serif;">Venues</td>
-			<td style="border: 1px solid #dddfe1;font-size: 14.5px;font-family:sans-serif;">Passion 8 Classroom</td>
-		</tr>
-		
-</tbody>
-	</table>
-
-<h4 style="color:#635f1a;font-family:sans-serif;font-weight:bold;">Photo Gallery</h4>
-<div class="row" style="box-sizing: border-box;width:120%;"> 
-		<div class="column" style="box-sizing: border-box;  float: left; width: 50%; padding: 10px;">
-  			<img src="/images/AlbumStudCounsellor4.jpeg" style="width:100%; margin-top: 12px;">
-  		</div>
-  		<div class="column" style="box-sizing: border-box;  float: left;width: 50%;padding: 10px;">
-  			<img src="/images/AlbumStudCounsellor3.jpeg" style="width:100%; margin-top: 12px;">
-		</div>  
-  	</div>
-		
-		
-
-<br>
+<p style="font-size:14.5px; line-height:2 ;margin-top:5px; font-family:sans-serif;" class="description">In addition</p>
+<ul style="margin-top:-5px">
+	<li style="font-size:14.5px; line-height:1.5 ;margin-top:5px; font-family:sans-serif;"> Sec 2 Basic Leadership Camp</li>
+<li style="font-size:14.5px; line-height:1.5 ;margin-top:5px; font-family:sans-serif;"> Sec 3 Advanced Leadership Camp</li>
+		<li style="font-size:14.5px; line-height:1.5 ;margin-top:5px; font-family:sans-serif;"> Communications Training</li>
+<li style="font-size:14.5px; line-height:1.5 ;margin-top:5px; font-family:sans-serif;"> Design Thinking Workshop</li>
+		<li style="font-size:14.5px; line-height:1.5 ;margin-top:5px; font-family:sans-serif;"> Strengths Finder Workshop</li>
+	<li style="font-size:14.5px; line-height:1.5 ;margin-top:5px; font-family:sans-serif;"> Leadership events by other organisations</li>
+	</ul>

@@ -2,146 +2,108 @@
 title: Table Tennis
 permalink: /ccas/sports-games/table-tennis/
 description: ""
-third_nav_title: Sports &amp; Games
+third_nav_title: Sports & Games
 ---
-<p style="font-size:14.5px; line-height:2;font-family:sans-serif;">The <strong style="font-family:sans-serif;">Pei Hwa Table Tennis team</strong> started with its humble beginnings. Many years on, we have gained popularity and established a steady membership base. Apart from pushing our students’ potential in technical and tactical skills during training, the CCA also develops their mental strength, self-discipline, leadership and sportsmanship. The CCA provides opportunities for students to participate in Zonal Competitions, Ad-hoc Tournaments and Inter-School friendly competitions. Students also bond through planning and participating in training camps and recreational activities.</p>
+<img style="width: 100%; height: auto;margin-top:30px;margin-bottom:30px;" alt="Image" src="https://raw.githubusercontent.com/isomerpages/moe-peihwasec/staging/images/CCA/tabletennisbanner.png">
 
-<h4 style="color:#635f1a;font-family:sans-serif;font-weight:bold;">Student Outcomes</h4>
-<p style="font-size:14.5px; line-height:2;margin-top:15px; sans-serif;">The CCA will enable our students to:</p>
-<ul style="margin-top:5px;">
-		<li style="font-size:14.5px; line-height:2;font-family:sans-serif;"> understand, learn and apply technical and tactical skills in Table Tennis.</li>
-		<li style="font-size:14.5px; line-height:2;font-family:sans-serif;"> develop team spirit and a resilient mental attitude through training sessions and competitions.</li>
-		<li style="font-size:14.5px; line-height:2;font-family:sans-serif;"> exhibit true sportsmanship, values of fair play, graciousness and self-discipline.</li>
-		<li style="font-size:14.5px; line-height:2;font-family:sans-serif;"> develop good character and practises the Pei Hwa PRIDE values (Passion for Learning, Resilience, Integrity, Diligence, Excellence for Self and Others)</li>
-		<li style="font-size:14.5px; line-height:2;sans-serif;"> cultivate a vibrant sports culture in school by having a sense of appreciation and passion for sports (Table Tennis in particular).</li>
-</ul>
+<p style="font-size:14.5px; line-height:2 ;margin-top:5px; font-family:sans-serif;" class="description"> The<strong style="font-size:14.5px; line-height:2; font-family:sans-serif;"> Pei Hwa Table Tennis</strong>   team started with its humble beginnings. Our team has become one of the most popular CCAs in the school, with a steady membership base that keeps growing. Our training sessions focus on developing technical and tactical skills, mental strength, self-discipline, leadership, and sportsmanship. The CCA provides opportunities for students to participate in zonal competitions, ad-hoc tournaments and inter-school friendly competitions. Students also bond through planning and participating in training camps and recreational activities.</p>
+
+<p style="font-size:14.5px; line-height:2 ;margin-top:5px; font-family:sans-serif;" class="description">At Pei Hwa Table Tennis team, we aim to enable our students to learn and apply technical and tactical skills in Table Tennis, develop team spirit and a resilient mental attitude, exhibit true sportsmanship, demonstrate good character, and cultivate a vibrant sports culture in school. We follow the Pei Hwa PRIDE values (Passion to Learn, Resilience in Adversity, Integrity in Deeds, Dare to Innovate, Excellence Together) to guide us in our journey towards excellence.</p>
+
+<h3 style="margin-top:10px;font-weight: bold;color:#000000;">Achievements</h3>
+
+<table style="border-collapse: collapse;margin: 25px 0;margin-top:5px;font-family: sans-serif;box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);width:100%" border="1">
 	
-<h4 style="color:#635f1a;font-family:sans-serif;font-weight:bold;">Achievements</h4>
-
-<table border="1" style="border-collapse: collapse;margin: 25px 0;font-size:14.5px;font-family: sans-serif;box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);">
-<thead style="background-color: #009879; font-weight: bold; font-size: 15.5px;">
-<tr>
-				<td style="text-align:left;color:white;font-family:sans-serif;">Year of Competition</td>
-				<td style="text-align:left;color:white;font-family:sans-serif;">Division</td>
-				<td style="text-align:left;color:white;font-family:sans-serif;">Achievement</td>
-			</tr>
-</thead>
+<thead style="background-color:#0C6523; font-weight: bold; font-size: 15.5px;">
+	<tr>
+			<td style="text-align:left;color:white;font-family:sans-serif;width:17%;">Year of <br>Competition</td>
+			<td style="text-align:left;color:white;font-family:sans-serif;">Attainment</td>
+		</tr>
+	</thead>
 	
 <tbody>
-<tr style="font-size:14.5px;">
-	<td rowspan="4" style="align:center;"><strong style="font-family:sans-serif;">2019</strong></td>
-	<td><strong style="font-family:sans-serif;">B Div Boys</strong></td>
-	<td><strong style="font-family:sans-serif;">3<sup style="font-family:sans-serif;">rd</sup> Placing in Group</strong></td>
+
+<tr>
+<td><strong style="font-family:sans-serif;font-size:14.5px;">2023</strong></td>
+	<td>
+	<strong style="font-family:sans-serif;font-size:15px;">National School Games</strong>
+		<ul style="margin-top:-5px">
+			<li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">B &amp; C Division Boys – Participation</li>
+			<li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">B &amp; C Division Girls – Participation </li>
+		</ul>
+	</td>
 </tr>
 															
-<tr style="font-size:14.5px;">
-<td><strong style="font-family:sans-serif;">B Div Girls</strong></td>
-	<td><strong style="font-family:sans-serif;">Participation</strong></td>
-</tr>
-	
-<tr style="font-size:14.5px;">
-	<td><strong style="font-family:sans-serif;">C Div Boys</strong></td>
-	<td><strong style="font-family:sans-serif;">3<sup style="font-family:sans-serif;">rd</sup> Placing in Group</strong></td>
-</tr>
-	
-<tr style="font-size:14.5px;">
-<td><strong style="font-family:sans-serif;">C Div Girls</strong></td>
-	<td><strong style="font-family:sans-serif;">Participation</strong></td>
-</tr>
-	
-<tr style="background-color:#f3f3f3; font-size:14.5px;">
-	<td rowspan="4"><strong style="font-family:sans-serif;">2018</strong></td>
-	<td><strong style="font-family:sans-serif;">B Div Boys</strong></td>
-	<td><strong style="font-family:sans-serif;">3<sup style="font-family:sans-serif;">rd</sup> Placing in Group</strong></td>
-</tr>
-															
-<tr style="background-color:#f3f3f3;font-size:14.5px;">
-<td><strong style="font-family:sans-serif;">B Div Girls</strong></td>
-	<td><strong style="font-family:sans-serif;">Participation</strong></td>
-</tr>
-	
-<tr style="background-color:#f3f3f3;font-size:14.5px;">
-	<td><strong style="font-family:sans-serif;">B Div Boys</strong></td>
-	<td><strong style="font-family:sans-serif;">Participation</strong></td>
-</tr>
-	<tr style="background-color:#f3f3f3;font-size:14.5px;border-bottom: 2px solid #009879;">
-<td><strong style="font-family:sans-serif;">B Div Girls</strong></td>
-	<td><strong style="font-family:sans-serif;">3<sup>rd</sup> Placing in Group</strong></td>
+<tr style="background-color: #f3f3f3;border-bottom: 2px solid #0C6523;">
+<td><strong style="font-family:sans-serif;font-size:14.5px;">2022</strong></td>
+	<td>
+		<strong style="font-family:sans-serif;font-size:15px;">National School Games</strong>
+		<ul style="margin-top:-5px">
+			<li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">B &amp; C Division Boys – Participation</li>
+			<li style="font-size:14.5px;margin-bottom:-5px;font-family:sans-serif;line-height:1.5;">B &amp; C Division Girls – Participation </li>
+		</ul>
+				<strong style="font-family:sans-serif;font-size:15px;">NBSS Pyramid of Success Competition</strong>
+		<ul style="margin-top:-5px">
+			<li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">B Boys – 4<sup style="font-family:sans-serif;">th</sup> Place</li>
+			<li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">B &amp; C Girls  – 4<sup style="font-family:sans-serif;">th</sup> Place</li>
+			<li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">C Boys – Participation </li>
+		</ul>
+	</td>
 </tr>
 										
 </tbody>
-</table>	
+</table>
+
+<h3 style="margin-top:10px;font-weight: bold;color:#000000">CCA Activities</h3>
+
+<ul style="margin-top:5px">
+	<li style="font-size:14.5px; line-height:1.5 ;margin-top:5px; font-family:sans-serif;"> National School Games, zonal competitions, external ad-hoc competitions, inter-school friendly competitions.</li>
+<li style="font-size:14.5px; line-height:1.5 ;margin-top:5px; font-family:sans-serif;"> Training camps</li>
+<li style="font-size:14.5px; line-height:1.5 ;margin-top:5px; font-family:sans-serif;"> Bonding activities</li>
+	<li style="font-size:14.5px; line-height:1.5 ;margin-top:5px; font-family:sans-serif;"> Technical and tactical training sessions</li>
+	</ul>
 	
-<h4 style="color:#635f1a;font-family:sans-serif;font-weight:bold;">Competitions and CCA Activities</h4>
-<p style="font-size:14.5px; line-height:2;margin-top:15px; font-family:sans-serif;">Apart from our participation in the annual National School Games, we also participate in friendly competitions with other schools. It gives us the opportunities to widen our network and expose ourselves to a broader range of challenge. It provides the players with opportunities to form meaningful bonds with competitors from other schools.</p>
+<h3 style="margin-top:10px;font-weight: bold;color:#000000">Student Testament</h3>
 
-<img src="/images/tt1.jpg" style="align:center;">
+<blockquote style="font-size: 15px;width:100%;margin:50px auto;margin-top:5px;font-family:serif;font-style:italic;color: #555555;padding:1.2em 25px 1.2em 25px;border-left:8px solid #0C6523;line-height:1.6;position: relative;background:#EDEDED;">
+<img align="left" src="https://raw.githubusercontent.com/isomerpages/moe-peihwasec/staging/images/CCA/tabletennistestimonial01.png" style="width: 23%; border-radius: 7%;  margin-right:15px;">
+	"The Table Tennis CCA has been an absolute delight for me. It not only allows me to indulge in my passion for table tennis and refine my skills but also provides a dynamic blend of fun and education. Through this CCA, I have formed meaningful connections with like-minded individuals who share my interests, and it's incredible to think that I might have never crossed paths with them otherwise. The CCA has opened doors to various competitions, where I have learned invaluable values such as sportsmanship, resilience, and leadership. Serving as the CCA President and attending leadership camps has taught me the essence of being a true leader, instilling qualities like patience and compassion to guide my CCA mates. Taking charge of CCA activities and conducting briefings has been quite a learning experience, helping me evolve into a better version of myself."
+  <span style="display:block; color:#333333; margin-top:1em;font-size:15px;font-family:sans-serif;"><em style="font-family:sans-serif;">President, Chew Vui Wei</em></span>
+	</blockquote> 
 
-<p style="margin-top:15px;font-size:14.5px; line-height:2;font-family:sans-serif;">CCA members are also provided with the opportunities to participate in school events such as CCA Fiesta, Open House and CCA camps. Experienced players competing in high level competitions are also invited to conduct clinics for our students.</p>
-
-<img src="/images/tt2.jpg" style="align:center;">
-
-<p style="margin-top:15px;font-size:14.5px; line-height:2;font-family:sans-serif;">We also believe in nurturing our own leaders to facilitate training sessions, bonding activities and school event. Student leaders will also be given the opportunity to hone their leadership skills further when they are sent to participate in the annual Sec 2 Basic Student Leadership Camp and Sec 3 Advance Student Leadership Camp.</p>
-
-<img src="/images/tt3.jpg">
-
-<h4 style="color:#635f1a;font-weight:bold;margin-bottom:-25px;font-family:sans-serif;">Student Testament</h4>
-<blockquote style="font-size: 15px;
-  width:100%;
-  margin:50px auto;
-  font-family:serif;
-  font-style:italic;
-  color: #555555;
-  padding:1.2em 25px 1.2em 25px;
-  border-left:8px solid #78C0A8 ;
-  line-height:1.6;
-  position: relative;
-  background:#EDEDED;">
-<img align="left" alt="" src="/images/tt4.jpg" style="width: 33%;margin-right:15px;">
-	"I really enjoy playing table tennis with my teammates during training sessions. We get the opportunity to acquire different techniques in preparation for competitions. I have learnt to work well with others, constantly improving my communication skills and teamwork. The CCA has also given me the opportunity to step up as a leader, which helped to nurture my leadership potential."
-  <span style="display:block; color:#333333; margin-top:1em;font-size:14.5px;"><em style="font-family:sans-serif;">CCA President (2019), Lim See Yune Shermayne (Right)</em></span>
+<blockquote style="font-size: 15px;width:100%;margin:50px auto;margin-top:5px;font-family:serif;font-style:italic;color: #555555;padding:1.2em 25px 1.2em 25px;border-left:8px solid #0C6523;line-height:1.6;position: relative;background:#EDEDED;">
+<img align="left" src="https://raw.githubusercontent.com/isomerpages/moe-peihwasec/staging/images/CCA/tabletennistestimonial02.png" style="width: 23%; border-radius: 7%;  margin-right:15px;">
+	"Being in Table Tennis, I love the fact that I am able to bond with all my schoolmates and close friends through a sport we all enjoy playing, especially when I am able to team up and train with them for a game of doubles. I too, enjoy being constantly challenged by my seniors when I have the chance to go against them. Playing against them has broadened my perspective of the sport since I am able to pick up a variety of techniques and adopt their different and unique playstyles. Furthermore, this CCA has given me countless opportunities to develop grit and tenacity in the face of adversity in circumstances where I have to discover new tactics to improve my playstyle or work on my leadership skills. It has been an enriching experience being in the Table Tennis CCA."
+  <span style="display:block; color:#333333; margin-top:1em;font-size:15px;font-family:sans-serif;"><em style="font-family:sans-serif;">Vice-President, Goh Ying Xuan, Shaine</em></span>
 	<br>
-	"Pei Hwa’s Table Tennis CCA is a place where one can be stretched to the fullest potential. Teachers, coach and CCA members are kind and friendly; they are my moral support, especially so in competitions. The CCA also provides me with numerous opportunities to develop soft skills such as leadership skills, communication skills and teamwork. Serving as a captain in 2019-2020 has also boosted my public speaking skills, which have benefitted me in many ways. Moreover, participating in various competitions has also allowed me to improve my table tennis skills, as well as sportsmanship. All in all, the CCA has allowed me to become a better person, especially under the guidance of my teachers, coach and peers."
-	 <span style="display:block; color:#333333; margin-top:1em;font-size:14.5px;"><em style="font-family:sans-serif;">B Girls Captain (2019), Lee Zhiyu, Marilynn (Left)</em></span>
-	</blockquote>
-<blockquote style="font-size: 15px;
-  width:100%;
-  margin:50px auto;
-  font-family:serif;
-  font-style:italic;
-  color: #555555;
-  padding:1.2em 25px 1.2em 25px;
-  border-left:8px solid #78C0A8 ;
-  line-height:1.6;
-  position: relative;
-  background:#EDEDED;">
-<img align="left" alt="" src="/images/tt5.jpg" style="width: 23%;margin-right:15px;">
-	"I am really grateful to be able to lead my fellow CCA members as the President of Table Tennis CCA. It has given me so many opportunities to learn and grow, not only did it made me a better leader, it also made me a better person. I enjoyed every moment I spent in the CCA with my teacher and teammates, and I will definitely miss CCA when I graduate!"&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <span style="display:block; color:#333333; margin-top:1em;font-size:14.5px;"><em style="font-family:sans-serif;">CCA President (2020), Li Tsz Nok Jaymin</em></span><br><br><br><br><br><br><br><br><br><br>
-	</blockquote>
+	</blockquote> 
+	
+<blockquote style="font-size: 15px;width:100%;margin:50px auto;margin-top:5px;font-family:serif;font-style:italic;color: #555555;padding:1.2em 25px 1.2em 25px;border-left:8px solid #0C6523;line-height:1.6;position: relative;background:#EDEDED;">
+<img align="left" src="https://raw.githubusercontent.com/isomerpages/moe-peihwasec/staging/images/CCA/tabletennistestimonial03.png" style="width: 23%; border-radius: 7%;  margin-right:15px;">
+	"As the CCA Logistics IC, one aspect of the CCA that I truly appreciate is the collective effort we put into setting up and packing up the logistics during our sessions. It's heartwarming to witness everyone working together seamlessly to ensure we have the equipment we need for training. Additionally, the supportive atmosphere we create by cheering each other on during competitions is truly uplifting. Being a part of this CCA has presented me with remarkable opportunities to cultivate my leadership skills. As an Executive Committee member, I have learned to collaborate with and lead alongside other dedicated individuals, fostering a sense of unity within the CCA. Together, we navigate the challenges and guide the CCA towards success."
+  <span style="display:block; color:#333333; margin-top:1em;font-size:15px;font-family:sans-serif;"><em style="font-family:sans-serif;">Logistics IC, Ho Xuan En, Emily</em></span>
+<br>
+	</blockquote> 
+	
+	
+<h3 style="margin-top:10px;font-weight: bold;color:#000000">CCA Details</h3>
 
-<h4 style="color:#635f1a;font-family:sans-serif;font-weight:bold;">CCA Details</h4>
-<table border="1" style="width:100%;">
-	<tbody>
-		<tr>
-			<td style="background-color: #54585d; font-weight: bold; font-size: 14.5px; border: 1px solid #54585d; color:white;border-bottom: 1px solid #dddddd;width:24%;font-family:sans-serif;">Teacher-In-Charge</td>
-			<td style="border: 1px solid #dddfe1;font-size: 14.5px;font-family:sans-serif;">Mr Emmanuel Lim</td>
-		</tr>
-
+<table style="width:100%;border-collapse: collapse;border: none;">
+	<tbody style="border: none;">
 <tr>
-			<td style="background-color: #54585d; font-weight: bold; font-size: 14.5px; border: 1px solid #54585d;border-bottom: 1px solid #dddddd; color:white;font-family:sans-serif;">CCA Teacher(s)</td>
-			<td style="border: 1px solid #dddfe1;font-size: 14.5px;font-family:sans-serif;">Ms Wong Ser Ching<br>Mr Teo Eng Hao</td>
+			<td style="font-weight: bold; font-size: 15px; border-bottom: 1px solid #dddddd;width:30%;font-family:sans-serif;letter-spacing:0.2px">Teachers-in-Charge</td>
+			<td style="font-size: 14.5px; border-bottom: 1px solid #dddddd;font-family:sans-serif;letter-spacing:0.2px">Mr Emmanuel Lim, Mrs Erin Wong, Mr Teo Eng How, Ms Wong Ser Ching</td>
 		</tr>
-
 <tr>
-			<td style="background-color: #54585d; font-weight: bold; font-size: 14.5px; border: 1px solid #54585d; color:white;border-bottom: 1px solid #dddddd;font-family:sans-serif;">CCA Schedule</td>
-			<td style="border: 1px solid #dddfe1;font-size: 14.5px;font-family:sans-serif;">Tuesdays: 3.30pm to 5pm<br>Fridays: 2.30pm to 6pm</td>
+			<td style="font-weight: bold; font-size: 15px; border-bottom: 1px solid #dddddd;width:30%;font-family:sans-serif;letter-spacing:0.2px">CCA Schedule</td>
+			<td style="font-size: 14.5px; border-bottom: 1px solid #dddddd;font-family:sans-serif;letter-spacing:0.2px">Tuesdays 3.30pm - 6.00pm<br>Fridays 2.30pm - 6.00pm
+</td>
 		</tr>
 		
 <tr>
-			<td style="background-color: #54585d; font-weight: bold; font-size: 14.5px; border: 1px solid #54585d; color:white;font-family:sans-serif;">Venues</td>
-			<td style="border: 1px solid #dddfe1;font-size: 14.5px;font-family:sans-serif;">School Hall</td>
+			<td style="font-weight: bold; font-size: 15px; border-bottom: 1px solid #dddddd;width:30%;font-family:sans-serif;letter-spacing:0.2px">Venues</td>
+			<td style="font-size: 14.5px; border-bottom: 1px solid #dddddd;font-family:sans-serif;letter-spacing:0.2px">School Hall</td>
 		</tr>
 		
 </tbody>
-	</table>
+</table>
