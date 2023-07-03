@@ -75,14 +75,14 @@ third_nav_title: Sports & Games
 <img align="left" src="https://raw.githubusercontent.com/isomerpages/moe-peihwasec/staging/images/CCA/tabletennistestimonial02.png" style="width: 23%; border-radius: 7%;  margin-right:15px;">
 	"Being in Table Tennis, I love the fact that I am able to bond with all my schoolmates and close friends through a sport we all enjoy playing, especially when I am able to team up and train with them for a game of doubles. I too, enjoy being constantly challenged by my seniors when I have the chance to go against them. Playing against them has broadened my perspective of the sport since I am able to pick up a variety of techniques and adopt their different and unique playstyles. Furthermore, this CCA has given me countless opportunities to develop grit and tenacity in the face of adversity in circumstances where I have to discover new tactics to improve my playstyle or work on my leadership skills. It has been an enriching experience being in the Table Tennis CCA."
   <span style="display:block; color:#333333; margin-top:1em;font-size:15px;font-family:sans-serif;"><em style="font-family:sans-serif;">Vice-President, Goh Ying Xuan, Shaine</em></span>
-	<br><br>
+	<br>
 	</blockquote> 
 	
 <blockquote style="font-size: 15px;width:100%;margin:50px auto;margin-top:5px;font-family:serif;font-style:italic;color: #555555;padding:1.2em 25px 1.2em 25px;border-left:8px solid #0C6523;line-height:1.6;position: relative;background:#EDEDED;">
 <img align="left" src="https://raw.githubusercontent.com/isomerpages/moe-peihwasec/staging/images/CCA/tabletennistestimonial03.png" style="width: 23%; border-radius: 7%;  margin-right:15px;">
 	"As the CCA Logistics IC, one aspect of the CCA that I truly appreciate is the collective effort we put into setting up and packing up the logistics during our sessions. It's heartwarming to witness everyone working together seamlessly to ensure we have the equipment we need for training. Additionally, the supportive atmosphere we create by cheering each other on during competitions is truly uplifting. Being a part of this CCA has presented me with remarkable opportunities to cultivate my leadership skills. As an Executive Committee member, I have learned to collaborate with and lead alongside other dedicated individuals, fostering a sense of unity within the CCA. Together, we navigate the challenges and guide the CCA towards success."
   <span style="display:block; color:#333333; margin-top:1em;font-size:15px;font-family:sans-serif;"><em style="font-family:sans-serif;">Logistics IC, Ho Xuan En, Emily</em></span>
-<br><br>
+<br>
 	</blockquote> 
 	
 	
