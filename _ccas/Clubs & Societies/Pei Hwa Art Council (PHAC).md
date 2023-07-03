@@ -19,11 +19,11 @@ third_nav_title: Clubs & Societies
 
 
 <h3 style="margin-top:10px;font-weight: bold;color:#000000">Achievements</h3>
-<table style="border-collapse: collapse;margin: 25px 0;margin-top:5px;font-family: sans-serif;box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);" border="1">
+<table style="border-collapse: collapse;margin: 25px 0;margin-top:5px;font-family: sans-serif;box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);width:100%" border="1">
 	
 <thead style="background-color:#0C6523; font-weight: bold; font-size: 15.5px;">
 	<tr>
-			<td style="text-align:left;color:white;font-family:sans-serif;">Year of <br>Competition</td>
+			<td style="text-align:left;color:white;font-family:sans-serif;width:17%;">Year of <br>Competition</td>
 			<td style="text-align:left;color:white;font-family:sans-serif;">Attainment</td>
 		</tr>
 	</thead>
@@ -31,35 +31,35 @@ third_nav_title: Clubs & Societies
 <tbody>
 
 <tr>
-<td style="font-size:14.5px;"><strong style="font-family:sans-serif;">2022</strong></td>
-<td style="font-size:15px;"><strong style="font-family:sans-serif;">Participated in Singapore Youth Festival 2022 Art Exhibition: Artist and Sustainability</strong>
+<td><strong style="font-family:sans-serif;font-size:14.5px;">2022</strong></td>
+<td><strong style="font-family:sans-serif;font-size:15px;">Participated in Singapore Youth Festival 2022 Art Exhibition: Artist and Sustainability</strong>
 	</td>
 </tr>
 	
 <tr style="background-color: #f3f3f3;">
-<td style="font-size:14.5px;"><strong style="font-family:sans-serif;">2021</strong></td>
-<td style="font-size:15px;"><strong style="font-family:sans-serif;">NKF Schools Postcard Design Contest</strong>
+<td><strong style="font-family:sans-serif;font-size:14.5px;">2021</strong></td>
+<td><strong style="font-family:sans-serif;font-size:15px;">NKF Schools Postcard Design Contest</strong>
 <br>
 <ul> 
-	<li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">‘Feed My Trashemon’ – 8<sup style="font-family:sans-serif;">th</sup> Place in the Top 10 designs</li>
+	<li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">Feed My Trashemon’ – 8<sup style="font-family:sans-serif;">th</sup> Place in the Top 10 designs</li>
 	<li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">Draw My Stamp Story’ Art Competition – Bronze</li>
 </ul>
 	</td>
 </tr>
 
 <tr>
-<td><strong style="font-size:14.5px; font-family:sans-serif;">2020</strong></td>
-<td style="font-size:14.5px; margin-bottom:5px;"><strong style="font-family:sans-serif;">Live On Design Competition ‘From Fears to Dreams’ &amp; ‘A New Beginning’</strong>
+<td><strong style="font-family:sans-serif;font-size:14.5px;">2020</strong></td>
+<td><strong style="font-family:sans-serif;font-size:15px;">Live On Design Competition ‘From Fears to Dreams’ &amp; ‘A New Beginning’</strong>
 <br>
 <ul>
-<li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;"> Awarded Special Mention, Schools Category</li>
+<li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">Awarded Special Mention, Schools Category</li>
 	</ul>
 </td>
 </tr>
 														
 <tr style="border-bottom: 2px solid #0C6523;background-color: #f3f3f3;">
-<td style="font-size:14.5px;"><strong style="font-family:sans-serif;">2018</strong></td>
-<td style="font-size:15px;"><strong style="font-family:sans-serif;">NKF Schools Postcard Design Contest</strong>
+<td><strong style="font-family:sans-serif;font-size:14.5px;">2018</strong></td>
+<td><strong style="font-family:sans-serif;font-size:15px;">NKF Schools Postcard Design Contest</strong>
 <br>
 <ul> 
 <li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;"> 1<sup style="font-family:sans-serif;">st</sup> Prize</li>
