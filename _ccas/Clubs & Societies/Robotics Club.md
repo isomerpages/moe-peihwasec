@@ -66,7 +66,7 @@ Tay Kai Wen, Bryan (4D1), Lai Le Xin Grace (3I4), Ain Myeisha Arman (3I1), Chang
 			<li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">Cospace Rescue U19 2<sup style="font-family:sans-serif;">nd</sup> Place </li>
        <li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">Cospace Rescue U19 1<sup style="font-family:sans-serif;">st</sup> Place (SuperTeam)</li>
         <li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">Cospace Rescue U19 2<sup style="font-family:sans-serif;">nd</sup> Place (SuperTeam)</li>
-		<li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">Cospace Autonomous Driving U19 Best Presentation </li>
+		<li style="font-size:14.5px;margin-bottom:-5px;font-family:sans-serif;line-height:1.5;">Cospace Autonomous Driving U19 Best Presentation </li>
 		</ul>
 		<strong style="font-family:sans-serif;font-size:15px;">RoboCup Singapore Open</strong>
 		<ul>
@@ -100,11 +100,11 @@ Tay Kai Wen, Bryan (4D1), Lai Le Xin Grace (3I4), Ain Myeisha Arman (3I1), Chang
             <li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">RoboCupJunior CoSpace Rescue league – 3<sup style="font-family:sans-serif;">rd</sup> Place</li>
              <li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">RoboCup Asia Pacific (RCAP) CoSpace Rescue U19</li>
               <li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">Friendship Tournament – 1<sup style="font-family:sans-serif;">st</sup> Place</li>
-                <li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">Best Achievement Award (3<sup style="font-family:sans-serif;">rd</sup> time)</li>
+                <li style="font-size:14.5px;margin-bottom:-5px;font-family:sans-serif;line-height:1.5;">Best Achievement Award (3<sup style="font-family:sans-serif;">rd</sup> time)</li>
 	        </ul>
                 <strong style="font-family:sans-serif;font-size:15px;">ITE Robotics Challenge</strong>
 		<ul> 
-			<li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">Merit award in Tracing Challenge</li>
+			<li style="font-size:14.5px;margin-bottom:-5px;font-family:sans-serif;line-height:1.5;">Merit award in Tracing Challenge</li>
 	        </ul>
             <strong style="font-family:sans-serif;font-size:15px;">3D Tronics Digital Making National Infocomm Competition</strong>
 		<ul> 
@@ -133,7 +133,7 @@ Tay Kai Wen, Bryan (4D1), Lai Le Xin Grace (3I4), Ain Myeisha Arman (3I1), Chang
            <li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">1<sup style="font-family:sans-serif;">st</sup> &amp; 2<sup style="font-family:sans-serif;">nd</sup> Place (RoboCupJunior CoSpace Rescue – SuperTeam)</li>
 							<li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">3<sup style="font-family:sans-serif;">rd</sup> Place (RoboCupJunior CoSpace Grand Prix)</li>
                  <li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">1<sup style="font-family:sans-serif;">st</sup> &amp; 2<sup style="font-family:sans-serif;">nd</sup> Place (RoboCupJunior CoSpace Logistics)</li>                             
-              <li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">Best Achievement Award</li>
+              <li style="font-size:14.5px;margin-bottom:-5px;font-family:sans-serif;line-height:1.5;">Best Achievement Award</li>
 		</ul>
 <strong style="font-family:sans-serif;font-size:15px;">RoboCup 2017 (Nagoya, Japan)</strong>
 		<ul> 
