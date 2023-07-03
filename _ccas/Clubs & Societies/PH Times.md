@@ -63,11 +63,11 @@ third_nav_title: Clubs & Societies
 <ul> 
 <li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">Student Category Winner (Douglas Tham)</li>
 	<li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">Best of Show Student Category Winner (Douglas Tham)</li>
-	<li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;"> School's Challenge Winner</li>
+	<li style="font-size:14.5px;margin-bottom:-5px;font-family:sans-serif;line-height:1.5;"> School's Challenge Winner</li>
 </ul>
 	<strong style="font-family:sans-serif;font-size:15px;">Freshness of Life by School of Photography</strong>
 <ul> 
-<li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">1<sup style="font-family:sans-serif;">st</sup> Prize (Dion Lim)</li>
+<li style="font-size:14.5px;margin-bottom:-5px;font-family:sans-serif;line-height:1.5;">1<sup style="font-family:sans-serif;">st</sup> Prize (Dion Lim)</li>
 </ul>
 		<strong style="font-family:sans-serif;font-size:15px;">N3 Cluster International Friendship Day Photography Competition</strong>
 <ul> 
@@ -80,7 +80,7 @@ third_nav_title: Clubs & Societies
 <td><strong style="font-family:sans-serif;font-size:14.5px;">2009</strong></td>
 <td><strong style="font-family:sans-serif;font-size:15px;">Straits Times National Schools Newspaper Competition</strong>
 <ul>
-<li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">Consolation Prize</li>
+<li style="font-size:14.5px;margin-bottom:-5px;font-family:sans-serif;line-height:1.5;">Consolation Prize</li>
 	</ul>
 	<strong style="font-family:sans-serif;font-size:15px;">HDB Competition</strong>
 <ul>
@@ -93,7 +93,7 @@ third_nav_title: Clubs & Societies
 <td><strong style="font-family:sans-serif;font-size:14.5px;">2008</strong></td>
 <td><strong style="font-family:sans-serif;font-size:15px;">Straits Times National Schools Newspaper Competition</strong>
 <ul> 
-<li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;"></li><li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">Consolation Prize</li>
+<li style="font-size:14.5px;margin-bottom:-5px;font-family:sans-serif;line-height:1.5;">Consolation Prize</li>
 </ul>
 	<strong style="font-family:sans-serif;font-size:15px;">GMAC Competition</strong>
 <ul> 
