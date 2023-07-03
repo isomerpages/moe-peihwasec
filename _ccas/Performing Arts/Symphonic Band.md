@@ -25,56 +25,56 @@ third_nav_title: Performing Arts
 	
 <tbody>
 <tr>
-				<td><strong style="font-family:sans-serif;">2021</strong></td>
+				<td><strong style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">2021</strong></td>
 				<td style="margin-bottom:5px;">
-					<strong style="font-family:sans-serif;">SYF Arts Presentation for Bands (Flexible Band)</strong>
+					<strong style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">SYF Arts Presentation for Bands (Flexible Band)</strong>
 					<br>
-					<ul>
-						<li style="font-family:sans-serif;margin-bottom:5px;">Certificate of Accomplishment</li>
+					<ul style="margin-top:-5px">
+						<li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">Certificate of Accomplishment</li>
 					</ul>
 				</td>
 </tr>
 			
 <tr style="background-color: #f3f3f3;">
-				<td><strong style="font-family:sans-serif;">2019</strong></td>
+				<td><strong style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">2019</strong></td>
 				<td style="margin-bottom:5px;">
-					<strong style="font-family:sans-serif;">SYF Arts Presentation for Concert Band </strong>
+					<strong style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">SYF Arts Presentation for Concert Band </strong>
 					<br>
-					<ul>
-						<li style="margin-bottom:5px;font-family:sans-serif;">Certificate of Accomplishment</li>
+					<ul style="margin-top:-5px">
+						<li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">Certificate of Accomplishment</li>
 					</ul>
 				</td>
 </tr>
 			
 <tr>
-				<td><strong style="font-family:sans-serif;">2017</strong></td>
+				<td><strong style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">2017</strong></td>
 				<td style="margin-bottom:5px;">
-					<strong style="font-family:sans-serif;">	
+					<strong style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">
 SYF Arts Presentation for Concert Band </strong>
 					<br>
-					<ul>
-						<li style="margin-bottom:5px;font-family:sans-serif;">Certificate of Accomplishment</li>
+					<ul style="margin-top:-5px">
+						<li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">Certificate of Accomplishment</li>
 					</ul>
 				</td>
 </tr>
 <tr style="background-color: #f3f3f3;">
-				<td><strong style="font-family:sans-serif;">2015</strong></td>
+				<td><strong style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">2015</strong></td>
 				<td style="margin-bottom:5px;">
-					<strong style="font-family:sans-serif;">SYF Arts Presentation for Concert Band </strong>
+					<strong style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">SYF Arts Presentation for Concert Band </strong>
 					<br>
-					<ul>
-						<li style="font-family:sans-serif;margin-bottom:5px;">Certificate of Accomplishment</li>
+					<ul style="margin-top:-5px">
+						<li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">Certificate of Accomplishment</li>
 					</ul>
 				</td>
 </tr>
 <tr style="border-bottom: 2px solid #0C6523;">
-				<td><strong style="font-family:sans-serif;">2013</strong></td>
+				<td><strong style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">2013</strong></td>
 				<td style="margin-bottom:5px;">
-					<strong style="font-family:sans-serif;">	
+					<strong style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">	
 SYF Arts Presentation for Concert Band </strong>
 					<br>
-					<ul>
-						<li style="font-family:sans-serif;margin-bottom:5px;">Certificate of Distinction</li>
+					<ul style="margin-top:-5px">
+						<li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">Certificate of Distinction</li>
 					</ul>
 				</td>
 </tr>									
