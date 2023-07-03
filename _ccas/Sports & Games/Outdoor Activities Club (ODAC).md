@@ -14,25 +14,25 @@ third_nav_title: Sports & Games
 
 <h3 style="margin-top:10px;font-weight: bold;color:#000000;">Achievements</h3>
 
-<table style="border-collapse: collapse;margin: 25px 0;margin-top:5px;font-family: sans-serif;box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);" border="1">
+<table style="border-collapse: collapse;margin: 25px 0;margin-top:5px;font-family: sans-serif;box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);width:100%" border="1">
 	
 <thead style="background-color:#0C6523; font-weight: bold; font-size: 15.5px;">
 	<tr>
-			<td style="text-align:left;color:white;font-family:sans-serif;">Year of <br>Competition</td>
+			<td style="text-align:left;color:white;font-family:sans-serif;width:17%;">Year of <br>Competition</td>
 			<td style="text-align:left;color:white;font-family:sans-serif;">Attainment</td>
 		</tr>
 	</thead>
 	
 <tbody>
 
-<tr style="border-bottom: 1px solid #dddddd;">
-<td><strong style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">2023</strong></td>
-	<td style="font-size:14.5px;"><strong style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">PAssion Wave Orienteering Championship ‘B’ division </strong>
+<tr>
+<td><strong style="font-family:sans-serif;font-size:14.5px;">2023</strong></td>
+	<td style="font-size:14.5px;"><strong style="font-family:sans-serif;font-size:15px;">PAssion Wave Orienteering Championship ‘B’ division </strong>
 		<br>
-		<ul style="margin-top:-5px">
-			<li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">2<sup style="font-family:sans-serif;">nd</sup> Place</li>
+		<ul style="margin-top:-5px;">
+			<li style="font-size:14.5px;margin-bottom:-5px;font-family:sans-serif;line-height:1.5;">2<sup style="font-family:sans-serif;">nd</sup> Place</li>
 		</ul>
-		<strong style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">PAssion Wave Orienteering Championship ‘C’ division </strong>
+		<strong style="font-family:sans-serif;font-size:15px;">PAssion Wave Orienteering Championship ‘C’ division </strong>
 		<br>
 		<ul style="margin-top:-5px">
 			<li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">1<sup style="font-family:sans-serif;">st</sup> Place</li>
@@ -42,14 +42,14 @@ third_nav_title: Sports & Games
 	</td>
 </tr>
 															
-<tr style="background-color: #f3f3f3;border-bottom: 2px solid #0C6523;line-height:1.3;">
-<td style="font-size:14.5px;"><strong style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">2022</strong></td>
-	<td style="font-size:14.5px;"><strong style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">GARanG Race Mixed category </strong>
+<tr style="background-color: #f3f3f3;border-bottom: 2px solid #0C6523;">
+<td><strong style="font-family:sans-serif;font-size:14.5px;">2022</strong></td>
+	<td><strong style="font-family:sans-serif;font-size:15px;">GARanG Race Mixed category </strong>
 		<br>
 		<ul style="margin-top:-5px"> 
-			<li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;"> 4<sup style="font-family:sans-serif;">th</sup> Place</li>
+			<li style="font-size:14.5px;margin-bottom:-5px;font-family:sans-serif;line-height:1.5;"> 4<sup style="font-family:sans-serif;">th</sup> Place</li>
 		</ul>
-		<strong style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">National Orienteering Race ‘C’ division </strong>
+		<strong style="font-family:sans-serif;font-size:15px;">National Orienteering Race ‘C’ division </strong>
 		<ul style="margin-top:-5px;">
 			<li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;"> 3<sup style="font-family:sans-serif;">rd</sup> Place</li>
 		</ul>
