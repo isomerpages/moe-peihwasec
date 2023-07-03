@@ -27,7 +27,7 @@ third_nav_title: Sports & Games
 
 <tr>
 <td><strong style="font-family:sans-serif;font-size:14.5px;">2023</strong></td>
-	<td style="font-size:14.5px;"><strong style="font-family:sans-serif;font-size:15px;">PAssion Wave Orienteering Championship ‘B’ division </strong>
+	<td><strong style="font-family:sans-serif;font-size:15px;">PAssion Wave Orienteering Championship ‘B’ division </strong>
 		<br>
 		<ul style="margin-top:-5px;">
 			<li style="font-size:14.5px;margin-bottom:-5px;font-family:sans-serif;line-height:1.5;">2<sup style="font-family:sans-serif;">nd</sup> Place</li>
