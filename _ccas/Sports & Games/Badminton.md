@@ -27,26 +27,26 @@ third_nav_title: Sports & Games
 	
 <tbody>
 
-<tr style="border-bottom: 1px solid #dddddd;">
+<tr>
 <td style="font-size:14.5px;"><strong style="font-family:sans-serif;font-size:14.5px;">2023</strong></td>
-	<td style="font-size:14.5px;"><strong style="font-family:sans-serif;font-size:15px;">North Zone NSG (B Div Boys, B Div Girls, C Div Boys)</strong>
+	<td><strong style="font-family:sans-serif;font-size:15px;">North Zone NSG (B Div Boys, B Div Girls, C Div Boys)</strong>
 		<ul>
 			<li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">Quarter Finals</li>
 		</ul>
 	</td>
 </tr>
 															
-<tr style="background-color: #f3f3f3;line-height:1.3;">
-<td><strong style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">2022</strong></td>
-	<td style="font-size:14.5px;"><strong style="font-family:sans-serif;font-size:15px;">North Zone NSG</strong>
+<tr style="background-color: #f3f3f3;">
+<td style="font-size:14.5px;"><strong style="font-family:sans-serif;font-size:14.5px;">2022</strong></td>
+	<td><strong style="font-family:sans-serif;font-size:15px;">North Zone NSG</strong>
 		<ul> 
 			<li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">Participation</li>
 		</ul>
 	</td>
 </tr>
 		
-<tr style="font-size:15px;">
-<td><strong style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">2021</strong></td>
+<tr>
+<td style="font-size:14.5px;"><strong style="font-family:sans-serif;font-size:14.5px;">2021</strong></td>
 	<td><strong style="font-family:sans-serif;font-size:15px;">North Zone NSG (B Div Boys)</strong>
 		<ul>
 			<li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">Quarter Finals</li>
@@ -54,8 +54,8 @@ third_nav_title: Sports & Games
 	</td>
 </tr>
 	
-<tr style="background-color: #f3f3f3;border-bottom: 2px solid #0C6523;line-height:1.3;">
-<td style="font-size:14.5px;"><strong style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">2020</strong></td>
+<tr style="background-color: #f3f3f3;border-bottom: 2px solid #0C6523;">
+<td style="font-size:14.5px;"><strong style="font-family:sans-serif;font-size:14.5px;">2020</strong></td>
 	<td><strong style="font-family:sans-serif;font-size:15px;">North Zone NSG (B Div Boys) </strong>
 		<ul> 
 			<li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">Quarter Finals</li>
@@ -80,24 +80,33 @@ third_nav_title: Sports & Games
 <blockquote style="font-size: 15px;width:100%;margin:50px auto;margin-top:5px;font-family:serif;font-style:italic;color: #555555;padding:1.2em 25px 1.2em 25px;border-left:8px solid #0C6523;line-height:1.6;position: relative;background:#EDEDED;">
 <img align="left" src="https://raw.githubusercontent.com/isomerpages/moe-peihwasec/staging/images/CCA/badmintontestimonial01.png" style="width: 30%; border-radius: 7%;  margin-right:15px;">
 	"Being in the badminton CCA has taught me many things, one being that success doesn’t come overnight, and you must put in the hard work and effort to achieve your goals. It has also trained my mental strength, enabling me to handle stressful situations much better, especially during National School Games. Being able to be in this CCA is something I really appreciate a lot, because of how much it has helped me grow."
-  <span style="display:block; color:#333333; margin-top:1em;font-size:15px;font-family:sans-serif;"><em style="font-family:sans-serif;">Vice Captain, Jeriel Tan Teng Kang</em></span><br><br><br><br>
-	</blockquote> 
-
-<blockquote style="font-size: 15px;width:100%;margin:50px auto;margin-top:5px;font-family:serif;font-style:italic;color: #555555;padding:1.2em 25px 1.2em 25px;border-left:8px solid #0C6523;line-height:1.6;position: relative;background:#EDEDED;">
+  <span style="display:block; color:#333333; margin-top:1em;font-size:15px;font-family:sans-serif;"><em style="font-family:sans-serif;">Vice Captain, Jeriel Tan Teng Kang</em></span><br><br><br><br><blockquote style="font-size: 15px;width:100%;margin:50px auto;margin-top:5px;font-family:serif;font-style:italic;color: #555555;padding:1.2em 25px 1.2em 25px;border-left:8px solid #0C6523;line-height:1.6;position: relative;background:#EDEDED;">
 <img align="left" src="https://raw.githubusercontent.com/isomerpages/moe-peihwasec/staging/images/CCA/badmintontestimonial02.png" style="width: 30%; border-radius: 7%;  margin-right:15px;">
 	"I enjoy badminton CCA as it nurtures my interest and passion towards the sport and has allowed me to build strong bonds with my fellow CCA members. I am very thankful to the teachers in charge for providing me with the opportunity to lead the CCA, which has helped improve my character and allowed me to learn valuable skills such as sportsmanship and teamwork. Since the first day that I joined, the seniors have been very kind and supportive. Although the training sessions can be challenging at times, we always cheer each other on and work as a team. The CCA has played a significant role in my secondary school life, which allows me to gain more valuable experiences and become a better person."
   <span style="display:block; color:#333333; margin-top:1em;font-size:15px;font-family:sans-serif;"><em style="font-family:sans-serif;">Vice-Captain, Eleri Chua Wen Qi</em></span><br><br><br><br>
-	</blockquote> 
-	
-<blockquote style="font-size: 15px;width:100%;margin:50px auto;margin-top:5px;font-family:serif;font-style:italic;color: #555555;padding:1.2em 25px 1.2em 25px;border-left:8px solid #0C6523;line-height:1.6;position: relative;background:#EDEDED;">
+	</blockquote><blockquote style="font-size: 15px;width:100%;margin:50px auto;margin-top:5px;font-family:serif;font-style:italic;color: #555555;padding:1.2em 25px 1.2em 25px;border-left:8px solid #0C6523;line-height:1.6;position: relative;background:#EDEDED;">
 <img align="left" src="https://raw.githubusercontent.com/isomerpages/moe-peihwasec/staging/images/CCA/badmintontestimonial03.png" style="width: 30%; border-radius: 7%;  margin-right:15px;">
 	"Since the first CCA session, I have always felt a special bond with the CCA. I always look forward to each CCA session. The CCA also has helped me become a more disciplined, resilient, and confident person. This CCA has also taught me many values like teamwork, sportsmanship and resilience. I am also very grateful for the opportunities this CCA has provided me, allowing me to hone my skills and leadership potential. Moving forward, I aspire to contribute in any way possible for the betterment of the CCA. "
   <span style="display:block; color:#333333; margin-top:1em;font-size:15px;font-family:sans-serif;"><em style="font-family:sans-serif;">Captain, Yap Zhen Lei Isaac  </em></span><br><br><br><br>
-	</blockquote> 
+	</blockquote><h3 style="margin-top:10px;font-weight: bold;color:#000000">CCA Details</h3><table style="border-collapse: collapse;margin: 25px 0;margin-top:5px;font-family: sans-serif;box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);" border="1">
+	
+<thead style="background-color:#0C6523; font-weight: bold; font-size: 15.5px;">
+	<tr>
+			<td style="text-align:left;color:white;font-family:sans-serif;">Year of <br>Competition</td>
+			<td style="text-align:left;color:white;font-family:sans-serif;">Attainment</td>
+		</tr>
+	</thead>
+	
+<tbody>
+	 
 
-<h3 style="margin-top:10px;font-weight: bold;color:#000000">CCA Details</h3>
+ 
+	
+ 
 
-<table style="width:100%;margin-top:5px;border-collapse: collapse;border: none;">
+
+
+</tbody></table><table style="width:100%;margin-top:5px;border-collapse: collapse;border: none;">
 	<tbody style="border: none;">
 <tr>
 			<td style="font-weight: bold; font-size: 15px; border-bottom: 1px solid #dddddd;width:30%;font-family:sans-serif;letter-spacing:0.2px">Teachers-in-Charge</td>
@@ -117,4 +126,4 @@ Fridays 2.00pm - 6.00pm
 		</tr>
 		
 </tbody>
-</table>
+</table></blockquote>
