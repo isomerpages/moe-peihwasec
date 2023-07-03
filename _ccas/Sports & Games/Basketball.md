@@ -70,12 +70,14 @@ third_nav_title: Sports & Games
 <img align="left" src="https://raw.githubusercontent.com/isomerpages/moe-peihwasec/staging/images/CCA/basketballtestimonial02.png" style="width: 30%; border-radius: 7%;  margin-right:15px;">
 	"Joining this CCA has changed me, both on and off the court. The teachers and coach’s commitment to encouraging teamwork has given us a sense of unity through our experiences in practices and games. The memories, friendships, and lessons I have gained from my time in the CCA will stay with me for a long time to come. The CCA’s commitment to holistic development has allowed me to demonstrate discipline in my studies while leading in the CCA at the same time, instilling values in me such as leadership and determination. The CCA has not only made me a better basketball player but has also developed my passion for Basketball and given me the opportunity to thrive both in the game and in the real world through the values and lessons they have taught me."
   <span style="display:block; color:#333333; margin-top:1em;font-size:15px;font-family:sans-serif;"><em style="font-family:sans-serif;">B division Vice-Captain, Ritz Ng (Huang Zijun)</em></span>
+	<br><br><br>
 	</blockquote> 
 	
 <blockquote style="font-size: 15px;width:100%;margin:50px auto;margin-top:5px;font-family:serif;font-style:italic;color: #555555;padding:1.2em 25px 1.2em 25px;border-left:8px solid #0C6523;line-height:1.6;position: relative;background:#EDEDED;">
 <img align="left" src="https://raw.githubusercontent.com/isomerpages/moe-peihwasec/staging/images/CCA/basketballtestimonial03.png" style="width: 30%; border-radius: 7%;  margin-right:15px;">
 	"In my one and a half years of basketball CCA so far, my passion for basketball has been growing. Through my time in the basketball CCA, I have gotten to know many different types of people from all walks of life who share the same passion and love for the game of basketball. I enjoy almost every minute of basketball CCA, from the warmups, the drills and even the tactics my coach has set for the team to learn. I have made so many friends along the way as well. In addition, my CCA teachers in charge and coaches have really groomed me as a player and as a captain for the C Division basketball team as well, allowing me to take on a greater leadership role and nurturing my leadership capabilities. As a C Division captain, I feel that I play an important role in shaping my team and influencing them as well."
   <span style="display:block; color:#333333; margin-top:1em;font-size:15px;font-family:sans-serif;"><em style="font-family:sans-serif;">C division Captain, Muhammad Zaheer Bin Zahid </em></span>
+<br><br><br>
 	</blockquote> 
 	
 
