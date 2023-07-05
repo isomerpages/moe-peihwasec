@@ -119,7 +119,6 @@ third_nav_title: Uniformed Groups
 <img align="left" src="https://raw.githubusercontent.com/isomerpages/moe-peihwasec/staging/images/CCA/ncctestimonial03.png" style="width: 23%; border-radius: 7%;  margin-right:15px;">
 	"Even though CCA is only a small part of school life, NCC has had a significant impact on me. The time I have spent in NCC has helped me grow into a confident and resilient individual. I have developed various skills that have shaped me into the best version of myself. NCC has provided me with invaluable opportunities to enhance my leadership skills and foster a deep sense of community. Being part of a large platoon, I have had the chance to meet and interact with individuals of different personalities, as I will be spending the rest of my CCA years with them. NCC's unwavering support and encouragement have empowered me to reach new heights and embrace my full potential as both a person and a leader. I will forever cherish the moments I have shared with NCC. Thank you, NCC, for this remarkable journey!"
   <span style="display:block; color:#333333; margin-top:1em;font-size:15px;font-family:sans-serif;"><em style="font-family:sans-serif;">Asst Sergeant Major (Admin), Miza Ardini Binte Mohd Azwan (3I4) </em></span>
-<br><br>
 	</blockquote> 
 
 <h3 style="margin-top:10px;font-weight: bold;color:#000000">CCA Details</h3>
