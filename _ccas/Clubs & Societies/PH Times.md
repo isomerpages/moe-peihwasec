@@ -31,7 +31,7 @@ third_nav_title: Clubs & Societies
 <tr>
 <td><strong style="font-family:sans-serif;font-size:14.5px;">2016</strong></td>
 <td><strong style="font-family:sans-serif;font-size:15px;">Canon Photomarathon</strong>
-	<ul> 
+<ul style="margin-top:-5px">
 	<li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">2<sup style="font-family:sans-serif;">nd</sup> Runner-up (Carina Chew)</li>
 	
 </ul>
@@ -41,7 +41,7 @@ third_nav_title: Clubs & Societies
 <tr style="background-color: #f3f3f3;">
 <td><strong style="font-family:sans-serif;font-size:14.5px;">2013</strong></td>
 <td><strong style="font-family:sans-serif;font-size:15px;">Safety-starts-with-me Photo Competition</strong>
-<ul> 
+<ul style="margin-top:-5px">
 	<li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">Silver Award, $1000 Cash Prize (Aaron Lim Cheng Kiat)</li>
 </ul>
 	</td>
@@ -50,7 +50,7 @@ third_nav_title: Clubs & Societies
 <tr>
 <td><strong style="font-family:sans-serif;font-size:14.5px;">2012</strong></td>
 <td><strong style="font-family:sans-serif;font-size:15px;">National Photography Competition 'Climate Change'</strong>
-<ul>
+<ul style="margin-top:-5px">
 <li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">2<sup style="font-family:sans-serif;">nd</sup> Prize (Amanda Goh)</li>
 	<li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">Consolation (Aaron Lim)</li>
 	</ul>
@@ -60,17 +60,17 @@ third_nav_title: Clubs & Societies
 <tr style="background-color: #f3f3f3;">
 <td><strong style="font-family:sans-serif;font-size:14.5px;">2011</strong></td>
 <td><strong style="font-family:sans-serif;font-size:15px;">Canon Photomarathon</strong>
-<ul> 
+<ul style="margin-top:-5px">
 <li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">Student Category Winner (Douglas Tham)</li>
 	<li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">Best of Show Student Category Winner (Douglas Tham)</li>
 	<li style="font-size:14.5px;margin-bottom:-5px;font-family:sans-serif;line-height:1.5;"> School's Challenge Winner</li>
 </ul>
 	<strong style="font-family:sans-serif;font-size:15px;">Freshness of Life by School of Photography</strong>
-<ul> 
+<ul style="margin-top:-5px">
 <li style="font-size:14.5px;margin-bottom:-5px;font-family:sans-serif;line-height:1.5;">1<sup style="font-family:sans-serif;">st</sup> Prize (Dion Lim)</li>
 </ul>
 		<strong style="font-family:sans-serif;font-size:15px;">N3 Cluster International Friendship Day Photography Competition</strong>
-<ul> 
+<ul style="margin-top:-5px">
 <li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">1<sup style="font-family:sans-serif;">st</sup> Prize</li>
 </ul>
 	</td>
@@ -79,11 +79,11 @@ third_nav_title: Clubs & Societies
 <tr>
 <td><strong style="font-family:sans-serif;font-size:14.5px;">2009</strong></td>
 <td><strong style="font-family:sans-serif;font-size:15px;">Straits Times National Schools Newspaper Competition</strong>
-<ul>
+<ul style="margin-top:-5px">
 <li style="font-size:14.5px;margin-bottom:-5px;font-family:sans-serif;line-height:1.5;">Consolation Prize</li>
 	</ul>
 	<strong style="font-family:sans-serif;font-size:15px;">HDB Competition</strong>
-<ul>
+<ul style="margin-top:-5px">
 <li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">Consolation Prize</li>
 	</ul>
 </td>
@@ -92,11 +92,11 @@ third_nav_title: Clubs & Societies
 <tr style="border-bottom: 2px solid #0C6523;background-color: #f3f3f3;">
 <td><strong style="font-family:sans-serif;font-size:14.5px;">2008</strong></td>
 <td><strong style="font-family:sans-serif;font-size:15px;">Straits Times National Schools Newspaper Competition</strong>
-<ul> 
+<ul style="margin-top:-5px"> 
 <li style="font-size:14.5px;margin-bottom:-5px;font-family:sans-serif;line-height:1.5;">Consolation Prize</li>
 </ul>
 	<strong style="font-family:sans-serif;font-size:15px;">GMAC Competition</strong>
-<ul> 
+<ul style="margin-top:-5px"> 
 <li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">	3<sup style="font-family:sans-serif;">rd</sup> Place (Lim Ying Yun, Martin Goh, Charmaine Toh, Saw Jia Hui)</li>
 </ul>
 	</td>
