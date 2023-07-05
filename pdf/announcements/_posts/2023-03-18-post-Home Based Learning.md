@@ -1,6 +1,6 @@
 ---
 title: Home Based Learning
-permalink: /pdf/announcements/permalink/
+permalink: /lp-announcement/home-based-learning/
 date: 2023-03-18
 layout: post
 description: ""
