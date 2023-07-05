@@ -30,7 +30,7 @@ third_nav_title: Sports & Games
 <tr>
 <td><strong style="font-family:sans-serif;font-size:14.5px;">2023</strong></td>
 	<td><strong style="font-family:sans-serif;font-size:15px;">North Zone NSG (B Div Boys, B Div Girls, C Div Boys)</strong>
-		<ul>
+		<ul style="margin-top:-5px;">
 			<li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">Quarter Finals</li>
 		</ul>
 	</td>
@@ -39,7 +39,7 @@ third_nav_title: Sports & Games
 <tr style="background-color: #f3f3f3;">
 <td><strong style="font-family:sans-serif;font-size:14.5px;">2022</strong></td>
 	<td><strong style="font-family:sans-serif;font-size:15px;">North Zone NSG</strong>
-		<ul> 
+		<ul style="margin-top:-5px;"> 
 			<li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">Participation</li>
 		</ul>
 	</td>
@@ -48,7 +48,7 @@ third_nav_title: Sports & Games
 <tr>
 <td><strong style="font-family:sans-serif;font-size:14.5px;">2021</strong></td>
 	<td><strong style="font-family:sans-serif;font-size:15px;">North Zone NSG (B Div Boys)</strong>
-		<ul>
+		<ul style="margin-top:-5px;">
 			<li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">Quarter Finals</li>
 		</ul>
 	</td>
@@ -57,7 +57,7 @@ third_nav_title: Sports & Games
 <tr style="background-color: #f3f3f3;border-bottom: 2px solid #0C6523;">
 <td><strong style="font-family:sans-serif;font-size:14.5px;">2020</strong></td>
 	<td><strong style="font-family:sans-serif;font-size:15px;">North Zone NSG (B Div Boys) </strong>
-		<ul> 
+		<ul style="margin-top:-5px;"> 
 			<li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">Quarter Finals</li>
 		</ul>
 	</td>

@@ -39,8 +39,7 @@ third_nav_title: Clubs & Societies
 <tr style="background-color: #f3f3f3;">
 <td><strong style="font-family:sans-serif;font-size:14.5px;">2021</strong></td>
 <td><strong style="font-family:sans-serif;font-size:15px;">NKF Schools Postcard Design Contest</strong>
-<br>
-<ul> 
+<ul style="margin-top:-5px;">
 	<li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">Feed My Trashemon’ – 8<sup style="font-family:sans-serif;">th</sup> Place in the Top 10 designs</li>
 	<li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">Draw My Stamp Story’ Art Competition – Bronze</li>
 </ul>
@@ -50,8 +49,7 @@ third_nav_title: Clubs & Societies
 <tr>
 <td><strong style="font-family:sans-serif;font-size:14.5px;">2020</strong></td>
 <td><strong style="font-family:sans-serif;font-size:15px;">Live On Design Competition ‘From Fears to Dreams’ &amp; ‘A New Beginning’</strong>
-<br>
-<ul>
+<ul style="margin-top:-5px;">
 <li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">Awarded Special Mention, Schools Category</li>
 	</ul>
 </td>
@@ -60,8 +58,7 @@ third_nav_title: Clubs & Societies
 <tr style="border-bottom: 2px solid #0C6523;background-color: #f3f3f3;">
 <td><strong style="font-family:sans-serif;font-size:14.5px;">2018</strong></td>
 <td><strong style="font-family:sans-serif;font-size:15px;">NKF Schools Postcard Design Contest</strong>
-<br>
-<ul> 
+<ul style="margin-top:-5px;">
 <li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;"> 1<sup style="font-family:sans-serif;">st</sup> Prize</li>
 </ul>
 	</td>

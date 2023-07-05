@@ -100,6 +100,27 @@ third_nav_title: Uniformed Groups
 <li style="font-size:14.5px; line-height:1.5 ;margin-top:5px; font-family:sans-serif;"> Precision Drill</li>
 	</ul>
 
+<h3 style="margin-top:10px;font-weight: bold;color:#000000">Student Testament</h3>
+
+<blockquote style="font-size: 15px;width:100%;margin:50px auto;margin-top:5px;font-family:serif;font-style:italic;color: #555555;padding:1.2em 25px 1.2em 25px;border-left:8px solid #0C6523;line-height:1.6;position: relative;background:#EDEDED;">
+<img align="left" src="https://raw.githubusercontent.com/isomerpages/moe-peihwasec/staging/images/CCA/ncctestimonial01.png" style="width: 23%; border-radius: 7%;  margin-right:15px;">
+	"Many say that CCA (Co-Curricular Activity) is one of the most enjoyable and memorable activities in school, and I agree. Throughout my three years in NCC (National Cadet Corps), I have learned many new skills and have also made countless friends. Through the tough training sessions, I have learned the importance of discipline and respect, and I have also been given the chance to develop my leadership skills. In NCC, there is no "one-man team"; it's all for one and one for all. The camaraderie formed from persevering through numerous challenges with my fellow platoon mates is second to none. I truly cherish my time in NCC, with every training session giving me an opportunity to test my limits and hone my skills. I am proud to be a part of NCC!"
+  <span style="display:block; color:#333333; margin-top:1em;font-size:15px;font-family:sans-serif;"><em style="font-family:sans-serif;">Unit Sergeant Major, Lee Chang Jer (3I8)</em></span>
+	</blockquote> 
+
+<blockquote style="font-size: 15px;width:100%;margin:50px auto;margin-top:5px;font-family:serif;font-style:italic;color: #555555;padding:1.2em 25px 1.2em 25px;border-left:8px solid #0C6523;line-height:1.6;position: relative;background:#EDEDED;">
+<img align="left" src="https://raw.githubusercontent.com/isomerpages/moe-peihwasec/staging/images/CCA/ncctestimonial02.png" style="width: 23%; border-radius: 7%;  margin-right:15px;">
+	"Being in NCC for the past few years has helped me develop into a better person. In NCC, teamwork and communication are crucial, which pushed me to step out of my comfort zone and learn how to socialize better with others. I have become more responsible in terms of owning up to my mistakes and accepting the punishments and consequences. Not only that, but an adventurous spirit has also been fostered within me as a result of the rare and exciting activities I have been able to take part in. Looking back, I have had fulfilling days and truly enjoyed myself during NCC days and events."
+  <span style="display:block; color:#333333; margin-top:1em;font-size:15px;font-family:sans-serif;"><em style="font-family:sans-serif;">Asst Sergeant Major (Regimentation), Elicia Wong (3I4)</em></span>
+	<br><br>
+	</blockquote> 
+	
+<blockquote style="font-size: 15px;width:100%;margin:50px auto;margin-top:5px;font-family:serif;font-style:italic;color: #555555;padding:1.2em 25px 1.2em 25px;border-left:8px solid #0C6523;line-height:1.6;position: relative;background:#EDEDED;">
+<img align="left" src="https://raw.githubusercontent.com/isomerpages/moe-peihwasec/staging/images/CCA/ncctestimonial03.png" style="width: 23%; border-radius: 7%;  margin-right:15px;">
+	"Even though CCA is only a small part of school life, NCC has had a significant impact on me. The time I have spent in NCC has helped me grow into a confident and resilient individual. I have developed various skills that have shaped me into the best version of myself. NCC has provided me with invaluable opportunities to enhance my leadership skills and foster a deep sense of community. Being part of a large platoon, I have had the chance to meet and interact with individuals of different personalities, as I will be spending the rest of my CCA years with them. NCC's unwavering support and encouragement have empowered me to reach new heights and embrace my full potential as both a person and a leader. I will forever cherish the moments I have shared with NCC. Thank you, NCC, for this remarkable journey!"
+  <span style="display:block; color:#333333; margin-top:1em;font-size:15px;font-family:sans-serif;"><em style="font-family:sans-serif;">Asst Sergeant Major (Admin), Miza Ardini Binte Mohd Azwan (3I4) </em></span>
+	</blockquote> 
+
 <h3 style="margin-top:10px;font-weight: bold;color:#000000">CCA Details</h3>
 
 <table style="width:100%;border-collapse: collapse;border: none;">

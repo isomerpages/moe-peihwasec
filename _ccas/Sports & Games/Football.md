@@ -52,7 +52,7 @@ third_nav_title: Sports & Games
 <tr>
 <td><strong style="font-family:sans-serif;font-size:14.5px;">2018</strong></td>
 	<td><strong style="font-family:sans-serif;font-size:15px;">YJC Celebrating Values Day (7-a-side)</strong>
-		<ul> 
+		<ul style="margin-top:-5px;"> 
 	<li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">1<sup style="font-family:sans-serif;">st</sup> Position</li>
 </ul>
 	</td>
@@ -61,7 +61,7 @@ third_nav_title: Sports & Games
 <tr style="background-color: #f3f3f3;border-bottom: 2px solid #0C6523;">
 <td><strong style="font-family:sans-serif;font-size:14.5px;">2016</strong></td>
 	<td><strong style="font-family:sans-serif;font-size:15px;">YJC Celebrating Values Day (7-a-side)</strong>
-			<ul> 
+			<ul style="margin-top:-5px;"> 
 	<li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">1<sup style="font-family:sans-serif;">st</sup> Position</li>
 </ul>
 	</td>
