@@ -1,6 +1,6 @@
 ---
 title: 2023 N & O Level Preliminary Examination Timetable
-permalink: /pdf/announcements/permalink/
+permalink: /lp-announcement/n-o-level-timetable/
 date: 2023-06-28
 layout: post
 description: ""
