@@ -3,24 +3,57 @@ title: Links for Students
 permalink: /links/links-for-students/
 description: ""
 ---
-<h4 style="color:#635f1a;font-weight:bold;font-family:sans-serif;">Personalised Digital Learning Programme (PDLP) Resources</h4>
+<div style="padding:70px;margin-top:-100px;max-width:100%">
+<h5 style="font-weight: bold;margin: 0;color:#6d6b47;font-size:18px;margin-top:15px;text-align:center;" class="header">Students</h5>
 
-<ol>
-<li style="font-size:14.5px; line-height:2;font-family:sans-serif;"><a href="https://drive.google.com/file/d/1syOWC8QCb5hkVGMpio3DWD6cAsttGfYq/view?usp=sharing" target="_blank" rel="noopener noreferrer" style="font-family:sans-serif;">Cyberwellness and Learning with a Personal Learning Device (PLD)</a></li>
-</ol>
+<div style="display:flex;flex-wrap: wrap; justify-content: space-between;">
+	
+<div style="flex: 1;border: 1px solid #ccc; padding: 0px; display: flex; flex-direction: column;width:100%;gap: 10px;margin: 10px; background-color:white;background-color: #0B6623;flex: 0 0 calc(33.33% - 20px);" class="box"> 
+	<img style="max-width: 100%;" class="image" alt="Image" src="https://www.allkpop.com/upload/2022/09/content/080142/web_data/allkpop_1662615842_20220908-highlight.jpg"> 
+	<div style="flex: 1;" class="content"> 
+		<h5 style="text-align:center;"><a href="https://vle.learning.moe.edu.sg/login" style="color:#FDBC58;font-family:sans-serif;font-weight:bold;font-size:18px;text-decoration: none;">Student Learning Space</a></h5> 
+	</div> 
+</div>
 
-<h4 style="color:#635f1a;font-weight:bold;font-family:sans-serif;">Useful links</h4>
+<div style="flex: 1;border: 1px solid #ccc; padding: 0px; display: flex; flex-direction: column;width:100%;gap: 10px;margin: 10px; background-color:white;background-color: #0B6623;flex: 0 0 calc(33.33% - 20px);" class="box"> 
+	<img style="max-width: 100%;" class="image" alt="Image" src="https://www.allkpop.com/upload/2022/09/content/080142/web_data/allkpop_1662615842_20220908-highlight.jpg"> 
+	<div style="flex: 1;" class="content"> 
+		<h5 style="text-align:center;"><a href="https://workspace.google.com/dashboard" style="color:#FDBC58;font-family:sans-serif;font-weight:bold;font-size:18px;text-decoration: none;">ACE Learning</a></h5>  
+	</div> 
+</div>
 
-<ol>
-<li style="font-size:14.5px; line-height:2;font-family:sans-serif;"><a href="http://ace-learning.com/" target="_blank" rel="noopener noreferrer" style="font-family:sans-serif;">ACE-Learning (Maths)</a></li>
-<li style="font-size:14.5px; line-height:2;font-family:sans-serif;"><a href="http://www.hpb.gov.sg/" target="_blank" rel="noopener noreferrer" style="font-family:sans-serif;">Health Promotion Board</a></li>
-<li style="font-size:14.5px; line-height:2;font-family:sans-serif;"><a href="http://www.myskillsfuture.sg/secondary" target="_blank" rel="noopener noreferrer" style="font-family:sans-serif;">MySkillsFuture Student Portal</a></li>
-<li style="font-size:14.5px; line-height:2;font-family:sans-serif;"><a href="https://schoolibrary.moe.edu.sg/peihwasec" target="_blank" rel="noopener noreferrer" style="font-family:sans-serif;">Online Library Catalogue</a></li>
-<li style="font-size:14.5px; line-height:2;font-family:sans-serif;"><a href="http://schoolbag.sg/story/play-safe-avoid-online-gaming-addiction" target="_blank" rel="noopener noreferrer" style="font-family:sans-serif;">Play safe – Avoid online gaming addiction</a></li>
-<li style="font-size:14.5px; line-height:2;font-family:sans-serif;"><a href="http://phss.qoqolo.com/" target="_blank" rel="noopener noreferrer" style="font-family:sans-serif;">Student Development Portal</a></li>
-<li style="font-size:14.5px; line-height:2;font-family:sans-serif;"><a href="http://workspace.google.com/dashboard" target="_blank" rel="noopener noreferrer" style="font-family:sans-serif;">Student iCON</a>&nbsp;(students.edu.sg email)</li>
-<li style="font-size:14.5px; line-height:2;font-family:sans-serif;"><a href="https://learning.moe.edu.sg/" target="_blank" rel="noopener noreferrer" style="font-family:sans-serif;">Student Learning Space (SLS)</a></li>
-<li style="font-size:14.5px; line-height:2;font-family:sans-serif;"><a href="https://docs.google.com/forms/d/e/1FAIpQLSfwEIclp4Yx6VdTsWr8ueebfGiNjghD8Q85SgzBzeCRVXg-XQ/viewform" target="_blank" rel="noopener noreferrer" style="font-family:sans-serif;">Student Suggestion Scheme</a></li>
-<li style="font-size:14.5px; line-height:2;font-family:sans-serif;"><a href="https://go.gov.sg/apptecgc" style="font-family:sans-serif;">ECG Counselling Appointments</a>&nbsp;(For booking of ECG Counselling Appointments with ECG Counsellor)</li>
-<li style="font-size:14.5px; line-height:2;font-family:sans-serif;"><a href="https://go.gov.sg/discoverphss" style="font-family:sans-serif;">Discover@Pei Hwa</a></li>
-</ol>
+	
+<div style="flex: 1;border: 1px solid #ccc; padding: 0px; display: flex; flex-direction: column;width:100%;gap: 10px;margin: 10px; background-color:white;background-color: #0B6623;flex: 0 0 calc(33.33% - 20px);" class="box"> 
+	<img style="max-width: 100%;" class="image" alt="Image" src="https://www.allkpop.com/upload/2022/09/content/080142/web_data/allkpop_1662615842_20220908-highlight.jpg"> 
+	<div style="flex: 1;" class="content"> 
+		<h5 style="text-align:center;"><a href="https://www.ace-learning.com" style="color:#FDBC58;font-family:sans-serif;font-weight:bold;font-size:18px;text-decoration: none;">Student iCON</a></h5>  
+	</div> 
+</div>
+
+<div style="flex: 1;border: 1px solid #ccc; padding: 0px; display: flex; flex-direction: column;width:100%;gap: 10px;margin: 10px; background-color:white;background-color: #0B6623;flex: 0 0 calc(33.33% - 20px);" class="box"> 
+	<img style="max-width: 100%;" class="image" alt="Image" src="https://www.allkpop.com/upload/2022/09/content/080142/web_data/allkpop_1662615842_20220908-highlight.jpg"> 
+	<div style="flex: 1;" class="content"> 
+		<h5 style="text-align:center;"><a href="https://go.gov.sg/apptecgc" style="color:#FDBC58;font-family:sans-serif;font-weight:bold;font-size:18px;text-decoration: none;">ECG appointments</a>  
+	</h5></div> 
+</div>
+	
+<div style="flex: 1;border: 1px solid #ccc; padding: 0px; display: flex; flex-direction: column;width:100%;gap: 10px;margin: 10px; background-color:white;background-color: #0B6623;flex: 0 0 calc(33.33% - 20px);" class="box"> 
+	<img style="max-width: 100%;" class="image" alt="Image" src="https://www.allkpop.com/upload/2022/09/content/080142/web_data/allkpop_1662615842_20220908-highlight.jpg"> 
+	<div style="flex: 1;" class="content"> 
+		<h5 style="text-align:center;"><a href="https://docs.google.com/forms/d/e/1FAIpQLSfwEIclp4Yx6VdTsWr8ueebfGiNjghD8Q85SgzBzeCRVXg-XQ/viewform" style="color:#FDBC58;font-family:sans-serif;font-weight:bold;font-size:18px;text-decoration: none;">PHSS Student Suggestion Scheme</a>
+		</h5>  
+	</div> 
+</div>
+	
+<div style="flex: 1;border: 1px solid #ccc; padding: 0px; display: flex; flex-direction: column;width:100%;gap: 10px;margin: 10px; background-color:white;background-color: #0B6623;flex: 0 0 calc(33.33% - 20px);" class="box"> 
+	<img style="max-width: 100%;" class="image" alt="Image" src="https://www.allkpop.com/upload/2022/09/content/080142/web_data/allkpop_1662615842_20220908-highlight.jpg"> 
+	<div style="flex: 1;" class="content"> 
+		<h5 style="text-align:center;"><a href="https://go.gov.sg/discoverphss" style="color:#FDBC58;font-family:sans-serif;font-weight:bold;font-size:18px;text-decoration: none;">Discover @ Pei Hwa</a>
+		</h5>  
+	</div> 
+</div>
+
+</div>
+</div>
+
+
