@@ -157,11 +157,11 @@ Tay Kai Wen, Bryan (4D1), Lai Le Xin Grace (3I4), Ain Myeisha Arman (3I1), Chang
 <div style="display: flex; flex-wrap: wrap; justify-content: space-between; max-width: 800px; margin: 0 auto;" class="image-container">
 	<div style="width: 45%; margin-bottom: 20px; box-sizing: border-box; text-align: center;" class="image-box">
     <img style="width: 100%; margin-bottom: 10px;" alt="Image 1" src="https://raw.githubusercontent.com/isomerpages/moe-peihwasec/staging/images/CCA/robotics01.png">
-    <p style="text-align: center; font-size:10px;margin-top:-5px;font-family:sans-serif;line-height:1.5;">CoSpace OnStage Robots</p>
+    <p style="text-align: center; font-size:10px;margin-top:-5px;font-family:sans-serif;line-height:1.5;">CoSpace OnStage students with their Robot that incorporates the use of Huskylens and Arduino programming </p>
   </div>
 	<div style="width: 45%; margin-bottom: 20px; box-sizing: border-box; text-align: center;" class="image-box">
     <img style="width: 100%; margin-bottom: 10px;" alt="Image 1" src="https://raw.githubusercontent.com/isomerpages/moe-peihwasec/staging/images/CCA/robotics02.png">
-    <p style="text-align: center; font-size:10px;margin-top:-5px;font-family:sans-serif;line-height:1.5;">CoSpace OnStage Robots</p>
+    <p style="text-align: center; font-size:10px;margin-top:-5px;font-family:sans-serif;line-height:1.5;">CoSpace OnStage students debugging the wiring of their Arduino coded robot</p>
   </div>
 </div>
 	
