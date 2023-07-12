@@ -9,14 +9,14 @@ description: ""
 <div style="display:flex;flex-wrap: wrap; justify-content: space-between;">
 	
 <div style="flex: 1;border: 1px solid #ccc; padding: 0px; display: flex; flex-direction: column;width:100%;gap: 10px;margin: 10px; background-color:white;background-color: #0B6623;flex: 0 0 calc(33.33% - 20px);" class="box"> 
-	<img style="max-width: 100%;" class="image" alt="Image" src="https://www.allkpop.com/upload/2022/09/content/080142/web_data/allkpop_1662615842_20220908-highlight.jpg"> 
+	<img style="max-width: 100%;" class="image" alt="Image" src="https://raw.githubusercontent.com/isomerpages/moe-peihwasec/staging/images/CCA/badmintonbanner.png"> 
 	<div style="flex: 1;" class="content"> 
 		<h5 style="text-align:center;"><a href="https://vle.learning.moe.edu.sg/login" style="color:#FDBC58;font-family:sans-serif;font-weight:bold;font-size:18px;text-decoration: none;">Student Learning Space</a></h5> 
 	</div> 
 </div>
 
 <div style="flex: 1;border: 1px solid #ccc; padding: 0px; display: flex; flex-direction: column;width:100%;gap: 10px;margin: 10px; background-color:white;background-color: #0B6623;flex: 0 0 calc(33.33% - 20px);" class="box"> 
-	<img style="max-width: 100%;" class="image" alt="Image" src="https://www.allkpop.com/upload/2022/09/content/080142/web_data/allkpop_1662615842_20220908-highlight.jpg"> 
+	<img style="max-width: 100%;" class="image" alt="Image" src="https://raw.githubusercontent.com/isomerpages/moe-peihwasec/staging/images/CCA/badmintonbanner.png"> 
 	<div style="flex: 1;" class="content"> 
 		<h5 style="text-align:center;"><a href="https://workspace.google.com/dashboard" style="color:#FDBC58;font-family:sans-serif;font-weight:bold;font-size:18px;text-decoration: none;">ACE Learning</a></h5>  
 	</div> 
@@ -24,21 +24,21 @@ description: ""
 
 	
 <div style="flex: 1;border: 1px solid #ccc; padding: 0px; display: flex; flex-direction: column;width:100%;gap: 10px;margin: 10px; background-color:white;background-color: #0B6623;flex: 0 0 calc(33.33% - 20px);" class="box"> 
-	<img style="max-width: 100%;" class="image" alt="Image" src="https://www.allkpop.com/upload/2022/09/content/080142/web_data/allkpop_1662615842_20220908-highlight.jpg"> 
+	<img style="max-width: 100%;" class="image" alt="Image" src="https://raw.githubusercontent.com/isomerpages/moe-peihwasec/staging/images/CCA/badmintonbanner.png"> 
 	<div style="flex: 1;" class="content"> 
 		<h5 style="text-align:center;"><a href="https://www.ace-learning.com" style="color:#FDBC58;font-family:sans-serif;font-weight:bold;font-size:18px;text-decoration: none;">Student iCON</a></h5>  
 	</div> 
 </div>
 
 <div style="flex: 1;border: 1px solid #ccc; padding: 0px; display: flex; flex-direction: column;width:100%;gap: 10px;margin: 10px; background-color:white;background-color: #0B6623;flex: 0 0 calc(33.33% - 20px);" class="box"> 
-	<img style="max-width: 100%;" class="image" alt="Image" src="https://www.allkpop.com/upload/2022/09/content/080142/web_data/allkpop_1662615842_20220908-highlight.jpg"> 
+	<img style="max-width: 100%;" class="image" alt="Image" src="https://raw.githubusercontent.com/isomerpages/moe-peihwasec/staging/images/CCA/badmintonbanner.png"> 
 	<div style="flex: 1;" class="content"> 
 		<h5 style="text-align:center;"><a href="https://go.gov.sg/apptecgc" style="color:#FDBC58;font-family:sans-serif;font-weight:bold;font-size:18px;text-decoration: none;">ECG appointments</a>  
 	</h5></div> 
 </div>
 	
 <div style="flex: 1;border: 1px solid #ccc; padding: 0px; display: flex; flex-direction: column;width:100%;gap: 10px;margin: 10px; background-color:white;background-color: #0B6623;flex: 0 0 calc(33.33% - 20px);" class="box"> 
-	<img style="max-width: 100%;" class="image" alt="Image" src="https://www.allkpop.com/upload/2022/09/content/080142/web_data/allkpop_1662615842_20220908-highlight.jpg"> 
+	<img style="max-width: 100%;" class="image" alt="Image" src="https://raw.githubusercontent.com/isomerpages/moe-peihwasec/staging/images/CCA/badmintonbanner.png"> 
 	<div style="flex: 1;" class="content"> 
 		<h5 style="text-align:center;"><a href="https://docs.google.com/forms/d/e/1FAIpQLSfwEIclp4Yx6VdTsWr8ueebfGiNjghD8Q85SgzBzeCRVXg-XQ/viewform" style="color:#FDBC58;font-family:sans-serif;font-weight:bold;font-size:18px;text-decoration: none;">PHSS Student Suggestion Scheme</a>
 		</h5>  
@@ -46,7 +46,7 @@ description: ""
 </div>
 	
 <div style="flex: 1;border: 1px solid #ccc; padding: 0px; display: flex; flex-direction: column;width:100%;gap: 10px;margin: 10px; background-color:white;background-color: #0B6623;flex: 0 0 calc(33.33% - 20px);" class="box"> 
-	<img style="max-width: 100%;" class="image" alt="Image" src="https://www.allkpop.com/upload/2022/09/content/080142/web_data/allkpop_1662615842_20220908-highlight.jpg"> 
+	<img style="max-width: 100%;" class="image" alt="Image" src="https://raw.githubusercontent.com/isomerpages/moe-peihwasec/staging/images/CCA/badmintonbanner.png"> 
 	<div style="flex: 1;" class="content"> 
 		<h5 style="text-align:center;"><a href="https://go.gov.sg/discoverphss" style="color:#FDBC58;font-family:sans-serif;font-weight:bold;font-size:18px;text-decoration: none;">Discover @ Pei Hwa</a>
 		</h5>  
@@ -55,5 +55,3 @@ description: ""
 
 </div>
 </div>
-
-
