@@ -61,7 +61,7 @@ description: ""
 	</div> 
 </div>
 	
-<div style="flex: 1;border: 1px solid #ccc; padding: 0px; display: flex; flex-direction: column;width:100%;gap: 10px;margin: 10px; background-color:white;background-color: white; flex: 0 0 calc(33.33% - 20px);" class="box"> 
+<div style="flex: 1;border: 1px solid #ccc; padding: 0px; display: flex; flex-direction: column;width:100%;gap: 10px;margin: 10px; background-color:white;background-color: white; border:white; flex: 0 0 calc(33.33% - 20px);" class="box"> 
 	<div style="flex: 1;" class="content"> 
 	</div> 
 </div>
