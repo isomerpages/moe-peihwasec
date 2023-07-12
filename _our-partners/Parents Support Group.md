@@ -3,89 +3,27 @@ title: Parents Support Group
 permalink: /our-partners/parents-support-group/
 description: ""
 ---
-<h4 style="color:#635f1a;font-weight:bold;font-family:sans-serif;">Our Vision</h4>
-<p style="font-size:14.5px; line-height:2;margin-top:15px; font-family:sans-serif">A Vibrant Partner of Pei Hwa</p>
+<h5 style="margin-top:15px;color:#0B6623;">Who Are We</h5>&nbsp;
+<p style="margin: -15px 0;font-size:14.5px; line-height:1.5;font-family:sans-serif;color:black;">Parents of current and ex-students who strongly believe that parents are valued partners in their children’s education, and the collaboration between school and family is a key platform in developing positive children-centric relationships.</p>
 
-<h4 style="color:#635f1a;font-weight:bold;font-family:sans-serif;">Our Mission</h4>
-<p style="font-size:14.5px; line-height:2;margin-top:15px; font-family:sans-serif">To keep pace with changes in the educational landscape and support the school in implementing its curriculum towards the holistic development of the students.</p>
+<div style="margin-top:30px;padding:40px;display: flex; flex: 1; gap: 50px;background-color:#0B6623;" class="container"> 
+	<div style="flex: 1;" class="column"> 
+		<h6 style="font-weight: bold;margin: 0;color:#F8BF58;">Our Vision</h6> 
+		<p style="font-size:14.5px; line-height:2.5 ;margin-top:5px; font-family:sans-serif;font-style: italic;font-weight: bold;color:white;">A VIBRANT AND SUPPORTIVE PARTNER OF PEI HWA SECONDARY SCHOOL</p> 
+	</div>
+		<div style="flex: 1;" class="column"> 
+		<h6 style="margin: 0;color:#F8BF58;">Our Mission</h6> 
+		<p style="font-size:14.5px; line-height:1.5 ;margin-top:5px; font-family:sans-serif;font-style: italic;font-weight: bold;color: white;">To partner the school towards developing and strengthening mutual understanding, respect and trust for the benefit of our children.</p> 
+	</div> 
+</div>
 
-<p style="margin-top:15px;font-size:14.5px; line-height:2;font-family:sans-serif;">The Parent Support Group (PSG) of Pei Hwa Secondary School was formed in early March 2005 with the intent of strengthening school-home collaboration in the development of our students. Since its inception with 21 parents, the PSG has since grown with the increasing enrolment of the school. It plays a key role in bringing about quality education for our students with our dedicated parents working closely with the school and jointly investing our love and care for them.</p>
-
-<h4 style="color:#635f1a;font-weight:bold;font-family:sans-serif;">Our Programmes and Sign-Up Link</h4>
-<p style="font-size:14.5px; line-height:2;margin-top:15px; font-family:sans-serif">Monthly meetings are held to discuss ways to improve school processes and facilities and address parents’ concerns and issues. These meetings also serve as an important two-way communication channel between the school and parents, allowing parents to understand the school’s plans and activities, provide feedback and keep up-to-date with the latest changes to the curriculum, and enable parents to meet and get to know the teachers better. Parents are able to network with other parents, share ideas and monitor their children.</p>
-
-<p style="margin-top:15px;font-size:14.5px; line-height:2;font-family:sans-serif;">In addition, parents have been actively involved in the following school activities – accompanying students on field trips, fund-raising during Community Day, participating at school events such as Sports Day, National Day, Racial Harmony Day, Food Collection Drive, performing on Teachers’ Day, assisting teachers in lessons and co-curricular activities, and attending parenting workshops.</p>
-
-<h4 style="color:#635f1a;font-weight:bold;font-family:sans-serif;">Involvement in Sec 1 Orientation Camp</h4>
-
-<ol style="margin-top:5px;">
-<li style="font-size:14.5px; line-height:2;font-family:sans-serif;">PSG members helping out with the Cooking Segment of Sec 1 Orientation Camp</li>
-<li style="font-size:14.5px; line-height:2;font-family:sans-serif;">Parents from all levels and their children contributing to the Secondary 4 VIA,&nbsp;<em style="font-family:sans-serif;">Charity Food Drive.</em></li>
-</ol>
-
-<p style="margin-top:15px;font-size:14.5px; line-height:2;font-family:sans-serif;">We look forward to working closely with you for your child’s educational and developmental needs. Please&nbsp;<a href="https://form.gov.sg/#!/5f9bba9c64cfc100117b204f" style="font-family:sans-serif;">click</a>&nbsp;to fill up your interest. Thank you.</p>
-
-<h4 style="color:#635f1a;font-weight:bold;font-family:sans-serif;">Organisation chart of PSG</h4>
-<p style="font-size:14.5px; line-height:2;margin-top:15px; font-family:sans-serif"><strong style="margin-top:15px;font-size:15.5px;font-family:sans-serif;">Advisors:</strong>&nbsp;Mrs Belinda Chan&nbsp;(Principal) / Mr Philip Tan (Vice-Principal) / Mr Daniel Soh (Vice-Principal Admin)</p>
-
-<p style="margin-top:15px;font-size:14.5px; line-height:2;font-family:sans-serif;"><strong style="margin-top:15px;font-size:15.5px;font-family:sans-serif;">School PSG Facilitators:</strong>&nbsp;Mr Tan Chee Keong (HOD Humanities) / Mr Wong Liang Soon (HOD Craft&amp;Tech)</p>
-
-<p style="margin-top:15px;font-size:15.5px;"><strong style="font-family:sans-serif;">PSG Exco Members:</strong></p>
-
-<table border="1" style="width:100%;">
-	<tbody>
-		<tr>
-			<td style="background-color: #54585d; font-weight: bold; font-size: 14.5px; border: 1px solid #54585d; color:white;border-bottom: 1px solid #dddddd;width:24%;font-family:sans-serif;">Chairperson</td>
-			<td style="border: 1px solid #dddfe1;font-size: 14.5px;font-family:sans-serif;">Emily Coi Siu Yen</td>
-		</tr>
-		<tr>
-			<td style="background-color: #54585d; font-weight: bold; font-size: 14.5px; border: 1px solid #54585d; color:white;border-bottom: 1px solid #dddddd;width:24%;font-family:sans-serif;">Vice-Chairperson</td>
-			<td style="border: 1px solid #dddfe1;font-size: 14.5px;font-family:sans-serif;">Audrey Chan</td>
-		</tr>
-		<tr>
-			<td style="background-color: #54585d; font-weight: bold; font-size: 14.5px; border: 1px solid #54585d; color:white;border-bottom: 1px solid #dddddd;width:24%;font-family:sans-serif;">Vice-Chairperson	</td>
-			<td style="border: 1px solid #dddfe1;font-size: 14.5px;font-family:sans-serif;">Tejas Shah</td>
-		</tr>
-		<tr>
-			<td style="background-color: #54585d; font-weight: bold; font-size: 14.5px; border: 1px solid #54585d; color:white;border-bottom: 1px solid #dddddd;width:24%;font-family:sans-serif;">Secretary	</td>
-			<td style="border: 1px solid #dddfe1;font-size: 14.5px;font-family:sans-serif;">Beth Cheng</td>
-		</tr>
-		<tr>
-			<td style="background-color: #54585d; font-weight: bold; font-size: 14.5px; border: 1px solid #54585d; color:white;border-bottom: 1px solid #dddddd;width:24%;font-family:sans-serif;">Secretary	</td>
-			<td style="border: 1px solid #dddfe1;font-size: 14.5px;font-family:sans-serif;">Amy Lew</td>
-		</tr>
-		<tr>
-			<td style="background-color: #54585d; font-weight: bold; font-size: 14.5px; border: 1px solid #54585d; color:white;border-bottom: 1px solid #dddddd;width:24%;font-family:sans-serif;">Secretary	</td>
-			<td style="border: 1px solid #dddfe1;font-size: 14.5px;font-family:sans-serif;">Shirley Lim</td>
-		</tr>
-		<tr>
-			<td style="background-color: #54585d; font-weight: bold; font-size: 14.5px; border: 1px solid #54585d; color:white;border-bottom: 1px solid #dddddd;width:24%;font-family:sans-serif;">Treasurer	</td>
-			<td style="border: 1px solid #dddfe1;font-size: 14.5px;font-family:sans-serif;">Cass Tay</td>
-		</tr>
-		<tr>
-			<td style="background-color: #54585d; font-weight: bold; font-size: 14.5px; border: 1px solid #54585d; color:white;border-bottom: 1px solid #dddddd;width:24%;font-family:sans-serif;">Treasurer	</td>
-			<td style="border: 1px solid #dddfe1;font-size: 14.5px;font-family:sans-serif;">Cindy Sim</td>
-		</tr>
-		<tr>
-			<td style="background-color: #54585d; font-weight: bold; font-size: 14.5px; border: 1px solid #54585d; color:white;border-bottom: 1px solid #dddddd;width:24%;font-family:sans-serif;">Sec 1 Reps	</td>
-			<td style="border: 1px solid #dddfe1;font-size: 14.5px;font-family:sans-serif;">Beth Cheng / Karen Teng</td>
-		</tr>
-		<tr>
-			<td style="background-color: #54585d; font-weight: bold; font-size: 14.5px; border: 1px solid #54585d; color:white;border-bottom: 1px solid #dddddd;width:24%;font-family:sans-serif;">Sec 2 Reps</td>
-			<td style="border: 1px solid #dddfe1;font-size: 14.5px;font-family:sans-serif;">Audrey Chan / Cindy Sim</td>
-		</tr>
-		<tr>
-			<td style="background-color: #54585d; font-weight: bold; font-size: 14.5px; border: 1px solid #54585d; color:white;border-bottom: 1px solid #dddddd;width:24%;font-family:sans-serif;">Sec 3 Reps	</td>
-			<td style="border: 1px solid #dddfe1;font-size: 14.5px;font-family:sans-serif;">Stephanie Ng / Amy Lew</td>
-		</tr>
-		<tr>
-			<td style="background-color: #54585d; font-weight: bold; font-size: 14.5px; border: 1px solid #54585d; color:white;border-bottom: 1px solid #dddddd;width:24%;font-family:sans-serif;">Sec 4 Reps	</td>
-			<td style="border: 1px solid #dddfe1;font-size: 14.5px;font-family:sans-serif;">Jeslyn Chong / Katherine Chia</td>
-		</tr>
-		<tr>
-			<td style="background-color: #54585d; font-weight: bold; font-size: 14.5; border: 1px solid #54585d; color:white;border-bottom: 1px solid #dddddd;width:24%;font-family:sans-serif;">PSG Alumni	</td>
-			<td style="border: 1px solid #dddfe1;font-size: 14.5px;font-family:sans-serif;">Ja’izah Hj Embek, Regina, Joanna Chng, Patricia Lim, Eric Foong, Cindy Chua, Jenny Low</td>
-		</tr>
-		
-</tbody>
-	</table>
+<h5 style="color:#0B6623;">Our Programmes</h5>&nbsp;
+<ul style="margin-top:-25px">
+	<li style="font-size:14.5px; line-height:1.5 ;margin-top:5px; font-family:sans-serif;"> Sec 1 Parent Recruitment Talk</li>
+<li style="font-size:14.5px; line-height:1.5 ;margin-top:5px; font-family:sans-serif;"> PSG Engagement with PHSS</li>
+<li style="font-size:14.5px; line-height:1.5 ;margin-top:5px; font-family:sans-serif;"> PSG Bonding Sessions with PHSS</li>
+	<li style="font-size:14.5px; line-height:1.5 ;margin-top:5px; font-family:sans-serif;"> Supporting PHSS during school events</li>
+	</ul>
+	
+<h5 style="margin-top:15px;color:#0B6623;">Register with Us</h5>&nbsp;
+<p style="margin: -15px 0;font-size:14.5px; line-height:1.5;font-family:sans-serif;color:black;">Please e-mail the school at <a href="mailto:peihwasec@moe.edu.sg&nbsp;to">peihwasec@moe.edu.sg</a> to register your interest. Our school PSG teacher-in-charge will link you up with the PSG EXCO.</p>
