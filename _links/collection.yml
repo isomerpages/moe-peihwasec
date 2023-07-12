@@ -2,6 +2,7 @@ collections:
   links:
     output: true
     order:
+      - Links.md
       - SLS Login.md
       - Student iCON Login.md
       - Resource Booking System.md
