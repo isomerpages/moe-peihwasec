@@ -2,7 +2,7 @@ collections:
   links:
     output: true
     order:
-      - Links for Teachers.md
       - Links for Students.md
+      - Links for Teachers.md
       - Links for Parents.md
       - School Safety.md
