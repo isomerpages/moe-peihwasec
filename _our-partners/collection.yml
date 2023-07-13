@@ -1,7 +1,0 @@
-collections:
-  our-partners:
-    output: true
-    order:
-      - Parents Support Group.md
-      - Pei Hwa Alumni.md
-      - School Advisory Committee.md
