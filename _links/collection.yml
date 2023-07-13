@@ -2,7 +2,6 @@ collections:
   links:
     output: true
     order:
-      - SLS Login.md
       - Student iCON Login.md
       - Resource Booking System.md
       - ACE Learning.md
