@@ -22,7 +22,7 @@ description: ""
 <li style="font-size:14.5px; line-height:1.5 ;margin-top:5px; font-family:sans-serif;"> Teachers’ Day appreciation</li>
 	<li style="font-size:14.5px; line-height:1.5 ;margin-top:5px; font-family:sans-serif;"> Alumni recruitment and welfare packs session for graduating students</li>
 		<li style="font-size:14.5px; line-height:1.5 ;margin-top:5px; font-family:sans-serif;"> Homecoming</li>
-<li style="font-size:14.5px; line-height:1.5 ;margin-top:5px; font-family:sans-serif;">&nbsp;Open House</li>
+<li style="font-size:14.5px; line-height:1.5 ;margin-top:5px; font-family:sans-serif;">Open House</li>
 	</ul>
 	
 <h5 style="margin-top:10px;color:#0B6623;">Register with Us</h5>
