@@ -2,7 +2,6 @@ collections:
   links:
     output: true
     order:
-      - Resource Booking System.md
       - ACE Learning.md
       - MySkillsFuture Portal.md
       - Links for Teachers.md
