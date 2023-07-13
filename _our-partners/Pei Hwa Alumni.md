@@ -5,14 +5,14 @@ description: ""
 ---
 <img style="width: 100%; height: auto;margin-top:30px;margin-bottom:30px;" alt="Image" src="https://raw.githubusercontent.com/isomerpages/moe-peihwasec/staging/images/BANNERs/peihwaalumnibanner.png">
 
-<h5 style="margin-top:10px;color:#0B6623;">Who Are We</h5>&nbsp;
+<h5 style="margin-top:10px;color:#0B6623;">Who Are We</h5>
 <p style="font-size:14.5px; line-height:1.5;font-family:sans-serif;color:black;margin-top:5px;">Ex-students from Pei Hwa Secondary School who wish to remain connected to the school via events and programmes.</p>
 
-<h5 style="margin-top:10px;color:#0B6623;">Our Vision</h5>&nbsp;
-<p style="font-size:14.5px; line-height:1.5;font-family:sans-serif;color:black;margin-top:5px;"></p><p style="font-size:14.5px; line-height:1.5;font-family:sans-serif;color:black;margin-top:5px;">Ensure a platform for ex-students of Pei Hwa Secondary School to remain CONNECTED to the school COMMUNITY so that they can CONTRIBUTE back to the school.</p>
+<h5 style="margin-top:20px;color:#0B6623;">Our Vision</h5>
+<p style="font-size:14.5px; line-height:1.5;font-family:sans-serif;color:black;margin-top:5px;">Ensure a platform for ex-students of Pei Hwa Secondary School to remain CONNECTED to the school COMMUNITY so that they can CONTRIBUTE back to the school.</p>
 
-<h5 style="margin-top:10px;color:#0B6623;">Our Programmes</h5>&nbsp;
-<ul style="margin-top:-25px">
+<h5 style="margin-top:20px;color:#0B6623;">Our Programmes</h5>
+<ul style="margin-top:5px">
 	<li style="font-size:14.5px; line-height:1.5 ;margin-top:5px; font-family:sans-serif;"> Database collection and consolidation</li>
 <li style="font-size:14.5px; line-height:1.5 ;margin-top:5px; font-family:sans-serif;"> Academic Coaching Programme</li>
 <li style="font-size:14.5px; line-height:1.5 ;margin-top:5px; font-family:sans-serif;"> Alumni Talks (For Sec 4/5s, Student leadership, NS)</li>
@@ -25,7 +25,7 @@ description: ""
 <li style="font-size:14.5px; line-height:1.5 ;margin-top:5px; font-family:sans-serif;">&nbsp;Open House</li>
 	</ul>
 	
-<h5 style="margin-top:10px;color:#0B6623;">Register with Us</h5>&nbsp;
-<p style="margin: -15px 0;font-size:14.5px; line-height:1.5;font-family:sans-serif;color:black;">Complete the <a href="https://forms.gle/rTHd7b1NZoAmgG1s7">RECONNECT Form</a> AND follow us on Social media:</p>
+<h5 style="margin-top:10px;color:#0B6623;">Register with Us</h5>
+<p style="font-size:14.5px; line-height:1.5;font-family:sans-serif;color:black;margin-top:5px;">Complete the <a href="https://forms.gle/rTHd7b1NZoAmgG1s7">RECONNECT Form</a> AND follow us on Social media:</p>
 
 <img style="width: 100%; height: auto;margin-top:30px;margin-bottom:30px;" alt="Image" src="https://raw.githubusercontent.com/isomerpages/moe-peihwasec/staging/images/Links/peihwaalumni01.png">
