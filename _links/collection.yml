@@ -2,7 +2,6 @@ collections:
   links:
     output: true
     order:
-      - Student iCON Login.md
       - Resource Booking System.md
       - ACE Learning.md
       - MySkillsFuture Portal.md
