@@ -17,7 +17,7 @@ description: ""
 	</div> 
 </div>
 
-<h5 style="color:#0B6623;">Our Programmes</h5>&nbsp;
+<h5 style="margin-top:15px;color:#0B6623;">Our Programmes</h5>
 <ul style="margin-top:5px">
 	<li style="font-size:14.5px; line-height:1.5 ;margin-top:5px; font-family:sans-serif;"> Sec 1 Parent Recruitment Talk</li>
 <li style="font-size:14.5px; line-height:1.5 ;margin-top:5px; font-family:sans-serif;"> PSG Engagement with PHSS</li>
@@ -25,5 +25,5 @@ description: ""
 	<li style="font-size:14.5px; line-height:1.5 ;margin-top:5px; font-family:sans-serif;"> Supporting PHSS during school events</li>
 	</ul>
 	
-<h5 style="margin-top:15px;color:#0B6623;">Register with Us</h5>&nbsp;
+<h5 style="margin-top:15px;color:#0B6623;">Register with Us</h5>
 <p style="font-size:14.5px; line-height:1.5;font-family:sans-serif;color:black;margin-top:5px;">Please e-mail the school at <a href="mailto:peihwasec@moe.edu.sg&nbsp;to">peihwasec@moe.edu.sg</a> to register your interest. Our school PSG teacher-in-charge will link you up with the PSG EXCO.</p>
