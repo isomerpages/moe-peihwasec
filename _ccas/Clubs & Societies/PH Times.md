@@ -141,23 +141,43 @@ third_nav_title: Clubs & Societies
 <h3 style="margin-top:10px;font-weight: bold;color:#000000">Student Testament</h3>
 
 <blockquote style="font-size: 15px;width:100%;margin:50px auto;margin-top:5px;font-family:serif;font-style:italic;color: #555555;padding:1.2em 25px 1.2em 25px;border-left:8px solid #0C6523;line-height:1.6;position: relative;background:#EDEDED;">
-<img align="left" src="https://raw.githubusercontent.com/isomerpages/moe-peihwasec/staging/images/CCA/odactestimonial01.png" style="width: 23%; border-radius: 7%;  margin-right:15px;">
-	"I can confidently say that my journey in Outdoor Adventure Club (ODAC) was one of the best times in my life. ODAC has changed my lifestyle completely and in an amazing way. In Sec 1, I was an intorvert and was unsure if I made a right choice signing up. However, from the moment I joined ODAC, I was welcomed with open arms and treated with care. That was the first time the ODAC was introduced to me, One For One, All For One. I understood then that ODAC was not just a CCA, but a family. Each session was a fun and thrilling experience as they incorporated practical outdoor skills, exercise and bonding games. The practical skills prepared us for the outdoor elements and taught us basic skill such as first-aid, knot tying, and even events such as kayaking, orienteering and rock climbing that can help overcome our fears. Our fitness component was to help our members obtain and maintain a healthy physique as well as good mental health. Lastly, the bonding games was meant to strengthen the bond between our members such as building teamwork and cooperation, communication, shared experiences, and much more. Initially, I was not very comfortable and confident in these activities, not sure if I could even do them. My worries soon seemed pointless as my seniors and peers supported and motivated me throughout, allowing me to reach my full potential. It was the same case when I was applying for the president position. They gave me confidence and I would not have had the privilege to be the president if it were not for them. It is not easy being the president especially since the expectations are high. However, I did not give up and find joy in performing my duties. I have taken many risks throughout ODAC and I am glad I took them as they made me the person I am today. Know that the only impossible journey is the one you never begin."
-  <span style="display:block; color:#333333; margin-top:1em;font-size:15px;font-family:sans-serif;"><em style="font-family:sans-serif;">President 2023, Fuaad Al-habib Yeo</em></span>
+<img align="left" src="https://raw.githubusercontent.com/isomerpages/moe-peihwasec/staging/images/CCA/phtimestestimonial03.png" style="width: 23%; border-radius: 7%;  margin-right:15px;">
+	"PH Times has made a big impact on my life. I got to learn so many new things and make new
+friends. I became a confident communicator and more socially capable rather than staying in my
+comfort zone. Not only have I got to earn the knowledge of journalism, but I also got to earn the
+hearts of my precious fellow teammates while working together. I have never felt so loved and
+welcomed by my seniors too. I can recall the numerous times I have volunteered in CCA
+activities. Every time I got to work with my friends, it gave me a memorable experience. It was
+the very first time I had come forward and stepped up. As the President of PH Times, I had the
+opportunity to dare to innovate and have the compassion to lead others. I have learnt many
+values and morals from leading this CCA. I appreciate all my teachers for giving me the love
+and support I needed when I needed help. My teachers are the reason I am doing my best. I
+cherish the time I have spent in this CCA. PH Times will forever be my happy place."
+  <span style="display:block; color:#333333; margin-top:1em;font-size:15px;font-family:sans-serif;"><em style="font-family:sans-serif;">President, Liew Yu En</em></span>
 	</blockquote> 
 
 <blockquote style="font-size: 15px;width:100%;margin:50px auto;margin-top:5px;font-family:serif;font-style:italic;color: #555555;padding:1.2em 25px 1.2em 25px;border-left:8px solid #0C6523;line-height:1.6;position: relative;background:#EDEDED;">
-<img align="left" src="https://raw.githubusercontent.com/isomerpages/moe-peihwasec/staging/images/CCA/odactestimonial02.png" style="width: 23%; border-radius: 7%;  margin-right:15px;">
-	"ODAC has given me a rare opportunity to be able to lead a CCA. My role being vice president of programme. This experience has been a spectacular journey for me and I hope the fun will not stop even after I graduate from this school and this wonderful CCA. Although it was hard for me to adapt to the high physical demands and requirements of ODAC at first, my seniors were kind and patient with me and gave me advice on how to improve my physique in order to be able to enjoy the CCA to its fullest extent! Although leading a CCA of this size has its tough points, I still enjoy performing my role to plan activities for ODAC. The end of year camps and the competitions I participated in always made me feel included and I enjoyed myself throughout!<br><br>
-“Success is no accident. It is hard work, perseverance, learning, studying, sacrifice and most of all, love of what you are doing or learning to do.” -Pele "
-  <span style="display:block; color:#333333; margin-top:1em;font-size:15px;font-family:sans-serif;"><em style="font-family:sans-serif;">Vice-President (Programme), Leandro Leow Shao Hng</em></span>
+<img align="left" src="https://raw.githubusercontent.com/isomerpages/moe-peihwasec/staging/images/CCA/phtimestestimonial02.png" style="width: 23%; border-radius: 7%;  margin-right:15px;">
+	"My CCA teachers are friendly and easy-going with students, and we get to have more
+freedom with group discussions and photo-shoots. I like the atmosphere where students
+get to work together effectively. As a CCA leader, I hope to challenge myself, as well as
+develop soft skills like communication skills and problem-solving skills. While I enjoy the
+things I do in PH Times, I also enjoy the company with my friends in the CCA."
+  <span style="display:block; color:#333333; margin-top:1em;font-size:15px;font-family:sans-serif;"><em style="font-family:sans-serif;">Vice-President, Lim Yu Heng</em></span>
 	<br>
 	</blockquote> 
 	
 <blockquote style="font-size: 15px;width:100%;margin:50px auto;margin-top:5px;font-family:serif;font-style:italic;color: #555555;padding:1.2em 25px 1.2em 25px;border-left:8px solid #0C6523;line-height:1.6;position: relative;background:#EDEDED;">
-<img align="left" src="https://raw.githubusercontent.com/isomerpages/moe-peihwasec/staging/images/CCA/odactestimonial03.png" style="width: 23%; border-radius: 7%;  margin-right:15px;">
-	"My overall experience in ODAC has been a rollercoaster ride. At first, I had to grapple with the strenuous and arduous activities in the CCA as well as the feeling of being constantly left out due to the fact that I was the only girl in my cohort. Of course, I had the initial intention of changing my CCA but as soon as I befriended my girl seniors, things became slightly brighter and I decided to give ODAC a chance, hoping that it would be better in the future. Thankfully, in the course of time, my experiences became more enjoyable. From the wide range of activities that were planned and organised, I managed to experience many new and wonderful adventures. Through all the different and exhilarating experiences, I felt that the CCA brings us closer together, strengthens our bonds, lets us loosen up and have fun, all while teaching us useful skills, outdoors and indoors, plus the moral and core values that we, as a CCA, have to uphold together. Other than bringing laughter and joy in most of the sessions, ODAC has also taught me key values. For instance, our motto, “One for all, all for one” really emphasises the context that we stick together, regardless of any situation and represents our unity, how we are always there for one another, supporting each other. Resilience, discipline and teamwork are some of the many values that I have garnered from my journey so far in ODAC due to the challenges that we have to face together as a team as well as the consequences that come with it. All in all, my experience in ODAC has been filled with memories. By choosing to stay in this ambitious CCA, I have engaged in many enriching activities, participated in thrilling events, worked with fun and friendly people, stepped out of my comfort zone, overcame obstacles, gained numerous life skills, learnt meaningful values and learnt to appreciate the flora and fauna. I definitely did not regret giving this CCA a chance. Had I not, I would not have found myself a new family."
-  <span style="display:block; color:#333333; margin-top:1em;font-size:15px;font-family:sans-serif;"><em style="font-family:sans-serif;">Member, "Naurah Batrisyia Muhammad Khir </em></span>
+<img align="left" src="https://raw.githubusercontent.com/isomerpages/moe-peihwasec/staging/images/CCA/phtimestestimonial01.png" style="width: 23%; border-radius: 7%;  margin-right:15px;">
+	"As a member of PH Times, I have acquired a lot of knowledge and skills which my
+teachers and seniors have taught me. I have been granted many opportunities to
+sharpen my skills and explore my interests in journalism. I have volunteered to take
+photos of school events on numerous occasions and have been both in front and
+behind the camera multiple times for videography and broadcast. For digital journalism,
+I have had a lot of practice during CCA sessions working on PHactors, a PH Times
+online production. I am truly grateful to PH Times for allowing me freedom to express
+myself."
+  <span style="display:block; color:#333333; margin-top:1em;font-size:15px;font-family:sans-serif;"><em style="font-family:sans-serif;">Head of Photo Journalism, Phua Le Xuan Alicia, </em></span>
 <br>
 	</blockquote> 
 
