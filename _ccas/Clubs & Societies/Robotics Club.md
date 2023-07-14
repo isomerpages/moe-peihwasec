@@ -170,7 +170,7 @@ Tay Kai Wen, Bryan (4D1), Lai Le Xin Grace (3I4), Ain Myeisha Arman (3I1), Chang
 <blockquote style="font-size: 15px;width:100%;margin:50px auto;margin-top:5px;font-family:serif;font-style:italic;color: #555555;padding:1.2em 25px 1.2em 25px;border-left:8px solid #0C6523;line-height:1.6;position: relative;background:#EDEDED;">
 <img align="left" src="https://raw.githubusercontent.com/isomerpages/moe-peihwasec/staging/images/CCA/roboticstestimonial02.png" style="width: 23%; border-radius: 7%;  margin-right:15px;">
 	"I enjoy the Robotics Club as I get to learn many new things and try them out with the help of the teachers and coaches. Since the first session of the CCA, I felt that I have a strong bond among my fellow CCA members. During my journey in the Robotics Club, i have learnt to be more resilient and confident. I am very grateful to the teachers in charge for providing me with the opportunity to lead and guide the CCA well. Being able to be part of the CCA has helped me grow a lot, which is something i am thankful for."
-  <span style="display:block; color:#333333; margin-top:1em;font-size:15px;font-family:sans-serif;"><em style="font-family:sans-serif;">President, Teo Xuan Pei </em></span>
+  <span style="display:block; color:#333333; margin-top:1em;font-size:15px;font-family:sans-serif;"><em style="font-family:sans-serif;">President, Teo Xuan Pei </em></span><br><br>
 	</blockquote> 
 
 <blockquote style="font-size: 15px;width:100%;margin:50px auto;margin-top:5px;font-family:serif;font-style:italic;color: #555555;padding:1.2em 25px 1.2em 25px;border-left:8px solid #0C6523;line-height:1.6;position: relative;background:#EDEDED;">
