@@ -164,7 +164,7 @@ get to work together effectively. As a CCA leader, I hope to challenge myself, a
 develop soft skills like communication skills and problem-solving skills. While I enjoy the
 things I do in PH Times, I also enjoy the company with my friends in the CCA."
   <span style="display:block; color:#333333; margin-top:1em;font-size:15px;font-family:sans-serif;"><em style="font-family:sans-serif;">Vice-President, Lim Yu Heng</em></span>
-	<br><br>
+	<br><br><br><br>
 	</blockquote> 
 	
 <blockquote style="font-size: 15px;width:100%;margin:50px auto;margin-top:5px;font-family:serif;font-style:italic;color: #555555;padding:1.2em 25px 1.2em 25px;border-left:8px solid #0C6523;line-height:1.6;position: relative;background:#EDEDED;">
@@ -178,7 +178,7 @@ I have had a lot of practice during CCA sessions working on PHactors, a PH Times
 online production. I am truly grateful to PH Times for allowing me freedom to express
 myself."
   <span style="display:block; color:#333333; margin-top:1em;font-size:15px;font-family:sans-serif;"><em style="font-family:sans-serif;">Head of Photo Journalism, Phua Le Xuan Alicia, </em></span>
-<br><br><br>
+<br><br>
 	</blockquote> 
 
 <h3 style="margin-top:10px;font-weight: bold;color:#000000">CCA Details</h3>
