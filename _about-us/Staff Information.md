@@ -790,7 +790,7 @@ tang_wai_sim_wendy@moe.edu.sg
 <strong style="font-family:sans-serif;">Excellence 1</strong>
 </td>
 <td style="text-align:center; border: 1px solid #dddfe1; font-family:sans-serif;">
-Mr Lim Guat Hong<br>
+Ms Lim Guat Hong<br>
 </td>
 <td style="text-align:center; border: 1px solid #dddfe1;font-family:sans-serif;">
 lim_guat_hong@moe.edu.sg<br>
