@@ -103,6 +103,27 @@ third_nav_title: Sports & Games
 	<li style="font-size:14.5px; line-height:1.5 ;margin-top:5px; font-family:sans-serif;"> Bonding activities</li>
 	</ul>
 	
+<h3 style="margin-top:10px;font-weight: bold;color:#000000">Student Testament</h3>
+
+<blockquote style="font-size: 15px;width:100%;margin:50px auto;margin-top:5px;font-family:serif;font-style:italic;color: #555555;padding:1.2em 25px 1.2em 25px;border-left:8px solid #0C6523;line-height:1.6;position: relative;background:#EDEDED;">
+<img align="left" src="https://raw.githubusercontent.com/isomerpages/moe-peihwasec/staging/images/CCA/taekwondotestimonial02.png" style="width: 23%; border-radius: 7%;  margin-right:15px;">
+	"Through Taekwondo, we deeply understand the importance of team spirit and genuinely understand the concept of “One for All, All for One”. When training gets extra tough someday, we tend to be demoralised and verge on giving up. While our spirit is diminishing, Darren Sir will always reprimand us and order us to do physical training while shouting, though encouraging and motivating us in the process. During this moment, we will always feel motivated, and the training became surprisingly bearable after that. After experiencing these moments, I feel that having a high team spirit is extremely vital to enabling us, who are different individuals with different strengths and weaknesses, to come together to accomplish our goals.&nbsp;&nbsp;The feeling of pride and loyalty that exists among us cultivates motivation and positive vibes which inspires us to contribute our fair share of effort."
+  <span style="display:block; color:#333333; margin-top:1em;font-size:15px;font-family:sans-serif;"><em style="font-family:sans-serif;">Chairmain, Koh Jia Le, Cheryl </em></span>
+	</blockquote> 
+
+<blockquote style="font-size: 15px;width:100%;margin:50px auto;margin-top:5px;font-family:serif;font-style:italic;color: #555555;padding:1.2em 25px 1.2em 25px;border-left:8px solid #0C6523;line-height:1.6;position: relative;background:#EDEDED;">
+<img align="left" src="https://raw.githubusercontent.com/isomerpages/moe-peihwasec/staging/images/CCA/taekwondotestimonial03.png" style="width: 23%; border-radius: 7%;  margin-right:15px;">
+	"Joining Taekwondo has allowed me to shape myself into the person I am today. I love the way our coach promotes the spirit of Taekwondo through his training, as well as the way he pushes us to be better versions of ourselves every training session. Being in the CCA allowed me to forge different friendships with people of different backgrounds, but one common interest. I wouldn’t be who I am today without the assistance of my fellow club members, teachers in charge and coach. I remember being rather quiet when I first entered this CCA, so the thought of needing to shout while executing our moves seemed more than daunting, hence one of my biggest hurdles that I overcame. I loved how my seniors showed their enthusiasm and passion for the CCA during our sessions, and that inspired me to see them as role models. It’s heartwarming whenever members apologise to each other after sparring matches,&nbsp;&nbsp;and checking up on their opponents. All in all, Taekwondo has nurtured me to be the outgoing person I am today, and I am more than grateful for the different opportunities it has given me."
+  <span style="display:block; color:#333333; margin-top:1em;font-size:15px;font-family:sans-serif;"><em style="font-family:sans-serif;">Vice-Chairman, Xu Ruiqian Rachael</em></span>
+	</blockquote> 
+	
+<blockquote style="font-size: 15px;width:100%;margin:50px auto;margin-top:5px;font-family:serif;font-style:italic;color: #555555;padding:1.2em 25px 1.2em 25px;border-left:8px solid #0C6523;line-height:1.6;position: relative;background:#EDEDED;">
+<img align="left" src="https://raw.githubusercontent.com/isomerpages/moe-peihwasec/staging/images/CCA/taekwondotestimonial01.png" style="width: 23%; border-radius: 7%;  margin-right:15px;">
+	"What I love about my CCA is the training we have and the values that it teaches us. I always look forward to participating in every CCA session as we will always be learning something new and it also allows us to sharpen and practice our kicks and moves so that we will not lose touch of it. Being in Taekwondo also teaches us values such as respect to self and others, being respectful to everyone, integrity, owning up to your own mistakes, perseverance, the ability to get back on your feet no matter what, and lastly team spirit, being able to work well in a team. Being in Taekwondo CCA allows us to bond with one another over a common interest and allow us to build characteristics and become a better person."
+  <span style="display:block; color:#333333; margin-top:1em;font-size:15px;font-family:sans-serif;"><em style="font-family:sans-serif;">Vice-Chairman, Jayden choo Teck En</em></span>
+	<br>
+	</blockquote>
+	
 <h3 style="margin-top:10px;font-weight: bold;color:#000000">CCA Details</h3>
 
 <table style="width:100%;border-collapse: collapse;border: none;">

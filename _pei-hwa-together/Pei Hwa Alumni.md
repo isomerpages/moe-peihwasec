@@ -1,6 +1,6 @@
 ---
 title: Pei Hwa Alumni
-permalink: /our-partners/pei-hwa-alumni/
+permalink: /pei-hwa-together/pei-hwa-alumni/
 description: ""
 ---
 <img style="width: 100%; height: auto;margin-top:30px;margin-bottom:30px;" alt="Image" src="https://raw.githubusercontent.com/isomerpages/moe-peihwasec/staging/images/BANNERs/peihwaalumnibanner.png">

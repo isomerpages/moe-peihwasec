@@ -138,13 +138,56 @@ third_nav_title: Clubs & Societies
 <li style="font-size:14.5px; line-height:1.5 ;margin-top:5px; font-family:sans-serif;"> DRUGFREESG Video Competition</li>
 	</ul>
 
+<h3 style="margin-top:10px;font-weight: bold;color:#000000">Student Testament</h3>
+
+<blockquote style="font-size: 15px;width:100%;margin:50px auto;margin-top:5px;font-family:serif;font-style:italic;color: #555555;padding:1.2em 25px 1.2em 25px;border-left:8px solid #0C6523;line-height:1.6;position: relative;background:#EDEDED;">
+<img align="left" src="https://raw.githubusercontent.com/isomerpages/moe-peihwasec/staging/images/CCA/phtimestestimonial03.png" style="width: 23%; border-radius: 7%;  margin-right:15px;">
+	"PH Times has made a big impact on my life. I got to learn so many new things and make new
+friends. I became a confident communicator and more socially capable rather than staying in my
+comfort zone. Not only have I got to earn the knowledge of journalism, but I also got to earn the
+hearts of my precious fellow teammates while working together. I have never felt so loved and
+welcomed by my seniors too. I can recall the numerous times I have volunteered in CCA
+activities. Every time I got to work with my friends, it gave me a memorable experience. It was
+the very first time I had come forward and stepped up. As the President of PH Times, I had the
+opportunity to dare to innovate and have the compassion to lead others. I have learnt many
+values and morals from leading this CCA. I appreciate all my teachers for giving me the love
+and support I needed when I needed help. My teachers are the reason I am doing my best. I
+cherish the time I have spent in this CCA. PH Times will forever be my happy place."
+  <span style="display:block; color:#333333; margin-top:1em;font-size:15px;font-family:sans-serif;"><em style="font-family:sans-serif;">President, Liew Yu En</em></span>
+	</blockquote> 
+
+<blockquote style="font-size: 15px;width:100%;margin:50px auto;margin-top:5px;font-family:serif;font-style:italic;color: #555555;padding:1.2em 25px 1.2em 25px;border-left:8px solid #0C6523;line-height:1.6;position: relative;background:#EDEDED;">
+<img align="left" src="https://raw.githubusercontent.com/isomerpages/moe-peihwasec/staging/images/CCA/phtimestestimonial02.png" style="width: 23%; border-radius: 7%;  margin-right:15px;">
+	"My CCA teachers are friendly and easy-going with students, and we get to have more
+freedom with group discussions and photo-shoots. I like the atmosphere where students
+get to work together effectively. As a CCA leader, I hope to challenge myself, as well as
+develop soft skills like communication skills and problem-solving skills. While I enjoy the
+things I do in PH Times, I also enjoy the company with my friends in the CCA."
+  <span style="display:block; color:#333333; margin-top:1em;font-size:15px;font-family:sans-serif;"><em style="font-family:sans-serif;">Vice-President, Lim Yu Heng</em></span>
+	<br><br><br><br>
+	</blockquote> 
+	
+<blockquote style="font-size: 15px;width:100%;margin:50px auto;margin-top:5px;font-family:serif;font-style:italic;color: #555555;padding:1.2em 25px 1.2em 25px;border-left:8px solid #0C6523;line-height:1.6;position: relative;background:#EDEDED;">
+<img align="left" src="https://raw.githubusercontent.com/isomerpages/moe-peihwasec/staging/images/CCA/phtimestestimonial01.png" style="width: 23%; border-radius: 7%;  margin-right:15px;">
+	"As a member of PH Times, I have acquired a lot of knowledge and skills which my
+teachers and seniors have taught me. I have been granted many opportunities to
+sharpen my skills and explore my interests in journalism. I have volunteered to take
+photos of school events on numerous occasions and have been both in front and
+behind the camera multiple times for videography and broadcast. For digital journalism,
+I have had a lot of practice during CCA sessions working on PHactors, a PH Times
+online production. I am truly grateful to PH Times for allowing me freedom to express
+myself."
+  <span style="display:block; color:#333333; margin-top:1em;font-size:15px;font-family:sans-serif;"><em style="font-family:sans-serif;">Head of Photo Journalism, Phua Le Xuan Alicia, </em></span>
+<br><br>
+	</blockquote> 
+
 <h3 style="margin-top:10px;font-weight: bold;color:#000000">CCA Details</h3>
 
 <table style="width:100%;border-collapse: collapse;border: none;">
 	<tbody style="border: none;">
 <tr>
 			<td style="font-weight: bold; font-size: 15px; border-bottom: 1px solid #dddddd;width:30%;font-family:sans-serif;letter-spacing:0.2px">Teachers-in-Charge</td>
-			<td style="font-size: 14.5px; border-bottom: 1px solid #dddddd;font-family:sans-serif;letter-spacing:0.2px">Mdm Rasyidah Binte Ramli, Ms Ari Sutanti Binte Haji Mispan, Miss Koh Ting Suen Jewel, Ms Woo Nam Cam</td>
+			<td style="font-size: 14.5px; border-bottom: 1px solid #dddddd;font-family:sans-serif;letter-spacing:0.2px">Mdm Rasyidah Binte Ramli, Ms Ari Sutanti Binte Haji Mispan, Miss Koh Ting Suen Jewel, Ms Woo Nan Cam</td>
 		</tr>
 <tr>
 			<td style="font-weight: bold; font-size: 15px; border-bottom: 1px solid #dddddd;width:30%;font-family:sans-serif;letter-spacing:0.2px">CCA Schedule</td>
