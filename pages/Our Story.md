@@ -11,7 +11,9 @@ description: ""
 <div style="flex: 1;" class="content">&nbsp;
 <h6 style="margin-top:-90px;color:#0B6623;">Our Story</h6>&nbsp;
 <h4 style="margin-top:-30px;font-weight: bold;color:#000000">Heading</h4>&nbsp;
-<p style="margin: -30px 0;font-size:14.5px; line-height:1.5;font-family:sans-serif;color:black;">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce id ipsum eget est suscipit mollis vel eu lorem. Donec nec eros ipsum.</p>
+<p style="margin: -30px 0;font-size:14.5px; line-height:1.5;font-family:sans-serif;color:black;">Established in 1934, Pei Hwa Secondary school started as Hwa Keow School, a village school in Yio Chu Kang which was supported by the village business community. In 1936, Mr Ang Kong Peng, the founder of the school, registered the new school campus as Pei Hwa Public School. In 1955, the school became a government-aided school. By the mid-1980s, the pupil population started dwindling due to the national resettlement policy which saw families moving away from Yio Chu Kang. Pei Hwa Public School ceased operations in 1990.
+
+The Pei Hwa Foundation was formed after the school closure by its alumni who wished to contribute back to society. In 2007, the school re-established itself as Pei Hwa Secondary School at Fernvale Link.</p>
 </div>
 </div>
 
