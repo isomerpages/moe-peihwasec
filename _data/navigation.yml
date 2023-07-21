@@ -3,6 +3,8 @@ links:
   - title: We Are Pei Hwa
     url: /about-us/logo-motto-and-school-song/
     sublinks:
+      - title: Our Story
+        url: /we-are-pei-hwa/our-story/
       - title: Logo, Motto and School Song
         url: /we-are-pei-hwa/logo-motto-and-school-song/
       - title: Vision, Mission and Values
@@ -11,8 +13,6 @@ links:
         url: /we-are-pei-hwa/staff-contact-info/
       - title: Corporate Videos/Video Gallery
         url: /we-are-pei-hwa/videos/
-      - title: Our Story
-        url: /permalink
   - title: Learning @ Pei Hwa
     url: /ccas/
     sublinks:
