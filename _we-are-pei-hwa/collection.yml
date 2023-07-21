@@ -2,5 +2,4 @@ collections:
   we-are-pei-hwa:
     output: true
     order:
-      - Our Story.md
       - Our Vision, Mission and Values.md
