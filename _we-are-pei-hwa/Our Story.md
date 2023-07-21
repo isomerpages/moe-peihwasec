@@ -5,7 +5,6 @@ description: ""
 ---
 <div style="margin-top:30px; width:100%; padding: 40px; display: flex; align-items: center;" class="box">&nbsp;
 <div style="position: relative; width: 300px; height: 300px; margin-right:40px;" class="container"> 
-	<img class="image" alt="Image" style="max-width: 115px; margin-left: 180px;border-radius: 10px;position: absolute; bottom: 0; left: 0;" src="https://raw.githubusercontent.com/isomerpages/moe-peihwasec/staging/images/We%20Are%20Pei%20Hwa/peihwa01.png">&nbsp;
 	<img class="image" alt="Image" style="max-width: 250px; margin-right: 40px;border-radius: 10px" src="https://raw.githubusercontent.com/isomerpages/moe-peihwasec/staging/images/We%20Are%20Pei%20Hwa/peihwa01.png">&nbsp;
 	</div>
 <div style="flex: 1;" class="content">&nbsp;
