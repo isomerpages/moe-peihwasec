@@ -1,5 +1,4 @@
 collections:
   we-are-pei-hwa:
     output: true
-    order:
-      - Our Vision, Mission and Values.md
+    order: []
