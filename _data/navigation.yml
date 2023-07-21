@@ -56,15 +56,15 @@ links:
         url: /sga/
       - title: Special Education Needs
         url: /programmes/special-education-needs/
-  - title: Our Partners
+  - title: Pei Hwa Together
     url: /our-partners/parents-support-group/
     sublinks:
+      - title: School Advisory Committee
+        url: /our-partners/school-advisory-committee/
       - title: Parents Support Group
         url: /our-partners/parents-support-group/
       - title: Pei Hwa Alumni
         url: /our-partners/pei-hwa-alumni/
-      - title: School Advisory Committee
-        url: /our-partners/school-advisory-committee/
   - title: Links
     url: /links/links-for-teachers/
     sublinks:
