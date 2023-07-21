@@ -1,6 +1,6 @@
 logo: /images/cropped-school-logo-new.png
 links:
-  - title: About Us
+  - title: We Are Pei Hwa
     url: /about-us/logo-motto-and-school-song/
     sublinks:
       - title: Logo, Motto and School Song
@@ -11,20 +11,13 @@ links:
         url: /about-us/staff-contact-info/
       - title: Assessment and Homework Policy
         url: /assessment-and-homework-policy/
-      - title: Departments
-        url: /about-us/departments/english-language-literature/
       - title: Corporate Videos/Video Gallery
         url: /news-media/videos/
-  - title: Achievements
-    url: /news-media/pride-of-pei-hwa/
-    sublinks:
-      - title: Pride of Pei Hwa
-        url: /news-media/pride-of-pei-hwa/
-      - title: Student Achievements
-        url: /student-achievements/
-  - title: CCAS
+  - title: Learning @ Pei Hwa
     url: /ccas/
     sublinks:
+      - title: Instructional Programmes
+        url: /about-us/departments/english-language-literature/
       - title: Clubs & Societies
         url: /ccas/clubs-societies/infocomm-club/
       - title: Sports & Games
@@ -33,7 +26,7 @@ links:
         url: /ccas/performing-arts/dance/
       - title: Uniformed Groups
         url: /ccas/uniformed-groups/ncc-land/
-  - title: Programmes
+  - title: Uniquely Pei Hwa
     url: /innovation-talent-development-programme/
     sublinks:
       - title: Innovation & Talent Developmen
@@ -56,6 +49,13 @@ links:
         url: /sga/
       - title: Special Education Needs
         url: /programmes/special-education-needs/
+  - title: Pride of Pei Hwa
+    url: /news-media/pride-of-pei-hwa/
+    sublinks:
+      - title: Student
+        url: /student-achievements/
+      - title: Graduates
+        url: /news-media/pride-of-pei-hwa/
   - title: Pei Hwa Together
     url: /our-partners/parents-support-group/
     sublinks:
