@@ -69,7 +69,7 @@ Inspiring every Pei Hwa-ian with the zest to learn, the dare to innovate and the
 		<p style="font-size:14.5px; line-height:1.5 ;margin-top:5px; font-family:sans-serif;font-style: italic;font-weight: bold;color:#F8BF58;">Nurturing Talents (meaning of the word ‘Pei Hwa’ in Chinese)</p> 
 	</div>
 		<div style="flex: 1;" class="column"> 
-		<h6 style="margin: 0;color:white">Our School Logo</h6> 
+		<h6 style="font-weight: bold;margin: 0;color:white">Our School Logo</h6> 
 <img class="image" alt="Image" style="max-width: 50%" src="https://raw.githubusercontent.com/isomerpages/moe-peihwasec/staging/images/We%20Are%20Pei%20Hwa/school%20logo%20.png">
 		<p style="font-size:14.5px; line-height:1.5 ;margin-top:5px; font-family:sans-serif;font-style: italic;font-weight: bold;color:white;">The logo is formed by the Chinese characters “Pei” and “Hwa” which means “Nurturing Talents”. Central to the logo is the figure representing a resilient Pei Hwa pupil who is happy and confident even as he leaps over each obstacle. He is upright (as shown by the “li” character at the top of the figure’s head) and grounded (as shown by the “tu” character) in values. His education in Pei Hwa has enabled him to embrace the world of knowledge with open arms and to push beyond current boundaries.</p> 
 	</div>
