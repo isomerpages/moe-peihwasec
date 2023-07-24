@@ -3,4 +3,4 @@ collections:
     output: true
     order:
       - Graduates.md
-      - Student Achievements.md
+      - Student.md
