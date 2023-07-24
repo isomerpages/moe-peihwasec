@@ -2,5 +2,5 @@ collections:
   pride-of-pei-hwa:
     output: true
     order:
-      - Student.md
+      - Students.md
       - Graduates.md
