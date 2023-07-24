@@ -3,17 +3,17 @@ collections:
     output: true
     order:
       - Instructional Programmes/.keep
-      - Instructional Programmes/Character and Citizenship Education.md
-      - Instructional Programmes/Student Management.md
-      - Instructional Programmes/Infocomm Technology.md
-      - Instructional Programmes/Physical Education.md
-      - Instructional Programmes/Craft & Technology.md
-      - Instructional Programmes/Humanities.md
-      - Instructional Programmes/POA & EBS.md
-      - Instructional Programmes/Mother Tongue.md
-      - Instructional Programmes/Science.md
-      - Instructional Programmes/Mathematics.md
       - Instructional Programmes/English and English Literature.md
+      - Instructional Programmes/Mathematics.md
+      - Instructional Programmes/Science.md
+      - Instructional Programmes/Mother Tongue.md
+      - Instructional Programmes/POA & EBS.md
+      - Instructional Programmes/Humanities.md
+      - Instructional Programmes/Craft & Technology.md
+      - Instructional Programmes/Physical Education.md
+      - Instructional Programmes/Infocomm Technology.md
+      - Instructional Programmes/Student Management.md
+      - Instructional Programmes/Character and Citizenship Education.md
       - Assessment and Homework Policy.md
       - Sexuality Education.md
       - CCAs.md
