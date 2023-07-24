@@ -2,6 +2,7 @@ collections:
   learning-at-pei-hwa:
     output: true
     order:
+      - Instructional Programmes/.keep
       - Sexuality Education.md
       - ICT Enrichment.md
       - Student Leadership.md
