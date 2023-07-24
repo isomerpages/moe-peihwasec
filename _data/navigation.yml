@@ -70,10 +70,10 @@ links:
   - title: Links
     url: /links/links-for-teachers/
     sublinks:
-      - title: Links For Teachers
-        url: /links/links-for-teachers/
       - title: Links for Students
         url: /links/links-for-students/
+      - title: Links For Teachers
+        url: /links/links-for-teachers/
       - title: Links for Parents
         url: /links/links-for-parents/
       - title: School Safety
