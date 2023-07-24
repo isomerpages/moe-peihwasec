@@ -2,6 +2,7 @@ collections:
   learning-at-pei-hwa:
     output: true
     order:
+      - Instructional Programmes/Student Management.md
       - Instructional Programmes/Infocomm Technology.md
       - Instructional Programmes/Physical Education.md
       - Instructional Programmes/Craft & Technology.md
