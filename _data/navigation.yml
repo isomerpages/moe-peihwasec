@@ -52,21 +52,21 @@ links:
       - title: Special Education Needs
         url: /uniquely-pei-hwa/special-education-needs/
   - title: Pride of Pei Hwa
-    url: /news-media/pride-of-pei-hwa/
+    url: /pride-of-pei-hwa/students/
     sublinks:
       - title: Student
-        url: /student-achievements/
+        url: /pride-of-pei-hwa/students/
       - title: Graduates
-        url: /news-media/pride-of-pei-hwa/
+        url: /pride-of-pei-hwa/graduates/
   - title: Pei Hwa Together
-    url: /our-partners/parents-support-group/
+    url: /pei-hwa-together/parents-support-group/
     sublinks:
-      - title: School Advisory Committee
-        url: /our-partners/school-advisory-committee/
       - title: Parents Support Group
-        url: /our-partners/parents-support-group/
+        url: /pei-hwa-together/parents-support-group/
       - title: Pei Hwa Alumni
-        url: /our-partners/pei-hwa-alumni/
+        url: /pei-hwa-together/pei-hwa-alumni/
+      - title: School Advisory Committee
+        url: /pei-hwa-together/school-advisory-committee/
   - title: Links
     url: /links/links-for-teachers/
     sublinks:
