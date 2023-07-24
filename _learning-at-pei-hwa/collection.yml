@@ -2,6 +2,7 @@ collections:
   learning-at-pei-hwa:
     output: true
     order:
+      - Instructional Programmes/Science.md
       - Instructional Programmes/Mathematics.md
       - Instructional Programmes/English and English Literature.md
       - Instructional Programmes/.keep
