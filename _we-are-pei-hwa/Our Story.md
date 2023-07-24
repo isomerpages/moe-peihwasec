@@ -23,3 +23,17 @@ The Pei Hwa Foundation was formed after the school closure by its alumni who wis
 	<img class="image" alt="Image" style="max-width: 250px; margin-right: 30px;border-radius: 10px" src="https://raw.githubusercontent.com/isomerpages/moe-peihwasec/staging/images/We%20Are%20Pei%20Hwa/peihwa02.png">&nbsp;
 	</div>
 </div>
+
+<div style="margin-top:30px;padding:40px;display: flex; flex: 1; gap: 50px;background-color:#0B6623;" class="container"> 
+	<div style="flex: 1;" class="column"> 
+		<h6 style="font-weight: bold;margin: 0;color:#F8BF58;">Our Vision</h6> 
+		<p style="font-size:14.5px; line-height:1.5 ;margin-top:5px; font-family:sans-serif;font-style: italic;font-weight: bold;color:white;"><strong style="font-size:14.5px; line-height:2;margin-top:15px; font-family:sans-serif;color:white;">F</strong>uture - <strong style="font-size:14.5px; line-height:2;margin-top:15px; font-family: font-family:sans-serif;color:white;">R</strong>eady&nbsp;<strong style="font-size:14.5px; line-height:2;margin-top:15px; font-family:sans-serif;color:white;">L</strong>earners <br><br>
+<strong style="font-size:14.5px; line-height:2;margin-top:15px; font-family:sans-serif;color:white;">F</strong>orward - <strong style="font-size:14.5px; line-height:2;margin-top:15px; font-family:sans-serif;color:white;">L</strong>ooking <strong style="font-size:14.5px; line-height:2;margin-top:15px; font-family:sans-serif;color:white;">L</strong>eaders</p> 
+	</div>
+		<div style="flex: 1;" class="column"> 
+		<h6 style="margin: 0;color:#F8BF58;">Our Mission</h6> 
+		<p style="font-size:14.5px; line-height:1.5 ;margin-top:5px; font-family:sans-serif;font-style: italic;font-weight: bold;color: white;">Inspiring every Pei Hwa-ian with the zest to learn, the dare to innovate and the heart to lead and serve<br><br>
+Inspiring every Pei Hwa-ian with the zest to learn, the dare to innovate and the heart to lead and serve.
+</p> 
+	</div> 
+</div>
