@@ -2,6 +2,7 @@ collections:
   learning-at-pei-hwa:
     output: true
     order:
+      - Instructional Programmes/Humanities.md
       - Instructional Programmes/POA & EBS.md
       - Instructional Programmes/Mother Tongue.md
       - Instructional Programmes/Science.md
