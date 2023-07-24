@@ -2,6 +2,7 @@ collections:
   learning-at-pei-hwa:
     output: true
     order:
+      - Instructional Programmes/Character and Citizenship Education.md
       - Instructional Programmes/Student Management.md
       - Instructional Programmes/Infocomm Technology.md
       - Instructional Programmes/Physical Education.md
