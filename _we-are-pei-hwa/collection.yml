@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Our Story.md
-      - Logo, Motto and School Song.md
       - Vision, Mission and Values.md
       - Staff Information.md
       - Corporate Videos & Video Gallery.md
