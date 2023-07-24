@@ -80,9 +80,7 @@ Inspiring every Pei Hwa-ian with the zest to learn, the dare to innovate and the
 <div style="margin-top:60px;display: flex; flex: 1; gap: 50px;" class="container"> 
 	<div style="flex: 1;margin-top:170px;" class="column"> 
 <div style="position: relative;width: 80%;height: 0px;" class="container">&nbsp;
-<img alt="Image 1" style="position: absolute;bottom: 0;left: 0;" src="/images/AlbumStudCounsellor3.jpeg">&nbsp;
-
-<img alt="Image 2" style="position: absolute;bottom:-20px;left: 60px;width:70%" src="/images/AlbumStudCounsellor4.jpeg">&nbsp;
+<img alt="Image 1" style="position: absolute;bottom: 0;left: 0;" src="https://raw.githubusercontent.com/isomerpages/moe-peihwasec/staging/images/We%20Are%20Pei%20Hwa/school.png">&nbsp;
 
 </div>
 
