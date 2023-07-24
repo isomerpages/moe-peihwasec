@@ -2,6 +2,7 @@ collections:
   learning-at-pei-hwa:
     output: true
     order:
+      - Instructional Programmes/.keep
       - Instructional Programmes/Character and Citizenship Education.md
       - Instructional Programmes/Student Management.md
       - Instructional Programmes/Infocomm Technology.md
@@ -13,11 +14,8 @@ collections:
       - Instructional Programmes/Science.md
       - Instructional Programmes/Mathematics.md
       - Instructional Programmes/English and English Literature.md
-      - Instructional Programmes/.keep
-      - Sexuality Education.md
-      - ICT Enrichment.md
-      - Student Leadership.md
       - Assessment and Homework Policy.md
+      - Sexuality Education.md
       - CCAs.md
       - Clubs & Societies/.keep
       - Clubs & Societies/Infocomm Club.md
@@ -44,3 +42,5 @@ collections:
       - Uniformed Groups/National Cadet Corps (Land).md
       - Uniformed Groups/National Civil Defence Cadet Corps.md
       - Uniformed Groups/National Police Cadet Corps.md
+      - Student Leadership.md
+      - ICT Enrichment.md
