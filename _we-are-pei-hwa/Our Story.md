@@ -70,29 +70,31 @@ Inspiring every Pei Hwa-ian with the zest to learn, the dare to innovate and the
 
 <div style="margin-top:60px; width:100%; padding: 40px; display: flex; align-items: center;" class="box">&nbsp;
 <div style="position: relative; width: 300px; height: 300px; margin-right:40px;" class="container"> 
-	<img class="image" alt="Image" style="max-width: 50% margin-right: 40px;border-radius: 10px" src="https://raw.githubusercontent.com/isomerpages/moe-peihwasec/staging/images/We%20Are%20Pei%20Hwa/school%20logo%20.png">&nbsp;
+	<img class="image" alt="Image" style="max-width: 50%; margin-right: 40px;border-radius: 10px" src="https://raw.githubusercontent.com/isomerpages/moe-peihwasec/staging/images/We%20Are%20Pei%20Hwa/school%20logo%20.png">&nbsp;
 	</div>
 <div style="flex: 1;" class="content">&nbsp;
-	<h6 style="margin-top:-90px;color:#0B6623;"><strong style="color:#0B6623;font-weight:bold;"><strong style="color:#0B6623;font-weight:bold;">Our School Logo</strong></strong></h6><strong style="color:#0B6623;font-weight:bold;">&nbsp;
-<p style="margin: -30px 0;font-size:14.5px; line-height:1.5;font-family:sans-serif;color:black;">The logo is formed by the Chinese characters “Pei” and “Hwa” which means “Nurturing Talents”. Central to the logo is the figure representing a resilient Pei Hwa pupil who is happy and confident even as he leaps over each obstacle. He is upright (as shown by the “li” character at the top of the figure’s head) and grounded (as shown by the “tu” character) in values. His education in Pei Hwa has enabled him to embrace the world of knowledge with open arms and to push beyond current boundaries.</p>
-</strong></div><strong style="color:#0B6623;font-weight:bold;">
-</strong></div><strong style="color:#0B6623;font-weight:bold;">
-
+	<h6 style="margin-top:-90px;color:#0B6623;"><strong style="color:#0B6623;font-weight:bold;">Our School Logo</strong></h6>
+<p style="margin: 10px 0;font-size:14.5px; line-height:1.5;font-family:sans-serif;color:black;">The logo is formed by the Chinese characters “Pei” and “Hwa” which means “Nurturing Talents”. Central to the logo is the figure representing a resilient Pei Hwa pupil who is happy and confident even as he leaps over each obstacle. He is upright (as shown by the “li” character at the top of the figure’s head) and grounded (as shown by the “tu” character) in values. His education in Pei Hwa has enabled him to embrace the world of knowledge with open arms and to push beyond current boundaries.</p>
+</div>
+</div>
+	
 <div style="margin-top:30px; width:100%; padding: 40px; display: flex; align-items: center;" class="box">&nbsp;
+
 <div style="flex: 1;" class="content">&nbsp;
-<h6 style="margin-top:-80px;color:#0B6623;"><strong style="color:#0B6623;font-weight:bold;">Our School Song</strong></h6>&nbsp;
+<h6 style="margin-top:-100px;color:#0B6623;"><strong style="color:#0B6623;font-weight:bold;">Our School Song</strong></h6>&nbsp;
+
+
 <div style="display: flex;" class="two-column">&nbsp;
 
 <div style="flex: 1; padding: 0 10px;" class="column">
-
-<p style="margin: 10px 0;font-size:14.5px; line-height:1.5;font-family:sans-serif;black;">In Pei Hwa Secondary School<br>We are the pride of the community<br>To lead and serve with integrity<br>We grow in our resiliency</p>
-
-<p style="margin: 10px 0;font-size:14.5px; line-height:1.5;font-family:sans-serif;color:black;">Though there be many challenges<br>Our passion remains strong<br>We learn and work diligently<br>To be the best that we can be</p>
+<p style="margin: 0;font-size:14.5px; line-height:1.5;font-family:sans-serif;black;">In Pei Hwa Secondary School<br>We are the pride of the community<br>To lead and serve with integrity<br>We grow in our resiliency</p></div>
+	
+<div style="flex: 1; padding: 0 10px;" class="column">
+<p style="margin: 0;font-size:14.5px; line-height:1.5;font-family:sans-serif;color:black;">Though there be many challenges<br>Our passion remains strong<br>We learn and work diligently<br>To be the best that we can be</p>
 </div>
 
 <div style="flex: 1; padding: 0 10px;" class="column">
-
-<p style="margin: 10px 0;font-size:14.5px; line-height:1.5;font-family:sans-serif;color:black;">Here in Pei Hwa  
+<p style="margin: 0;font-size:14.5px; line-height:1.5;font-family:sans-serif;color:black;">Here in Pei Hwa  
 Our talents are nurtured  
 Here in Pei Hwa  
 Where we share in harmony  
@@ -108,7 +110,3 @@ Lyrics by Mr Daniel Beng, Miss Thien Li Chin and Mr Tan Yap Kin<br>
 	January 2007</strong></p>
 	</div> 
 </div>
-
-<div style="position: relative; width: 300px; height: 300px; margin-left:40px;" class="container"> 
-	<img class="image" alt="Image" style="max-width: 250px; margin-right: 30px;border-radius: 10px" src="https://raw.githubusercontent.com/isomerpages/moe-peihwasec/staging/images/We%20Are%20Pei%20Hwa/school.png">&nbsp;
-	</div></strong>
