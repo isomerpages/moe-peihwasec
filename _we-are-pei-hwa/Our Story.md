@@ -80,15 +80,13 @@ Inspiring every Pei Hwa-ian with the zest to learn, the dare to innovate and the
 
 <div style="margin-top:30px; width:100%; padding: 40px; display: flex; align-items: center;" class="box">&nbsp;
 <div style="flex: 1;" class="content">&nbsp;
-<h6 style="margin-top:-90px;color:#0B6623;">Our School Song</h6>&nbsp;
+<h6 style="margin-top:-80px;color:#0B6623;"><strong style="color:#0B6623;font-weight:bold;">Our School Song</strong></h6>&nbsp;
 <div style="display: flex;" class="two-column">&nbsp;
 
 <div style="flex: 1; padding: 0 10px;" class="column">
 
-<p style="margin: 10px 0;font-size:14.5px; line-height:1.5;font-family:sans-serif;black;">In Pei Hwa Secondary School<br>We are the pride of the community<br>To lead and serve with integrity<br>We grow in our resiliency</p>&nbsp;
-</div>
-	
-<div style="flex: 1; padding: 0 10px;" class="column">
+<p style="margin: 10px 0;font-size:14.5px; line-height:1.5;font-family:sans-serif;black;">In Pei Hwa Secondary School<br>We are the pride of the community<br>To lead and serve with integrity<br>We grow in our resiliency</p>
+
 <p style="margin: 10px 0;font-size:14.5px; line-height:1.5;font-family:sans-serif;color:black;">Though there be many challenges<br>Our passion remains strong<br>We learn and work diligently<br>To be the best that we can be</p>
 </div>
 
