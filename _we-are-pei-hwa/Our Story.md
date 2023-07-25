@@ -24,14 +24,15 @@ The Pei Hwa Foundation was formed after the school closure by its alumni who wis
 	</div>
 </div>
 
-<div style="margin-top:30px;padding:50px;display: flex; flex: 1; gap: 50px;background-color:#0B6623;" class="container"> 
+<div style="padding:50px;display: flex; flex: 1; gap: 50px;background-color:#0B6623;" class="container"> 
 	<div style="flex: 1;" class="column"> 
 		<h6 style="margin: 0;color:#F8BF58;">Our Mission</h6> 
 		<p style="font-size:14.5px; line-height:1.5 ;margin-top:5px; font-family:sans-serif;font-style: italic;font-weight: bold;color: white;">Inspiring every Pei Hwa-ian with the zest to learn, the dare to innovate and the heart to lead and serve<br><br>
 Inspiring every Pei Hwa-ian with the zest to learn, the dare to innovate and the heart to lead and serve.
 </p> 
-	</div>
-		<div style="flex: 1;" class="column"> 
+</div>
+
+<div style="flex: 1;" class="column"> 
 		<h6 style="margin: 0;color:#F8BF58;">Our Values</h6> 
 		<p style="font-size:14.5px; line-height:1.5 ;margin-top:5px; font-family:sans-serif;font-style: italic;font-weight: bold;color:white;"><strong style="font-size:14.5px; line-height:2;margin-top:15px; font-family:sans-serif;color:white;">Passion </strong> to Learn 
 <br><strong style="font-size:14.5px; line-height:2;margin-top:15px; font-family:sans-serif;color:white;">Resilience</strong>in Adversity
@@ -41,7 +42,7 @@ Inspiring every Pei Hwa-ian with the zest to learn, the dare to innovate and the
 	</p></div> 
 </div>
 
-<div style="padding:40px;" class="container"> 
+<div style="padding:50px;" class="container"> 
 		<h6 style="font-weight: bold;margin: 0;color:#0B6623;text-align:center;">Our Vision</h6> 
 		<p style="font-size:14.5px; line-height:1.5 ;margin-top:5px; font-family:sans-serif;font-style: italic;color:black;"><strong style="font-size:14.5px; line-height:2;margin-top:15px; font-family:sans-serif;color:black;">F</strong>uture - <strong style="font-size:14.5px; line-height:2;margin-top:15px; font-family: font-family:sans-serif;color:black;">R</strong>eady&nbsp;<strong style="font-size:14.5px; line-height:2;margin-top:15px; font-family:sans-serif;color:black;">L</strong>earners <br>
 <strong style="font-size:14.5px; line-height:2;margin-top:15px; font-family:sans-serif;color:black;">F</strong>orward - <strong style="font-size:14.5px; line-height:2;margin-top:15px; font-family:sans-serif;color:black;">L</strong>ooking <strong style="font-size:14.5px; line-height:2;margin-top:15px; font-family:sans-serif;color:black;">L</strong>eaders</p> 
@@ -62,7 +63,7 @@ Inspiring every Pei Hwa-ian with the zest to learn, the dare to innovate and the
 		
 </div>
 
-<div style="background-color:#0B6623; padding:40px;">
+<div style="background-color:#0B6623; padding:50px;">
 		<h6 style="font-weight: bold;margin: 0;color:white">Our motto</h6> 
 		<p style="font-size:14.5px; line-height:1.5 ;margin-top:5px; font-family:sans-serif;font-style: italic;font-weight: bold;color:#F8BF58;">Nurturing Talents (meaning of the word ‘Pei Hwa’ in Chinese)</p> 
 </div>
