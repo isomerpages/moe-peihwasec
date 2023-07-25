@@ -24,7 +24,7 @@ The Pei Hwa Foundation was formed after the school closure by its alumni who wis
 	</div>
 </div>
 
-<div style="margin-top:30px;padding:40px;display: flex; flex: 1; gap: 50px;background-color:#0B6623;" class="container"> 
+<div style="margin-top:30px;padding:50px;display: flex; flex: 1; gap: 50px;background-color:#0B6623;" class="container"> 
 	<div style="flex: 1;" class="column"> 
 		<h6 style="margin: 0;color:#F8BF58;">Our Mission</h6> 
 		<p style="font-size:14.5px; line-height:1.5 ;margin-top:5px; font-family:sans-serif;font-style: italic;font-weight: bold;color: white;">Inspiring every Pei Hwa-ian with the zest to learn, the dare to innovate and the heart to lead and serve<br><br>
@@ -66,4 +66,3 @@ Inspiring every Pei Hwa-ian with the zest to learn, the dare to innovate and the
 		<h6 style="font-weight: bold;margin: 0;color:white">Our motto</h6> 
 		<p style="font-size:14.5px; line-height:1.5 ;margin-top:5px; font-family:sans-serif;font-style: italic;font-weight: bold;color:#F8BF58;">Nurturing Talents (meaning of the word ‘Pei Hwa’ in Chinese)</p> 
 </div>
-
