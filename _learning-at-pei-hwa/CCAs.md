@@ -19,14 +19,14 @@ description: ""
 	<div style="flex: 1; background-color: #F8BF58;; margin: 10px; padding: 25px; text-align: center; width: 225px; height: auto;padding-bottom:-10px;" class="box"> 
 		<p style="font-size:14.5px; line-height:1.5 ;margin-top:5px; font-family:sans-serif;text-align:center;"><strong style="font-size:14.5px; line-height:1.5 ;margin-top:5px; font-family:sans-serif;text-align:center;">Sports &amp; Games</strong></p>
 				<ul style="list-style-type: none;margin:0;text-align:left;padding:0;">
-				<li style="font-size:14.5px; line-height:1.5 ;font-family:sans-serif;text-align:center;text-align:left;">Badminton</li>
-				<li style="font-size:14.5px; line-height:1.5 ;font-family:sans-serif;text-align:left;;">Basketball</li>
-			<li style="font-size:14.5px; line-height:1.5 ;font-family:sans-serif;text-align:left;;">Floorball</li>
-			<li style="font-size:14.5px; line-height:1.5 ;font-family:sans-serif;text-align:left;;">Football</li>
-			<li style="font-size:14.5px; line-height:1.5 ;font-family:sans-serif;text-align:left;;">Outdoor Activities Club (ODAC)</li>
-								<li style="font-size:14.5px; line-height:1.5 ;font-family:sans-serif;text-align:left;;">Table Tennis</li>
-			<li style="font-size:14.5px; line-height:1.5 ;font-family:sans-serif;text-align:left;;">Taekwondo</li>
-			<li style="font-size:14.5px; line-height:1.5 ;font-family:sans-serif;text-align:left;;">Wushu</li>
+				<li style="font-size:14.5px; line-height:1.5;"><a href="https://go.gov.sg/discoverphss" style="font-size:14.5px;color:black;line-height:1.5;font-family:sans-serif;text-align:center;text-align:left;text-decoration: none;">Badminton</a></li><a href="https://go.gov.sg/discoverphss" style="font-size:14.5px;color:black;line-height:1.5;font-family:sans-serif;text-align:center;text-align:left;text-decoration: none;">
+				</a><li style="font-size:14.5px; line-height:1.5;"><a href="https://go.gov.sg/discoverphss" style="font-size:14.5px;color:black;line-height:1.5;font-family:sans-serif;text-align:center;text-align:left;text-decoration: none;"></a><a href="https://go.gov.sg/discoverphss" style="font-size:14.5px;color:black;line-height:1.5;font-family:sans-serif;text-align:center;text-align:left;text-decoration: none;">Basketball</a></li>
+			<li style="font-size:14.5px; line-height:1.5;"><a href="https://go.gov.sg/discoverphss" style="font-size:14.5px;color:black;line-height:1.5;font-family:sans-serif;text-align:center;text-align:left;text-decoration: none;">Floorball</a></li>
+			<li style="font-size:14.5px; line-height:1.5;"><a href="https://go.gov.sg/discoverphss" style="font-size:14.5px;color:black;line-height:1.5;font-family:sans-serif;text-align:center;text-align:left;text-decoration: none;">Football</a></li>
+			<li style="font-size:14.5px; line-height:1.5;"><a href="https://go.gov.sg/discoverphss" style="font-size:14.5px;color:black;line-height:1.5;font-family:sans-serif;text-align:center;text-align:left;text-decoration: none;">Outdoor Activities Club (ODAC)</a></li>
+							<li style="font-size:14.5px; line-height:1.5;"><a href="https://go.gov.sg/discoverphss" style="font-size:14.5px;color:black;line-height:1.5;font-family:sans-serif;text-align:center;text-align:left;text-decoration: none;">Table Tennis</a></li>
+			<li style="font-size:14.5px; line-height:1.5;"><a href="https://go.gov.sg/discoverphss" style="font-size:14.5px;color:black;line-height:1.5;font-family:sans-serif;text-align:center;text-align:left;text-decoration: none;">Taekwondo</a></li>
+			<li style="font-size:14.5px; line-height:1.5;"><a href="https://go.gov.sg/discoverphss" style="font-size:14.5px;color:black;line-height:1.5;font-family:sans-serif;text-align:center;text-align:left;text-decoration: none;">Wushu</a></li>
 		</ul>
 	</div> 
 	<div style="flex: 1; background-color: #F8BF58;; margin: 10px; padding: 25px; text-align: center; width: 225px; height: auto;padding-bottom:-10px;" class="box"> 
@@ -34,9 +34,9 @@ description: ""
 			<strong style="font-size:14.5px; line-height:1.5 ;margin-top:5px; font-family:sans-serif;text-align:left;">Uniformed Groups</strong>
 			</p>
 		<ul style="list-style-type: none;margin:0;text-align:left;padding:0;">
-				<li style="font-size:14.5px; line-height:1.5 ;font-family:sans-serif;text-align:center;text-align:left;">National Cadet Corps (land)</li>
-				<li style="font-size:14.5px; line-height:1.5 ;font-family:sans-serif;text-align:left;;">National Civil Defence Cadet Corps</li>
-				<li style="font-size:14.5px; line-height:1.5 ;font-family:sans-serif;text-align:left;">National Police Cadet Corps</li>
+				<li style="font-size:14.5px; line-height:1.5;"><a href="https://go.gov.sg/discoverphss" style="font-size:14.5px;color:black;line-height:1.5;font-family:sans-serif;text-align:center;text-align:left;text-decoration: none;">National Cadet Corps (land)</a></li>
+				<li style="font-size:14.5px; line-height:1.5;"><a href="https://go.gov.sg/discoverphss" style="font-size:14.5px;color:black;line-height:1.5;font-family:sans-serif;text-align:center;text-align:left;text-decoration: none;">National Civil Defence Cadet Corps</a></li>
+				<li style="font-size:14.5px; line-height:1.5;"><a href="https://go.gov.sg/discoverphss" style="font-size:14.5px;color:black;line-height:1.5;font-family:sans-serif;text-align:center;text-align:left;text-decoration: none;">National Police Cadet Corps</a></li>
 		</ul>
 	</div> 
 	<div style="flex: 1; background-color: #F8BF58;; margin: 10px; padding: 25px; text-align: center; width: 225px; height: auto;padding-bottom:-10px;" class="box">  
@@ -44,11 +44,11 @@ description: ""
 			<strong style="font-size:14.5px; line-height:1.5 ;margin-top:5px; font-family:sans-serif;text-align:center;">Performing Arts</strong>
 			</p>	
 		<ul style="list-style-type: none;margin:0;text-align:left;padding:0;">
-				<li style="font-size:14.5px; line-height:1.5 ;font-family:sans-serif;text-align:center;text-align:left;">Dance Society</li>
-				<li style="font-size:14.5px; line-height:1.5 ;font-family:sans-serif;text-align:left;;">Drama Society</li>
-			<li style="font-size:14.5px; line-height:1.5 ;font-family:sans-serif;text-align:left;;">Guzheng Ensemble</li>
-			<li style="font-size:14.5px; line-height:1.5 ;font-family:sans-serif;text-align:left;;">Pei Hwa Choir</li>
-			<li style="font-size:14.5px; line-height:1.5 ;font-family:sans-serif;text-align:left;;">Symphonic Band</li>
+				<li style="font-size:14.5px; line-height:1.5;"><a href="https://go.gov.sg/discoverphss" style="font-size:14.5px;color:black;line-height:1.5;font-family:sans-serif;text-align:center;text-align:left;text-decoration: none;">Dance Society</a></li>
+				<li style="font-size:14.5px; line-height:1.5;"><a href="https://go.gov.sg/discoverphss" style="font-size:14.5px;color:black;line-height:1.5;font-family:sans-serif;text-align:center;text-align:left;text-decoration: none;">Drama Society</a></li>
+			<li style="font-size:14.5px; line-height:1.5;"><a href="https://go.gov.sg/discoverphss" style="font-size:14.5px;color:black;line-height:1.5;font-family:sans-serif;text-align:center;text-align:left;text-decoration: none;">Guzheng Ensemble</a></li>
+			<li style="font-size:14.5px; line-height:1.5;"><a href="https://go.gov.sg/discoverphss" style="font-size:14.5px;color:black;line-height:1.5;font-family:sans-serif;text-align:center;text-align:left;text-decoration: none;">Pei Hwa Choir</a></li>
+			<li style="font-size:14.5px; line-height:1.5;"><a href="https://go.gov.sg/discoverphss" style="font-size:14.5px;color:black;line-height:1.5;font-family:sans-serif;text-align:center;text-align:left;text-decoration: none;">Symphonic Band</a></li>
 		</ul>
 	</div> 
 </div>
