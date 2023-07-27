@@ -68,9 +68,9 @@ Inspiring every Pei Hwa-ian with the zest to learn, the dare to innovate and the
 		<p style="font-size:14.5px; line-height:1.5 ;margin-top:5px; font-family:sans-serif;font-style: italic;font-weight: bold;color:#F8BF58;">Nurturing Talents (meaning of the word ‘Pei Hwa’ in Chinese)</p> 
 </div>
 
-<div style="margin-top:60px; width:100%; padding: 40px; display: flex; align-items: center;" class="box">&nbsp;
+<div style="margin-top:30px; width:100%; padding: 40px; display: flex; align-items: center;" class="box">&nbsp;
 <div style="position: relative; width: 300px; height: 300px; margin-right:40px;" class="container"> 
-	<img class="image" alt="Image" style="max-width: 50%; margin-right: 40px;border-radius: 10px" src="https://raw.githubusercontent.com/isomerpages/moe-peihwasec/staging/images/We%20Are%20Pei%20Hwa/school%20logo%20.png">&nbsp;
+	<img class="image" alt="Image" style="max-width: 60%; margin-right: 40px;border-radius: 10px" src="https://raw.githubusercontent.com/isomerpages/moe-peihwasec/staging/images/We%20Are%20Pei%20Hwa/school%20logo%20.png">&nbsp;
 	</div>
 <div style="flex: 1;" class="content">&nbsp;
 	<h6 style="margin-top:-90px;color:#0B6623;"><strong style="color:#0B6623;font-weight:bold;">Our School Logo</strong></h6>
