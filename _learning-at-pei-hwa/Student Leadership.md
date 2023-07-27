@@ -10,7 +10,7 @@ description: ""
 
 <p style="font-size:14.5px; line-height:2;margin-top:15px; font-family:sans-serif">Our student leadership development programme follows the STEER framework. We consider the various aspects of selecting, training, empowering, evaluating and recognizing our student leaders. </p>
 
-<p style="margin-top:25px;font-size:17px;"><strong style="font-family:sans-serif;">Student Leadership Training and Empowerment Opportunities</strong></p>
+<p style="margin-top:25px;font-size:17px;color:#0B6623;"><strong style="font-family:sans-serif;color:#0B6623;">Student Leadership Training and Empowerment Opportunities</strong></p>
 	
 <img src="https://raw.githubusercontent.com/isomerpages/moe-peihwasec/staging/images/Learning%20%40%20Pei%20Hwa/Student%20Leadership/studentleadership02.png">
 	
@@ -23,125 +23,84 @@ description: ""
 <p style="font-size:14.5px; line-height:2;margin-top:15px; font-family:sans-serif">Tier 2 student leaders include Class leaders, Peer Support Leaders and CCA Executive Committee members while Tier 3 student leaders include Student Councillors ,CCA Chairpersons and Vice-Chairpersons. For Tier 2 and 3 Student Leaders, there are general leadership development programmes, role-specific training programmes and mentorship to equip them for their leadership roles.</p>
 
 
-<p style="margin-top:25px;font-size:17px;"><strong style="font-family:sans-serif;">Leadership Opportunities in Pei Hwa</strong>
-</p>
-
 <table border="1" style="border-collapse: collapse;margin: 25px 0;font-size:14.5px;font-family: sans-serif;box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);">
-		<thead style="background-color: #009879; font-weight: bold; font-size: 14.5px;">
+		<thead style="font-weight: bold; font-size: 14.5px;">
 			<tr>
-				<td style="text-align:left;color:white;font-family:sans-serif;">Leadership Opportunities</td>
-				<td style="text-align:left;color:white;font-family:sans-serif;">Description</td>
+				<td style="text-align:left;color:white;font-family:sans-serif;"></td>
+				<td style="text-align:center;color:white;font-family:sans-serif;background-color:#ffc000;">Tier 1: <br>All Students</td>
+				<td style="text-align:center;color:white;font-family:sans-serif;background-color: #305496">Tier 2: <br>Class Leaders and CCA EXCO
+</td>
+				<td style="text-align:center;color:white;font-family:sans-serif;background-color:#008080;">Tier 3: <br>Student Council and CCA Presidents/ Captains
+</td>
 			</tr>
 </thead>
 	
 <tbody>
 <tr>
-			<td><strong style="font-family:sans-serif;">Student Council</strong></td>
-			<td style="font-family:sans-serif;margin-bottom:5px;">
-The Student Council aims to develop innovative, daring and compassionate leaders. As Tier 3 Student Leaders, the Student Council is the voice of the student body and takes the lead in school events and improving student welfare. Student Councillors are also advocates of the environment by raising awareness about environment conservation through events such as Earth Week.
-						<br><br>
-						Every year, Student Councillors are officially appointed during the Student Leaders Investiture. As role-models of the student population, Student Councillors lead by example. They are given multiple platforms to develop their leadership and event management skills through organising events such as the Teachers’ Day Celebration and Secondary 1 Orientation, as well as managing the PHun Lounge (Student Activity Center). Through reflection of their experiences, the Student Councillors are equipped with knowledge on leadership, teamwork and project management.
-</td>
-</tr>
-			
-<tr style="background-color: #f3f3f3;">
-<td><strong style="font-family:sans-serif;">CCA Leaders</strong></td>
-<td style="font-family:sans-serif;margin-bottom:5px;">
-The CCA leaders lead in the weekly CCA sessions. Through their various roles and responsibility such as managing their CCA members and completing administration work, they acquire interpersonal and public speaking skills. Students with leadership potential are chosen to serve in Sec 2 or 3.
+			<td><strong style="font-family:sans-serif;">Sec 1</strong></td>
+			<td style="font-family:sans-serif;margin-bottom:5px;background-color:#fff2cc;font-size:14.5px; line-height:1.5;"><strong style="font-family:sans-serif;font-size:14.5px;">Training focus:</strong><br>Leading self<br><br><strong style="font-family:sans-serif;font-size:14.5px;">Empowerment opportunities:
+</strong><br>Personal responsibilities at home, in class and at CCA</td>
+		<td style="font-family:sans-serif;margin-bottom:5px;background-color:#d8e2f3"><strong style="font-family:sans-serif;font-size:14.5px;">Training focus:</strong><br>Role-specific, project planning and facilitation skills
+<br><br><strong style="font-family:sans-serif;font-size:14.5px;">Empowerment opportunities:
+</strong><br>Leading class in class projects and school events as class leaders</td>
+		<td style="font-family:sans-serif;margin-bottom:5px;background-color:#e2efd9"><strong style="font-family:sans-serif;font-size:14.5px;">Training focus:</strong><br>Project planning skills
+<br><br><strong style="font-family:sans-serif;font-size:14.5px;">Empowerment opportunities:
+</strong><br>Leading school
+in some school projects as Student Councillor on probation
 </td>
 </tr>
 			
 <tr>
-<td><strong style="font-family:sans-serif;">Class Leaders</strong></td>
-<td style="font-family:sans-serif;margin-bottom:5px;">
-Class Leaders lead their classes in various class initiatives and activities, such as daily functioning of class and class bonding. Class Leaders with specific portfolios also help the teachers in the organisation of school events and program, such as creating awareness for the environment and cyber wellness.
+			<td><strong style="font-family:sans-serif;">Sec 2</strong></td>
+			<td style="font-family:sans-serif;margin-bottom:5px;background-color:#fff2cc;"><strong style="font-family:sans-serif;font-size:14.5px;">Training focus:</strong><br>Working with others<br><br><strong style="font-family:sans-serif;font-size:14.5px;">Empowerment opportunities:
+</strong><br>Groupwork in class and CCA</td>
+		<td style="font-family:sans-serif;margin-bottom:5px;background-color:#d8e2f3"><strong style="font-family:sans-serif;font-size:14.5px;">Training focus:</strong><br>Role-specific, project planning and facilitation skills<br><br><strong style="font-family:sans-serif;font-size:14.5px;">Empowerment opportunities:
+</strong><br>Leading class / CCA in class / CCA projects and school events as class leaders or CCA lower secondary EXCO
+</td>
+		<td style="font-family:sans-serif;margin-bottom:5px;background-color:#e2efd9"><strong style="font-family:sans-serif;font-size:14.5px;">Training focus:</strong><br>Project planning, communications, problem-solving skills<br><br><strong style="font-family:sans-serif;font-size:14.5px;">Empowerment opportunities:
+</strong><br>Leading school in school projects as Junior Student Councillor
+</td>
+</tr>
+			
+<tr>
+			<td><strong style="font-family:sans-serif;">Sec 3</strong></td>
+			<td style="font-family:sans-serif;margin-bottom:5px;background-color:#fff2cc;"><strong style="font-family:sans-serif;font-size:14.5px;">Training focus:</strong><br>Leading others<br><br><strong style="font-family:sans-serif;font-size:14.5px;">Empowerment opportunities:
+</strong><br>Leading small groups in class and in CCA</td>
+		<td style="font-family:sans-serif;margin-bottom:5px;background-color:#d8e2f3"><strong style="font-family:sans-serif;font-size:14.5px;">Training focus:</strong><br>Role-specific, project planning and facilitation skills
+<br><br><strong style="font-family:sans-serif;font-size:14.5px;">Empowerment opportunities:
+</strong><br>Leading class / CCA 
+in class / CCA projects and school events as class leaders or CCA EXCO, planning and leading juniors in school events as student facilitators
+</td>
+		<td style="font-family:sans-serif;margin-bottom:5px;background-color:#e2efd9"><strong style="font-family:sans-serif;font-size:14.5px;">Training focus:</strong><br>Project planning, facilitation, communications and problem-solving skills<br><br><strong style="font-family:sans-serif;font-size:14.5px;">Empowerment opportunities:
+</strong><br>Leading CCA / school
+in CCA / school projects and initiating projects for CCA / school, as CCA president / captain or Student Councillor, leading juniors in school events planning committee or student facilitators
 </td>
 </tr>
 						
-<tr style="background-color: #f3f3f3;border-bottom: 2px solid #009879;">
-				<td><strong style="font-family:sans-serif;">All students</strong></td>
-				<td style="font-family:sans-serif;margin-bottom:5px;">
-					All students will be equipped in basic self-leadership such as time management through various school programs.
-				</td>
-</tr>
-</tbody>
-	</table>
-
-<p style="margin-top:15px;font-size:17px;"><strong style="font-family:sans-serif;">Leadership Training in Pei Hwa</strong></p>
-
-<table border="1" style="border-collapse: collapse;margin: 25px 0;font-size:14.5px;font-family: sans-serif;box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);">
-<thead style="background-color: #009879; font-weight: bold;">
 <tr>
-				<td style="text-align:left;color:white;font-family:sans-serif;">Leadership Development and Training Platforms</td>
-				<td style="text-align:left;color:white;font-family:sans-serif;">Description</td>
-</tr>
-</thead>
-	
-<tbody>
-<tr>
-				<td><strong style="font-family:sans-serif;">Sec 2 Basic Student Leadership Camp</strong></td>
-				<td style="font-family:sans-serif;margin-bottom:5px;">
-					Attended by all Sec 2 Student Councillors, potential CCA leaders, and Class Leaders, this camp aims to introduce leadership to the student leaders and how they can serve in their various capacities.
-					<br>
-					The camp will be organised and executed by selected Sec 3 Student Councillors, potential CCA leaders, and Class Leaders.
-					<br>
-					<strong style="font-family:sans-serif;">In view of safety precaution for Covid-19, the camp is replaced with a Leadership Workshop for 2020.</strong>
-				</td>
-</tr>
-			
-<tr style="background-color: #f3f3f3;">
-				<td><strong style="font-family:sans-serif;">Sec 3 Advanced Student Leadership Camp</strong></td>
-				<td style="font-family:sans-serif;margin-bottom:5px;">
-					Attended by all Sec 3 Student Councillors, potential CCA leaders, and Class Leaders, this camp aims to prepare student leaders to serve in their various capacities.
-					<br>
-					In view of safety precaution for Covid-19, the camp is replaced with a Leadership Workshop for 2020.
-				</td>
-</tr>
-
-<tr>
-				<td><strong style="font-family:sans-serif;">Class Committee Training</strong></td>
-				<td style="font-family:sans-serif;margin-bottom:5px;">
-					All Class Leaders will be trained in basic competencies that will help them in their role.
-				</td>
-</tr>
-						
-<tr style="background-color: #f3f3f3;">
-				<td><strong style="font-family:sans-serif;">Secondary 1 Orientation</strong></td>
-				<td style="font-family:sans-serif;margin-bottom:5px;">
-					Orientation will be organised and executed by selected Sec 2/3 Student Councillors, potential CCA leaders, and Class Leaders.
-				</td>
+			<td><strong style="font-family:sans-serif;">Sec 4 &amp; 5</strong></td>
+			<td style="font-family:sans-serif;margin-bottom:5px;background-color:#fff2cc;"><strong style="font-family:sans-serif;font-size:14.5px;">Training focus:</strong><br>Leaving a legacy<br><br><strong style="font-family:sans-serif;font-size:14.5px;">Empowerment opportunities:
+</strong><br>Guiding and mentoring juniors in school and CCA</td>
+		<td style="font-family:sans-serif;margin-bottom:5px;background-color:#d8e2f3"><strong style="font-family:sans-serif;font-size:14.5px;">Training focus:</strong><br>Role-specific, project planning and facilitation skills<br><br><strong style="font-family:sans-serif;font-size:14.5px;">Empowerment opportunities:
+</strong><br>Leading class / CCA 
+in class / CCA projects and school events as class leaders or CCA EXCO, planning and leading juniors in school events as student facilitators
+</td>
+		<td style="font-family:sans-serif;margin-bottom:5px;background-color:#e2efd9"><strong style="font-family:sans-serif;font-size:14.5px;">Training focus:</strong><br>Project planning, facilitation, communications, problem-solving skills<br><br><strong style="font-family:sans-serif;font-size:14.5px;">Empowerment opportunities:
+</strong><br>Leading CCA / school in CCA / school projects and initiating projects for CCA / school, as CCA president / captain or Senior Student Councillor, leading juniors in school events planning committee or student facilitators</td>
 </tr>
 	
-<tr>
-				<td><strong style="font-family:sans-serif;">NYAA Bronze</strong></td>
-				<td style="font-family:sans-serif;margin-bottom:5px;">
-					All Sec 2 students can opt to take part in the program. (on sign-up basis)
-				</td>
-</tr>
-						
-<tr style="background-color: #f3f3f3;border-bottom: 2px solid #009879;">
-				<td><strong style="font-family:sans-serif;">NYAA Silver</strong></td>
-				<td style="font-family:sans-serif;margin-bottom:5px;">
-					All Sec 3 students can opt to take part in the program. (on sign-up basis)
-				</td>
-</tr>
 </tbody>
 </table>
 
-<img src="/images/sl2.jpg" style="width: 100%;margin-top:15px;">
-<p style="font-size:11px; line-height:2; margin-top:5px;text-align:center;font-family:sans-serif;">Student Councillors publicising Student Council to the Secondary 1 students during the recruitment drive.</p>
+<p style="font-size:14.5px; line-height:2;margin-top:15px; font-family:sans-serif">We have a variety of programmes aimed at developing our students as Forward-Looking Leaders. Some programmes are targeted to equip students to fulfil specific roles while some seek to equip them with leadership skills which are commonly required across the different leadership roles. 
+</p>
 
-<img src="/images/sl3.jpg" style="width: 100%;margin-top:15px;">
-<p style="font-size:11px; line-height:2; margin-top:5px;text-align:center;font-family:sans-serif;">Guiding the elderly during Senior Citizens’ Day 2020.</p>
+<p style="font-size:14.5px; line-height:2;margin-top:15px; font-family:sans-serif">Role-specific training platforms include class committee trainings, peer support training, CCA leaders’ training and Student Council meetings. Student leaders are equipped with role-specific knowledge and skills to lead their peers and carry out their responsibilities.</p>
 
+<p style="font-size:14.5px; line-height:2;margin-top:15px; font-family:sans-serif">Some general leadership development programmes include the Sec 2 Basic Leadership Camp, the Sec 3 Advanced Leadership Camp and other external leadership events or programmes. Through these programmes, student leaders are trained to apply The Leadership Challenge model as a leader. They are also equipped with knowledge and skills in problem-solving, facilitation, communication and project management.</p>
 
-<img src="/images/sl4.jpg" style="width: 100%;margin-top:15px;">
-<p style="font-size:11px; line-height:2; margin-top:5px;text-align:center;font-family:sans-serif;">Secondary 1 Orientation leaders explaning and demonstrating the intricacies of the icebreaker game to the Secondary 1 students.</p>
+<p style="font-size:14.5px; line-height:2;margin-top:15px; font-family:sans-serif">Student leaders are also mentored by teachers in charge of the class, various programmes and the leadership groups. Teachers help the student leaders to extend their learning by guiding them in applying what they have learnt, to provide constructive feedback and to guide them in reflective practices. </p>
 
-
-<img src="/images/sl5.png" style="width: 100%;margin-top:15px;">
-<p style="font-size:11px; line-height:2; margin-top:5px;text-align:center;font-family:sans-serif;">Student Leaders reciting their pledge during Student Leaders’ Investiture.</p>
-
-
-<img src="/images/sl6.jpg" style="width: 100%;margin-top:15px;">
-<p style="font-size:11px; line-height:2; margin-top:5px;text-align:center;font-family:sans-serif;">Student Leaders brainstorming for solutions using the PHSS Innovation Cycle during Leadership Camp.</p>
+<p style="font-size:14.5px; line-height:2;margin-top:15px; font-family:sans-serif">
+Through the leadership opportunities available in school, we hope develop student leaders who have a <strong style="font-size:14.5px; line-height:2; font-family:sans-serif">heart to lead and serve others</strong>. All student leaders are encouraged to empathise with others and to believe that they can be a positive changemaker in the context of  their family, class, CCA, school, the community and even the world.
+</p>
