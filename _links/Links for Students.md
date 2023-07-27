@@ -33,7 +33,7 @@ description: ""
 	</h5></div> 
 </div>
 	
-<div style="flex: 1;border: 1px solid #ccc; padding: 30px 10px; display: flex; flex-direction: column;width:100%;gap: 10px;margin: 10px; background-color:white;background-color: #0B6623;flex: 0 0 calc(33.33% - 20px);" class="box"> 
+<div style="flex: 1;border: 1px solid #ccc; padding: 15px 10px; display: flex; flex-direction: column;width:100%;gap: 10px;margin: 10px; background-color:white;background-color: #0B6623;flex: 0 0 calc(33.33% - 20px);" class="box"> 
 	<div style="flex: 1;" class="content"> 
 		<h5 style="text-align:center;"><a href="https://docs.google.com/forms/d/e/1FAIpQLSfwEIclp4Yx6VdTsWr8ueebfGiNjghD8Q85SgzBzeCRVXg-XQ/viewform" style="color:#FDBC58;font-family:sans-serif;font-weight:bold;font-size:18px;text-decoration: none;text-align:center;">PHSS Student Suggestion Scheme</a>
 		</h5>  
