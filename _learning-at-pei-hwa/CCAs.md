@@ -34,9 +34,9 @@ description: ""
 			<strong style="font-size:14.5px; line-height:1.5 ;margin-top:5px; font-family:sans-serif;text-align:left;">Uniformed Groups</strong>
 			</p>
 		<ul style="list-style-type: none;margin:0;text-align:left;padding:0;">
-				<li style="font-size:14.5px; line-height:1.5;"><a href="https://go.gov.sg/discoverphss" style="font-size:14.5px;color:black;line-height:1.5;font-family:sans-serif;text-align:center;text-align:left;text-decoration: none;">National Cadet Corps (land)</a></li>
-				<li style="font-size:14.5px; line-height:1.5;"><a href="https://go.gov.sg/discoverphss" style="font-size:14.5px;color:black;line-height:1.5;font-family:sans-serif;text-align:center;text-align:left;text-decoration: none;">National Civil Defence Cadet Corps</a></li>
-				<li style="font-size:14.5px; line-height:1.5;"><a href="https://go.gov.sg/discoverphss" style="font-size:14.5px;color:black;line-height:1.5;font-family:sans-serif;text-align:center;text-align:left;text-decoration: none;">National Police Cadet Corps</a></li>
+				<li style="font-size:14.5px; line-height:1.5;"><a href="https://www.peihwasec.moe.edu.sg/ccas/uniformed-groups/ncc-land/" style="font-size:14.5px;color:black;line-height:1.5;font-family:sans-serif;text-align:center;text-align:left;text-decoration: none;">National Cadet Corps (land)</a></li>
+				<li style="font-size:14.5px; line-height:1.5;"><a href="https://www.peihwasec.moe.edu.sg/ccas/uniformed-groups/ncdcc/" style="font-size:14.5px;color:black;line-height:1.5;font-family:sans-serif;text-align:center;text-align:left;text-decoration: none;">National Civil Defence Cadet Corps</a></li>
+				<li style="font-size:14.5px; line-height:1.5;"><a href="https://www.peihwasec.moe.edu.sg/ccas/uniformed-groups/npcc/" style="font-size:14.5px;color:black;line-height:1.5;font-family:sans-serif;text-align:center;text-align:left;text-decoration: none;">National Police Cadet Corps</a></li>
 		</ul>
 	</div> 
 	<div style="flex: 1; background-color: #F8BF58;; margin: 10px; padding: 25px; text-align: center; width: 225px; height: auto;padding-bottom:-10px;" class="box">  
@@ -44,11 +44,11 @@ description: ""
 			<strong style="font-size:14.5px; line-height:1.5 ;margin-top:5px; font-family:sans-serif;text-align:center;">Performing Arts</strong>
 			</p>	
 		<ul style="list-style-type: none;margin:0;text-align:left;padding:0;">
-				<li style="font-size:14.5px; line-height:1.5;"><a href="https://go.gov.sg/discoverphss" style="font-size:14.5px;color:black;line-height:1.5;font-family:sans-serif;text-align:center;text-align:left;text-decoration: none;">Dance Society</a></li>
-				<li style="font-size:14.5px; line-height:1.5;"><a href="https://go.gov.sg/discoverphss" style="font-size:14.5px;color:black;line-height:1.5;font-family:sans-serif;text-align:center;text-align:left;text-decoration: none;">Drama Society</a></li>
-			<li style="font-size:14.5px; line-height:1.5;"><a href="https://go.gov.sg/discoverphss" style="font-size:14.5px;color:black;line-height:1.5;font-family:sans-serif;text-align:center;text-align:left;text-decoration: none;">Guzheng Ensemble</a></li>
-			<li style="font-size:14.5px; line-height:1.5;"><a href="https://go.gov.sg/discoverphss" style="font-size:14.5px;color:black;line-height:1.5;font-family:sans-serif;text-align:center;text-align:left;text-decoration: none;">Pei Hwa Choir</a></li>
-			<li style="font-size:14.5px; line-height:1.5;"><a href="https://go.gov.sg/discoverphss" style="font-size:14.5px;color:black;line-height:1.5;font-family:sans-serif;text-align:center;text-align:left;text-decoration: none;">Symphonic Band</a></li>
+				<li style="font-size:14.5px; line-height:1.5;"><a href="https://www.peihwasec.moe.edu.sg/ccas/performing-arts/dance/" style="font-size:14.5px;color:black;line-height:1.5;font-family:sans-serif;text-align:center;text-align:left;text-decoration: none;">Dance Society</a></li>
+				<li style="font-size:14.5px; line-height:1.5;"><a href="https://www.peihwasec.moe.edu.sg/ccas/clubs-societies/drama-society/" style="font-size:14.5px;color:black;line-height:1.5;font-family:sans-serif;text-align:center;text-align:left;text-decoration: none;">Drama Society</a></li>
+			<li style="font-size:14.5px; line-height:1.5;"><a href="https://www.peihwasec.moe.edu.sg/ccas/performing-arts/guzheng/" style="font-size:14.5px;color:black;line-height:1.5;font-family:sans-serif;text-align:center;text-align:left;text-decoration: none;">Guzheng Ensemble</a></li>
+			<li style="font-size:14.5px; line-height:1.5;"><a href="https://www.peihwasec.moe.edu.sg/ccas/performing-arts/choir/" style="font-size:14.5px;color:black;line-height:1.5;font-family:sans-serif;text-align:center;text-align:left;text-decoration: none;">Pei Hwa Choir</a></li>
+			<li style="font-size:14.5px; line-height:1.5;"><a href="https://www.peihwasec.moe.edu.sg/ccas/performing-arts/symphonic-band/" style="font-size:14.5px;color:black;line-height:1.5;font-family:sans-serif;text-align:center;text-align:left;text-decoration: none;">Symphonic Band</a></li>
 		</ul>
 	</div> 
 </div>
