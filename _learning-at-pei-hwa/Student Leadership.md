@@ -10,7 +10,7 @@ description: ""
 
 <p style="font-size:14.5px; line-height:2;margin-top:15px; font-family:sans-serif">Our student leadership development programme follows the STEER framework. We consider the various aspects of selecting, training, empowering, evaluating and recognizing our student leaders. </p>
 
-<p style="font-size:14.5px; line-height:2;margin-top:15px; font-family:sans-serif"><strong style="font-size:14.5px; line-height:2; font-family:sans-serif">Student Leadership Training and Empowerment Opportunities</strong></p>
+<p style="margin-top:25px;font-size:17px;"><strong style="font-family:sans-serif;">Student Leadership Training and Empowerment Opportunities</strong></p>
 	
 <img src="https://raw.githubusercontent.com/isomerpages/moe-peihwasec/staging/images/Learning%20%40%20Pei%20Hwa/Student%20Leadership/studentleadership02.png">
 	
@@ -18,7 +18,7 @@ description: ""
 
 <p style="font-size:14.5px; line-height:2;margin-top:15px; font-family:sans-serif">The student leadership development in Pei Hwa Secondary School is part of the school’s LLP in Community Youth Leadership (insert link to LLP webpage). The development of student leaders takes on a tiered-approach with the training programmes and empowerment opportunities specially catered to the different tiers and levels. </p>
 
-<p style="font-size:14.5px; line-height:2;margin-top:15px; font-family:sans-serif">Tier 1 student leaders refer to all students. At Tier 1, students do not need to hold a leadership position or title. Level-wide training programmes are conducted for Tier 1 student leaders to equip them with leadership knowledge and skills which they can apply in daily living, in and outside of school as well as during curricular and non-curricular contexts. The focus of the training is progressive and incremental over the students’ 4 to 5 years in Pei Hwa Secondary School.</p>
+<p style="font-size:14.5px; line-height:2;margin-top:15px; font-family:sans-serif">Tier 1 student leaders refer to all students. At Tier 1, students do not need to hold a leadership position or title. Level-wide training programmes are conducted for Tier 1 student leaders to equip them with leadership knowledge and skills which they can apply in daily living, in and outside of school as well as during curricular and non-curricular contexts. The focus of the training is progressive and incremental over the students’ 4 to 5 years in Pei Hwa Secondary School</p>
 
 <p style="font-size:14.5px; line-height:2;margin-top:15px; font-family:sans-serif">Tier 2 student leaders include Class leaders, Peer Support Leaders and CCA Executive Committee members while Tier 3 student leaders include Student Councillors ,CCA Chairpersons and Vice-Chairpersons. For Tier 2 and 3 Student Leaders, there are general leadership development programmes, role-specific training programmes and mentorship to equip them for their leadership roles.</p>
 
