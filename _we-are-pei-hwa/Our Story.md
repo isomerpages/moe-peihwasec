@@ -33,7 +33,7 @@ Inspiring every Pei Hwa-ian with the zest to learn, the dare to innovate and the
 </div>
 
 <div style="flex: 1;" class="column"> 
-		<h6 style="margin: 0;color:#F8BF58;"><strong style="color:color:#F8BF58;font-weight:bold;">Our Values</strong></h6> 
+		<h6 style="margin: 0;color:#F8BF58;"><strong style="color:#F8BF58;font-weight:bold;">Our Values</strong></h6> 
 		<p style="font-size:14.5px; line-height:1.5 ;margin-top:5px; font-family:sans-serif;font-style: italic;font-weight: bold;color:white;"><strong style="font-size:14.5px; line-height:2;margin-top:15px; font-family:sans-serif;color:white;">Passion </strong> to Learn 
 <br><strong style="font-size:14.5px; line-height:2;margin-top:15px; font-family:sans-serif;color:white;">Resilience</strong>in Adversity
 <br><strong style="font-size:14.5px; line-height:2;margin-top:15px; font-family:sans-serif;color:white;">Integrity </strong>in Deeds <br>
@@ -90,19 +90,19 @@ Inspiring every Pei Hwa-ian with the zest to learn, the dare to innovate and the
 <p style="margin: 0;font-size:14.5px; line-height:1.5;font-family:sans-serif;black;">In Pei Hwa Secondary School<br>We are the pride of the community<br>To lead and serve with integrity<br>We grow in our resiliency</p></div>
 	
 <div style="flex: 1; padding: 0 10px;" class="column">
-<p style="margin: 0;font-size:14.5px; line-height:1.5;font-family:sans-serif;color:black;">Though there be many challenges<br>Our passion remains strong<br>We learn and work diligently<br>To be the best that we can be</p>
+<p style="margin: 0;font-size:14.5px; line-height:1.5;font-family:sans-serif;black;">Though there be many challenges<br>Our passion remains strong<br>We learn and work diligently<br>To be the best that we can be</p>
 </div>
 
 <div style="flex: 1; padding: 0 10px;" class="column">
-<p style="margin: 0;font-size:14.5px; line-height:1.5;font-family:sans-serif;color:black;">Here in Pei Hwa  
+<p style="margin: 0;font-size:14.5px; line-height:1.5;font-family:sans-serif;black;">Here in Pei Hwa  
 Our talents are nurtured  
 Here in Pei Hwa  
 Where we share in harmony  
 We’ll spread our wings  
 Fly far and high  
 To bring pride and glory  
-To the happy Pei Hwa family</p>&nbsp;
-</div>&nbsp;
+To the happy Pei Hwa family</p>
+</div>
 </div>
 
 <p style="margin: 10px 0;font-size:14.5px; line-height:1.5;font-family:sans-serif;color:black;"><strong style="font-family:sans-serif;color:black;">Music by Mr Job Tan<br>
