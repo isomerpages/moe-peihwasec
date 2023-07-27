@@ -3,8 +3,10 @@ title: Student Leadership
 permalink: /learning-at-pei-hwa/student-leadership/
 description: ""
 ---
-<h4 style="color:#635f1a;font-weight:bold;font-family:sans-serif;">Our Goals</h4>
-<p style="font-size:14.5px; line-height:2;margin-top:15px; font-family:sans-serif">In Pei Hwa Secondary School, we aim to develop Compassionate, Innovative and Daring leaders. Anchored by the school’s PRIDE values, the student leaders will learn the various socio-emotional competencies through leadership development platforms and opportunities available in school. The Student Leadership program develops critical thinking, events management, and problem solving skills.</p>
+<p style="font-size:14.5px; line-height:2; font-family:sans-serif">In Pei Hwa Secondary School, we believe that all students can be and should be developed as <strong style="font-size:14.5px; line-height:2; font-family:sans-serif">Forward-Looking Leaders</strong>. We hope to develop our student leaders to be <strong style="font-size:14.5px; line-height:2; font-family:sans-serif">confident communicators, effective collaborators, active and empathetic contributors</strong> as well as <strong style="font-size:14.5px; line-height:2; font-family:sans-serif">innovative changemakers</strong>. We are committed to equipping all our students with knowledge and skills to be effective leaders in different areas of their lives. 
+</p>
+
+<img src="/images/SLCM.png">
 
 <h4 style="color:#635f1a;font-weight:bold;font-family:sans-serif;">Our Programmes</h4>
 <p style="font-size:14.5px; line-height:2;margin-top:15px; font-family:sans-serif">We adopt the Student Leadership Challenge Model by Jim Kouzes and Barry Posner in the development of the Student Leaders. Guided by the 5 practices of an exemplary leader, student leaders are trained during various platforms and given opportunities to serve the school.</p>
