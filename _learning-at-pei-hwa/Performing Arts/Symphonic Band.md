@@ -100,13 +100,13 @@ SYF Arts Presentation for Concert Band </strong>
 <img align="left" src="https://raw.githubusercontent.com/isomerpages/moe-peihwasec/staging/images/CCA/bandtestimonial01.png" style="width: 23%; border-radius: 7%;  margin-right:15px;">
 	"As the Band Major of Admin of Symphonic Band, I am proud to witness the remarkable growth and talent that defines our ensemble. Through unwavering dedication and relentless effort, our band has made significant strides. Countless hours of practice and a shared commitment to excellence have propelled us to new heights. The Symphonic Band stands as a testament to the power of hard work, resilience, and the transformative nature of music. I am honored to be part of this remarkable journey, and I am proud to share the captivating beauty and passion of our performances with you."
   <span style="display:block; color:#333333; margin-top:1em;font-size:15px;font-family:sans-serif;"><em style="font-family:sans-serif;">President,   
-Quinton Soo Tian Le</em></span><br><br><br>
+Quinton Soo Tian Le</em></span><br><br>
 	</blockquote> 
 	
 <blockquote style="font-size: 15px;width:100%;margin:50px auto;margin-top:5px;font-family:serif;font-style:italic;color: #555555;padding:1.2em 25px 1.2em 25px;border-left:8px solid #0C6523;line-height:1.6;position: relative;background:#EDEDED;">
 <img align="left" src="https://raw.githubusercontent.com/isomerpages/moe-peihwasec/staging/images/CCA/bandtestimonial02.png" style="width: 23%; border-radius: 7%;  margin-right:15px;">
 	"Being the Vice-President of Band, I am delighted to be leading such a passionate group of musicians. As the Band Major of Music, it has been an eventful and busy period for the Band to prepare for upcoming events back to back. Everyone's perseverance has brought us to where we are now and will continue to bring our Band to greater achievements. The little bonds of friendships and rivalries in our Band have also motivated one another to strive for the common goal of achieving the highest possible musicality in our Band."
-  <span style="display:block; color:#333333; margin-top:1em;font-size:15px;font-family:sans-serif;"><em style="font-family:sans-serif;">Band major of music, Dyclan</em></span><br><br><br>
+  <span style="display:block; color:#333333; margin-top:1em;font-size:15px;font-family:sans-serif;"><em style="font-family:sans-serif;">Band major of music, Dyclan</em></span><br><br>
 	</blockquote> 
 
 <h3 style="margin-top:10px;font-weight: bold;color:#000000">CCA Details</h3>
