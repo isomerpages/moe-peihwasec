@@ -78,9 +78,9 @@ Inspiring every Pei Hwa-ian with the zest to learn, the dare to innovate and the
 </div>
 </div>
 	
-<div style="margin-top:30px; width:100%; padding: 40px; display: flex; align-items: center;" class="box">&nbsp;
+<div style="margin-top:30px; width:100%; padding: 40px; display: flex; align-items: center;" class="box">
 
-<div style="flex: 1;" class="content">&nbsp;
+<div style="flex: 1;" class="content">
 <h6 style="margin-top:-100px;color:#0B6623;"><strong style="color:#0B6623;font-weight:bold;">Our School Song</strong></h6>&nbsp;
 
 
