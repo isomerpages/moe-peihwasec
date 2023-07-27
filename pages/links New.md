@@ -1,6 +1,6 @@
 ---
 title: links New
-permalink: /permalink/
+permalink: /permalinnk/
 description: ""
 ---
 <div style="padding:70px;margin-top:-100px;max-width:100%">

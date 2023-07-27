@@ -8,39 +8,33 @@ description: ""
 
 <div style="display:flex;flex-wrap: wrap; justify-content: space-between;">
 	
-<div style="flex: 1;border: 1px solid #ccc; padding: 0px; display: flex; flex-direction: column;width:100%;gap: 10px;margin: 10px; background-color:white;background-color: #0B6623;flex: 0 0 calc(33.33% - 20px);" class="box"> 
-	<img style="max-width: 100%;" class="image" alt="Image" src="https://raw.githubusercontent.com/isomerpages/moe-peihwasec/staging/images/Links/link01.png"> 
+<div style="flex: 1;border: 1px solid #ccc; padding: 10px 10px; display: flex; flex-direction: column;width:100%;gap: 10px;margin: 10px; background-color:white;background-color: #0B6623;flex: 0 0 calc(33.33% - 20px);" class="box"> 
 	<div style="flex: 1;" class="content"> 
-		<h5 style="text-align:center;"><a href="" style="color:#FDBC58;font-family:sans-serif;font-weight:bold;font-size:18px;text-decoration: none;">Sec 1 Admission</a></h5> 
+		<h5 style="text-align:center;padding-top:5px;"><a href="" style="color:#FDBC58;font-family:sans-serif;font-weight:bold;font-size:18px;text-decoration: none;">Sec 1 Admission</a></h5> 
 	</div> 
 </div>
 
-<div style="flex: 1;border: 1px solid #ccc; padding: 0px; display: flex; flex-direction: column;width:100%;gap: 10px;margin: 10px; background-color:white;background-color: #0B6623;flex: 0 0 calc(33.33% - 20px);" class="box"> 
-	<img style="max-width: 100%;" class="image" alt="Image" src="https://raw.githubusercontent.com/isomerpages/moe-peihwasec/staging/images/Links/link02.png"> 
+<div style="flex: 1;border: 1px solid #ccc; padding: 10px 10px; display: flex; flex-direction: column;width:100%;gap: 10px;margin: 10px; background-color:white;background-color: #0B6623;flex: 0 0 calc(33.33% - 20px);" class="box"> 
 	<div style="flex: 1;" class="content"> 
-		<h5 style="text-align:center;"><a href="https://form.gov.sg/5fdaf670f80bcd0012506a58" style="color:#FDBC58;font-family:sans-serif;font-weight:bold;font-size:18px;text-decoration: none;">PHSS Transfer Form</a></h5>  
+		<h5 style="text-align:center;padding-top:5px;"><a href="https://form.gov.sg/5fdaf670f80bcd0012506a58" style="color:#FDBC58;font-family:sans-serif;font-weight:bold;font-size:18px;text-decoration: none;">PHSS Transfer Form</a></h5>  
 	</div> 
 </div>
 
-	
-<div style="flex: 1;border: 1px solid #ccc; padding: 0px; display: flex; flex-direction: column;width:100%;gap: 10px;margin: 10px; background-color:white;background-color: #0B6623;flex: 0 0 calc(33.33% - 20px);" class="box"> 
-	<img style="max-width: 100%;" class="image" alt="Image" src="https://raw.githubusercontent.com/isomerpages/moe-peihwasec/staging/images/Links/link03.png"> 
+<div style="flex: 1;border: 1px solid #ccc; padding: 10px 10px; display: flex; flex-direction: column;width:100%;gap: 10px;margin: 10px; background-color:white;background-color: #0B6623;flex: 0 0 calc(33.33% - 20px);" class="box"> 
 	<div style="flex: 1;" class="content"> 
-		<h5 style="text-align:center;"><a href="[https://go.gov.sg/phss-loa-form](https://go.gov.sg/phss-loa-form)" style="color:#FDBC58;font-family:sans-serif;font-weight:bold;font-size:18px;text-decoration: none;">LOA Form</a></h5>  
+		<h5 style="text-align:center;padding-top:5px;"><a href="[https://go.gov.sg/phss-loa-form](https://go.gov.sg/phss-loa-form)" style="color:#FDBC58;font-family:sans-serif;font-weight:bold;font-size:18px;text-decoration: none;">LOA Form</a></h5>  
 	</div> 
 </div>
 
-<div style="flex: 1;border: 1px solid #ccc; padding: 0px; display: flex; flex-direction: column;width:100%;gap: 10px;margin: 10px; background-color:white;background-color: #0B6623;flex: 0 0 calc(33.33% - 20px);" class="box"> 
-	<img style="max-width: 100%;" class="image" alt="Image" src="https://raw.githubusercontent.com/isomerpages/moe-peihwasec/staging/images/Links/link04.png"> 
+<div style="flex: 1;border: 1px solid #ccc; padding: 10px 10px; display: flex; flex-direction: column;width:100%;gap: 10px;margin: 10px; background-color:white;background-color: #0B6623;flex: 0 0 calc(33.33% - 20px);" class="box"> 
 	<div style="flex: 1;" class="content"> 
-		<h5 style="text-align:center;"><a href="https://pg.moe.edu.sg/" style="color:#FDBC58;font-family:sans-serif;font-weight:bold;font-size:18px;text-decoration: none;">Parent’s Gateway</a>  
+		<h5 style="text-align:center;padding-top:5px;"><a href="https://pg.moe.edu.sg/" style="color:#FDBC58;font-family:sans-serif;font-weight:bold;font-size:18px;text-decoration: none;">Parent’s Gateway</a>  
 	</h5></div> 
 </div>
 	
-<div style="flex: 1;border: 1px solid #ccc; padding: 0px; display: flex; flex-direction: column;width:100%;gap: 10px;margin: 10px; background-color:white;background-color: #0B6623;flex: 0 0 calc(33.33% - 20px);" class="box"> 
-	<img style="max-width: 100%;" class="image" alt="Image" src="https://raw.githubusercontent.com/isomerpages/moe-peihwasec/staging/images/Links/link05.png"> 
+<div style="flex: 1;border: 1px solid #ccc; padding: 10px 10px; display: flex; flex-direction: column;width:100%;gap: 10px;margin: 10px; background-color:white;background-color: #0B6623;flex: 0 0 calc(33.33% - 20px);" class="box"> 
 	<div style="flex: 1;" class="content"> 
-		<h5 style="text-align:center;"><a href="https://www.facebook.com/groups/phss.psg/" style="color:#FDBC58;font-family:sans-serif;font-weight:bold;font-size:18px;text-decoration: none;">PSG sign-up link</a>
+		<h5 style="text-align:center;padding-top:5px;"><a href="https://www.facebook.com/groups/phss.psg/" style="color:#FDBC58;font-family:sans-serif;font-weight:bold;font-size:18px;text-decoration: none;">PSG sign-up link</a>
 		</h5>  
 	</div> 
 </div>
@@ -51,5 +45,4 @@ description: ""
 </div>
 
 
-</div>
-</div>
+</div></div>

@@ -1,6 +1,6 @@
 ---
 title: Pride Of Community
-permalink: /permalink/
+permalink: /permalink/pride-of-community/
 description: ""
 ---
 <div style="display: flex;margin:10px;justify-content: center;">

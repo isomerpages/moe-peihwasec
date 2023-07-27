@@ -1,6 +1,0 @@
-collections:
-  achievements:
-    output: true
-    order:
-      - Pride of Pei Hwa.md
-      - Student Achievements.md

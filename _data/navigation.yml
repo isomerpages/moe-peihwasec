@@ -1,87 +1,69 @@
 logo: /images/cropped-school-logo-new.png
 links:
-  - title: About Us
-    url: /about-us/logo-motto-and-school-song/
+  - title: We Are Pei Hwa
+    url: /we-are-pei-hwa/our-story/
     sublinks:
-      - title: Logo, Motto and School Song
-        url: /about-us/logo-motto-and-school-song/
-      - title: Vision, Mission and Values
-        url: /about-us/vision-mission-and-values/
+      - title: Our Story
+        url: /we-are-pei-hwa/our-story/
       - title: Staff Information
-        url: /about-us/staff-contact-info/
-      - title: Assessment and Homework Policy
-        url: /assessment-and-homework-policy/
-      - title: Departments
-        url: /about-us/departments/english-language-literature/
+        url: /we-are-pei-hwa/staff-contact-info/
       - title: Corporate Videos/Video Gallery
-        url: /news-media/videos/
-  - title: Achievements
-    url: /news-media/pride-of-pei-hwa/
-    sublinks:
-      - title: Pride of Pei Hwa
-        url: /news-media/pride-of-pei-hwa/
-      - title: Student Achievements
-        url: /student-achievements/
-  - title: CCAS
+        url: /we-are-pei-hwa/videos/
+  - title: Learning @ Pei Hwa
     url: /ccas/
     sublinks:
-      - title: Clubs & Societies
-        url: /ccas/clubs-societies/infocomm-club/
-      - title: Sports & Games
-        url: /ccas/sports-games/badminton/
-      - title: Performing Arts
-        url: /ccas/performing-arts/dance/
-      - title: Uniformed Groups
-        url: /ccas/uniformed-groups/ncc-land/
-  - title: Programmes
-    url: /innovation-talent-development-programme/
-    sublinks:
-      - title: Innovation & Talent Developmen
-        url: /innovation-talent-development-programme/
+      - title: Instructional Programmes
+        url: /learning-at-pei-hwa/instructional-programmes/english-language-literature/
+      - title: Assessment and Homework Policy
+        url: /learning-at-pei-hwa/assessment-and-homework-policy/
+      - title: Sexuality Education
+        url: /learning-at-pei-hwa/sexuality-education/
+      - title: CCAs
+        url: /learning-at-pei-hwa/cca/
       - title: Student Leadership
-        url: /programmes/student-leadership/
+        url: /learning-at-pei-hwa/student-leadership/
+      - title: ICT Enrichment
+        url: /learning-at-pei-hwa/ict-enrichment/
+  - title: Uniquely Pei Hwa
+    url: /uniquely-pei-hwa/innovation-talent-development-programme/
+    sublinks:
+      - title: Innovation&Talent Development
+        url: /uniquely-pei-hwa/innovation-talent-development-programme/
       - title: Distinctive Programmes
         url: /school-distinctive-programme/learning-for-life-programme-community-youth-leadership-llp-cyl/
       - title: Direct School Admission
-        url: /programmes/direct-school-admission-dsa/
-      - title: ICT Enrichment
-        url: /programmes/ict-enrichment/
-      - title: Sexuality Education
-        url: /programmes/sexuality-education/
+        url: /uniquely-pei-hwa/direct-school-admission-dsa/
       - title: Family Matters @ School
-        url: /programmes/family-matters-at-school/
+        url: /uniquely-pei-hwa/family-matters-at-school/
       - title: Counselling
-        url: /programmes/counselling/
+        url: /uniquely-pei-hwa/counselling/
       - title: School Green Awards (SGA)
-        url: /sga/
+        url: /uniquely-pei-hwa/sga/
       - title: Special Education Needs
-        url: /programmes/special-education-needs/
-  - title: Our Partners
-    url: /our-partners/parents-support-group/
+        url: /uniquely-pei-hwa/special-education-needs/
+  - title: Pride of Pei Hwa
+    url: /pride-of-pei-hwa/students/
+    sublinks:
+      - title: Student
+        url: /pride-of-pei-hwa/students/
+      - title: Graduates
+        url: /pride-of-pei-hwa/graduates/
+  - title: Pei Hwa Together
+    url: /pei-hwa-together/parents-support-group/
     sublinks:
       - title: Parents Support Group
-        url: /our-partners/parents-support-group/
+        url: /pei-hwa-together/parents-support-group/
       - title: Pei Hwa Alumni
-        url: /our-partners/pei-hwa-alumni/
+        url: /pei-hwa-together/pei-hwa-alumni/
       - title: School Advisory Committee
-        url: /our-partners/school-advisory-committee/
+        url: /pei-hwa-together/school-advisory-committee/
   - title: Links
     url: /links/links-for-teachers/
     sublinks:
-      - title: SLS Login
-        url: https://vle.learning.moe.edu.sg/login
-      - title: Student iCON Login
-        url: https://workspace.google.com/dashboard
-      - title: Resource Booking System
-        url: https://rbs.avero-tech.com/
-      - title: ACE-Learning
-        url: https://www.ace-learning.com/
-      - title: MySkillsFuture Portal
-        url: https://www.myskillsfuture.gov.sg/content/student/en/secondary.html
-      - title: Links For Teachers
-        url: /links/links-for-teachers/
       - title: Links for Students
         url: /links/links-for-students/
+      - title: Links For Teachers
+        url: /links/links-for-teachers/
       - title: Links for Parents
         url: /links/links-for-parents/
       - title: School Safety
