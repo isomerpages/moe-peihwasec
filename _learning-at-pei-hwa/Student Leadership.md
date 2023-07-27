@@ -10,9 +10,12 @@ description: ""
 
 <p style="font-size:14.5px; line-height:2;margin-top:15px; font-family:sans-serif">Our student leadership development programme follows the STEER framework. We consider the various aspects of selecting, training, empowering, evaluating and recognizing our student leaders. </p>
 
-<p style="font-size:14.5px; line-height:2;margin-top:15px; font-family:sans-serif">Student Leadership Training and Empowerment Opportunities</p>
+<p style="font-size:14.5px; line-height:2;margin-top:15px; font-family:sans-serif"><strong style="font-size:14.5px; line-height:2; font-family:sans-serif">Student Leadership Training and Empowerment Opportunities</strong></p>
+	
+<img src="https://raw.githubusercontent.com/isomerpages/moe-peihwasec/staging/images/Learning%20%40%20Pei%20Hwa/Student%20Leadership/studentleadership02.png">
+	
+<p style="font-size:14.5px; line-height:2;margin-top:15px; font-family:sans-serif">We believe that leadership is an acquirable set of skills and abilities that can be fostered and cultivated within our students. We adopt The Leadership Challenge as our training model for student leadership development. The 5 practices of exemplary leadership from The Leadership Challenge help to guide and develop student leaders with the skills that they need to be forward-looking leaders.</p>
 
-<img src="/images/SLCM.png">
 
 <p style="margin-top:25px;font-size:17px;"><strong style="font-family:sans-serif;">Leadership Opportunities in Pei Hwa</strong>
 </p>
