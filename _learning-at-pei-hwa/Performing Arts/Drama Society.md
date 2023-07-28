@@ -101,7 +101,7 @@ third_nav_title: Performing Arts
 <img align="left" src="https://raw.githubusercontent.com/isomerpages/moe-peihwasec/staging/images/CCA/dramatestimonial03.png" style="width: 23%; border-radius: 7%;  margin-right:15px;">
 	"I think of each play as a work of art, and it is not painted by one artist alone. Instead, this artwork is pieced by the numerous collaborators— the various departments that support the stage behind the scenes. Like the way dye touches water, I hope this experience will ignite a spark of creativity within each individual. Each stage entails major responsibilities and a range of new challenges and opportunities. With an innovative mind, a challenge becomes a chance. You can be so much more, and it's your decision to make. To be or not to be."
   <span style="display:block; color:#333333; margin-top:1em;font-size:15px;font-family:sans-serif;"><em style="font-family:sans-serif;">Vice-President (Welfare), Ariann Khoo Min En
-</em></span><br><br>
+</em></span><br><br><br>
 	</blockquote> 
 	
 <blockquote style="font-size: 15px;width:100%;margin:50px auto;margin-top:5px;font-family:serif;font-style:italic;color: #555555;padding:1.2em 25px 1.2em 25px;border-left:8px solid #0C6523;line-height:1.6;position: relative;background:#EDEDED;">
