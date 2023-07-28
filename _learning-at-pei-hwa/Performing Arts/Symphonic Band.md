@@ -106,7 +106,7 @@ Quinton Soo Tian Le</em></span><br><br>
 <blockquote style="font-size: 15px;width:100%;margin:50px auto;margin-top:5px;font-family:serif;font-style:italic;color: #555555;padding:1.2em 25px 1.2em 25px;border-left:8px solid #0C6523;line-height:1.6;position: relative;background:#EDEDED;">
 <img align="left" src="https://raw.githubusercontent.com/isomerpages/moe-peihwasec/staging/images/CCA/bandtestimonial02.png" style="width: 23%; border-radius: 7%;  margin-right:15px;">
 	"Being the Vice-President of Band, I am delighted to be leading such a passionate group of musicians. As the Band Major of Music, it has been an eventful and busy period for the Band to prepare for upcoming events back to back. Everyone's perseverance has brought us to where we are now and will continue to bring our Band to greater achievements. The little bonds of friendships and rivalries in our Band have also motivated one another to strive for the common goal of achieving the highest possible musicality in our Band."
-  <span style="display:block; color:#333333; margin-top:1em;font-size:15px;font-family:sans-serif;"><em style="font-family:sans-serif;">Band major of music, Dyclan</em></span><br><br>
+  <span style="display:block; color:#333333; margin-top:1em;font-size:15px;font-family:sans-serif;"><em style="font-family:sans-serif;">Band major of music, Dyclan</em></span><br><br><br>
 	</blockquote> 
 
 <h3 style="margin-top:10px;font-weight: bold;color:#000000">CCA Details</h3>
