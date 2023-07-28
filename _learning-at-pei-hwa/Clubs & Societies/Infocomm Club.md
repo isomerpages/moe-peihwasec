@@ -30,6 +30,16 @@ third_nav_title: Clubs & Societies
 	</thead>
 	
 <tbody>
+	
+<tr style="background-color: #f3f3f3;">
+<td><strong style="font-family:sans-serif;font-size:14.5px;">2023</strong></td>
+	<td><strong style="font-family:sans-serif;font-size:15px;">N.E.mation! 2023 Competition</strong>
+		<ul style="margin-top:-5px;">
+			<li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">Top 20<sup style="font-family:sans-serif;">th</sup> Team (Ashton Tan Kuo Sheng, Wong Chun Yuen, Felicia Low Yong Shi, Nikki Ang Xin Yu)</li>
+		</ul>
+		
+	</td>
+</tr>
 
 <tr>
 <td><strong style="font-family:sans-serif;font-size:14.5px;">2012</strong></td>
