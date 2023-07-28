@@ -89,21 +89,21 @@ third_nav_title: Clubs & Societies
 <h3 style="margin-top:10px;font-weight: bold;color:#000000">Student Testament</h3>
 
 <blockquote style="font-size: 15px;width:100%;margin:50px auto;margin-top:5px;font-family:serif;font-style:italic;color: #555555;padding:1.2em 25px 1.2em 25px;border-left:8px solid #0C6523;line-height:1.6;position: relative;background:#EDEDED;">
-<img align="left" src="" style="width: 23%; border-radius: 7%;  margin-right:15px;">
-	""
-  <span style="display:block; color:#333333; margin-top:1em;font-size:15px;font-family:sans-serif;"><em style="font-family:sans-serif;">President</em></span>
+<img align="left" src="https://raw.githubusercontent.com/isomerpages/moe-peihwasec/staging/images/CCA/infocommtestimonial01.png" style="width: 23%; border-radius: 7%;  margin-right:15px;">
+	"The thing I love the most about the Infocomm Club is the creative freedom we are given in our assignments. We are able to make what we want and are only bound by our imaginations. We are able to carry out any wacky idea we have as long as we are able to turn in quality work, which is no longer difficult as we are allowed to make it something we can enjoy doing. I have learnt a lot from my CCA, such as graphic design skills and how to edit videos. I have also learnt about the importance of effective communication as we do take on tasks as a team. One of my most challenging moments in CCA would be in the beginning when I first joined the CCA. Everything was foreign to me as I had never really touched such software before but thanks to the excellent teachers and leadership in our CCA, I was able to learn how to use the different softwares easily."
+  <span style="display:block; color:#333333; margin-top:1em;font-size:15px;font-family:sans-serif;"><em style="font-family:sans-serif;">President, Ashton Tan Kuo Sheng</em></span>
 	</blockquote> 
 
 <blockquote style="font-size: 15px;width:100%;margin:50px auto;margin-top:5px;font-family:serif;font-style:italic;color: #555555;padding:1.2em 25px 1.2em 25px;border-left:8px solid #0C6523;line-height:1.6;position: relative;background:#EDEDED;">
-<img align="left" src="" style="width: 23%; border-radius: 7%;  margin-right:15px;">
-	""
-  <span style="display:block; color:#333333; margin-top:1em;font-size:15px;font-family:sans-serif;"><em style="font-family:sans-serif;">President</em></span>
+<img align="left" src="https://raw.githubusercontent.com/isomerpages/moe-peihwasec/staging/images/CCA/infocommtestimonial02.png" style="width: 23%; border-radius: 7%;  margin-right:15px;">
+	"Being part of the Infocomm Club for the past few years has been an amazing journey. The CCA has taught me problem-solving, communication and leadership skills, which shapes me to whom I am. I had learnt alot throughout my journey from graphic design, editing to handling of AVA equiment. While there have been challenges, they have made me more resilient and discipline. In Infocomm Club, I appreciate the opportunities given to participate in compeitions which further stretches my knowledge. My time during CCA sessions has been very enjoyable and I cherish the friendship fostered with my CCA members. I am grateful for the opportunity to lead and serve in Infocomm Club and hope I made a positive impact."
+  <span style="display:block; color:#333333; margin-top:1em;font-size:15px;font-family:sans-serif;"><em style="font-family:sans-serif;">Vice-President, Wong Chun Yue</em></span>
 	</blockquote> 
 	
 <blockquote style="font-size: 15px;width:100%;margin:50px auto;margin-top:5px;font-family:serif;font-style:italic;color: #555555;padding:1.2em 25px 1.2em 25px;border-left:8px solid #0C6523;line-height:1.6;position: relative;background:#EDEDED;">
-<img align="left" src="" style="width: 23%; border-radius: 7%;  margin-right:15px;">
-	""
-  <span style="display:block; color:#333333; margin-top:1em;font-size:15px;font-family:sans-serif;"><em style="font-family:sans-serif;">President</em></span>
+<img align="left" src="https://raw.githubusercontent.com/isomerpages/moe-peihwasec/staging/images/CCA/infocommtestimonial03.jpg" style="width: 23%; border-radius: 7%;  margin-right:15px;">
+	"As a fan of technology, the Infocomm club greatly intrigued me to join and I got what I expected, learning photo and video editing was easy and our trainers made it very easy to understand and ask questions. <br> In AVA, I love how we can interact with uncommon equipment and play a part in the Flag raising and school events, I've met a variety of people in AVA and learned a lot more technical skills."
+  <span style="display:block; color:#333333; margin-top:1em;font-size:15px;font-family:sans-serif;"><em style="font-family:sans-serif;">AVA President, Dhavala Venkata Aarush Avadhani</em></span>
 	</blockquote> 
 
 <h3 style="margin-top:10px;font-weight: bold;color:#000000">CCA Details</h3>
