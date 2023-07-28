@@ -103,7 +103,7 @@ third_nav_title: Clubs & Societies
 <blockquote style="font-size: 15px;width:100%;margin:50px auto;margin-top:5px;font-family:serif;font-style:italic;color: #555555;padding:1.2em 25px 1.2em 25px;border-left:8px solid #0C6523;line-height:1.6;position: relative;background:#EDEDED;">
 <img align="left" src="https://raw.githubusercontent.com/isomerpages/moe-peihwasec/staging/images/CCA/infocommtestimonial03.jpg" style="width: 23%; border-radius: 7%;  margin-right:15px;">
 	"As a fan of technology, the Infocomm club greatly intrigued me to join and I got what I expected, learning photo and video editing was easy and our trainers made it very easy to understand and ask questions. <br> In AVA, I love how we can interact with uncommon equipment and play a part in the Flag raising and school events, I've met a variety of people in AVA and learned a lot more technical skills."
-  <span style="display:block; color:#333333; margin-top:1em;font-size:15px;font-family:sans-serif;"><em style="font-family:sans-serif;">AVA President, Dhavala Venkata Aarush Avadhani</em></span><br><br><br>
+  <span style="display:block; color:#333333; margin-top:1em;font-size:15px;font-family:sans-serif;"><em style="font-family:sans-serif;">AVA President, Dhavala Venkata Aarush Avadhani</em></span><br><br><br><br>
 	</blockquote> 
 
 <h3 style="margin-top:10px;font-weight: bold;color:#000000">CCA Details</h3>
