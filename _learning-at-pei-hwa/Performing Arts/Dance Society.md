@@ -92,21 +92,21 @@ third_nav_title: Performing Arts
 <blockquote style="font-size: 15px;width:100%;margin:50px auto;margin-top:5px;font-family:serif;font-style:italic;color: #555555;padding:1.2em 25px 1.2em 25px;border-left:8px solid #0C6523;line-height:1.6;position: relative;background:#EDEDED;">
 <img align="left" src="https://raw.githubusercontent.com/isomerpages/moe-peihwasec/staging/images/CCA/dancetestimonial02.png" style="width: 23%; border-radius: 7%;  margin-right:15px;">
 	"I am so honoured to be part of dance society. This CCA has allowed me to nurture my dance skills and cultivate the leader within me. The memories I’ve made in the past few years has made my secondary school experience very memorable. It’s a privilege to work with such talented and passionate dancers, and I am proud to be in this CCA"
-  <span style="display:block; color:#333333; margin-top:1em;font-size:15px;font-family:sans-serif;"><em style="font-family:sans-serif;">Dance Captain, Bernice Tan </em></span>
+  <span style="display:block; color:#333333; margin-top:1em;font-size:15px;font-family:sans-serif;"><em style="font-family:sans-serif;">Dance Captain, Bernice Tan </em></span><br><br><br><br><br>
 	</blockquote> 
 
 <blockquote style="font-size: 15px;width:100%;margin:50px auto;margin-top:5px;font-family:serif;font-style:italic;color: #555555;padding:1.2em 25px 1.2em 25px;border-left:8px solid #0C6523;line-height:1.6;position: relative;background:#EDEDED;">
 <img align="left" src="https://raw.githubusercontent.com/isomerpages/moe-peihwasec/staging/images/CCA/dancetestimonial03.png" style="width: 23%; border-radius: 7%;  margin-right:15px;">
 	"I enjoy using body language to express my feelings such as through various dance movements. besides dancing, there are many skills that we get to pick up such as having stage presence and building confidence to perform in front of a large audience."
   <span style="display:block; color:#333333; margin-top:1em;font-size:15px;font-family:sans-serif;"><em style="font-family:sans-serif;">Dance Captain, Chervyn Low</em></span>
-	<br>
+	<br><br><br><br><br><br>
 	</blockquote> 
 	
 <blockquote style="font-size: 15px;width:100%;margin:50px auto;margin-top:5px;font-family:serif;font-style:italic;color: #555555;padding:1.2em 25px 1.2em 25px;border-left:8px solid #0C6523;line-height:1.6;position: relative;background:#EDEDED;">
 <img align="left" src="https://raw.githubusercontent.com/isomerpages/moe-peihwasec/staging/images/CCA/dancetestimonial01.png" style="width: 23%; border-radius: 7%;  margin-right:15px;">
 	"Being in dance for these past 3 years has brought me immeasurable joy as I could connect with my peers through the world of dance. It has also allowed me to discover my hidden voice as I firmly believe that actions speak louder than words. With every leap, turn, and split on the dance floor, it conveys my emotions and unravels the story that I am performing."
   <span style="display:block; color:#333333; margin-top:1em;font-size:15px;font-family:sans-serif;"><em style="font-family:sans-serif;">Dance Chairperson, Neo Yuxuan</em></span>
-<br>
+<br><br><br><br><br>
 	</blockquote>
 	
 <h3 style="margin-top:10px;font-weight: bold;color:#000000">CCA Details</h3>
