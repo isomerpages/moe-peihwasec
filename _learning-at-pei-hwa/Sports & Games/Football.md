@@ -81,7 +81,7 @@ third_nav_title: Sports & Games
 <blockquote style="font-size: 15px;width:100%;margin:50px auto;margin-top:5px;font-family:serif;font-style:italic;color: #555555;padding:1.2em 25px 1.2em 25px;border-left:8px solid #0C6523;line-height:1.6;position: relative;background:#EDEDED;">
 <img align="left" src="https://raw.githubusercontent.com/isomerpages/moe-peihwasec/staging/images/CCA/footballtestimonial03.png" style="width: 23%; border-radius: 7%;  margin-right:15px;">
 	"As a C div vice captain, my role is to assist the teachers in bringing discipline and order to the CCA.  I help with preparing the equipment such as balls and cones before each session. I have always wanted to become a leader and participate in NSG with any school, and now I have the chance to prove I am able to lead the team and focus on my studies. Even though I am not the Captain of the CCA, I am still very appreciative for having a leadership role as the teachers see me worthy. I am thankful towards my football teachers for trusting me with this role and i will strive to lead the team well."
-  <span style="display:block; color:#333333; margin-top:1em;font-size:15px;font-family:sans-serif;"><em style="font-family:sans-serif;">Vice-Captain C Division, Deniz Edryan Bin Nur Hidayat</em></span><br>
+  <span style="display:block; color:#333333; margin-top:1em;font-size:15px;font-family:sans-serif;"><em style="font-family:sans-serif;">Vice-Captain C Division, Deniz Edryan Bin Nur Hidayat</em></span><br><br>
 	</blockquote> 
 	
 <blockquote style="font-size: 15px;width:100%;margin:50px auto;margin-top:5px;font-family:serif;font-style:italic;color: #555555;padding:1.2em 25px 1.2em 25px;border-left:8px solid #0C6523;line-height:1.6;position: relative;background:#EDEDED;">
