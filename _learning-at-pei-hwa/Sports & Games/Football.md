@@ -73,21 +73,21 @@ third_nav_title: Sports & Games
 <h3 style="margin-top:10px;font-weight: bold;color:#000000">Student Testament</h3>
 
 <blockquote style="font-size: 15px;width:100%;margin:50px auto;margin-top:5px;font-family:serif;font-style:italic;color: #555555;padding:1.2em 25px 1.2em 25px;border-left:8px solid #0C6523;line-height:1.6;position: relative;background:#EDEDED;">
-<img align="left" src="" style="width: 23%; border-radius: 7%;  margin-right:15px;">
-	""
-  <span style="display:block; color:#333333; margin-top:1em;font-size:15px;font-family:sans-serif;"><em style="font-family:sans-serif;">President</em></span>
+<img align="left" src="https://raw.githubusercontent.com/isomerpages/moe-peihwasec/staging/images/CCA/footballtestimonial01.png" style="width: 23%; border-radius: 7%;  margin-right:15px;">
+	"As the Football Captain of the C division, I love the fact that being in this CCA, I am given the opportunity to express myself on and off the field. I have always believed that while the field is the place for us to make mistakes, it is also a place for us to become better players then before. Additionally, I was also able to cultivate a stronger bond between my schoolmates and friends whilst playing the sport we all love, especially when we play matches against the seniors, as it not only pushes us to our limits but also teaches us new things since we learn together as a team. I am very grateful for the opportunities this CCA has provided me, and I hope that I can continue to contribute in any way possible for the betterment of the CCA."
+  <span style="display:block; color:#333333; margin-top:1em;font-size:15px;font-family:sans-serif;"><em style="font-family:sans-serif;">Captain C Division, Li Tsao Dwon, Ashton</em></span><br>
 	</blockquote> 
 
 <blockquote style="font-size: 15px;width:100%;margin:50px auto;margin-top:5px;font-family:serif;font-style:italic;color: #555555;padding:1.2em 25px 1.2em 25px;border-left:8px solid #0C6523;line-height:1.6;position: relative;background:#EDEDED;">
-<img align="left" src="" style="width: 23%; border-radius: 7%;  margin-right:15px;">
-	""
-  <span style="display:block; color:#333333; margin-top:1em;font-size:15px;font-family:sans-serif;"><em style="font-family:sans-serif;">President</em></span>
+<img align="left" src="https://raw.githubusercontent.com/isomerpages/moe-peihwasec/staging/images/CCA/footballtestimonial03.png" style="width: 23%; border-radius: 7%;  margin-right:15px;">
+	"As a C div vice captain, my role is to assist the teachers in bringing discipline and order to the CCA.  I help with preparing the equipment such as balls and cones before each session. I have always wanted to become a leader and participate in NSG with any school, and now I have the chance to prove I am able to lead the team and focus on my studies. Even though I am not the Captain of the CCA, I am still very appreciative for having a leadership role as the teachers see me worthy. I am thankful towards my football teachers for trusting me with this role and i will strive to lead the team well."
+  <span style="display:block; color:#333333; margin-top:1em;font-size:15px;font-family:sans-serif;"><em style="font-family:sans-serif;">Vice-Captain C Division, Deniz Edryan Bin Nur Hidayat</em></span><br>
 	</blockquote> 
 	
 <blockquote style="font-size: 15px;width:100%;margin:50px auto;margin-top:5px;font-family:serif;font-style:italic;color: #555555;padding:1.2em 25px 1.2em 25px;border-left:8px solid #0C6523;line-height:1.6;position: relative;background:#EDEDED;">
-<img align="left" src="" style="width: 23%; border-radius: 7%;  margin-right:15px;">
-	""
-  <span style="display:block; color:#333333; margin-top:1em;font-size:15px;font-family:sans-serif;"><em style="font-family:sans-serif;">President</em></span>
+<img align="left" src="https://raw.githubusercontent.com/isomerpages/moe-peihwasec/staging/images/CCA/footballtestimonial02.png" style="width: 23%; border-radius: 7%;  margin-right:15px;">
+	"Passion and love for the game drew me to this CCA. Throughout my time here, there have been various and numerous occasions where the team tasted defeat and disappointment, however we never let our heads hang low for we eventually bounce back stronger, harder and with a more fearsome determination to achieve and succeed. The team always gives more than they have to offer during each training session as they strive to make the school and every supporter proud of the team’s achievements. In football, we are all made to experience that bitter taste of defeat to know what losing feels like, and it most often leaves a terrible, bitter aftertaste in our mouths. However, this is what makes the taste of success so sweet and refreshing to all of us when it eventually happens.  As the vice-captain of this CCA, it is with great pride and responsibility that I try to assist my captain in achieving great things to the best of my ability. This CCA has taught me valuable lessons, the most significant being "when the going gets tough, the tough keep going". To never give up and in. Hala Peihwa !"
+  <span style="display:block; color:#333333; margin-top:1em;font-size:15px;font-family:sans-serif;"><em style="font-family:sans-serif;">Vice-Captain B Division, Teh Hong Da Keith (Zheng Hongda)</em></span>
 	</blockquote> 
 
 <h3 style="margin-top:10px;font-weight: bold;color:#000000">CCA Details</h3>
