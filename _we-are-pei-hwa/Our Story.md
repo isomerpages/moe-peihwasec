@@ -70,7 +70,7 @@ Inspiring every Pei Hwa-ian with the zest to learn, the dare to innovate and the
 
 <div style="margin-top:30px; width:100%; padding: 40px; display: flex; align-items: center;" class="box">
 <div style="position: relative; width: 300px; height: 300px; margin-right:40px;" class="container"> 
-	<img class="image" alt="Image" style="max-width: 50%; margin-right: 40px;border-radius: 10px" src="https://raw.githubusercontent.com/isomerpages/moe-peihwasec/staging/images/We%20Are%20Pei%20Hwa/school%20logo%20.png">&nbsp;
+	<img class="image" alt="Image" style="max-width: 50%; margin-right: 40px;border-radius: 10px" src="https://raw.githubusercontent.com/isomerpages/moe-peihwasec/staging/images/logo%20icon%20only%20-%20no%20tagline.png">&nbsp;
 	</div>
 <div style="flex: 1;" class="content">
 	<h6 style="margin-top:-60px;color:#0B6623;"><strong style="color:#0B6623;font-weight:bold;">Our School Logo</strong></h6>
