@@ -1,6 +1,6 @@
 ---
 title: Staff Information
-permalink: /about-us/staff-contact-info/
+permalink: /we-are-pei-hwa/staff-information/
 description: ""
 ---
 <ul class="jekyllcodex_accordion">
