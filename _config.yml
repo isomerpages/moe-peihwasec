@@ -2,13 +2,13 @@ title: Pei Hwa Secondary School
 url: https://moe-peihwasec-staging.netlify.app
 favicon: /images/logo.png
 colors:
-  primary-color: "#f4bf69"
+  primary-color: "#0c6523"
   secondary-color: "#000000"
   media-colors:
     - title: media-color-one
       color: "#50e3c2"
     - title: media-color-two
-      color: "#b3ad8a"
+      color: "#0c6523"
     - title: media-color-three
       color: "#00838f"
     - title: media-color-four
@@ -57,3 +57,4 @@ facebook-pixel: ""
 google_analytics: ""
 linkedin-insights: ""
 resources_name: pdf
+google_analytics_ga4: ""
