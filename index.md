@@ -2,7 +2,7 @@
 layout: homepage
 title: Pei Hwa Secondary School
 description: An Isomer site of the Singapore Government
-image: /images/logo.png
+image: /images/logo icon only - no tagline.png
 permalink: /
 notification: ""
 sections:
