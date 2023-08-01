@@ -87,14 +87,14 @@ Inspiring every Pei Hwa-ian with the zest to learn, the dare to innovate and the
 <div style="display: flex;" class="two-column">&nbsp;
 
 <div style="flex: 1; padding: 0 10px;" class="column">
-<p style="margin: 0;font-size:14.5px; line-height:1.5;font-family:sans-serif;black;">In Pei Hwa Secondary School<br>We are the pride of the community<br>To lead and serve with integrity<br>We grow in our resiliency</p></div>
+<p style="margin: 0;font-size:14.5px; line-height:1.5;font-family:sans-serif;color;black;">In Pei Hwa Secondary School<br>We are the pride of the community<br>To lead and serve with integrity<br>We grow in our resiliency</p></div>
 	
 <div style="flex: 1; padding: 0 10px;" class="column">
-<p style="margin: 0;font-size:14.5px; line-height:1.5;font-family:sans-serif;black;">Though there be many challenges<br>Our passion remains strong<br>We learn and work diligently<br>To be the best that we can be</p>
+<p style="margin: 0;font-size:14.5px; line-height:1.5;font-family:sans-serif;color;black;">Though there be many challenges<br>Our passion remains strong<br>We learn and work diligently<br>To be the best that we can be</p>
 </div>
 
 <div style="flex: 1; padding: 0 10px;" class="column">
-<p style="margin: 0;font-size:14.5px; line-height:1.5;font-family:sans-serif;black;">Here in Pei Hwa  
+<p style="margin: 0;font-size:14.5px; line-height:1.5;font-family:sans-serif;color;black;">Here in Pei Hwa  
 Our talents are nurtured  
 Here in Pei Hwa  
 Where we share in harmony  
