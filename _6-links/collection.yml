@@ -1,5 +1,5 @@
 collections:
-  links:
+  6-links:
     output: true
     order:
       - Links for Students.md
