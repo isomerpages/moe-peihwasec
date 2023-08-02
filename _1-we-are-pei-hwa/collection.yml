@@ -2,7 +2,7 @@ collections:
   1-we-are-pei-hwa:
     output: true
     order:
-      - Student Leadership.md
       - Our Story.md
       - Staff Information.md
+      - Student Leadership.md
       - Corporate Videos & Video Gallery.md
