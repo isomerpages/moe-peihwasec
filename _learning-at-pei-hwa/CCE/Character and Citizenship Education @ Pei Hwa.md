@@ -23,21 +23,22 @@ to character and citizenship development.</p>
 
 <p style="font-size:14.5px; line-height:2;margin-top:15px;font-family:sans-serif;">The Character and Citizenship Education (CCE) will emphasise the interconnectedness of values, knowledge, skills and competencies taught in these areas:</p>
 
-<table border="1" style="border-collapse: collapse;margin: 25px 0;font-size:14.5px;font-family: sans-serif;box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);border:&nbsp;1px solid grey;">
-		<thead style="font-size: 14.5px;border:&nbsp;1px solid grey;">
-			<tr style="border:&nbsp;1px solid grey;">
-			<td style="font-family:sans-serif;margin-bottom:5px;font-size:14.5px; line-height:1.5;border:black;border:&nbsp;1px solid grey;">CCE Lessons</td>
-			<td style="font-family:sans-serif;margin-bottom:5px;font-size:14.5px; line-height:1.5;"><ul style="margin-top:-5px;border:&nbsp;1px solid grey;">
+<table border="1" style="border-collapse: collapse;margin: 25px 0;font-size:14.5px;font-family: sans-serif;box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);">
+		<thead style="font-size: 14.5px;">
+			<tr>
+			<td style="font-family:sans-serif;margin-bottom:5px;font-size:14.5px; line-height:1.5;border:black;">CCE Lessons</td>
+			<td style="font-family:sans-serif;margin-bottom:5px;font-size:14.5px; line-height:1.5;"><ul style="margin-top:-5px;">
 	<li style="font-size:14.5px; line-height:1.5;font-family:sans-serif;"> Teaching of values, knowledge and skills for Character &amp; Citizenship Education through weekly CCE lessons</li>
 					<li style="font-size:14.5px; line-height:1.5;font-family:sans-serif;"> The content areas include Education and Career Guidance,Sexuality Education, Cyber Wellness, National Education, Mental Health and Family Education.</li>
 </ul></td>
 </tr>
 </thead>
 	
-<tbody style="border:&nbsp;1px solid grey;">
-<tr style="border:&nbsp;1px solid grey;">
-			<td style="font-family:sans-serif;margin-bottom:5px;font-size:14.5px; line-height:1.5;border:black;border:&nbsp;1px solid grey;">CCE Lessons</td>
-			<td style="font-family:sans-serif;margin-bottom:5px;font-size:14.5px; line-height:1.5;"><ul style="margin-top:-5px;border:&nbsp;1px solid grey;">
+<tbody>
+<tr>
+			<td style="font-family:sans-serif;margin-bottom:5px;font-size:14.5px; line-height:1.5;border:black;">CCE Lessons</td>
+			<td style="font-family:sans-serif;margin-bottom:5px;font-size:14.5px; line-height:1.5;">
+				<ul>
 	<li style="font-size:14.5px; line-height:1.5;font-family:sans-serif;"> Teaching of values, knowledge and skills for Character &amp; Citizenship Education through weekly CCE lessons</li>
 					<li style="font-size:14.5px; line-height:1.5;font-family:sans-serif;"> The content areas include Education and Career Guidance,Sexuality Education, Cyber Wellness, National Education, Mental Health and Family Education.</li>
 </ul></td>
