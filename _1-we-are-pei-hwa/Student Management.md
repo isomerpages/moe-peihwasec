@@ -144,8 +144,133 @@ accepted attire of their CCA groups. Slippers and sandals are not to be worn in 
 or white. There should be no large branding or advertisements on them.</li>
 <li style="font-size:14.5px; line-height:1.5 ;margin-top:5px; font-family:sans-serif;"> Headgear of any type is not allowed.</li>
 		</ul></li>
+	<li style="font-size:14.5px; line-height:1.5;font-family:sans-serif;">Hair 
+		<ul style="margin-top:5px">
+	<li style="font-size:14.5px; line-height:1.5;font-family:sans-serif;">Female Students: 
+
+		
+<ul style="margin-top:5px">
+	<li style="font-size:14.5px; line-height:1.5;font-family:sans-serif;">Hair must not be permed, coloured or tinted.</li>
+	<li style="font-size:14.5px; line-height:1.5;font-family:sans-serif;">Shoulder-length hair (i.e hair which is long enough to touch the collar of the  uniform or the student’s shoulder) must be tied and plaited neatly and  firmly. 
+</li>
+	<li style="font-size:14.5px; line-height:1.5;font-family:sans-serif;">Fringe and hair at both sides of the head/above the ears must be pinned  up neatly and must not touch the eyebrows.</li>
+	<li style="font-size:14.5px; line-height:1.5;font-family:sans-serif;">Only black or dark blue hair bands, ribbons, hair clips or hair accessories  are allowed. </li><li style="font-size:14.5px; line-height:1.5;font-family:sans-serif;">No fanciful hair bands, ribbons or clips are allowed. </li>
+		</ul></li>
+				<li style="font-size:14.5px; line-height:1.5;font-family:sans-serif;">Male Students: 
+					
+<ul style="margin-top:5px">
+	<li style="font-size:14.5px; line-height:1.5;font-family:sans-serif;">Hair must not be permed, coloured or tinted.</li>
+	<li style="font-size:14.5px; line-height:1.5;font-family:sans-serif;">Hairstyles must be short, simple and neat. Outlandish/fanciful hairstyles,  such as the undercut and shaved lines, are not allowed.  </li>
+	<li style="font-size:14.5px; line-height:1.5;font-family:sans-serif;">Hair combed down in front must not reach the eyebrows. It should not touch  the ears or collar. It should be cropped at the back of the head and show  evidence of a slight slope. </li>
+	<li style="font-size:14.5px; line-height:1.5;font-family:sans-serif;">Male students must be neat in appearance and clean-shaven and no facial • hair is allowed. Moustache, beards or goatees are strictly forbidden.  Sideburns must not extend beyond the middle of the ear. </li>
+		</ul></li>
+</ul>
+	
+</li><li style="font-size:14.5px; line-height:1.5;font-family:sans-serif;"> Face
+<ul style="margin-top:5px">
+	<li style="font-size:14.5px; line-height:1.5;font-family:sans-serif;">No facial makeup is allowed. </li>
+	<li style="font-size:14.5px; line-height:1.5;font-family:sans-serif;">Girls and boys should not tamper with their eyebrows (i.e. use of eyebrow  pencil is not allowed) </li>
+		</ul></li>
+	
+<li style="font-size:14.5px; line-height:1.5;font-family:sans-serif;">Fingernails
+<ul style="margin-top:5px">
+	<li style="font-size:14.5px; line-height:1.5;font-family:sans-serif;">Fingernails must be kept short, clean and neat. No nail polish is allowed.</li>
+		</ul></li>
+	
+<li style="font-size:14.5px; line-height:1.5;font-family:sans-serif;">Spectacles
+<ul style="margin-top:5px">
+	<li style="font-size:14.5px; line-height:1.5;font-family:sans-serif;">No coloured contact lenses and outlandish spectacles are allowed. </li>
+		</ul></li>
+		<li style="font-size:14.5px; line-height:1.5;font-family:sans-serif;">Jewellery / Accessories 
+<ul style="margin-top:5px">
+	<li style="font-size:14.5px; line-height:1.5;font-family:sans-serif;">Students are not allowed to wear jewellery/accessories of any kind (ring, chain,  bracelet, band etc). 
+</li>
+	<li style="font-size:14.5px; line-height:1.5;font-family:sans-serif;">Female students are allowed to wear only one pair of identical ear studs/ear  sticks on the ear lobes. These ear studs must be small and plain silver or gold.  Earrings such as hoops, dangles and drops are not allowed. Male students are  not allowed to have ear sticks. 
+</li>
+	<li style="font-size:14.5px; line-height:1.5;font-family:sans-serif;">No lip, tongue and nose studs are allowed. 
+
+</li>
+		</ul>
+	</li>
 	</ol>
 
+<p style="margin-top:15px;font-size:15.5px;"><strong style="font-family:sans-serif;">9. Cleanliness</strong></p>
+<p style="font-size:14.5px; line-height:2;margin:-15px 0 13px 0px;font-family:sans-serif;">Students must keep their classes, toilets and the school grounds clean at all times.  Students on duty are to ensure that their classrooms are clean and all furniture are  properly arranged before the start and at the end of the day, including the examination  periods. 
+</p> 
+
+<p style="margin-top:15px;font-size:14.5px; line-height:2;font-family:sans-serif;">Students who make use of any part of the school premises outside school hours must also ensure that the area is kept clean. </p>
+
+<p style="margin-top:15px;font-size:15.5px;"><strong style="font-family:sans-serif;">10. Responsible Usage of Technology </strong></p>
+<p style="font-size:14.5px; line-height:2;margin:-15px 0 13px 0px;font-family:sans-serif;">Each student has the responsibility of being a good digital citizen and should make  responsible decisions that protect themselves and the school community.  
+</p> 
+
+<ol style="margin-top:5px">
+	<li style="font-size:14.5px; line-height:1.5;font-family:sans-serif;">Cyber Wellness
+		<ul style="margin-top:5px">
+	<li style="font-size:14.5px; line-height:1.5;font-family:sans-serif;">Students:  
+<ul style="margin-top:5px">
+	<li style="font-size:14.5px; line-height:1.5;font-family:sans-serif;">Must respect oneself and others online (e.g. not accessing inappropriate websites,  abusing the Internet to commit illegal activities or plagiarism, share information  about others without permission, not downloading or sharing inappropriate  materials online). </li>
+	<li style="font-size:14.5px; line-height:1.5;font-family:sans-serif;">Must have a clear understanding of the risks of harmful and illegal online behaviour  (e.g. cyber addiction, cyber-bullying and cybercrime) and learn to safeguard  themselves against dangers that they might encounter online. 
+</li>
+	<li style="font-size:14.5px; line-height:1.5;font-family:sans-serif;">Should seek the permission of teachers to take photographs or videos of any
+members of the school community during school events and school trips.</li>
+		</ul></li>
+		</ul></li>
+
+	
+<li style="font-size:14.5px; line-height:1.5;font-family:sans-serif;"> Cyber-bullying
+	<p style="font-size:14.5px; line-height:2;margin:5px;font-family:sans-serif;">The school takes a serious view of cyber-bullying in any form. All cases reported to school
+authorities will be investigated. Examples include but are not limited to:
+</p> 
+<ul style="margin-top:5px">
+	<li style="font-size:14.5px; line-height:1.5;font-family:sans-serif;">Use of threatening words on another student.</li>
+	<li style="font-size:14.5px; line-height:1.5;font-family:sans-serif;">Use of vulgar and obscene language on another student.</li>
+		<li style="font-size:14.5px; line-height:1.5;font-family:sans-serif;">Posting content that is meant to embarrass/ harass / humiliate another person.</li>
+	<li style="font-size:14.5px; line-height:1.5;font-family:sans-serif;">Blackmailing another student.</li>
+		</ul></li>
+	
+<li style="font-size:14.5px; line-height:1.5;font-family:sans-serif;">Cyber Offences
+	<p style="font-size:14.5px; line-height:2;margin:5px;font-family:sans-serif;">The school takes a serious view of cyber offences. All reported cases will be investigated.
+Examples include but are not limited to:</p> 
+<ul style="margin-top:5px">
+	<li style="font-size:14.5px; line-height:1.5;font-family:sans-serif;">Impersonation or setting up fictitious online accounts.</li>
+	<li style="font-size:14.5px; line-height:1.5;font-family:sans-serif;">Abuse of passwords for computer accounts (e.g. sharing of passwords with
+friends, hacking of others’ accounts).</li>
+		<li style="font-size:14.5px; line-height:1.5;font-family:sans-serif;">Any violation of the above offences made outside of school premises or during
+non-curriculum hours will still be addressed and dealt with in accordance to
+disciplinary procedures laid down.</li>
+		</ul>
+</li>
+		
+	
+	</ol>
+
+<p style="margin-top:15px;font-size:15.5px;"><strong style="font-family:sans-serif;">11. Transport</strong></p>
+<p style="font-size:14.5px; line-height:2;margin:-15px 0 13px 0px;font-family:sans-serif;">Students are to disembark from vehicles at designated areas, such as the school’s main gate. For safety reason, the main school gate will be closed to the public and cars will not
+be allowed in. Students must use the pedestrian gates. Students cycling to school must dismount outside the school’s main gate and push their bicycles into the school premises. All bicycles are to be parked in the designated lots only. The school will not be responsible for the security of these bicycles. Students who would like to cycle to school must register with the school.</p> 
+
+<p style="margin-top:15px;font-size:15.5px;"><strong style="font-family:sans-serif;">12. Anti-social behaviour</strong></p>
+<p style="font-size:14.5px; line-height:2;margin:-15px 0 13px 0px;font-family:sans-serif;">All students must abide by the laws governing Singapore. Students found violating these will face the fines, punishment and even criminal records imposed by the authorities, in addition to any appropriate disciplinary action that the school will mete out.</p> 
+
+<p style="margin-top:15px;font-size:14.5px; line-height:2;font-family:sans-serif;">Littering and spitting, vandalism of school property, stealing, cheating, forgery of signatures, extortion of money, gambling, smoking, possession of cigarettes and/or smoking peripherals, inhalant abuse, possession of drugs, fighting, physical violence, verbal abuse, racism, being a public nuisance, possession of pornographic materials and the deliberate visiting of pornographic websites are examples of serious offences punishable by law.</p>
+
+<p style="margin-top:15px;font-size:14.5px; line-height:2;font-family:sans-serif;"><strong>All students are not allowed to have in their possession any weapon. They are not allowed to bring any weapon-like item which can be used or intended to be used to cause harm to others.</strong></p>
+
+<p style="margin-top:15px;font-size:15.5px;"><strong style="font-family:sans-serif;">5. Student Movement</strong></p>
+<p style="font-size:14.5px; line-height:2;margin:-15px 0 13px 0px;font-family:sans-serif;">Students are not allowed to leave the classrooms or go to the toilet without permission. Students must obtain a Movement Pass from the teacher. Silence must be observed at all
+times during movement. Classes must queue up and move in twos. Students are to keep to the left when moving from point to point.</p> 
+
+<p style="margin-top:15px;font-size:15.5px;"><strong style="font-family:sans-serif;">5. Student Movement</strong></p>
+<p style="font-size:14.5px; line-height:2;margin:-15px 0 13px 0px;font-family:sans-serif;">Students are not allowed to leave the classrooms or go to the toilet without permission. Students must obtain a Movement Pass from the teacher. Silence must be observed at all
+times during movement. Classes must queue up and move in twos. Students are to keep to the left when moving from point to point.</p> 
+
+<p style="margin-top:15px;font-size:15.5px;"><strong style="font-family:sans-serif;">5. Student Movement</strong></p>
+<p style="font-size:14.5px; line-height:2;margin:-15px 0 13px 0px;font-family:sans-serif;">Students are not allowed to leave the classrooms or go to the toilet without permission. Students must obtain a Movement Pass from the teacher. Silence must be observed at all
+times during movement. Classes must queue up and move in twos. Students are to keep to the left when moving from point to point.</p> 
+
+<p style="margin-top:15px;font-size:15.5px;"><strong style="font-family:sans-serif;">5. Student Movement</strong></p>
+<p style="font-size:14.5px; line-height:2;margin:-15px 0 13px 0px;font-family:sans-serif;">Students are not allowed to leave the classrooms or go to the toilet without permission. Students must obtain a Movement Pass from the teacher. Silence must be observed at all
+times during movement. Classes must queue up and move in twos. Students are to keep to the left when moving from point to point.</p> 
 
 
 <h4 style="color:#635f1a;font-family:sans-serif;font-weight:bold;">Simple Tips to Have Better Self-Discipline</h4>
