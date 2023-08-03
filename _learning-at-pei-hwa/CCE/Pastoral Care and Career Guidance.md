@@ -60,3 +60,41 @@ professional ethics to maintain confidentiality of matters discussed during coun
 <h5 style="color:#635f1a;font-family:sans-serif;font-weight:bold;">3. Special Educational Needs (SEN) Support</h5>
 
 <p style="margin-top:15px;font-size:14.5px; line-height:2;font-family:sans-serif;">The Special Educational Needs Officer (SENO) supports students with mild special educational needs such as Dyslexia, Autism Spectrum Disorder (ASD), attention deficit hyperactivity disorder (ADHD) as well as others with learning and behavioural needs in the following ways:</p>
+
+<ul style="margin-top:5px">
+	<li style="font-size:14.5px; line-height:1.5;font-family:sans-serif;">individual / small group intervention support (e.g. in literacy skills)</li>
+<li style="font-size:14.5px; line-height:1.5 ;margin-top:5px; font-family:sans-serif;">small group skills training (e.g. social skills, study and organizational skills)</li>
+<li style="font-size:14.5px; line-height:1.5 ;margin-top:5px; font-family:sans-serif;">in-class support</li>
+	<li style="font-size:14.5px; line-height:1.5 ;margin-top:5px; font-family:sans-serif;">case management and other administrative duties</li>
+	<li style="font-size:14.5px; line-height:1.5 ;margin-top:5px; font-family:sans-serif;">resource management</li>
+	</ul>
+	
+<p style="font-size:14.5px; line-height:1.5;margin-top:15px; font-family:sans-serif;">The scope of work includes:</p>
+
+<ul style="margin-top:5px">
+	<li style="font-size:14.5px; line-height:1.5;font-family:sans-serif;">collaborating and communicating with parents</li>
+<li style="font-size:14.5px; line-height:1.5 ;margin-top:5px; font-family:sans-serif;">working closely with teachers (including teachers trained in Special Needs (TSNs))</li>
+<li style="font-size:14.5px; line-height:1.5 ;margin-top:5px; font-family:sans-serif;">working closely with other school personnel such as the School Counsellors and Lead
+Teacher, Learning Needs (SEN) to provide holistic support to students with mild to
+moderate needs</li>
+	<li style="font-size:14.5px; line-height:1.5 ;margin-top:5px; font-family:sans-serif;">consulting and working closely with external partners such as REACH</li>
+	</ul>
+	
+<p style="margin-top:15px;font-size:14.5px; line-height:2;font-family:sans-serif;">The SEN Officer in Pei Hwa Secondary School is:<br>
+Ms Belinda Danker<br>
+Tel: 65009580 ext 205<br>
+Email: danker_belinda_ann@moe.edu.sg</p>
+
+<h5 style="color:#635f1a;font-family:sans-serif;font-weight:bold;">4. Education and Career Guidance (ECG) Counselling</h5>
+
+<p style="margin-top:15px;font-size:14.5px; line-height:2;font-family:sans-serif;">ECG Counsellors have been deployed to enhance ECG efforts in school. ECG Counsellors
+provide individual and group counselling to students to guide them to make informed decisions
+based on their interests and strengths, so that they can contribute meaningfully to society
+through their future professions. ECG Counsellors also conduct workshops for educators and
+students.</p>
+
+<p style="margin-top:15px;font-size:14.5px; line-height:2;font-family:sans-serif;">Our school’s ECG Counsellor is Ms Adeline Ng and she is stationed in our school every Monday and Thursday of the week to provide ECG counselling to students.</p>
+
+<p style="margin-top:15px;font-size:14.5px; line-height:2;font-family:sans-serif;">Students can visit this <a href="https://go.gov.sg/apptecgc" style="font-size:14.5px; line-height:1.5;font-family:sans-serif;font-weight:bold;text-decoration: none;">link</a> to book an appointment to see her at the
+school library to discover their values, interests, personalities and strengths as well as explore
+and make informed decisions about their post-secondary education pathways.</p>
