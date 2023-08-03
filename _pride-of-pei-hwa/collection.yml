@@ -1,5 +1,5 @@
 collections:
-  4-pride-of-pei-hwa:
+  pride-of-pei-hwa:
     output: true
     order:
       - Students.md
