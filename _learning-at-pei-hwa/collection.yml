@@ -1,5 +1,5 @@
 collections:
-  2-learning-at-pei-hwa:
+  learning-at-pei-hwa:
     output: true
     order:
       - Instructional Programmes/.keep
