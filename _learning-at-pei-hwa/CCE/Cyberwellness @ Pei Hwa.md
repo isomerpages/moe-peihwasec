@@ -16,7 +16,7 @@ third_nav_title: CCE
 
 <p style="font-size:14.5px; line-height:2;margin-top:15px;font-family:sans-serif;">Cyber Wellness education is usually conducted through CCE lessons during curriculum time, school-based programmes and teachable moments. Cyber Wellness in Character and Citizenship Education (CCE) focuses on the well-being of our students as they navigate cyberspace. The CCE curriculum aims to equip students with the knowledge and skills to harness the power of ICT for positive purposes, maintain a positive presence in cyberspace and be safe and responsible users of ICT.</p>
 
-<h4 style="color:#635f1a;font-family:sans-serif;font-weight:bold;">Resources for Parents</h4>
+<h4 style="font-weight: bold;margin: 0;color:#0B6623;font-family:sans-serif">Resources for Parents</h4>
 
 <ol style="margin-top:15px;">
 	<li style="font-size:14.5px; line-height:1.5;font-family:sans-serif;"><a href="https://www.schoolbag.edu.sg/story/understanding-cyber-wellness" style="font-size:14.5px; line-height:1.5;font-family:sans-serif;font-weight:bold;text-decoration: none;">Understanding Cyber Wellness</a></li>
