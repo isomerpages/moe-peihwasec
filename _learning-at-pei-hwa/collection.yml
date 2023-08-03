@@ -2,7 +2,6 @@ collections:
   learning-at-pei-hwa:
     output: true
     order:
-      - ICT Enrichment.md
       - Instructional Programmes/.keep
       - Instructional Programmes/English and English Literature.md
       - Instructional Programmes/Mathematics.md
@@ -45,3 +44,4 @@ collections:
       - Uniformed Groups/National Civil Defence Cadet Corps.md
       - Uniformed Groups/National Police Cadet Corps.md
       - Student Leadership.md
+      - ICT Enrichment.md
