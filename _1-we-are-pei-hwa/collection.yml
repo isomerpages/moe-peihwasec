@@ -3,6 +3,6 @@ collections:
     output: true
     order:
       - Our Story.md
-      - Staff Information.md
       - Our Student Management Philosophy.md
+      - Staff Information.md
       - Corporate Videos & Video Gallery.md
