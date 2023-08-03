@@ -2,9 +2,6 @@ collections:
   2-learning-at-pei-hwa:
     output: true
     order:
-      - Character Citizenship Edu/ICT Enrichment.md
-      - Character Citizenship Edu/Sexuality Education.md
-      - Character Citizenship Edu/.keep
       - Instructional Programmes/.keep
       - Instructional Programmes/English and English Literature.md
       - Instructional Programmes/Mathematics.md
@@ -16,6 +13,9 @@ collections:
       - Instructional Programmes/Physical Education.md
       - Instructional Programmes/Infocomm Technology.md
       - Instructional Programmes/Character and Citizenship Education.md
+      - Character Citizenship Edu/.keep
+      - Character Citizenship Edu/ICT Enrichment.md
+      - Character Citizenship Edu/Sexuality Education.md
       - Assessment and Homework Policy.md
       - CCAs.md
       - Clubs & Societies/.keep
