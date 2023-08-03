@@ -4,7 +4,7 @@ permalink: /learning-at-pei-hwa/cce/sexuality-education/
 description: ""
 third_nav_title: CCE
 ---
-<h4 style="color:#635f1a;font-weight:bold;font-family:sans-serif;">MOE Sexuality Education in Schools</h4>
+<h4 style="font-weight: bold;margin: 0;color:#0B6623;font-family:sans-serif">MOE Sexuality Education in Schools</h4>
 
 <p style="font-size:14.5px; line-height:2;margin-top:15px; font-family:sans-serif">Sexuality Education (SEd) in schools is about enabling students to understand the physiological, social and emotional changes they experience as they mature, develop healthy and rewarding relationships including those with members of the opposite sex, and make wise, informed and responsible decisions on sexuality matters. SEd is premised on the importance of the family as the basic unit of society. This means encouraging healthy, heterosexual marriages and stable nuclear family units with extended family support. The teaching and learning of SEd is based on respect for the values and beliefs of the different ethnic and religious communities in Singapore on sexuality issues.</p>
 
@@ -26,7 +26,7 @@ third_nav_title: CCE
 <p style="margin-top:15px;font-size:14.5px; line-height:2;font-family:sans-serif;">You may click&nbsp;<a href="https://www.moe.gov.sg/programmes/sexuality-education" target="_blank" rel="noopener noreferrer" style="font-family:sans-serif;">here</a>&nbsp;for more information on MOE Sexuality Education.</p>
 
 
-<h4 style="color:#635f1a;font-weight:bold;font-family:sans-serif;">Overview of Pei Hwa Secondary &amp; School &amp; Sexuality Education Programme for 2023</h4>
+<h4 style="font-weight: bold;margin: 0;color:#0B6623;font-family:sans-serif">Overview of Pei Hwa Secondary &amp; School &amp; Sexuality Education Programme for 2023</h4>
 
  <p style="font-size:14.5px; line-height:2;margin-top:15px; font-family:sans-serif"></p><p style="margin-top:15px;font-size:14.5px; line-height:2;font-family:sans-serif;">Sexuality Education is delivered in a holistic manner through the school curriculum. The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law. You may click&nbsp;<a href="https://www.moe.gov.sg/programmes/sexuality-education/scope-and-teaching-approach">here</a>&nbsp;for more information on the scope of Sexuality Education in the school curriculum.</p>
 
@@ -37,12 +37,12 @@ third_nav_title: CCE
 </ul>
 
 
-<h4 style="color:#635f1a;font-weight:bold;font-family:sans-serif;">Sexuality Education Lessons</h4>
+<h4 style="font-weight: bold;margin: 0;color:#0B6623;font-family:sans-serif">Sexuality Education Lessons</h4>
 <p style="font-size:14.5px; line-height:2;margin-top:15px; font-family:sans-serif">The values and attitudes of our youth towards sexuality are increasingly shaped by their peers, exposure to the media, popular culture and the internet. Adolescence is a complex stage in life as the adolescent attempts to find his/her own identity and often struggles with new social relationships. The period of middle adolescence (generally from 15 – 17 years old) can be a turbulent period for adolescents. The gap between physical and emotional/cognitive maturity may result in a tendency to act on impulse, experiment with various activities (including sexual activities), sometimes without understanding the unpleasant consequences that may arise from such experimentation. The need for peer acceptance can be overwhelmingly strong, and hinder one’s ability to act responsibly. Given the pressures faced by the middle adolescent from within themselves and from peers, it is important to build a strong sense of self-worth, personal conviction and an understanding of the possible consequences of sexual behaviour.</p>
 
 <p style="margin-top:15px;font-size:14.5px; line-height:2;font-family:sans-serif;">Through the Sexuality Education lessons, secondary students will have the opportunity to develop a positive self-esteem, develop their character, and expand their understanding and repertoire of skills to deal with various issues related to sexuality, which are of prime concern at this age.&nbsp;</p>
 
-<h4 style="color:#635f1a;font-weight:bold;font-family:sans-serif;">At Pei Hwa Secondary School, the following Sexuality Education lessons will be taught in 2023</h4>
+<h4 style="font-weight: bold;margin: 0;color:#0B6623;font-family:sans-serif">At Pei Hwa Secondary School, the following Sexuality Education lessons will be taught in 2023</h4>
 
 <img src="/images/Screenshot-2023-01-25-085338.png">
 
@@ -335,13 +335,13 @@ Lesson 2<br>(60 mins)</td>
 </tbody>
 </table>
 
-<h4 style="color:#635f1a;font-weight:bold;font-family:sans-serif;"><em style="font-family:sans-serif;">eTeens</em> Programme:</h4>
+<h4 style="font-weight: bold;margin: 0;color:#0B6623;font-family:sans-serif"><em style="font-weight: bold;margin: 0;color:#0B6623;font-family:sans-serif">eTeens</em> Programme:</h4>
 
  <p style="font-size:14.5px; line-height:2;margin-top:15px; font-family:sans-serif"><em style="font-family:sans-serif;">eTeens</em> is a programme developed by Health Promotion Board, in collaboration with the Ministry of Education, to provide Secondary 3 students with accurate information on STIs, HIV and protection from a health perspective.<em style="font-family:sans-serif;"> eTeens </em>is conducted in two segments – a mass talk segment and a classroom-based programme.</p>
 
 <p style="margin-top:15px;font-size:14.5px; line-height:2;font-family:sans-serif;">Students are taught skills such as decision-making, assertiveness and negotiation to say “no” to sex and negative peer pressure. They also learn that the impact of STIs/HIV extends beyond themselves and involves their family. Abstinence and upholding family values are the key messages. The desired outcome of the&nbsp;<em style="font-family:sans-serif;">eTeens</em>&nbsp;programme is that students are empowered to make wise, informed and sensible decisions.</p>
 
-<h4 style="color:#635f1a;font-weight:bold">At Pei Hwa Secondary School, the <em style="">eTeens</em> programme will be implemented as follows in 2023:</h4>
+<h4 style="font-weight: bold;margin: 0;color:#0B6623;">At Pei Hwa Secondary School, the <em style="font-weight: bold;margin: 0;color:#0B6623;">eTeens</em> programme will be implemented as follows in 2023:</h4>
 
 <table border="1" style="border-collapse: collapse;margin: 25px 0;font-size:15px;font-family: sans-serif;box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);">
 <thead style="background-color: #009879; font-weight: bold; font-size: 14.5px;">
@@ -388,7 +388,7 @@ Lesson 2<br>(60 mins)</td>
 </tbody>
 </table>
 
-<h4 style="color:#635f1a;font-weight:bold;font-family:sans-serif;">Information for Parents</h4>
+<h4 style="font-weight: bold;margin: 0;color:#0B6623;font-family:sans-serif">Information for Parents</h4>
 <p style="font-size:14.5px; line-height:2;margin-top:15px; font-family:sans-serif">Parents may opt their children out of the Sexuality Education lessons, <em style="font-family:sans-serif;">eTeens</em> and/or supplementary sexuality education programmes by MOE-approved external providers. </p>
 
  <p style="margin-top:14.5px;font-size:14.5px; line-height:2;font-family:sans-serif;">Parents who wish to opt their children out of the <strong style="font-family:sans-serif;">Sexuality Education lessons </strong> need to complete an opt-out form at <a href="https://go.gov.sg/2023-sed-lessons-parent-opt-out-form" style="font-family:sans-serif;">https://go.gov.sg/2023-sed-lessons-parent-opt-out-form</a>. The link to this form will be distributed to parents in Term 1 via Parents Gateway and is also downloadable <a href="https://drive.google.com/file/d/1Do9o9CqIlRP3c4bczZ26gjUPE6Pi6vLL/view" style="font-family:sans-serif;">here</a>. The completed form is to be submitted online by 10/02/2023 for Secondary 1-4 students and by 17/02/2023 for Secondary 5 students.</p>
