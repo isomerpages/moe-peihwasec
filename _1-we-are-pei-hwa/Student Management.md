@@ -3,6 +3,7 @@ title: Student Management
 permalink: /learning-at-pei-hwa/instructional-programmes/student-management/
 description: ""
 ---
+<h4 style="color:#635f1a;font-family:sans-serif;font-weight:bold;">Student Management</h4>
 <p style="font-size:14.5px; line-height:2;margin-top:15px;font-family:sans-serif;">In Pei Hwa, we believe in positive discipline where we teach children to develop safe, socially responsible behavior that promotes self-discipline, self-respect and respect for the feelings and property of others.<br><br>Students are expected to be familiar and comply with the school rules and regulations listed&nbsp;here.</p>
 
 
@@ -270,5 +271,4 @@ detention, corrective community service, suspension and caning are considered in
 and regulations. The Committee has the final decision on what is deemed appropriate and
 what is allowed/not allowed in the school. When changes are made, they will be conveyed
 to the teachers and students through the school’s public address system. Students are
-expected to convey such changes to their parents for information.</p> 
-
+expected to convey such changes to their parents for information.</p>
