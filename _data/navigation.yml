@@ -5,20 +5,22 @@ links:
     sublinks:
       - title: Our Story
         url: /we-are-pei-hwa/our-story/
+      - title: Our Vision, Mission & Values
+        url: /we-are-pei-hwa/our-vision-mission-and-values/
+      - title: Our Motto, Logo and Song
+        url: /we-are-pei-hwa/our-motto-logo-and-song/
+      - title: Student Management Philosophy
+        url: /we-are-pei-hwa/our-student-management-philosophy/
       - title: Staff Information
         url: /we-are-pei-hwa/staff-information/
-      - title: Corporate Videos/Video Gallery
-        url: /we-are-pei-hwa/videos/
   - title: Learning @ Pei Hwa
-    url: /ccas/
+    url: /learning-at-pei-hwa/instructional-programmes/english-language-literature/
     sublinks:
       - title: Instructional Programmes
         url: /learning-at-pei-hwa/instructional-programmes/english-language-literature/
-      - title: Assessment and Homework Policy
-        url: /learning-at-pei-hwa/assessment-and-homework-policy/
-      - title: Sexuality Education
-        url: /learning-at-pei-hwa/sexuality-education/
-      - title: CCAs
+      - title: CCE
+        url: /learning-at-pei-hwa/cce/character-citizenship-education-at-pei-hwa/
+      - title: CCA
         url: /learning-at-pei-hwa/cca/
       - title: Student Leadership
         url: /learning-at-pei-hwa/student-leadership/
@@ -33,6 +35,8 @@ links:
         url: /school-distinctive-programme/learning-for-life-programme-community-youth-leadership-llp-cyl/
       - title: Direct School Admission
         url: /uniquely-pei-hwa/direct-school-admission-dsa/
+      - title: Beyond Borders Programme
+        url: /uniquely-pei-hwa/beyond-borders-programme/
       - title: Family Matters @ School
         url: /uniquely-pei-hwa/family-matters-at-school/
       - title: Counselling
@@ -48,15 +52,15 @@ links:
         url: /pride-of-pei-hwa/students/
       - title: Graduates
         url: /pride-of-pei-hwa/graduates/
-  - title: Pei Hwa Together
-    url: /pei-hwa-together/parents-support-group/
+  - title: Community@Pei Hwa
+    url: /community-at-pei-hwa/parents-support-group/
     sublinks:
       - title: Parents Support Group
-        url: /pei-hwa-together/parents-support-group/
+        url: /community-at-pei-hwa/parents-support-group/
       - title: Pei Hwa Alumni
-        url: /pei-hwa-together/pei-hwa-alumni/
+        url: /community-at-pei-hwa/pei-hwa-alumni/
       - title: School Advisory Committee
-        url: /pei-hwa-together/school-advisory-committee/
+        url: /community-at-pei-hwa/school-advisory-committee/
   - title: Links
     url: /links/links-for-teachers/
     sublinks:

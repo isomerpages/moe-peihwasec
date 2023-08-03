@@ -1,6 +1,6 @@
 ---
 title: Parents Support Group
-permalink: /pei-hwa-together/parents-support-group/
+permalink: /community-at-pei-hwa/parents-support-group/
 description: ""
 ---
 <h5 style="margin-top:15px;color:#0B6623;">Who Are We</h5>

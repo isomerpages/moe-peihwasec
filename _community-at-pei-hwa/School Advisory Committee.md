@@ -1,6 +1,6 @@
 ---
 title: School Advisory Committee
-permalink: /pei-hwa-together/school-advisory-committee/
+permalink: /community-at-pei-hwa/school-advisory-committee/
 description: ""
 ---
 <p style="font-size:14.5px; line-height:2;font-family:sans-serif;">Pei Hwa Secondary School’s School Advisory Committee was set up in 2005. Since its inception, the committee has played a vital role in supporting the school’s programmes and events through its valuable contribution of time, money and expertise.</p>

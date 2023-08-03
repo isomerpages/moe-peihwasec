@@ -1,7 +1,8 @@
 ---
-title: Assessment and Homework Policy
-permalink: /learning-at-pei-hwa/assessment-and-homework-policy/
+title: Homework and Assessment and Policy
+permalink: /learning-at-pei-hwa/instructional-programmes/homework-and-assessment-policy/
 description: ""
+third_nav_title: Instructional Programmes
 ---
 <h4 style="color:#635f1a;font-family:sans-serif;font-weight:bold;">SCHOOL BASED ASSESSMENT 2023</h4>
 

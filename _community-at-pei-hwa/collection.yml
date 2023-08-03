@@ -1,7 +1,7 @@
 collections:
-  pei-hwa-together:
+  community-at-pei-hwa:
     output: true
     order:
-      - School Advisory Committee.md
       - Parents Support Group.md
       - Pei Hwa Alumni.md
+      - School Advisory Committee.md

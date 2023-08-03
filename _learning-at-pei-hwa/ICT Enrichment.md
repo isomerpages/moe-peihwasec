@@ -1,6 +1,6 @@
 ---
 title: ICT Enrichment
-permalink: /learning-at-pei-hwa/ict-enrichment/
+permalink: /ict-enrichment/
 description: ""
 ---
 <h4 style="color:#635f1a;font-weight:bold;font-family:sans-serif;">Secondary 1 – 2</h4>
