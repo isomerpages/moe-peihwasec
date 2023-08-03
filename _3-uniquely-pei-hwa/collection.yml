@@ -2,7 +2,6 @@ collections:
   3-uniquely-pei-hwa:
     output: true
     order:
-      - Beyond Border Programme.md
       - Innovation & Talent Development.md
       - Distinctive Programmes/.keep
       - Distinctive Programmes/Learning for Life Programme – Community Youth
@@ -16,6 +15,7 @@ collections:
       - Direct School Admission/Floorball DSA (For Girls only).md
       - Direct School Admission/Wushu DSA.md
       - Direct School Admission/Taekwondo DSA.md
+      - Beyond Border Programme.md
       - Family Matters @ School.md
       - Counselling.md
       - School Green Awards (SGA).md
