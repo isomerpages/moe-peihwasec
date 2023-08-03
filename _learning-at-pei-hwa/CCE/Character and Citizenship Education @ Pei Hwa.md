@@ -11,18 +11,17 @@ dispositions and social-emotional well-being, with the aim of realising the scho
 
 <h4 style="margin-top:10px;font-weight: bold;color:#000000">Our Programmes</h4>
 
-<p style="font-size:14.5px; line-height:2;margin-top:15px;font-family:sans-serif;">Character and Citizenship Education (CCE) is integral to the holistic development of students.The CCE curriculum supports the students’ development of values, character, citizenship
-dispositions and social-emotional well-being, with the aim of realising the school’s vision of developing Future-Ready Learners and Forward-Looking Leaders.</p>
+<p style="margin-top:15px;font-size:15.5px;"><u style="font-family:sans-serif;">Overview</u></p>
 
-<p style="font-size:14.5px; line-height:1.5;margin-top:15px; font-family:sans-serif;">The 3 Cyber Wellness Key Messages are:  
+<p style="font-size:14.5px; line-height:2;margin-top:15px;font-family:sans-serif;">The CCE curriculum provides invaluable lessons and learning experiences to help our students internalise and practise good values and skills as well as develop competencies that are critical
+to character and citizenship development.</p>
+
+<p style="font-size:14.5px; line-height:1.5;margin-top:15px; font-family:sans-serif;">Through CCE, our staff will facilitate students’ thinking to help them make responsible decisions based on sound values, and guide them in becoming caring individuals and useful citizens.
 </p>
-<ol style="margin-top:-5px;margin-left: 2em;">
-	<li style="font-size:14.5px; line-height:1.5;font-family:sans-serif;">Embrace the affordances of technology while maintaining a balanced lifestyle between offline and online activities</li>
-	<li style="font-size:14.5px; line-height:1.5;font-family:sans-serif;">Be a safe and responsible user of technology and maintain a positive online presence</li>
-	<li style="font-size:14.5px; line-height:1.5;font-family:sans-serif;">Be responsible for personal well-being in the cyberspace</li>
-</ol>
 
-<p style="font-size:14.5px; line-height:2;margin-top:15px;font-family:sans-serif;">Cyber Wellness education is usually conducted through CCE lessons during curriculum time, school-based programmes and teachable moments. Cyber Wellness in Character and Citizenship Education (CCE) focuses on the well-being of our students as they navigate cyberspace. The CCE curriculum aims to equip students with the knowledge and skills to harness the power of ICT for positive purposes, maintain a positive presence in cyberspace and be safe and responsible users of ICT.</p>
+<p style="margin-top:15px;font-size:15.5px;"><u style="font-family:sans-serif;">Components in CCE</u></p>
+
+<p style="font-size:14.5px; line-height:2;margin-top:15px;font-family:sans-serif;">The Character and Citizenship Education (CCE) will emphasise the interconnectedness of values, knowledge, skills and competencies taught in these areas:</p>
 
 <h4 style="color:#635f1a;font-family:sans-serif;font-weight:bold;">Resources for Parents</h4>
 
