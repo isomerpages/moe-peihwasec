@@ -1,5 +1,5 @@
 collections:
-  5-community-at-pei-hwa:
+  community-at-pei-hwa:
     output: true
     order:
       - Parents Support Group.md
