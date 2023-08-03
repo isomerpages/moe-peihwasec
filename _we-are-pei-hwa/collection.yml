@@ -1,5 +1,5 @@
 collections:
-  1-we-are-pei-hwa:
+  we-are-pei-hwa:
     output: true
     order:
       - Our Story.md
