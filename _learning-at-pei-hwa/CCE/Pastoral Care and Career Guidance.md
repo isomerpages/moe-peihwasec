@@ -7,9 +7,9 @@ third_nav_title: CCE
 <p style="font-size:14.5px; line-height:2;margin-top:15px;font-family:sans-serif;">In Pei Hwa, we provide support to students and prioritise students’ well-being by catering to
 their individual needs.</p>
 
-<p style="margin-top:15px;font-size:14.5px; line-height:2;font-family:sans-serif;"><strong>1. Student Development Team and Tiered Support System for Students</strong>
+<p style="font-weight: bold;margin: 0;color:#0B6623;"><strong style="font-weight: bold;margin: 0;color:#0B6623;">1. Student Development Team and Tiered Support System for Students</strong></p>
 
-</p><p style="margin-top:15px;font-size:14.5px; line-height:2;font-family:sans-serif;">The Student Development Team (SDT) oversees the character development and holistic learning experiences of the students.</p>
+<p style="margin-top:15px;font-size:14.5px; line-height:2;font-family:sans-serif;">The Student Development Team (SDT) oversees the character development and holistic learning experiences of the students.</p>
 
 <p style="margin-top:15px;font-size:14.5px; line-height:2;font-family:sans-serif;">The SDT comprises two Year Heads, two Assistant Year Heads, Head of Department (HOD)/Character and Citizenship Education (CCE), HOD/Student Management and Subject
 Head (SH)/Student Well-being. Together, they collaborate in fostering a culture of care and providing a holistic learning experience for the students. The team also employs a structured referral and support system to address the varied learning and behavioural needs of the
@@ -20,7 +20,7 @@ in both academic and non-academic domains.</p>
 
 <img style="width: 100%; height: auto;margin-top:30px;margin-bottom:30px;" alt="Image" src="https://raw.githubusercontent.com/isomerpages/moe-peihwasec/staging/images/Learning%20%40%20Pei%20Hwa/CCE/ccepccg01.png">
 
-<h5 style="color:#635f1a;font-family:sans-serif;font-weight:bold;">2. Counselling</h5>
+<p style="font-weight: bold;margin: 0;color:#0B6623;"><strong style="font-weight: bold;margin: 0;color:#0B6623;">2. Counselling</strong></p>
 
 <p style="margin-top:15px;font-size:14.5px; line-height:2;font-family:sans-serif;">Pei Hwa recognizes the importance of nurturing a healthy and positive social-emotional well- being for our students. This is essential for them to pursue and thrive in their academic functioning, as well as to achieve other key developmental milestones in their lives. The school counseling team works closely in partnership with teachers, parents, and external partners to equip students with relevant knowledge and skills. This is done to develop them as individuals with a healthy sense of self-identity and social competencies, enabling them to build positive relationships and make responsible choices.</p>
 
@@ -57,7 +57,7 @@ professional ethics to maintain confidentiality of matters discussed during coun
 
 <p style="font-size:14.5px; line-height:2;margin:-15px 0 13px 0px;font-family:sans-serif;">Mr Vernon Koh | Senior School Counsellor | 65009580 ext 225</p> 
 
-<h5 style="color:#635f1a;font-family:sans-serif;font-weight:bold;">3. Special Educational Needs (SEN) Support</h5>
+<p style="font-weight: bold;margin: 0;color:#0B6623;"><strong style="font-weight: bold;margin: 0;color:#0B6623;">3. Special Educational Needs (SEN) Support</strong></p>
 
 <p style="margin-top:15px;font-size:14.5px; line-height:2;font-family:sans-serif;">The Special Educational Needs Officer (SENO) supports students with mild special educational needs such as Dyslexia, Autism Spectrum Disorder (ASD), attention deficit hyperactivity disorder (ADHD) as well as others with learning and behavioural needs in the following ways:</p>
 
@@ -85,7 +85,7 @@ Ms Belinda Danker<br>
 Tel: 65009580 ext 205<br>
 Email: danker_belinda_ann@moe.edu.sg</p>
 
-<h5 style="color:#635f1a;font-family:sans-serif;font-weight:bold;">4. Education and Career Guidance (ECG) Counselling</h5>
+<p style="font-weight: bold;margin: 0;color:#0B6623;"><strong style="font-weight: bold;margin: 0;color:#0B6623;">4. Education and Career Guidance (ECG) Counselling</strong></p>
 
 <p style="margin-top:15px;font-size:14.5px; line-height:2;font-family:sans-serif;">ECG Counsellors have been deployed to enhance ECG efforts in school. ECG Counsellors
 provide individual and group counselling to students to guide them to make informed decisions
