@@ -2,7 +2,6 @@ collections:
   2-learning-at-pei-hwa:
     output: true
     order:
-      - CCEs.md
       - Instructional Programmes/.keep
       - Instructional Programmes/English and English Literature.md
       - Instructional Programmes/Mathematics.md
@@ -14,6 +13,7 @@ collections:
       - Instructional Programmes/Physical Education.md
       - Instructional Programmes/Infocomm Technology.md
       - Instructional Programmes/Character and Citizenship Education.md
+      - CCEs.md
       - CCE/.keep
       - CCE/ICT Enrichment.md
       - CCE/Sexuality Education.md
