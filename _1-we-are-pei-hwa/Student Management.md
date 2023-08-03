@@ -256,56 +256,19 @@ be allowed in. Students must use the pedestrian gates. Students cycling to schoo
 
 <p style="margin-top:15px;font-size:14.5px; line-height:2;font-family:sans-serif;"><strong>All students are not allowed to have in their possession any weapon. They are not allowed to bring any weapon-like item which can be used or intended to be used to cause harm to others.</strong></p>
 
-<p style="margin-top:15px;font-size:15.5px;"><strong style="font-family:sans-serif;">5. Student Movement</strong></p>
-<p style="font-size:14.5px; line-height:2;margin:-15px 0 13px 0px;font-family:sans-serif;">Students are not allowed to leave the classrooms or go to the toilet without permission. Students must obtain a Movement Pass from the teacher. Silence must be observed at all
-times during movement. Classes must queue up and move in twos. Students are to keep to the left when moving from point to point.</p> 
+<p style="margin-top:15px;font-size:15.5px;"><strong style="font-family:sans-serif;">13. Usage of photos and videos taken at school events</strong></p>
+<p style="font-size:14.5px; line-height:2;margin:-15px 0 13px 0px;font-family:sans-serif;">Please be informed that that photos/videos taken at all school events may be published
+on our school’s official media platforms (e.g. internal newsletters, school website, school’s
+Facebook page or similar platforms).</p> 
 
-<p style="margin-top:15px;font-size:15.5px;"><strong style="font-family:sans-serif;">5. Student Movement</strong></p>
-<p style="font-size:14.5px; line-height:2;margin:-15px 0 13px 0px;font-family:sans-serif;">Students are not allowed to leave the classrooms or go to the toilet without permission. Students must obtain a Movement Pass from the teacher. Silence must be observed at all
-times during movement. Classes must queue up and move in twos. Students are to keep to the left when moving from point to point.</p> 
+<p style="margin-top:15px;font-size:15.5px;"><strong style="font-family:sans-serif;">14. Disciplinary Action</strong></p>
+<p style="font-size:14.5px; line-height:2;margin:-15px 0 13px 0px;font-family:sans-serif;">Any teacher in the school may take appropriate disciplinary action against a student who has violated the school rules. Disciplinary consequences such as warning, reprimand,
+detention, corrective community service, suspension and caning are considered in combination or separately, depending on the circumstances of each case. The school will take necessary and appropriate action to help the student understand and learn from his/her mistake.</p> 
 
-<p style="margin-top:15px;font-size:15.5px;"><strong style="font-family:sans-serif;">5. Student Movement</strong></p>
-<p style="font-size:14.5px; line-height:2;margin:-15px 0 13px 0px;font-family:sans-serif;">Students are not allowed to leave the classrooms or go to the toilet without permission. Students must obtain a Movement Pass from the teacher. Silence must be observed at all
-times during movement. Classes must queue up and move in twos. Students are to keep to the left when moving from point to point.</p> 
+<p style="margin-top:15px;font-size:15.5px;"><strong style="font-family:sans-serif;">15. Review of Discipline Policies</strong></p>
+<p style="font-size:14.5px; line-height:2;margin:-15px 0 13px 0px;font-family:sans-serif;">The Student Management Committee will constantly review the discipline policies, rules
+and regulations. The Committee has the final decision on what is deemed appropriate and
+what is allowed/not allowed in the school. When changes are made, they will be conveyed
+to the teachers and students through the school’s public address system. Students are
+expected to convey such changes to their parents for information.</p> 
 
-<p style="margin-top:15px;font-size:15.5px;"><strong style="font-family:sans-serif;">5. Student Movement</strong></p>
-<p style="font-size:14.5px; line-height:2;margin:-15px 0 13px 0px;font-family:sans-serif;">Students are not allowed to leave the classrooms or go to the toilet without permission. Students must obtain a Movement Pass from the teacher. Silence must be observed at all
-times during movement. Classes must queue up and move in twos. Students are to keep to the left when moving from point to point.</p> 
-
-
-<h4 style="color:#635f1a;font-family:sans-serif;font-weight:bold;">Simple Tips to Have Better Self-Discipline</h4>
-
-<p style="font-size:14.5px; line-height:2;margin-top:15px;font-family:sans-serif;"><strong style="font-family:sans-serif;">Plan.</strong>&nbsp;Have a daily planner to keep track of the tasks to be accomplished for each day. A small amount of planning keeps you on track.</p>
-
-<p style="2;margin-top:15px;font-size:14.5px; line-height:2;font-family:sans-serif;"><strong style="font-family:sans-serif;">Set goals.</strong>&nbsp;You can only achieve your goals if you know what they are.</p>
-
-<p style="2;margin-top:15px;font-size:14.5px; line-height:2;font-family:sans-serif;"><strong style="font-family:sans-serif;">Get a coach.</strong>&nbsp;This person can be a friend. A coach tends to push, remind and helps to keep you on track.</p>
-
-<p style="2;margin-top:15px;font-size:14.5px; line-height:2;font-family:sans-serif;">Source:12 Tips on Developing Self Discipline. (<a href="http://ezinearticles.com/?12-Tips-on-Developing-Self-Discipline&amp;id=2636464" target="_blank" rel="noopener noreferrer" style="font-family:sans-serif;">http://ezinearticles.com/?12-Tips-on-Developing-Self-Discipline&amp;id=2636464</a>)</p>
-
-
-<h4 style="color:#635f1a;font-family:sans-serif;font-weight:bold;">Bicycle Riding Safety Information</h4>
-
-<p style="margin-top:15px;font-size:15.5px;"><strong style="font-family:sans-serif;">3 Simple Rules</strong></p>
-
-<ol style="margin-top:-15px;">
-<li style="font-size:14.5px; line-height:2;margin-left:17px;font-family:sans-serif;">Use a helment protect yourself</li>
-<li style="font-size:14.5px; line-height:2;margin-left:17px;font-family:sans-serif;">Ride with the traffic, not against it</li>
-<li style="font-size:14.5px; line-height:2;margin-left:17px;font-family:sans-serif;">Use body sign language to communicate with motorists when turning</li>
-</ol>
-
-<p style="margin-top:15px;font-size:15.5px;"><strong style="font-family:sans-serif;">Safety Tips</strong></p>
-
-<ol style="margin-top:-15px;">
-<li style="font-size:14.5px; line-height:2;margin-left:17px;font-family:sans-serif;"><strong style="font-family:sans-serif;">Wear a properly fitted&nbsp;bicycle helmet</strong>. Protect your brain and save your life.</li>
-<li style="font-size:14.5px; line-height:2;margin-left:17px;font-family:sans-serif;"><strong style="font-family:sans-serif;">Adjust&nbsp;your bicycle to fit</strong>. Make sure your legs are fully extended when you are pedalling.</li>
-<li style="font-size:14.5px; line-height:2;margin-left:17px;font-family:sans-serif;"><strong style="font-family:sans-serif;">Check your equipment</strong>. Check that tyres are inflated properly and ensure that brakes are working.</li>
-<li style="font-size:14.5px; line-height:2;margin-left:17px;font-family:sans-serif;"><strong style="font-family:sans-serif;">See and be seen</strong>. Always wear bright colours when riding. Also wear something that reflects light, such as reflective tape or markings, or flashing lights. Remember, just because you can see a driver, doesn’t mean the driver can see you.</li>
-<li style="font-size:14.5px; line-height:2;margin-left:17px;font-family:sans-serif;"><strong style="font-family:sans-serif;">Maintain control over your bicycle</strong>. Always ride with at least one hand on the handlebars. Carry books and other items in a bicycle carrier or backpack.</li>
-<li style="font-size:14.5px; line-height:2;margin-left:17px;font-family:sans-serif;"><strong style="font-family:sans-serif;">Watch out for&nbsp;road hazards</strong>. Be on the lookout for hazards such as potholes, humps, broken glass, gravel and puddles. All these hazards can result in a nasty fall.</li>
-<li style="font-size:14.5px; line-height:2;margin-left:17px;font-family:sans-serif;"><strong style="font-family:sans-serif;">Avoid riding at night</strong>. It is more dangerous to ride at night than during the day because visibility is usually poor at night. If you have to ride at night, wear something that makes you visible. Make sure you have reflectors on the front and rear of your bicycle.</li>
-</ol>
-
-<img style="width: 100%;" src="/images/se3.jpg">
-<br><img style="width: 100%;" src="/images/se4.png"><br>
-<img style="width: 100%;" src="/images/se5.png">
