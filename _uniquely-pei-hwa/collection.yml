@@ -2,6 +2,7 @@ collections:
   uniquely-pei-hwa:
     output: true
     order:
+      - Applied Learning Programme – Robotics and Programming.md
       - Future Leader Programme (FLP).md
       - Innovation & Talent Development.md
       - Distinctive Programmes/.keep
