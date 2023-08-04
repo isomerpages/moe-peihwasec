@@ -96,73 +96,23 @@ description: ""
 
 
 <p style="margin-top:15px;font-size:15.5px;"><strong style="font-family:sans-serif;">Exhibition</strong></p>
-<p style="font-size:14.5px; line-height:2;margin:-15px 0 13px 0px;font-family:sans-serif;">Each student has the responsibility of being a good digital citizen and should make  responsible decisions that protect themselves and the school community.  
-</p> 
 
-<ol style="margin-top:5px">
-	<li style="font-size:14.5px; line-height:1.5;font-family:sans-serif;">Cyber Wellness
-		<ul style="margin-top:5px">
-	<li style="font-size:14.5px; line-height:1.5;font-family:sans-serif;">Students:  
-<ul style="margin-top:5px">
-	<li style="font-size:14.5px; line-height:1.5;font-family:sans-serif;">Must respect oneself and others online (e.g. not accessing inappropriate websites,  abusing the Internet to commit illegal activities or plagiarism, share information  about others without permission, not downloading or sharing inappropriate  materials online). </li>
-	<li style="font-size:14.5px; line-height:1.5;font-family:sans-serif;">Must have a clear understanding of the risks of harmful and illegal online behaviour  (e.g. cyber addiction, cyber-bullying and cybercrime) and learn to safeguard  themselves against dangers that they might encounter online. 
-</li>
-	<li style="font-size:14.5px; line-height:1.5;font-family:sans-serif;">Should seek the permission of teachers to take photographs or videos of any
-members of the school community during school events and school trips.</li>
-		</ul></li>
-		</ul></li>
+<p style="font-size:14.5px; line-height:2;margin:-15px 0 13px 0px;font-family:sans-serif;">The exhibition opportunities included in the TDP aims to showcase and exhibit students’ innovation efforts on various <u style="font-size:14.5px; line-height:2;font-family:sans-serif;">internal and external exhibition platforms.</u></p> 
 
-	
-<li style="font-size:14.5px; line-height:1.5;font-family:sans-serif;"> Cyber-bullying
-	<p style="font-size:14.5px; line-height:2;margin:5px;font-family:sans-serif;">The school takes a serious view of cyber-bullying in any form. All cases reported to school
-authorities will be investigated. Examples include but are not limited to:
-</p> 
+<p style="margin-top:15px;font-size:14.5px; line-height:2;font-family:sans-serif;">One of the teams which had participated in the MOE IvP was provided with an opportunity to share their innovative solutions at the Young Innovators’ Fair.</p>
+
+<p style="font-size:14.5px; line-height:2;margin:5px;font-family:sans-serif;">Some of these platforms include:</p> 
 <ul style="margin-top:5px">
-	<li style="font-size:14.5px; line-height:1.5;font-family:sans-serif;">Use of threatening words on another student.</li>
-	<li style="font-size:14.5px; line-height:1.5;font-family:sans-serif;">Use of vulgar and obscene language on another student.</li>
-		<li style="font-size:14.5px; line-height:1.5;font-family:sans-serif;">Posting content that is meant to embarrass/ harass / humiliate another person.</li>
-	<li style="font-size:14.5px; line-height:1.5;font-family:sans-serif;">Blackmailing another student.</li>
-		</ul></li>
-	
-<li style="font-size:14.5px; line-height:1.5;font-family:sans-serif;">Cyber Offences
-	<p style="font-size:14.5px; line-height:2;margin:5px;font-family:sans-serif;">The school takes a serious view of cyber offences. All reported cases will be investigated.
-Examples include but are not limited to:</p> 
-<ul style="margin-top:5px">
-	<li style="font-size:14.5px; line-height:1.5;font-family:sans-serif;">Impersonation or setting up fictitious online accounts.</li>
-	<li style="font-size:14.5px; line-height:1.5;font-family:sans-serif;">Abuse of passwords for computer accounts (e.g. sharing of passwords with
-friends, hacking of others’ accounts).</li>
-		<li style="font-size:14.5px; line-height:1.5;font-family:sans-serif;">Any violation of the above offences made outside of school premises or during
-non-curriculum hours will still be addressed and dealt with in accordance to
-disciplinary procedures laid down.</li>
+	<li style="font-size:14.5px; line-height:1.5;font-family:sans-serif;">School Assembly Talks</li>
+	<li style="font-size:14.5px; line-height:1.5;font-family:sans-serif;">Stemnovation Week</li>
+		<li style="font-size:14.5px; line-height:1.5;font-family:sans-serif;">Young Innovators’ Fair</li>
+	<li style="font-size:14.5px; line-height:1.5;font-family:sans-serif;">Maker Extravanganza</li>
+	<li style="font-size:14.5px; line-height:1.5;font-family:sans-serif;">Edutech Asia</li>
+	<li style="font-size:14.5px; line-height:1.5;font-family:sans-serif;">Tan Kah Kee Young Inventors Award</li>
 		</ul>
-</li>
 		
-	
-	</ol>
-
-<p style="margin-top:15px;font-size:15.5px;"><strong style="font-family:sans-serif;">11. Transport</strong></p>
-<p style="font-size:14.5px; line-height:2;margin:-15px 0 13px 0px;font-family:sans-serif;">Students are to disembark from vehicles at designated areas, such as the school’s main gate. For safety reason, the main school gate will be closed to the public and cars will not
-be allowed in. Students must use the pedestrian gates. Students cycling to school must dismount outside the school’s main gate and push their bicycles into the school premises. All bicycles are to be parked in the designated lots only. The school will not be responsible for the security of these bicycles. Students who would like to cycle to school must register with the school.</p> 
-
-<p style="margin-top:15px;font-size:15.5px;"><strong style="font-family:sans-serif;">12. Anti-social behaviour</strong></p>
-<p style="font-size:14.5px; line-height:2;margin:-15px 0 13px 0px;font-family:sans-serif;">All students must abide by the laws governing Singapore. Students found violating these will face the fines, punishment and even criminal records imposed by the authorities, in addition to any appropriate disciplinary action that the school will mete out.</p> 
-
-<p style="margin-top:15px;font-size:14.5px; line-height:2;font-family:sans-serif;">Littering and spitting, vandalism of school property, stealing, cheating, forgery of signatures, extortion of money, gambling, smoking, possession of cigarettes and/or smoking peripherals, inhalant abuse, possession of drugs, fighting, physical violence, verbal abuse, racism, being a public nuisance, possession of pornographic materials and the deliberate visiting of pornographic websites are examples of serious offences punishable by law.</p>
-
-<p style="margin-top:15px;font-size:14.5px; line-height:2;font-family:sans-serif;"><strong>All students are not allowed to have in their possession any weapon. They are not allowed to bring any weapon-like item which can be used or intended to be used to cause harm to others.</strong></p>
-
-<p style="margin-top:15px;font-size:15.5px;"><strong style="font-family:sans-serif;">13. Usage of photos and videos taken at school events</strong></p>
-<p style="font-size:14.5px; line-height:2;margin:-15px 0 13px 0px;font-family:sans-serif;">Please be informed that that photos/videos taken at all school events may be published
-on our school’s official media platforms (e.g. internal newsletters, school website, school’s
-Facebook page or similar platforms).</p> 
-
-<p style="margin-top:15px;font-size:15.5px;"><strong style="font-family:sans-serif;">14. Disciplinary Action</strong></p>
-<p style="font-size:14.5px; line-height:2;margin:-15px 0 13px 0px;font-family:sans-serif;">Any teacher in the school may take appropriate disciplinary action against a student who has violated the school rules. Disciplinary consequences such as warning, reprimand,
-detention, corrective community service, suspension and caning are considered in combination or separately, depending on the circumstances of each case. The school will take necessary and appropriate action to help the student understand and learn from his/her mistake.</p> 
-
-<p style="margin-top:15px;font-size:15.5px;"><strong style="font-family:sans-serif;">15. Review of Discipline Policies</strong></p>
-<p style="font-size:14.5px; line-height:2;margin:-15px 0 13px 0px;font-family:sans-serif;">The Student Management Committee will constantly review the discipline policies, rules
-and regulations. The Committee has the final decision on what is deemed appropriate and
-what is allowed/not allowed in the school. When changes are made, they will be conveyed
-to the teachers and students through the school’s public address system. Students are
-expected to convey such changes to their parents for information.</p></ul>
+<div style="display: flex; flex-wrap: wrap; justify-content: space-between; max-width: 800px; margin: 0 auto;" class="image-container">
+	<div style="width: 100%; margin-bottom: 20px; box-sizing: border-box; text-align: center;" class="image-box">
+    <img style="width: 100%; margin-bottom: 10px;" alt="Image 1" src="https://raw.githubusercontent.com/isomerpages/moe-peihwasec/staging/images/itd9.png">
+  </div>
+</div></ul>
