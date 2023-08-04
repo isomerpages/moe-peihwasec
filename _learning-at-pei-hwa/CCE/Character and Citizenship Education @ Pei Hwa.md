@@ -86,10 +86,10 @@ students’ learning of knowledge, values and skills for character development.<
 
 <p style="margin-top:15px;font-size:15.5px;"><strong style="font-family:sans-serif;">Sexuality Education</strong></p>
 
-<p style="font-size:14.5px; line-height:2;margin-top:15px;font-family:sans-serif;">Details are available <a href="https://www.peihwasec.moe.edu.sg/cce/sexuality-education/" style="font-size:14.5px; line-height:1.5;font-family:sans-serif;font-weight:bold;text-decoration: none;">here</a>.</p>
+<p style="font-size:14.5px; line-height:2;margin-top:15px;font-family:sans-serif;">Details are available <a href="https://www.peihwasec.moe.edu.sg/learning-at-pei-hwa/cce/sexuality-education/" style="font-size:14.5px; line-height:1.5;font-family:sans-serif;font-weight:bold;text-decoration: none;">here</a>.</p>
 
 <p style="margin-top:15px;font-size:15.5px;"><strong style="font-family:sans-serif;">Cyber Wellness</strong></p>
 
 <p style="font-size:14.5px; line-height:2;margin-top:15px;font-family:sans-serif;">Cyber Wellness education focuses on helping our students to be responsible digital learners and empower them to take responsibility for their well-being in cyberspace. Cyber Wellness education is delivered through assembly talks and CCE lessons. Counselling for more at-risk students are also provided to promote cyber wellness among pupils.</p>
 
-<p style="font-size:14.5px; line-height:2;margin-top:15px;font-family:sans-serif;">Click <a href="https://www.peihwasec.moe.edu.sg/cce/cyberwellness-at-pei-hwa/" style="font-size:14.5px; line-height:1.5;font-family:sans-serif;font-weight:bold;text-decoration: none;">here</a> for more information on Cyber Wellness.</p>
+<p style="font-size:14.5px; line-height:2;margin-top:15px;font-family:sans-serif;">Click <a href="https://www.peihwasec.moe.edu.sg/learning-at-pei-hwa/cce/cyberwellness-at-pei-hwa/" style="font-size:14.5px; line-height:1.5;font-family:sans-serif;font-weight:bold;text-decoration: none;">here</a> for more information on Cyber Wellness.</p>
