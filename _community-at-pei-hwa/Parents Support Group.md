@@ -26,4 +26,4 @@ description: ""
 	</ul>
 	
 <h5 style="margin-top:15px;color:#0B6623;">Register with Us</h5>
-<p style="font-size:14.5px; line-height:1.5;font-family:sans-serif;color:black;margin-top:5px;">Please e-mail the school at <a href="mailto:peihwasec@moe.edu.sg&nbsp;to">peihwasec@moe.edu.sg</a> to register your interest. Our school PSG teacher-in-charge will link you up with the PSG EXCO.</p>
+<p style="font-size:14.5px; line-height:1.5;font-family:sans-serif;color:black;margin-top:5px;">Please e-mail the school at <a href="mailto:peihwasec@moe.edu.sg&nbsp;to" style="font-size:14.5px; line-height:1.5;font-family:sans-serif;font-weight:bold;text-decoration: none;">peihwasec@moe.edu.sg</a> to register your interest. Our school PSG teacher-in-charge will link you up with the PSG EXCO.</p>
