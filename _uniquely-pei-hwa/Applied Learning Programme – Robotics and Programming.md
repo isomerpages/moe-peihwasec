@@ -3,8 +3,16 @@ title: Applied Learning Programme – Robotics and Programming
 permalink: /school-distinctive-programme/applied-learning-programme-robotics-and-programming/
 description: ""
 ---
-<h4 style="color:#635f1a;font-weight:bold;font-family:sans-serif;">Our Goals</h4>
-<p style="font-size:14.5px; line-height:2;margin-top:15px; font-family:sans-serif">Aligned to the school’s mission “To Develop Innovative and Compassionate Citizens”, our Applied Learning Programme (ALP) aims to empower students with the technological and thinking skills that will enable them to be innovative and empathetic members of the community. As the Zonal Lead School for Making, we also strive to benefit our students with maker education and to initiate maker activities beyond our school for students in the North zone.</p>
+<h4 style="color:black;font-weight:bold;font-family:sans-serif;">Our Goals</h4>
+<p style="font-size:14.5px; line-height:2;margin-top:15px; font-family:sans-serif">Pei Hwa Secondary’s Applied Learning Programme (ALP) in Robotics and Programming aims to empower students with the technological and thinking skills that will enable them to be innovative and empathetic members of the community.&nbsp;Recognised by MOE Educational Technology Division (ETD) as the Zonal Lead School for Making from 2019 to 2022, we are
+dedicated to enriching our students' educational experience with maker education and extending maker activities to students in the North Zzone. Moreover, we are actively fostering partnerships with technology companies to expand our industrial connections, offering our
+students opportunities for work attachments, learning journeys and invaluable real-world experiences beyond the classroom.</p>
+
+<div style="display: flex; flex-wrap: wrap; justify-content: space-between; max-width: 800px; margin: 0 auto;" class="image-container">
+	<div style="width: 100%; margin-bottom: 20px; box-sizing: border-box; text-align: center;" class="image-box">
+    <img style="width: 100%; margin-bottom: 10px;" alt="Image 1" src="https://raw.githubusercontent.com/isomerpages/moe-peihwasec/staging/images/itd8.png">
+  </div>
+</div>
 
 <h4 style="color:#635f1a;font-weight:bold;font-family:sans-serif;">Our Programmes</h4>
 <p style="margin-top:15px;font-size:15.5px;font-family:sans-serif;">Website + Stemnovation + Exposure/Exhibition</p>
