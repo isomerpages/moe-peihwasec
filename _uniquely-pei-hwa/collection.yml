@@ -2,6 +2,7 @@ collections:
   uniquely-pei-hwa:
     output: true
     order:
+      - Innovative Changemakers Programme.md
       - Future Leader Programme (FLP).md
       - Applied Learning Programme – Robotics and Programming.md
       - Learning for Life Programme – Community Youth Leadership (LLP – CYL).md
