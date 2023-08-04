@@ -99,7 +99,7 @@ Road Safety for Parents and Children</h4>
 Safety Tips for Participation in Sports and Games</h4>
 <p style="font-size:14.5px; line-height:2;margin-top:15px; font-family:sans-serif">As with all physical activities, sporting or otherwise, there is always an inherent element of risk. As such, one should always encure that these risks are minimized before the start of each activity. In many instances, accidents and injuries could be avoided if adheres to safety practices.</p>
 
-<p style="margin-top:15px;font-size:14.5px; line-height:2;font-family:sans-serif;">More information on Sports Safety Tips can be found at&nbsp;<a href="https://www.sportsingapore.gov.sg/Sports-Education/Sports-Safety/Sport-Safety-Public-Consultation" target="_blank" rel="noopener noreferrer" style="font-family:sans-serif;">here</a>.</p>
+<p style="margin-top:15px;font-size:14.5px; line-height:2;font-family:sans-serif;">More information on Sports Safety Tips can be found at&nbsp;<a href="https://www.sportsingapore.gov.sg/Sports-Education/Sports-Safety/Sport-Safety-Public-Consultation" style="font-size:14.5px; line-height:1.5;font-family:sans-serif;font-weight:bold;text-decoration: none;">here</a>.</p>
 
 <h4 style="color:#635f1a;font-weight:bold;font-family:sans-serif;">Insurance Claim</h4>
 
@@ -107,13 +107,13 @@ Safety Tips for Participation in Sports and Games</h4>
 
 <p style="font-size:14.5px; line-height:2;margin:-15px 0 13px 0px;font-family:sans-serif;">With effect from&nbsp;2022, all student&nbsp;accident&nbsp;insurance claims submission are to be submitted electronically. Parents/students are to submit their claims online and check the claims status through the online portal.&nbsp;</p>
 
-<p style="margin-top:15px;font-size:14.5px; line-height:2;font-family:sans-serif;">Information on claims, FAQs and other details pertaining to the&nbsp;GPA&nbsp;Insurance Plan for Students can be found on NTUC Income’s website at&nbsp;<a style="font-family:sans-serif;" rel="noopener noreferrer" target="_blank" href="https://www.income.com.sg/studentgpa">https://www.income.com.sg/studentgpa</a></p>
+<p style="margin-top:15px;font-size:14.5px; line-height:2;font-family:sans-serif;">Information on claims, FAQs and other details pertaining to the&nbsp;GPA&nbsp;Insurance Plan for Students can be found on NTUC Income’s website at&nbsp;<a href="https://www.income.com.sg/studentgpa" style="font-size:14.5px; line-height:1.5;font-family:sans-serif;font-weight:bold;text-decoration: none;">https://www.income.com.sg/studentgpa</a></p>
 
 <h4 style="color:#635f1a;font-weight:bold;font-family:sans-serif;">Food Safety in School</h4>
 <p style="font-size:14.5px; line-height:2;margin-top:15px; font-family:sans-serif">Food can be easily contaminated and become unsafe for eating. Food contaimination may occur when cooked food is accidentally mixed with raw meat&nbsp;juices, or when food is exposed to dirt, chemicals, bacteria, viruses or other pathogens. This usually happens because we do not handle our food safely or observe proper hygiene.</p>
 
 <p style="margin-top:15px;font-size:14.5px; line-height:2;font-family:sans-serif;">Eating contaminated food can cause food poisoning, which can range from mild to severe cases of food poisoning, which could be fatal.&nbsp; We can help safeguard our personal health by maintaining personal hygiene and practising good habits.</p>
 
-<p style="margin-top:15px;font-size:14.5px; line-height:2;font-family:sans-serif;">For&nbsp;food safety tips, you may refer to the&nbsp;<a href="https://www.sfa.gov.sg/food-information/food-safety-education" target="_blank" rel="noopener noreferrer" style="font-family:sans-serif;">Singapore Food Agency</a>&nbsp;website.</p>
+<p style="margin-top:15px;font-size:14.5px; line-height:2;font-family:sans-serif;">For&nbsp;food safety tips, you may refer to the&nbsp;<a href="https://www.sfa.gov.sg/food-information/food-safety-education" style="font-size:14.5px; line-height:1.5;font-family:sans-serif;font-weight:bold;text-decoration: none;">Singapore Food Agency</a>&nbsp;website.</p>
 
 <p style="margin-top:15px;font-size:14.5px; line-height:2;font-family:sans-serif;">Your suggestions matter to us. If you have any queries on safety, please feel free to call the Chief Safety Officer at 6500 9580.</p>

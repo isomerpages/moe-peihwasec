@@ -114,4 +114,4 @@ third_nav_title: Distinctive Programmes
 
 <p style="margin-top:15px;font-size:14.5px; line-height:2;font-family:sans-serif;">All this will not only protect our participants by maintaining social distancing, it will allow us to save time without shortchanging our participants’ learning.</p>
 
-<p style="margin-top:15px;font-size:14.5px; line-height:2;font-family:sans-serif;">Please visit our Hackathon website to find out more about it:<br><a href="http://phss.epc-education.com/hackathon/" target="_blank" rel="noopener noreferrer" style="font-family:sans-serif;font-size:14.5px;">http://phss.epc-education.com/hackathon/</a></p>
+<p style="margin-top:15px;font-size:14.5px; line-height:2;font-family:sans-serif;">Please visit our Hackathon website to find out more about it:<br><a href="http://phss.epc-education.com/hackathon/" style="font-size:14.5px; line-height:1.5;font-family:sans-serif;font-weight:bold;text-decoration: none;">http://phss.epc-education.com/hackathon/</a></p>

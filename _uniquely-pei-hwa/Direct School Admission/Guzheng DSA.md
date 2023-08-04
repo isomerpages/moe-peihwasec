@@ -32,7 +32,7 @@ third_nav_title: Direct School Admission
 <li style="font-size:14.5px; line-height:2;font-family:sans-serif;">Learning journeys</li>
 </ul>
 
-<p style="margin-top:15px;font-size:14.5px; line-height:2;font-family:sans-serif;">For more information on Pei Hwa Guzheng Ensemble and their programme, please visit <a href="https://www.peihwasec.moe.edu.sg/ccas/performing-arts/guzheng/">https://www.peihwasec.moe.edu.sg/ccas/performing-arts/guzheng/</a></p>
+<p style="margin-top:15px;font-size:14.5px; line-height:2;font-family:sans-serif;">For more information on Pei Hwa Guzheng Ensemble and their programme, please click <a href="https://moe-peihwasec-staging.netlify.app/learning-at-pei-hwa/cca/performing-arts/guzheng-ensemble/" style="font-size:14.5px; line-height:1.5;font-family:sans-serif;font-weight:bold;text-decoration: none;">here.</a></p>
 
 <h4 style="color:#635f1a;font-weight:bold;font-family:sans-serif;">Shortlisting Criteria</h4>
 <p style="font-size:14.5px; line-height:2;margin-top:15px; font-family:sans-serif">
@@ -129,10 +129,10 @@ third_nav_title: Direct School Admission
 	
 <td style="margin-bottom:5px;">
 					<ol style="margin-top:5px;">
-						<li style="font-family:sans-serif; font-size:14.5px; margin-bottom:5px;">Application for DSA-Sec can be submitted through the online DSA-Sec Portal. The application is free-of-charge and will be open from <strong style="font-family:sans-serif;"> 4 May 2023, 11am to 31 May 2023, 3pm</strong>. For more details, please refer to MOE website – <a style="font-family:sans-serif;" rel="noopener noreferrer" target="_blank" href="www.moe.gov.sg/dsa-sec">www.moe.gov.sg/dsa-sec.</a></li>
+						<li style="font-family:sans-serif; font-size:14.5px; margin-bottom:5px;">Application for DSA-Sec can be submitted through the online DSA-Sec Portal. The application is free-of-charge and will be open from <strong style="font-family:sans-serif;"> 4 May 2023, 11am to 31 May 2023, 3pm</strong>. For more details, please refer to MOE website – <a href="www.moe.gov.sg/dsa-sec" style="font-size:14.5px; line-height:1.5;font-family:sans-serif;font-weight:bold;text-decoration: none;">www.moe.gov.sg/dsa-sec.</a></li>
 						<li style="font-family:sans-serif; font-size:14.5px; margin-bottom:5px;"><strong style="font-family:sans-serif;">DSA applicants from MOE mainstream primary schools:</strong><br>Parents may log in directly to DSA-Sec Portal. Only one parent’s SingPass is required. Parents/Guardians who are unable to apply online can approach their child/ward’s primary school for assistance.</li>
 						<li style="font-family:sans-serif; font-size:14.5px; margin-bottom:5px;"><strong style="font-family:sans-serif;">DSA applicant not studying in MOE mainstream primary schools</strong><br>Please request for a Registration Number which is required in the DSA application. This can be done via the MOE website at&nbsp;
-<a style="font-family:sans-serif;" rel="noopener noreferrer" target="_blank" href="https://go.gov.sg/nmsdsa-sec-application">https://go.gov.sg/nmsdsa-sec-application</a></li>
+<a href="https://go.gov.sg/nmsdsa-sec-application" style="font-size:14.5px; line-height:1.5;font-family:sans-serif;font-weight:bold;text-decoration: none;">https://go.gov.sg/nmsdsa-sec-application</a></li>
 <li style="font-size:14.5px; line-height:2;font-family:sans-serif;">DSA applicants can indicate up to three choices, with a maximum of two choices for the same school under two different talent areas.</li>
 					</ol>
 				</td>
@@ -146,7 +146,7 @@ third_nav_title: Direct School Admission
 <li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;">Shortlisted DSA applicants will be required to attend an in-person interview and audition session.</li>
 <li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;">Shortlisted DSA applicants will be informed of the date and time of the interview and audition session.</li>
 <li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;">Shortlisted DSA applicants should only attend the in-person interview and audition session if they are feeling well. Otherwise, he/she may be disqualified from the section.</li>
-<li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;">Shortlisted DSA applicants / Parents are advised not to change the assigned interview and audition session except for valid reasons.</li><li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;">Parents/Guardians are allowed to accompany their child/ward to Pei Hwa Secondary School but not allowed to sit in the interview and audition session.</li><li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;">Please call Ms Lee Ya Yu at 65009580 (Ext 236) or email her at <a style="font-family:sans-serif;" href="mailto:lee_ya_yu@moe.edu.sg">lee_ya_yu@moe.edu.sg to reschedule. </a></li>		
+<li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;">Shortlisted DSA applicants / Parents are advised not to change the assigned interview and audition session except for valid reasons.</li><li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;">Parents/Guardians are allowed to accompany their child/ward to Pei Hwa Secondary School but not allowed to sit in the interview and audition session.</li><li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;">Please call Ms Lee Ya Yu at 65009580 (Ext 236) or email her at <a href="mailto:lee_ya_yu@moe.edu.sg" style="font-size:14.5px; line-height:1.5;font-family:sans-serif;font-weight:bold;text-decoration: none;">lee_ya_yu@moe.edu.sg to reschedule. </a></li>		
 </ol></td>
 
 <td style="font-size:14.5;margin-bottom:5px;font-family:sans-serif;">
@@ -180,7 +180,7 @@ third_nav_title: Direct School Admission
 				<td style="font-size:14.5px;margin-bottom:5px;">
 					<ol style="margin-top:5px;">
 						<li style="font-family:sans-serif;font-size:14.5px;margin-bottom:5px;">DSA applicants who receive at least one DSA-Sec offer will receive email and SMS notification via Postman.gov.sg on the School Preference submission <strong style="font-family:sans-serif;">mid- to end-October 2023</strong>.</li>
-						<li style="font-size:14.5px;font-family:sans-serif;margin-bottom:5px;">Both parents of the DSA applicant are required to login to the DSA-Sec portal using their Singpass to submit up to three school preferences. If parent(s) are unable to submit online, they can approach the applicant’s primary school for assistance to submit the school preferences on their behalf before the deadline (please check MOE Website:  <a style="font-family:sans-serif;" rel="noopener noreferrer" target="_blank" href="http://www.moe.gov.sg/dsa-sec">http://www.moe.gov.sg/dsa-sec&nbsp;</a> for more details)
+						<li style="font-size:14.5px;font-family:sans-serif;margin-bottom:5px;">Both parents of the DSA applicant are required to login to the DSA-Sec portal using their Singpass to submit up to three school preferences. If parent(s) are unable to submit online, they can approach the applicant’s primary school for assistance to submit the school preferences on their behalf before the deadline (please check MOE Website:  <a href="http://www.moe.gov.sg/dsa-sec" style="font-size:14.5px; line-height:1.5;font-family:sans-serif;font-weight:bold;text-decoration: none;">http://www.moe.gov.sg/dsa-sec&nbsp;</a> for more details)
 </li>
 						<li style="font-size:14.5px;font-family:sans-serif;margin-bottom:5px;">DSA-Sec offers not taken up will be considered as lapsed at the end of the School Preference Submission period</li>
 					</ol>
@@ -209,7 +209,7 @@ third_nav_title: Direct School Admission
 <p style="font-size:14.5px; line-height:2;font-family:sans-serif;margin-top:-5px;">All secondary schools can admit&nbsp;<strong style="font-family:sans-serif;">up to 20%&nbsp;</strong>of their S1 non-Integrated Programme (non-IP) intake via the DSA-Sec.</p>
 
 <p style="font-size:14.5px; line-height:2;font-family:sans-serif;"><strong style="font-family:sans-serif;">2. Can my child take part in the DSA exercise if he/she is currently not studying in any of the MOE schools?</strong></p>
-<p style="margin-top:15px;font-size:14.5px; line-height:2;font-family:sans-serif;">Applicants not studying in MOE mainstream primary schools will need to apply for a Registration Number (RGxxxxxxx) to access the DSA-Sec Portal. Please refer to MOE website at:<a href="https://go.gov.sg/nmsdsa-sec-application" style="font-family:sans-serif;"> https://go.gov.sg/nmsdsa-sec-application</a></p>
+<p style="margin-top:15px;font-size:14.5px; line-height:2;font-family:sans-serif;">Applicants not studying in MOE mainstream primary schools will need to apply for a Registration Number (RGxxxxxxx) to access the DSA-Sec Portal. Please refer to MOE website at:<a href="https://go.gov.sg/nmsdsa-sec-application" style="font-size:14.5px; line-height:1.5;font-family:sans-serif;font-weight:bold;text-decoration: none;"> https://go.gov.sg/nmsdsa-sec-application</a></p>
 
 <p style="font-size:14.5px; line-height:2;font-family:sans-serif;"><strong style="font-family:sans-serif;">3. Will my child be part of the Pei Hwa Guzheng Ensemble if he/she is successful in the DSA application?</strong></p><p style="font-size:14.5px; line-height:2;font-family:sans-serif;margin-top:-5px;"></p><p style="font-size:14.5px; line-height:2;font-family:sans-serif;margin-top:-5px;">Your child will be automatically channeled into the Guzheng Ensemble as his/her CCA through the DSA Exercise. Hence, your child will not be involved in the CCA Selection Process during the Sec 1 Orientation week.</p>
 
@@ -219,4 +219,4 @@ third_nav_title: Direct School Admission
 <p style="font-size:14.5px; line-height:2;font-family:sans-serif;"><strong style="font-family:sans-serif;">5. Can my child/ward apply for a change in CCA?</strong></p>
 <p style="font-size:14.5px; line-height:2;font-family:sans-serif;margin-top:-5px;">Successful DSA-Sec students are expected to honour their commitment to the posted DSA school and to participate in activities related to the talent selected in, for the duration of the programme admitted to.</p>
 
-<p style="margin-top:25px;font-size:14.5px; line-height:2;font-family:sans-serif;"><strong style="font-family:sans-serif;">More information on DSA can be found on</strong><a href="http://www.moe.gov.sg/dsa-sec" style="font-family:sans-serif;"><strong style="font-family:sans-serif;"> http://www.moe.gov.sg/dsa-sec</strong></a></p>
+<p style="margin-top:25px;font-size:14.5px; line-height:2;font-family:sans-serif;"><strong style="font-family:sans-serif;">More information on DSA can be found on </strong><a href="http://www.moe.gov.sg/dsa-sec" style="font-size:14.5px; line-height:1.5;font-family:sans-serif;font-weight:bold;text-decoration: none;">http://www.moe.gov.sg/dsa-sec</a></p>
