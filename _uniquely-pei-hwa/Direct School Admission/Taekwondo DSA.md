@@ -28,7 +28,7 @@ sessions, as members practice moves to build up strength and improve flexibility
 <li style="font-size:14.5px; line-height:2;font-family:sans-serif;">Exchanges with local schools</li>
 </ul>
 
-<p style="margin-top:15px;font-size:14.5px; line-height:2;font-family:sans-serif;">For more information on Pei Hwa Taekwondo CCA and their programme, please visit <a href="https://www.peihwasec.moe.edu.sg/ccas/sports-games/taekwondo/">https://www.peihwasec.moe.edu.sg/ccas/sports-games/taekwondo/</a></p>
+<p style="margin-top:15px;font-size:14.5px; line-height:2;font-family:sans-serif;">For more information on Pei Hwa Taekwondo CCA and their programme, please click <a href="https://moe-peihwasec-staging.netlify.app/learning-at-pei-hwa/cca/sports-games/taekwondo/" style="font-size:14.5px; line-height:1.5;font-family:sans-serif;font-weight:bold;text-decoration: none;">here.</a></p>
 
 <h4 style="color:#635f1a;font-weight:bold;font-family:sans-serif;">Shortlisting Criteria</h4>
 <p style="font-size:14.5px; line-height:2;margin-top:15px; font-family:sans-serif">
