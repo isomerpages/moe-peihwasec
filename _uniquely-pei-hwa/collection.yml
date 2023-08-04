@@ -2,6 +2,7 @@ collections:
   uniquely-pei-hwa:
     output: true
     order:
+      - Future Leader Programme.md
       - Innovation & Talent Development.md
       - Distinctive Programmes/.keep
       - Distinctive Programmes/Learning for Life Programme – Community Youth
