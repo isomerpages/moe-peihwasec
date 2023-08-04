@@ -2,10 +2,11 @@ collections:
   uniquely-pei-hwa:
     output: true
     order:
-      - Innovation & Talent Development.md
       - Future Leader Programme (FLP).md
       - Applied Learning Programme – Robotics and Programming.md
       - Learning for Life Programme – Community Youth Leadership (LLP – CYL).md
+      - Beyond Borders Programme.md
+      - Innovation & Talent Development.md
       - Distinctive Programmes/.keep
       - Direct School Admission/.keep
       - Direct School Admission/Direct School Admission.md
@@ -14,7 +15,6 @@ collections:
       - Direct School Admission/Floorball DSA (For Girls only).md
       - Direct School Admission/Wushu DSA.md
       - Direct School Admission/Taekwondo DSA.md
-      - Beyond Borders Programme.md
       - Family Matters @ School.md
       - Counselling.md
       - School Green Awards (SGA).md
