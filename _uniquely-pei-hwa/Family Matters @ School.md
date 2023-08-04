@@ -23,4 +23,4 @@ description: ""
 <li style="font-size:14.5px; line-height:2;font-family:sans-serif;">Triple P (Level 3): Delivered as intervention with a trained Triple P service provider. Approximately four individual consultations.</li>
 </ul>
 
-<p style="margin-top:15px;font-size:14.5px; line-height:2;font-family:sans-serif;">For more information on the Positive Parenting Programme (Triple P), please check on the link:&nbsp;<a href="https://www.msf.gov.sg/policies/Strong-and-Stable-Families/Supporting-Families/Pages/Parenting.aspx" style="font-family:sans-serif;">https://www.msf.gov.sg/policies/Strong-and-Stable-Families/Supporting-Families/Pages/Parenting.aspx</a></p>
+<p style="margin-top:15px;font-size:14.5px; line-height:2;font-family:sans-serif;">For more information on the Positive Parenting Programme (Triple P), please check on the link:&nbsp;<a href="https://www.msf.gov.sg/policies/Strong-and-Stable-Families/Supporting-Families/Pages/Parenting.aspx" style="font-size:14.5px; line-height:1.5;font-family:sans-serif;font-weight:bold;text-decoration: none;">https://www.msf.gov.sg/policies/Strong-and-Stable-Families/Supporting-Families/Pages/Parenting.aspx</a></p>
