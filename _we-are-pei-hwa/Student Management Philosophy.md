@@ -3,11 +3,11 @@ title: Student Management Philosophy
 permalink: /we-are-pei-hwa/our-student-management-philosophy/
 description: ""
 ---
-<h4 style="color:#635f1a;font-family:sans-serif;font-weight:bold;">Student Management</h4>
+<h4 style="color:black;font-family:sans-serif;font-weight:bold;">Student Management</h4>
 <p style="font-size:14.5px; line-height:2;margin-top:15px;font-family:sans-serif;">In Pei Hwa, we believe in positive discipline where we teach children to develop safe, socially responsible behavior that promotes self-discipline, self-respect and respect for the feelings and property of others.<br><br>Students are expected to be familiar and comply with the school rules and regulations listed&nbsp;here.</p>
 
 
-<h4 style="color:#635f1a;font-family:sans-serif;font-weight:bold;">School Rules and Regulations</h4>
+<h4 style="color:black;font-family:sans-serif;font-weight:bold;">School Rules and Regulations</h4>
 
 <p style="margin-top:15px;font-size:15.5px;"><strong style="font-family:sans-serif;">1. General Conduct</strong></p>
 
@@ -242,9 +242,7 @@ non-curriculum hours will still be addressed and dealt with in accordance to
 disciplinary procedures laid down.</li>
 		</ul>
 </li>
-		
-	
-	</ol>
+</ol>
 
 <p style="margin-top:15px;font-size:15.5px;"><strong style="font-family:sans-serif;">11. Transport</strong></p>
 <p style="font-size:14.5px; line-height:2;margin:-15px 0 13px 0px;font-family:sans-serif;">Students are to disembark from vehicles at designated areas, such as the school’s main gate. For safety reason, the main school gate will be closed to the public and cars will not
