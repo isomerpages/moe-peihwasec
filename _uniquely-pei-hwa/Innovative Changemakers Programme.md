@@ -61,4 +61,3 @@ people to brainstorm, develop and prototype solutions to achieve sustainable dev
 	<p style="font-size:14.5px; line-height:2;margin-top:15px;font-family:sans-serif;">Through harnessing the potential of cutting-edge technologies and fostering a spirit of innovation, this competition platform aims to inspire and ignite the creation of impactful inventions with tangible real-world benefits.</p>
 	<p style="font-size:14.5px; line-height:2;margin-top:15px;font-family:sans-serif;">In 2018, a team of students emerged as one of the top 3 winning teams in the Secondary School category in Singapore.</p>
 </ol>
-
