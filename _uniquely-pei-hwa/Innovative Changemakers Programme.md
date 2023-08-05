@@ -40,7 +40,7 @@ discussion forums, speaker series and workshops.</p>
 
 <p style="font-size:14.5px; line-height:2;margin-top:15px;font-family:sans-serif;">Students in the Innovation TDP are also provided with opportunities to apply their innovative mindsets in&nbsp;external platforms/competitions&nbsp;that are&nbsp;nationally recognised.</p>
 
-<ol style="margin-top:-5px;">
+<ul style="margin-top:-5px;">
   <li style="font-size:14.5px; line-height:1.5;font-family:sans-serif;">MOE Innovation Programme (MOE IvP)</li>
 	<p style="font-size:14.5px; line-height:2;margin-top:15px;font-family:sans-serif;">MOE Innovation Programme provides a unique opportunity for pupils to develop their problem-solving and thinking skills. In this year-long journey, students will be able to work alongside with Innovation mentors from the partner institutions where they are able to receive quality feedback and mentorship from industrial experts.</p>
 	<p style="font-size:14.5px; line-height:2;margin-top:15px;font-family:sans-serif;">In 2022, a total of 7 teams comprising Secondary 2 and 3 students eagerly
@@ -60,4 +60,30 @@ people to brainstorm, develop and prototype solutions to achieve sustainable dev
 	  <li style="font-size:14.5px; line-height:1.5;font-family:sans-serif;">Samsung Solve for Tomorrow</li>
 	<p style="font-size:14.5px; line-height:2;margin-top:15px;font-family:sans-serif;">Through harnessing the potential of cutting-edge technologies and fostering a spirit of innovation, this competition platform aims to inspire and ignite the creation of impactful inventions with tangible real-world benefits.</p>
 	<p style="font-size:14.5px; line-height:2;margin-top:15px;font-family:sans-serif;">In 2018, a team of students emerged as one of the top 3 winning teams in the Secondary School category in Singapore.</p>
-</ol>
+</ul>
+
+<h4 style="font-weight: bold;margin: 0;color:black;font-family:sans-serif">Exhibitions</h4>
+
+<p style="font-size:14.5px; line-height:2;margin-top:15px;font-family:sans-serif;">The inclusion of exhibition opportunities in the TDP aims to provide a platform for students to showcase and exhibit their innovative endeavours on a diverse array of internal and external exhibition platforms, celebrating their creativity and achievements.</p>
+
+<p style="font-size:14.5px; line-height:2;margin-top:15px;font-family:sans-serif;">One of the teams which had participated in the MOE IvP was provided with an
+opportunity to share their innovative solutions at the Young Innovators’ Fair.</p>
+
+<p style="font-size:14.5px; line-height:2;margin-top:15px;font-family:sans-serif;">Some of these platforms include:</p>
+
+<ul style="margin-top:-5px;">
+	<li style="font-size:14.5px; line-height:1.5;font-family:sans-serif;">School assembly talks</li>
+	<li style="font-size:14.5px; line-height:1.5;font-family:sans-serif;">Streamnovation Week</li>
+	<li style="font-size:14.5px; line-height:1.5;font-family:sans-serif;">Young Innovators’ Fair</li>
+	<li style="font-size:14.5px; line-height:1.5;font-family:sans-serif;">Maker Extravaganza</li>
+	<li style="font-size:14.5px; line-height:1.5;font-family:sans-serif;">Edutech Asia</li>
+	<li style="font-size:14.5px; line-height:1.5;font-family:sans-serif;">Edutech Asia</li>
+</ul>
+
+<h4 style="font-weight: bold;margin: 0;color:black;font-family:sans-serif">Beyond Borders Programme</h4>
+
+<p style="font-size:14.5px; line-height:2;margin-top:15px;font-family:sans-serif;">The Beyond Borders Programme is designed to provide opportunities for our students to be exposed to the world beyond Singapore and understand different cultures. Through the programme, we aim to develop global awareness, cross-cultural skills and communication skills in our students.</p>
+
+<p style="font-size:14.5px; line-height:2;margin-top:15px;font-family:sans-serif;">Our students have the opportunity to interact with students from overseas partner schools through either virtual or face-to-face platforms. Under the guidance of teachers, students work
+on presentations and sharings which help to develop their communication skills. As our students interact with students from the partner schools, our students gain an awareness and understanding of school life and different cultures. This helps to develop their global awareness
+and cross-cultural skills.</p>
