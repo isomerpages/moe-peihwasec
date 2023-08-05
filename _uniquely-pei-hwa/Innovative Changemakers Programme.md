@@ -79,11 +79,3 @@ opportunity to share their innovative solutions at the Young Innovators’ Fair.
 	<li style="font-size:14.5px; line-height:1.5;font-family:sans-serif;">Edutech Asia</li>
 	<li style="font-size:14.5px; line-height:1.5;font-family:sans-serif;">Edutech Asia</li>
 </ul>
-
-<h4 style="font-weight: bold;margin: 0;color:black;font-family:sans-serif">Beyond Borders Programme</h4>
-
-<p style="font-size:14.5px; line-height:2;margin-top:15px;font-family:sans-serif;">The Beyond Borders Programme is designed to provide opportunities for our students to be exposed to the world beyond Singapore and understand different cultures. Through the programme, we aim to develop global awareness, cross-cultural skills and communication skills in our students.</p>
-
-<p style="font-size:14.5px; line-height:2;margin-top:15px;font-family:sans-serif;">Our students have the opportunity to interact with students from overseas partner schools through either virtual or face-to-face platforms. Under the guidance of teachers, students work
-on presentations and sharings which help to develop their communication skills. As our students interact with students from the partner schools, our students gain an awareness and understanding of school life and different cultures. This helps to develop their global awareness
-and cross-cultural skills.</p>
