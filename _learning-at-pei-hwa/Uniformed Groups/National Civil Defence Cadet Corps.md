@@ -4,7 +4,7 @@ permalink: /learning-at-pei-hwa/cca/uniformed-groups/ncdcc/
 description: ""
 third_nav_title: Uniformed Groups
 ---
-<h4 style="margin-top:10px;font-weight: bold;color:#000000">National Civil Defence Cadet Corps – A Choice Uniformed Group of Community First Responders</h4>
+<h6 style="color:#0B6623;font-family:sans-serif;font-weight:bold;margin-top:30px;"><strong style="font-family:sans-serif;font-size:17px;color:#0B6623;">National Civil Defence Cadet Corps – A Choice Uniformed Group of Community First Responders</strong></h6>
 
 <img style="width: 100%; height: auto;margin-top:30px;margin-bottom:30px;" alt="Image" src="https://raw.githubusercontent.com/isomerpages/moe-peihwasec/staging/images/CCA/ncdccbanner.png">
 
@@ -12,7 +12,7 @@ third_nav_title: Uniformed Groups
 
 <p style="font-size:14.5px; line-height:2 ;margin-top:5px; font-family:sans-serif;" class="description">NCDCC seeks to develop and empower our youths to be active and concerned citizens who are advocates of life-saving skills</p>
 
-<h3 style="margin-top:10px;font-weight: bold;color:#000000;">Achievements</h3>
+<h6 style="color:#0B6623;font-family:sans-serif;font-weight:bold;margin-top:30px;"><strong style="font-family:sans-serif;font-size:17px;color:#0B6623;">Achievements</strong></h6>
 
 <table style="border-collapse: collapse;margin: 25px 0;margin-top:5px;font-family: sans-serif;box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);width:100%" border="1">
 	
@@ -102,7 +102,7 @@ third_nav_title: Uniformed Groups
 </tbody>
 </table>
 
-<h3 style="margin-top:10px;font-weight: bold;color:#000000">CCA Activities and Competition</h3>
+<h6 style="color:#0B6623;font-family:sans-serif;font-weight:bold;margin-top:30px;"><strong style="font-family:sans-serif;font-size:17px;color:#0B6623;">CCA Activities and Competition</strong></h6>
 
 <p style="font-size:14.5px; line-height:2 ;margin-top:5px; font-family:sans-serif;" class="description">The Pei Hwa NCDCC Unit actively engages in enriching programmes that showcase the exemplary knowledge and skills of its dedicated cadets. Upholding the core values of NCDCC—Noble, Caring, Disciplined, Courageous, and Committed—the unit firmly establishes its distinctive identity while shaping the desired conduct and actions of its cadets. These programmes serve as a platform for cadets to collaborate harmoniously as a team, exemplifying and embodying the cherished core values of NCDCC.</p>
 
@@ -123,7 +123,7 @@ third_nav_title: Uniformed Groups
 		<li style="font-size:14.5px; line-height:1.5;font-family:sans-serif;">Urban Adventure Civil Defence Knowledge Challenge (UACDC)</li>
 </ul>
 
-<h3 style="margin-top:10px;font-weight: bold;color:#000000">Student Testament</h3>
+<h6 style="color:#0B6623;font-family:sans-serif;font-weight:bold;margin-top:30px;"><strong style="font-family:sans-serif;font-size:17px;color:#0B6623;">Student Testament</strong></h6>
 
 <blockquote style="font-size: 15px;width:100%;margin:50px auto;margin-top:5px;font-family:serif;font-style:italic;color: #555555;padding:1.2em 25px 1.2em 25px;border-left:8px solid #0C6523;line-height:1.6;position: relative;background:#EDEDED;">
 <img align="left" src="https://raw.githubusercontent.com/isomerpages/moe-peihwasec/staging/images/CCA/ncdcctestimonial01.png" style="width: 23%; border-radius: 7%;  margin-right:15px;">
@@ -143,7 +143,7 @@ third_nav_title: Uniformed Groups
   <span style="display:block; color:#333333; margin-top:1em;font-size:15px;font-family:sans-serif;"><em style="font-family:sans-serif;">Assistant Sergeant Major, Chye Kin Yoong, Gabriel</em></span>
 	</blockquote> 
 	
-<h3 style="margin-top:10px;font-weight: bold;color:#000000">CCA Details</h3>
+<h6 style="color:#0B6623;font-family:sans-serif;font-weight:bold;margin-top:30px;"><strong style="font-family:sans-serif;font-size:17px;color:#0B6623;">CCA Details</strong></h6>
 
 <table style="width:100%;border-collapse: collapse;border: none;">
 	<tbody style="border: none;">
