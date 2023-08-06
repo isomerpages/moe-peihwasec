@@ -22,7 +22,7 @@ description: ""
 <li style="font-size:14.5px; line-height:2;margin-left:17px;font-family:sans-serif;">Consulting and working closely with external partners such as REACH</li>
 </ul>
 
-<h4 style="color:#635f1a;font-weight:bold;font-family:sans-serif;">The SENO in Pei Hwa Secondary School is: </h4>
+<h6 style="color:#0B6623;font-family:sans-serif;font-weight:bold;margin-top:30px;"><strong style="font-family:sans-serif;font-size:17px;color:#0B6623;">The SENO in Pei Hwa Secondary School is: </strong></h6>
 <ul style="margin-top:5px;">
 <li style="font-size:14.5px; line-height:2;font-family:sans-serif;">Ms Belinda Danker | 65009580 ext 205 | danker_belinda_ann@moe.edu.sg</li>
 </ul>
