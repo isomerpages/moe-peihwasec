@@ -122,7 +122,7 @@ third_nav_title: Sports & Games
 	"What I love about my CCA is the training we have and the values that it teaches us. I always look forward to participating in every CCA session as we will always be learning something new and it also allows us to sharpen and practice our kicks and moves so that we will not lose touch of it. Being in Taekwondo also teaches us values such as respect to self and others, being respectful to everyone, integrity, owning up to your own mistakes, perseverance, the ability to get back on your feet no matter what, and lastly team spirit, being able to work well in a team. Being in Taekwondo CCA allows us to bond with one another over a common interest and allow us to build characteristics and become a better person."
   <span style="display:block; color:#333333; margin-top:1em;font-size:15px;font-family:sans-serif;"><em style="font-family:sans-serif;">Vice-Chairman, Jayden Choo Teck En</em></span>
 	<br>
-	</blockquote>
+</blockquote>
 	
 <h6 style="color:#0B6623;font-family:sans-serif;font-weight:bold;margin-top:30px;"><strong style="font-family:sans-serif;font-size:17px;color:#0B6623;">CCA Details</strong></h6>
 
