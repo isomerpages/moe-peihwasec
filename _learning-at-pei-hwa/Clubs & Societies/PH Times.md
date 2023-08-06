@@ -16,7 +16,7 @@ third_nav_title: Clubs & Societies
 	<li style="font-size:14.5px; line-height:1.5;font-family:sans-serif;"> develop into being a team player and work collaboratively with others</li>
 </ul>
 
-<h3 style="margin-top:10px;font-weight: bold;color:#000000">Achievements</h3>
+<h6 style="color:#0B6623;;font-family:sans-serif;font-weight:bold;"><strong style="font-family:sans-serif;font-size:17px;color:#0B6623;">Achievements</strong></h6>
 
 <table style="border-collapse: collapse;margin: 25px 0;margin-top:5px;font-family: sans-serif;box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);width:100%" border="1">
 	
@@ -105,7 +105,7 @@ third_nav_title: Clubs & Societies
 </tbody>
 </table>
 
-<h3 style="margin-top:10px;font-weight: bold;color:#000000">CCA Activities</h3>
+<h6 style="color:#0B6623;;font-family:sans-serif;font-weight:bold;"><strong style="font-family:sans-serif;font-size:17px;color:#0B6623;">CCA Activities</strong></h6>
 <p style="font-size:14.5px; line-height:2;margin-top:15px; font-family:sans-serif;">Our CCA members are given the opportunity to apply their photography and videography knowledge and skills in various platforms. This allows them to explore photojournalism, broadcast journalism and digital journalism. Some of the platforms are:</p>
 
 <ul style="margin-top:-5px">
@@ -138,7 +138,7 @@ third_nav_title: Clubs & Societies
 <li style="font-size:14.5px; line-height:1.5 ;margin-top:5px; font-family:sans-serif;"> DRUGFREESG Video Competition</li>
 	</ul>
 
-<h3 style="margin-top:10px;font-weight: bold;color:#000000">Student Testament</h3>
+<h6 style="color:#0B6623;;font-family:sans-serif;font-weight:bold;"><strong style="font-family:sans-serif;font-size:17px;color:#0B6623;">Student Testament</strong></h6>
 
 <blockquote style="font-size: 15px;width:100%;margin:50px auto;margin-top:5px;font-family:serif;font-style:italic;color: #555555;padding:1.2em 25px 1.2em 25px;border-left:8px solid #0C6523;line-height:1.6;position: relative;background:#EDEDED;">
 <img align="left" src="https://raw.githubusercontent.com/isomerpages/moe-peihwasec/staging/images/CCA/phtimestestimonial03.png" style="width: 23%; border-radius: 7%;  margin-right:15px;">
@@ -181,7 +181,7 @@ myself."
 <br><br>
 	</blockquote> 
 
-<h3 style="margin-top:10px;font-weight: bold;color:#000000">CCA Details</h3>
+<h6 style="color:#0B6623;;font-family:sans-serif;font-weight:bold;"><strong style="font-family:sans-serif;font-size:17px;color:#0B6623;">CCA Details</strong></h6>
 
 <table style="width:100%;border-collapse: collapse;border: none;">
 	<tbody style="border: none;">
