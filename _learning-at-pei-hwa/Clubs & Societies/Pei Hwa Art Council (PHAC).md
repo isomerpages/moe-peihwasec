@@ -18,7 +18,7 @@ third_nav_title: Clubs & Societies
 </ul>
 
 
-<h3 style="margin-top:10px;font-weight: bold;color:#000000">Achievements</h3>
+<h6 style="color:#0B6623;;font-family:sans-serif;font-weight:bold;"><strong style="font-family:sans-serif;font-size:17px;color:#0B6623;">Achievements</strong></h6>
 <table style="border-collapse: collapse;margin: 25px 0;margin-top:5px;font-family: sans-serif;box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);width:100%" border="1">
 	
 <thead style="background-color:#0C6523; font-weight: bold; font-size: 15.5px;">
@@ -67,7 +67,7 @@ third_nav_title: Clubs & Societies
 </table>
 
 
-<h3 style="margin-top:10px;font-weight: bold;color:#000000">CCA Activities</h3>
+<h6 style="color:#0B6623;;font-family:sans-serif;font-weight:bold;"><strong style="font-family:sans-serif;font-size:17px;color:#0B6623;">CCA Activities</strong></h6>
 <ul style="margin-top:5px">
 	<li style="font-size:14.5px; line-height:1.5 ;margin-top:5px; font-family:sans-serif;"> Regular training for students to develop and hone their artistic and thinking skills</li>
 <li style="font-size:14.5px; line-height:1.5 ;margin-top:5px; font-family:sans-serif;"> Competitions, school events and Values-in-Action programmes</li>
@@ -75,7 +75,7 @@ third_nav_title: Clubs & Societies
 <li style="font-size:14.5px; line-height:1.5 ;margin-top:5px; font-family:sans-serif;"> Participate in graduation shows and school camps</li>
 	</ul>
 
-<h3 style="margin-top:10px;font-weight: bold;color:#000000">CCA Details</h3>
+<h6 style="color:#0B6623;;font-family:sans-serif;font-weight:bold;"><strong style="font-family:sans-serif;font-size:17px;color:#0B6623;">CCA Details</strong></h6>
 
 <table style="width:100%;border-collapse: collapse;border: none;margin-top:5px">
 	<tbody style="border: none;">
