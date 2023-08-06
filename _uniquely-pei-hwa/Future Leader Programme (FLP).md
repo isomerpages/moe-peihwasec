@@ -3,12 +3,12 @@ title: Future Leader Programme (FLP)
 permalink: /uniquely-pei-hwa/future-leader-programme/
 description: ""
 ---
-<h4 style="color:black;font-weight:bold;font-family:sans-serif;">Our Goals</h4>
+<h6 style="color:#0B6623;font-family:sans-serif;font-weight:bold;margin-top:30px;"><strong style="font-family:sans-serif;font-size:17px;color:#0B6623;">Our Goals</strong></h6>
 <p style="font-size:14.5px; line-height:2;margin-top:15px; font-family:sans-serif">By seamlessly incorporating its Applied Learning Programme (ALP) in Robotics and
 Programming alongside its Learning for Life Programme (LLP) in Community Youth Leadership, Pei Hwa has strategically established its Project Work curriculum as part of the Future Leaders Programme. This signature programme places a strong emphasis on empowering
 students to employ their programming skills to innovate solutions for the challenges of tomorrow.</p>
 
-<h4 style="font-weight: bold;margin: 0;color:black;font-family:sans-serif">Our Programmes</h4>
+<h6 style="color:#0B6623;font-family:sans-serif;font-weight:bold;margin-top:30px;"><strong style="font-family:sans-serif;font-size:17px;color:#0B6623;">Our Programmes</strong></h6>
 
 <p style="font-size:14.5px; line-height:2;margin-top:15px;font-family:sans-serif;">The FLP Curriculum leverages on our very own Pei Hwa Innovation Cycle which is a Design-Thinking framework adapted from the Stanford’s Design Thinking Framework. Secondary 1
 students will concentrate on addressing the issues within their immediate school context, while Secondary 2 students will broaden their impact to encompass the wider community beyond the school and the environment.</p>
