@@ -4,11 +4,11 @@ permalink: /learning-at-pei-hwa/instructional-programmes/mother-tongue/
 description: ""
 third_nav_title: Instructional Programmes
 ---
-<h4 style="color:#635f1a;font-family:sans-serif;font-weight:bold;">Our Goals</h4>
+<h6 style="color:#0B6623;;font-family:sans-serif;font-weight:bold;"><strong style="font-family:sans-serif;font-size:17px;color:#0B6623;">Our Goals</strong></h6>
 <p style="font-size:14.5px; line-height:2;margin-top:15px;font-family:sans-serif;">We hope to cultivate our student’ interest for Mother Tongue Languages so as to enable them to learn and apply the language in their daily lives. Beyond learning the language, we also strive to empower our students with the understanding of Singapore and the world through the culture embedded in our Mother Tongue Languages.</p>
 
 
-<h4 style="color:#635f1a;font-family:sans-serif;font-weight:bold;">Our Programmes</h4>
+<h6 style="color:#0B6623;;font-family:sans-serif;font-weight:bold;"><strong style="font-family:sans-serif;font-size:17px;color:#0B6623;">Our Programmes</strong></h6>
 <p style="font-size:14.5px; line-height:2;margin-top:15px;font-family:sans-serif;">We believe that the learning of languages should not be confined by the boundaries of a classroom. The best learning should come from exposure and application. Therefore, the department adopts a tiered approach to enhance our students’ learning of Mother Tongue Languages.</p>
 
 <img style="width: 100%;" src="/images/graph.png">
@@ -49,7 +49,7 @@ third_nav_title: Instructional Programmes
 		</div>  
 </div>
 
-<h4 style="color:#635f1a;font-family:sans-serif;font-weight:bold;">Our Student Learning</h4>
+<h6 style="color:#0B6623;;font-family:sans-serif;font-weight:bold;"><strong style="font-family:sans-serif;font-size:17px;color:#0B6623;">Our Student Learning</strong></h6>
 <p style="font-size:14.5px; line-height:2;margin-top:15px;font-family:sans-serif;">The department believes in infusing fun in the learning of languages and has thus gone beyond the conventional pen and paper when it comes to learning of languages.</p>
 
 <p style="margin-top:15px;font-size:15.5px;"><strong style="font-family:sans-serif;">Building Reading Skills</strong></p>
