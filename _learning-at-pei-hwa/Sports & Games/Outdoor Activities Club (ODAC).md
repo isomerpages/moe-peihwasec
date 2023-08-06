@@ -12,7 +12,7 @@ third_nav_title: Sports & Games
 
 <p style="font-size:14.5px; line-height:2 ;margin-top:5px; font-family:sans-serif;" class="description">At ODAC, we are committed to exploring options that help our students develop important outdoor skills in a holistic manner. Guided by our motto "One for all, All for one", we are proud to be one big family that celebrates and embraces each other's differences. Overall, ODAC offers an excellent opportunity for students to grow and learn in a supportive and challenging environment. We encourage all students who are interested in outdoor adventure and personal development to join us and become part of our community.</p>
 
-<h3 style="margin-top:10px;font-weight: bold;color:#000000;">Achievements</h3>
+<h6 style="color:#0B6623;font-family:sans-serif;font-weight:bold;margin-top:30px;"><strong style="font-family:sans-serif;font-size:17px;color:#0B6623;">Achievements</strong></h6>
 
 <table style="border-collapse: collapse;margin: 25px 0;margin-top:5px;font-family: sans-serif;box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);width:100%" border="1">
 	
@@ -59,7 +59,7 @@ third_nav_title: Sports & Games
 </tbody>
 </table>
 
-<h3 style="margin-top:10px;font-weight: bold;color:#000000">CCA Activities</h3>
+<h6 style="color:#0B6623;font-family:sans-serif;font-weight:bold;margin-top:30px;"><strong style="font-family:sans-serif;font-size:17px;color:#0B6623;">CCA Activities</strong></h6>
 
 <ul style="margin-top:5px">
 	<li style="font-size:14.5px; line-height:1.5 ;margin-top:5px; font-family:sans-serif;"> Certification for Kayaking led by trained instructors</li>
@@ -72,7 +72,7 @@ third_nav_title: Sports & Games
 	<li style="font-size:14.5px; line-height:1.5 ;margin-top:5px; font-family:sans-serif;"> School overnight camps</li>
 	</ul>
 	
-<h3 style="margin-top:10px;font-weight: bold;color:#000000">Student Testament</h3>
+<h6 style="color:#0B6623;font-family:sans-serif;font-weight:bold;margin-top:30px;"><strong style="font-family:sans-serif;font-size:17px;color:#0B6623;">Student Testament</strong></h6>
 
 <blockquote style="font-size: 15px;width:100%;margin:50px auto;margin-top:5px;font-family:serif;font-style:italic;color: #555555;padding:1.2em 25px 1.2em 25px;border-left:8px solid #0C6523;line-height:1.6;position: relative;background:#EDEDED;">
 <img align="left" src="https://raw.githubusercontent.com/isomerpages/moe-peihwasec/staging/images/CCA/odactestimonial01.png" style="width: 23%; border-radius: 7%;  margin-right:15px;">
@@ -93,7 +93,7 @@ third_nav_title: Sports & Games
   <span style="display:block; color:#333333; margin-top:1em;font-size:15px;font-family:sans-serif;"><em style="font-family:sans-serif;">Member, Naurah Batrisyia Muhammad Khir </em></span>
 	</blockquote> 
 	
-<h3 style="margin-top:10px;font-weight: bold;color:#000000">CCA Details</h3>
+<h6 style="color:#0B6623;font-family:sans-serif;font-weight:bold;margin-top:30px;"><strong style="font-family:sans-serif;font-size:17px;color:#0B6623;">CCA Details</strong></h6>
 
 <table style="width:100%;border-collapse: collapse;border: none;">
 	<tbody style="border: none;">
