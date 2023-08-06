@@ -8,7 +8,7 @@ third_nav_title: Uniformed Groups
 
 <p style="font-size:14.5px; line-height:2 ;margin-top:5px; font-family:sans-serif;" class="description">At Pei Hwa Secondary School, our <strong style="font-size:14.5px; line-height:2; font-family:sans-serif;">NPCC </strong> unit is dedicated to nurturing well-rounded individuals who are not only academically competent but also possessing strong character traits. Through our NPCC programme, we provide our students with valuable opportunities to cultivate qualities such as resilience, teamwork, and integrity. We believe in instilling values that will guide our cadets throughout their lives.</p>
 
-<h3 style="margin-top:10px;font-weight: bold;color:#000000;">Achievements</h3>
+<h6 style="color:#0B6623;font-family:sans-serif;font-weight:bold;margin-top:30px;"><strong style="font-family:sans-serif;font-size:17px;color:#0B6623;">Achievements</strong></h6>
 
 <table style="border-collapse: collapse;margin: 25px 0;margin-top:5px;font-family: sans-serif;box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);width:100%" border="1">
 	
@@ -83,19 +83,19 @@ third_nav_title: Uniformed Groups
 </tbody>
 </table>
 
-<h3 style="margin-top:10px;font-weight: bold;color:#000000">CCA Training &amp; Activities</h3>
+<h6 style="color:#0B6623;font-family:sans-serif;font-weight:bold;margin-top:30px;"><strong style="font-family:sans-serif;font-size:17px;color:#0B6623;">CCA Training &amp; Activities</strong></h6>
 
 <p style="font-size:14.5px; line-height:2 ;margin-top:5px; font-family:sans-serif;" class="description">Our dedicated team of teachers and instructors guide our cadets through various activities and training programmes designed to enhance their physical fitness, leadership abilities, and sense of social responsibility. Cadets engage in weekly drill sessions, where they learn the basics of marching, parade drills, and uniform maintenance. These activities foster discipline, coordination, and a sense of pride in their appearance and conduct.</p>
 
 <p style="font-size:14.5px; line-height:2 ;margin-top:5px; font-family:sans-serif;" class="description">Beyond drill sessions, our NPCC unit organises a wide range of activities and events throughout the year. Cadets participate in camps, competitions and community service projects that offer hands-on experiences and opportunities for personal growth. These activities help to develop their problem-solving skills, communication abilities and teamwork capabilities. Our students are equipped with the knowledge and skills necessary to be the first responders in emergencies and to serve as responsible citizens in society.</p>
 
-<h3 style="margin-top:10px;font-weight: bold;color:#000000">Character Development</h3>
+<h6 style="color:#0B6623;font-family:sans-serif;font-weight:bold;margin-top:30px;"><strong style="font-family:sans-serif;font-size:17px;color:#0B6623;">Character Development</strong></h6>
 
 <p style="font-size:14.5px; line-height:2 ;margin-top:5px; font-family:sans-serif;" class="description">At Pei Hwa NPCC, we understand the importance of character development. We believe in instilling values such as integrity, respect, and resilience in our cadets. Through regular interactions and mentorship, our instructors guide them in making the best decisions and developing a strong moral compass. We encourage our cadets to uphold these values not only within the NPCC unit but also in their daily lives. We aim to develop individuals into positive role models who can make a difference in their communities.</p>
 
 <p style="font-size:14.5px; line-height:2 ;margin-top:5px; font-family:sans-serif;" class="description">Join us at Pei Hwa Secondary School NPCC, where we strive to mould the leaders of tomorrow and empower our cadets to make a positive impact on society. Discover the dedication, discipline, and camaraderie that characterise our NPCC unit, and become part of a community that encourages personal growth, leadership and service</p>
 
-<h3 style="margin-top:10px;font-weight: bold;color:#000000">CCA Details</h3>
+<h6 style="color:#0B6623;font-family:sans-serif;font-weight:bold;margin-top:30px;"><strong style="font-family:sans-serif;font-size:17px;color:#0B6623;">CCA Details</strong></h6>
 
 <table style="width:100%;border-collapse: collapse;border: none;">
 	<tbody style="border: none;">
