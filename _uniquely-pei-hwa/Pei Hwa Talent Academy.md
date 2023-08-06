@@ -78,8 +78,7 @@ awareness of how the knowledge learnt in school can help them with their future.
 <h6 style="color:#0B6623;font-family:sans-serif;font-weight:bold;margin-top:30px;"><strong style="font-family:sans-serif;font-size:17px;color:#0B6623;">Approach and Process</strong></h6>
 
 <p style="font-size:14.5px; line-height:2;margin-top:15px; font-family:sans-serif">Pei Hwa Talent Academy aims to provide opportunities and platforms for our student talents to
-excel in the various academic disciplines via the Excite, Experience and Excel approach (Fig.
-1).</p>
+excel in the various academic disciplines via the Excite, Experience and Excel approach (Fig. 1).</p>
 
 <p style="margin-top:15px;font-size:15.5px;"><strong style="font-family:sans-serif;">1. EXCITE</strong></p>
 
