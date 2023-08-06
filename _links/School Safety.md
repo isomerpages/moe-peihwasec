@@ -3,13 +3,13 @@ title: School Safety
 permalink: /links/school-safety/
 description: ""
 ---
-<h4 style="color:#635f1a;font-weight:bold;font-family:sans-serif;">Vision</h4>
+<h6 style="color:#0B6623;font-family:sans-serif;font-weight:bold;margin-top:30px;"><strong style="font-family:sans-serif;font-size:17px;color:#0B6623;">Vision</strong></h6>
 <p style="font-size:14.5px; line-height:2;margin-top:15px; font-family:sans-serif">A safe and&nbsp;healthy school for everyone</p>
 
-<h4 style="color:#635f1a;font-weight:bold;font-family:sans-serif;">Mission</h4>
+<h6 style="color:#0B6623;font-family:sans-serif;font-weight:bold;margin-top:30px;"><strong style="font-family:sans-serif;font-size:17px;color:#0B6623;">Mission</strong></h6>
 <p style="font-size:14.5px; line-height:2;margin-top:15px; font-family:sans-serif;">Building and strengthening a safety culture in school</p>
 
-<h4 style="color:#635f1a;font-weight:bold;font-family:sans-serif;">Safety Message</h4>
+<h6 style="color:#0B6623;font-family:sans-serif;font-weight:bold;margin-top:30px;"><strong style="font-family:sans-serif;font-size:17px;color:#0B6623;">Safety Message</strong></h6>
 <p style="margin-top:15px;font-size:15.5px;"><strong style="font-family:sans-serif;">Safety Starts with Me</strong></p>
 
 <p style="font-size:14.5px; line-height:2;margin:-15px 0 13px 0px;font-family:sans-serif;">Pei Hwa Secondary School believes in providing a safe and healthy environment for achieving our School Motto of&nbsp;<em style="font-family:sans-serif;">Nurturing Talents</em>. We aim to:</p>
@@ -24,7 +24,7 @@ description: ""
 
 <img src="/images/schoolsafety1.png" style="width: 100%;margin-top:10px;">
 
-<h4 style="color:#635f1a;font-weight:bold;font-family:sans-serif;">Committee</h4>
+<h6 style="color:#0B6623;font-family:sans-serif;font-weight:bold;margin-top:30px;"><strong style="font-family:sans-serif;font-size:17px;color:#0B6623;">Committee</strong></h6>
 <p style="font-size:14.5px; line-height:2;margin-top:15px; font-family:sans-serif">Under the leadership of the School Leaders, the&nbsp;<strong style="font-family:sans-serif;">School Safety &amp; Emergency Committee</strong>&nbsp;is formed to ensure a safe work environment for teaching and learning.</p>
 
 <p style="margin-top:15px;font-size:14.5px; line-height:2;font-family:sans-serif;">The Committee&nbsp;is headed by the Chief Safety Officer (Vice-Principal) to cover 6 main areas of safety:</p>
@@ -38,7 +38,7 @@ description: ""
 <li style="font-size:14.5px; line-height:2;font-family:sans-serif;">Education on Safety</li>
 </ul>
 
-<h4 style="color:#635f1a;font-weight:bold;font-family:sans-serif;">General Information</h4>
+<h6 style="color:#0B6623;font-family:sans-serif;font-weight:bold;margin-top:30px;"><strong style="font-family:sans-serif;font-size:17px;color:#0B6623;">General Information</strong></h6>
 
 <p style="margin-top:15px;font-size:15.5px;font-family:sans-serif;"><strong style="font-family:sans-serif;">Safety Policies &amp; Guidelines</strong></p>
 <p style="font-size:14.5px; line-height:2;margin:-15px 0 13px 0px;font-family:sans-serif;">These written documents are readily accessible through school shared folders and are communicated to all students at the beginning of each year.</p>
@@ -75,8 +75,8 @@ description: ""
 <li style="font-size:14.5px; line-height:2;margin-left:17px;font-family:sans-serif;"> For all student cyclists (manual and electric) and PMD users, it is required to register your particulars with your parent’s consent with the General Office.</li>
 </ol>
 
-<h4 style="color:#635f1a;font-weight:bold;font-family:sans-serif;">
-Road Safety for Parents and Children</h4>
+<h6 style="color:#0B6623;font-family:sans-serif;font-weight:bold;margin-top:30px;"><strong style="font-family:sans-serif;font-size:17px;color:#0B6623;">
+	Road Safety for Parents and Children</strong></h6>
 
 <p style="margin-top:15px;font-size:15.5px;"><strong style="font-family:sans-serif;">Driving in school zones</strong></p>
 
@@ -95,13 +95,13 @@ Road Safety for Parents and Children</h4>
 <li style="font-size:14.5px; line-height:2;font-family:sans-serif;"> If you drive your children to school, let them alight at a safe and proper drop-off point. This ensures safety not only for your child but for other school children and road users as well.</li>
 </ul>
 
-<h4 style="color:#635f1a;font-weight:bold;font-family:sans-serif;">
-Safety Tips for Participation in Sports and Games</h4>
+<h6 style="color:#0B6623;font-family:sans-serif;font-weight:bold;margin-top:30px;"><strong style="font-family:sans-serif;font-size:17px;color:#0B6623;">
+	Safety Tips for Participation in Sports and Games</strong></h6>
 <p style="font-size:14.5px; line-height:2;margin-top:15px; font-family:sans-serif">As with all physical activities, sporting or otherwise, there is always an inherent element of risk. As such, one should always encure that these risks are minimized before the start of each activity. In many instances, accidents and injuries could be avoided if adheres to safety practices.</p>
 
 <p style="margin-top:15px;font-size:14.5px; line-height:2;font-family:sans-serif;">More information on Sports Safety Tips can be found at&nbsp;<a href="https://www.sportsingapore.gov.sg/Sports-Education/Sports-Safety/Sport-Safety-Public-Consultation" style="font-size:14.5px; line-height:1.5;font-family:sans-serif;font-weight:bold;text-decoration: none;">here</a>.</p>
 
-<h4 style="color:#635f1a;font-weight:bold;font-family:sans-serif;">Insurance Claim</h4>
+<h6 style="color:#0B6623;font-family:sans-serif;font-weight:bold;margin-top:30px;"><strong style="font-family:sans-serif;font-size:17px;color:#0B6623;">Insurance Claim</strong></h6>
 
 <p style="margin-top:15px;font-size:15.5px;"><strong style="font-family:sans-serif;">Student Accident Protection Scheme</strong></p>
 
@@ -109,7 +109,7 @@ Safety Tips for Participation in Sports and Games</h4>
 
 <p style="margin-top:15px;font-size:14.5px; line-height:2;font-family:sans-serif;">Information on claims, FAQs and other details pertaining to the&nbsp;GPA&nbsp;Insurance Plan for Students can be found on NTUC Income’s website at&nbsp;<a href="https://www.income.com.sg/studentgpa" style="font-size:14.5px; line-height:1.5;font-family:sans-serif;font-weight:bold;text-decoration: none;">https://www.income.com.sg/studentgpa</a></p>
 
-<h4 style="color:#635f1a;font-weight:bold;font-family:sans-serif;">Food Safety in School</h4>
+<h6 style="color:#0B6623;font-family:sans-serif;font-weight:bold;margin-top:30px;"><strong style="font-family:sans-serif;font-size:17px;color:#0B6623;">Food Safety in School</strong></h6>
 <p style="font-size:14.5px; line-height:2;margin-top:15px; font-family:sans-serif">Food can be easily contaminated and become unsafe for eating. Food contaimination may occur when cooked food is accidentally mixed with raw meat&nbsp;juices, or when food is exposed to dirt, chemicals, bacteria, viruses or other pathogens. This usually happens because we do not handle our food safely or observe proper hygiene.</p>
 
 <p style="margin-top:15px;font-size:14.5px; line-height:2;font-family:sans-serif;">Eating contaminated food can cause food poisoning, which can range from mild to severe cases of food poisoning, which could be fatal.&nbsp; We can help safeguard our personal health by maintaining personal hygiene and practising good habits.</p>
