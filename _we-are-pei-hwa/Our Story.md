@@ -16,7 +16,7 @@ The Pei Hwa Foundation was formed after the school closure by its alumni who wis
 
 <div style="margin-top:30px; width:100%; padding: 40px; display: flex; align-items: center;" class="box">&nbsp;
 <div style="flex: 1;" class="content">&nbsp;
-	<h6 style="margin-top:-90px;color:#0B6623;font-family:sans-serif;font-size:18px;"><strong style="color:#0B6623;font-weight:bold;font-family:sans-serif;font-size:18px;">Our Education Philosophy</strong></h6>&nbsp;
+	<h6 style="margin-top:-90px;color:#0B6623;;font-family:sans-serif;font-size:17px;"><strong style="color:#0B6623;font-weight:bold;;font-family:sans-serif;font-size:17px;">Our Education Philosophy</strong></h6>&nbsp;
 <p style="margin: -30px 0;font-size:14.5px; line-height:1.5;font-family:sans-serif;color:black;">We seek to develop well-rounded individuals equipped with critical thinking skills, creativity, empathy, and a sense of social responsibility. We believe that every child has limitless potential to grow and is very much capable of transformative growth. Our educational approach is dedicated to nurturing the interests and aptitudes of every child, providing them with the supportive environment they need to flourish and grow. By prioritising personal growth, experiential learning, collaboration, and community engagement, we hope to empower all students to become Future-Ready Learners and Forward-Looking Leaders.</p>
 </div>
 <div style="position: relative; width: 300px; height: 300px; margin-left:40px;" class="container"> 
