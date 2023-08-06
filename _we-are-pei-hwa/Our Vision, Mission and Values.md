@@ -4,7 +4,7 @@ permalink: /we-are-pei-hwa/our-vision-mission-and-values/
 description: ""
 ---
 <div style="padding:50px;" class="container"> 
-		<h6 style="font-weight: bold;margin: 0;color:#0B6623;text-align:center;;font-family:sans-serif;font-size:17px;"><strong style="color:#0B6623;font-weight:bold;font-family:sans-serif;font-size:17px;">Our Vision</strong></h6> 
+		<h6 style="font-weight: bold;margin: 0;color:#0B6623;text-align:center;font-family:sans-serif;font-size:17px;"><strong style="color:#0B6623;font-weight:bold;font-family:sans-serif;font-size:17px;">Our Vision</strong></h6> 
 		<p style="font-size:14.5px; line-height:1.5 ;margin-top:5px; font-family:sans-serif;font-style: italic;color:black;"><strong style="font-size:14.5px; line-height:2;margin-top:15px; font-family:sans-serif;color:black;">F</strong>uture - <strong style="font-size:14.5px; line-height:2;margin-top:15px; font-family: font-family:sans-serif;color:black;">R</strong>eady&nbsp;<strong style="font-size:14.5px; line-height:2;margin-top:15px; font-family:sans-serif;color:black;">L</strong>earners <br>
 <strong style="font-size:14.5px; line-height:2;margin-top:15px; font-family:sans-serif;color:black;">F</strong>orward - <strong style="font-size:14.5px; line-height:2;margin-top:15px; font-family:sans-serif;color:black;">L</strong>ooking <strong style="font-size:14.5px; line-height:2;margin-top:15px; font-family:sans-serif;color:black;">L</strong>eaders</p> 
 <div style="display: flex; flex-wrap: wrap; justify-content: space-between; max-width: 800px; margin: 0 auto;" class="image-container">
