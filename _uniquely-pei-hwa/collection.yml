@@ -2,12 +2,12 @@ collections:
   uniquely-pei-hwa:
     output: true
     order:
-      - Pei Hwa Talent Academy.md
-      - Innovative Changemakers Programme.md
       - Future Leader Programme (FLP).md
       - Applied Learning Programme – Robotics and Programming.md
       - Learning for Life Programme – Community Youth Leadership (LLP – CYL).md
+      - Pei Hwa Talent Academy.md
       - Beyond Borders Programme.md
+      - Innovative Changemakers Programme.md
       - Innovation & Talent Development.md
       - Distinctive Programmes/.keep
       - Direct School Admission/.keep
