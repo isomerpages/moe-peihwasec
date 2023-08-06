@@ -4,7 +4,7 @@ permalink: /links/links-for-students/
 description: ""
 ---
 <div style="padding:70px;margin-top:-100px;max-width:100%">
-<h5 style="font-weight: bold;margin: 0;color:#6d6b47;font-size:18px;margin-top:15px;text-align:center;" class="header">Students</h5>
+<h6 style="color:#0B6623;font-family:sans-serif;font-weight:bold;margin-top:30px;text-align:center;"><strong style="font-family:sans-serif;font-size:17px;color:#0B6623;">Students</strong></h6>
 
 <div style="display:flex;flex-wrap: wrap; justify-content: space-between;">
 	

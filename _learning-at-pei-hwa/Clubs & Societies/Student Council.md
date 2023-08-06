@@ -8,7 +8,7 @@ third_nav_title: Clubs & Societies
 
 <p style="font-size:14.5px; line-height:2 ;margin-top:5px; font-family:sans-serif;" class="description">The <strong style="font-size:14.5px; line-height:2; font-family:sans-serif;">Pei Hwa Student Council </strong> seeks to develop forward-looking leaders who are confident communicators, effective collaborators, active and empathetic contributors and innovative changemakers. The Student Council aspires to promote the school’s PRIDE values and to be exemplary role models to their fellow Pei Hwa-ians. </p>
 
-<h5 style="margin-top:10px;font-weight: bold;color:#000000">Serving the school</h5>
+<h6 style="color:#0B6623;font-family:sans-serif;font-weight:bold;margin-top:30px;"><strong style="font-family:sans-serif;font-size:17px;color:#0B6623;">Serving the school</strong></h6>
 
 <p style="font-size:14.5px; line-height:2 ;margin-top:5px; font-family:sans-serif;" class="description">The Student Council serves the school by taking the lead or supporting in school events. Some of the key events led by the Student Council includes the Secondary 1 Orientation Programme and Teachers’ Day Celebration. As they lead the planning process of these events, the Student Council also learn to work with various stakeholders, like the Student Development Team, Class Leaders and the Alumni. </p>
 
@@ -26,13 +26,13 @@ third_nav_title: Clubs & Societies
 		<li style="font-size:14.5px; line-height:1.5 ;margin-top:5px; font-family:sans-serif;"> Open House</li>
 	</ul>
 	
-<h5 style="margin-top:10px;font-weight: bold;color:#000000">Promoting Student Voice</h5>
+<h6 style="color:#0B6623;font-family:sans-serif;font-weight:bold;margin-top:30px;"><strong style="font-family:sans-serif;font-size:17px;color:#0B6623;">Promoting Student Voice</strong></h6>
 
 <p style="font-size:14.5px; line-height:2 ;margin-top:5px; font-family:sans-serif;" class="description">The Student Council is the bridge between the student body and the school. The Student Council seeks to contribute to building a caring and enabling school environment where student voice matters. The promotion of student voice helps students feel respected; students feel a stronger sense of agency and they believe that they can be a changemaker to make a difference; and students feel an increased sense of belonging to the school. </p>
 
 <p style="font-size:14.5px; line-height:2 ;margin-top:5px; font-family:sans-serif;" class="description">The Student Council facilitates the inclusion of student voice in some of the decision-making in the school. They do it through calling for suggestions on various areas in school through Student Forums or submission of online forms and conducting polls based on suggestions from the ground. After receiving these responses, they seek to better understand the perspectives of their schoolmates and the considerations from the school. They apply the design thinking approach to problem-solving, then propose possible solutions and ideas to the school leaders. Some of the projects which they have undertaken include changes to the school bell, school jacket, graduation prom and canteen rejuvenation project.</p>
 
-<h5 style="margin-top:10px;font-weight: bold;color:#000000">Promoting Student Well-Being</h5>
+<h6 style="color:#0B6623;font-family:sans-serif;font-weight:bold;margin-top:30px;"><strong style="font-family:sans-serif;font-size:17px;color:#0B6623;">Promoting Student Well-Being</strong></h6>
 
 <p style="font-size:14.5px; line-height:2 ;margin-top:5px; font-family:sans-serif;" class="description">As the representatives of the student body, the Student Council seeks to promote student well-being. One way is through the PHun Lounge – our very own afterschool recreation centre for students to relax and have fun with their friends after a long day of school. In the PHun Lounge, students have access to board games, console games and other games like pool, foosball. The Student Council also organizes regular PHun Lounge events during the term. Some of these events and competitions include the Pool Competition, MarioKart Competition, Jenga Competition, Chess Competion.</p>
 
@@ -45,7 +45,7 @@ third_nav_title: Clubs & Societies
   </div>
 </div>
 
-<h5 style="margin-top:10px;font-weight: bold;color:#000000">Leadership Development Opportunities</h5>
+<h6 style="color:#0B6623;font-family:sans-serif;font-weight:bold;margin-top:30px;"><strong style="font-family:sans-serif;font-size:17px;color:#0B6623;">Leadership Development Opportunities</strong></h6>
 
 <p style="font-size:14.5px; line-height:2 ;margin-top:5px; font-family:sans-serif;" class="description">In addition</p>
 <ul style="margin-top:-5px">

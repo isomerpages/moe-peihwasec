@@ -12,7 +12,7 @@ third_nav_title: Sports & Games
 
 <p style="font-size:14.5px; line-height:2 ;margin-top:5px; font-family:sans-serif;" class="description">Every year is a fresh start for us. Each student will have an opportunity to represent the school to play for National School Games. At Pei Hwa Basketball, we are proud to say that we are one big family, united by a group of like-minded students who enjoy playing basketball.</p>
 
-<h3 style="margin-top:10px;font-weight: bold;color:#000000;">Achievements</h3>
+<h6 style="color:#0B6623;font-family:sans-serif;font-weight:bold;margin-top:30px;"><strong style="font-family:sans-serif;font-size:17px;color:#0B6623;">Achievements</strong></h6>
 
 <table style="border-collapse: collapse;margin: 25px 0;margin-top:5px;font-family: sans-serif;box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);width:100%" border="1">
 	
@@ -58,7 +58,7 @@ third_nav_title: Sports & Games
 </tbody>
 </table>
 
-<h3 style="margin-top:10px;font-weight: bold;color:#000000">Student Testament</h3>
+<h6 style="color:#0B6623;font-family:sans-serif;font-weight:bold;margin-top:30px;"><strong style="font-family:sans-serif;font-size:17px;color:#0B6623;">Student Testament</strong></h6>
 
 <blockquote style="font-size: 15px;width:100%;margin:50px auto;margin-top:5px;font-family:serif;font-style:italic;color: #555555;padding:1.2em 25px 1.2em 25px;border-left:8px solid #0C6523;line-height:1.6;position: relative;background:#EDEDED;">
 <img align="left" src="https://raw.githubusercontent.com/isomerpages/moe-peihwasec/staging/images/CCA/basketballtestimonial01.png" style="width: 23%; border-radius: 7%;  margin-right:15px;">"My time in the CCA has shaped me into a more resilient, determined, and confident individual. Firstly, the dedication, expertise, and passion of my coach and teachers for the sport have fostered a supportive and encouraging environment that has allowed me to grow as a player. Their guidance and coaching have helped me to improve my skills and reach new levels of performance for the sport. Moreover, the CCA has given me the privilege of playing alongside talented and driven seniors and teammates who share the same love for the game. Through many hours of training and competing together, we have formed strong friendships and created unforgettable memories. Through the training, our physical conditioning, mental resilience, and understanding of the game have improved as well. These few years in my CCA have not only improved my basketball skills but have also instilled valuable life lessons such as discipline, perseverance, and leadership."
@@ -78,7 +78,7 @@ third_nav_title: Sports & Games
 	</blockquote> 
 	
 
-<h3 style="margin-top:10px;font-weight: bold;color:#000000">CCA Details</h3>
+<h6 style="color:#0B6623;font-family:sans-serif;font-weight:bold;margin-top:30px;"><strong style="font-family:sans-serif;font-size:17px;color:#0B6623;">CCA Details</strong></h6>
 
 <table style="width:100%;border-collapse: collapse;border: none;">
 	<tbody style="border: none;">

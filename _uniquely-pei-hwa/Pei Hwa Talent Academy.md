@@ -6,7 +6,7 @@ description: ""
 <p style="font-size:14.5px; line-height:2;margin-top:15px; font-family:sans-serif">The Pei Hwa Talent Academy (PHTA), is a programme that aims to develop and nurture
 students who demonstrate a strong aptitude and talent in academic studies. This programme is a 4-year&nbsp;enriched curriculum specially&nbsp;tailored and differentiated for selected students who display strong passion, great aptitude and keen motivation in the various academic disciplines (English, Mathematics, Science and Humanities).</p>
 
-<h4 style="color:black;font-weight:bold;font-family:sans-serif;">Our Goals</h4>
+<h6 style="color:#0B6623;font-family:sans-serif;font-weight:bold;margin-top:30px;"><strong style="font-family:sans-serif;font-size:17px;color:#0B6623;">Our Goals</strong></h6>
 <p style="font-size:14.5px; line-height:2;margin-top:15px; font-family:sans-serif">The Pei Hwa Talent Academy aims to fulfil the following objectives:</p>
 
 <ol style="margin-top:-5px;list-style-type: lower-alpha;">
@@ -20,7 +20,7 @@ different academic disciplines</li>
 Higher Learning.</li>
 </ol>
 
-<h4 style="font-weight: bold;margin: 0;color:black;font-family:sans-serif">Eligibility</h4>
+<h6 style="color:#0B6623;font-family:sans-serif;font-weight:bold;margin-top:30px;"><strong style="font-family:sans-serif;font-size:17px;color:#0B6623;">Eligibility</strong></h6>
 
 <table border="1" style="border-collapse: collapse;margin: 25px 0;font-size: 0.9em;font-family: sans-serif;min-width: 400px; box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);">
 	
@@ -49,7 +49,7 @@ Higher Learning.</li>
 </tbody>
 </table>
 
-<h4 style="color:black;font-family:sans-serif;font-weight:bold;">Core Features of Pei Hwa Talent Academy</h4>
+<h6 style="color:#0B6623;font-family:sans-serif;font-weight:bold;margin-top:30px;"><strong style="font-family:sans-serif;font-size:17px;color:#0B6623;">Core Features of Pei Hwa Talent Academy</strong></h6>
 
 <p style="margin-top:15px;font-size:15.5px;"><strong style="font-family:sans-serif;">1. Core Features of Pei Hwa Talent Academy</strong></p>
 
@@ -75,11 +75,10 @@ and knowledge for their future professional endeavours beyond their secondary sc
 education. This experiential learning platform provides students with the opportunity to practice and enhance their industry-specific skills while simultaneously gaining valuable insights into effective teamwork and collaboration. Through the programme, scholars will gain greater clarity on his career inclinations and a finer
 awareness of how the knowledge learnt in school can help them with their future.</p>
 
-<h4 style="color:black;font-family:sans-serif;font-weight:bold;">Approach and Process</h4>
+<h6 style="color:#0B6623;font-family:sans-serif;font-weight:bold;margin-top:30px;"><strong style="font-family:sans-serif;font-size:17px;color:#0B6623;">Approach and Process</strong></h6>
 
 <p style="font-size:14.5px; line-height:2;margin-top:15px; font-family:sans-serif">Pei Hwa Talent Academy aims to provide opportunities and platforms for our student talents to
-excel in the various academic disciplines via the Excite, Experience and Excel approach (Fig.
-1).</p>
+excel in the various academic disciplines via the Excite, Experience and Excel approach (Fig. 1).</p>
 
 <p style="margin-top:15px;font-size:15.5px;"><strong style="font-family:sans-serif;">1. EXCITE</strong></p>
 

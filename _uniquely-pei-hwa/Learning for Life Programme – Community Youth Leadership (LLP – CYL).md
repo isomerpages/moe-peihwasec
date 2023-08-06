@@ -3,7 +3,7 @@ title: Learning for Life Programme – Community Youth Leadership (LLP – CYL)
 permalink: /uniquely-pei-hwa/learning-for-life-programme-community-youth-leadership-llp-cyl/
 description: ""
 ---
-<h4 style="color:#635f1a;font-weight:bold;font-family:sans-serif;">PRIDE of the Community: Developing An Altruist</h4>
+<h6 style="color:#0B6623;font-family:sans-serif;font-weight:bold;margin-top:30px;"><strong style="font-family:sans-serif;font-size:17px;color:#0B6623;">PRIDE of the Community: Developing An Altruist</strong></h6>
 
 <p style="margin-top:15px;font-size:15.5px;"><strong style="font-family:sans-serif;">Goals</strong></p>
 
@@ -21,7 +21,7 @@ description: ""
 <li style="font-size:14.5px; line-height:2;margin-left:17px;font-family:sans-serif;">Develop leadership, communication, problem-solving and entrepreneurship skills.</li>
 </ol>
 
-<h4 style="color:#635f1a;font-weight:bold;font-family:sans-serif;">Our Programmes</h4>
+<h6 style="color:#0B6623;font-family:sans-serif;font-weight:bold;margin-top:30px;"><strong style="font-family:sans-serif;font-size:17px;color:#0B6623;">Our Programmes</strong></h6>
 
 <table border="1" style="border-collapse: collapse;margin: 25px 0;font-size:14.5px;font-family: sans-serif;box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);">
 <thead style="background-color: #009879; font-weight: bold; font-size: 14.5px;">

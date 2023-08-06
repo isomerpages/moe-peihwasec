@@ -4,11 +4,11 @@ permalink: /learning-at-pei-hwa/cce/character-citizenship-education-at-pei-hwa/
 description: ""
 third_nav_title: CCE
 ---
-<h4 style="font-weight: bold;margin: 0;color:#0B6623;font-family:sans-serif">Our Goals</h4>
+<h6 style="color:#0B6623;;font-family:sans-serif;font-weight:bold;"><strong style="font-family:sans-serif;font-size:17px;color:#0B6623;">Our Goals</strong></h6>
 
 <p style="font-size:14.5px; line-height:2;margin-top:15px;font-family:sans-serif;">Character and Citizenship Education (CCE) is integral to the holistic development of students.The CCE curriculum supports the students’ development of values, character, citizenship dispositions and social-emotional well-being, with the aim of realising the school’s vision of developing Future-Ready Learners and Forward-Looking Leaders.</p>
 
-<h4 style="font-weight: bold;margin: 0;color:#0B6623;font-family:sans-serif">Our Programmes</h4>
+<h6 style="color:#0B6623;;font-family:sans-serif;font-weight:bold;"><strong style="font-family:sans-serif;font-size:17px;color:#0B6623;">Our Programmes</strong></h6>
 
 <p style="margin-top:15px;font-size:15.5px;"><u style="font-family:sans-serif;">Overview</u></p>
 

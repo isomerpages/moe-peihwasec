@@ -5,7 +5,7 @@ description: ""
 ---
 <p style="font-size:14.5px; line-height:2;font-family:sans-serif;">FamilyMatters@School is an initiative by Ministry of Social and Family Development (MSF). Pei Hwa has embarked on FamilyMatters@School to empower parents with the resources, knowledge and skills to build a strong and happy family through the Positive Parenting Programme (Triple P), an evidence-based programme that equips parents with techniques to promote their children’s&nbsp;psychological, social and emotional competence.</p>
 
-<h4 style="color:#635f1a;font-weight:bold;font-family:sans-serif;">Positive Parenting Programme (Triple P)</h4>
+<h6 style="color:#0B6623;font-family:sans-serif;font-weight:bold;margin-top:30px;"><strong style="font-family:sans-serif;font-size:17px;color:#0B6623;">Positive Parenting Programme (Triple P)</strong></h6>
 
  <p style="margin-top:15px;font-size:15.5px;"><strong style="font-family:sans-serif;"><em style="font-family:sans-serif;">Objective:<br></em></strong></p>
 

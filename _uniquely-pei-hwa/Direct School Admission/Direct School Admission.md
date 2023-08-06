@@ -4,7 +4,7 @@ permalink: /uniquely-pei-hwa/direct-school-admission-dsa/
 description: ""
 third_nav_title: Direct School Admission
 ---
-<h4 style="color:#635f1a;font-weight:bold;font-family:sans-serif;">What is Direct School Admission?</h4>
+<h6 style="color:#0B6623;font-family:sans-serif;font-weight:bold;margin-top:30px;"><strong style="font-family:sans-serif;font-size:17px;color:#0B6623;">What is Direct School Admission?</strong></h6>
 <p style="font-size:14.5px; line-height:2;margin-top:15px; font-family:sans-serif">DSA-Sec is an initiative by MOE which was introduced in 2004 to give schools greater flexibility in student admission, so as to recognise more diverse range of student achievements and talents. Under the DSA-Sec Exercise, participating schools may select some students for admission via their own admission criteria. </p>
 <p style="font-size:14.5px; line-height:2;margin-top:15px; font-family:sans-serif"> Parents and students are encouraged to choose schools wisely based on the student’s aptitudes and strengths, bearing in mind the schools’ academic and non-academic requirements, and the programmes available to develop the area of talent.</p>
 
@@ -93,7 +93,7 @@ Apart from developing our students to acquire knowledge in Taekwondo, the CCA al
 </tr>
 </tbody></table>
 
-<h4 style="color:#635f1a;font-weight:bold;font-family:sans-serif;">Related Pages</h4>
+<h6 style="color:#0B6623;font-family:sans-serif;font-weight:bold;margin-top:30px;"><strong style="font-family:sans-serif;font-size:17px;color:#0B6623;">Related Pages</strong></h6>
 <ol style="margin-top:5px;"> 
 	<li style="font-size:14.5px; line-height:2;font-family:sans-serif;"><a href="https://www.peihwasec.moe.edu.sg/programmes/direct-school-admission/guzheng-dsa/" style="font-size:14.5px; line-height:1.5;font-family:sans-serif;font-weight:bold;text-decoration: none;">Guzheng DSA</a></li> 
 <li style="font-size:14.5px; line-height:2;font-family:sans-serif;"><a href="https://www.peihwasec.moe.edu.sg/programmes/direct-school-admission/robotics-programming-dsa/" style="font-size:14.5px; line-height:1.5;font-family:sans-serif;font-weight:bold;text-decoration: none;">Robotics (Programming) DSA</a></li> 

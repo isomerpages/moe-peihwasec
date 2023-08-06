@@ -18,7 +18,7 @@ third_nav_title: Clubs & Societies
 
 <img style="width: 100%; height: auto;margin-top:20px;margin-bottom:30px;" alt="Image" src="https://raw.githubusercontent.com/isomerpages/moe-peihwasec/staging/images/CCA/infocommclubava.png">
 
-<h3 style="margin-top:10px;font-weight: bold;color:#000000">Achievements</h3>
+<h6 style="color:#0B6623;font-family:sans-serif;font-weight:bold;margin-top:30px;"><strong style="font-family:sans-serif;font-size:17px;color:#0B6623;">Achievements</strong></h6>
 
 <table style="border-collapse: collapse;margin: 25px 0;margin-top:5px;font-family: sans-serif;box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);width:100%" border="1">
 	
@@ -38,7 +38,7 @@ third_nav_title: Clubs & Societies
 			<li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">Top 20<sup style="font-family:sans-serif;">th</sup> Team (Ashton Tan Kuo Sheng, Wong Chun Yuen, Felicia Low Yong Shi, Nikki Ang Xin Yu)</li>
 		</ul>
 		
-	</td>
+</td>
 </tr>
 
 <tr>
@@ -81,7 +81,7 @@ third_nav_title: Clubs & Societies
 </tbody>
 </table>
 
-<h3 style="margin-top:10px;font-weight: bold;color:#000000">CCA Activities</h3>
+<h6 style="color:#0B6623;font-family:sans-serif;font-weight:bold;margin-top:30px;"><strong style="font-family:sans-serif;font-size:17px;color:#0B6623;">CCA Activities</strong></h6>
 
 <ul style="margin-top:5px">
 	<li style="font-size:14.5px; line-height:1.5 ;margin-top:5px; font-family:sans-serif;"> Sec 1: Animation (e.g. Stop Motion &amp; Scratch)</li>
@@ -89,14 +89,14 @@ third_nav_title: Clubs & Societies
 <li style="font-size:14.5px; line-height:1.5 ;margin-top:5px; font-family:sans-serif;"> Sec 3: Visual Effects &amp; Video Editing (e.g. Adobe After Effects &amp; Adobe Premier Pro)</li>
 	</ul>
 
-<h3 style="margin-top:10px;font-weight: bold;color:#000000">CCA Competitions</h3>
+<h6 style="color:#0B6623;font-family:sans-serif;font-weight:bold;margin-top:30px;"><strong style="font-family:sans-serif;font-size:17px;color:#0B6623;">CCA Competition</strong></h6>
 
 <ul style="margin-top:5px">
 	<li style="font-size:14.5px; line-height:1.5 ;margin-top:5px; font-family:sans-serif;"> Schools Digital Media Awards</li>
 <li style="font-size:14.5px; line-height:1.5 ;margin-top:5px; font-family:sans-serif;"> NEmation</li>
 	</ul>
 	
-<h3 style="margin-top:10px;font-weight: bold;color:#000000">Student Testament</h3>
+<h6 style="color:#0B6623;font-family:sans-serif;font-weight:bold;margin-top:30px;"><strong style="font-family:sans-serif;font-size:17px;color:#0B6623;">Student Testament</strong></h6>
 
 <blockquote style="font-size: 15px;width:100%;margin:50px auto;margin-top:5px;font-family:serif;font-style:italic;color: #555555;padding:1.2em 25px 1.2em 25px;border-left:8px solid #0C6523;line-height:1.6;position: relative;background:#EDEDED;">
 <img align="left" src="https://raw.githubusercontent.com/isomerpages/moe-peihwasec/staging/images/CCA/infocommtestimonial01.png" style="width: 23%; border-radius: 7%;  margin-right:15px;">
@@ -116,7 +116,7 @@ third_nav_title: Clubs & Societies
   <span style="display:block; color:#333333; margin-top:1em;font-size:15px;font-family:sans-serif;"><em style="font-family:sans-serif;">AVA President, Dhavala Venkata Aarush Avadhani</em></span><br><br><br><br>
 	</blockquote> 
 
-<h3 style="margin-top:10px;font-weight: bold;color:#000000">CCA Details</h3>
+<h6 style="color:#0B6623;font-family:sans-serif;font-weight:bold;margin-top:30px;"><strong style="font-family:sans-serif;font-size:17px;color:#0B6623;">CCA Details</strong></h6>
 
 <table style="width:100%;margin-top:5px;border-collapse: collapse;border: none;">
 	<tbody style="border: none;">

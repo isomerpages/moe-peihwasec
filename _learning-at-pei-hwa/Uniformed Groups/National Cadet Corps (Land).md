@@ -4,7 +4,7 @@ permalink: /learning-at-pei-hwa/cca/uniformed-groups/ncc-land/
 description: ""
 third_nav_title: Uniformed Groups
 ---
-<h4 style="margin-top:10px;font-weight: bold;color:#000000">Nurturing. Committed. Cool.</h4>
+<h6 style="color:#0B6623;font-family:sans-serif;font-weight:bold;margin-top:30px;"><strong style="font-family:sans-serif;font-size:17px;color:#0B6623;">Nurturing. Committed. Cool.</strong></h6>
 
 <img style="width: 100%; height: auto;margin-top:30px;margin-bottom:30px;" alt="Image" src="https://raw.githubusercontent.com/isomerpages/moe-peihwasec/staging/images/CCA/nccbanner.png">
 
@@ -12,7 +12,7 @@ third_nav_title: Uniformed Groups
 
 <p style="font-size:14.5px; line-height:2 ;margin-top:5px; font-family:sans-serif;" class="description">NCC activities help develop cadets into leaders who possess strong character and are committed to performing at their best. They participate in various military-related tasks, such as simulated firing, live range shooting, and obstacle courses, which help them understand the significance of our nation's military defence. The strong bonds;; they form with their peers and juniors during their NCC journey will undoubtedly enhance their lives in Pei Hwa NCC.</p>
 
-<h3 style="margin-top:10px;font-weight: bold;color:#000000;">Achievements</h3>
+<h6 style="color:#0B6623;font-family:sans-serif;font-weight:bold;margin-top:30px;"><strong style="font-family:sans-serif;font-size:17px;color:#0B6623;">Achievements</strong></h6>
 
 <table style="border-collapse: collapse;margin: 25px 0;margin-top:5px;font-family: sans-serif;box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);width:100%" border="1">
 	
@@ -87,7 +87,7 @@ third_nav_title: Uniformed Groups
 </tbody>
 </table>
 
-<h3 style="margin-top:10px;font-weight: bold;color:#000000">CCA Activities</h3>
+<h6 style="color:#0B6623;font-family:sans-serif;font-weight:bold;margin-top:30px;"><strong style="font-family:sans-serif;font-size:17px;color:#0B6623;">CCA Activities</strong></h6>
 
 <ul style="margin-top:5px">
 	<li style="font-size:14.5px; line-height:1.5 ;margin-top:5px; font-family:sans-serif;"> Sports and Games</li>
@@ -100,7 +100,7 @@ third_nav_title: Uniformed Groups
 <li style="font-size:14.5px; line-height:1.5 ;margin-top:5px; font-family:sans-serif;"> Precision Drill</li>
 	</ul>
 
-<h3 style="margin-top:10px;font-weight: bold;color:#000000">Student Testament</h3>
+<h6 style="color:#0B6623;font-family:sans-serif;font-weight:bold;margin-top:30px;"><strong style="font-family:sans-serif;font-size:17px;color:#0B6623;">Student Testament</strong></h6>
 
 <blockquote style="font-size: 15px;width:100%;margin:50px auto;margin-top:5px;font-family:serif;font-style:italic;color: #555555;padding:1.2em 25px 1.2em 25px;border-left:8px solid #0C6523;line-height:1.6;position: relative;background:#EDEDED;">
 <img align="left" src="https://raw.githubusercontent.com/isomerpages/moe-peihwasec/staging/images/CCA/ncctestimonial01.png" style="width: 23%; border-radius: 7%;  margin-right:15px;">
@@ -121,7 +121,7 @@ third_nav_title: Uniformed Groups
   <span style="display:block; color:#333333; margin-top:1em;font-size:15px;font-family:sans-serif;"><em style="font-family:sans-serif;">Asst Sergeant Major (Admin), Miza Ardini Binte Mohd Azwan (3I4) </em></span>
 	</blockquote> 
 
-<h3 style="margin-top:10px;font-weight: bold;color:#000000">CCA Details</h3>
+<h6 style="color:#0B6623;font-family:sans-serif;font-weight:bold;margin-top:30px;"><strong style="font-family:sans-serif;font-size:17px;color:#0B6623;">CCA Details</strong></h6>
 
 <table style="width:100%;border-collapse: collapse;border: none;">
 	<tbody style="border: none;">

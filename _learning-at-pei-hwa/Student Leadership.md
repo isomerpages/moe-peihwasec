@@ -10,7 +10,7 @@ description: ""
 
 <p style="font-size:14.5px; line-height:2;margin-top:15px; font-family:sans-serif">Our student leadership development programme follows the STEER framework. We consider the various aspects of Selecting, Training, Empowering, Evaluating and Recognizing our student leaders. </p>
 
-<p style="margin-top:25px;font-size:17px;color:#0B6623;"><strong style="font-family:sans-serif;color:#0B6623;">Student Leadership Training and Empowerment Opportunities</strong></p>
+<h6 style="color:#0B6623;font-family:sans-serif;font-weight:bold;margin-top:30px;"><strong style="font-family:sans-serif;font-size:17px;color:#0B6623;">Student Leadership Training and Empowerment Opportunities</strong></h6>
 	
 <img src="https://raw.githubusercontent.com/isomerpages/moe-peihwasec/staging/images/Learning%20%40%20Pei%20Hwa/Student%20Leadership/studentleadership02.png">
 	

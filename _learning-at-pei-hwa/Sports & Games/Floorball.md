@@ -22,7 +22,7 @@ third_nav_title: Sports & Games
 <p style="font-size:14.5px; line-height:2;margin-top:15px; font-family:sans-serif;">Overall, participating in the floorball CCA can offer students a range of benefits, from physical fitness to social and emotional development, and can help to create a positive and supportive learning environment.</p>
 
 	
-<h3 style="margin-top:10px;font-weight: bold;color:#000000;">Achievements</h3>
+<h6 style="color:#0B6623;font-family:sans-serif;font-weight:bold;margin-top:30px;"><strong style="font-family:sans-serif;font-size:17px;color:#0B6623;">Achievements</strong></h6>
 
 <table style="border-collapse: collapse;margin: 25px 0;margin-top:5px;font-family: sans-serif;box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);width:100%" border="1">
 	
@@ -182,7 +182,7 @@ third_nav_title: Sports & Games
 </tbody>
 </table>
 
-<h3 style="margin-top:10px;font-weight: bold;color:#000000">CCA Activities &amp; Opportunities</h3>
+<h6 style="color:#0B6623;font-family:sans-serif;font-weight:bold;margin-top:30px;"><strong style="font-family:sans-serif;font-size:17px;color:#0B6623;">CCA Activities &amp; Opportunities</strong></h6>
 
 <p style="font-size:14.5px; line-height:2 ;margin-top:5px; font-family:sans-serif;" class="description">On top of participating in the annual National School Games, our members also take part in many other competitions as part of their passion for learning in the sport. We are actively taking part in the ActiveSG-SFA League, Pesta Sukan, Storvretacupen Singapore, SG Floorball Open as well as other invitational and ad-hoc competitions held by various schools, organisations and floorball clubs in Singapore.</p>
 
@@ -190,7 +190,7 @@ third_nav_title: Sports & Games
 
 <p style="font-size:14.5px; line-height:2 ;margin-top:5px; font-family:sans-serif;" class="description">There are also plenty of opportunities for our members to be developed as student leaders in the CCA. Student leaders in the CCA are given the opportunity to facilitate events such as our annual CCA Fiesta, Open House and CCA Camps. You will also lead the team for training and competitions. Student leaders are also given the opportunity to hone their leadership further when they are sent to participate in the annual Sec 2 Basic Student Leadership Camp and Sec 3 Advance Student Leadership Camp.</p>
 
-<h3 style="margin-top:10px;font-weight: bold;color:#000000">CCA Details</h3>
+<h6 style="color:#0B6623;font-family:sans-serif;font-weight:bold;margin-top:30px;"><strong style="font-family:sans-serif;font-size:17px;color:#0B6623;">CCA Details</strong></h6>
 
 <table style="width:100%;border-collapse: collapse;border: none;">
 	<tbody style="border: none;">

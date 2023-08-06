@@ -3,7 +3,7 @@ title: ICT Enrichment
 permalink: /ict-enrichment/
 description: ""
 ---
-<h4 style="color:#635f1a;font-weight:bold;font-family:sans-serif;">Secondary 1 – 2</h4>
+<h6 style="color:#0B6623;font-family:sans-serif;font-weight:bold;margin-top:30px;"><strong style="font-family:sans-serif;font-size:17px;color:#0B6623;">Secondary 1 – 2</strong></h6>
 
  <p style="margin-top:15px;font-size:15.5px;"><strong style="font-family:sans-serif;">Learning Objective</strong></p>
 
@@ -29,7 +29,7 @@ description: ""
 <li style="font-size:14.5px; line-height:2;margin-left:17px;font-family:sans-serif;">Export and process data using ICT tools</li>
 </ol>
 
-<h4 style="color:#635f1a;font-weight:bold;font-family:sans-serif;">Secondary 3 – 5 </h4>
+<h6 style="color:#0B6623;font-family:sans-serif;font-weight:bold;margin-top:30px;"><strong style="font-family:sans-serif;font-size:17px;color:#0B6623;">Secondary 3 – 5 </strong></h6>
 
  <p style="margin-top:15px;font-size:15.5px;"><strong style="font-family:sans-serif;">Learning Objective</strong></p>
 
