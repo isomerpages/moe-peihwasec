@@ -3,7 +3,7 @@ title: CCAs
 permalink: /learning-at-pei-hwa/cca/
 description: ""
 ---
-<h3 style="margin-top:10px;font-weight: bold;color:#000000;text-align:center;">Co-Curricular Activities </h3>
+<h6 style="color:#0B6623;font-family:sans-serif;font-weight:bold;text-align:center;"><strong style="font-family:sans-serif;font-size:17px;color:#0B6623;">Co-Curricular Activities </strong></h6>
 
 <div style="display: flex; margin:0;padding:0;" class="container"> 
 	<div style="flex: 1; background-color: #F8BF58;; margin: 10px; padding: 25px; text-align: center; width: 225px; height: auto;padding-bottom:-10px;" class="box"> 
