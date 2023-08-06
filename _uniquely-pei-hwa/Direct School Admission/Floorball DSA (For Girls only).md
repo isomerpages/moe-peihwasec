@@ -4,7 +4,7 @@ permalink: /uniquely-pei-hwa/direct-school-admission/floorball-dsa-for-girls-onl
 description: ""
 third_nav_title: Direct School Admission
 ---
-<h4 style="color:#635f1a;font-weight:bold;font-family:sans-serif;">DSA Admission – Floorball (For Girls only)</h4>
+<h6 style="color:#0B6623;font-family:sans-serif;font-weight:bold;margin-top:30px;"><strong style="font-family:sans-serif;font-size:17px;color:#0B6623;">DSA Admission – Floorball (For Girls only)</strong></h6>
 
 <p style="font-size:14.5px; line-height:2;margin-top:15px; font-family:sans-serif">Pei Hwa Secondary School is looking for Primary 6 students with passion and talent in playing floorball. Students should meet the admission criteria stated in the following section before
 applying. Shortlisted applicants who meet the admission criteria will be required to attend an interview and selection trial by our panel of teachers.</p>
@@ -14,7 +14,7 @@ applying. Shortlisted applicants who meet the admission criteria will be require
 <p style="margin-top:15px;font-size:14.5px; line-height:2;font-family:sans-serif;">Students who are successfully admitted to the school via DSA are expected to honour their commitment to the school, and participate in the activities related to the talent they are selected
 for from year 1 to 4.</p>
 
-<h4 style="color:#635f1a;font-weight:bold;font-family:sans-serif;">About Pei Hwa Floorball</h4>
+<h6 style="color:#0B6623;font-family:sans-serif;font-weight:bold;margin-top:30px;"><strong style="font-family:sans-serif;font-size:17px;color:#0B6623;">About Pei Hwa Floorball</strong></h6>
 
 <p style="margin-top:15px;font-size:14.5px; line-height:2;font-family:sans-serif;">Pei Hwa Floorball seeks to provide opportunities to develop students’ talents and lifelong passion for the sport. Through the meaningful experiences planned, the floorball CCA also aims
 to help students to build a variety of important skills and qualities, such as teamwork, physical fitness, sportsmanship and leadership. Overall, participating in the floorball CCA can offer students a range of benefits, from physical fitness to social and emotional development, and can help to create a positive and supportive learning environment.</p>
@@ -33,7 +33,7 @@ to help students to build a variety of important skills and qualities, such as t
 
 <p style="margin-top:15px;font-size:14.5px; line-height:2;font-family:sans-serif;">For more information on Pei Hwa Floorball CCA and their programme, please click <a style="font-size:14.5px; line-height:1.5;font-family:sans-serif;font-weight:bold;text-decoration: none;" href="https://moe-peihwasec-staging.netlify.app/learning-at-pei-hwa/cca/sports-games/football/">here.</a></p>
 
-<h4 style="color:#635f1a;font-weight:bold;font-family:sans-serif;">Shortlisting Criteria</h4>
+<h6 style="color:#0B6623;font-family:sans-serif;font-weight:bold;margin-top:30px;"><strong style="font-family:sans-serif;font-size:17px;color:#0B6623;">Shortlisting Criteria</strong></h6>
 <p style="font-size:14.5px; line-height:2;margin-top:15px; font-family:sans-serif">
 </p>
 
@@ -56,7 +56,7 @@ all the criteria does not guarantee the applicant will be shortlisted / given an
 <li style="font-size:14.5px; line-height:2;font-family:sans-serif;">Students who are successfully admitted to the school via DSA are expected to honour their commitment to the school and participate in the activities related to the talent they are selected for from year 1 to 4.</li>
 </ol>
 
-<h4 style="color:#635f1a;font-weight:bold;font-family:sans-serif;">Selection Process and Criteria</h4>
+<h6 style="color:#0B6623;font-family:sans-serif;font-weight:bold;margin-top:30px;"><strong style="font-family:sans-serif;font-size:17px;color:#0B6623;">Selection Process and Criteria</strong></h6>
 
 <ul style="margin-top:5px;">
 <li style="font-size:14.5px; line-height:2;font-family:sans-serif;">An interview.</li>
@@ -97,7 +97,7 @@ School.</li>
 </ul>
 <p></p>
 
-<h4 style="color:#635f1a;font-weight:bold;font-family:sans-serif;">Application Procedures for 2023</h4>
+<h6 style="color:#0B6623;font-family:sans-serif;font-weight:bold;margin-top:30px;"><strong style="font-family:sans-serif;font-size:17px;color:#0B6623;">Application Procedures for 2023</strong></h6>
 <p style="font-size:14.5px; line-height:2;margin-top:15px;margin-bottom:-15px;font-family:sans-serif;"><strong>Here are the procedures for DSA – Floorball application in Pei Hwa Secondary School.</strong></p>
 
 <table style="border-collapse: collapse;margin: 25px 0;font-size:14.5px;font-family: sans-serif;box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);" border="1">
@@ -195,7 +195,7 @@ SingPass to submit up to three school preferences before the deadline (Please re
 </table>
 
 
-<h4 style="color:#635f1a;font-weight:bold;font-family:sans-serif;">FAQs</h4>
+<h6 style="color:#0B6623;font-family:sans-serif;font-weight:bold;margin-top:30px;"><strong style="font-family:sans-serif;font-size:17px;color:#0B6623;">FAQs</strong></h6>
 
 <p style="font-size:14.5px; line-height:2;font-family:sans-serif;"><strong style="font-family:sans-serif;">How many places can Pei Hwa Secondary offer in DSA Exercise?</strong></p>
 <p style="font-size:14.5px; line-height:2;font-family:sans-serif;margin-top:-5px;">All secondary schools can admit <strong style="font-family:sans-serif;">up to 20% </strong>of their S1 non-Integrated Programme (non-IP)
