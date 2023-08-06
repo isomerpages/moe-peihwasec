@@ -3,14 +3,14 @@ title: Innovative Changemakers Programme
 permalink: /uniquely-pei-hwa/innovative-changemakers-programme/
 description: ""
 ---
-<h4 style="color:black;font-weight:bold;font-family:sans-serif;">Our Goals</h4>
+<h6 style="color:#0B6623;font-family:sans-serif;font-weight:bold;margin-top:30px;"><strong style="font-family:sans-serif;font-size:17px;color:#0B6623;">Our Goals</strong></h6>
 <p style="font-size:14.5px; line-height:2;margin-top:15px; font-family:sans-serif">In our pursuit to foster an innovative mindset among our students, the school's innovation thrust endeavours to create diverse platforms for Pei Hwa students. These platforms serve to
 introduce students to the dynamic innovations of the VUCA world, enabling them to explore, apply, and showcase their innovative ideas and projects.</p>
 
 <p style="font-size:14.5px; line-height:2;margin-top:15px; font-family:sans-serif">Leveraging on our very own Pei Hwa Innovation Cycle, we aim to develop an innovative
 mindset in our students, equipping them with the eight characteristics of an innovator’s mindset as defined by George Couros.</p>
 
-<h4 style="font-weight: bold;margin: 0;color:black;font-family:sans-serif">Our Programmes</h4>
+<h6 style="color:#0B6623;font-family:sans-serif;font-weight:bold;margin-top:30px;"><strong style="font-family:sans-serif;font-size:17px;color:#0B6623;">Our Programmes</strong></h6>
 
 <p style="font-size:14.5px; line-height:2;margin-top:15px;font-family:sans-serif;">To bring our School's vision of nurturing Future-Ready Learners and Forward-Looking Leaders to fruition, it is essential to foster an innovative mindset within our students.</p>
 
@@ -25,7 +25,7 @@ levels to be exposed to, apply and exhibit the innovative mindset:</p>
 <p style="font-size:14.5px; line-height:2;margin-top:15px;font-family:sans-serif;">As part of the tiered student development in Pei Hwa Secondary School, the Innovation Talent Development Programme (TDP) aims to target and select around 30 Secondary 1 to 3 students
 who have indicated a keen interest in the areas of innovation.</p>
 
-<h4 style="font-weight: bold;margin: 0;color:black;font-family:sans-serif">Exposure</h4>
+<h6 style="color:#0B6623;font-family:sans-serif;font-weight:bold;margin-top:30px;"><strong style="font-family:sans-serif;font-size:17px;color:#0B6623;">Exposure</strong></h6>
 
 <p style="font-size:14.5px; line-height:2;margin-top:15px;font-family:sans-serif;">Innovation TDP provides opportunities for students to gain exposure through&nbsp;learning journeys,
 discussion forums, speaker series and workshops.</p>
@@ -36,7 +36,7 @@ discussion forums, speaker series and workshops.</p>
 	<li style="font-size:14.5px; line-height:1.5;font-family:sans-serif;">Training Workshops</li>
 </ol>
 
-<h4 style="font-weight: bold;margin: 0;color:black;font-family:sans-serif">Application</h4>
+<h6 style="color:#0B6623;font-family:sans-serif;font-weight:bold;margin-top:30px;"><strong style="font-family:sans-serif;font-size:17px;color:#0B6623;">Application</strong></h6>
 
 <p style="font-size:14.5px; line-height:2;margin-top:15px;font-family:sans-serif;">Students in the Innovation TDP are also provided with opportunities to apply their innovative mindsets in&nbsp;external platforms/competitions&nbsp;that are&nbsp;nationally recognised.</p>
 
@@ -62,7 +62,7 @@ people to brainstorm, develop and prototype solutions to achieve sustainable dev
 	<p style="font-size:14.5px; line-height:2;margin-top:15px;font-family:sans-serif;">In 2018, a team of students emerged as one of the top 3 winning teams in the Secondary School category in Singapore.</p>
 </ul>
 
-<h4 style="font-weight: bold;margin: 0;color:black;font-family:sans-serif">Exhibitions</h4>
+<h6 style="color:#0B6623;font-family:sans-serif;font-weight:bold;margin-top:30px;"><strong style="font-family:sans-serif;font-size:17px;color:#0B6623;">Exhibitions</strong></h6>
 
 <p style="font-size:14.5px; line-height:2;margin-top:15px;font-family:sans-serif;">The inclusion of exhibition opportunities in the TDP aims to provide a platform for students to showcase and exhibit their innovative endeavours on a diverse array of internal and external exhibition platforms, celebrating their creativity and achievements.</p>
 
