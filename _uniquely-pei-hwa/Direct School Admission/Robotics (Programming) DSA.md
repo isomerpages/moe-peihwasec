@@ -4,7 +4,7 @@ permalink: /uniquely-pei-hwa/direct-school-admission/robotics-programming-dsa/
 description: ""
 third_nav_title: Direct School Admission
 ---
-<h4 style="color:#635f1a;font-weight:bold;font-family:sans-serif;">Direct School Admission (DSA)</h4>
+<h6 style="color:#0B6623;font-family:sans-serif;font-weight:bold;margin-top:30px;"><strong style="font-family:sans-serif;font-size:17px;color:#0B6623;">Direct School Admission (DSA)</strong></h6>
 
 <p style="font-size:14.5px; line-height:2;margin-top:15px; font-family:sans-serif">DSA-Sec is an initiative by MOE which was introduced in 2004 to give schools greater flexibility in student admission, so as to recognise more diverse range of student achievements and talents. Under the DSA-Sec Exercise, participating schools may select some students for admission via their own
 admission criteria.</p>
@@ -21,7 +21,7 @@ ALP focus towards <strong style="font-family:sans-serif;">Digital Makers’ Prog
 products to solve real world problems through <strong style="font-family:sans-serif;">STEM</strong>&nbsp;education.&nbsp;</p>
 
 
-<h4 style="color:#635f1a;font-weight:bold;font-family:sans-serif;">DSA – Robotics (Programming)</h4>
+<h6 style="color:#0B6623;font-family:sans-serif;font-weight:bold;margin-top:30px;"><strong style="font-family:sans-serif;font-size:17px;color:#0B6623;">DSA – Robotics (Programming)</strong></h6>
 
 <p style="margin-top:15px;font-size:14.5px; line-height:2;font-family:sans-serif;">PHSS is looking for Primary 6 students who possess special talents in&nbsp;<strong style="font-family:sans-serif;">Robotics (Programming)</strong>&nbsp;and are able to present their ideas with clarity in various medium.&nbsp;</p>
 
@@ -30,7 +30,7 @@ products to solve real world problems through <strong style="font-family:sans-se
 <p style="margin-top:15px;font-size:14.5px; line-height:2;font-family:sans-serif;"><strong style="font-family:sans-serif;">Students who are successfully admitted to the school via DSA are expected to honour their commitment to the school, and participate in the activities related to the talent they are selected
 for from Secondary 1 to 4.</strong></p>
 
-<h4 style="color:#635f1a;font-weight:bold;font-family:sans-serif;">Admission Criteria</h4>
+<h6 style="color:#0B6623;font-family:sans-serif;font-weight:bold;margin-top:30px;"><strong style="font-family:sans-serif;font-size:17px;color:#0B6623;">Admission Criteria</strong></h6>
 <p style="font-size:14.5px; line-height:2;margin-top:15px; font-family:sans-serif">The admission criteria are shown below.&nbsp;</p>
 
 <p style="margin-top:15.5px;font-size:17px;"><strong style="font-family:sans-serif;"><u>ROBOTICS (PROGRAMMING) CRITERIA</u></strong></p>
@@ -56,7 +56,7 @@ for from Secondary 1 to 4.</strong></p>
 <p style="margin-top:15px;font-size:14.5px; line-height:2;font-family:sans-serif;"><strong style="font-family:sans-serif;">Note:&nbsp;</strong>
 Applicants do not need to possess&nbsp;<strong style="font-family:sans-serif;">ALL</strong>&nbsp;of the above criteria to be considered. Meeting all the criteria does not guarantee the applicant will be shortlisted / given an offer.</p>
 
-<h4 style="color:#635f1a;font-weight:bold;font-family:sans-serif;">Selection Process and Criteria</h4>
+<h6 style="color:#0B6623;font-family:sans-serif;font-weight:bold;margin-top:30px;"><strong style="font-family:sans-serif;font-size:17px;color:#0B6623;">Selection Process and Criteria</strong></h6>
 
 <p style="font-size:15px; line-height:2;margin-top:-5px;">The selection process will involve&nbsp;<strong style="font-family:sans-serif;">an interview and a selection test</strong>&nbsp;which requires applicants to attempt&nbsp;<strong style="font-family:sans-serif;">a programming task</strong>.&nbsp;</p>
 
@@ -91,7 +91,7 @@ Applicants do not need to possess&nbsp;<strong style="font-family:sans-serif;">A
 
 <p style="margin-top:15px;font-size:14.5px; line-height:2;font-family:sans-serif;"><strong style="font-family:sans-serif;">For more information on DSA-Sec, please refer to the MOE website at&nbsp;</strong><a href="https://www.moe.gov.sg/dsa-sec" style="font-size:14.5px; line-height:1.5;font-family:sans-serif;font-weight:bold;text-decoration: none;">https://www.moe.gov.sg/dsa-sec</a></p>
 
-<h4 style="color:#635f1a;font-weight:bold;font-family:sans-serif;">Why Join Pei Hwa Applied Learning Programme: Robotics (Programming)</h4>
+<h6 style="color:#0B6623;font-family:sans-serif;font-weight:bold;margin-top:30px;"><strong style="font-family:sans-serif;font-size:17px;color:#0B6623;">Why Join Pei Hwa Applied Learning Programme: Robotics (Programming)</strong></h6>
 
 <p style="font-size:14.5px; line-height:2;margin-top:15px; font-family:sans-serif">Robotics is not just a CCA in Pei Hwa Secondary School. It is a platform for us to provide holistic development for all Pei Hwa Students. We have a structured&nbsp;<strong style="font-family:sans-serif;">Robotics Experiential Education Programme</strong>&nbsp;for all staff and students, such as&nbsp;<strong style="font-family:sans-serif;">Teachers’ Training Programme, Micro:bits training for Secondary 1 and 2 students&nbsp;</strong>to equip them with Maker and Programming skills.</p>
 
@@ -105,7 +105,7 @@ improvement to their lives in the school community.</p>
 
 <p style="margin-top:15px;font-size:14.5px; line-height:2;font-family:sans-serif;">Beyond the two years of level-wide programmes, students are given many opportunities to solve real world problems through coding and making. We believe coding literacy would be one of the most important skills that we need to equip our students to prepare them for the future world.</p>
 
-<h4 style="color:#635f1a;font-weight:bold;font-family:sans-serif;">Pinnacle Achievements in 2018 and 2019</h4>
+<h6 style="color:#0B6623;font-family:sans-serif;font-weight:bold;margin-top:30px;"><strong style="font-family:sans-serif;font-size:17px;color:#0B6623;">Pinnacle Achievements in 2018 and 2019</strong></h6>
 
 <img src="/images/dsarobo1.png" style="width: 65%;">
 <p style="margin-top:15.5px;font-size:15.5px;"><strong style="font-family:sans-serif;">Outstanding Contribution Award</strong></p>
@@ -122,7 +122,7 @@ National Infocomm Competition. Team Pei Hwa clinched a total of 9 awards from th
 <img src="/images/dsarobo2.jpg" style="width: 65%;">
 
 
-<h4 style="color:#635f1a;font-weight:bold;font-family:sans-serif;">Accolades in Robotics and Programming</h4>
+<h6 style="color:#0B6623;font-family:sans-serif;font-weight:bold;margin-top:30px;"><strong style="font-family:sans-serif;font-size:17px;color:#0B6623;">Accolades in Robotics and Programming</strong></h6>
 
 <p style="font-size:14.5px; line-height:2;margin-top:15px; font-family:sans-serif">We have won many awards in local and overseas competitions for the past years.</p>
 
@@ -160,7 +160,7 @@ National Infocomm Competition. Team Pei Hwa clinched a total of 9 awards from th
 
 <p style="margin-top:15px;font-size:14.5px; line-height:2;font-family:sans-serif;">Please refer to our&nbsp;<a href="https://moe-peihwasec-staging.netlify.app/learning-at-pei-hwa/cca/clubs-societies/robotics/" style="font-size:14.5px; line-height:1.5;font-family:sans-serif;font-weight:bold;text-decoration: none;">school website</a>&nbsp;for more information.</p>
 
-<h4 style="color:#635f1a;font-weight:bold;font-family:sans-serif;">Infusion of Coding and Making into New Project Work</h4>
+<h6 style="color:#0B6623;font-family:sans-serif;font-weight:bold;margin-top:30px;"><strong style="font-family:sans-serif;font-size:17px;color:#0B6623;">Infusion of Coding and Making into New Project Work</strong></h6>
 
 <p style="font-size:14.5px; line-height:2;margin-top:15px; font-family:sans-serif">In alignment with the school’s vision to develop Future-Ready Learners and Forward-Looking Leaders, the school’s Project Work has been rebranded as the Future Leaders Programme (FLP). The
 FLP curriculum leverages on the school’s innovation cycle (adapted from Design Thinking) to develop empathy in our students as they need to put themselves in the shoes’ of the end users to understand the problems they faced. Students would use the coding and making skills learnt during ALP sessions to develop a prototype solution to meet the needs of their target audience. FLP
@@ -197,7 +197,7 @@ experience is crucial in preparing our students for the Volatile, Uncertain, Com
 
 <img src="/images/dsarobo5.png" style="width: 85%;">
 
-<h4 style="color:#635f1a;font-weight:bold;font-family:sans-serif;">Application Procedures for 2023</h4>
+<h6 style="color:#0B6623;font-family:sans-serif;font-weight:bold;margin-top:30px;"><strong style="font-family:sans-serif;font-size:17px;color:#0B6623;">Application Procedures for 2023</strong></h6>
 <p style="font-size:14.5px; line-height:2;margin-top:15px;margin-bottom:-15px;font-family:sans-serif;"><strong>Here are the procedures for DSA-Robotics (Programming) application in Pei Hwa Secondary School.</strong></p>
 
 <table style="border-collapse: collapse;margin: 25px 0;font-size:14.5px;font-family: sans-serif;box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);" border="1">
@@ -273,7 +273,7 @@ experience is crucial in preparing our students for the Volatile, Uncertain, Com
 </table>
 
 
-<h4 style="color:#635f1a;font-weight:bold;font-family:sans-serif;">FAQs</h4>
+<h6 style="color:#0B6623;font-family:sans-serif;font-weight:bold;margin-top:30px;"><strong style="font-family:sans-serif;font-size:17px;color:#0B6623;">FAQs</strong></h6>
 
 <p style="font-size:14.5px; line-height:2;font-family:sans-serif;"><strong style="font-family:sans-serif;">1. How many places can Pei Hwa Secondary offer in DSA Exercise?</strong></p>
 <p style="font-size:14.5px; line-height:2;font-family:sans-serif;margin-top:-5px;">All secondary schools can admit&nbsp;<strong style="font-family:sans-serif;">up to 20%&nbsp;</strong>of their S1 non-Integrated Programme (non-IP) intake via the DSA-Sec.</p>
