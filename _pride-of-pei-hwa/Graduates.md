@@ -3,7 +3,7 @@ title: Graduates
 permalink: /pride-of-pei-hwa/graduates/
 description: ""
 ---
-<h5 style="color:#635f1a;">Graduates of Republic Polytechnic 2020</h5>
+<h6 style="color:#635f1a;"><strong style="font-family:sans-serif;font-size:17px;color:#0B6623;">Graduates of Republic Polytechnic 2020</strong></h6>
 <p style="font-size:14.5px; line-height:2;margin-top:15px;font-family:Tahoma;">
 Congratulations to our&nbsp;former students who has excelled academically at Republic Polytechnic in 2020</p>
 
@@ -30,19 +30,19 @@ Congratulations to our&nbsp;former students who has excelled academically at Rep
 </table>
 
 
-<h5 style="color:#635f1a;">Graduates of Anderson Serangoon Junior College 2020</h5>
+<h6 style="color:#635f1a;"><strong style="font-family:sans-serif;font-size:17px;color:#0B6623;">Graduates of Anderson Serangoon Junior College 2020</strong></h6>
 <p style="font-size:14.5px; line-height:2;margin-top:15px;font-family:Tahoma;">
 Congratulations to our&nbsp;former students who has excelled academically at Anderson Serangoon Junior College in 2020</p>
 <img src="/images/pride1.jpg" style="width:70%;margin:0px;">
 
 
-<h5 style="color:#635f1a;">Singapore Polytechnic Scholarship (Engineering)</h5>
+<h6 style="color:#635f1a;"><strong style="font-family:sans-serif;font-size:17px;color:#0B6623;">Singapore Polytechnic Scholarship (Engineering)</strong></h6>
 <p style="font-size:14.5px; line-height:2;margin-top:15px;font-family:Tahoma;">
 Our former student, Gan Ching Heng, was awarded the Singapore Polytechnic Engineering Scholarship this year.</p>
 <img style="width:70%;margin:0px;" src="/images/pride2.jpg">
 
 
-<h5 style="color:#635f1a;">Graduate of St Andrew’s Junior College 2020</h5>
+<h6 style="color:#635f1a;"><strong style="font-family:sans-serif;font-size:17px;color:#0B6623;">Graduate of St Andrew’s Junior College 2020</strong></h6>
 <p style="font-size:14.5px; line-height:2;margin-top:15px;font-family:Tahoma;">
 Congratulations to our&nbsp;former student who has excelled academically at St Andrew’s Junior College in 2020</p>
 <img style="width:70%;margin:0px;" src="/images/pride3.png">
@@ -69,7 +69,7 @@ Congratulations to our&nbsp;former student who has excelled academically at St A
 </tbody>
 </table>
 
-<h5 style="color:#635f1a;">Ngee Ann Polytechnic Graduation 2020</h5>
+<h6 style="color:#635f1a;"><strong style="font-family:sans-serif;font-size:17px;color:#0B6623;">Ngee Ann Polytechnic Graduation 2020</strong></h6>
 <p style="font-size:14.5px; line-height:2;margin-top:15px;font-family:Tahoma;">
 Congratulations to our&nbsp;former students who have excelled academically at Ngee Ann Polytechnic and graduated in May 2020.</p>
 
@@ -79,7 +79,7 @@ Congratulations to our&nbsp;former students who have excelled academically at Ng
 <tr>
 <td style="font-size:14.5px; line-height:2;font-family:Tahoma;width:10%;">Name</td>
 <td style="font-size:14.5px; line-height:2;font-family:Open Sans;">
-: <strong style="font-family:Tahoma;;">Alicia Wee Yu Xuan</strong></td>
+: <strong style="font-family:Tahoma;">Alicia Wee Yu Xuan</strong></td>
 </tr>
 	
 <tr>
@@ -139,7 +139,7 @@ Congratulations to our&nbsp;former students who have excelled academically at Ng
 </table>
 
 
-<h5 style="color:#635f1a;">Temasek Polytechnic Graduation 2020</h5>
+<h6 style="color:#635f1a;"><strong style="font-family:sans-serif;font-size:17px;color:#0B6623;">Temasek Polytechnic Graduation 2020</strong></h6>
 
 <p style="font-size:14.5px; line-height:2;margin-top:15px;font-family:Tahoma;">
 Congratulations to our&nbsp;former students who have excelled academically at Temasek Polytechnic and graduated in May 2020.</p>
@@ -232,7 +232,7 @@ Congratulations to our&nbsp;former students who have excelled academically at Te
 </tbody>
 </table>
 
-<h5 style="color:#635f1a;">Teaching Scholarship Presentation Ceremony 2019</h5>
+<h6 style="color:#635f1a;"><strong style="font-family:sans-serif;font-size:17px;color:#0B6623;">Teaching Scholarship Presentation Ceremony 2019</strong></h6>
 <p style="font-size:14.5px; line-height:2;margin-top:15px;font-family:Tahoma;">
 Our former student, Chua Wei Ting, was awarded the teaching scholarship this year.</p>
 
@@ -255,7 +255,7 @@ Our former student, Chua Wei Ting, was awarded the teaching scholarship this yea
 </table>
 
 
-<h5 style="color:#635f1a;">Ngee Ann Polytechnic Graduation 2019</h5>
+<h6 style="color:#635f1a;"><strong style="font-family:sans-serif;font-size:17px;color:#0B6623;">Ngee Ann Polytechnic Graduation 2019</strong></h6>
 <p style="font-size:14.5px; line-height:2;margin-top:15px;font-family:Tahoma;">
 Our former students have graduated from Ngee Ann Polytechnic (NP) this year with the following academic achievements:</p>
 
