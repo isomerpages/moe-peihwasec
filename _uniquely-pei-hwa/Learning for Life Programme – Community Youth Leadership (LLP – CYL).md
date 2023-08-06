@@ -1,8 +1,7 @@
 ---
 title: Learning for Life Programme – Community Youth Leadership (LLP – CYL)
-permalink: /school-distinctive-programme/learning-for-life-programme-community-youth-leadership-llp-cyl/
+permalink: /uniquely-pei-hwa/learning-for-life-programme-community-youth-leadership-llp-cyl/
 description: ""
-third_nav_title: Distinctive Programmes
 ---
 <h4 style="color:#635f1a;font-weight:bold;font-family:sans-serif;">PRIDE of the Community: Developing An Altruist</h4>
 
