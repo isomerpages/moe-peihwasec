@@ -4,12 +4,14 @@ permalink: /learning-at-pei-hwa/instructional-programmes/english-language-litera
 description: ""
 third_nav_title: Instructional Programmes
 ---
-<h4 style="color:#635f1a;font-family:sans-serif;font-weight:bold;">Our Goals</h4>
+<h6 style="color:#0B6623;;font-family:sans-serif;font-weight:bold;"><strong style="font-family:sans-serif;font-size:17px;color:#0B6623;">Our Goals</strong></h6>
+	
 <p style="font-size:14.5px; line-height:2;margin-top:15px;font-family:sans-serif;">Through English and Literature, we endeavour to inculcate in students a love for the English language, and an appreciation of the intricacies of the language in creating meaning, in order to develop them into confident communicators.</p>
 <p style="font-size:14.5px; line-height:2;margin-top:15px;font-family:sans-serif;">We aim to give students the opportunity to formulate their ideas and share their thoughts during discussions and presentations in class.</p>
 
 
-<h4 style="color:#635f1a;font-family:sans-serif;font-weight:bold;">Our Programmes</h4>
+<h6 style="color:#0B6623;;font-family:sans-serif;font-weight:bold;"><strong style="font-family:sans-serif;font-size:17px;color:#0B6623;">Our Programmes</strong></h6>
+
 <p style="margin-top:15px;font-size:15.5px;"><strong style="font-family:sans-serif;">Slice of Life</strong></p>
 <p style="font-size:14.5px; line-height:2;margin:-15px 0 13px 0px;font-family:sans-serif;">Our students take to the stage on Friday mornings to share their thoughts and viewpoints on our student outcomes, school values and current affairs. These 'slices' of their lives are savoured by the Pei Hwa Family.</p>
 <img style="width: 75%;" src="/images/eng1.png">
@@ -29,7 +31,8 @@ third_nav_title: Instructional Programmes
 <img style="width: 75%;" src="/images/eng3.jpg">
 
 
-<h4 style="color:#635f1a;font-family:sans-serif;font-weight:bold;">Our Student Learning</h4>
+<h6 style="color:#0B6623;;font-family:sans-serif;font-weight:bold;"><strong style="font-family:sans-serif;font-size:17px;color:#0B6623;">Our Student Learning</strong></h6>
+
 <p style="margin-top:15px;font-size:15.5px;"><strong style="font-family:sans-serif;">Upper Secondary English Literature</strong></p>
 <p style="font-size:14.5px; line-height:2;margin:-15px 0 13px 0px;font-family:sans-serif;">During HBL, the Literature teachers leveraged the circuit breaker opportunity to get students to watch the play streaming for free online together. They also used props to make the drama lessons come alive and made real world connections with images found online, such as this image connecting the hand washing practice during this time of the Covid Virus to the play, Macbeth, to make the text more memorable for students!</p>
 
