@@ -4,7 +4,7 @@ permalink: /uniquely-pei-hwa/direct-school-admission/wushu-dsa/
 description: ""
 third_nav_title: Direct School Admission
 ---
-<h4 style="color:#635f1a;font-weight:bold;font-family:sans-serif;">DSA Admission – Wushu</h4>
+<h6 style="color:#0B6623;font-family:sans-serif;font-weight:bold;margin-top:30px;"><strong style="font-family:sans-serif;font-size:17px;color:#0B6623;">DSA Admission – Wushu</strong></h6>
 
 <p style="font-size:14.5px; line-height:2;margin-top:15px; font-family:sans-serif">Pei Hwa Secondary School is looking for Primary 6 students with a passion and talent in
 Wushu. Students should meet the admission criteria stated in the following section before applying. Shortlisted applicants who meet the admission criteria will be required to attend an interview and selection trial by our panel of teachers and instructor.</p>
@@ -14,7 +14,7 @@ Wushu. Students should meet the admission criteria stated in the following secti
 <p style="margin-top:15px;font-size:14.5px; line-height:2;font-family:sans-serif;">Students who are successfully admitted to the school via DSA are expected to honour their commitment to the school, and participate in the activities related to the talent they are selected
 for from year 1 to 4.</p>
 
-<h4 style="color:#635f1a;font-weight:bold;font-family:sans-serif;">About Pei Hwa Wushu</h4>
+<h6 style="color:#0B6623;font-family:sans-serif;font-weight:bold;margin-top:30px;"><strong style="font-family:sans-serif;font-size:17px;color:#0B6623;">About Pei Hwa Wushu</strong></h6>
 
 <p style="margin-top:15px;font-size:14.5px; line-height:2;font-family:sans-serif;">Pei Hwa Wushu&nbsp;focuses on developing students’ confidence in body expressions through a vigorous attention on the strengthening of body and mind. The practice of contemporary Chinese martial arts combines elements of performance and martial application. Some programmes and activities of the Pei Hwa Wushu may include:</p>
 
@@ -28,7 +28,7 @@ for from year 1 to 4.</p>
 
 <p style="margin-top:15px;font-size:14.5px; line-height:2;font-family:sans-serif;">For more information on Pei Hwa Wushu CCA and their programme, please visit <a style="font-size:14.5px; line-height:1.5;font-family:sans-serif;font-weight:bold;text-decoration: none;" href="https://moe-peihwasec-staging.netlify.app/learning-at-pei-hwa/cca/sports-games/wushu/">here.</a></p>
 
-<h4 style="color:#635f1a;font-weight:bold;font-family:sans-serif;">Shortlisting Criteria</h4>
+<h6 style="color:#0B6623;font-family:sans-serif;font-weight:bold;margin-top:30px;"><strong style="font-family:sans-serif;font-size:17px;color:#0B6623;">Shortlisting Criteria</strong></h6>
 <p style="font-size:14.5px; line-height:2;margin-top:15px; font-family:sans-serif">
 
 </p><ul style="margin-top:5px;">
@@ -50,7 +50,7 @@ not compulsory)</li>
 <li style="font-size:14.5px; line-height:2;font-family:sans-serif;">Students who are successfully admitted to the school via DSA are expected to honour their commitment to the school and participate in the activities related to the talent they are selected for from year 1 to 4.</li>
 </ol>
 
-<h4 style="color:#635f1a;font-weight:bold;font-family:sans-serif;">Selection Process and Criteria</h4>
+<h6 style="color:#0B6623;font-family:sans-serif;font-weight:bold;margin-top:30px;"><strong style="font-family:sans-serif;font-size:17px;color:#0B6623;">Selection Process and Criteria</strong></h6>
 
 <ul style="margin-top:5px;">
 <li style="font-size:14.5px; line-height:2;font-family:sans-serif;">An interview.</li>
@@ -96,7 +96,7 @@ Selection trial, if they wish to.</li>
 </ul>
 <p></p>
 
-<h4 style="color:#635f1a;font-weight:bold;font-family:sans-serif;">Application Procedures for 2023</h4>
+<h6 style="color:#0B6623;font-family:sans-serif;font-weight:bold;margin-top:30px;"><strong style="font-family:sans-serif;font-size:17px;color:#0B6623;">Application Procedures for 2023</strong></h6>
 <p style="font-size:14.5px; line-height:2;margin-top:15px;margin-bottom:-15px;font-family:sans-serif;"><strong>Here are the procedures for DSA – Taekwondo application in Pei Hwa Secondary School.</strong></p>
 
 <table style="border-collapse: collapse;margin: 25px 0;font-size:14.5px;font-family: sans-serif;box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);" border="1">
@@ -194,7 +194,7 @@ SingPass to submit up to three school preferences before the deadline (Please re
 </table>
 
 
-<h4 style="color:#635f1a;font-weight:bold;font-family:sans-serif;">FAQs</h4>
+<h6 style="color:#0B6623;font-family:sans-serif;font-weight:bold;margin-top:30px;"><strong style="font-family:sans-serif;font-size:17px;color:#0B6623;">FAQs</strong></h6>
 
 <p style="font-size:14.5px; line-height:2;font-family:sans-serif;"><strong style="font-family:sans-serif;">How many places can Pei Hwa Secondary offer in DSA Exercise?</strong></p>
 <p style="font-size:14.5px; line-height:2;font-family:sans-serif;margin-top:-5px;">All secondary schools can admit <strong style="font-family:sans-serif;">up to 20% </strong>of their S1 non-Integrated Programme (non-IP)
