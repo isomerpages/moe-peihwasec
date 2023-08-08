@@ -6,8 +6,8 @@ third_nav_title: Instructional Programmes
 ---
 <h6 style="color:#0B6623;;font-family:sans-serif;font-weight:bold;"><strong style="font-family:sans-serif;font-size:17px;color:#0B6623;">Our Goals</strong></h6>
 	
-<p style="font-size:14.5px; line-height:2;margin-top:15px;font-family:sans-serif;">Through English and Literature, we endeavour to inculcate in students a love for the English language, and an appreciation of the intricacies of the language in creating meaning, in order to develop them into confident communicators.</p>
-<p style="font-size:14.5px; line-height:2;margin-top:15px;font-family:sans-serif;">We aim to give students the opportunity to formulate their ideas and share their thoughts during discussions and presentations in class.</p>
+<p style="font-size:14.5px; line-height:1.8;font-family:sans-serif;margin-top:5px;">Through English and Literature, we endeavour to inculcate in students a love for the English language, and an appreciation of the intricacies of the language in creating meaning, in order to develop them into confident communicators.</p>
+<p style="font-size:14.5px; line-height:1.8;font-family:sans-serif;margin-top:5px;">We aim to give students the opportunity to formulate their ideas and share their thoughts during discussions and presentations in class.</p>
 
 
 <h6 style="color:#0B6623;;font-family:sans-serif;font-weight:bold;"><strong style="font-family:sans-serif;font-size:17px;color:#0B6623;">Our Programmes</strong></h6>
