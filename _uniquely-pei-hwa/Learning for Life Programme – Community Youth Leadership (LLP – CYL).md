@@ -13,12 +13,12 @@ description: ""
 
 <p style="margin-top:0px;font-size:14.5px; line-height:2;font-family:sans-serif;">The LLP-CYL would contribute to the holistic development of the students in the following areas:</p>
 
-<ol style="margin-top:5px;">
-<li style="font-size:14.5px; line-height:2;margin-left:17px;font-family:sans-serif;">Inculcate values: PRIDE values, gratitude, care, respect and harmony;</li>
-<li style="font-size:14.5px; line-height:2;margin-left:17px;font-family:sans-serif;">Develop empathy, and care for others and the environment;</li>
-<li style="font-size:14.5px; line-height:2;margin-left:17px;font-family:sans-serif;">Increase self-awareness of their ability to help others;</li>
-<li style="font-size:14.5px; line-height:2;margin-left:17px;font-family:sans-serif;">Build confidence and self-esteem;</li>
-<li style="font-size:14.5px; line-height:2;margin-left:17px;font-family:sans-serif;">Develop leadership, communication, problem-solving and entrepreneurship skills.</li>
+<ol style="margin-top:-5px;">
+<li style="font-size:14.5px; line-height:1.5;margin-left:17px;font-family:sans-serif;">Inculcate values: PRIDE values, gratitude, care, respect and harmony;</li>
+<li style="font-size:14.5px; line-height:1.5;margin-left:17px;font-family:sans-serif;">Develop empathy, and care for others and the environment;</li>
+<li style="font-size:14.5px; line-height:1.5;margin-left:17px;font-family:sans-serif;">Increase self-awareness of their ability to help others;</li>
+<li style="font-size:14.5px; line-height:1.5;margin-left:17px;font-family:sans-serif;">Build confidence and self-esteem;</li>
+<li style="font-size:14.5px; line-height:1.5;margin-left:17px;font-family:sans-serif;">Develop leadership, communication, problem-solving and entrepreneurship skills.</li>
 </ol>
 
 <h6 style="color:#0B6623;font-family:sans-serif;font-weight:bold;margin-top:30px;"><strong style="font-family:sans-serif;font-size:17px;color:#0B6623;">Our Programmes</strong></h6>
