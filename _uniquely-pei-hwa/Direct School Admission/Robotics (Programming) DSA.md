@@ -207,39 +207,39 @@ integrates our school’s distinctive programmes (<a style="font-size:14.5px; li
 <tr>
 				<td><strong style="font-family:sans-serif;">1</strong></td>
 				<td style="font-family:sans-serif;line-height:2;">Application for DSA-Sec can be submitted through the online DSA-Sec Portal. The application is free-of-charge. For more information, please refer to MOE website – <a style="font-size:14.5px; line-height:1.5;font-family:sans-serif;font-weight:bold;text-decoration: none;" href="www.moe.gov.sg/dsa-sec">www.moe.gov.sg/dsa-sec</a></td>
-				<td style="margin-bottom:-5px;">
-					<ol style="margin-top:-5px;">
-						<li style="font-family:sans-serif; font-size:14.5px;">Application for DSA-Sec can be submitted through the online DSA-Sec Portal. The application is free-of-charge and will be open from <strong style="font-family:sans-serif;"> 4 May 2023, 11am to 31 May 2023, 3pm</strong>. For more details, please refer to MOE website – <a style="font-size:14.5px; line-height:1.5;font-family:sans-serif;font-weight:bold;text-decoration: none;" href="www.moe.gov.sg/dsa-sec">www.moe.gov.sg/dsa-sec.</a><br>For enquiries, please call Mrs Jaslyn Ang 65009580 #253</li>
-						<li style="font-family:sans-serif; font-size:14.5px;"><strong style="font-family:sans-serif;">For Students from MOE mainstream primary schools: </strong><br>Parent may log in directly to DSA-Sec Portal. Only one parent’s Singpass is required. Parents/ guardians who are unable to apply online can approach their child’s primary school for assistance.</li>
-						<li style="font-family:sans-serif; font-size:14.5px; margin-bottom:5px;"><strong style="font-family:sans-serif;">For non-mainstream school students:</strong> Applicants not studying in MOE mainstream primary schools will need to apply for a Registration Number (RGxxxxxxx) to access the DSA-Sec Portal. Please refer to the MOE website at: <a style="font-size:14.5px; line-height:1.5;font-family:sans-serif;font-weight:bold;text-decoration: none;" href="https://go.gov.sg/nmsdsa-sec-application">https://go.gov.sg/nmsdsa-sec-application</a> </li>
+				<td>
+					<ol style="margin-top:-8px;">
+						<li style="font-family:sans-serif; font-size:14.5px;line-height:2">Application for DSA-Sec can be submitted through the online DSA-Sec Portal. The application is free-of-charge and will be open from <strong style="font-family:sans-serif;"> 4 May 2023, 11am to 31 May 2023, 3pm</strong>. For more details, please refer to MOE website – <a style="font-size:14.5px; line-height:1.5;font-family:sans-serif;font-weight:bold;text-decoration: none;" href="www.moe.gov.sg/dsa-sec">www.moe.gov.sg/dsa-sec.</a><br>For enquiries, please call Mrs Jaslyn Ang 65009580 #253</li>
+						<li style="font-family:sans-serif; font-size:14.5px;line-height:2"><strong style="font-family:sans-serif;">For Students from MOE mainstream primary schools: </strong><br>Parent may log in directly to DSA-Sec Portal. Only one parent’s Singpass is required. Parents/ guardians who are unable to apply online can approach their child’s primary school for assistance.</li>
+						<li style="font-family:sans-serif;line-height:2; font-size:14.5px; margin-bottom:5px;"><strong style="font-family:sans-serif;">For non-mainstream school students:</strong> Applicants not studying in MOE mainstream primary schools will need to apply for a Registration Number (RGxxxxxxx) to access the DSA-Sec Portal. Please refer to the MOE website at: <a style="font-size:14.5px; line-height:1.5;font-family:sans-serif;font-weight:bold;text-decoration: none;" href="https://go.gov.sg/nmsdsa-sec-application">https://go.gov.sg/nmsdsa-sec-application</a> </li>
 					</ol>
 				</td>
 </tr>
 			
 <tr style="background-color: #f3f3f3;">
 				<td><strong style="font-family:sans-serif;">2</strong></td>
-				<td style="margin-bottom:5px;">
-					<ol style="margin-top:-5px;">
-						<li style="font-size:14.5px; font-family:sans-serif;">Short-listed applicants will be notified by email/ call / SMS from 26 Jun 2023 onwards.
+				<td>
+					<ol style="margin-top:-8px;">
+						<li style="font-size:14.5px; font-family:sans-serif;line-height:2">Short-listed applicants will be notified by email/ call / SMS from 26 Jun 2023 onwards.
     </li>
-						<li style="font-family:sans-serif;font-size:14.5px;">Shorted listed applicants will be required to attend an interview and a selection test.</li>
-						<li style="font-size:14.5px;font-family:sans-serif;">Date and time of the interview and selection test will be informed.</li>
-						<li style="font-family:sans-serif;font-size:14.5px;margin-bottom:5px;">Students are required to wear their school uniform and be on time for the interview and selection test.</li>				
+						<li style="font-family:sans-serif;font-size:14.5px;line-height:2">Shorted listed applicants will be required to attend an interview and a selection test.</li>
+						<li style="font-size:14.5px;font-family:sans-serif;line-height:2">Date and time of the interview and selection test will be informed.</li>
+						<li style="font-family:sans-serif;font-size:14.5px;line-height:2;margin-bottom:5px;">Students are required to wear their school uniform and be on time for the interview and selection test.</li>				
 </ol></td>
 <td style="font-size:14.5;margin-bottom:5px;font-family:sans-serif;">
-					<ol style="margin-top:-5px;">
-						<li style="font-size:14.5px;font-family:sans-serif;">Selection process will be carried out from<strong style="font-family:sans-serif;"> 26 Jun 2023 to 11 Sep 2023.</strong></li>
-						<li style="font-size:14.5px;font-family:sans-serif;">Parents are allowed to accompany the child to school but not during the interview.</li>
-						<li style="font-size:14.5px;font-family:sans-serif;">Prevailing SMM applies.</li>
-						<li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;">DSA applicants / Parents are advised not to change the assigned interview and selection schedule except for valid reasons, Please call Mrs Jaslyn Ang at 65009580 #253 for clarification</li>
+					<ol style="margin-top:-8px;">
+						<li style="font-size:14.5px;font-family:sans-serif;line-height:2;">Selection process will be carried out from<strong style="font-family:sans-serif;"> 26 Jun 2023 to 11 Sep 2023.</strong></li>
+						<li style="font-size:14.5px;font-family:sans-serif;line-height:2;">Parents are allowed to accompany the child to school but not during the interview.</li>
+						<li style="font-size:14.5px;font-family:sans-serif;line-height:2;">Prevailing SMM applies.</li>
+						<li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:2;">DSA applicants / Parents are advised not to change the assigned interview and selection schedule except for valid reasons, Please call Mrs Jaslyn Ang at 65009580 #253 for clarification</li>
 					</ol>
 				</td>
 </tr>
 			
 <tr>
 				<td><strong style="font-family:sans-serif;">3</strong></td>
-				<td style="font-family:sans-serif;font-size:14.5px;line-height:2;">All DSA applicants will be notified by <strong style="font-family:sans-serif;">11 Sep 2023</strong> on the outcome of their application. The decision of the interview panel is final.</td>
-				<td style="font-family:sans-serif;font-size:14.5px;margin-bottom:5px;">
+				<td style="font-family:sans-serif;font-size:14.5px;line-height:2;margin-bottom:5px;">All DSA applicants will be notified by <strong style="font-family:sans-serif;">11 Sep 2023</strong> on the outcome of their application. The decision of the interview panel is final.</td>
+				<td style="font-family:sans-serif;font-size:14.5px;line-height:2">
 					Possible outcomes of selection:
 					<ul style="margin-top:-5px;">
 						<li style="font-size:14.5px;line-height:1.5;font-family:sans-serif;">A confirmed offer (CO)</li>
@@ -251,12 +251,12 @@ integrates our school’s distinctive programmes (<a style="font-size:14.5px; li
 			
 <tr style="background-color: #f3f3f3;border-bottom: 2px solid #009879;">
 				<td><strong style="font-family:sans-serif;">4</strong></td>
-				<td style="font-size:14.5px;font-family:sans-serif;margin-bottom:5px;">Students who receive at least one DSA-Sec offer will receive email and SMS notification on the School Preference Submission in October 2023</td>
+				<td style="font-size:14.5px;font-family:sans-serif;line-height:2;">Students who receive at least one DSA-Sec offer will receive email and SMS notification on the School Preference Submission in October 2023</td>
 				<td style="font-size:14.5px;margin-bottom:5px;">
-					<ol>
-						<li style="font-family:sans-serif;font-size:14.5px;margin-bottom:5px;">Both parents are required to login to the DSA-Sec Portal using their SingPass to submit up to three school preferences before the deadline&nbsp; (Please refer to&nbsp;<a style="font-size:14.5px; line-height:1.5;font-family:sans-serif;font-weight:bold;text-decoration: none;" href="http://www.moe.gov.sg/dsa-sec">http://www.moe.gov.sg/dsa-sec</a> for details)</li>
-						<li style="font-size:14.5px;font-family:sans-serif;margin-bottom:5px;">For issues in submission, please approach your child’s primary school for assistance.</li>
-						<li style="font-size:14.5px;font-family:sans-serif;margin-bottom:5px;">Those who took PSLE but were successful in the DSA-Sec are <strong style="font-family:sans-serif;">NOT</strong> allowed to participate in the S1 Posting as they are expected to honour the commitment made to the DSA-Sec school. Students are also NOT allowed to transfer to another school after the release of the PSLE results. </li>
+					<ol style="margin-top:-8px;">
+						<li style="font-family:sans-serif;font-size:14.5px;line-height:2;">Both parents are required to login to the DSA-Sec Portal using their SingPass to submit up to three school preferences before the deadline&nbsp; (Please refer to&nbsp;<a style="font-size:14.5px; line-height:1.5;font-family:sans-serif;font-weight:bold;text-decoration: none;" href="http://www.moe.gov.sg/dsa-sec">http://www.moe.gov.sg/dsa-sec</a> for details)</li>
+						<li style="font-size:14.5px;font-family:sans-serif;line-height:2;">For issues in submission, please approach your child’s primary school for assistance.</li>
+						<li style="font-size:14.5px;font-family:sans-serif;margin-bottom:5px;line-height:2;">Those who took PSLE but were successful in the DSA-Sec are <strong style="font-family:sans-serif;">NOT</strong> allowed to participate in the S1 Posting as they are expected to honour the commitment made to the DSA-Sec school. Students are also NOT allowed to transfer to another school after the release of the PSLE results. </li>
 					</ol>
 				</td>
 </tr>
@@ -267,15 +267,16 @@ integrates our school’s distinctive programmes (<a style="font-size:14.5px; li
 
 <h6 style="color:#0B6623;font-family:sans-serif;font-weight:bold;margin-top:30px;"><strong style="font-family:sans-serif;font-size:17px;color:#0B6623;">FAQs</strong></h6>
 
-<p style="font-size:14.5px; line-height:2;font-family:sans-serif;"><strong style="font-family:sans-serif;">1. How many places can Pei Hwa Secondary offer in DSA Exercise?</strong></p>
-<p style="font-size:14.5px; line-height:2;font-family:sans-serif;margin-top:-5px;">All secondary schools can admit&nbsp;<strong style="font-family:sans-serif;">up to 20%&nbsp;</strong>of their S1 non-Integrated Programme (non-IP) intake via the DSA-Sec.</p>
+<p style="font-size:14.5px;line-height:2;margin-top:5px;margin-bottom:0;font-family:sans-serif;"><strong style="font-family:sans-serif;">1. How many places can Pei Hwa Secondary offer in DSA Exercise?</strong></p>
+<p style="font-size:14.5px; line-height:2;font-family:sans-serif;margin-top:0px;">All secondary schools can admit&nbsp;<strong style="font-family:sans-serif;">up to 20%&nbsp;</strong>of their S1 non-Integrated Programme (non-IP) intake via the DSA-Sec.</p>
 
-<p style="font-size:14.5px; line-height:2;font-family:sans-serif;"><strong style="font-family:sans-serif;">2. Can my child take part in the DSA exercise if he/she is currently not studying in any of the MOE schools?</strong></p>
-<p style="margin-top:15px;font-size:14.5px; line-height:2;font-family:sans-serif;">Other applicants not studying in MOE mainstream primary schools will need to apply for a Registration Number (RGxxxxxxx) to access the DSA-Sec Portal. Please refer to the MOE website at: <a href="https://go.gov.sg/nmsdsa-sec-application" style="font-size:14.5px; line-height:1.5;font-family:sans-serif;font-weight:bold;text-decoration: none;">https://go.gov.sg/nmsdsa-sec-application</a></p>
+<p style="font-size:14.5px;line-height:2;margin-top:5px;margin-bottom:0;font-family:sans-serif;"><strong style="font-family:sans-serif;">2. Can my child take part in the DSA exercise if he/she is currently not studying in any of the MOE schools?</strong></p>
+<p style="margin-top:0px;font-size:14.5px; line-height:2;font-family:sans-serif;">Other applicants not studying in MOE mainstream primary schools will need to apply for a Registration Number (RGxxxxxxx) to access the DSA-Sec Portal. Please refer to the MOE website at: <a href="https://go.gov.sg/nmsdsa-sec-application" style="font-size:14.5px; line-height:1.5;font-family:sans-serif;font-weight:bold;text-decoration: none;">https://go.gov.sg/nmsdsa-sec-application</a></p>
 
-<p style="font-size:14.5px; line-height:2;font-family:sans-serif;"><strong style="font-family:sans-serif;">3. Will my child be part of the Robotics CCA if he is successful in the DSA application?</strong></p><p style="font-size:14.5px; line-height:2;font-family:sans-serif;margin-top:-5px;"></p><p style="font-size:14.5px; line-height:2;font-family:sans-serif;margin-top:-5px;">Your child will be automatically channelled into Robotics Club as his/her CCA through the DSA Exercise. Hence, your child will not be involved in the CCA Selection Process during the CCA orientation week.</p>
+<p style="font-size:14.5px;line-height:2;margin-top:5px;margin-bottom:0;font-family:sans-serif;"><strong style="font-family:sans-serif;">3. Will my child be part of the Robotics CCA if he is successful in the DSA application?</strong></p>
+<p style="font-size:14.5px; line-height:2;font-family:sans-serif;margin-top:0px;">Your child will be automatically channelled into Robotics Club as his/her CCA through the DSA Exercise. Hence, your child will not be involved in the CCA Selection Process during the CCA orientation week.</p>
 
-<p style="font-size:14.5px; line-height:2;font-family:sans-serif;"><strong style="font-family:sans-serif;">4. Can my child/ward apply for transfer after getting a confirmed place?</strong></p>
-<p style="font-size:14.5px; line-height:2;font-family:sans-serif;margin-top:-5px;">Successful DSA –Sec students are<strong style="font-family:sans-serif;"> NOT</strong> allowed to transfer to another school after the release of the PSLE results. They are expected to honour the commitment to the posted DSA schools for the duration of the programme they are admitted to.</p>
+<p style="font-size:14.5px;line-height:2;margin-top:5px;margin-bottom:0;font-family:sans-serif;"><strong style="font-family:sans-serif;">4. Can my child/ward apply for transfer after getting a confirmed place?</strong></p>
+<p style="font-size:14.5px; line-height:2;font-family:sans-serif;margin-top:0px;">Successful DSA –Sec students are<strong style="font-family:sans-serif;"> NOT</strong> allowed to transfer to another school after the release of the PSLE results. They are expected to honour the commitment to the posted DSA schools for the duration of the programme they are admitted to.</p>
 
-<p style="margin-top:15px;font-size:14.5px; line-height:2;font-family:sans-serif;"><strong style="font-family:sans-serif;">More FAQ found on&nbsp;</strong><a href="http://www.moe.gov.sg/education/admissions/dsa-sec/faqs/" style="font-size:14.5px; line-height:1.5;font-family:sans-serif;font-weight:bold;text-decoration: none;"><strong style="font-family:sans-serif;">http://www.moe.gov.sg/education/admissions/dsa-sec/faqs/</strong></a></p>
+<p style="font-size:14.5px;line-height:2;margin-top:5px;margin-bottom:0;font-family:sans-serif;"><strong style="font-family:sans-serif;">More FAQ found on&nbsp;</strong><a href="http://www.moe.gov.sg/education/admissions/dsa-sec/faqs/" style="font-size:14.5px; line-height:1.5;font-family:sans-serif;font-weight:bold;text-decoration: none;">http://www.moe.gov.sg/education/admissions/dsa-sec/faqs/</a></p>
