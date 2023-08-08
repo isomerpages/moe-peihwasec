@@ -4,16 +4,16 @@ permalink: /uniquely-pei-hwa/future-leader-programme/
 description: ""
 ---
 <h6 style="color:#0B6623;font-family:sans-serif;font-weight:bold;margin-top:30px;"><strong style="font-family:sans-serif;font-size:17px;color:#0B6623;">Our Goals</strong></h6>
-<p style="font-size:14.5px; line-height:2;margin-top:15px; font-family:sans-serif">By seamlessly incorporating its Applied Learning Programme (ALP) in Robotics and
+<p style="font-size:14.5px; line-height:2;margin-top:0; font-family:sans-serif">By seamlessly incorporating its Applied Learning Programme (ALP) in Robotics and
 Programming alongside its Learning for Life Programme (LLP) in Community Youth Leadership, Pei Hwa has strategically established its Project Work curriculum as part of the Future Leaders Programme. This signature programme places a strong emphasis on empowering
 students to employ their programming skills to innovate solutions for the challenges of tomorrow.</p>
 
 <h6 style="color:#0B6623;font-family:sans-serif;font-weight:bold;margin-top:30px;"><strong style="font-family:sans-serif;font-size:17px;color:#0B6623;">Our Programmes</strong></h6>
 
-<p style="font-size:14.5px; line-height:2;margin-top:15px;font-family:sans-serif;">The FLP Curriculum leverages on our very own Pei Hwa Innovation Cycle which is a Design-Thinking framework adapted from the Stanford’s Design Thinking Framework. Secondary 1
+<p style="font-size:14.5px; line-height:2;margin-top:0; font-family:sans-serif">The FLP Curriculum leverages on our very own Pei Hwa Innovation Cycle which is a Design-Thinking framework adapted from the Stanford’s Design Thinking Framework. Secondary 1
 students will concentrate on addressing the issues within their immediate school context, while Secondary 2 students will broaden their impact to encompass the wider community beyond the school and the environment.</p>
 
-<p style="font-size:14.5px; line-height:2;margin-top:15px;font-family:sans-serif;">As a culmination of FLP, students will have opportunities to showcase their projects at various platforms. Some of these external exhibition platforms include Edutech Asia, Design for
+<p style="font-size:14.5px; line-height:2;margin-top:0; font-family:sans-serif">As a culmination of FLP, students will have opportunities to showcase their projects at various platforms. Some of these external exhibition platforms include Edutech Asia, Design for
 Change, SG:Digital Wonderland, Singapore Maker Extravaganza, Tech for Good Challenge, SG:D Techblazer Awards (Student Techblazer) and the annual STEM ALP Learning Festival. </p>
 
 <table border="1" style="border-collapse: collapse;margin: 25px 0;font-size: 0.9em;font-family: sans-serif;min-width: 400px; box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);">
