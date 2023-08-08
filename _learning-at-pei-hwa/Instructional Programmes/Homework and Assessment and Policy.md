@@ -6,7 +6,7 @@ third_nav_title: Instructional Programmes
 ---
 <h6 style="color:#0B6623;;font-family:sans-serif;font-weight:bold;"><strong style="font-family:sans-serif;font-size:17px;color:#0B6623;">SCHOOL BASED ASSESSMENT 2023</strong></h6>
 
-<p style="font-size:14.5px; line-height:2;margin-top:15px;font-family:sans-serif;">In meeting the challenges of an increasingly complex world, the Ministry of Education (MOE) announced changes to School Based Assessment in 2019 to help our students discover more joy in learning and to develop them into lifelong learners. In 2023, the school continues to make changes to our internal assessments to create time and space for teachers and students to achieve that.</p>
+<p style="font-size:14.5px; line-height:1.8;font-family:sans-serif;margin-top:5px;">In meeting the challenges of an increasingly complex world, the Ministry of Education (MOE) announced changes to School Based Assessment in 2019 to help our students discover more joy in learning and to develop them into lifelong learners. In 2023, the school continues to make changes to our internal assessments to create time and space for teachers and students to achieve that.</p>
 
 <p style="margin-top:15px;font-size:15.5px;"><strong style="font-family:sans-serif;">Modes of Assessment</strong></p>
 
