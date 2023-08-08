@@ -20,7 +20,7 @@ third_nav_title: Instructional Programmes
 
 <p style="margin-top:15px;font-size:15.5px;"><strong style="font-family:sans-serif;">PHeature</strong></p>
 <p style="font-size:14.5px; line-height:2;margin:-15px 0 13px 0px;font-family:sans-serif;">PHeature is a broadcast programme in PHSS where student leaders take turns to share interesting news with the school to encourage the reading of current affairs.</p>
-<p style="font-size:14.5px; line-height:2;margin-top:15px;font-family:sans-serif;">Please <a href="/files/March-PHeature.pdf" style="font-family:sans-serif;">click here</a> for our March broadcast.</p>
+<p style="font-size:14.5px; line-height:2;margin-top:15px;font-family:sans-serif;">Please <a href="/files/March-PHeature.pdf" style="font-size:14.5px; line-height:1.5;font-family:sans-serif;font-weight:bold;text-decoration: none;">click here</a> for our March broadcast.</p>
 
 <img style="width: 100%;" src="/images/eng2.jpg">
 
