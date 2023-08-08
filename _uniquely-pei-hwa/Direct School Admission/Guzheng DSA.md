@@ -29,7 +29,7 @@ third_nav_title: Direct School Admission
 <li style="font-size:14.5px; line-height:2;font-family:sans-serif;">Exchanges with other schools</li>
 <li style="font-size:14.5px; line-height:2;font-family:sans-serif;">Performing Arts Camp</li>
 <li style="font-size:14.5px; line-height:2;font-family:sans-serif;">Music workshops</li>
-<li style="font-size:14.5px; line-height:2;font-family:sans-serif;margin-bottom:0px;">Learning journeys</li>
+<li style="font-size:14.5px; line-height:2;font-family:sans-serif;margin-bottom:-5px;">Learning journeys</li>
 </ul>
 
 <p style="margin-top:0px;font-size:14.5px; line-height:2;font-family:sans-serif;">For more information on Pei Hwa Guzheng Ensemble and their programme, please click <a href="https://moe-peihwasec-staging.netlify.app/learning-at-pei-hwa/cca/performing-arts/guzheng-ensemble/" style="font-size:14.5px; line-height:1.5;font-family:sans-serif;font-weight:bold;text-decoration: none;">here.</a></p>
@@ -43,7 +43,7 @@ third_nav_title: Direct School Admission
 	<ul style="margin-top:-5px;">
 <li style="font-size:14.5px; line-height:2;font-family:sans-serif;">Represented their primary school Guzheng Ensemble in external events or competitions (eg. Singapore Youth Festival (SYF) Arts presentation&nbsp;for Guzheng ensemble, Singapore Chinese Music Competition, public concerts, etc) <strong style="font-size:14.5px; line-height:2;font-family:sans-serif;"> OR</strong></li>
 <li style="font-size:14.5px; line-height:2;font-family:sans-serif;">Relevant experiences in performing the Guzheng at school and/or external events<strong style="font-size:14.5px; line-height:2;font-family:sans-serif;"> OR</strong></li>
-<li style="font-size:14.5px; line-height:2;font-family:sans-serif;margin-bottom:0px">Other achievement(s)/attainment(s) in Guzheng</li>
+<li style="font-size:14.5px; line-height:2;font-family:sans-serif;margin-bottom:-5px">Other achievement(s)/attainment(s) in Guzheng</li>
 </ul>
 </ul>
 
@@ -64,7 +64,7 @@ third_nav_title: Direct School Admission
 		<ul style="margin-top:-5px;">
 <li style="font-size:14.5px; line-height:2;font-family:sans-serif;">The two pieces or movements should be contrasting pieces in terms of tempo</li>
 <li style="font-size:14.5px; line-height:2;font-family:sans-serif;">The total duration of <u style="font-size:14.5px; line-height:2;font-family:sans-serif;"> both</u> pieces or movements should not be longer than 4 minutes</li>
-<li style="font-size:14.5px; line-height:2;font-family:sans-serif;margin-bottom:0px;">Students will be asked to stop playing their prepared pieces at the end of 4 minutes</li>
+<li style="font-size:14.5px; line-height:2;font-family:sans-serif;margin-bottom:-5px;">Students will be asked to stop playing their prepared pieces at the end of 4 minutes</li>
 </ul>
 		<li style="font-size:14.5px; line-height:2;font-family:sans-serif;">Sight-read and play a simple piece in cipher notation (简谱) provided by Pei Hwa Secondary School on the day of audition.</li>
 		<ol>
@@ -117,7 +117,7 @@ third_nav_title: Direct School Admission
 <tr>
 				<td><strong style="font-family:sans-serif;margin-top:0px;">1</strong></td>
 				<td style="font-family:sans-serif;">
-					<ol style="margin-top:-5px;">
+					<ol style="margin-top:-8px;">
 						<li style="font-size:14.5px; line-height:2;font-family:sans-serif;">Application period is from&nbsp;<strong style="font-family:sans-serif;"> 4 May 2023 to 31 May 2022</strong>.</li>
 <li style="font-size:14.5px; line-height:2;font-family:sans-serif;">For enquiries on DSA-Guzheng, please call:
 
