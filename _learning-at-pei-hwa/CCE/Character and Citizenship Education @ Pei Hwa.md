@@ -6,7 +6,7 @@ third_nav_title: CCE
 ---
 <h6 style="color:#0B6623;;font-family:sans-serif;font-weight:bold;"><strong style="font-family:sans-serif;font-size:17px;color:#0B6623;">Our Goals</strong></h6>
 
-<p style="font-size:14.5px; line-height:2;margin-top:15px;font-family:sans-serif;">Character and Citizenship Education (CCE) is integral to the holistic development of students.The CCE curriculum supports the students’ development of values, character, citizenship dispositions and social-emotional well-being, with the aim of realising the school’s vision of developing Future-Ready Learners and Forward-Looking Leaders.</p>
+<p style="font-size:14.5px; line-height:1.8;font-family:sans-serif;margin-top:5px;">Character and Citizenship Education (CCE) is integral to the holistic development of students.The CCE curriculum supports the students’ development of values, character, citizenship dispositions and social-emotional well-being, with the aim of realising the school’s vision of developing Future-Ready Learners and Forward-Looking Leaders.</p>
 
 <h6 style="color:#0B6623;;font-family:sans-serif;font-weight:bold;"><strong style="font-family:sans-serif;font-size:17px;color:#0B6623;">Our Programmes</strong></h6>
 
