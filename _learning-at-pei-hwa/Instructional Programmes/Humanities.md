@@ -5,13 +5,13 @@ description: ""
 third_nav_title: Instructional Programmes
 ---
 <h6 style="color:#0B6623;;font-family:sans-serif;font-weight:bold;"><strong style="font-family:sans-serif;font-size:17px;color:#0B6623;">Our Goals</strong></h6>
-<p style="font-size:14.5px; line-height:2;margin-top:15px;font-family:sans-serif;">Through Geography, History and Social Studies, we endeavour to inculcate in students a concern for the environment, an appreciation for the past and an understanding of the present by preparing them to be active citizens of the future with sound values.</p>
-<p style="font-size:14.5px; line-height:2;margin-top:15px;font-family:sans-serif;">We aim to develop students who possess empathy and critical thinking skills and are self-directed in taking ownership of their learning. These skills would be inculcated to them through our lessons that adopt an inquiry-based learning, experiential learning, discussion-based strategies and assessment literacy strategies.</p>
+<p style="font-size:14.5px; line-height:1.8;font-family:sans-serif;margin-top:5px;">Through Geography, History and Social Studies, we endeavour to inculcate in students a concern for the environment, an appreciation for the past and an understanding of the present by preparing them to be active citizens of the future with sound values.</p>
+<p style="font-size:14.5px; line-height:1.8;font-family:sans-serif;margin-top:5px;">We aim to develop students who possess empathy and critical thinking skills and are self-directed in taking ownership of their learning. These skills would be inculcated to them through our lessons that adopt an inquiry-based learning, experiential learning, discussion-based strategies and assessment literacy strategies.</p>
 
 
 
 <h6 style="color:#0B6623;;font-family:sans-serif;font-weight:bold;"><strong style="font-family:sans-serif;font-size:17px;color:#0B6623;">Our Programmes</strong></h6>
-<p style="font-size:14.5px; line-height:2;margin-top:15px;font-family:sans-serif;">Across our Departments, we have various programmes that have allowed students to explore their learning for the Humanities through inquiry-based and experiential learning.</p>
+<p style="font-size:14.5px; line-height:1.8;font-family:sans-serif;margin-top:5px;">Across our Departments, we have various programmes that have allowed students to explore their learning for the Humanities through inquiry-based and experiential learning.</p>
 
 <p style="margin-top:15px;font-size:15.5px;"><strong style="font-family:sans-serif;">Geography Investigation</strong></p>
 <img style="width: 100%;" src="/images/human1.png">
