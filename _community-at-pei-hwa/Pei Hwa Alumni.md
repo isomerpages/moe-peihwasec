@@ -6,11 +6,11 @@ description: ""
 <img style="width: 100%; height: auto;margin-top:30px;margin-bottom:30px;" alt="Image" src="https://raw.githubusercontent.com/isomerpages/moe-peihwasec/staging/images/BANNERs/peihwaalumnibanner.png">
 
 <h6 style="margin-top:10px;color:#0B6623;"><strong style="font-family:sans-serif;font-size:17px;color:#0B6623;">Who Are We</strong></h6>
-<p style="font-size:14.5px; line-height:1.5;font-family:sans-serif;color:black;margin-top:5px;">Ex-students from Pei Hwa Secondary School who wish to remain connected to the school via events and
+<p style="font-size:14.5px; line-height:1.5;font-family:sans-serif;margin-top:5px;">Ex-students from Pei Hwa Secondary School who wish to remain connected to the school via events and
 programmes.</p>
 
 <h6 style="margin-top:20px;color:#0B6623;"><strong style="font-family:sans-serif;font-size:17px;color:#0B6623;">Our Vision</strong></h6>
-<p style="font-size:14.5px; line-height:1.5;font-family:sans-serif;color:black;margin-top:5px;">Ensure a platform for ex-students of Pei Hwa Secondary School to remain CONNECTED to the school COMMUNITY so that they can CONTRIBUTE back to the school.</p>
+<p style="font-size:14.5px; line-height:1.5;font-family:sans-serif;margin-top:5px;">Ensure a platform for ex-students of Pei Hwa Secondary School to remain CONNECTED to the school COMMUNITY so that they can CONTRIBUTE back to the school.</p>
 
 <h6 style="margin-top:20px;color:#0B6623;"><strong style="font-family:sans-serif;font-size:17px;color:#0B6623;">Our Programmes</strong></h6>
 <ul style="margin-top:5px">
@@ -27,6 +27,6 @@ programmes.</p>
 	</ul>
 	
 <h6 style="margin-top:10px;color:#0B6623;"><strong style="font-family:sans-serif;font-size:17px;color:#0B6623;">Register with Us</strong></h6>
-<p style="font-size:14.5px; line-height:1.5;font-family:sans-serif;color:black;margin-top:5px;">Complete the <a href="https://forms.gle/rTHd7b1NZoAmgG1s7" style="font-size:14.5px; line-height:1.5;font-family:sans-serif;font-weight:bold;text-decoration: none;">RECONNECT Form</a> AND follow us on Social media:</p>
+<p style="font-size:14.5px; line-height:1.5;font-family:sans-serif;margin-top:5px;">Complete the <a href="https://forms.gle/rTHd7b1NZoAmgG1s7" style="font-size:14.5px; line-height:1.5;font-family:sans-serif;font-weight:bold;text-decoration: none;">RECONNECT Form</a> AND follow us on Social media:</p>
 
 <img style="width: 100%; height: auto;margin-top:30px;margin-bottom:30px;" alt="Image" src="https://raw.githubusercontent.com/isomerpages/moe-peihwasec/staging/images/Links/peihwaalumni01.png">
