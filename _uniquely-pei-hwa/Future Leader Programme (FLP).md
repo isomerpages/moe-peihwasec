@@ -20,10 +20,10 @@ Change, SG:Digital Wonderland, Singapore Maker Extravaganza, Tech for Good Chall
 	
 <tbody>
 <tr style="border-bottom: 1px solid #dddddd;">
-<td rowspan="2" style="padding: 20px 15px; font-size:14.5px; font-family:sans-serif;background-color:#009879"><strong style="font-family:sans-serif;color:black;">Future Leaders
+<td rowspan="2" style="padding: 20px 15px; font-size:14.5px; font-family:sans-serif;background-color:#009879"><strong style="font-family:sans-serif;color:white;">Future Leaders
 Programme</strong></td>
-	<td style="padding: 6px 10px;font-size:14.5px;font-family:sans-serif;"><strong style="font-size:14.5px;font-family:sans-serif;color:black">Secondary 1</strong></td>
-	<td style="padding: 6px 10px;font-size:14.5px;font-family:sans-serif;"><strong style="font-size:14.5px;font-family:sans-serif;color:black;">Secondary 2</strong></td>
+	<td style="padding: 6px 10px;font-size:14.5px;font-family:sans-serif;"><strong style="font-size:14.5px;font-family:sans-serif;">Secondary 1</strong></td>
+	<td style="padding: 6px 10px;font-size:14.5px;font-family:sans-serif;"><strong style="font-size:14.5px;font-family:sans-serif;">Secondary 2</strong></td>
 </tr>
 	
 <tr style="border-bottom: 1px solid #dddddd;">
