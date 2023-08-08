@@ -6,7 +6,7 @@ third_nav_title: Instructional Programmes
 ---
 <h6 style="color:#0B6623;;font-family:sans-serif;font-weight:bold;"><strong style="font-family:sans-serif;font-size:17px;color:#0B6623;">Our Goals</strong></h6>
 
-<p style="font-size:14.5px; line-height:2;margin-top:15px;font-family:sans-serif;">The Pei Hwa Physical Education Programme aims to develop in each student the ability to:</p>
+<p style="font-size:14.5px; line-height:1.8;font-family:sans-serif;margin-top:5px;">The Pei Hwa Physical Education Programme aims to develop in each student the ability to:</p>
 
 <p style="margin:5px 0 5px 20px; font-size:14.5px; line-height:2;font-family:sans-serif;"><strong style="font-family:sans-serif;">Goal 1:&nbsp;</strong>Acquire a range of movement skills to participate in a variety of physical activities</p>
 
