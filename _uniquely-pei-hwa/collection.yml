@@ -2,7 +2,6 @@ collections:
   uniquely-pei-hwa:
     output: true
     order:
-      - Student Management Philosophy.md
       - Future Leader Programme (FLP).md
       - Applied Learning Programme – Robotics and Programming.md
       - Learning for Life Programme – Community Youth Leadership (LLP – CYL).md
@@ -20,3 +19,4 @@ collections:
       - Counselling.md
       - School Green Awards (SGA).md
       - Special Education Needs.md
+      - Student Management Philosophy.md
