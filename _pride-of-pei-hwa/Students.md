@@ -4,20 +4,20 @@ permalink: /pride-of-pei-hwa/students/
 description: ""
 ---
 <img src="/images/sa1.jpg">
-<p style="margin-top:15px;font-size:17px;"><strong style="font-family:Tahoma;">AWS DeepRacer League Competition</strong></p>
-<p style="font-size:14.5px; line-height:2;margin:-15px 0 13px 0px;font-family:Tahoma;">Congratulations to our five students from Resilience 5 who&nbsp;have participated in the AWS DeepRacer League Competition during the June Holidays.</p>
+<p style="line-height:2;margin-top:10px;margin-bottom:0;font-family:sans-serif;font-size:15.5px;"><strong style="font-family:sans-serif;font-size:15.5px;">AWS DeepRacer League Competition</strong></p>
+<p style="font-size:14.5px; line-height:2;margin-top:0px;font-family:sans-serif;">Congratulations to our five students from Resilience 5 who&nbsp;have participated in the AWS DeepRacer League Competition during the June Holidays.</p>
 
 <table border="1" style="border-collapse: none;margin: 15px 0;font-size: 0.9em;font-family: sans-serif;min-width: 50px; box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);width:70%;">
 <tbody>
 
 <tr>
-<td style="font-size:14.5px;font-family:Tahoma; width:10%;">Name</td>
-<td style="font-size:14.5px;font-family:Tahoma;">: Cecilia Zhuang Xili<br>&nbsp; &nbsp;Lee Yu Xian Xanth<br>&nbsp; &nbsp;Belinda Wong Min hui<br>&nbsp; &nbsp;Nigel Yap<br>&nbsp; &nbsp;Isabelle Kwa</td>
+<td style="font-size:14.5px;font-family:sans-serif;width:10%;">Name</td>
+<td style="font-size:14.5px;font-family:sans-serif;">: Cecilia Zhuang Xili<br>&nbsp; &nbsp;Lee Yu Xian Xanth<br>&nbsp; &nbsp;Belinda Wong Min hui<br>&nbsp; &nbsp;Nigel Yap<br>&nbsp; &nbsp;Isabelle Kwa</td>
 </tr>
 
 <tr>
 <td style="font-size:14.5px;font-family:Tahoma;">Award</td>
-<td style="font-size:14.5px;font-family:Tahoma;">: 2<sup style="font-family:Tahoma;">nd</sup> Price</td>
+<td style="font-size:14.5px;font-family:sans-serif;">: 2<sup style="font-family:sans-serif;">nd</sup> Price</td>
 </tr>
 
 </tbody>
@@ -26,32 +26,32 @@ description: ""
 <br>
 
 <img style="width: 50%;" src="/images/sa2.jpg">
-<p style="margin-top:15px;font-size:17px;"><strong style="font-family:Tahoma;">Team Wushu</strong></p>
+<p style="line-height:2;margin-top:10px;margin-bottom:0;font-family:sans-serif;font-size:15.5px;"><strong style="font-family:sans-serif;font-size:15.5px;">Team Wushu</strong></p>
 
-<p style="font-size:14.5px; line-height:2;margin:-15px 0 13px 0px;font-family:Tahoma;">Congratulations to our two medalists in this year’s National School Games B Division Championship.</p>
+<p style="font-size:14.5px; line-height:2;margin-top:0px;font-family:sans-serif;">Congratulations to our two medalists in this year’s National School Games B Division Championship.</p>
 
 
 <table border="1" style="border-collapse: none;margin: 15px 0;font-size: 0.9em;font-family: sans-serif;min-width: 50px; box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);width:70%;">
 <tbody>
 
 <tr>
-<td style="font-size:14.5px;font-family:Tahoma;; width:10%;">Name</td>
-<td style="font-size:14.5px;font-family:Tahoma;">: Ethan Cheow</td>
+<td style="font-size:14.5px;font-family:sans-serif; width:10%;">Name</td>
+<td style="font-size:14.5px;font-family:sans-serif;">: Ethan Cheow</td>
 </tr>
 
 <tr>
-<td style="font-size:14.5px;font-family:Tahoma;">Award</td>
-<td style="font-size:14.5px;font-family:Tahoma;">: 1<sup>st</sup> place in International Sword Routine</td>
+<td style="font-size:14.5px;font-family:sans-serif;">Award</td>
+<td style="font-size:14.5px;font-family:sans-serif;">: 1<sup>st</sup> place in International Sword Routine</td>
 </tr>  
 
 <tr>
-<td style="font-size:14.5px;font-family:Tahoma;">Name</td>
-<td style="font-size:14.5px;font-family:Tahoma;">: Cedric Lim</td>
+<td style="font-size:14.5px;font-family:sans-serif;">Name</td>
+<td style="font-size:14.5px;font-family:sans-serif;">: Cedric Lim</td>
 </tr>
 
 <tr>
-<td style="font-size:14.5px;font-family:Tahoma;">Award</td>
-<td style="font-size:14.5px;font-family:Tahoma;">: 2<sup>nd</sup> place in International Broadsword Routine</td>
+<td style="font-size:14.5px;font-family:sans-serif;">Award</td>
+<td style="font-size:14.5px;font-family:sans-serif;">: 2<sup>nd</sup> place in International Broadsword Routine</td>
 </tr>  
 
 </tbody>
@@ -60,31 +60,32 @@ description: ""
 <br>
 
 <img src="/images/sa3.jpg">
-<p style="margin-top:15px;font-size:17px;"><strong style="font-family:Tahoma;">Chinese Dance</strong>
-</p><p style="font-size:14.5px; line-height:2;margin:-15px 0 13px 0px;font-family:Tahoma;">SYF Achievement: Distinction</p>
+<p style="line-height:2;margin-top:10px;margin-bottom:0;font-family:sans-serif;font-size:15.5px;"><strong style="font-family:sans-serif;font-size:15.5px;">Chinese Dance</strong>
+</p>
+<p style="font-size:14.5px; line-height:2;margin-top:0px;font-family:sans-serif;">SYF Achievement: Distinction</p>
 
 <br>
 
 <img src="/images/sa4.jpg">
-<p style="margin-top:15px;font-size:17px;"><strong style="font-family:Tahoma;">Modern Dance</strong></p>
-<p style="font-size:14.5px; line-height:2;margin:-15px 0 13px 0px;ffont-family:Tahoma;">SYF Achievement: Accomplishment</p>
+<p style="line-height:2;margin-top:10px;margin-bottom:0;font-family:sans-serif;font-size:15.5px;"><strong style="font-family:sans-serif;font-size:15.5px;">Modern Dance</strong></p>
+<p style="font-size:14.5px; line-height:2;margin-top:0px;font-family:sans-serif;">SYF Achievement: Accomplishment</p>
 
 <br>
 
 <img src="/images/sa5.jpg">
-<p style="margin-top:15px;font-size:17px;"><strong style="font-family:Tahoma;">Guzheng</strong></p>
-<p style="font-size:14.5px; line-height:2;margin:-15px 0 13px 0px;font-family:Tahoma;">SYF Achievement: Distinction</p>
+<p style="line-height:2;margin-top:10px;margin-bottom:0;font-family:sans-serif;font-size:15.5px;"><strong style="font-family:sans-serif;font-size:15.5px;">Guzheng</strong></p>
+<p style="font-size:14.5px; line-height:2;margin-top:0px;font-family:sans-serif;">SYF Achievement: Distinction</p>
 <br>
 
 <img src="/images/sa6.jpg">
-<p style="margin-top:15px;font-size:17px;"><strong style="font-family:Tahoma;">Band Team A</strong></p>
-<p style="font-size:14.5px; line-height:2;margin:-15px 0 13px 0px;font-family:Tahoma;">SYF Achievement: Accomplishment</p>
+<p style="line-height:2;margin-top:10px;margin-bottom:0;font-family:sans-serif;font-size:15.5px;"><strong style="font-family:sans-serif;font-size:15.5px;">Band Team A</strong></p>
+<p style="font-size:14.5px; line-height:2;margin-top:0px;font-family:sans-serif;">SYF Achievement: Accomplishment</p>
 
 <br>
 
 <img src="/images/sa7.jpg">
-<p style="margin-top:15px;font-size:17px;"><strong style="font-family:Tahoma;">Drama Society</strong></p>
-<p style="font-size:14.5px; line-height:2;margin:-15px 0 13px 0px;font-family:Tahoma;">SYF Achievement: Commendation&nbsp;</p>
+<p style="line-height:2;margin-top:10px;margin-bottom:0;font-family:sans-serif;font-size:15.5px;"><strong style="font-family:sans-serif;font-size:15.5px;">Drama Society</strong></p>
+<p style="font-size:14.5px; line-height:2;margin-top: 0px;font-family:sans-serif;">SYF Achievement: Commendation&nbsp;</p>
 
 <h6><strong style="font-family:sans-serif;font-size:17px;color:#0B6623;">Summary of all SYF achievements</strong></h6>
 
