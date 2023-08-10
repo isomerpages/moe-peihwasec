@@ -4,7 +4,7 @@ permalink: /community-at-pei-hwa/parents-support-group/
 description: ""
 ---
 <h6 style="margin-top:15px;color:#0B6623;font-family:sans-serif;font-size:17px;"><strong style="font-family:sans-serif;font-size:17px;color:#0B6623;">Who Are We</strong></h6>
-<p style="font-size:14.5px; line-height:1.8;font-family:sans-serif;margin-top:5px;">Parents of current and ex-students who strongly believe that parents are valued partners in their children’s education, and the collaboration between school and family is a key platform in developing positive children-centric relationships.</p>
+<p style="font-size:14.5px; line-height:2;font-family:sans-serif;margin-top:0px;">Parents of current and ex-students who strongly believe that parents are valued partners in their children’s education, and the collaboration between school and family is a key platform in developing positive children-centric relationships.</p>
 
 <div style="margin-top:30px;padding:40px;display: flex; flex: 1; gap: 50px;background-color:#0B6623;" class="container"> 
 	<div style="flex: 1;" class="column"> 
