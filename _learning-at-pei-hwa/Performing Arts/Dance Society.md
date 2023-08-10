@@ -19,7 +19,7 @@ third_nav_title: Performing Arts
 	<li style="font-size:14.5px; line-height:2;font-family:sans-serif;margin-bottom:-5px;"> Demonstrate values of discipline, resilience, teamwork, passion for learning and excellence through dance and performance.</li>
 </ul>
 
-<h3 style="margin-top:10px;font-weight: bold;color:#000000;">Achievements</h3>
+<h6 style="color:#0B6623;font-family:sans-serif;font-weight:bold;margin-top:30px;"><strong style="font-family:sans-serif;font-size:17px;color:#0B6623;">Achievements</strong></h6>
 
 <table style="border-collapse: collapse;margin: 25px 0;margin-top:5px;font-family: sans-serif;box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);width:100%" border="1">
 	
@@ -41,7 +41,7 @@ third_nav_title: Performing Arts
 		</ul>
 		<strong style="font-family:sans-serif;font-size:15px;">SYF Arts Presentation for Chinese Dance </strong>
 		<ul style="margin-top:-5px">
-			<li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">Certificate of Distinction</li>
+			<li style="font-size:14.5px;margin-bottom:-5px;font-family:sans-serif;line-height:1.5;">Certificate of Distinction</li>
 		</ul>
 	</td>
 </tr>
@@ -56,7 +56,7 @@ third_nav_title: Performing Arts
 		<strong style="font-family:sans-serif;font-size:15px;">SYF Arts Presentation for Chinese Dance </strong>
 		<br>
 		<ul style="margin-top:-5px">
-			<li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">Certificate of Distinction</li>
+			<li style="font-size:14.5px;margin-bottom:-5px;font-family:sans-serif;line-height:1.5;">Certificate of Distinction</li>
 		</ul>
 	</td>
 </tr>
@@ -71,7 +71,7 @@ third_nav_title: Performing Arts
 		<strong style="font-family:sans-serif;font-size:15px;">SYF Arts Presentation for Chinese Dance </strong>
 		<br>
 		<ul style="margin-top:-5px">
-			<li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">Certificate of Distinction</li>
+			<li style="font-size:14.5px;margin-bottom:-5px;font-family:sans-serif;line-height:1.5;">Certificate of Distinction</li>
 		</ul>
 	</td>
 </tr>
@@ -79,15 +79,15 @@ third_nav_title: Performing Arts
 </tbody>
 </table>
 
-<h3 style="margin-top:10px;font-weight: bold;color:#000000">CCA Activities</h3>
+<h6 style="color:#0B6623;font-family:sans-serif;font-weight:bold;margin-top:30px;"><strong style="font-family:sans-serif;font-size:17px;color:#0B6623;">CCA Activities</strong></h6>
 
-<ul style="margin-top:5px">
-	<li style="font-size:14.5px; line-height:1.5 ;margin-top:5px; font-family:sans-serif;"> Regular training for students to develop a strong foundation in dance technique and stage performance</li>
-<li style="font-size:14.5px; line-height:1.5 ;margin-top:5px; font-family:sans-serif;"> School and public performances/competitions</li>
-<li style="font-size:14.5px; line-height:1.5 ;margin-top:5px; font-family:sans-serif;"> School camps</li>
+<ul style="margin-top:-5px">
+	<li style="font-size:14.5px; line-height:2; font-family:sans-serif;"> Regular training for students to develop a strong foundation in dance technique and stage performance</li>
+<li style="font-size:14.5px; line-height:2;font-family:sans-serif;"> School and public performances/competitions</li>
+<li style="font-size:14.5px; line-height:2; font-family:sans-serif;margin-bottom:-5px;"> School camps</li>
 	</ul>
 	
-<h3 style="margin-top:10px;font-weight: bold;color:#000000">Student Testament</h3>
+<h6 style="color:#0B6623;font-family:sans-serif;font-weight:bold;margin-top:30px;"><strong style="font-family:sans-serif;font-size:17px;color:#0B6623;">Student Testament</strong></h6>
 
 <blockquote style="font-size: 15px;width:100%;margin:50px auto;margin-top:5px;font-family:serif;font-style:italic;color: #555555;padding:1.2em 25px 1.2em 25px;border-left:8px solid #0C6523;line-height:1.6;position: relative;background:#EDEDED;">
 <img align="left" src="https://raw.githubusercontent.com/isomerpages/moe-peihwasec/staging/images/CCA/dancetestimonial02.png" style="width: 23%; border-radius: 7%;  margin-right:15px;">
@@ -109,23 +109,23 @@ third_nav_title: Performing Arts
 <br><br><br><br><br>
 	</blockquote>
 	
-<h3 style="margin-top:10px;font-weight: bold;color:#000000">CCA Details</h3>
+<h6 style="color:#0B6623;font-family:sans-serif;font-weight:bold;margin-top:30px;"><strong style="font-family:sans-serif;font-size:17px;color:#0B6623;">CCA Details</strong></h6>
 
 <table style="width:100%;border-collapse: collapse;border: none;">
 	<tbody style="border: none;">
 <tr>
-			<td style="font-weight: bold; font-size: 15px; border-bottom: 1px solid #dddddd;width:30%;font-family:sans-serif;letter-spacing:0.2px">Teachers-in-Charge</td>
+			<td style="font-weight: bold; font-size: 14.5px; border-bottom: 1px solid #dddddd;width:30%;font-family:sans-serif;letter-spacing:0.2px">Teachers-in-Charge</td>
 			<td style="font-size: 14.5px; border-bottom: 1px solid #dddddd;font-family:sans-serif;letter-spacing:0.2px">Miss Bernice Thong, Mrs Michelle Neo, Mrs Michelle Jonathan, Miss Valerie Chua</td>
 		</tr>
 <tr>
-			<td style="font-weight: bold; font-size: 15px; border-bottom: 1px solid #dddddd;width:30%;font-family:sans-serif;letter-spacing:0.2px">CCA Schedule</td>
+			<td style="font-weight: bold; font-size: 14.5px; border-bottom: 1px solid #dddddd;width:30%;font-family:sans-serif;letter-spacing:0.2px">CCA Schedule</td>
 			<td style="font-size: 14.5px; border-bottom: 1px solid #dddddd;font-family:sans-serif;letter-spacing:0.2px">Tuesdays 3.30pm – 6.00pm<br>
 Fridays 2.30pm – 6.00pm
 </td>
 		</tr>
 		
 <tr>
-			<td style="font-weight: bold; font-size: 15px; border-bottom: 1px solid #dddddd;width:30%;font-family:sans-serif;letter-spacing:0.2px">Venues</td>
+			<td style="font-weight: bold; font-size: 14.5px; border-bottom: 1px solid #dddddd;width:30%;font-family:sans-serif;letter-spacing:0.2px">Venues</td>
 			<td style="font-size: 14.5px; border-bottom: 1px solid #dddddd;font-family:sans-serif;letter-spacing:0.2px">[Even week] Dance studio (Level 3) <br>
 [Odd week] Res A and B (Level 2)
 </td>
