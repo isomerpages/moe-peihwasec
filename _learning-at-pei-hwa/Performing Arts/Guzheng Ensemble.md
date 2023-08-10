@@ -148,7 +148,7 @@ third_nav_title: Performing Arts
     <p style="text-align: center; font-size:10px;margin-top:-5px;font-family:sans-serif;line-height:1.5;">Performing Arts Camp 2022</p>
 </div>
 
-<p style="font-size:14.5px; line-height:2 ;margin-top:5px; font-family:sans-serif;" class="description">For more information on the Direct School Admissions to Pei Hwa Secondary School through Guzheng Ensemble, please click <a href="https://www.peihwasec.moe.edu.sg/programmes/direct-school-admission/guzheng-dsa/" style="font-size:14.5px; line-height:2 ;margin-top:5px; font-family:sans-serif;">here</a>.</p>
+<p style="font-size:14.5px; line-height:2 ;margin-top:5px; font-family:sans-serif;" class="description">For more information on the Direct School Admissions to Pei Hwa Secondary School through Guzheng Ensemble, please click <a href="https://www.peihwasec.moe.edu.sg/uniquely-pei-hwa/direct-school-admission/guzheng-dsa/" style="font-size:14.5px; line-height:2 ;margin-top:5px; font-family:sans-serif;">here</a>.</p>
 
 <h6 style="color:#0B6623;font-family:sans-serif;font-weight:bold;margin-top:30px;"><strong style="font-family:sans-serif;font-size:17px;color:#0B6623;">CCA Details</strong></h6>
 
