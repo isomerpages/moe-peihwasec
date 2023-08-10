@@ -93,36 +93,36 @@ description: ""
 	
 <thead style="background-color: #009879; font-weight: bold; font-size: 16px;">
 		<tr>
-			<td style="text-align:left;color:white;padding:12px 15px;font-family:Tahoma;">Performing Arts Group</td>
-			<td style="text-align:left;color:white;padding:12px 15px;font-family:Tahoma;">Certification</td>
+			<td style="text-align:left;color:white;padding:12px 15px;font-family:sans-serif;">Performing Arts Group</td>
+			<td style="text-align:left;color:white;padding:12px 15px;font-family:sans-serif;">Certification</td>
 		</tr>
 	</thead>
 
 <tbody>
 	
 <tr style="border-bottom: 1px solid #dddddd;">
-<td style="padding: 12px 15px; font-size:14.5px; font-family:Tahoma;">Band (Team A)</td>
-<td style="padding: 12px 15px; font-size:14.5px; font-family:Tahoma;">ACCOMPLISHMENT</td>
+<td style="padding: 12px 15px; font-size:14.5px;font-family:sans-serif;">Band (Team A)</td>
+<td style="padding: 12px 15px; font-size:14.5pxfont-family:sans-serif;">ACCOMPLISHMENT</td>
 	</tr>
 	
 <tr style="background-color: #f3f3f3;border-bottom: 1px solid #dddddd;">
-<td style="padding: 12px 15px; font-size:14.5px; font-family:Tahoma;">Dance (Chinese)</td>
-<td style="padding: 12px 15px; font-size:14.5px; font-family:Tahoma;">DISTINCTION</td>
+<td style="padding: 12px 15px; font-size:14.5px;font-family:sans-serif;">Dance (Chinese)</td>
+<td style="padding: 12px 15px; font-size:14.5px;font-family:sans-serif;">DISTINCTION</td>
 </tr>
 	
 <tr style="border-bottom: 1px solid #dddddd;">
-<td style="padding: 12px 15px; font-size:14.5px; font-family:Tahoma;">Dance (International)</td>
-<td style="padding: 12px 15px; font-size:14.5px; font-family:Tahoma;">ACCOMPLISHMENT</td>
+<td style="padding: 12px 15px; font-size:14.5px;font-family:sans-serif;">Dance (International)</td>
+<td style="padding: 12px 15px; font-size:14.5px;font-family:sans-serif;">ACCOMPLISHMENT</td>
 </tr>
 	
 <tr style="background-color: #f3f3f3;border-bottom: 1px solid #dddddd;">
-<td style="padding: 12px 15px; font-size:14.5px; font-family:Tahoma;">Guzheng</td>
-<td style="padding: 12px 15px; font-size:14.5px; font-family:Tahoma;">DISTINCTION</td>
+<td style="padding: 12px 15px; font-size:14.5px; font-family:sans-serif;">Guzheng</td>
+<td style="padding: 12px 15px; font-size:14.5px;font-family:sans-serif;">DISTINCTION</td>
 </tr>
 
 <tr style="border-bottom: 2px solid #009879;">
-<td style="padding: 12px 15px; font-size:14.5px; font-family:Tahoma;">Drama</td>
-<td style="padding: 12px 15px; font-size:14.5px; font-family:Tahoma;">COMMENDATION</td>
+<td style="padding: 12px 15px; font-size:14.5px; font-family:sans-serif;">Drama</td>
+<td style="padding: 12px 15px; font-size:14.5px; font-family:sans-serif;">COMMENDATION</td>
 </tr>
 	
 </tbody>
