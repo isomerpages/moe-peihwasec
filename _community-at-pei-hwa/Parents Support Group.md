@@ -18,11 +18,11 @@ description: ""
 </div>
 
 <h6 style="margin-top:30px;color:#0B6623;font-family:sans-serif;font-size:17px;"><strong style="font-family:sans-serif;font-size:17px;color:#0B6623;">Our Programmes</strong></h6>
-<ul style="margin-top:5px">
-	<li style="font-size:14.5px; line-height:1.5 ;margin-top:5px; font-family:sans-serif;"> Sec 1 Parent Recruitment Talk</li>
-<li style="font-size:14.5px; line-height:1.5 ;margin-top:5px; font-family:sans-serif;"> PSG Engagement with PHSS</li>
-<li style="font-size:14.5px; line-height:1.5 ;margin-top:5px; font-family:sans-serif;"> PSG Bonding Sessions with PHSS</li>
-	<li style="font-size:14.5px; line-height:1.5 ;margin-top:5px; font-family:sans-serif;"> Supporting PHSS during school events</li>
+<ul style="margin-top:-5px">
+	<li style="font-size:14.5px; line-height:2;font-family:sans-serif;"> Sec 1 Parent Recruitment Talk</li>
+<li style="font-size:14.5px; line-height:2; font-family:sans-serif;"> PSG Engagement with PHSS</li>
+<li style="font-size:14.5px; line-height:2; font-family:sans-serif;"> PSG Bonding Sessions with PHSS</li>
+	<li style="font-size:14.5px; line-height:2; font-family:sans-serif;margin-bottom:-5px;"> Supporting PHSS during school events</li>
 	</ul>
 	
 <h6 style="margin-top:15px;color:#0B6623;"><strong style="font-family:sans-serif;font-size:17px;color:#0B6623;">Register with Us</strong></h6>
