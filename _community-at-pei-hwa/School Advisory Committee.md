@@ -3,13 +3,13 @@ title: School Advisory Committee
 permalink: /community-at-pei-hwa/school-advisory-committee/
 description: ""
 ---
-<p style="font-size:14.5px; line-height:1.8;font-family:sans-serif;margin-top:5px;">Pei Hwa Secondary School’s School Advisory Committee was set up in 2005. Since its inception, the committee has played a vital role in supporting the school’s programmes and events through its valuable contribution of time, money and expertise.</p>
+<p style="font-size:14.5px; line-height:2;font-family:sans-serif;margin-top:0px;">Pei Hwa Secondary School’s School Advisory Committee was set up in 2005. Since its inception, the committee has played a vital role in supporting the school’s programmes and events through its valuable contribution of time, money and expertise.</p>
 
-<p style="font-size:14.5px; line-height:1.8;font-family:sans-serif;margin-top:5px;">The committee members are an integral part of the Pei Hwa Community and have built close relationships with the staff and pupils of the school. Their support and presence is both felt and seen at many school events like the School Official Opening, National Day cum Sports Day and Teachers’ Day.</p>
+<p style="font-size:14.5px; line-height:2;font-family:sans-serif;margin-top:0px;">The committee members are an integral part of the Pei Hwa Community and have built close relationships with the staff and pupils of the school. Their support and presence is both felt and seen at many school events like the School Official Opening, National Day cum Sports Day and Teachers’ Day.</p>
 
-<p style="font-size:14.5px; line-height:1.8;font-family:sans-serif;margin-top:5px;">They have a keen interest in the students’ welfare and the school’s vision to be the ‘Pride of the Community’. Thus, they have supported the school’s special projects which is aimed at building a dynamic, strong and self-reliant student population whilst nurturing their many talents, through funding. Needy pupils have also been provided with valuable financial help.</p>
+<p style="font-size:14.5px; line-height:2;font-family:sans-serif;margin-top:0px;">They have a keen interest in the students’ welfare and the school’s vision to be the ‘Pride of the Community’. Thus, they have supported the school’s special projects which is aimed at building a dynamic, strong and self-reliant student population whilst nurturing their many talents, through funding. Needy pupils have also been provided with valuable financial help.</p>
 
-<p style="margin-top:15px;font-size:15.5px;"><strong style="font-family:sans-serif;">Its office bearers are:</strong></p>
+<p style="line-height:2;margin-top:5px;margin-bottom:0;font-family:sans-serif;font-size:15.5px;"><strong style="font-family:sans-serif;">Its office bearers are:</strong></p>
 
 <table border="1" style="width:100%;">
 <tbody>
