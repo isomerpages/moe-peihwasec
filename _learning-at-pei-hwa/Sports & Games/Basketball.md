@@ -6,11 +6,11 @@ third_nav_title: Sports & Games
 ---
 <img style="width: 100%; height: auto;margin-top:30px;margin-bottom:30px;" alt="Image" src="https://raw.githubusercontent.com/isomerpages/moe-peihwasec/staging/images/CCA/basketballbanner.png">
 
-<p style="font-size:14.5px; line-height:2 ;margin-top:5px; font-family:sans-serif;" class="description">At <strong style="font-size:14.5px; line-height:2; font-family:sans-serif;">Pei Hwa Basketball</strong>, we take great pride in our rigorous training programme which is designed to nurture the talents of our students and inspire them to achieve their potential. We firmly believe that discipline and determination are essential qualities for success, and we strive to instill these values in our students as they pursue their passion for basketball</p>
+<p style="font-size:14.5px; line-height:2 ;margin-top:0px; font-family:sans-serif;" class="description">At <strong style="font-size:14.5px; line-height:2; font-family:sans-serif;">Pei Hwa Basketball</strong>, we take great pride in our rigorous training programme which is designed to nurture the talents of our students and inspire them to achieve their potential. We firmly believe that discipline and determination are essential qualities for success, and we strive to instill these values in our students as they pursue their passion for basketball</p>
 
-<p style="font-size:14.5px; line-height:2 ;margin-top:5px; font-family:sans-serif;" class="description">Our basketball CCA is dedicated to improve teamwork and communication in our students, enabling them to perform their best during basketball trainings and competitions. Through trainings, students’ physical and mental capacities are enhanced, allowing them to develop better decision-making skills. Students also learn important skills like coordination, balance, and body control, which are essential for success on the basketball court. Students will also develop other important values such as resilience, respect and self-discipline through weekly training sessions, friendly matches and National School Games.</p>
+<p style="font-size:14.5px; line-height:2 ;margin-top:0px; font-family:sans-serif;" class="description">Our basketball CCA is dedicated to improve teamwork and communication in our students, enabling them to perform their best during basketball trainings and competitions. Through trainings, students’ physical and mental capacities are enhanced, allowing them to develop better decision-making skills. Students also learn important skills like coordination, balance, and body control, which are essential for success on the basketball court. Students will also develop other important values such as resilience, respect and self-discipline through weekly training sessions, friendly matches and National School Games.</p>
 
-<p style="font-size:14.5px; line-height:2 ;margin-top:5px; font-family:sans-serif;" class="description">Every year is a fresh start for us. Each student will have an opportunity to represent the school to play for National School Games. At Pei Hwa Basketball, we are proud to say that we are one big family, united by a group of like-minded students who enjoy playing basketball.</p>
+<p style="font-size:14.5px; line-height:2 ;margin-top:0px; font-family:sans-serif;" class="description">Every year is a fresh start for us. Each student will have an opportunity to represent the school to play for National School Games. At Pei Hwa Basketball, we are proud to say that we are one big family, united by a group of like-minded students who enjoy playing basketball.</p>
 
 <h6 style="color:#0B6623;font-family:sans-serif;font-weight:bold;margin-top:30px;"><strong style="font-family:sans-serif;font-size:17px;color:#0B6623;">Achievements</strong></h6>
 
@@ -83,19 +83,19 @@ third_nav_title: Sports & Games
 <table style="width:100%;border-collapse: collapse;border: none;">
 	<tbody style="border: none;">
 <tr>
-			<td style="font-weight: bold; font-size: 15px; border-bottom: 1px solid #dddddd;width:30%;font-family:sans-serif;letter-spacing:0.2px">Teachers-in-Charge</td>
+			<td style="font-weight: bold; font-size: 14.5px; border-bottom: 1px solid #dddddd;width:30%;font-family:sans-serif;letter-spacing:0.2px">Teachers-in-Charge</td>
 			<td style="font-size: 14.5px; border-bottom: 1px solid #dddddd;font-family:sans-serif;letter-spacing:0.2px">Mr Koh Chong Peng, Mr Tay Swee Hoe, Mr Yang Bin</td>
 		</tr>
 
 <tr>
-			<td style="font-weight: bold; font-size: 15px; border-bottom: 1px solid #dddddd;width:30%;font-family:sans-serif;letter-spacing:0.2px">CCA Schedule</td>
+			<td style="font-weight: bold; font-size: 14.5px; border-bottom: 1px solid #dddddd;width:30%;font-family:sans-serif;letter-spacing:0.2px">CCA Schedule</td>
 			<td style="font-size: 14.5px; border-bottom: 1px solid #dddddd;font-family:sans-serif;letter-spacing:0.2px">Tuesdays 3.30pm - 6.00pm<br>
 Fridays 2.30pm - 6.00pm
 </td>
 		</tr>
 		
 <tr>
-			<td style="font-weight: bold; font-size: 15px; border-bottom: 1px solid #dddddd;width:30%;font-family:sans-serif;letter-spacing:0.2px">Venues</td>
+			<td style="font-weight: bold; font-size: 14.5px; border-bottom: 1px solid #dddddd;width:30%;font-family:sans-serif;letter-spacing:0.2px">Venues</td>
 			<td style="font-size: 14.5px; border-bottom: 1px solid #dddddd;font-family:sans-serif;letter-spacing:0.2px">Basketball court</td>
 		</tr>
 		
