@@ -14,7 +14,7 @@ description: ""
 	</div>
 <div style="flex: 1;" class="content">
 	<h6 style="margin-top:-70px;color:#0B6623;font-family:sans-serif;font-size:17px;"><strong style="color:#0B6623;font-weight:bold;font-family:sans-serif;font-size:17px;">Our School Logo</strong></h6>
-<p style="margin: 10px 0;font-size:14.5px; line-height:1.5;font-family:sans-serif;color:black;">The logo is formed by the Chinese characters “Pei” and “Hwa” which means “Nurturing Talents”. Central to the logo is the figure representing a resilient Pei Hwa pupil who is happy and confident even as he leaps over each obstacle. He is upright (as shown by the “li” character at the top of the figure’s head) and grounded (as shown by the “tu” character) in values. His education in Pei Hwa has enabled him to embrace the world of knowledge with open arms and to push beyond current boundaries.</p>
+<p style="margin: 10px 0;font-size:14.5px; line-height:1.5;font-family:sans-serif;">The logo is formed by the Chinese characters “Pei” and “Hwa” which means “Nurturing Talents”. Central to the logo is the figure representing a resilient Pei Hwa pupil who is happy and confident even as he leaps over each obstacle. He is upright (as shown by the “li” character at the top of the figure’s head) and grounded (as shown by the “tu” character) in values. His education in Pei Hwa has enabled him to embrace the world of knowledge with open arms and to push beyond current boundaries.</p>
 </div>
 </div>
 	
@@ -27,14 +27,14 @@ description: ""
 <div style="display: flex;" class="two-column">&nbsp;
 
 <div style="flex: 1; padding: 0 10px;" class="column">
-<p style="margin: 0;font-size:14.5px; line-height:1.5;font-family:sans-serif;color:black;">In Pei Hwa Secondary School<br>We are the pride of the community<br>To lead and serve with integrity<br>We grow in our resiliency</p></div>
+<p style="margin: 0;font-size:14.5px; line-height:1.5;font-family:sans-serif;">In Pei Hwa Secondary School<br>We are the pride of the community<br>To lead and serve with integrity<br>We grow in our resiliency</p></div>
 	
 <div style="flex: 1; padding: 0 10px;" class="column">
-<p style="margin: 0;font-size:14.5px; line-height:1.5;font-family:sans-serif;color:black;">Though there be many challenges<br>Our passion remains strong<br>We learn and work diligently<br>To be the best that we can be</p>
+<p style="margin: 0;font-size:14.5px; line-height:1.5;font-family:sans-serif;">Though there be many challenges<br>Our passion remains strong<br>We learn and work diligently<br>To be the best that we can be</p>
 </div>
 
 <div style="flex: 1; padding: 0 10px;" class="column">
-<p style="margin: 0;font-size:14.5px; line-height:1.5;font-family:sans-serif;color:black;">Here in Pei Hwa  
+<p style="margin: 0;font-size:14.5px; line-height:1.5;font-family:sans-serif;">Here in Pei Hwa  
 Our talents are nurtured  
 Here in Pei Hwa  
 Where we share in harmony  
@@ -45,7 +45,7 @@ To the happy Pei Hwa family</p>
 </div>
 </div>
 
-<p style="margin: 10px 0;font-size:14.5px; line-height:1.5;font-family:sans-serif;color:black;"><strong style="font-family:sans-serif;color:black;">Music by Mr Job Tan<br>
+<p style="margin: 10px 0;font-size:14.5px; line-height:1.5;font-family:sans-serif;"><strong style="font-family:sans-serif;">Music by Mr Job Tan<br>
 Lyrics by Mr Daniel Beng, Miss Thien Li Chin and Mr Tan Yap Kin<br>  
 	January 2007</strong></p>
 	</div> 
