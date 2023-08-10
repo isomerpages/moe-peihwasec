@@ -6,17 +6,17 @@ third_nav_title: Performing Arts
 ---
 <img style="width: 100%; height: auto;margin-top:30px;margin-bottom:30px;" alt="Image" src="https://raw.githubusercontent.com/isomerpages/moe-peihwasec/staging/images/CCA/dancebanner.png">
 
-<p style="font-size:14.5px; line-height:2 ;margin-top:5px; font-family:sans-serif;" class="description"> The <strong style="font-size:14.5px; line-height:2; font-family:sans-serif;">Pei Hwa Dance Society</strong> has a long history of being exposed to Modern, Chinese and Malay Dance. It is our goal that in the 4 years of our dancers’ journey, they will explore various genres of dance (Modern / Chinese / Hip Hop / Jazz) in order to develop techniques that will empower them to be versatile performers on stage. </p>
+<p style="font-size:14.5px; line-height:2 ;margin-top:0px; font-family:sans-serif;" class="description"> The <strong style="font-size:14.5px; line-height:2; font-family:sans-serif;">Pei Hwa Dance Society</strong> has a long history of being exposed to Modern, Chinese and Malay Dance. It is our goal that in the 4 years of our dancers’ journey, they will explore various genres of dance (Modern / Chinese / Hip Hop / Jazz) in order to develop techniques that will empower them to be versatile performers on stage. </p>
 
-<p style="font-size:14.5px; line-height:2 ;margin-top:5px; font-family:sans-serif;" class="description">Many of our members join with little or no dance background. It is through the regular trainings and role modelling of our diligent and passionate dance leaders, and under the careful tutelage of our instructors, that each member of dance society improves and hones their dance skills. In Dance Society, we expose students to as many opportunities as possible where they participate in public performances such as PHiesta, compete at The Singapore Youth Festival (SYF) and go on learning journeys such as watching performances.</p>
+<p style="font-size:14.5px; line-height:2;margin-top:0px; font-family:sans-serif;" class="description">Many of our members join with little or no dance background. It is through the regular trainings and role modelling of our diligent and passionate dance leaders, and under the careful tutelage of our instructors, that each member of dance society improves and hones their dance skills. In Dance Society, we expose students to as many opportunities as possible where they participate in public performances such as PHiesta, compete at The Singapore Youth Festival (SYF) and go on learning journeys such as watching performances.</p>
 
-<p style="font-size:14.5px; line-height:1.5;margin-top:15px; font-family:sans-serif;">The CCA will enable our students to:</p>
+<p style="font-size:14.5px; line-height:2;margin-top:15px; font-family:sans-serif;">The CCA will enable our students to:</p>
 <ul style="margin-top:-5px;">
-	<li style="font-size:14.5px; line-height:1.5;font-family:sans-serif;"> Attain a good level of competency in terms of dance technique </li>
-	<li style="font-size:14.5px; line-height:1.5;font-family:sans-serif;"> Develop and understand spatial and bodily movements</li>
-	<li style="font-size:14.5px; line-height:1.5;font-family:sans-serif;"> Develop stage presence</li>
-		<li style="font-size:14.5px; line-height:1.5;font-family:sans-serif;"> Apply their skills pertaining to dance and performance</li>
-	<li style="font-size:14.5px; line-height:1.5;font-family:sans-serif;"> Demonstrate values of discipline, resilience, teamwork, passion for learning and excellence through dance and performance.</li>
+	<li style="font-size:14.5px; line-height:2;font-family:sans-serif;"> Attain a good level of competency in terms of dance technique </li>
+	<li style="font-size:14.5px; line-height:2;font-family:sans-serif;"> Develop and understand spatial and bodily movements</li>
+	<li style="font-size:14.5px; line-height:2;font-family:sans-serif;"> Develop stage presence</li>
+		<li style="font-size:14.5px; line-height:2;font-family:sans-serif;"> Apply their skills pertaining to dance and performance</li>
+	<li style="font-size:14.5px; line-height:2;font-family:sans-serif;margin-bottom:-5px;"> Demonstrate values of discipline, resilience, teamwork, passion for learning and excellence through dance and performance.</li>
 </ul>
 
 <h3 style="margin-top:10px;font-weight: bold;color:#000000;">Achievements</h3>
