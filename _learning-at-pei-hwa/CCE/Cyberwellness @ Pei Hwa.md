@@ -18,7 +18,7 @@ third_nav_title: CCE
 
 <h6 style="color:#0B6623;;font-family:sans-serif;font-weight:bold;"><strong style="font-family:sans-serif;font-size:17px;color:#0B6623;">Resources for Parents</strong></h6>
 
-<ol style="margin-top:15px;">
+<ol style="margin-top:-5px;">
 	<li style="font-size:14.5px; line-height:1.5;font-family:sans-serif;"><a href="https://www.schoolbag.edu.sg/story/understanding-cyber-wellness" style="font-size:14.5px; line-height:1.5;font-family:sans-serif;font-weight:bold;text-decoration: none;">Understanding Cyber Wellness</a></li>
 	<li style="font-size:14.5px; line-height:1.5;font-family:sans-serif;"><a href="https://www.schoolbag.edu.sg/story/parents-the-guardians-of-internet-safety" style="font-size:14.5px; line-height:1.5;font-family:sans-serif;font-weight:bold;text-decoration: none;">Parents, the Guardians of Internet Safety 
 </a></li>
