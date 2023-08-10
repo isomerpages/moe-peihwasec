@@ -120,7 +120,7 @@ third_nav_title: Uniformed Groups
 			<li style="font-size:14.5px; line-height:2;font-family:sans-serif;">Specialisation Courses (Fire Safety, Medical Response, Urban Rescue)</li>
 	<li style="font-size:14.5px; line-height:2;font-family:sans-serif;">Tour of Exhibition in Civil Defence Academy (CDA)</li>
 	<li style="font-size:14.5px; line-height:2;font-family:sans-serif;">Unit Drill Instructor (UDI) Course</li>
-		<li style="font-size:14.5px; line-height:2;font-family:sans-serif;">Urban Adventure Civil Defence Knowledge Challenge (UACDC)</li>
+		<li style="font-size:14.5px; line-height:2;font-family:sans-serif;margin-bottom:-5px;">Urban Adventure Civil Defence Knowledge Challenge (UACDC)</li>
 </ul>
 
 <h6 style="color:#0B6623;font-family:sans-serif;font-weight:bold;margin-top:30px;"><strong style="font-family:sans-serif;font-size:17px;color:#0B6623;">Student Testament</strong></h6>
