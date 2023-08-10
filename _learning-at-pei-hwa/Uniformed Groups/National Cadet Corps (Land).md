@@ -97,7 +97,7 @@ third_nav_title: Uniformed Groups
 <li style="font-size:14.5px; line-height:2;margin-top:5px; font-family:sans-serif;"> Confidence Courses </li>
 <li style="font-size:14.5px; line-height:2;margin-top:5px; font-family:sans-serif;"> SAF visits</li>
 	<li style="font-size:14.5px; line-height:2;margin-top:5px; font-family:sans-serif;"> Freestyle Drill </li>
-<li style="font-size:14.5px; line-height:2;margin-top:5px; font-family:sans-serif;"> Precision Drill</li>
+<li style="font-size:14.5px; line-height:2;margin-top:5px; font-family:sans-serif;margin-bottom:-5px;"> Precision Drill</li>
 	</ul>
 
 <h6 style="color:#0B6623;font-family:sans-serif;font-weight:bold;margin-top:30px;"><strong style="font-family:sans-serif;font-size:17px;color:#0B6623;">Student Testament</strong></h6>
