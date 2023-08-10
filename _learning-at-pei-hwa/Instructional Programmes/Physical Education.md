@@ -6,7 +6,7 @@ third_nav_title: Instructional Programmes
 ---
 <h6 style="color:#0B6623;;font-family:sans-serif;font-weight:bold;"><strong style="font-family:sans-serif;font-size:17px;color:#0B6623;">Our Goals</strong></h6>
 
-<p style="font-size:14.5px; line-height:1.8;font-family:sans-serif;margin-top:5px;">The Pei Hwa Physical Education Programme aims to develop in each student the ability to:</p>
+<p style="font-size:14.5px; line-height:2;font-family:sans-serif;margin-top:5px;">The Pei Hwa Physical Education Programme aims to develop in each student the ability to:</p>
 
 <p style="margin:5px 0 5px 20px; font-size:14.5px; line-height:2;font-family:sans-serif;"><strong style="font-family:sans-serif;">Goal 1:&nbsp;</strong>Acquire a range of movement skills to participate in a variety of physical activities</p>
 
@@ -24,7 +24,7 @@ third_nav_title: Instructional Programmes
 
 <p style="margin-top:15px;font-size:15.5px;"><strong style="font-family:sans-serif;">Sports &amp; Games taught:</strong></p>
 
-<p style="margin:5px 0 5px 20px; font-size:14.5px; line-height:2;font-family:sans-serif;">Secondary 1: Basketball &amp; Frisbee</p>
+<p style="margin:-15px 0 0px 20px; font-size:14.5px; line-height:2;font-family:sans-serif;">Secondary 1: Basketball &amp; Frisbee</p>
 
 <p style="margin:5px 0 5px 20px; font-size:14.5px; line-height:2;font-family:sans-serif;">Secondary 2: Softball &amp; Floorball</p>
 
@@ -34,7 +34,7 @@ third_nav_title: Instructional Programmes
 
 <p style="margin-top:15px;font-size:15.5px;"><strong style="font-family:sans-serif;">Physical Health &amp; Fitness topics (From Sec 1 – 5):</strong></p>
 
-<ol style="margin-top:5px;">
+<ol style="margin-top:-5px;">
 <li style="font-size:14.5px; line-height:2;margin-left:17px;font-family:sans-serif;">Health &amp; Fitness Management</li>
 <li style="font-size:14.5px; line-height:2;margin-left:17px;font-family:sans-serif;">Healthy eating and weight management</li>
 <li style="font-size:14.5px; line-height:2;margin-left:17px;font-family:sans-serif;">Personal safety in physical activities</li>
@@ -42,9 +42,9 @@ third_nav_title: Instructional Programmes
 
 <img src="/images/pe2.jpg" style="width:70%;">
 
-<p style="margin-top:15px;font-size:15.5px;"><strong style="font-family:sans-serif;">Outdoor Education topics (From Sec 1 – 3):</strong></p>
+<p style="line-height:2;margin-top:15px;margin-bottom:0;font-family:sans-serif;font-size:15.5px;"><strong style="font-family:sans-serif;">Outdoor Education topics (From Sec 1 – 3):</strong></p>
 
-<ol style="margin-top:5px;">
+<ol style="margin-top:-5px;">
 <li style="font-size:14.5px; line-height:2;margin-left:17px;font-family:sans-serif;">Enhancing physical health and well-being</li>
 <li style="font-size:14.5px; line-height:2;margin-left:17px;font-family:sans-serif;">Building competency in assessing and managing risk</li>
 <li style="font-size:14.5px; line-height:2;margin-left:17px;font-family:sans-serif;">Developing a sense of place</li>
@@ -56,9 +56,9 @@ third_nav_title: Instructional Programmes
 
 <h6 style="color:#0B6623;;font-family:sans-serif;font-weight:bold;"><strong style="font-family:sans-serif;font-size:17px;color:#0B6623;">Our Student Learning</strong></h6>
 
-<p style="margin-top:15px;font-size:15.5px;"><strong style="font-family:sans-serif;">PE Lessons</strong></p>
+<p style="line-height:2;margin-top:5px;margin-bottom:0;font-family:sans-serif;font-size:15.5px;"><strong style="font-family:sans-serif;">PE Lessons</strong></p>
 
- <p style="font-size:14.5px; line-height:2;margin-top:-10px;font-family:sans-serif;">
+ <p style="font-size:14.5px; line-height:2;margin-top:0px;font-family:sans-serif;">
 In Pei Hwa Secondary school, we strive to design fun and engaging PE lessons to develop students in the physical, cognitive and affective domains. We focus on delivering lessons with clear learning goals and employ differentiated instructions to cater to the different learning needs of our students.</p>
 
 <div class="row" style="box-sizing: border-box;"> 
