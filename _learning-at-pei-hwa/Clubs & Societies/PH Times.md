@@ -6,14 +6,14 @@ third_nav_title: Clubs & Societies
 ---
 <img style="width: 100%; height: auto;margin-top:30px;margin-bottom:30px;" alt="Image" src="https://raw.githubusercontent.com/isomerpages/moe-peihwasec/staging/images/CCA/phtimesbanner.png">
 
-<p style="font-size:14.5px; line-height:2;font-family:sans-serif;"><strong style="font-size:14.5px; font-family:sans-serif;">Pei Hwa Times (PH Times) </strong> provides the opportunity for our members to develop technical skills about photography and videography. With these skills, our members will then have the opportunity to embark on a journalism journey; photojournalism and video journalism. We seek to help our members realise their potential and build resilience as well as confidence as they get their heart, head and hands on the journalism journey.</p>
+<p style="font-size:14.5px; line-height:2;font-family:sans-serif;"><strong style="font-size:14.5px; font-family:sans-serif;margin-top:0px;">Pei Hwa Times (PH Times) </strong> provides the opportunity for our members to develop technical skills about photography and videography. With these skills, our members will then have the opportunity to embark on a journalism journey; photojournalism and video journalism. We seek to help our members realise their potential and build resilience as well as confidence as they get their heart, head and hands on the journalism journey.</p>
 
 
 <p style="font-size:14.5px; line-height:1.5;margin-top:15px; font-family:sans-serif;">The CCA will enable our students to:</p>
 <ul style="margin-top:-5px;">
-	<li style="font-size:14.5px; line-height:1.5;font-family:sans-serif;"> acquire and apply basic photography and videography knowledge and skills</li>
-	<li style="font-size:14.5px; line-height:1.5;font-family:sans-serif;"> demonstrate creativity through photography and videography activities</li>
-	<li style="font-size:14.5px; line-height:1.5;font-family:sans-serif;"> develop into being a team player and work collaboratively with others</li>
+	<li style="font-size:14.5px; line-height2;font-family:sans-serif;"> acquire and apply basic photography and videography knowledge and skills</li>
+	<li style="font-size:14.5px; line-height:2;font-family:sans-serif;"> demonstrate creativity through photography and videography activities</li>
+	<li style="font-size:14.5px; line-height:2; margin-bottom:-5px;font-family:sans-serif;"> develop into being a team player and work collaboratively with others</li>
 </ul>
 
 <h6 style="color:#0B6623;font-family:sans-serif;font-weight:bold;margin-top:30px;"><strong style="font-family:sans-serif;font-size:17px;color:#0B6623;">Achievements</strong></h6>
@@ -32,7 +32,7 @@ third_nav_title: Clubs & Societies
 <td><strong style="font-family:sans-serif;font-size:14.5px;">2016</strong></td>
 <td><strong style="font-family:sans-serif;font-size:15px;">Canon Photomarathon</strong>
 <ul style="margin-top:-5px">
-	<li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">2<sup style="font-family:sans-serif;">nd</sup> Runner-up (Carina Chew)</li>
+	<li style="font-size:14.5px;margin-bottom:-5px;font-family:sans-serif;line-height:1.5;">2<sup style="font-family:sans-serif;">nd</sup> Runner-up (Carina Chew)</li>
 	
 </ul>
 	</td>
@@ -42,7 +42,7 @@ third_nav_title: Clubs & Societies
 <td><strong style="font-family:sans-serif;font-size:14.5px;">2013</strong></td>
 <td><strong style="font-family:sans-serif;font-size:15px;">Safety-starts-with-me Photo Competition</strong>
 <ul style="margin-top:-5px">
-	<li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">Silver Award, $1000 Cash Prize (Aaron Lim Cheng Kiat)</li>
+	<li style="font-size:14.5px;margin-bottom:-5px;font-family:sans-serif;line-height:1.5;">Silver Award, $1000 Cash Prize (Aaron Lim Cheng Kiat)</li>
 </ul>
 	</td>
 </tr>
@@ -51,8 +51,8 @@ third_nav_title: Clubs & Societies
 <td><strong style="font-family:sans-serif;font-size:14.5px;">2012</strong></td>
 <td><strong style="font-family:sans-serif;font-size:15px;">National Photography Competition 'Climate Change'</strong>
 <ul style="margin-top:-5px">
-<li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">2<sup style="font-family:sans-serif;">nd</sup> Prize (Amanda Goh)</li>
-	<li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">Consolation (Aaron Lim)</li>
+<li style="font-size:14.5px;margin-bottom:-5px;font-family:sans-serif;line-height:1.5;">2<sup style="font-family:sans-serif;">nd</sup> Prize (Amanda Goh)</li>
+	<li style="font-size:14.5px;margin-bottom:-5px;font-family:sans-serif;line-height:1.5;">Consolation (Aaron Lim)</li>
 	</ul>
 </td>
 </tr>
@@ -61,8 +61,8 @@ third_nav_title: Clubs & Societies
 <td><strong style="font-family:sans-serif;font-size:14.5px;">2011</strong></td>
 <td><strong style="font-family:sans-serif;font-size:15px;">Canon Photomarathon</strong>
 <ul style="margin-top:-5px">
-<li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">Student Category Winner (Douglas Tham)</li>
-	<li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">Best of Show Student Category Winner (Douglas Tham)</li>
+<li style="font-size:14.5px;margin-bottom:-5px;font-family:sans-serif;line-height:1.5;">Student Category Winner (Douglas Tham)</li>
+	<li style="font-size:14.5px;margin-bottom:-5px;font-family:sans-serif;line-height:1.5;">Best of Show Student Category Winner (Douglas Tham)</li>
 	<li style="font-size:14.5px;margin-bottom:-5px;font-family:sans-serif;line-height:1.5;"> School's Challenge Winner</li>
 </ul>
 	<strong style="font-family:sans-serif;font-size:15px;">Freshness of Life by School of Photography</strong>
@@ -71,7 +71,7 @@ third_nav_title: Clubs & Societies
 </ul>
 		<strong style="font-family:sans-serif;font-size:15px;">N3 Cluster International Friendship Day Photography Competition</strong>
 <ul style="margin-top:-5px">
-<li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">1<sup style="font-family:sans-serif;">st</sup> Prize</li>
+<li style="font-size:14.5px;margin-bottom:-5px;font-family:sans-serif;line-height:1.5;">1<sup style="font-family:sans-serif;">st</sup> Prize</li>
 </ul>
 	</td>
 </tr>
@@ -84,7 +84,7 @@ third_nav_title: Clubs & Societies
 	</ul>
 	<strong style="font-family:sans-serif;font-size:15px;">HDB Competition</strong>
 <ul style="margin-top:-5px">
-<li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">Consolation Prize</li>
+<li style="font-size:14.5px;margin-bottom:-5px;font-family:sans-serif;line-height:1.5;">Consolation Prize</li>
 	</ul>
 </td>
 </tr>
@@ -97,7 +97,7 @@ third_nav_title: Clubs & Societies
 </ul>
 	<strong style="font-family:sans-serif;font-size:15px;">GMAC Competition</strong>
 <ul style="margin-top:-5px"> 
-<li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">	3<sup style="font-family:sans-serif;">rd</sup> Place (Lim Ying Yun, Martin Goh, Charmaine Toh, Saw Jia Hui)</li>
+<li style="font-size:14.5px;margin-bottom:-5px;font-family:sans-serif;line-height:1.5;">	3<sup style="font-family:sans-serif;">rd</sup> Place (Lim Ying Yun, Martin Goh, Charmaine Toh, Saw Jia Hui)</li>
 </ul>
 	</td>
 </tr>
@@ -106,11 +106,11 @@ third_nav_title: Clubs & Societies
 </table>
 
 <h6 style="color:#0B6623;font-family:sans-serif;font-weight:bold;margin-top:30px;"><strong style="font-family:sans-serif;font-size:17px;color:#0B6623;">CCA Activities</strong></h6>
-<p style="font-size:14.5px; line-height:2;margin-top:15px; font-family:sans-serif;">Our CCA members are given the opportunity to apply their photography and videography knowledge and skills in various platforms. This allows them to explore photojournalism, broadcast journalism and digital journalism. Some of the platforms are:</p>
+<p style="font-size:14.5px; line-height:2;margin-top:0px; font-family:sans-serif;">Our CCA members are given the opportunity to apply their photography and videography knowledge and skills in various platforms. This allows them to explore photojournalism, broadcast journalism and digital journalism. Some of the platforms are:</p>
 
 <ul style="margin-top:-5px">
-	<li style="font-size:14.5px; line-height:1.5 ;margin-top:5px; font-family:sans-serif;"> school events and celebrations</li>
-<li style="font-size:14.5px; line-height:1.5 ;margin-top:5px; font-family:sans-serif;"> student-led CCA activities / projects</li>
+	<li style="font-size:14.5px; line-height:2; font-family:sans-serif;"> school events and celebrations</li>
+<li style="font-size:14.5px; line-height:2;margin-bottom:-5px; font-family:sans-serif;"> student-led CCA activities / projects</li>
 	</ul>
 	
 <div style="display: flex; flex-wrap: wrap; justify-content: space-between; max-width: 800px; margin: 0 auto;" class="image-container">
@@ -134,8 +134,8 @@ third_nav_title: Clubs & Societies
 <p style="font-size:14.5px; line-height:2;margin-top:15px; font-family:sans-serif;">Our CCA also encourages members to take part in the following competitions:</p>
 
 <ul style="margin-top:-5px">
-	<li style="font-size:14.5px; line-height:1.5 ;margin-top:5px; font-family:sans-serif;"> Our School, Our Stories Photo and Video Contest</li>
-<li style="font-size:14.5px; line-height:1.5 ;margin-top:5px; font-family:sans-serif;"> DRUGFREESG Video Competition</li>
+	<li style="font-size:14.5px; line-height:2; font-family:sans-serif;"> Our School, Our Stories Photo and Video Contest</li>
+<li style="font-size:14.5px; line-height:2;margin-bottom:-5px; font-family:sans-serif;"> DRUGFREESG Video Competition</li>
 	</ul>
 
 <h6 style="color:#0B6623;font-family:sans-serif;font-weight:bold;margin-top:30px;"><strong style="font-family:sans-serif;font-size:17px;color:#0B6623;">Student Testament</strong></h6>
@@ -186,17 +186,17 @@ myself."
 <table style="width:100%;border-collapse: collapse;border: none;">
 	<tbody style="border: none;">
 <tr>
-			<td style="font-weight: bold; font-size: 15px; border-bottom: 1px solid #dddddd;width:30%;font-family:sans-serif;letter-spacing:0.2px">Teachers-in-Charge</td>
+			<td style="font-weight: bold; font-size: 14.5px; border-bottom: 1px solid #dddddd;width:30%;font-family:sans-serif;letter-spacing:0.2px">Teachers-in-Charge</td>
 			<td style="font-size: 14.5px; border-bottom: 1px solid #dddddd;font-family:sans-serif;letter-spacing:0.2px">Mdm Rasyidah Binte Ramli, Ms Ari Sutanti Binte Haji Mispan, Miss Koh Ting Suen Jewel, Ms Woo Nan Cam</td>
 		</tr>
 <tr>
-			<td style="font-weight: bold; font-size: 15px; border-bottom: 1px solid #dddddd;width:30%;font-family:sans-serif;letter-spacing:0.2px">CCA Schedule</td>
+			<td style="font-weight: bold; font-size: 14.5px; border-bottom: 1px solid #dddddd;width:30%;font-family:sans-serif;letter-spacing:0.2px">CCA Schedule</td>
 			<td style="font-size: 14.5px; border-bottom: 1px solid #dddddd;font-family:sans-serif;letter-spacing:0.2px">Fridays 2.30pm - 5.30pm
 </td>
 		</tr>
 		
 <tr>
-			<td style="font-weight: bold; font-size: 15px; border-bottom: 1px solid #dddddd;width:30%;font-family:sans-serif;letter-spacing:0.2px">Venues</td>
+			<td style="font-weight: bold; font-size: 14.5px; border-bottom: 1px solid #dddddd;width:30%;font-family:sans-serif;letter-spacing:0.2px">Venues</td>
 			<td style="font-size: 14.5px; border-bottom: 1px solid #dddddd;font-family:sans-serif;letter-spacing:0.2px">Computer Lab 2, Passion A, Studio, Resillience C, Resilience 7</td>
 		</tr>
 		
