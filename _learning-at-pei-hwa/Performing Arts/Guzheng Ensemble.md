@@ -150,6 +150,26 @@ third_nav_title: Performing Arts
 
 <p style="font-size:14.5px; line-height:2 ;margin-top:5px; font-family:sans-serif;" class="description">For more information on the Direct School Admissions to Pei Hwa Secondary School through Guzheng Ensemble, please click <a href="https://www.peihwasec.moe.edu.sg/uniquely-pei-hwa/direct-school-admission/guzheng-dsa/" style="font-size:14.5px; line-height:1.5;font-family:sans-serif;font-weight:bold;text-decoration: none;">here</a>.</p>
 
+<h6 style="color:#0B6623;font-family:sans-serif;font-weight:bold;margin-top:30px;"><strong style="font-family:sans-serif;font-size:17px;color:#0B6623;">Student Testament</strong></h6>
+
+<blockquote style="font-size: 15px;width:100%;margin:50px auto;margin-top:5px;font-family:serif;font-style:italic;color: #555555;padding:1.2em 25px 1.2em 25px;border-left:8px solid #0C6523;line-height:1.6;position: relative;background:#EDEDED;">
+<img align="left" src="https://raw.githubusercontent.com/isomerpages/moe-peihwasec/staging/images/CCA/guzhengtestimonial03.png" style="width: 23%; border-radius: 7%;  margin-right:15px;">
+	"As the Chinese saying goes, one minute of performance onstage is equivalent to ten minutes of hard work offstage. Having been in the Guzheng Ensemble, I’ve acquired countless skills such as perseverance and self-discipline. To further improve on my playing, I had to devote adequate time to practice while managing other responsibilities as a leader in the ensemble. Through my journey as a leader in the Ensemble, I have become much more resilient having to manage when responsibilities get overwhelming and face things with an open mind. All in all, although there were tough moments in my journey, it was the superb culture that got me through. The unwavering support that my peers, teachers and instructors had given motivated me immensely. With that, my time in the guzheng ensemble would always be etched deeply in my mind."
+  <span style="display:block; color:#333333; margin-top:1em;font-size:15px;font-family:sans-serif;"><em style="font-family:sans-serif;">President of the Guzheng Ensemble, Natalie Lau Wen Xin</em></span><br>
+	</blockquote> 
+
+<blockquote style="font-size: 15px;width:100%;margin:50px auto;margin-top:5px;font-family:serif;font-style:italic;color: #555555;padding:1.2em 25px 1.2em 25px;border-left:8px solid #0C6523;line-height:1.6;position: relative;background:#EDEDED;">
+<img align="left" src="https://raw.githubusercontent.com/isomerpages/moe-peihwasec/staging/images/CCA/guzhengtestimonial02.png" style="width: 23%; border-radius: 7%;  margin-right:15px;">
+	"My journey in the Guzheng Ensemble has been extremely enjoyable as my teachers and friends in the CCA have always been supportive. For example, when I had a bad day, they would the ones who cheer me up. They will give me advice and motivate me to do better. I look forward to my CCA practices as my CCA instructor makes every lesson enjoyable and fun to learn. Honing my skills in playing the Guzheng has made me more resilient and also helped me picked up other skills such as using different techniques to memorise a song piece. This for instance has helped me in the retention of information. "
+  <span style="display:block; color:#333333; margin-top:1em;font-size:15px;font-family:sans-serif;"><em style="font-family:sans-serif;">Secondary Two Member, Muhammad Afi Shafy Bin Mohammad Sophiaan</em></span><br><br>
+</blockquote> 
+	
+<blockquote style="font-size: 15px;width:100%;margin:50px auto;margin-top:5px;font-family:serif;font-style:italic;color: #555555;padding:1.2em 25px 1.2em 25px;border-left:8px solid #0C6523;line-height:1.6;position: relative;background:#EDEDED;">
+<img align="left" src="https://raw.githubusercontent.com/isomerpages/moe-peihwasec/staging/images/CCA/guzhengtestimonial01.png" style="width: 23%; border-radius: 7%;  margin-right:15px;">
+	"Before joining the Pei Hwa Guzheng Ensemble, I used to harbor negative stereotypes towards Chinese music. However, my perspectives changed after I joined the Pei Hwa Guzheng Ensemble. The teachers were really caring and supportive in helping us learn the instrument. They understood the difficulty of learning the guzhengs and were always ready to help us improve. Playing the instrument has been very fun for me and I look forward to coming for each CCA session. I look forward to working together with my friends in my CCA to practice and eventually perform a certain song piece. Every CCA session is a rewarding and great experience which cannot be found anywhere else!"
+  <span style="display:block; color:#333333; margin-top:1em;font-size:15px;font-family:sans-serif;"><em style="font-family:sans-serif;">Secondary One member, Octavius Trajan Tan</em></span><br><br>
+	</blockquote>
+
 <h6 style="color:#0B6623;font-family:sans-serif;font-weight:bold;margin-top:30px;"><strong style="font-family:sans-serif;font-size:17px;color:#0B6623;">CCA Details</strong></h6>
 
 <table style="width:100%;border-collapse: collapse;border: none;">
