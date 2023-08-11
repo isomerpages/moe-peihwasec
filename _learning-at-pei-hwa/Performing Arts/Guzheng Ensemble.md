@@ -90,7 +90,7 @@ third_nav_title: Performing Arts
     <p style="text-align: center; font-size:10px;margin-top:-5px;font-family:sans-serif;line-height:1.5;">Guzheng lunchtime concert at the canteen</p>
 	</div>
 
-<div style="width: 100%; margin-bottom: 20px; box-sizing: border-box; text-align: center;" class="image-box">
+<div style="width: 100%; margin-bottom: 20px; box-sizing: border-box;" class="image-box">
 <p style="font-size:14.5px; line-height:2;margin-top:0px; font-family:sans-serif;">The Guzheng Ensemble also performs in a variety of school-based concerts which include:</p>
 	</div>
 <ul style="margin-top:-5px;">
