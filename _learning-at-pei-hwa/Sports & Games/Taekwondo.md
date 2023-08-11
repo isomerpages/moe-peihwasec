@@ -6,16 +6,16 @@ third_nav_title: Sports & Games
 ---
 <img style="width: 100%; height: auto;margin-top:30px;margin-bottom:30px;" alt="Image" src="https://raw.githubusercontent.com/isomerpages/moe-peihwasec/staging/images/CCA/taekwandobanner.png">
 
-<p style="font-size:14.5px; line-height:2 ;margin-top:5px; font-family:sans-serif;" class="description"> The<strong style="font-size:14.5px; line-height:2; font-family:sans-serif;"> Taekwondo</strong> programme in Pei Hwa Secondary School focuses on cultivating individual values such as respect, resilience and self-discipline. Since 2007, our Taekwondo student athletes have participated in many national competitions and have done the school proud by winning individual and team event accolades. Over the years, the CCA has groomed and nurtured many talented members in both Kyorugi (sparring) and Poomsae (Pattern) and has garnered numerous medals yearly.</p>
+<p style="font-size:14.5px; line-height:2 ;margin-top:0px; font-family:sans-serif;" class="description"> The<strong style="font-size:14.5px; line-height:2; font-family:sans-serif;"> Taekwondo</strong> programme in Pei Hwa Secondary School focuses on cultivating individual values such as respect, resilience and self-discipline. Since 2007, our Taekwondo student athletes have participated in many national competitions and have done the school proud by winning individual and team event accolades. Over the years, the CCA has groomed and nurtured many talented members in both Kyorugi (sparring) and Poomsae (Pattern) and has garnered numerous medals yearly.</p>
 
-<p style="font-size:14.5px; line-height:2 ;margin-top:5px; font-family:sans-serif;" class="description">Apart from developing our students to acquire knowledge in Taekwondo, the CCA also aims to develop desirable values such as modesty, perseverance, respect and an indomitable spirit. Hence, in line with its goal of nurturing sport talents who can foster team spirit, we are looking for committed students who demonstrate forte and aptitude in Taekwondo.</p>
+<p style="font-size:14.5px; line-height:2 ;margin-top:0px; font-family:sans-serif;" class="description">Apart from developing our students to acquire knowledge in Taekwondo, the CCA also aims to develop desirable values such as modesty, perseverance, respect and an indomitable spirit. Hence, in line with its goal of nurturing sport talents who can foster team spirit, we are looking for committed students who demonstrate forte and aptitude in Taekwondo.</p>
 
 <p style="font-size:14.5px; line-height:1.5;margin-top:15px; font-family:sans-serif;">The CCA will enable our students to:</p>
 <ul style="margin-top:-5px;">
-	<li style="font-size:14.5px; line-height:1.5;font-family:sans-serif;"> cultivate respectful and rational individuals</li>
-	<li style="font-size:14.5px; line-height:1.5;font-family:sans-serif;"> develop desirable values such as modesty, perseverance and an indomitable spirit</li>
-	<li style="font-size:14.5px; line-height:1.5;font-family:sans-serif;"> acquire knowledge in Taekwondo and experience stage performances</li>
-		<li style="font-size:14.5px; line-height:1.5;font-family:sans-serif;"> deepen understanding of self-discipline and team collaboration</li>
+	<li style="font-size:14.5px; line-height:2;font-family:sans-serif;"> cultivate respectful and rational individuals</li>
+	<li style="font-size:14.5px; line-height:2;font-family:sans-serif;"> develop desirable values such as modesty, perseverance and an indomitable spirit</li>
+	<li style="font-size:14.5px; line-height:2;font-family:sans-serif;"> acquire knowledge in Taekwondo and experience stage performances</li>
+		<li style="font-size:14.5px; line-height:2;font-family:sans-serif;margin-bottom:-5px;"> deepen understanding of self-discipline and team collaboration</li>
 </ul>
 
 <h6 style="color:#0B6623;font-family:sans-serif;font-weight:bold;margin-top:30px;"><strong style="font-family:sans-serif;font-size:17px;color:#0B6623;">Achievements</strong></h6>
@@ -79,14 +79,14 @@ third_nav_title: Sports & Games
 <td><strong style="font-family:sans-serif;font-size:14.5px;">2017</strong></td>
 	<td><strong style="font-family:sans-serif;font-size:15px;">Poomsae (Pattern) event</strong>
 		<ul style="margin-top:-5px"> 
-			<li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;"> 3 Silver</li>
+			<li style="font-size:14.5px;margin-bottom:-5px;font-family:sans-serif;line-height:1.5;"> 3 Silver</li>
 		<li style="font-size:14.5px;margin-bottom:-5px;font-family:sans-serif;line-height:1.5;"> 5 Bronze</li>
 		</ul>
 		<strong style="font-family:sans-serif;font-size:15px;">Kyorugi (Sparring) event Overall Title </strong>
 		<ul style="margin-top:-5px;">
-			<li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;"> 5 Gold Overall 1<sup style="font-family:sans-serif;">st</sup> B Div Girls</li>
-			<li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;"> 6 Silver Overall 2<sup style="font-family:sans-serif;">nd</sup> C Div Girls</li>
-			<li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;"> 8 Bronze Overall 2<sup style="font-family:sans-serif;">nd</sup> B Division Boys</li>
+			<li style="font-size:14.5px;margin-bottom:-5px;font-family:sans-serif;line-height:1.5;"> 5 Gold Overall 1<sup style="font-family:sans-serif;">st</sup> B Div Girls</li>
+			<li style="font-size:14.5px;margin-bottom:-5px;font-family:sans-serif;line-height:1.5;"> 6 Silver Overall 2<sup style="font-family:sans-serif;">nd</sup> C Div Girls</li>
+			<li style="font-size:14.5px;margin-bottom:-5px;font-family:sans-serif;line-height:1.5;"> 8 Bronze Overall 2<sup style="font-family:sans-serif;">nd</sup> B Division Boys</li>
 		</ul>
 	</td>
 </tr>
@@ -96,11 +96,11 @@ third_nav_title: Sports & Games
 
 <h6 style="color:#0B6623;font-family:sans-serif;font-weight:bold;margin-top:30px;"><strong style="font-family:sans-serif;font-size:17px;color:#0B6623;">CCA Activities</strong></h6>
 
-<ul style="margin-top:5px">
-	<li style="font-size:14.5px; line-height:1.5 ;margin-top:5px; font-family:sans-serif;"> Training for students led by the coach</li>
-<li style="font-size:14.5px; line-height:1.5 ;margin-top:5px; font-family:sans-serif;"> National School Games</li>
-<li style="font-size:14.5px; line-height:1.5 ;margin-top:5px; font-family:sans-serif;"> School exchange training with other schools</li>
-	<li style="font-size:14.5px; line-height:1.5 ;margin-top:5px; font-family:sans-serif;"> Bonding activities</li>
+<ul style="margin-top:-5px">
+	<li style="font-size:14.5px; line-height:2; font-family:sans-serif;"> Training for students led by the coach</li>
+<li style="font-size:14.5px; line-height:2; font-family:sans-serif;"> National School Games</li>
+<li style="font-size:14.5px; line-height:2; font-family:sans-serif;"> School exchange training with other schools</li>
+	<li style="font-size:14.5px; line-height:2; margin-bottom:-5px;font-family:sans-serif;"> Bonding activities</li>
 	</ul>
 	
 <h6 style="color:#0B6623;font-family:sans-serif;font-weight:bold;margin-top:30px;"><strong style="font-family:sans-serif;font-size:17px;color:#0B6623;">Student Testament</strong></h6>
@@ -129,17 +129,17 @@ third_nav_title: Sports & Games
 <table style="width:100%;border-collapse: collapse;border: none;">
 	<tbody style="border: none;">
 <tr>
-			<td style="font-weight: bold; font-size: 15px; border-bottom: 1px solid #dddddd;width:30%;font-family:sans-serif;letter-spacing:0.2px">Teachers-in-Charge</td>
+			<td style="font-weight: bold; font-size: 14.5px; border-bottom: 1px solid #dddddd;width:30%;font-family:sans-serif;letter-spacing:0.2px">Teachers-in-Charge</td>
 			<td style="font-size: 14.5px; border-bottom: 1px solid #dddddd;font-family:sans-serif;letter-spacing:0.2px">Mdm Ong Bee Bee, Ms Nur Fateha, Mrs Yeo Kwok Coleen</td>
 		</tr>
 <tr>
-			<td style="font-weight: bold; font-size: 15px; border-bottom: 1px solid #dddddd;width:30%;font-family:sans-serif;letter-spacing:0.2px">CCA Schedule</td>
+			<td style="font-weight: bold; font-size: 14.5px; border-bottom: 1px solid #dddddd;width:30%;font-family:sans-serif;letter-spacing:0.2px">CCA Schedule</td>
 			<td style="font-size: 14.5px; border-bottom: 1px solid #dddddd;font-family:sans-serif;letter-spacing:0.2px">Tuesdays 3.30pm - 6.00pm<br>Fridays 2.30pm - 6.00pm
 </td>
 		</tr>
 		
 <tr>
-			<td style="font-weight: bold; font-size: 15px; border-bottom: 1px solid #dddddd;width:30%;font-family:sans-serif;letter-spacing:0.2px">Venues</td>
+			<td style="font-weight: bold; font-size: 14.5px; border-bottom: 1px solid #dddddd;width:30%;font-family:sans-serif;letter-spacing:0.2px">Venues</td>
 			<td style="font-size: 14.5px; border-bottom: 1px solid #dddddd;font-family:sans-serif;letter-spacing:0.2px">School Canteen</td>
 		</tr>
 		

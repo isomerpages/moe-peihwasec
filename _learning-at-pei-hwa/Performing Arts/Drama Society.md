@@ -6,16 +6,16 @@ third_nav_title: Performing Arts
 ---
 <img style="width: 100%; height: auto;margin-top:30px;margin-bottom:30px;" alt="Image" src="https://raw.githubusercontent.com/isomerpages/moe-peihwasec/staging/images/CCA/dramabanner.png">
 
-<p style="font-size:14.5px; line-height:2 ;margin-top:5px; font-family:sans-serif;" class="description"> The <strong style="font-size:14.5px; line-height:2; font-family:sans-serif;">Drama Society</strong>  was set up in 2014. Many of our members join Drama with little to no acting or stage presentation experience. Through the passion for the drama artistic craft, many of our budding actors have grown to become confident artists with no fear of performing in public or taking on performing roles that are in contrast to their individual personalities. Through their involvements in the many processes involved in staging a show, they have grown in maturity and acting skills. We are also able to include a variety of experiences through various public performances such as participation at The Singapore Youth Festival (SYF), Choral Reading for the lower secondary members at the Literature Festival and attendance at live theatre performances.</p>
+<p style="font-size:14.5px; line-height:2 ;margin-top:0px; font-family:sans-serif;" class="description"> The <strong style="font-size:14.5px; line-height:2; font-family:sans-serif;">Drama Society</strong>  was set up in 2014. Many of our members join Drama with little to no acting or stage presentation experience. Through the passion for the drama artistic craft, many of our budding actors have grown to become confident artists with no fear of performing in public or taking on performing roles that are in contrast to their individual personalities. Through their involvements in the many processes involved in staging a show, they have grown in maturity and acting skills. We are also able to include a variety of experiences through various public performances such as participation at The Singapore Youth Festival (SYF), Choral Reading for the lower secondary members at the Literature Festival and attendance at live theatre performances.</p>
 
-<p style="font-size:14.5px; line-height:1.5;margin-top:15px; font-family:sans-serif;">The CCA will enable our students to:</p>
+<p style="font-size:14.5px; line-height:1.5;margin-top:0px; font-family:sans-serif;">The CCA will enable our students to:</p>
 <ul style="margin-top:-5px;">
-	<li style="font-size:14.5px; line-height:1.5;font-family:sans-serif;"> attain a good level of competency in terms of drama knowledge and skills so as to participate in competitive drama performances</li>
-	<li style="font-size:14.5px; line-height:1.5;font-family:sans-serif;"> explain and apply their knowledge and skills pertaining to drama and performance</li>
-	<li style="font-size:14.5px; line-height:1.5;font-family:sans-serif;"> demonstrate values of discipline, teamwork, innovation and compassion and self-motivation through drama and performance.</li>
+	<li style="font-size:14.5px; line-height:2;font-family:sans-serif;"> attain a good level of competency in terms of drama knowledge and skills so as to participate in competitive drama performances</li>
+	<li style="font-size:14.5px; line-height:2;font-family:sans-serif;"> explain and apply their knowledge and skills pertaining to drama and performance</li>
+	<li style="font-size:14.5px; line-height:2;font-family:sans-serif;margin-bottom:0px;"> demonstrate values of discipline, teamwork, innovation and compassion and self-motivation through drama and performance.</li>
 </ul>
 
-<h3 style="margin-top:10px;font-weight: bold;color:#000000;">Achievements</h3>
+<h6 style="color:#0B6623;font-family:sans-serif;font-weight:bold;margin-top:30px;"><strong style="font-family:sans-serif;font-size:17px;color:#0B6623;">Achievements</strong></h6>
 
 <table style="border-collapse: collapse;margin: 25px 0;margin-top:5px;font-family: sans-serif;box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);width:100%" border="1">
 	
@@ -32,7 +32,7 @@ third_nav_title: Performing Arts
 	<td>
 		<strong style="font-family:sans-serif;font-size:15px;">SYF Arts Presentation for Drama </strong>
 		<ul style="margin-top:-5px">
-			<li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">Certificate of Accomplishment</li>
+			<li style="font-size:14.5px;margin-bottom:-5px;font-family:sans-serif;line-height:1.5;">Certificate of Accomplishment</li>
 		</ul>
 	</td>
 </tr>
@@ -42,7 +42,7 @@ third_nav_title: Performing Arts
 		<td>
 		<strong style="font-family:sans-serif;font-size:15px;">SYF Arts Presentation for Drama</strong>
 		<ul style="margin-top:-5px">
-			<li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">Certificate of Commendation</li>
+			<li style="font-size:14.5px;margin-bottom:-5px;font-family:sans-serif;line-height:1.5;">Certificate of Commendation</li>
 		</ul>
 	</td>
 </tr>
@@ -50,9 +50,9 @@ third_nav_title: Performing Arts
 <tr>
 <td><strong style="font-family:sans-serif;font-size:14.5px;">2019</strong></td>
 		<td>
-		<strong style="font-family:sans-serif;font-size:15px;">SYF Arts Presentation for Drama  </strong>
+		<strong style="font-family:sans-serif;font-size:15px;">SYF Arts Presentation for Drama </strong>
 		<ul style="margin-top:-5px">
-			<li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">Certificate of Accomplishment</li>
+			<li style="font-size:14.5px;margin-bottom:-5px;font-family:sans-serif;line-height:1.5;">Certificate of Accomplishment</li>
 		</ul>
 	</td>
 </tr>
@@ -62,7 +62,7 @@ third_nav_title: Performing Arts
 		<td>
 		<strong style="font-family:sans-serif;font-size:15px;">SYF Arts Presentation for Drama </strong>
 		<ul style="margin-top:-5px">
-			<li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">Certificate of Accomplishment</li>
+			<li style="font-size:14.5px;margin-bottom:-5px;font-family:sans-serif;line-height:1.5;">Certificate of Accomplishment</li>
 		</ul>
 	</td>
 </tr>
@@ -72,7 +72,7 @@ third_nav_title: Performing Arts
 		<td>
 		<strong style="font-family:sans-serif;font-size:15px;">SYF Arts Presentation for Drama</strong>
 		<ul style="margin-top:-5px">
-			<li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">Certificate of Accomplishment</li>
+			<li style="font-size:14.5px;margin-bottom:-5px;font-family:sans-serif;line-height:1.5;">Certificate of Accomplishment</li>
 		</ul>
 	</td>
 </tr>
@@ -80,16 +80,16 @@ third_nav_title: Performing Arts
 </tbody>
 </table>
 
-<h3 style="margin-top:10px;font-weight: bold;color:#000000">CCA Activities</h3>
+<h6 style="color:#0B6623;font-family:sans-serif;font-weight:bold;margin-top:30px;"><strong style="font-family:sans-serif;font-size:17px;color:#0B6623;">CCA Activities</strong></h6>
 
-<ul style="margin-top:5px">
-	<li style="font-size:14.5px; line-height:1.5 ;margin-top:5px; font-family:sans-serif;"> Training for students to express themselves through acting, music, body movements and use of voice</li>
-<li style="font-size:14.5px; line-height:1.5 ;margin-top:5px; font-family:sans-serif;"> Training in managing the stage, lights, sound, costumes, props and set</li>
-<li style="font-size:14.5px; line-height:1.5 ;margin-top:5px; font-family:sans-serif;"> Participate in school and public performances and competitions</li>
-	<li style="font-size:14.5px; line-height:1.5 ;margin-top:5px; font-family:sans-serif;">Participate in school camps</li>
+<ul style="margin-top:-5px">
+	<li style="font-size:14.5px; line-height:2; font-family:sans-serif;"> Training for students to express themselves through acting, music, body movements and use of voice</li>
+<li style="font-size:14.5px; line-height:2;font-family:sans-serif;"> Training in managing the stage, lights, sound, costumes, props and set</li>
+<li style="font-size:14.5px; line-height:2; font-family:sans-serif;"> Participate in school and public performances and competitions</li>
+	<li style="font-size:14.5px; line-height:2; font-family:sans-serif;">Participate in school camps</li>
 	</ul>
 	
-<h3 style="margin-top:10px;font-weight: bold;color:#000000">Student Testament</h3>
+<h6 style="color:#0B6623;font-family:sans-serif;font-weight:bold;margin-top:30px;"><strong style="font-family:sans-serif;font-size:17px;color:#0B6623;">Student Testament</strong></h6>
 
 <blockquote style="font-size: 15px;width:100%;margin:50px auto;margin-top:5px;font-family:serif;font-style:italic;color: #555555;padding:1.2em 25px 1.2em 25px;border-left:8px solid #0C6523;line-height:1.6;position: relative;background:#EDEDED;">
 <img align="left" src="https://raw.githubusercontent.com/isomerpages/moe-peihwasec/staging/images/CCA/dramatestimonial02.png" style="width: 23%; border-radius: 7%;  margin-right:15px;">
@@ -110,22 +110,22 @@ third_nav_title: Performing Arts
   <span style="display:block; color:#333333; margin-top:1em;font-size:15px;font-family:sans-serif;"><em style="font-family:sans-serif;">Secondary One representative, Chang Thu Dinh</em></span><br><br><br>
 	</blockquote> 
 	
-<h3 style="margin-top:10px;font-weight: bold;color:#000000">CCA Details</h3>
+<h6 style="color:#0B6623;font-family:sans-serif;font-weight:bold;margin-top:30px;"><strong style="font-family:sans-serif;font-size:17px;color:#0B6623;">CCA Details</strong></h6>
 
 <table style="width:100%;border-collapse: collapse;border: none;">
 	<tbody style="border: none;">
 <tr>
-			<td style="font-weight: bold; font-size: 15px; border-bottom: 1px solid #dddddd;width:30%;font-family:sans-serif;letter-spacing:0.2px">Teachers-in-Charge</td>
+			<td style="font-weight: bold; font-size: 14.5px; border-bottom: 1px solid #dddddd;width:30%;font-family:sans-serif;letter-spacing:0.2px">Teachers-in-Charge</td>
 			<td style="font-size: 14.5px; border-bottom: 1px solid #dddddd;font-family:sans-serif;letter-spacing:0.2px">Mdm Afizah Shaik Abdul Rahim, Ms Jaime Toh Guek Peng, Miss Udhaya Chandhini</td>
 		</tr>
 <tr>
-			<td style="font-weight: bold; font-size: 15px; border-bottom: 1px solid #dddddd;width:30%;font-family:sans-serif;letter-spacing:0.2px">CCA Schedule</td>
+			<td style="font-weight: bold; font-size: 14.5px; border-bottom: 1px solid #dddddd;width:30%;font-family:sans-serif;letter-spacing:0.2px">CCA Schedule</td>
 			<td style="font-size: 14.5px; border-bottom: 1px solid #dddddd;font-family:sans-serif;letter-spacing:0.2px">Friday 2.30pm - 6.00pm
 </td>
 		</tr>
 		
 <tr>
-			<td style="font-weight: bold; font-size: 15px; border-bottom: 1px solid #dddddd;width:30%;font-family:sans-serif;letter-spacing:0.2px">Venues</td>
+			<td style="font-weight: bold; font-size: 14.5px; border-bottom: 1px solid #dddddd;width:30%;font-family:sans-serif;letter-spacing:0.2px">Venues</td>
 			<td style="font-size: 14.5px; border-bottom: 1px solid #dddddd;font-family:sans-serif;letter-spacing:0.2px">Library
 </td>
 		</tr>

@@ -6,9 +6,9 @@ third_nav_title: Sports & Games
 ---
 <img style="width: 100%; height: auto;margin-top:30px;margin-bottom:30px;" alt="Image" src="https://raw.githubusercontent.com/isomerpages/moe-peihwasec/staging/images/CCA/tabletennisbanner.png">
 
-<p style="font-size:14.5px; line-height:2 ;margin-top:5px; font-family:sans-serif;" class="description"> The<strong style="font-size:14.5px; line-height:2; font-family:sans-serif;"> Pei Hwa Table Tennis</strong>   team started with its humble beginnings. Our team has become one of the most popular CCAs in the school, with a steady membership base that keeps growing. Our training sessions focus on developing technical and tactical skills, mental strength, self-discipline, leadership, and sportsmanship. The CCA provides opportunities for students to participate in zonal competitions, ad-hoc tournaments and inter-school friendly competitions. Students also bond through planning and participating in training camps and recreational activities.</p>
+<p style="font-size:14.5px; line-height:2 ;margin-top:0px; font-family:sans-serif;" class="description"> The<strong style="font-size:14.5px; line-height:2; font-family:sans-serif;"> Pei Hwa Table Tennis</strong>   team started with its humble beginnings. Our team has become one of the most popular CCAs in the school, with a steady membership base that keeps growing. Our training sessions focus on developing technical and tactical skills, mental strength, self-discipline, leadership, and sportsmanship. The CCA provides opportunities for students to participate in zonal competitions, ad-hoc tournaments and inter-school friendly competitions. Students also bond through planning and participating in training camps and recreational activities.</p>
 
-<p style="font-size:14.5px; line-height:2 ;margin-top:5px; font-family:sans-serif;" class="description">At Pei Hwa Table Tennis team, we aim to enable our students to learn and apply technical and tactical skills in Table Tennis, develop team spirit and a resilient mental attitude, exhibit true sportsmanship, demonstrate good character, and cultivate a vibrant sports culture in school. We follow the Pei Hwa PRIDE values (Passion to Learn, Resilience in Adversity, Integrity in Deeds, Dare to Innovate, Excellence Together) to guide us in our journey towards excellence.</p>
+<p style="font-size:14.5px; line-height:2 ;margin-top:0px; font-family:sans-serif;" class="description">At Pei Hwa Table Tennis team, we aim to enable our students to learn and apply technical and tactical skills in Table Tennis, develop team spirit and a resilient mental attitude, exhibit true sportsmanship, demonstrate good character, and cultivate a vibrant sports culture in school. We follow the Pei Hwa PRIDE values (Passion to Learn, Resilience in Adversity, Integrity in Deeds, Dare to Innovate, Excellence Together) to guide us in our journey towards excellence.</p>
 
 <h6 style="color:#0B6623;font-family:sans-serif;font-weight:bold;margin-top:30px;"><strong style="font-family:sans-serif;font-size:17px;color:#0B6623;">Achievements</strong></h6>
 
@@ -28,8 +28,8 @@ third_nav_title: Sports & Games
 	<td>
 	<strong style="font-family:sans-serif;font-size:15px;">National School Games</strong>
 		<ul style="margin-top:-5px">
-			<li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">B &amp; C Division Boys – Participation</li>
-			<li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">B &amp; C Division Girls – Participation </li>
+			<li style="font-size:14.5px;margin-bottom:-5px;font-family:sans-serif;line-height:1.5;">B &amp; C Division Boys – Participation</li>
+			<li style="font-size:14.5px;margin-bottom:-5px;font-family:sans-serif;line-height:1.5;">B &amp; C Division Girls – Participation </li>
 		</ul>
 	</td>
 </tr>
@@ -39,14 +39,14 @@ third_nav_title: Sports & Games
 	<td>
 		<strong style="font-family:sans-serif;font-size:15px;">National School Games</strong>
 		<ul style="margin-top:-5px">
-			<li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">B &amp; C Division Boys – Participation</li>
+			<li style="font-size:14.5px;margin-bottom:-5px;font-family:sans-serif;line-height:1.5;">B &amp; C Division Boys – Participation</li>
 			<li style="font-size:14.5px;margin-bottom:-5px;font-family:sans-serif;line-height:1.5;">B &amp; C Division Girls – Participation </li>
 		</ul>
 				<strong style="font-family:sans-serif;font-size:15px;">NBSS Pyramid of Success Competition</strong>
 		<ul style="margin-top:-5px">
-			<li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">B Boys – 4<sup style="font-family:sans-serif;">th</sup> Place</li>
-			<li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">B &amp; C Girls  – 4<sup style="font-family:sans-serif;">th</sup> Place</li>
-			<li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">C Boys – Participation </li>
+			<li style="font-size:14.5px;margin-bottom:-5px;font-family:sans-serif;line-height:1.5;">B Boys – 4<sup style="font-family:sans-serif;">th</sup> Place</li>
+			<li style="font-size:14.5px;margin-bottom:-5px;font-family:sans-serif;line-height:1.5;">B &amp; C Girls  – 4<sup style="font-family:sans-serif;">th</sup> Place</li>
+			<li style="font-size:14.5px;margin-bottom:-5px;font-family:sans-serif;line-height:1.5;">C Boys – Participation </li>
 		</ul>
 	</td>
 </tr>
@@ -57,10 +57,10 @@ third_nav_title: Sports & Games
 <h6 style="color:#0B6623;font-family:sans-serif;font-weight:bold;margin-top:30px;"><strong style="font-family:sans-serif;font-size:17px;color:#0B6623;">CCA Activities</strong></h6>
 
 <ul style="margin-top:5px">
-	<li style="font-size:14.5px; line-height:1.5 ;margin-top:5px; font-family:sans-serif;"> National School Games, zonal competitions, external ad-hoc competitions, inter-school friendly competitions.</li>
-<li style="font-size:14.5px; line-height:1.5 ;margin-top:5px; font-family:sans-serif;"> Training camps</li>
-<li style="font-size:14.5px; line-height:1.5 ;margin-top:5px; font-family:sans-serif;"> Bonding activities</li>
-	<li style="font-size:14.5px; line-height:1.5 ;margin-top:5px; font-family:sans-serif;"> Technical and tactical training sessions</li>
+	<li style="font-size:14.5px; line-height:2; font-family:sans-serif;"> National School Games, zonal competitions, external ad-hoc competitions, inter-school friendly competitions.</li>
+<li style="font-size:14.5px; line-height:2; font-family:sans-serif;"> Training camps</li>
+<li style="font-size:14.5px; line-height:2; font-family:sans-serif;"> Bonding activities</li>
+	<li style="font-size:14.5px; line-height:2; font-family:sans-serif;margin-bottom:-5px;"> Technical and tactical training sessions</li>
 	</ul>
 	
 <h6 style="color:#0B6623;font-family:sans-serif;font-weight:bold;margin-top:30px;"><strong style="font-family:sans-serif;font-size:17px;color:#0B6623;">Student Testament</strong></h6>
@@ -91,17 +91,17 @@ third_nav_title: Sports & Games
 <table style="width:100%;border-collapse: collapse;border: none;">
 	<tbody style="border: none;">
 <tr>
-			<td style="font-weight: bold; font-size: 15px; border-bottom: 1px solid #dddddd;width:30%;font-family:sans-serif;letter-spacing:0.2px">Teachers-in-Charge</td>
+			<td style="font-weight: bold; font-size: 14.5px; border-bottom: 1px solid #dddddd;width:30%;font-family:sans-serif;letter-spacing:0.2px">Teachers-in-Charge</td>
 			<td style="font-size: 14.5px; border-bottom: 1px solid #dddddd;font-family:sans-serif;letter-spacing:0.2px">Mr Emmanuel Lim, Mrs Erin Wong, Mr Teo Eng How, Ms Wong Ser Ching</td>
 		</tr>
 <tr>
-			<td style="font-weight: bold; font-size: 15px; border-bottom: 1px solid #dddddd;width:30%;font-family:sans-serif;letter-spacing:0.2px">CCA Schedule</td>
+			<td style="font-weight: bold; font-size: 14.5px; border-bottom: 1px solid #dddddd;width:30%;font-family:sans-serif;letter-spacing:0.2px">CCA Schedule</td>
 			<td style="font-size: 14.5px; border-bottom: 1px solid #dddddd;font-family:sans-serif;letter-spacing:0.2px">Tuesdays 3.30pm - 6.00pm<br>Fridays 2.30pm - 6.00pm
 </td>
 		</tr>
 		
 <tr>
-			<td style="font-weight: bold; font-size: 15px; border-bottom: 1px solid #dddddd;width:30%;font-family:sans-serif;letter-spacing:0.2px">Venues</td>
+			<td style="font-weight: bold; font-size: 14.5px; border-bottom: 1px solid #dddddd;width:30%;font-family:sans-serif;letter-spacing:0.2px">Venues</td>
 			<td style="font-size: 14.5px; border-bottom: 1px solid #dddddd;font-family:sans-serif;letter-spacing:0.2px">School Hall</td>
 		</tr>
 		

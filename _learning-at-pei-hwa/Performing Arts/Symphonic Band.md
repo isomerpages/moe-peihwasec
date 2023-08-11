@@ -6,13 +6,13 @@ third_nav_title: Performing Arts
 ---
 <img style="width: 100%; height: auto;margin-top:30px;margin-bottom:30px;" alt="Image" src="https://raw.githubusercontent.com/isomerpages/moe-peihwasec/staging/images/CCA/symphonicbandbanner.png">
 
-<p style="font-size:14.5px; line-height:2 ;margin-top:5px; font-family:sans-serif;" class="description">At <strong style="font-size:14.5px; line-height:2; font-family:sans-serif;">Pei Hwa Symphonic Band</strong>, we take great pride in our rigorous training programme which is designed to nurture the talents of our students and inspire them to achieve their potential. We firmly believe that discipline and perseverance are essential qualities for success, and we strive to instill these values in our students as they pursue their passion for music.</p>
+<p style="font-size:14.5px; line-height:2 ;margin-top:0px; font-family:sans-serif;" class="description">At <strong style="font-size:14.5px; line-height:2; font-family:sans-serif;">Pei Hwa Symphonic Band</strong>, we take great pride in our rigorous training programme which is designed to nurture the talents of our students and inspire them to achieve their potential. We firmly believe that discipline and perseverance are essential qualities for success, and we strive to instill these values in our students as they pursue their passion for music.</p>
 
-<p style="font-size:14.5px; line-height:2 ;margin-top:5px; font-family:sans-serif;" class="description">Our band is dedicated to improving the aural skills, musical literacy, and instrumental proficiency of our members, enabling them to perform with excellent intonation and a genuine love for music that brings joy and fulfillment. We welcome students from all backgrounds and believe that every member has the potential to develop a lifelong passion for music.</p>
+<p style="font-size:14.5px; line-height:2 ;margin-top:0px; font-family:sans-serif;" class="description">Our band is dedicated to improving the aural skills, musical literacy, and instrumental proficiency of our members, enabling them to perform with excellent intonation and a genuine love for music that brings joy and fulfillment. We welcome students from all backgrounds and believe that every member has the potential to develop a lifelong passion for music.</p>
 
-<p style="font-size:14.5px; line-height:2 ;margin-top:5px; font-family:sans-serif;" class="description">Every year is a fresh start for us, filled with exciting opportunities to showcase our musical talents through school and public performances. At Pei Hwa Symphonic Band, we are proud to say that we are one big family, united by our shared love for music.</p>
+<p style="font-size:14.5px; line-height:2 ;margin-top:0px; font-family:sans-serif;" class="description">Every year is a fresh start for us, filled with exciting opportunities to showcase our musical talents through school and public performances. At Pei Hwa Symphonic Band, we are proud to say that we are one big family, united by our shared love for music.</p>
 
-<h4 style="color:#635f1a;font-weight:bold;font-family:sans-serif;">Achievements</h4>
+<h6 style="color:#0B6623;font-family:sans-serif;font-weight:bold;margin-top:30px;"><strong style="font-family:sans-serif;font-size:17px;color:#0B6623;">Achievements</strong></h6>
 	
 <table style="border-collapse: collapse;margin: 25px 0;margin-top:5px;font-family: sans-serif;box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);width:100%" border="1">
 	
@@ -29,7 +29,7 @@ third_nav_title: Performing Arts
 				<td style="margin-bottom:5px;">
 					<strong style="font-family:sans-serif;font-size:15px;">SYF Arts Presentation for Bands (Flexible Band)</strong>
 					<ul style="margin-top:-5px">
-						<li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">Certificate of Accomplishment</li>
+						<li style="font-size:14.5px;margin-bottom:-5px;font-family:sans-serif;line-height:1.5;">Certificate of Accomplishment</li>
 					</ul>
 				</td>
 </tr>
@@ -39,7 +39,7 @@ third_nav_title: Performing Arts
 				<td>
 					<strong style="font-family:sans-serif;font-size:15px;">SYF Arts Presentation for Concert Band </strong>
 					<ul style="margin-top:-5px">
-						<li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">Certificate of Accomplishment</li>
+						<li style="font-size:14.5px;margin-bottom:-5px;font-family:sans-serif;line-height:1.5;">Certificate of Accomplishment</li>
 					</ul>
 				</td>
 </tr>
@@ -50,7 +50,7 @@ third_nav_title: Performing Arts
 				<strong style="font-family:sans-serif;font-size:15px;">
 SYF Arts Presentation for Concert Band </strong>
 					<ul style="margin-top:-5px">
-						<li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">Certificate of Accomplishment</li>
+						<li style="font-size:14.5px;margin-bottom:-5px;font-family:sans-serif;line-height:1.5;">Certificate of Accomplishment</li>
 					</ul>
 				</td>
 </tr>
@@ -59,7 +59,7 @@ SYF Arts Presentation for Concert Band </strong>
 				<td>
 					<strong style="font-family:sans-serif;font-size:15px;">SYF Arts Presentation for Concert Band </strong>
 					<ul style="margin-top:-5px">
-						<li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">Certificate of Accomplishment</li>
+						<li style="font-size:14.5px;margin-bottom:-5px;font-family:sans-serif;line-height:1.5;">Certificate of Accomplishment</li>
 					</ul>
 				</td>
 </tr>
@@ -68,27 +68,27 @@ SYF Arts Presentation for Concert Band </strong>
 				<td style="margin-bottom:5px;">
 					<strong style="font-family:sans-serif;font-size:15px;">SYF Arts Presentation for Concert Band </strong>
 					<ul style="margin-top:-5px">
-						<li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:1.5;">Certificate of Distinction</li>
+						<li style="font-size:14.5px;margin-bottom:-5px;font-family:sans-serif;line-height:1.5;">Certificate of Distinction</li>
 					</ul>
 				</td>
 </tr>									
 </tbody>
 </table>
 
-<h3 style="margin-top:10px;font-weight: bold;color:#000000">CCA Activities</h3>
+<h6 style="color:#0B6623;font-family:sans-serif;font-weight:bold;margin-top:30px;"><strong style="font-family:sans-serif;font-size:17px;color:#0B6623;">CCA Activities</strong></h6>
 
 <ul style="margin-top:5px">
-	<li style="font-size:14.5px; line-height:1.5 ;margin-top:5px; font-family:sans-serif;"> Training for students to play musical instruments led by instructors and tutors
+	<li style="font-size:14.5px; line-height:2; font-family:sans-serif;"> Training for students to play musical instruments led by instructors and tutors
 </li>
-<li style="font-size:14.5px; line-height:1.5 ;margin-top:5px; font-family:sans-serif;"> School and public performances/competitions
+<li style="font-size:14.5px; line-height:2; font-family:sans-serif;"> School and public performances/competitions
 </li>
-<li style="font-size:14.5px; line-height:1.5 ;margin-top:5px; font-family:sans-serif;"> School exchanges 
+<li style="font-size:14.5px; line-height:2; font-family:sans-serif;"> School exchanges 
 </li>
-	<li style="font-size:14.5px; line-height:1.5 ;margin-top:5px; font-family:sans-serif;"> School Camps
+	<li style="font-size:14.5px; line-height:2; font-family:sans-serif;margin-bottom:-5px;"> School Camps
 </li>
 	</ul>
 
-<h3 style="margin-top:10px;font-weight: bold;color:#000000">Student Testament</h3>
+<h6 style="color:#0B6623;font-family:sans-serif;font-weight:bold;margin-top:30px;"><strong style="font-family:sans-serif;font-size:17px;color:#0B6623;">Student Testament</strong></h6>
 
 <blockquote style="font-size: 15px;width:100%;margin:50px auto;margin-top:5px;font-family:serif;font-style:italic;color: #555555;padding:1.2em 25px 1.2em 25px;border-left:8px solid #0C6523;line-height:1.6;position: relative;background:#EDEDED;">
 <img align="left" src="https://raw.githubusercontent.com/isomerpages/moe-peihwasec/staging/images/CCA/bandtestimonial05.png" style="width: 23%; border-radius: 7%;  margin-right:15px;">
@@ -109,23 +109,23 @@ Quinton Soo Tian Le</em></span><br><br>
   <span style="display:block; color:#333333; margin-top:1em;font-size:15px;font-family:sans-serif;"><em style="font-family:sans-serif;">Band major of Music, Dyclan</em></span><br><br><br>
 	</blockquote> 
 
-<h3 style="margin-top:10px;font-weight: bold;color:#000000">CCA Details</h3>
+<h6 style="color:#0B6623;font-family:sans-serif;font-weight:bold;margin-top:30px;"><strong style="font-family:sans-serif;font-size:17px;color:#0B6623;">CCA Details</strong></h6>
 
 <table style="width:100%;border-collapse: collapse;border: none;">
 	<tbody style="border: none;">
 <tr>
-			<td style="font-weight: bold; font-size: 15px; border-bottom: 1px solid #dddddd;width:30%;font-family:sans-serif;letter-spacing:0.2px">Teachers-in-Charge</td>
+			<td style="font-weight: bold; font-size: 14.5px; border-bottom: 1px solid #dddddd;width:30%;font-family:sans-serif;letter-spacing:0.2px">Teachers-in-Charge</td>
 			<td style="font-size: 14.5px; border-bottom: 1px solid #dddddd;font-family:sans-serif;letter-spacing:0.2px">Ms Wong Li Qing, Ms Chan Yen Lin Charlotte, Ms Rachel Lim, Mrs Hannah Zulaihah Gwynne</td>
 		</tr>
 <tr>
-			<td style="font-weight: bold; font-size: 15px; border-bottom: 1px solid #dddddd;width:30%;font-family:sans-serif;letter-spacing:0.2px">CCA Schedule</td>
+			<td style="font-weight: bold; font-size: 14.5px; border-bottom: 1px solid #dddddd;width:30%;font-family:sans-serif;letter-spacing:0.2px">CCA Schedule</td>
 			<td style="font-size: 14.5px; border-bottom: 1px solid #dddddd;font-family:sans-serif;letter-spacing:0.2px">Tuesdays 3.30pm – 6.00pm<br>
 Fridays 2.30pm – 6.00pm
 </td>
 		</tr>
 		
 <tr>
-			<td style="font-weight: bold; font-size: 15px; border-bottom: 1px solid #dddddd;width:30%;font-family:sans-serif;letter-spacing:0.2px">Venues</td>
+			<td style="font-weight: bold; font-size: 14.5px; border-bottom: 1px solid #dddddd;width:30%;font-family:sans-serif;letter-spacing:0.2px">Venues</td>
 			<td style="font-size: 14.5px; border-bottom: 1px solid #dddddd;font-family:sans-serif;letter-spacing:0.2px">Music Room and Dance Studio
 </td>
 		</tr>

@@ -7,19 +7,19 @@ description: ""
 
 <h6 style="color:#0B6623;font-family:sans-serif;font-weight:bold;margin-top:30px;"><strong style="font-family:sans-serif;font-size:17px;color:#0B6623;">The Counselling Process</strong></h6>
 
-<p style="font-size:14.5px; line-height:2;margin-top:15px; font-family:sans-serif">Counselling is an interaction with a trained professional, and the purpose is to help you develop a better understanding of yourself and gain insight into issues you might be facing. In the process, you are encouraged to express your thoughts and feelings so that the counsellor can help you discover your strengths and weaknesses, and explore with you on solutions to your problems. You will then be able to make better decisions.</p>
+<p style="font-size:14.5px; line-height:2;margin-top:0px; font-family:sans-serif">Counselling is an interaction with a trained professional, and the purpose is to help you develop a better understanding of yourself and gain insight into issues you might be facing. In the process, you are encouraged to express your thoughts and feelings so that the counsellor can help you discover your strengths and weaknesses, and explore with you on solutions to your problems. You will then be able to make better decisions.</p>
 
-<p style="margin-top:15px;font-size:14.5px; line-height:2;font-family:sans-serif;">The counsellor is bound by professional ethics to main confidentiality of matters discussed during counselling sessions.</p>
+<p style="margin-top:0px;font-size:14.5px; line-height:2;font-family:sans-serif;">The counsellor is bound by professional ethics to main confidentiality of matters discussed during counselling sessions.</p>
 
 <h6 style="color:#0B6623;font-family:sans-serif;font-weight:bold;margin-top:30px;"><strong style="font-family:sans-serif;font-size:17px;color:#0B6623;">The Referral Process</strong></h6>
-<p style="font-size:14.5px; line-height:2;margin-top:15px; font-family:sans-serif">Referral for counselling is usually made by Form-Teachers and Subject Teachers. Parents can request for counselling services for their child through their Form-Teachers. Student can also initiate the counselling themselves.</p>
+<p style="font-size:14.5px; line-height:2;margin-top:0px; font-family:sans-serif">Referral for counselling is usually made by Form-Teachers and Subject Teachers. Parents can request for counselling services for their child through their Form-Teachers. Student can also initiate the counselling themselves.</p>
 
 <h6 style="color:#0B6623;font-family:sans-serif;font-weight:bold;margin-top:30px;"><strong style="font-family:sans-serif;font-size:17px;color:#0B6623;">The Place</strong></h6>
 
-<p style="font-size:14.5px; line-height:2;margin-top:15px; font-family:sans-serif">Our Counselling Corner&nbsp;<em style="font-family:sans-serif;"><strong style="font-family:sans-serif;">Ting@ Pei Hwa</strong></em>&nbsp;is located on Block D, 3rd Floor (above the gym and PE room). We are open from 8am to 3pm on school days.</p>
+<p style="font-size:14.5px; line-height:2;margin-top:0px; font-family:sans-serif">Our Counselling Corner&nbsp;<em style="font-family:sans-serif;"><strong style="font-family:sans-serif;">Ting@ Pei Hwa</strong></em>&nbsp;is located on Block D, 3rd Floor (above the gym and PE room). We are open from 8am to 3pm on school days.</p>
 
 <h6 style="color:#0B6623;font-family:sans-serif;font-weight:bold;margin-top:30px;"><strong style="font-family:sans-serif;font-size:17px;color:#0B6623;">The People</strong></h6>
-<ul style="margin-top:5px">
+<ul style="margin-top:-5px">
 <li style="font-size:14.5px; line-height:2;font-family:sans-serif;">Ms Mandy Lee | School Counsellor | 65009580 ext 225</li>
 <li style="font-size:14.5px; line-height:2;font-family:sans-serif;">Mr Vernon Koh | School Counsellor | 65009580 ext 225</li>
 	</ul>
