@@ -14,9 +14,9 @@ sections:
           url: /lp-announcement/home-based-learning/
         - title: Pride of the Community
           description: We take PRIDE in our values
-          url: /programmes/student-leadership/
+          url: https://www.peihwasec.moe.edu.sg/learning-at-pei-hwa/student-leadership/
         - title: Innovation and Talent Development
           description: An innovative environment
-          url: /innovation-talent-development-programme/
+          url: https://www.peihwasec.moe.edu.sg/uniquely-pei-hwa/innovative-changemakers-programme/
   - resources: {}
 ---
