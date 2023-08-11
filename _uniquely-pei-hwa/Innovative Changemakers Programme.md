@@ -77,5 +77,5 @@ opportunity to share their innovative solutions at the Young Innovators’ Fair.
 	<li style="font-size:14.5px; line-height:1.5;font-family:sans-serif;">Young Innovators’ Fair</li>
 	<li style="font-size:14.5px; line-height:1.5;font-family:sans-serif;">Maker Extravaganza</li>
 	<li style="font-size:14.5px; line-height:1.5;font-family:sans-serif;">Edutech Asia</li>
-	<li style="font-size:14.5px; line-height:1.5;font-family:sans-serif;">Edutech Asia</li>
+	<li style="font-size:14.5px; line-height:1.5;font-family:sans-serif;">Tan Kah Kee Young Inventors' Award</li>
 </ul>
