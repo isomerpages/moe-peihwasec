@@ -9,7 +9,7 @@ sections:
   - hero:
       background: /images/IMG_3545_photo-full-3 (1)-min.jpg
       key_highlights:
-        - title: "Direct School Admission "
+        - title: Direct School Admission
           description: Click to find out more
           url: /lp-announcement/home-based-learning/
         - title: Pride of the Community
