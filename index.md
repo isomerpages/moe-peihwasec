@@ -9,14 +9,41 @@ sections:
   - hero:
       background: /images/IMG_3545_photo-full-3 (1)-min.jpg
       key_highlights:
-        - title: Home-Based Learning
-          description: Home-Based Learning Page
-          url: /lp-announcement/home-based-learning/
-        - title: Pride of the Community
-          description: We take PRIDE in our values
-          url: https://www.peihwasec.moe.edu.sg/learning-at-pei-hwa/student-leadership/
-        - title: Innovation and Talent Development
-          description: An innovative environment
-          url: https://www.peihwasec.moe.edu.sg/uniquely-pei-hwa/innovative-changemakers-programme/
-  - resources: {}
+        - title: Direct School Admission
+          description: Click to find out more
+          url: /uniquely-pei-hwa/direct-school-admission-dsa/
+        - title: Future-Ready Learners, Forward-Looking Leaders
+          description: We take Pride in our Values
+          url: /we-are-pei-hwa/our-vision-mission-and-values/
+        - title: Future Leader Programme
+          description: Challenges of Tomorrow
+          url: /uniquely-pei-hwa/future-leader-programme/
+  - infopic:
+      title: Announcement
+      button: More
+      alt: Image alt text
+      url: https://www.peihwasec.moe.edu.sg/pdf/
+      image: /images/Homepage/announcement banner.png
+  - infopic:
+      title: Applied Learning Programme
+      description: Robotics and Programming
+      button: More
+      url: /uniquely-pei-hwa/applied-learning-programme-robotics-and-programming/
+      image: /images/Homepage/(2) applied learning programme – robotics and
+        programming.png
+      alt: Image alt text
+  - infopic:
+      title: Learning for Life Programme
+      description: Community Youth Leadership
+      button: More
+      url: /uniquely-pei-hwa/applied-learning-programme-robotics-and-programming/
+      image: /images/Homepage/(3) learning for life programme – community youth
+        leadership.png
+      alt: Image alt text
+  - infopic:
+      title: Pei Hwa Talent Academy
+      button: More
+      url: /uniquely-pei-hwa/pei-hwa-talent-academy/
+      image: /images/Homepage/(4) pei hwa talent academy .png
+      alt: Image alt text
 ---
