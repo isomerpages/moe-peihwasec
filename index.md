@@ -11,18 +11,19 @@ sections:
       key_highlights:
         - title: Direct School Admission
           description: Click to find out more
-          url: /lp-announcement/home-based-learning/
-        - title: Pride of the Community
-          description: We take PRIDE in our values
-          url: https://www.peihwasec.moe.edu.sg/learning-at-pei-hwa/student-leadership/
-        - title: Innovation and Talent Development
-          description: An innovative environment
-          url: https://www.peihwasec.moe.edu.sg/uniquely-pei-hwa/innovative-changemakers-programme/
+          url: /uniquely-pei-hwa/direct-school-admission-dsa/
+        - title: Future-Ready Learners, Forward-Looking Leaders
+          description: "We take Pride in our Values "
+          url: /we-are-pei-hwa/our-vision-mission-and-values/
+        - title: Future Leader Programme
+          description: Challenges of Tomorrow
+          url: /uniquely-pei-hwa/future-leader-programme/
   - resources: {}
   - infopic:
-      title: Infopic Title
-      subtitle: Infopic Subtitle
-      description: Infopic description
-      button: Button Text
+      title: Announcement
+      subtitle: "   "
+      button: More
       alt: Image alt text
+      url: https://www.peihwasec.moe.edu.sg/pdf/
+      image: /images/Announcement/announcement banner.png
 ---
