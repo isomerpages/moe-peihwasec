@@ -18,11 +18,32 @@ sections:
         - title: Future Leader Programme
           description: Challenges of Tomorrow
           url: /uniquely-pei-hwa/future-leader-programme/
-  - resources: {}
   - infopic:
       title: Announcement
       button: More
       alt: Image alt text
       url: https://www.peihwasec.moe.edu.sg/pdf/
-      image: /images/Announcement/announcement banner.png
+      image: /images/Homepage/announcement banner.png
+  - infopic:
+      title: Applied Learning Programme
+      description: Robotics and Programming
+      button: More
+      url: /uniquely-pei-hwa/applied-learning-programme-robotics-and-programming/
+      image: /images/Homepage/(2) applied learning programme – robotics and
+        programming.png
+      alt: Image alt text
+  - infopic:
+      title: Learning for Life Programme
+      description: Community Youth Leadership
+      button: More
+      url: /uniquely-pei-hwa/applied-learning-programme-robotics-and-programming/
+      image: /images/Homepage/(3) learning for life programme – community youth
+        leadership.png
+      alt: Image alt text
+  - infopic:
+      title: "Pei Hwa Talent Academy "
+      button: More
+      url: /uniquely-pei-hwa/pei-hwa-talent-academy/
+      image: /images/Homepage/(4) pei hwa talent academy .png
+      alt: Image alt text
 ---
