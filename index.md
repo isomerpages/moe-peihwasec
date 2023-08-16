@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/IMG_3545_photo-full-3 (1)-min.jpg
+      background: /images/Homepage/1 (13).jpeg
       key_highlights:
         - title: Direct School Admission
           description: Click to find out more
