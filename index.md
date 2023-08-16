@@ -41,7 +41,7 @@ sections:
         leadership.png
       alt: Image alt text
   - infopic:
-      title: "Pei Hwa Talent Academy "
+      title: Pei Hwa Talent Academy
       button: More
       url: /uniquely-pei-hwa/pei-hwa-talent-academy/
       image: /images/Homepage/(4) pei hwa talent academy .png
