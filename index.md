@@ -9,8 +9,8 @@ sections:
   - hero:
       background: /images/IMG_3545_photo-full-3 (1)-min.jpg
       key_highlights:
-        - title: Home-Based Learning
-          description: Home-Based Learning Page
+        - title: "Direct School Admission "
+          description: Click to find out more
           url: /lp-announcement/home-based-learning/
         - title: Pride of the Community
           description: We take PRIDE in our values
@@ -19,4 +19,10 @@ sections:
           description: An innovative environment
           url: https://www.peihwasec.moe.edu.sg/uniquely-pei-hwa/innovative-changemakers-programme/
   - resources: {}
+  - infopic:
+      title: Infopic Title
+      subtitle: Infopic Subtitle
+      description: Infopic description
+      button: Button Text
+      alt: Image alt text
 ---
