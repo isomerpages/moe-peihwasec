@@ -13,7 +13,7 @@ sections:
           description: Click to find out more
           url: /uniquely-pei-hwa/direct-school-admission-dsa/
         - title: Future-Ready Learners, Forward-Looking Leaders
-          description: "We take Pride in our Values "
+          description: We take Pride in our Values
           url: /we-are-pei-hwa/our-vision-mission-and-values/
         - title: Future Leader Programme
           description: Challenges of Tomorrow
@@ -21,7 +21,6 @@ sections:
   - resources: {}
   - infopic:
       title: Announcement
-      subtitle: "   "
       button: More
       alt: Image alt text
       url: https://www.peihwasec.moe.edu.sg/pdf/
