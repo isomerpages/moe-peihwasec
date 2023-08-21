@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Homepage/final landing site.jpg
+      background: /images/Homepage/final landing site (png).png
       key_highlights:
         - title: Direct School Admission
           description: Click to find out more
