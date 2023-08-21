@@ -22,7 +22,7 @@ sections:
       title: Announcement
       button: More
       alt: Image alt text
-      url: https://www.peihwasec.moe.edu.sg/pdf/
+      url: https://www.peihwasec.moe.edu.sg/announcement/
       image: /images/Homepage/announcement banner.png
   - infopic:
       title: Applied Learning Programme
