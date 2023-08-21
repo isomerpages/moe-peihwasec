@@ -22,7 +22,7 @@ sections:
       title: Announcement
       button: More
       alt: Image alt text
-      url: /lp-announcement/
+      url: /links/announcements/
       image: /images/Homepage/announcement banner.png
   - infopic:
       title: Applied Learning Programme
