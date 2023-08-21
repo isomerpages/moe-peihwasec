@@ -16,7 +16,7 @@ description: ""
 
 <div style="flex: 1;border: 1px solid #ccc; padding: 10px 10px; display: flex; flex-direction: column;width:100%;gap: 10px;margin: 10px; background-color:white;background-color: #0B6623;flex: 0 0 calc(33.33% - 20px);" class="box">   
 	<div style="flex: 1;" class="content"> 
-		<h5 style="text-align:center;padding-top:7px;"><a href="/lp-announcement/wa3-schedule/" style="color:#FDBC58;font-family:sans-serif;font-weight:bold;font-size:18px;text-decoration: none;text-align:center;">2023 Weighted Assessment 3 (WA3) Schedule</a></h5>  
+		<h5 style="text-align:center;padding-top:7px;"><a href="/lp-announcement/wa3-schedule/" style="color:#FDBC58;font-family:sans-serif;font-weight:bold;font-size:18px;text-decoration: none;text-align:center;">2023 WA3 Schedule</a></h5>  
 	</div> 
 </div>
 
@@ -41,7 +41,7 @@ description: ""
 	
 <div style="flex: 1;border: 1px solid #ccc; padding: 10px 10px; display: flex; flex-direction: column;width:100%;gap: 10px;margin: 10px; background-color:white;background-color: #0B6623;flex: 0 0 calc(33.33% - 20px);" class="box"> 
 	<div style="flex: 1;" class="content"> 
-		<h5 style="text-align:center;padding-top:7px;"><a href="/lp-announcement/home-based-learning/" style="color:#FDBC58;font-family:sans-serif;font-weight:bold;font-size:18px;text-decoration: none;text-align:center;">Home Based Learning</a>
+		<h5 style="text-align:center;padding-top:23px;"><a href="/lp-announcement/home-based-learning/" style="color:#FDBC58;font-family:sans-serif;font-weight:bold;font-size:18px;text-decoration: none;text-align:center;">Home Based Learning</a>
 		</h5>  
 	</div> 
 </div>
@@ -55,14 +55,14 @@ description: ""
 	
 <div style="flex: 1;border: 1px solid #ccc; padding: 10px 10px; display: flex; flex-direction: column;width:100%;gap: 10px;margin: 10px; background-color:white;background-color: #0B6623;flex: 0 0 calc(33.33% - 20px);" class="box">
 	<div style="flex: 1;" class="content"> 
-		<h5 style="text-align:center;padding-top:7px;"><a href="/lp-announcement/book-list/" style="color:#FDBC58;font-family:sans-serif;font-weight:bold;font-size:18px;text-decoration: none;text-align:center;">Book List 2023</a>
+		<h5 style="text-align:center;padding-top:23px;"><a href="/lp-announcement/book-list/" style="color:#FDBC58;font-family:sans-serif;font-weight:bold;font-size:18px;text-decoration: none;text-align:center;">Book List 2023</a>
 		</h5>  
 	</div> 
 </div>
 	
 <div style="flex: 1;border: 1px solid #ccc; padding: 10px 10px; display: flex; flex-direction: column;width:100%;gap: 10px;margin: 10px; background-color:white;background-color: #0B6623;flex: 0 0 calc(33.33% - 20px);" class="box">
 	<div style="flex: 1;" class="content"> 
-		<h5 style="text-align:center;padding-top:7px;"><a href="/lp-announcement/application-for-moe-fas/" style="color:#FDBC58;font-family:sans-serif;font-weight:bold;font-size:18px;text-decoration: none;text-align:center;">MOE FAS Application</a>
+		<h5 style="text-align:center;padding-top:23px;"><a href="/lp-announcement/application-for-moe-fas/" style="color:#FDBC58;font-family:sans-serif;font-weight:bold;font-size:18px;text-decoration: none;text-align:center;">MOE FAS Application</a>
 		</h5>  
 	</div> 
 </div>
