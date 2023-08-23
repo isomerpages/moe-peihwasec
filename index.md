@@ -36,7 +36,7 @@ sections:
       title: Learning for Life Programme
       description: Community Youth Leadership
       button: More
-      url: /uniquely-pei-hwa/applied-learning-programme-robotics-and-programming/
+      url: /uniquely-pei-hwa/learning-for-life-programme-community-youth-leadership-llp-cyl/
       image: /images/Homepage/(3) learning for life programme – community youth
         leadership.png
       alt: Image alt text
