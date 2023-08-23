@@ -10,20 +10,20 @@ sections:
       background: /images/Homepage/final landing site (png).png
       key_highlights:
         - title: Direct School Admission
-          description: Click to find out more
+          description: Welcoming Talents
           url: /uniquely-pei-hwa/direct-school-admission-dsa/
-        - title: Future-Ready Learners, Forward-Looking Leaders
-          description: We take Pride in our Values
+        - title: Vision | Mission | Values
+          description: The Heart of Pei Hwa
           url: /we-are-pei-hwa/our-vision-mission-and-values/
         - title: Future Leader Programme
-          description: Challenges of Tomorrow
+          description: Driving Innovation
           url: /uniquely-pei-hwa/future-leader-programme/
   - infopic:
       title: Announcement
       button: More
       alt: Image alt text
       url: /links/announcements/
-      image: /images/Homepage/announcement banner.png
+      image: /images/Homepage/announcementbanner.png
   - infopic:
       title: Applied Learning Programme
       description: Robotics and Programming
@@ -36,7 +36,7 @@ sections:
       title: Learning for Life Programme
       description: Community Youth Leadership
       button: More
-      url: /uniquely-pei-hwa/applied-learning-programme-robotics-and-programming/
+      url: /uniquely-pei-hwa/learning-for-life-programme-community-youth-leadership-llp-cyl/
       image: /images/Homepage/(3) learning for life programme – community youth
         leadership.png
       alt: Image alt text

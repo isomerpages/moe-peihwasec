@@ -1,6 +1,6 @@
 ---
 title: School Safety
-permalink: /links/school-safety/
+permalink: /uniquely-pei-hwa/school-safety/
 description: ""
 ---
 <h6 style="color:#0B6623;font-family:sans-serif;font-weight:bold;margin-top:30px;"><strong style="font-family:sans-serif;font-size:17px;color:#0B6623;">Vision</strong></h6>
