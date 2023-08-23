@@ -7,7 +7,8 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Homepage/final landing site 33.png
+      background: /images/Homepage/(3) learning for life programme – community youth
+        leadership.png
       key_highlights:
         - title: Direct School Admission
           description: Welcoming Talents
