@@ -10,13 +10,13 @@ sections:
       background: /images/Homepage/final landing site (png).png
       key_highlights:
         - title: Direct School Admission
-          description: Click to find out more
+          description: ""
           url: /uniquely-pei-hwa/direct-school-admission-dsa/
-        - title: Future-Ready Learners, Forward-Looking Leaders
-          description: We take Pride in our Values
+        - title: Vision | Mission | Values
+          description: ""
           url: /we-are-pei-hwa/our-vision-mission-and-values/
         - title: Future Leader Programme
-          description: Challenges of Tomorrow
+          description: ""
           url: /uniquely-pei-hwa/future-leader-programme/
   - infopic:
       title: Announcement
