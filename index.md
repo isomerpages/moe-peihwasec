@@ -10,13 +10,13 @@ sections:
       background: /images/Homepage/final landing site (png).png
       key_highlights:
         - title: Direct School Admission
-          description: ""
+          description: Welcoming Talents
           url: /uniquely-pei-hwa/direct-school-admission-dsa/
         - title: Vision | Mission | Values
-          description: ""
+          description: The Heart of Pei Hwa
           url: /we-are-pei-hwa/our-vision-mission-and-values/
         - title: Future Leader Programme
-          description: ""
+          description: Driving Innovation
           url: /uniquely-pei-hwa/future-leader-programme/
   - infopic:
       title: Announcement
