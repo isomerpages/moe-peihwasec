@@ -24,7 +24,7 @@ sections:
       button: More
       alt: Image alt text
       url: /links/announcements/
-      image: /images/Homepage/announcement banner.png
+      image: /images/Homepage/announcementbanner.png
   - infopic:
       title: Applied Learning Programme
       description: Robotics and Programming
