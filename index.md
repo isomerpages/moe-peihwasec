@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Homepage/final landing site (png).png
+      background: /images/Homepage/final landing site 33.png
       key_highlights:
         - title: Direct School Admission
           description: Welcoming Talents
