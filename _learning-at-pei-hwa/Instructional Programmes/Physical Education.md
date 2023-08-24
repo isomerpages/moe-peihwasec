@@ -4,8 +4,12 @@ permalink: /learning-at-pei-hwa/instructional-programmes/physical-education/
 description: ""
 third_nav_title: Instructional Programmes
 ---
-<h6 style="color:#0B6623;;font-family:sans-serif;font-weight:bold;"><strong style="font-family:sans-serif;font-size:17px;color:#0B6623;">Our Goals</strong></h6>
+<img style="width: 100%; height: auto;margin-top:30px;" alt="Image" src="https://raw.githubusercontent.com/isomerpages/moe-peihwasec/staging/images/Learning%20%40%20Pei%20Hwa/Instructional%20Programme/Banner/physicaleducationbanner.png">
 
+
+
+<h6 style="color:#0B6623;font-family:sans-serif;font-weight:bold;margin-top:30px;"><strong style="font-family:sans-serif;font-size:17px;color:#0B6623;">Philosophy </strong></h6>
+	
 <p style="font-size:14.5px; line-height:2;font-family:sans-serif;margin-top:5px;">The Pei Hwa Physical Education Programme aims to develop in each student the ability to:</p>
 
 <p style="margin:5px 0 5px 20px; font-size:14.5px; line-height:2;font-family:sans-serif;"><strong style="font-family:sans-serif;">Goal 1:&nbsp;</strong>Acquire a range of movement skills to participate in a variety of physical activities</p>
@@ -21,6 +25,8 @@ third_nav_title: Instructional Programmes
 <p style="margin:5px 0 5px 20px; font-size:14.5px; line-height:2;font-family:sans-serif;"><strong style="font-family:sans-serif;">Goal 6:</strong>&nbsp;Enjoy and value the benefits of living in a physically active and healthy life.</p>
 
 <img src="/images/pe1.jpg" style="width:70%;">
+
+<h6 style="color:#0B6623;font-family:sans-serif;font-weight:bold;margin-top:30px;"><strong style="font-family:sans-serif;font-size:17px;color:#0B6623;">Curriculum</strong></h6>
 
 <p style="margin-top:15px;font-size:15.5px;"><strong style="font-family:sans-serif;">Sports &amp; Games taught:</strong></p>
 
@@ -53,8 +59,7 @@ third_nav_title: Instructional Programmes
 <img src="/images/pe3.jpg" style="width:70%;">
 
 
-
-<h6 style="color:#0B6623;;font-family:sans-serif;font-weight:bold;"><strong style="font-family:sans-serif;font-size:17px;color:#0B6623;">Our Student Learning</strong></h6>
+<h6 style="color:#0B6623;font-family:sans-serif;font-weight:bold;margin-top:30px;"><strong style="font-family:sans-serif;font-size:17px;color:#0B6623;">Enrichment </strong></h6>
 
 <p style="line-height:2;margin-top:5px;margin-bottom:0;font-family:sans-serif;font-size:15.5px;"><strong style="font-family:sans-serif;">PE Lessons</strong></p>
 
