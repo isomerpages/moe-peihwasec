@@ -3,53 +3,31 @@ title: Infocomm Technology
 permalink: /infocomm-technology/
 description: ""
 ---
-<h6 style="color:#0B6623;font-family:sans-serif;font-weight:bold;margin-top:30px;"><strong style="font-family:sans-serif;font-size:17px;color:#0B6623;">Secondary 1 – 2</strong></h6>
+<img style="width: 100%; height: auto;margin-top:30px;" alt="Image" src="https://raw.githubusercontent.com/isomerpages/moe-peihwasec/staging/images/Learning%20%40%20Pei%20Hwa/Instructional%20Programme/Banner/infocommtechnologybanner.png">
 
- <p style="line-height:2;margin-top:5px;margin-bottom:0;font-family:sans-serif;font-size:15.5px;"><strong style="font-family:sans-serif;">Learning Objective</strong></p>
 
-<p style="font-size:14.5px; line-height:2;margin-top:0px;font-family:sans-serif;">Students will be able to:</p>
 
-<ol style="margin-top:-5px">
-<li style="font-size:14.5px; line-height:2;margin-left:17px;font-family:sans-serif;">Gather and record information independently</li>
-<li style="font-size:14.5px; line-height:2;margin-left:17px;font-family:sans-serif;">Examine, organise and use information and digital resources</li>
-<li style="font-size:14.5px; line-height:2;margin-left:17px;font-family:sans-serif;">Present and communicate information and ideas</li>
-<li style="font-size:14.5px; line-height:2;margin-left:17px;font-family:sans-serif;margin-bottom:0px;">Recognise and address cyberwellness issues (skills and values from earlier keystage should be continuously reinforced)</li>
-</ol>
+<h6 style="color:#0B6623;font-family:sans-serif;font-weight:bold;margin-top:30px;"><strong style="font-family:sans-serif;font-size:17px;color:#0B6623;">Philosophy </strong></h6>
+	
+<p style="font-size:14.5px; line-height:2;font-family:sans-serif;margin-top:0px;"><i style="font-size:14.5px;font-family:sans-serif;color: inherit;">“Harnessing technology as a catalyst for evolving curriculum, pedagogy, and assessment methodologies, all with the overarching goal of nurturing Future-Ready learners. ”</i></p>
+<p style="font-size:14.5px; line-height:2;font-family:sans-serif;margin-top:0px;">By seamlessly integrating technology into every facet of education, we empower our students to become adept problem solvers, critical thinkers and innovative individuals who are well-prepared to navigate the challenges of the digital age and beyond.</p>
 
- <p style="line-height:2;margin-top:5px;margin-bottom:0;font-family:sans-serif;font-size:15.5px;"><strong style="font-family:sans-serif;">ICT Focus</strong></p>
+<h6 style="color:#0B6623;font-family:sans-serif;font-weight:bold;margin-top:30px;"><strong style="font-family:sans-serif;font-size:17px;color:#0B6623;">Curriculum</strong></h6>
 
-<p style="font-size:14.5px; line-height:2;margin-top:0px;font-family:sans-serif;">Students will be able to:</p>
+<p style="font-size:14.5px; line-height:1.8;margin-top:0px;font-family:sans-serif;">The ICT Curriculum at our school is strategically designed to seamlessly infuse technology across various academic domains, encompassing curriculum, pedagogy, and assessment. </p>
 
-<ol style="margin-top:-5px;">
-<li style="font-size:14.5px; line-height:2;margin-left:17px;font-family:sans-serif;">Work in an interactive media environment</li>
-<li style="font-size:14.5px; line-height:2;margin-left:17px;font-family:sans-serif;">Refine searches and collaborate using the internet</li>
-<li style="font-size:14.5px; line-height:2;margin-left:17px;font-family:sans-serif;">Organise text using word processor</li>
-<li style="font-size:14.5px; line-height:2;margin-left:17px;font-family:sans-serif;">Create presentation/document that can directly access a variety of sources and produce multimedia elements</li>
-<li style="font-size:14.5px; line-height:2;margin-left:17px;font-family:sans-serif;">Manage, process and present graphically large data sets using spreadsheets</li>
-<li style="font-size:14.5px; line-height:2;margin-left:17px;font-family:sans-serif;">Export and process data using ICT tools</li>
-</ol>
+<p style="font-size:14.5px; line-height:2;font-family:sans-serif;margin-top:0px;">Our overarching objective is to foster a comprehensive integration of ICT tools and methodologies, enhancing the educational experience for both teachers and students. This integration is not limited to superficial implementation but extends to the very core of lesson design, ensuring that ICT is an intrinsic part of the learning journey.</p>
 
-<h6 style="color:#0B6623;font-family:sans-serif;font-weight:bold;margin-top:30px;"><strong style="font-family:sans-serif;font-size:17px;color:#0B6623;">Secondary 3 – 5 </strong></h6>
+<p style="font-size:14.5px; line-height:2;font-family:sans-serif;margin-top:0px;">The ICT Curriculum extends its impact beyond the classroom walls through the creation of conducive 1:1 learning environments. We ensure that teaching and learning is not confined to the classrooms, transcending physical boundaries and enabling students to engage in meaningful learning experiences anytime and anywhere. </p>
 
- <p style="line-height:2;margin-top:5px;margin-bottom:0;font-family:sans-serif;font-size:15.5px;"><strong style="font-family:sans-serif;">Learning Objective</strong></p>
+<p style="font-size:14.5px; line-height:1.8;margin-top:0px;font-family:sans-serif;">Our curriculum empowers students to navigate the digital world with confidence, equipping them with skills that are essential for success in the 21st century.</p>
 
-<p style="font-size:14.5px; line-height:2;margin-top:0px;font-family:sans-serif;">Students will be able to:</p>
+<h6 style="color:#0B6623;font-family:sans-serif;font-weight:bold;margin-top:30px;"><strong style="font-family:sans-serif;font-size:17px;color:#0B6623;">Programme</strong></h6>
 
-<ol style="margin-top:-5px;">
-<li style="font-size:14.5px; line-height:2;margin-left:17px;font-family:sans-serif;">Revise information-gathering strategies to retrieve and organise information from various sources</li>
-<li style="font-size:14.5px; line-height:2;margin-left:17px;font-family:sans-serif;">Evaluate information in terms of credibility and relevance for a specific purpose</li>
-<li style="font-size:14.5px; line-height:2;margin-left:17px;font-family:sans-serif;">Present and communicate information and ideas clearly</li>
-<li style="font-size:14.5px; line-height:2;margin-left:17px;font-family:sans-serif;">Address cyberwellness issues (skills and values from earlier keystages should be continuously reinforced)</li>
-</ol>
-
- <p style="line-height:2;margin-top:5px;margin-bottom:0;font-family:sans-serif;font-size:15.5px;"><strong style="font-family:sans-serif;">ICT Focus</strong></p>
-
-<p style="font-size:14.5px; line-height:2;margin-top:0px;font-family:sans-serif;">Students will be able to:</p>
-
-<ol style="margin-top:-5px;">
-<li style="font-size:14.5px; line-height:2;margin-left:17px;font-family:sans-serif;">Locate, evaluate and synthesize reliable information from multiple Internet sources</li>
-<li style="font-size:14.5px; line-height:2;margin-left:17px;font-family:sans-serif;">Communicate, collaborate and distribute media using the Internet</li>
-<li style="font-size:14.5px; line-height:2;margin-left:17px;font-family:sans-serif;">Manipulate multimedia elements and create a range of media products</li>
-<li style="font-size:14.5px; line-height:2;margin-left:17px;font-family:sans-serif;">Analyse and interpret data using spreadsheets</li>
-<li style="font-size:14.5px; line-height:2;margin-left:17px;font-family:sans-serif;">Employ ICT tools independently to collect, export and process different kinds of data and media</li>
-</ol>
+<p style="font-size:14.5px; line-height:1.8;margin-top:0px;font-family:sans-serif;">Through the Personalised Digital Learning Programme (PDLP), we hope to nurture the self-directed and connected Future-Ready learner. To achieve that, students would need to acquire certain digital skills that allow them to leverage on technology to do the following in an effective, ethical and safe manner:</p>
+<ul style="margin-top:5px">
+	<li style="font-size:14.5px; line-height:1.5 ;margin-top:5px; font-family:sans-serif;">learning with resources and people online;</li>
+	<li style="font-size:14.5px; line-height:1.5 ;margin-top:5px; font-family:sans-serif;">curating digital content and information;</li>
+	<li style="font-size:14.5px; line-height:1.5 ;margin-top:5px; font-family:sans-serif;">connecting and communicating digitally; and</li>
+	<li style="font-size:14.5px; line-height:1.5 ;margin-top:5px; font-family:sans-serif;">creating digital products.</li>
+	</ul>
