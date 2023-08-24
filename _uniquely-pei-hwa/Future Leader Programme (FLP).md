@@ -3,6 +3,8 @@ title: Future Leader Programme (FLP)
 permalink: /uniquely-pei-hwa/future-leader-programme/
 description: ""
 ---
+<img style="width: 100%; height: auto;margin-top:30px;margin-bottom:30px;" alt="Image" src="https://raw.githubusercontent.com/isomerpages/moe-peihwasec/staging/images/Uniquely%20Pei%20Hwa/flpbanner.png">
+
 <h6 style="color:#0B6623;font-family:sans-serif;font-weight:bold;margin-top:30px;"><strong style="font-family:sans-serif;font-size:17px;color:#0B6623;">Our Goals</strong></h6>
 <p style="font-size:14.5px; line-height:2;margin-top:0; font-family:sans-serif">By seamlessly incorporating its Applied Learning Programme (ALP) in Robotics and
 Programming alongside its Learning for Life Programme (LLP) in Community Youth Leadership, Pei Hwa has strategically established its Project Work curriculum as part of the Future Leaders Programme. This signature programme places a strong emphasis on empowering
