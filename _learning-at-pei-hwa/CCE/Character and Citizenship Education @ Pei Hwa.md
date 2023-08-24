@@ -63,7 +63,7 @@ students’ learning of knowledge, values and skills for character development.<
 
 <p style="font-size:14.5px; line-height:2;font-family:sans-serif;margin-top:0px;">Students participate in VIA programmes through the school’s Learning for Life Programme.</p>
 
-<p style="font-size:14.5px; line-height:2;font-family:sans-serif;margin-top:0px;">For more information on our Learning for Life Programme – Community Youth Leadership (LLP-CYL), please click <a href="https://www.peihwasec.moe.edu.sg/school-distinctive-programme/learning-for-life-programme-community-youth-leadership-llp-cyl/" style="font-size:14.5px; line-height:1.5;font-family:sans-serif;font-weight:bold;text-decoration: none;">here</a>.</p>
+<p style="font-size:14.5px; line-height:2;font-family:sans-serif;margin-top:0px;">For more information on our Learning for Life Programme – Community Youth Leadership (LLP-CYL), please click <a href="https://www.peihwasec.moe.edu.sg/uniquely-pei-hwa/learning-for-life-programme-community-youth-leadership-llp-cyl/" style="font-size:14.5px; line-height:1.5;font-family:sans-serif;font-weight:bold;text-decoration: none;">here</a>.</p>
 
 <p style="line-height:2;margin-top:5px;margin-bottom:0;font-family:sans-serif;font-size:15.5px;"><strong style="font-family:sans-serif;">National Education (NE)</strong></p>
 
