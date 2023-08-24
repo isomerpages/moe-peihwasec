@@ -3,6 +3,8 @@ title: Learning for Life Programme – Community Youth Leadership (LLP – CYL)
 permalink: /uniquely-pei-hwa/learning-for-life-programme-community-youth-leadership-llp-cyl/
 description: ""
 ---
+<img style="width: 100%; height: auto;margin-top:30px;margin-bottom:30px;" alt="Image" src="https://raw.githubusercontent.com/isomerpages/moe-peihwasec/staging/images/Uniquely%20Pei%20Hwa/llpbanner.png">
+
 <h6 style="color:#0B6623;font-family:sans-serif;font-weight:bold;margin-top:30px;"><strong style="font-family:sans-serif;font-size:17px;color:#0B6623;">PRIDE of the Community: Developing An Altruist</strong></h6>
 
 <p style="margin-top:5px;margin-bottom:0;font-size:15.5px;"><strong style="font-family:sans-serif;">Goals</strong></p>
