@@ -4,44 +4,28 @@ permalink: /learning-at-pei-hwa/instructional-programmes/craft-and-technology/
 description: ""
 third_nav_title: Instructional Programmes
 ---
-<h6 style="color:#0B6623;;font-family:sans-serif;font-weight:bold;"><strong style="font-family:sans-serif;font-size:17px;color:#0B6623;">The Art Unit</strong></h6>
-<p style="font-size:14.5px; line-height:2;font-family:sans-serif;margin-top:0px;">At Pei Hwa, we aim to develop a love for Art in our pupils so that they would be creative and confident learners. Our lessons are designed to allow students to&nbsp;appreciate art from various contexts. This is achieved through exploring the&nbsp;different craft types in both 2D and 3D art forms. Pupils in the lower secondary are&nbsp;introduced to observational drawing, photography and ceramics while upper secondary pupils are equipped with painting, printmaking and critique skills. The&nbsp;exposure to different media allows pupils to have a sense of achievement in the&nbsp;practice of Art.</p>
-
-<p style="font-size:14.5px; line-height:2;font-family:sans-serif;margin-top:0px;">For more information, please visit the&nbsp;<a href="http://www.facebook.com/PeiHwaArtGallery" target="_blank" rel="noopener noreferrer" style="font-size:14.5px; line-height:1.5;font-family:sans-serif;font-weight:bold;text-decoration: none;">Pei Hwa Art Gallery Facebook</a>&nbsp;page.</p>
-
-<img style="width: 65%;" src="/images/ct1.jpg"><br>
-<img style="width: 65%;" src="/images/ct2.jpg"><br>
-<img style="width: 65%;" src="/images/ct3.jpg"><br>
+<img style="width: 100%; height: auto;margin-top:30px;" alt="Image" src="https://raw.githubusercontent.com/isomerpages/moe-peihwasec/staging/images/Learning%20%40%20Pei%20Hwa/Instructional%20Programme/Banner/craftntechbanner.png">
 
 
-<h6 style="color:#0B6623;;font-family:sans-serif;font-weight:bold;"><strong style="font-family:sans-serif;font-size:17px;color:#0B6623;">The Design &amp; Technology Unit</strong></h6>
 
-<img style="width: 100%;" src="/images/ct4.jpg">
-
-<p style="font-size:14.5px; line-height:2;font-family:sans-serif;margin-top:0px;">The Design &amp; Technology Unit aims to instill in our pupils the design-thinking culture. This is achieved mainly through product design which is essentially meeting user’s needs through technology where applicable. The resilience, confidence and problem-solving skills acquired by the pupils prepare them for the challenges which they may face after they graduate from secondary school. Pupils in the Lower Secondary are introduced various aspects of technology (namely structures, electronics and mechanisms) and how they are used to meet our everyday needs. They are also taught basic skills in the handling of tools and simple machinery which is essential in the realization of a design project.</p>
-
-<p style="font-size:14.5px; line-height:2;font-family:sans-serif;margin-top:0px;">Pupils in the upper secondary level cover technology topics in greater depth and focus on the application of technology in their design coursework. In the area of design, pupils are required to complete one cycle of design, from identification of user’s needs to ideation and finally the realisation (making) of the design.</p>
+<h6 style="color:#0B6623;font-family:sans-serif;font-weight:bold;margin-top:30px;"><strong style="font-family:sans-serif;font-size:17px;color:#0B6623;">Philosophy </strong></h6>
+	
+<p style="font-size:14.5px; line-height:2;font-family:sans-serif;margin-top:0px;"><i style="font-size:14.5px;font-family:sans-serif;color: inherit;">“To promote hands-on learning, artistic expression, and technological proficiency to empower individuals in crafting purposeful and innovative solutions for the future.”</i></p>
+<p style="font-size:14.5px; line-height:2;font-family:sans-serif;margin-top:0px;">Through a holistic approach that combines traditional craftsmanship and modern technology, the Design and Technology, Food and Consumer Education and Art aims to foster creative exploration, skill development, and meaningful innovation.</p>
 
 
-<h6 style="color:#0B6623;;font-family:sans-serif;font-weight:bold;"><strong style="font-family:sans-serif;font-size:17px;color:#0B6623;">Food &amp; Consumer Education (FCE): Lower Secondary Syllabus</strong></h6>
+<h6 style="color:#0B6623;font-family:sans-serif;font-weight:bold;margin-top:30px;"><strong style="font-family:sans-serif;font-size:17px;color:#0B6623;">Curriculum</strong></h6>
 
-<img style="width: 100%;" src="/images/ct5.jpg">
+<p style="font-size:14.5px; line-height:1.8;margin-top:0px;font-family:sans-serif;">As Mathematics is the key to many areas in our everyday lives, we hope to equip our students with a strong foundation in Mathematics so that they would become competent and life-long learners. </p>
 
-<p style="font-size:14.5px; line-height:2;font-family:sans-serif;margin-top:10px;">All lower Secondary classes will cover Food and Consumer Education (FCE). The syllabus provide students with a broad understanding of concepts in nutrition and health, food literacy and principles of food science. Students will be exposed to authentic real world contexts through hands on practical and projects, through these learning experiences, the syllabus aims to develop students to:</p>
+<p style="font-size:14.5px; line-height:2;font-family:sans-serif;margin-top:0px;">Critical thinking and problem-solving skills are fostered beyond the confines of the textbooks through exploratory tasks and manipulatives, creating a positive and inclusive learning environment that encourages collaborative learning. By embracing technology and supporting individual growth, the department aims to cultivate curious and proactive lifelong learners who recognize Mathematics as a fundamental enabler to support future learning. </p>
 
-<ul style="margin-top:-5px;">
-<li style="font-size:14.5px; line-height:2;font-family:sans-serif;">Lead a healthier lifestyle proactively through proper diet and nutrition;</li>
-<li style="font-size:14.5px; line-height:2;font-family:sans-serif;">Advocate sustainable food consumption by panning and making appropriate food choices;</li>
-<li style="font-size:14.5px; line-height:2;font-family:sans-serif;">Apply principles of culinary science creatively n food preparation and cooking</li>
-<li style="font-size:14.5px; line-height:2;font-family:sans-serif;margin-bottom:-5px;">Develops skills in investigative, creativity and awareness in making informed decisions in food and nutrition- related issues.</li>
-</ul>
+<h6 style="color:#0B6623;font-family:sans-serif;font-weight:bold;margin-top:30px;"><strong style="font-family:sans-serif;font-size:17px;color:#0B6623;">Enrichment </strong></h6>
 
-<p style="font-size:14.5px; line-height:2;font-family:sans-serif;margin-top:0px;">The Big ideas of the subject are as follows:</p>
-<ul style="margin-top:-5px;">
-<li style="font-size:14.5px; line-height:2;font-family:sans-serif;">Nutrition &amp; Health</li>
-<li style="font-size:14.5px; line-height:2;font-family:sans-serif;">Food Literacy &amp; Consumer Literacy</li>
-<li style="font-size:14.5px; line-height:2;margin-bottom:-5px;font-family:sans-serif;">Food Science</li>
+<p style="font-size:14.5px; line-height:1.8;margin-top:0px;font-family:sans-serif;">We have various enrichment programmes that have allowed students to explore their passion for Mathematics and challenge them to look at problems from a different perspective:</p>
+<ul style="margin-top:5px">
+	<li style="font-size:14.5px; line-height:1.5 ;margin-top:5px; font-family:sans-serif;">Mathematics Games Day</li>
+	<li style="font-size:14.5px; line-height:1.5 ;margin-top:5px; font-family:sans-serif;">Mathematics Competitions</li>
+	<li style="font-size:14.5px; line-height:1.5 ;margin-top:5px; font-family:sans-serif;">Mathematics Trail</li>
+	</ul>
 
-</ul>
-
-<img style="width: 100%;" src="/images/ct6.jpg" align="left">
