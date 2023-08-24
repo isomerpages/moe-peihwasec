@@ -33,4 +33,3 @@ third_nav_title: Instructional Programmes
 	<li style="font-size:14.5px; line-height:1.5 ;margin-top:5px; font-family:sans-serif;">Historical Scene Challenge</li>
 	<li style="font-size:14.5px; line-height:1.5 ;margin-top:5px; font-family:sans-serif;">NUS Geography Challenge</li>
 	</ul>
-
