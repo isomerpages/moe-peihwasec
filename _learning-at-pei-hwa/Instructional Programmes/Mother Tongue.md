@@ -21,12 +21,30 @@ third_nav_title: Instructional Programmes
 
 <p style="font-size:14.5px; line-height:2;font-family:sans-serif;margin-top:0px;">We also believe in infusing fun in the learning of languages and has thus gone beyond the conventional pen and paper when it comes to the learning of languages.</p>
 
+<p style="line-height:2;margin-top:5px;margin-bottom:0;font-family:sans-serif;font-size:15.5px;"><strong style="font-family:sans-serif;">Building Reading Skills
+</strong></p>
+<p style="font-size:14.5px; line-height:1.8;margin-top:0px;font-family:sans-serif;">We curate reads for our students and encourage students to read through reading competitions. </p>
+
+<p style="line-height:2;margin-top:5px;margin-bottom:0;font-family:sans-serif;font-size:15.5px;"><strong style="font-family:sans-serif;">Game Based Learning
+</strong></p>
+<p style="font-size:14.5px; line-height:1.8;margin-top:0px;font-family:sans-serif;">We believe in making learning fun. The teachers add in games and competitive elements into students’ learning conscientiously. Our interesting ways of teaching and learning have been selected to be shared in Teacher Led Workshops and cluster sharings with other schools.</p>
+
+<p style="line-height:2;margin-top:5px;margin-bottom:0;font-family:sans-serif;font-size:15.5px;"><strong style="font-family:sans-serif;">Learning through Making
+</strong></p>
+<p style="font-size:14.5px; line-height:1.8;margin-top:0px;font-family:sans-serif;">To enhance the learning and engagement level of our students, we also get students to explore, collaborate and create in the learning of Mother Tongue Languages. Students are given the opportunity to learn the curriculum content through puppetry making, creating vlogs and even making their own bubble tea.</p>
+
 <h6 style="color:#0B6623;font-family:sans-serif;font-weight:bold;margin-top:30px;"><strong style="font-family:sans-serif;font-size:17px;color:#0B6623;">Enrichment </strong></h6>
 
-<p style="font-size:14.5px; line-height:1.8;margin-top:0px;font-family:sans-serif;">We have various enrichment programmes that have allowed students to explore their passion for Mathematics and challenge them to look at problems from a different perspective:</p>
-<ul style="margin-top:5px">
-	<li style="font-size:14.5px; line-height:1.5 ;margin-top:5px; font-family:sans-serif;">Mathematics Games Day</li>
-	<li style="font-size:14.5px; line-height:1.5 ;margin-top:5px; font-family:sans-serif;">Mathematics Competitions</li>
-	<li style="font-size:14.5px; line-height:1.5 ;margin-top:5px; font-family:sans-serif;">Mathematics Trail</li>
-	</ul>
+<p style="font-size:14.5px; line-height:1.8;margin-top:0px;font-family:sans-serif;">We believe that the learning of languages should not be confined by the boundaries of a classroom. The best learning should come from exposure and application. Thus we also adopt a tiered approach to enhance our students’ learning of Mother Tongue Languages.</p>
 
+<p style="line-height:2;margin-top:5px;margin-bottom:0;font-family:sans-serif;font-size:15.5px;"><strong style="font-family:sans-serif;">Cultural Enrichment
+</strong></p>
+<p style="font-size:14.5px; line-height:1.8;margin-top:0px;font-family:sans-serif;">Other than Mother Tongue Fortnight, Pei Hwa students also have additional cultural enrichment classes which range from drama to music appreciation.</p>
+
+<p style="line-height:2;margin-top:5px;margin-bottom:0;font-family:sans-serif;font-size:15.5px;"><strong style="font-family:sans-serif;">Reading Programme
+</strong></p>
+<p style="font-size:14.5px; line-height:1.8;margin-top:0px;font-family:sans-serif;">Beyond curated reads which are also tied in to students’ daily learning in class, the school also conducts reading competitions and speaker series to encourage students to read.</p>
+
+<p style="line-height:2;margin-top:5px;margin-bottom:0;font-family:sans-serif;font-size:15.5px;"><strong style="font-family:sans-serif;">External Competitions
+</strong></p>
+<p style="font-size:14.5px; line-height:1.8;margin-top:0px;font-family:sans-serif;">Tier 2 and 3 students are trained and given the opportunities to participate in national competitions such as National Theatresports, National Chinese Creative Reading Competition and Chinese Bridge Competition in which our students have received accolades for.</p>
