@@ -4,6 +4,8 @@ permalink: /learning-at-pei-hwa/instructional-programmes/poa-ebs/
 description: ""
 third_nav_title: Instructional Programmes
 ---
+<img style="width: 100%; height: auto;margin-top:30px;margin-bottom:30px;" alt="Image" src="https://raw.githubusercontent.com/isomerpages/moe-peihwasec/staging/images/Learning%20%40%20Pei%20Hwa/CCE/ccebanner.png">
+
 <h6 style="color:#0B6623;;font-family:sans-serif;font-weight:bold;"><strong style="font-family:sans-serif;font-size:17px;color:#0B6623;">Our Goals</strong></h6>
 
 <p style="line-height:2;margin-top:5px;margin-bottom:0;font-family:sans-serif;font-size:15.5px;"><strong style="font-family:sans-serif;">Principles of Accounts (POA)</strong></p>
