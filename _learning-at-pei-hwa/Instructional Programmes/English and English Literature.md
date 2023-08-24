@@ -37,10 +37,9 @@ third_nav_title: Instructional Programmes
 In Upper Secondary, students go into greater depth and study a designated set novel and drama, together with rich local and global poetry. </p>
 
 
-<h6 style="color:#0B6623;;font-family:sans-serif;font-weight:bold;"><strong style="font-family:sans-serif;font-size:17px;color:#0B6623;">Enrichment </strong></h6>
+<h6 style="color:#0B6623;font-family:sans-serif;font-weight:bold;margin-top:30px;"><strong style="font-family:sans-serif;font-size:17px;color:#0B6623;">Enrichment </strong></h6>
 
 <p style="font-size:14.5px; line-height:1.8;margin-top:0px;font-family:sans-serif;">Our signature enrichment programme which supports our students’ oracy development is the:</p>
 <ul style="margin-top:5px">
 	<li style="font-size:14.5px; line-height:1.5 ;margin-top:5px; font-family:sans-serif;">Slice of Life </li>
 	</ul>
-
