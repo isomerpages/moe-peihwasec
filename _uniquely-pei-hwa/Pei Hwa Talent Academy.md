@@ -3,6 +3,8 @@ title: Pei Hwa Talent Academy
 permalink: /uniquely-pei-hwa/pei-hwa-talent-academy/
 description: ""
 ---
+<img style="width: 100%; height: auto;margin-top:30px;margin-bottom:30px;" alt="Image" src="https://raw.githubusercontent.com/isomerpages/moe-peihwasec/staging/images/Uniquely%20Pei%20Hwa/talentacademybanner.png">
+
 <p style="font-size:14.5px; line-height:2;margin-top:15px; font-family:sans-serif">The Pei Hwa Talent Academy (PHTA), is a programme that aims to develop and nurture
 students who demonstrate a strong aptitude and talent in academic studies. This programme is a 4-year&nbsp;enriched curriculum specially&nbsp;tailored and differentiated for selected students who display strong passion, great aptitude and keen motivation in the various academic disciplines (English, Mathematics, Science and Humanities).</p>
 
