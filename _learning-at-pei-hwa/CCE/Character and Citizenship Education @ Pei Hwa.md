@@ -4,18 +4,19 @@ permalink: /learning-at-pei-hwa/cce/character-citizenship-education-at-pei-hwa/
 description: ""
 third_nav_title: CCE
 ---
-<h6 style="color:#0B6623;font-family:sans-serif;font-weight:bold;"><strong style="font-family:sans-serif;font-size:17px;color:#0B6623;">Our Goals</strong></h6>
+<img style="width: 100%; height: auto;margin-top:30px;margin-bottom:30px;" alt="Image" src="https://raw.githubusercontent.com/isomerpages/moe-peihwasec/staging/images/Learning%20%40%20Pei%20Hwa/CCE/ccebanner.png">
 
-<p style="font-size:14.5px; line-height:2;font-family:sans-serif;margin-top:0px;">Character and Citizenship Education (CCE) is integral to the holistic development of students.The CCE curriculum supports the students’ development of values, character, citizenship dispositions and social-emotional well-being, with the aim of realising the school’s vision of developing Future-Ready Learners and Forward-Looking Leaders.</p>
+<h6 style="color:#0B6623;font-family:sans-serif;font-weight:bold;"><strong style="font-family:sans-serif;font-size:17px;color:#0B6623;">Philosophy</strong></h6>
 
-<h6 style="color:#0B6623;font-family:sans-serif;font-weight:bold;"><strong style="font-family:sans-serif;font-size:17px;color:#0B6623;">Our Programmes</strong></h6>
+<p style="font-size:14.5px; line-height:2;font-family:sans-serif;margin-top:0px;">Character and Citizenship Education (CCE) is integral to the holistic development of students. The CCE curriculum supports the students’ development of values, character, citizenship dispositions and social-emotional well-being, with the aim of realising the school’s vision of developing Future-Ready Learners and Forward-Looking Leaders. </p>
+
+<h6 style="color:#0B6623;font-family:sans-serif;font-weight:bold;"><strong style="font-family:sans-serif;font-size:17px;color:#0B6623;">Curriculum</strong></h6>
 
 <p style="ine-height:2;margin-top:5px;margin-bottom:0;font-family:sans-serif;font-size:15.5px;"><u style="font-family:sans-serif;">Overview</u></p>
 
 <p style="font-size:14.5px; line-height:2;font-family:sans-serif;margin-top:0px;">The CCE curriculum provides invaluable lessons and learning experiences to help our students internalise and practise good values and skills as well as develop competencies that are critical to character and citizenship development.</p>
 
-<p style="font-size:14.5px; line-height:2;font-family:sans-serif;margin-top:0px;">Through CCE, our staff will facilitate students’ thinking to help them make responsible decisions based on sound values, and guide them in becoming caring individuals and useful citizens.
-</p>
+<p style="font-size:14.5px; line-height:2;font-family:sans-serif;margin-top:0px;">Through CCE, our staff will facilitate students’ thinking to help them make responsible decisions based on sound values, and guide them in becoming caring individuals and useful citizens.</p>
 
 <p style="ine-height:2;margin-top:5px;margin-bottom:0;font-family:sans-serif;font-size:15.5px;"><u style="font-family:sans-serif;">Components in CCE</u></p>
 
@@ -27,18 +28,15 @@ third_nav_title: CCE
 <tr style="border-bottom: 1px solid #dddddd;">
 <td style="padding: 20px 15px; font-size:14.5px; font-family:sans-serif;line-height:2;"><strong style="font-family:sans-serif;">CCE Lessons</strong></td>
 <td style="padding: 6px 10px;font-size:14.5px;font-family:sans-serif;"><ul style="margin-top:-5px;">
-	<li style="font-size:14.5px; line-height:2;font-family:sans-serif;margin-bottom:-5px;"> Teaching of values, knowledge and skills for Character &amp; Citizenship Education through weekly CCE lessons</li>
-					<li style="font-size:14.5px; line-height:2;font-family:sans-serif;margin-bottom:-5px;"> The content areas include Education and Career Guidance,Sexuality Education, Cyber Wellness, National Education, Mental Health and Family Education.</li>
+	<li style="font-size:14.5px; line-height:2;font-family:sans-serif;margin-bottom:-5px;">Teaching of values, knowledge and skills for Character &amp; Citizenship Education through weekly CCE lessons</li>
+					<li style="font-size:14.5px; line-height:2;font-family:sans-serif;margin-bottom:-5px;">The content areas include Education and Career Guidance, Sexuality Education, Cyber Wellness, National Education, Mental Health and Family Education.</li>
 </ul></td>
 </tr>
 	
 <tr style="border-bottom: 1px solid #dddddd;">
 <td style="padding: 20px 15px;font-size:14.5px;font-family:sans-serif;line-height:2"><strong style="font-family:sans-serif;">Student Development Experiences</strong></td>
 <td style="padding: 6px 10px;font-size:14.5px;font-family:sans-serif;"><ul style="margin-top:-5px;">
-	<li style="font-size:14.5px; line-height:2;font-family:sans-serif;margin-bottom:-5px;"> Student development programmes and activities that support
-the holistic development of students such as ECG
-Experiences, Values in Action (VIA), NE Commemorative
-Days and Cohort Learning Journey</li>
+	<li style="font-size:14.5px; line-height:2;font-family:sans-serif;margin-bottom:-5px;">Student development programmes and activities that support the holistic development of students such as ECG Experiences, Values in Action (VIA), NE Commemorative Days and Cohort Learning Journey</li>
 </ul></td>
 </tr>
 	
