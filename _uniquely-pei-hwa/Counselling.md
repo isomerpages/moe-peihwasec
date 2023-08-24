@@ -3,6 +3,8 @@ title: Counselling
 permalink: /uniquely-pei-hwa/counselling/
 description: ""
 ---
+<img style="width: 100%; height: auto;margin-top:30px;margin-bottom:30px;" alt="Image" src="https://raw.githubusercontent.com/isomerpages/moe-peihwasec/staging/images/Uniquely%20Pei%20Hwa/counsellingbanner.png">
+
 <p style="font-size:14.5px; line-height:2;font-family:sans-serif;">Pei Hwa recognises the importance for the students to have a healthy and positive social emotional well-being in order to thrive and excel in their academic and co-curriculum activities, as well as other aspects of their lives. The school counselling team work in partnership with teachers, parents and external partners to equips students with knowledge and skills to emerge as person with a healthy sense of self-identity and self-awareness to build positive relationship, make responsible choices and manage personal emotion.</p>
 
 <h6 style="color:#0B6623;font-family:sans-serif;font-weight:bold;margin-top:30px;"><strong style="font-family:sans-serif;font-size:17px;color:#0B6623;">The Counselling Process</strong></h6>
