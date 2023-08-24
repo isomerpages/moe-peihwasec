@@ -19,7 +19,7 @@ sections:
           description: Driving Innovation
           url: /uniquely-pei-hwa/future-leader-programme/
   - infopic:
-      title: Announcement
+      title: Latest Announcements
       button: More
       alt: Image alt text
       url: /links/announcements/
