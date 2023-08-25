@@ -3,6 +3,8 @@ title: Special Education Needs
 permalink: /uniquely-pei-hwa/special-education-needs/
 description: ""
 ---
+<img style="width: 100%; height: auto;margin-top:30px;margin-bottom:30px;" alt="Image" src="https://raw.githubusercontent.com/isomerpages/moe-peihwasec/staging/images/Uniquely%20Pei%20Hwa/specialneedsbanner.png">
+
 <p style="font-size:14.5px; line-height:2;font-family:sans-serif;">The Special Educational Needs Officer (SENO) supports students with mild special educational needs such as Dyslexia, Autism Spectrum Disorder (ASD), attention deficit hyperactivity disorder (ADHD) as well as others with learning and behavioural needs in the following ways:</p>
 
 <ul style="margin-top:-5px;">
