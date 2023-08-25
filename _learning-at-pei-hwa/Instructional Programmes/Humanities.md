@@ -21,8 +21,8 @@ third_nav_title: Instructional Programmes
 <p style="font-size:14.5px; line-height:2;font-family:sans-serif;margin-top:0px;">As part of learning beyond the classroom, our department also embarks on <u style="font-family:sans-serif;">Geographical, Historical and Issues Investigations</u> to provide a platform for students to demonstrate the knowledge, skills and values needed in the real world.  Through their investigations, students learn to question unexamined assumptions and develop the ability of perspective-taking to arrive at informed conclusions. </p>
 
 <div style="display: flex;" class="image-container"> 
-	<img alt="Image 1" style="display: inline-block;  width: calc(23.33% - -10px);" src="https://raw.githubusercontent.com/isomerpages/moe-peihwasec/staging/images/Learning%20%40%20Pei%20Hwa/Instructional%20Programme/Others/humanitiescurriculum02.png"> 
-	<img alt="Image 2" style="display: inline-block;  width: calc(34% - -50px);" src="https://raw.githubusercontent.com/isomerpages/moe-peihwasec/staging/images/Learning%20%40%20Pei%20Hwa/Instructional%20Programme/Others/humanitiescurriculum01.png"> 
+	<img alt="Image 1" style="display: inline-block;  width: calc(30% - 0px);" src="https://raw.githubusercontent.com/isomerpages/moe-peihwasec/staging/images/Learning%20%40%20Pei%20Hwa/Instructional%20Programme/Others/humanitiescurriculum02.png"> 
+	<img alt="Image 2" style="display: inline-block;  width: calc(50% - 0px);" src="https://raw.githubusercontent.com/isomerpages/moe-peihwasec/staging/images/Learning%20%40%20Pei%20Hwa/Instructional%20Programme/Others/humanitiescurriculum01.png"> 
 </div>
 
 <h6 style="color:#0B6623;font-family:sans-serif;font-weight:bold;margin-top:30px;"><strong style="font-family:sans-serif;font-size:17px;color:#0B6623;">Enrichment </strong></h6>
