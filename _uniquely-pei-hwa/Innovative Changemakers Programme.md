@@ -3,7 +3,7 @@ title: Innovative Changemakers Programme
 permalink: /uniquely-pei-hwa/innovative-changemakers-programme/
 description: ""
 ---
-<img style="width: 100%; height: auto;margin-top:30px;margin-bottom:30px;" alt="Image" src="">
+<img style="width: 100%; height: auto;margin-top:30px;margin-bottom:30px;" alt="Image" src="https://raw.githubusercontent.com/isomerpages/moe-peihwasec/staging/images/Uniquely%20Pei%20Hwa/innovativechangemakerprogrammebanner.png">
 
 <h6 style="color:#0B6623;font-family:sans-serif;font-weight:bold;margin-top:30px;"><strong style="font-family:sans-serif;font-size:17px;color:#0B6623;">Our Goals</strong></h6>
 <p style="font-size:14.5px; line-height:2;margin-top:0px; font-family:sans-serif">In our pursuit to foster an innovative mindset among our students, the school's innovation thrust endeavours to create diverse platforms for Pei Hwa students. These platforms serve to
