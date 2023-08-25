@@ -21,6 +21,12 @@ third_nav_title: Instructional Programmes
 
 <p style="font-size:14.5px; line-height:2;font-family:sans-serif;margin-top:0px;">Hence, in the teaching and learning of the Sciences, understanding of scientific content, knowledge and skills is reinforced and enhanced through <u style="font-family:sans-serif;">practical investigations</u>, <u style="font-family:sans-serif;">experiential learning</u> as well as beyond the classroom experiences through <u style="font-family:sans-serif;">enrichment programs and competitions.</u></p>
 
+<div style="display: flex;" class="image-container"> 
+	<img alt="Image 1" style="display: inline-block;  width: calc(23.33% - 0px);" src="https://raw.githubusercontent.com/isomerpages/moe-peihwasec/staging/images/Learning%20%40%20Pei%20Hwa/Instructional%20Programme/Others/sciencecurriculum01.png"> 
+	<img alt="Image 2" style="display: inline-block;  width: calc(33.33% - -40px);" src="https://raw.githubusercontent.com/isomerpages/moe-peihwasec/staging/images/Learning%20%40%20Pei%20Hwa/Instructional%20Programme/Others/sciencecurriculum03.png"> 
+	<img alt="Image 3" style="display: inline-block;  width: calc(23.33% - 0px);" src="https://raw.githubusercontent.com/isomerpages/moe-peihwasec/staging/images/Learning%20%40%20Pei%20Hwa/Instructional%20Programme/Others/sciencecurriculum02.png"> 
+</div>
+
 <h6 style="color:#0B6623;font-family:sans-serif;font-weight:bold;margin-top:30px;"><strong style="font-family:sans-serif;font-size:17px;color:#0B6623;">Enrichment </strong></h6>
 
 <p style="font-size:14.5px; line-height:1.8;margin-top:0px;font-family:sans-serif;">The Science Department seeks to provide meaningful learning experiences beyond the classrooms for students through various enrichment programs and competitions. </p>
