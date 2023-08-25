@@ -37,6 +37,8 @@ third_nav_title: Instructional Programmes
 
 <p style="font-size:14.5px; line-height:1.8;margin-top:0px;font-family:sans-serif;">We believe that the learning of languages should not be confined by the boundaries of a classroom. The best learning should come from exposure and application. Thus we also adopt a tiered approach to enhance our students’ learning of Mother Tongue Languages.</p>
 
+<img style="width: 100%; height: auto;margin-top:20px;margin-bottom:30px;" alt="Image" src="https://raw.githubusercontent.com/isomerpages/moe-peihwasec/staging/images/mt5.png">
+
 <p style="line-height:2;margin-top:5px;margin-bottom:0;font-family:sans-serif;font-size:15.5px;"><strong style="font-family:sans-serif;">Cultural Enrichment
 </strong></p>
 <p style="font-size:14.5px; line-height:1.8;margin-top:0px;font-family:sans-serif;">Other than Mother Tongue Fortnight, Pei Hwa students also have additional cultural enrichment classes which range from drama to music appreciation.</p>
