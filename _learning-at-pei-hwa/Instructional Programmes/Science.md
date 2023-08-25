@@ -23,7 +23,7 @@ third_nav_title: Instructional Programmes
 
 <div style="display: flex;" class="image-container"> 
 	<img alt="Image 1" style="display: inline-block;  width: calc(23.33% - 0px);" src="https://raw.githubusercontent.com/isomerpages/moe-peihwasec/staging/images/Learning%20%40%20Pei%20Hwa/Instructional%20Programme/Others/sciencecurriculum01.png"> 
-	<img alt="Image 2" style="display: inline-block;  width: calc(33.33% - -40px);" src="https://raw.githubusercontent.com/isomerpages/moe-peihwasec/staging/images/Learning%20%40%20Pei%20Hwa/Instructional%20Programme/Others/sciencecurriculum03.png"> 
+	<img alt="Image 2" style="display: inline-block;  width: calc(33.33% - -50px);" src="https://raw.githubusercontent.com/isomerpages/moe-peihwasec/staging/images/Learning%20%40%20Pei%20Hwa/Instructional%20Programme/Others/sciencecurriculum03.png"> 
 	<img alt="Image 3" style="display: inline-block;  width: calc(23.33% - 0px);" src="https://raw.githubusercontent.com/isomerpages/moe-peihwasec/staging/images/Learning%20%40%20Pei%20Hwa/Instructional%20Programme/Others/sciencecurriculum02.png"> 
 </div>
 
