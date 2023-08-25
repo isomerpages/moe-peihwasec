@@ -4,44 +4,36 @@ permalink: /learning-at-pei-hwa/instructional-programmes/humanities/
 description: ""
 third_nav_title: Instructional Programmes
 ---
-<h6 style="color:#0B6623;;font-family:sans-serif;font-weight:bold;"><strong style="font-family:sans-serif;font-size:17px;color:#0B6623;">Our Goals</strong></h6>
-<p style="font-size:14.5px; line-height:1.8;font-family:sans-serif;margin-top:0px;">Through Geography, History and Social Studies, we endeavour to inculcate in students a concern for the environment, an appreciation for the past and an understanding of the present by preparing them to be active citizens of the future with sound values.</p>
-<p style="font-size:14.5px; line-height:1.8;font-family:sans-serif;margin-top:0px;">We aim to develop students who possess empathy and critical thinking skills and are self-directed in taking ownership of their learning. These skills would be inculcated to them through our lessons that adopt an inquiry-based learning, experiential learning, discussion-based strategies and assessment literacy strategies.</p>
+<img style="width: 100%; height: auto;margin-top:30px;" alt="Image" src="https://raw.githubusercontent.com/isomerpages/moe-peihwasec/staging/images/Learning%20%40%20Pei%20Hwa/Instructional%20Programme/Banner/humanitiesbanner.png">
 
 
 
-<h6 style="color:#0B6623;;font-family:sans-serif;font-weight:bold;"><strong style="font-family:sans-serif;font-size:17px;color:#0B6623;">Our Programmes</strong></h6>
-<p style="font-size:14.5px; line-height:1.8;font-family:sans-serif;margin-top:0px;">Across our Departments, we have various programmes that have allowed students to explore their learning for the Humanities through inquiry-based and experiential learning.</p>
+<h6 style="color:#0B6623;font-family:sans-serif;font-weight:bold;margin-top:30px;"><strong style="font-family:sans-serif;font-size:17px;color:#0B6623;">Philosophy </strong></h6>
+	
+<p style="font-size:14.5px; line-height:2;font-family:sans-serif;margin-top:0px;"><i style="font-size:14.5px;font-family:sans-serif;color: inherit;">“To develop future-ready youths who are critical thinkers and self-directed learners, through an engaging and empowering Humanities curriculum”</i></p>
+<p style="font-size:14.5px; line-height:2;font-family:sans-serif;margin-top:0px;">Through Geography, History and Social Studies, we endeavour to inculcate in students a concern for the environment, an appreciation for the past and an understanding of the present by preparing them to be active citizens of the future with sound values.</p>
 
-<p style="line-height:2;margin-top:5px;margin-bottom:0;font-family:sans-serif;font-size:15.5px;"><strong style="font-family:sans-serif;">Geography Investigation</strong></p>
-<img style="width: 100%;" src="/images/human1.png">
 
-<p style="line-height:2;margin-top:5px;margin-bottom:0;font-family:sans-serif;font-size:15.5px;"><strong style="font-family:sans-serif;">Issues Investigation</strong></p>
-<img style="width: 100%;" src="/images/human2.png">
+<h6 style="color:#0B6623;font-family:sans-serif;font-weight:bold;margin-top:30px;"><strong style="font-family:sans-serif;font-size:17px;color:#0B6623;">Curriculum</strong></h6>
 
-<p style="line-height:2;margin-top:5px;margin-bottom:0;font-family:sans-serif;font-size:15.5px;"><strong style="font-family:sans-serif;">Humanities Competitions</strong></p>
-<img style="width: 100%;" src="/images/human3.jpg">
+<p style="font-size:14.5px; line-height:1.8;margin-top:0px;font-family:sans-serif;">Our team aims to empower and develop students who possess empathy and critical thinking skills, and are self-directed in their learning. These skills would be inculcated to them through our lessons that adopt <u style="font-family:sans-serif;"> inquiry-based and experiential learning, discussion-based and assessment literacy strategies</u>. Our approach allows for the opportunity to inculcate within our students the 21st Century Competencies (21CC) of becoming informed, concerned and participative citizens.</p>
 
-<p style="line-height:2;margin-top:15px;margin-bottom:0;font-family:sans-serif;font-size:15.5px;"><strong style="font-family:sans-serif;">MOE History Challenge 2020</strong> </p>
-<p style="font-size:14.5px; line-height:2;margin-top:0px;font-family:sans-serif;">Our young Historians putting their historical skills to the test.</p>
-<img style="width: 100%;" src="/images/human4.png">
-<img style="width: 100%;" src="/images/human5.png">
+<p style="font-size:14.5px; line-height:2;font-family:sans-serif;margin-top:0px;">As part of learning beyond the classroom, our department also embarks on <u style="font-family:sans-serif;">Geographical, Historical and Issues Investigations</u> to provide a platform for students to demonstrate the knowledge, skills and values needed in the real world.  Through their investigations, students learn to question unexamined assumptions and develop the ability of perspective-taking to arrive at informed conclusions. </p>
 
-<p style="line-height:2;margin-top:15px;margin-bottom:0;font-family:sans-serif;font-size:15.5px;"><strong style="font-family:sans-serif;">NUS Geography Challenge 2020</strong></p> 
-<p style="font-size:14.5px; line-height:2;margin-top:0px;font-family:sans-serif;">Our budding Geographers crafted an infographic in their part to contribute sustainable living habits in fashion.</p>
-<p style="font-size:14.5px; line-height:2;margin-top:0px;font-family:sans-serif;">Having garnered the most likes for their Infographic, the team was awarded the Honoraray Award in the Creative Component. Individually, Chaw Qi Xuan of 4E1 was awarded the Bronze Award and Lim Zi An, Theodore of 4E3 was awarded the Silver Award.</p>
+<div style="display: flex;" class="image-container"> 
+	<img alt="Image 1" style="display: inline-block;  width: calc(30% - 0px);" src="https://raw.githubusercontent.com/isomerpages/moe-peihwasec/staging/images/Learning%20%40%20Pei%20Hwa/Instructional%20Programme/Others/humanitiescurriculum02.png"> 
+	<img alt="Image 2" style="display: inline-block;  width: calc(50% - 0px);" src="https://raw.githubusercontent.com/isomerpages/moe-peihwasec/staging/images/Learning%20%40%20Pei%20Hwa/Instructional%20Programme/Others/humanitiescurriculum01.png"> 
+</div>
 
-<p style="line-height:2;margin-top:5px;margin-bottom:0;font-family:sans-serif;font-size:15.5px;"><strong style="font-family:sans-serif;">Home-based Learning (HBL) History Lesson</strong></p>
-<p style="font-size:14.5px; line-height:2;margin-top:0px;font-family:sans-serif;">The advances of technology has provided us with so many interesting learning platforms! With full HBL, our History teachers leveraged the learning opportunity and used Google earth to teach how the opening of Suez Canal led to mass migration in the 19th century.</p>
+<h6 style="color:#0B6623;font-family:sans-serif;font-weight:bold;margin-top:30px;"><strong style="font-family:sans-serif;font-size:17px;color:#0B6623;">Enrichment </strong></h6>
 
-<img style="width: 100%;" src="/images/human6.jpg"><br>
-<img style="width: 100%;" src="/images/human7.jpg">
-
-<p style="font-size:14.5px; line-height:2;margin-top: 0px;font-family:sans-serif;">Instead of showing the usual and plain 2D map, we can now use Google Earth to plot the journey, and look at the Suez Canal in detail.</p>
-
-<img style="width: 200%;" src="/images/human8.jpg">
-
-<p style="font-size:14.5px; line-height:2;margin-top:15px;font-family:sans-serif;">With the use of Google Earth, students can see for themselves how wide the Suez Canal is and are able to estimate the width of the canal by observing the container ships.</p>
-
-<img style="width: 200%;" src="/images/human9.jpg">
-<p style="font-size:14.5px; line-height:2;margin-top:15px;font-family:sans-serif;">Students are also able to better appreciate how by bypassing the entire African Continent when travelers use the Suez Canal, the journey is shortened from 120 days to 50 days.</p>
+<p style="font-size:14.5px; line-height:1.8;margin-top:0px;font-family:sans-serif;">Across our subjects, we have various enrichment programmes that have allowed students to explore their passion for the Humanities through inquiry-based and experiential learning.</p>
+<ul style="margin-top:5px">
+	<li style="font-size:14.5px; line-height:1.5 ;margin-top:5px; font-family:sans-serif;">Geographical Investigation</li>
+	<li style="font-size:14.5px; line-height:1.5 ;margin-top:5px; font-family:sans-serif;">Issues Investigation</li>
+	<li style="font-size:14.5px; line-height:1.5 ;margin-top:5px; font-family:sans-serif;">Historical Investigation</li>
+	<li style="font-size:14.5px; line-height:1.5 ;margin-top:5px; font-family:sans-serif;">Humanities Competitions</li>
+	<li style="font-size:14.5px; line-height:1.5 ;margin-top:5px; font-family:sans-serif;">MOE History Challenge</li>
+	<li style="font-size:14.5px; line-height:1.5 ;margin-top:5px; font-family:sans-serif;">Historical Scene Challenge</li>
+	<li style="font-size:14.5px; line-height:1.5 ;margin-top:5px; font-family:sans-serif;">NUS Geography Challenge</li>
+	</ul>

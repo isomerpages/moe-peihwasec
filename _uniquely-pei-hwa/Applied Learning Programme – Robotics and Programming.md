@@ -3,6 +3,8 @@ title: Applied Learning Programme – Robotics and Programming
 permalink: /uniquely-pei-hwa/applied-learning-programme-robotics-and-programming/
 description: ""
 ---
+<img style="width: 100%; height: auto;margin-top:30px;margin-bottom:30px;" alt="Image" src="https://raw.githubusercontent.com/isomerpages/moe-peihwasec/staging/images/Uniquely%20Pei%20Hwa/alpbanner.png">
+
 <h6 style="color:#0B6623;font-family:sans-serif;font-weight:bold;margin-top:30px;"><strong style="font-family:sans-serif;font-size:17px;color:#0B6623;">Our Goals</strong></h6>
 <p style="font-size:14.5px; line-height:2;margin-top:0; font-family:sans-serif">Pei Hwa Secondary’s Applied Learning Programme (ALP) in Robotics and Programming aims to empower students with the technological and thinking skills that will enable them to be innovative and empathetic members of the community.&nbsp;Recognised by MOE Educational Technology Division (ETD) as the Zonal Lead School for Making from 2019 to 2022, we are
 dedicated to enriching our students' educational experience with maker education and extending maker activities to students in the North Zone. Moreover, we actively foster partnerships with technology companies to expand our industrial connections, offering our
