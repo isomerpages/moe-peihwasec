@@ -7,7 +7,6 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Homepage/new landing site photo (1).jpg
       key_highlights:
         - title: Direct School Admission
           description: Welcoming Talents
@@ -18,6 +17,7 @@ sections:
         - title: Future Leader Programme
           description: Driving Innovation
           url: /uniquely-pei-hwa/future-leader-programme/
+      background: /images/Homepage/landing site photo_30aug updated.png
   - infopic:
       title: Latest Announcements
       button: More
