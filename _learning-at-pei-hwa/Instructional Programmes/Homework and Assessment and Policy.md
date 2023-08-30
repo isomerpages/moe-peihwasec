@@ -68,7 +68,7 @@ third_nav_title: Instructional Programmes
 <tr style="border-bottom: 2px solid #009879;     background-color: #f3f3f3;">
 <td style="padding: 12px 15px;font-family:sans-serif;"><strong style="font-family:sans-serif;">Sec 4</strong></td>
 <td style="padding: 12px 15px;font-family:sans-serif;">WA: 15%</td>
-<td style="padding: 12px 15px;font-family:sans-serif;">MYE: 15%</td>
+<td style="padding: 12px 15px;font-family:sans-serif;">WA: 15%</td>
 <td style="padding: 12px 15px;font-family:sans-serif;">Prelim: 70%</td>
 <td style="padding: 12px 15px;font-family:sans-serif;">&nbsp;</td>
 </tr>
