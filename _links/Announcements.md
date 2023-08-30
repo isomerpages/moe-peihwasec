@@ -16,7 +16,7 @@ description: ""
 
 <div style="flex: 1;border: 1px solid #ccc; padding: 10px 10px; display: flex; flex-direction: column;width:100%;gap: 10px;margin: 10px; background-color:white;background-color: #0B6623;flex: 0 0 calc(33.33% - 20px);" class="box">   
 	<div style="flex: 1;" class="content"> 
-		<h5 style="text-align:center;padding-top:0px;"><a href="/lp-announcement/EOY-schedule/" style="color:#FDBC58;font-family:sans-serif;font-weight:bold;font-size:18px;text-decoration: none;text-align:center;">&nbsp;End of Year Examination Timetable</a></h5>  
+		<h5 style="text-align:center;padding-top:7px;"><a href="/lp-announcement/EOY-schedule/" style="color:#FDBC58;font-family:sans-serif;font-weight:bold;font-size:18px;text-decoration: none;text-align:center;">2023 Weighted Assessment 3 (WA3) Schedule</a></h5>  
 	</div> 
 </div>
 
