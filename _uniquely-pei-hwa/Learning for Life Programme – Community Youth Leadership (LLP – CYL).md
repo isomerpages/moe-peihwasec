@@ -37,7 +37,6 @@ Student leaders are encouraged to envision meaningful possibilities for the futu
 	<li style="font-size:14.5px; line-height:1.5;margin-left:17px;font-family:sans-serif;">At Secondary 4 and 5, student leaders focus on leaving a legacy in their graduating year. They learn to reflect on their past journey and to anchor themselves as they embark on their future endeavours. They would learn to express their passion and inspire others for the future. Student leaders also learn to foster a sense of community by celebrating shared values and victories.</li>
 </ol>
 
-<p style="font-size:14.5px; line-height:2;margin-top:0px;font-family:sans-serif;">Tier 2 student leaders include Class Leaders, Peer Support Leaders and CCA Executive Committee members while Tier 3 student leaders include Student Councillors and CCA Chairpersons and Vice-Chairpersons. Please visit here for Student Leadership Programme. https://www.peihwasec.moe.edu.sg/learning-at-pei-hwa/student-leadership/</p>
+<p style="font-size:14.5px; line-height:2;margin-top:0px;font-family:sans-serif;">Tier 2 student leaders include Class Leaders, Peer Support Leaders and CCA Executive Committee members while Tier 3 student leaders include Student Councillors and CCA Chairpersons and Vice-Chairpersons. Please visit <a href="https://www.peihwasec.moe.edu.sg/learning-at-pei-hwa/student-leadership/" style="font-size:14.5px; line-height:1.5;font-family:sans-serif;font-weight:bold;text-decoration: none;">here</a> for Student Leadership Programme. </p>
 
 <p style="margin-top:0px;font-size:14.5px; line-height:2;font-family:sans-serif;">Through our LLP, we aim to develop our students into forward-looking leaders who can actively contribute to the community.</p>
-
