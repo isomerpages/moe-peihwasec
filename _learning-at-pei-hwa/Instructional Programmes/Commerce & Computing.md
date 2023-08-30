@@ -4,7 +4,7 @@ permalink: /learning-at-pei-hwa/instructional-programmes/commerce-and-computing/
 description: ""
 third_nav_title: Instructional Programmes
 ---
-<img style="width: 100%; height: auto;margin-top:30px;" alt="Image" src="https://raw.githubusercontent.com/isomerpages/moe-peihwasec/staging/images/Learning%20%40%20Pei%20Hwa/Instructional%20Programme/Banner/commercencomputingbanner.png">
+<img style="width: 100%; height: auto;margin-top:30px;" alt="Image" src="https://raw.githubusercontent.com/isomerpages/moe-peihwasec/staging/images/Learning%20%40%20Pei%20Hwa/Instructional%20Programme/Banner/commercecomputingbanner.png">
 
 
 
@@ -31,4 +31,3 @@ third_nav_title: Instructional Programmes
 	<li style="font-size:14.5px; line-height:1.5 ;margin-top:5px; font-family:sans-serif;">Financial Literacy Programmes</li>
 	<li style="font-size:14.5px; line-height:1.5 ;margin-top:5px; font-family:sans-serif;">Applied Learning Module at Polytechnics</li>
 	</ul>
-

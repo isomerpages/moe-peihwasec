@@ -1,6 +1,6 @@
 ---
 title: Infocomm Technology
-permalink: /infocomm-technology/
+permalink: /learning-at-pei-hwa/infocomm-technology/
 description: ""
 ---
 <img style="width: 100%; height: auto;margin-top:30px;" alt="Image" src="https://raw.githubusercontent.com/isomerpages/moe-peihwasec/staging/images/Learning%20%40%20Pei%20Hwa/Instructional%20Programme/Banner/infocommtechnologybanner.png">
