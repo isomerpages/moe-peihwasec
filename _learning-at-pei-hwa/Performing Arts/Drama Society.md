@@ -107,7 +107,7 @@ third_nav_title: Performing Arts
 <blockquote style="font-size: 15px;width:100%;margin:50px auto;margin-top:5px;font-family:serif;font-style:italic;color: #555555;padding:1.2em 25px 1.2em 25px;border-left:8px solid #0C6523;line-height:1.6;position: relative;background:#EDEDED;">
 <img align="left" src="https://raw.githubusercontent.com/isomerpages/moe-peihwasec/staging/images/CCA/dramatestimonial04.png" style="width: 23%; border-radius: 7%;  margin-right:15px;">
 	"Drama embodies the PRIDE values by fostering a space where students explore, adapt, commit, create, and collaborate to bring compelling stories to life"
-  <span style="display:block; color:#333333; margin-top:1em;font-size:15px;font-family:sans-serif;"><em style="font-family:sans-serif;">Secondary One representative, Chang Thu Dinh</em></span><br><br><br>
+  <span style="display:block; color:#333333; margin-top:1em;font-size:15px;font-family:sans-serif;"><em style="font-family:sans-serif;">Secondary One representative, Chang Thu Dinh</em></span><br><br><br><br><br><br>
 	</blockquote> 
 	
 <h6 style="color:#0B6623;font-family:sans-serif;font-weight:bold;margin-top:30px;"><strong style="font-family:sans-serif;font-size:17px;color:#0B6623;">CCA Details</strong></h6>
