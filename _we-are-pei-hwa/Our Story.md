@@ -17,9 +17,14 @@ In 2018, the school integrated its ALP and LLP in a new Project Work curriculum.
 In 2019, the school broadened its Internationalisation Programme with the collaboration with partner schools in Bangkok and Hanoi. In 2020, Pei Hwa was one of 24 pilot schools to implement Full Subject-Based Banding (Full SBB). The school was also recognised as the Zonal Lead School for Makers’ Education.<br><br>
 2023, the school refreshed its Vision, Mission and Values, with the aim of developing Future-Ready Learners and Forward-Looking Leaders who have the zest to learn, the dare to innovate and the heart to lead and serve. The school also repositioned its project work curriculum as the Future Leaders Programme.<br><br>
 With a strong emphasis on developing innovation and resilience, the school continues to play a pivotal role in moulding the future of its students. Pei Hwa Secondary School's history is a testament to its enduring legacy in providing holistic and quality education to our youths.
-</p>
-<ul>
-</ul>
+	</p>
+	<p style="margin: 30px 0;font-size:14.5px; line-height:2;font-family:sans-serif;">dsg</p><p>
+</p><ul style="margin-top:35px">
+	<li style="font-size:14.5px; line-height:2; font-family:sans-serif;"> Schools Digital Media Awards</li>
+<li style="font-size:14.5px; line-height:2; margin-bottom:-5px; font-family:sans-serif;"> NEmation</li>
+<li style="font-size:14.5px; line-height:2; font-family:sans-serif;"> Schools Digital Media Awards</li>
+<li style="font-size:14.5px; line-height:2; margin-bottom:-5px; font-family:sans-serif;"> NEmation</li>
+	</ul>
 </div>
 </div>
 
