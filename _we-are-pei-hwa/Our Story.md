@@ -15,15 +15,17 @@ The school was officially opened on 28 July 2007 by then Minister for Education 
 In 2014, Pei Hwa was one of the 12 pilot schools to implement Subject-Based Banding (SBB). The school’s Applied Learning Programme (ALP) is in Robotics and Programming, with a science, technology, engineering and mathematics focus. Its Learning for Life Programme (LLP) is in Community Youth Leadership, titled ‘PRIDE of the Community: Developing Altruists’. <br><br>
 In 2018, the school integrated its ALP and LLP in a new Project Work curriculum. The school launched its inaugural Open House and also saw the completion of the indoor sports hall. <br><br>
 In 2019, the school broadened its Internationalisation Programme with the collaboration with partner schools in Bangkok and Hanoi. In 2020, Pei Hwa was one of 24 pilot schools to implement Full Subject-Based Banding (Full SBB). The school was also recognised as the Zonal Lead School for Makers’ Education.<br><br>
-2023, the school refreshed its Vision, Mission and Values, with the aim of developing Future-Ready Learners and Forward-Looking Leaders who have the zest to learn, the dare to innovate and the heart to lead and serve. The school also repositioned its project work curriculum as the Future Leaders Programme.<br><br>
+2023, the school refreshed its Vision, Mission and Values, with the aim of developing <strong style="font-size:14.5px; line-height:2;font-family:sans-serif;">Future-Ready Learners and Forward-Looking Leaders </strong> who have the <u style="font-size:14.5px; line-height:2;font-family:sans-serif;">zest to learn, the dare to innovate and the heart to lead and serve.</u> The school also repositioned its project work curriculum as the Future Leaders Programme.<br><br>
 With a strong emphasis on developing innovation and resilience, the school continues to play a pivotal role in moulding the future of its students. Pei Hwa Secondary School's history is a testament to its enduring legacy in providing holistic and quality education to our youths.
 	</p>
-	<p style="margin: 30px 0;font-size:14.5px; line-height:2;font-family:sans-serif;">dsg</p><p>
-</p><ul style="margin-top:35px">
-	<li style="font-size:14.5px; line-height:2; font-family:sans-serif;"> Schools Digital Media Awards</li>
-<li style="font-size:14.5px; line-height:2; margin-bottom:-5px; font-family:sans-serif;"> NEmation</li>
-<li style="font-size:14.5px; line-height:2; font-family:sans-serif;"> Schools Digital Media Awards</li>
-<li style="font-size:14.5px; line-height:2; margin-bottom:-5px; font-family:sans-serif;"> NEmation</li>
+	<p style="font-size:14.5px; line-height:2;font-family:sans-serif;margin-top:50px;">Principals:</p>
+<ul style="margin-top:-5px">
+	<li style="font-size:14.5px; line-height:2; font-family:sans-serif;"> Ms Chong Hoi Neng (2005–2008)</li>
+<li style="font-size:14.5px; line-height:2; margin-bottom:-5px; font-family:sans-serif;"> Mrs Lim Ai Poo (2009–2015)
+</li>
+<li style="font-size:14.5px; line-height:2; font-family:sans-serif;"> Mrs Belinda Chan (2016–2021)
+</li>
+<li style="font-size:14.5px; line-height:2; margin-bottom:-5px; font-family:sans-serif;"> Mr Mohd Azhar B Terimo (2022–present)</li>
 	</ul>
 </div>
 </div>
