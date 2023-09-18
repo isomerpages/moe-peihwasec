@@ -3,7 +3,9 @@ title: Instructional Programmes
 permalink: /learning-at-pei-hwa/instructional-programmes/
 description: ""
 ---
-<div style="padding:70px;margin-top:-100px;max-width:100%">
+<img style="width: 100%; height: auto;margin-top:30px;" alt="Image" src="https://raw.githubusercontent.com/isomerpages/moe-peihwasec/staging/images/Learning%20%40%20Pei%20Hwa/Instructional%20Programme/Banner/instructionalprogrammebanner.png">
+
+<div style="padding:70px;margin-top:-30px;max-width:100%">
 
 
 <div style="display:flex;flex-wrap: wrap; justify-content: space-between;">

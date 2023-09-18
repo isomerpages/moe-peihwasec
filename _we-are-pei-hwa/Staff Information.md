@@ -19,7 +19,7 @@ description: ""
 		<td style="text-align:center; border: 1px solid #dddfe1;"><strong style="font-family:sans-serif;">Principal</strong>
 		</td>
 		<td style="text-align:center; border: 1px solid #dddfe1; font-family:sans-serif;">Mr Mohd Azhar B Terimo</td>
-		<td style="text-align:center; border: 1px solid #dddfe1; font-family:sans-serif;">-</td>
+		<td style="text-align:center; border: 1px solid #dddfe1; font-family:sans-serif;">Mohd_Azhar_TERIMO@schools.gov.sg</td>
 </tr>
 	
 <tr>
@@ -27,7 +27,7 @@ description: ""
 <strong style="font-family:sans-serif;">Vice-Principal</strong>
 </td>
 <td style="text-align:center; border: 1px solid #dddfe1; font-family:sans-serif;">Mrs Michelle Willman</td>
-		<td style="text-align:center; border: 1px solid #dddfe1; font-family:sans-serif;">-</td>
+		<td style="text-align:center; border: 1px solid #dddfe1; font-family:sans-serif;">Michelle_WILLMAN@schools.gov.sg</td>
 </tr>
 		
 <tr>
@@ -35,7 +35,7 @@ description: ""
 <strong style="font-family:sans-serif;">Vice-Principal</strong>
 </td>
 <td style="text-align:center; border: 1px solid #dddfe1; font-family:sans-serif;">Mr Ow Weng Keong</td>
-		<td style="text-align:center; border: 1px solid #dddfe1; font-family:sans-serif;">-</td>
+		<td style="text-align:center; border: 1px solid #dddfe1; font-family:sans-serif;">OW_Weng_Keong@schools.gov.sg</td>
 </tr>
 	
 <tr>
