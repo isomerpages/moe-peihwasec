@@ -42,7 +42,7 @@ description: ""
 <td style="text-align:center; border: 1px solid #dddfe1;">
 <strong style="font-family:sans-serif;">HOD InfoComm Technology</strong>
 </td>
-<td style="text-align:center; border: 1px solid #dddfe1; font-family:sans-serif;">Mdm Shalini D/O Tashanamurthi</td>
+<td style="text-align:center; border: 1px solid #dddfe1; font-family:sans-serif;">Ms Shalini D/O Tashanamurthi</td>
 <td style="text-align:center; border: 1px solid #dddfe1; font-family:sans-serif;">shalini_tashnamurthi@moe.edu.sg</td>
 </tr>
 	
