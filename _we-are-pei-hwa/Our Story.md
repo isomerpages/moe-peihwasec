@@ -18,7 +18,7 @@ In 2018, the school integrated its ALP and LLP in a new Project Work curriculum.
 2023, the school refreshed its Vision, Mission and Values, with the aim of developing <strong style="font-size:14.5px; line-height:2;font-family:sans-serif;">Future-Ready Learners and Forward-Looking Leaders </strong> who have the <u style="font-size:14.5px; line-height:2;font-family:sans-serif;">zest to learn, the dare to innovate and the heart to lead and serve.</u> The school also repositioned its project work curriculum as the Future Leaders Programme.<br><br>
 With a strong emphasis on developing innovation and resilience, the school continues to play a pivotal role in moulding the future of its students. Pei Hwa Secondary School's history is a testament to its enduring legacy in providing holistic and quality education to our youths.
 	</p>
-	<p style="font-size:14.5px; line-height:2;font-family:sans-serif;margin-top:50px;">Principals:</p>
+<p style="font-size:14.5px; line-height:2;font-family:sans-serif;margin-top:50px;">Principals:</p>
 <ul style="margin-top:-5px">
 	<li style="font-size:14.5px; line-height:2; font-family:sans-serif;"> Ms Chong Hoi Neng (2005–2008)</li>
 <li style="font-size:14.5px; line-height:2; margin-bottom:-5px; font-family:sans-serif;"> Mrs Lim Ai Poo (2009–2015)
@@ -32,6 +32,6 @@ With a strong emphasis on developing innovation and resilience, the school conti
 
 <h6 style="color:#0B6623;font-family:sans-serif;font-size:17px;"><strong style="color:#0B6623;font-weight:bold;font-family:sans-serif;font-size:17px;">Our Education Philosophy</strong></h6>&nbsp;
 
-<img style="width: 100%; height: auto;margin-top:-15px;" alt="Image" src="https://raw.githubusercontent.com/isomerpages/moe-peihwasec/staging/images/Links/link06.png">
+<img style="width: 100%; height: auto;" alt="Image" src="https://raw.githubusercontent.com/isomerpages/moe-peihwasec/staging/images/Links/link06.png">
 
 <p style="font-size:14.5px; line-height:2;font-family:sans-serif;">We seek to develop well-rounded individuals equipped with critical thinking skills, creativity, empathy, and a sense of social responsibility. We believe that every child has limitless potential to grow and is very much capable of transformative growth. Our educational approach is dedicated to nurturing the interests and aptitudes of every child, providing them with the supportive environment they need to flourish and grow. By prioritising personal growth, experiential learning, collaboration, and community engagement, we hope to empower all students to become Future-Ready Learners and Forward-Looking Leaders.</p>
