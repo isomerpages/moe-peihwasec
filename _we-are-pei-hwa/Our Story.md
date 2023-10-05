@@ -35,4 +35,3 @@ With a strong emphasis on developing innovation and resilience, the school conti
 <img style="width: 100%; height: auto;margin-top:-15px;" alt="Image" src="https://raw.githubusercontent.com/isomerpages/moe-peihwasec/staging/images/Links/link06.png">
 
 <p style="font-size:14.5px; line-height:2;font-family:sans-serif;">We seek to develop well-rounded individuals equipped with critical thinking skills, creativity, empathy, and a sense of social responsibility. We believe that every child has limitless potential to grow and is very much capable of transformative growth. Our educational approach is dedicated to nurturing the interests and aptitudes of every child, providing them with the supportive environment they need to flourish and grow. By prioritising personal growth, experiential learning, collaboration, and community engagement, we hope to empower all students to become Future-Ready Learners and Forward-Looking Leaders.</p>
-
