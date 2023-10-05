@@ -31,7 +31,7 @@ description: ""
 <h6 style="color:#0B6623;font-family:sans-serif;font-weight:bold;margin-top:30px;"><strong style="font-family:sans-serif;font-size:17px;color:#0B6623;">Application Procedure</strong></h6>
 
 <ol style="margin-top:-5px">
-	<li style="font-size:14.5px; line-height:2; font-family:sans-serif;"> Download and complete the application.[](/files/application%20form%20-%20canteen%20stall%20(hot%20drinks%20&amp;%20snacks%20-%20halal).pdf) You may also request for a hardcopy from the School’s General Office.</li>
+	<li style="font-size:14.5px; line-height:2; font-family:sans-serif;"> Download and complete the application. [Appplication Form ](/files/application%20form%20-%20canteen%20stall%20(hot%20drinks%20&amp;%20snacks%20-%20halal).pdf) You may also request for a hardcopy from the School’s General Office.</li>
 <li style="font-size:14.5px; line-height:2; margin-bottom:-5px; font-family:sans-serif;">  Attached the following documents together with the application form:</li>
 	<ul style="margin-top:-5px">
 		<li style="font-size:14.5px; line-height:2; font-family:sans-serif;">Photocopy of the NRIC (front and back)</li>
