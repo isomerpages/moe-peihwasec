@@ -30,14 +30,51 @@ description: ""
 
 <h6 style="color:#0B6623;font-family:sans-serif;font-weight:bold;margin-top:30px;"><strong style="font-family:sans-serif;font-size:17px;color:#0B6623;">Application Procedure</strong></h6>
 
+<ol style="margin-top:-5px">
+	<li style="font-size:14.5px; line-height:2; font-family:sans-serif;"> Download and complete the application form. You may also request for a hardcopy from the School’s General
+Office.</li>
+<li style="font-size:14.5px; line-height:2; margin-bottom:-5px; font-family:sans-serif;">  Attached the following documents together with the application form:</li>
+	<ul style="margin-top:-5px">
+		<li style="font-size:14.5px; line-height:2; font-family:sans-serif;">Photocopy of the NRIC (front and back) Office.</li>
+		<li style="font-size:14.5px; line-height:2; font-family:sans-serif;">List of proposed menu and pricing for all items
+</li>
+		<li style="font-size:14.5px; line-height:2; font-family:sans-serif;margin-bottom:-5px;">Photocopy of relevant certificates such as Basic Food Hygiene Course, etc
+</li>
+	</ul>
+	<li style="font-size:14.5px; line-height:2; margin-bottom:-5px; font-family:sans-serif;"> Submit the completed application form and documents by closing date via email OR to the School's General Office.</li>
+		<ul style="list-style-type: none;margin-top:15px;">
+		<li style="font-size:14.5px; line-height:1.5; font-family:sans-serif;">Address: 21 Fernvale Link Singapore 797702</li>
+		<li style="font-size:14.5px; line-height:1.5; font-family:sans-serif;">Contact No: 65009580</li>
+		<li style="font-size:14.5px; line-height:1.5; font-family:sans-serif;">Email: peihwasec@moe.edu.sg</li>
+			<li style="font-size:14.5px; line-height:1.5; font-family:sans-serif;">Contact Person: Ms Engratia Ong </li>
+	</ul>
+</ol>
+	
+<h6 style="color:#0B6623;font-family:sans-serif;font-weight:bold;margin-top:30px;"><strong style="font-family:sans-serif;font-size:17px;color:#0B6623;">Interest applicants must meet the following criteria:</strong></h6>
 
-<p style="font-size:14.5px; line-height:2.0;font-family:sans-serif;margin-top:0px;">Download and complete the application form. You may also request for a hardcopy from the School’s General
-Office.</p>
+<ol style="margin-top:-5px">
+	<li style="font-size:14.5px; line-height:2; font-family:sans-serif;"> Singapore citizen or Singapore Permanent Resident (SPR) for stallholder and stall assistant.</li>
+<li style="font-size:14.5px; line-height:2; margin-bottom:-5px; font-family:sans-serif;">Able to provide good service and quality food with prices determined in consultation with the school.
+</li>
+	<li style="font-size:14.5px; line-height:2; margin-bottom:-5px; font-family:sans-serif;">Able to provide cooked food that meets the health / nutritional standards set by the Health Promotion Board (HPB) under the "Healthy Meals in Schools Programme (HMSP)" guidelines (see <a href="https://www.hpb.gov.sg/schools/school-programmes/healthy-meals-in-schools-programme" style="font-size:14.5px; line-height:1.5;font-family:sans-serif;font-weight:bold;text-decoration: none;">here</a>.</li>
+	<li style="font-size:14.5px; line-height:2; margin-bottom:-5px; font-family:sans-serif;">Able to maintain high standard of food safety and personal hygiene.</li>
+	<li style="font-size:14.5px; line-height:2; margin-bottom:-5px; font-family:sans-serif;">Healthy and fit to operate the stall.</li>
+	<li style="font-size:14.5px; line-height:2; margin-bottom:-5px; font-family:sans-serif;">Must be in personal attendance at the stall during operating hours.</li>
+		<li style="font-size:14.5px; line-height:2; margin-bottom:-5px; font-family:sans-serif;">Shall not provide disposables for dine-in meals in the canteen.</li>
+		<li style="font-size:14.5px; line-height:2; margin-bottom:-5px; font-family:sans-serif;">Prior experience in running a school canteen stall will be an added advantage. </li>
+		<li style="font-size:14.5px; line-height:2; margin-bottom:-5px; font-family:sans-serif;">Applicants should preferably fulfil the following criteria:</li>	
+	<ul style="margin-top:-5px">
+		<li style="font-size:14.5px; line-height:2; font-family:sans-serif;"> Successful applicant and stall assistant(s) must possess the WSQ Basic Food Hygiene Certificate.</li>
+		<li style="font-size:14.5px; line-height:2; font-family:sans-serif;">Possess catering experience or experience operating in a school environment.</li>
+		<li style="font-size:14.5px; line-height:2; font-family:sans-serif;margin-bottom:-5px;">Successful applicant is required to apply for a food stall license from Singapore Food Agency (SFA).</li>
+	</ul>
+</ol>
 
-<p style="font-size:14.5px; line-height:2;font-family:sans-serif;margin-top:0px;">Our students take to the stage on during assembly to share their thoughts and viewpoints on our student outcomes, school values and current affairs. These 'slices' of their lives are savoured by the Pei Hwa Family.
-</p>
+<p style="line-height:2;margin-top:5px;margin-bottom:0;font-family:sans-serif;font-size:14.5px;"><strong style="font-family:sans-serif;">Shortlisted applicants will be notified for an interview and will be required to provide food sampling for the School Canteen Selection Committee at the applicant's own expense. </strong></p>
 
+<h6 style="color:#0B6623;font-family:sans-serif;font-weight:bold;margin-top:30px;"><strong style="font-family:sans-serif;font-size:17px;color:#0B6623;">How to get there?</strong></h6>
 
-<p style="line-height:2;margin-top:5px;margin-bottom:0;font-family:sans-serif;font-size:15.5px;"><strong style="font-family:sans-serif;">Literature in English </strong></p>
-<p style="font-size:14.5px; line-height:2.0;margin-top:0px;font-family:sans-serif;">In the 21<sup style="font-family:sans-serif;">st</sup> Century, where people wrestle with the essential questions of what it means to live a meaningful and flourishing life and where globalisation, changing demographics, and technological advancements drive change, the study of Literature matters. 
-</p>
+<ul style="margin-top:-5px">
+		<li style="font-size:14.5px; line-height:2; font-family:sans-serif;">Nearest LRT: Layar LRT– 3 minutes walking distance</li>
+		<li style="font-size:14.5px; line-height:2; font-family:sans-serif;margin-bottom:-5px;">Bus number: 50, 163 - 4 minutes walking distance</li>
+	</ul>
