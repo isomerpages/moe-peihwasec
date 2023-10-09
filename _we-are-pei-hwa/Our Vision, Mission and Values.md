@@ -29,7 +29,6 @@ description: ""
 	<div style="flex: 1;" class="column"> 
 		<h6 style="margin: 0;color:#F8BF58;font-family:sans-serif;font-size:17px;"><strong style="color:#F8BF58;font-weight:bold;font-family:sans-serif;font-size:17px;">Our Mission</strong></h6> 
 		<p style="font-size:14.5px; line-height:1.5 ;margin-top:5px; font-family:sans-serif;font-style: italic;font-weight: bold;color: white;">Inspiring every Pei Hwa-ian with the zest to learn, the dare to innovate and the heart to lead and serve<br><br>
-Inspiring every Pei Hwa-ian with the zest to learn, the dare to innovate and the heart to lead and serve.
 </p> 
 </div>
 
