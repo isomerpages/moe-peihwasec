@@ -9,8 +9,8 @@ description: ""
 <table style="width:100%" border="1">
 	<thead style="background-color: #54585d; font-weight: bold; font-size: 15.5px; border: 1px solid #54585d; font-family:sans-serif;">
 		<tr>
-			<td style="text-align:center;color:white; width:30%; font-family:sans-serif;">Designation</td>
-			<td style="text-align:center; color:white;width:40%; font-family:sans-serif;">Name</td>
+			<td style="text-align:center;color:white; width:40%; font-family:sans-serif;">Designation</td>
+			<td style="text-align:center; color:white;width:30%; font-family:sans-serif;">Name</td>
 			<td style="text-align:center; color:white;width:30% font-family:sans-serif;">Email</td>
 		</tr>
 	</thead>
