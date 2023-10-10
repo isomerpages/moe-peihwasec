@@ -9,17 +9,17 @@ description: ""
 <table style="width:100%" border="1">
 	<thead style="background-color: #54585d; font-weight: bold; font-size: 15.5px; border: 1px solid #54585d; font-family:sans-serif;">
 		<tr>
-			<td style="text-align:center;color:white; width:20%; font-family:sans-serif;">Designation</td>
-			<td style="text-align:center; color:white;width:42%; font-family:sans-serif;">Name</td>
-			<td style="text-align:center; color:white;width:38% font-family:sans-serif;">Email</td>
+			<td style="text-align:center;color:white; width:40%; font-family:sans-serif;">Designation</td>
+			<td style="text-align:center; color:white;width:30%; font-family:sans-serif;">Name</td>
+			<td style="text-align:center; color:white;width:30% font-family:sans-serif;">Email</td>
 		</tr>
 	</thead>
-	<tbody style="font-size:14.5px; line-height: 1.8;">
+	<tbody style="font-size:14.5px; line-height: 1.5;">
 		<tr>
-		<td style="text-align:center; border: 1px solid #dddfe1;"><strong style="font-family:sans-serif;">Principal</strong>
+		<td style="text-align:center; border: 1px solid #dddfe1;width:30%;"><strong style="font-family:sans-serif;">Principal</strong>
 		</td>
-		<td style="text-align:center; border: 1px solid #dddfe1; font-family:sans-serif;">Mr Mohd Azhar B Terimo</td>
-		<td style="text-align:center; border: 1px solid #dddfe1; font-family:sans-serif;">Mohd_Azhar_TERIMO@schools.gov.sg</td>
+		<td style="text-align:center; border: 1px solid #dddfe1; font-family:sans-serif;width:40%;">Mr Mohd Azhar B Terimo</td>
+		<td style="text-align:center; border: 1px solid #dddfe1; font-family:sans-serif;width:30%;">Mohd_Azhar_TERIMO@schools.gov.sg</td>
 </tr>
 	
 <tr>
@@ -192,7 +192,7 @@ lee_wei_ying@moe.edu.sg
 <td style="text-align:center; border: 1px solid #dddfe1;">
 <strong style="font-family:sans-serif;">SH Student Leadership</strong>
 </td>
-<td style="text-align:center; border: 1px solid #dddfe1;font-family:sans-serif;">Ms Chan Xin Hui Michelle (Mrs Jonathan)</td>
+<td style="text-align:center; border: 1px solid #dddfe1;font-family:sans-serif;">Ms Chan Xin Hui Michelle <br>(Mrs Jonathan)</td>
 <td style="text-align:center; border: 1px solid #dddfe1;font-family:sans-serif;">chan_xin_hui_michelle@schools.gov.sg</td>
 </tr>
 		
@@ -261,7 +261,7 @@ lee_wei_ying@moe.edu.sg
 </div>
 </li>
 	
-<li><input id="accordion2" type="checkbox"> <label for="accordion2" style="font-family:sans-serif;;">Secondary 1 Classes 2023</label>
+<li><input id="accordion2" type="checkbox"> <label for="accordion2" style="font-family:sans-serif;">Secondary 1 Classes 2023</label>
 <div>
 <table style="width:100%" border="1">
 <thead style="background-color: #54585d; font-weight: bold; font-size: 15.5px; border: 1px solid #54585d;">
@@ -271,7 +271,7 @@ lee_wei_ying@moe.edu.sg
 			<td style="text-align:center; color:white;width:38%;font-family:sans-serif;">Email</td>
 		</tr>
 	</thead>
-<tbody style="font-size:14.5px; line-height: 1.8;">
+<tbody style="font-size:14.5px; line-height: 1.5;">
 	
 <tr>
 		<td style="text-align:center; border: 1px solid #dddfe1;"><strong style="font-family:sans-serif;">Passion 1</strong>
@@ -396,7 +396,7 @@ chua_jin_xia_valerie@moe.edu.sg
 			<td style="text-align:center; color:white;width:38%;font-family:sans-serif;">Email</td>
 		</tr>
 	</thead>
-<tbody style="font-size:14.5px; line-height: 1.8;">
+<tbody style="font-size:14.5px; line-height: 1.5;">
 <tr>
 <td style="text-align:center; border: 1px solid #dddfe1;">
 <strong style="font-family:sans-serif;">Resilience 1</strong>
@@ -527,7 +527,7 @@ wong_ser_ching@moe.edu.sg
 </tr>
 </thead>
 	
-<tbody style="font-size:14.5px; line-height: 1.8;">
+<tbody style="font-size:14.5px; line-height: 1.5;">
 
 <tr>
 <td style="text-align:center; border: 1px solid #dddfe1;">
@@ -671,7 +671,7 @@ jaime_toh_guek_peng@moe.edu.sg
 </tr>
 </thead>
 	
-<tbody style="font-size:14.5px; line-height: 1.8;">
+<tbody style="font-size:14.5px; line-height: 1.5;">
 	
 <tr>
 <td style="text-align:center; border: 1px solid #dddfe1;">
