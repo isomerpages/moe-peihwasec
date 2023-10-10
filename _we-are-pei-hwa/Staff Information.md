@@ -14,7 +14,7 @@ description: ""
 			<td style="text-align:center; color:white;width:30% font-family:sans-serif;">Email</td>
 		</tr>
 	</thead>
-	<tbody style="font-size:14.5px; line-height: 1.8;">
+	<tbody style="font-size:14.5px; line-height: 1.5;">
 		<tr>
 		<td style="text-align:center; border: 1px solid #dddfe1;width:30%;"><strong style="font-family:sans-serif;">Principal</strong>
 		</td>
