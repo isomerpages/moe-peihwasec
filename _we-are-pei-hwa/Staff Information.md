@@ -9,17 +9,17 @@ description: ""
 <table style="width:100%" border="1">
 	<thead style="background-color: #54585d; font-weight: bold; font-size: 15.5px; border: 1px solid #54585d; font-family:sans-serif;">
 		<tr>
-			<td style="text-align:center;color:white; width:20%; font-family:sans-serif;">Designation</td>
-			<td style="text-align:center; color:white;width:42%; font-family:sans-serif;">Name</td>
-			<td style="text-align:center; color:white;width:38% font-family:sans-serif;">Email</td>
+			<td style="text-align:center;color:white; width:30%; font-family:sans-serif;">Designation</td>
+			<td style="text-align:center; color:white;width:40%; font-family:sans-serif;">Name</td>
+			<td style="text-align:center; color:white;width:30% font-family:sans-serif;">Email</td>
 		</tr>
 	</thead>
 	<tbody style="font-size:14.5px; line-height: 1.8;">
 		<tr>
-		<td style="text-align:center; border: 1px solid #dddfe1;"><strong style="font-family:sans-serif;">Principal</strong>
+		<td style="text-align:center; border: 1px solid #dddfe1;width:30%;"><strong style="font-family:sans-serif;">Principal</strong>
 		</td>
-		<td style="text-align:center; border: 1px solid #dddfe1; font-family:sans-serif;">Mr Mohd Azhar B Terimo</td>
-		<td style="text-align:center; border: 1px solid #dddfe1; font-family:sans-serif;">Mohd_Azhar_TERIMO@schools.gov.sg</td>
+		<td style="text-align:center; border: 1px solid #dddfe1; font-family:sans-serif;width:40%;">Mr Mohd Azhar B Terimo</td>
+		<td style="text-align:center; border: 1px solid #dddfe1; font-family:sans-serif;width:30%;">Mohd_Azhar_TERIMO@schools.gov.sg</td>
 </tr>
 	
 <tr>
