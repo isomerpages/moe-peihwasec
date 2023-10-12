@@ -12,7 +12,7 @@ third_nav_title: Instructional Programmes
 	
 <p style="font-size:14.5px; line-height:2;font-family:sans-serif;margin-top:0px;"><i style="font-size:14.5px;font-family:sans-serif;color: inherit;">“To develop students who are confident and competent communicators through an engaging and empowering English Language and Literature curriculum”</i></p>
 <p style="font-size:14.5px; line-height:2;font-family:sans-serif;margin-top:0px;">Through English Language and Literature, we endeavour to inculcate in students a love for the English language, and an appreciation of the intricacies of the language to create personalised meaning. </p>
-<p style="font-size:14.5px; line-height:2;font-family:sans-serif;margin-top:0px;">We aim to give students the regularly opportunities to formulate their ideas and share their thoughts during discussions and presentations in class effectively and impactfully. </p>
+<p style="font-size:14.5px; line-height:2;font-family:sans-serif;margin-top:0px;">We aim to give students the regular opportunities to formulate their ideas and share their thoughts during discussions and presentations in class effectively and impactfully. </p>
 
 
 <h6 style="color:#0B6623;font-family:sans-serif;font-weight:bold;margin-top:30px;"><strong style="font-family:sans-serif;font-size:17px;color:#0B6623;">Curriculum</strong></h6>
