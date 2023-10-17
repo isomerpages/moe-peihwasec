@@ -7,7 +7,7 @@ description: ""
 image: ""
 ---
 <img style="width: 50%;" src="/images/pei-hwa-foundation-2023.jpeg">
-<p style="font-family:sans-serif;font-size:15.5px;"><strong style="font-family:sans-serif;font-size:15.5px;">Pei Hwa Foundation Scholarship for Alumni Youth Wing Members</strong></p>
+<h5 style="font-weight: 700;margin: 0;color:#0B6623;font-size:18px;margin-top:15px; font-family:sans-serif;text-align:left;" class="header">Pei Hwa Foundation Scholarship for Alumni Youth Wing Members</h5>
 <p style="margin-top:15px;font-size:15.5px;"><strong style="font-family:sans-serif;">Introduction</strong></p>
 <p style="font-size:14.5px; line-height:1.8;margin-top:0px;font-family:sans-serif;">The Pei Hwa Foundation is offering the Pei Hwa Foundation Scholarship to outstanding Pei Hwa Alumni Youth Wing students who wish to pursue their education in an Institute of Higher Learning.</p>
 <p style="margin-top:15px;font-size:15.5px;"><strong style="font-family:sans-serif;">Objectives</strong></p>
