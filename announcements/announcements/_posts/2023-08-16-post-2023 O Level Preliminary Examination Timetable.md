@@ -6,4 +6,4 @@ layout: post
 description: ""
 image: ""
 ---
-<p style="font-family:sans-serif;font-size:14.5px;">Please click <a href="https://drive.google.com/file/d/1D1WZwrLZ3_KdHPh09UoDYp7YB77vle6O/view?usp=sharing" style="font-family:sans-serif;font-size:14.5px;"> here</a> for the 2023 O level Preliminary Examination Timetable.</p>
+<p style="font-family:sans-serif;font-size:14.5px;">Please click <a href="https://drive.google.com/file/d/1D1WZwrLZ3_KdHPh09UoDYp7YB77vle6O/view?usp=sharing" style="font-size:14.5px; line-height:1.5;font-family:sans-serif;font-weight:bold;text-decoration: none;"> here</a> for the 2023 O level Preliminary Examination Timetable.</p>

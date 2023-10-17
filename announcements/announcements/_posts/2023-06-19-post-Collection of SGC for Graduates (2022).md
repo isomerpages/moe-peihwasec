@@ -6,8 +6,7 @@ layout: post
 description: ""
 image: ""
 ---
-<p style="font-family:sans-serif;">
-	<strong style="font-family:sans-serif;font-size:16px;">Collection of SGC for Graduates (2022)</strong></p>
+<h5 style="font-weight: 700;margin: 0;color:#0B6623;font-size:18px;margin-top:15px; font-family:sans-serif;text-align:center;" class="header">Collection of SGC for Graduates (2022)</h5>
 
 <p style="font-family:sans-serif;font-size:14.5px;line-height:1">Dear Graduates, </p>
 <p style="font-family:sans-serif;font-size:14.5px;padding-left:10px;line-height:2;">
