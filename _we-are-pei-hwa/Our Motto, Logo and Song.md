@@ -34,13 +34,12 @@ description: ""
 </div>
 
 <div style="flex: 1; padding: 0 10px;" class="column">
-<p style="margin: 0;font-size:14.5px; line-height:2;font-family:sans-serif;">Here in Pei Hwa  
-Our talents are nurtured  
-Here in Pei Hwa  
-Where we share in harmony  
-We’ll spread our wings  
-Fly far and high  
-To bring pride and glory  
+<p style="margin: 0;font-size:14.5px; line-height:2;font-family:sans-serif;">Here in Pei Hwa<br>  
+Our talents are nurtured<br>  
+Here in Pei Hwa<br>  
+Where we share in harmony<br>  
+We’ll spread our wings fly far and high<br> 
+To bring pride and glory<br>  
 To the happy Pei Hwa family</p>
 </div>
 </div>
