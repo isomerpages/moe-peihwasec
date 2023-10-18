@@ -38,8 +38,7 @@ description: ""
 Our talents are nurtured<br>  
 Here in Pei Hwa<br>  
 Where we share in harmony<br>  
-We’ll spread our wings<br>  
-Fly far and high<br>  
+We’ll spread our wings fly far and high<br> 
 To bring pride and glory<br>  
 To the happy Pei Hwa family</p>
 </div>
