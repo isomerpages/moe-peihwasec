@@ -8,9 +8,9 @@ notification: ""
 sections:
   - hero:
       key_highlights:
-        - title: Direct School Admission
-          description: Welcoming Talents
-          url: /uniquely-pei-hwa/direct-school-admission-dsa/
+        - title: Open House 2023
+          description: The PHSS Experience
+          url: /we-are-pei-hwa/pei-hwa-open-house/
         - title: Vision | Mission | Values
           description: The Heart of Pei Hwa
           url: /we-are-pei-hwa/our-vision-mission-and-values/
