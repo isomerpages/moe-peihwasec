@@ -8,8 +8,8 @@ notification: ""
 sections:
   - hero:
       key_highlights:
-        - title: Open House 2023!
-          description: Welcoming Talents
+        - title: Open House 2023
+          description: The PHSS Experience
           url: /we-are-pei-hwa/pei-hwa-open-house/
         - title: Vision | Mission | Values
           description: The Heart of Pei Hwa
