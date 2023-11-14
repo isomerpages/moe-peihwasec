@@ -30,7 +30,7 @@ variant: markdown
 		</ul>
 		<strong style="font-family:sans-serif;font-size:15px;">National Robotics Competition</strong>
 		<ul style="margin-top:-5px"> 
-			<li style="font-size:14.5px;margin-bottom:-5px;font-family:sans-serif;line-height:1.5;">Open Category 2<sup style="font-family:sans-serif;">nd</sup>Place: Devendran Venkatesh (2R3), Tu Jingyang (2R8)</li>
+			<li style="font-size:14.5px;margin-bottom:-5px;font-family:sans-serif;line-height:1.5;">Open Category 2<sup style="font-family:sans-serif;">nd</sup> Place: Devendran Venkatesh (2R3), Tu Jingyang (2R8)</li>
 			<li style="font-size:14.5px;margin-bottom:-5px;font-family:sans-serif;line-height:1.5;">Open Category Judges’ Award: Tay Kai Yi (3I4), Kieran Tan (3I5), Ritesh Sathiyamoorthi (3I8)</li>
 		</ul>
 		<strong style="font-family:sans-serif;font-size:15px;">RoboCup Singapore Open</strong>
