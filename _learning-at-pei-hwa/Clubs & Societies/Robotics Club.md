@@ -3,6 +3,7 @@ title: Robotics Club
 permalink: /learning-at-pei-hwa/cca/clubs-societies/robotics/
 description: ""
 third_nav_title: Clubs & Societies
+variant: markdown
 ---
 <img style="width: 100%; height: auto;margin-top:30px;margin-bottom:30px;" alt="Image" src="https://raw.githubusercontent.com/isomerpages/moe-peihwasec/staging/images/CCA/roboticsclubbanner.png">
 
@@ -22,7 +23,17 @@ third_nav_title: Clubs & Societies
 <tbody>
 <tr>
 <td><strong style="font-family:sans-serif;font-size:14.5px;">2023</strong></td>
-	<td><strong style="font-family:sans-serif;font-size:15px;">RoboCup Singapore Open</strong>
+	<td>
+		<strong style="font-family:sans-serif;font-size:15px;">IMDA National Youth Tech Championship</strong>
+		<ul style="margin-top:-5px"> 
+			<li style="font-size:14.5px;margin-bottom:-5px;font-family:sans-serif;line-height:1.5;">Participation: Ethan Ng Ngee Tiang (1P7), Joy Lim Jing Xuan (1P7), Thiyagarajan Santosh (1P8), Chang Guan Zheng (3I9), Yan Ging Git (3I9)</li>
+		</ul>
+		<strong style="font-family:sans-serif;font-size:15px;">National Robotics Competition</strong>
+		<ul style="margin-top:-5px"> 
+			<li style="font-size:14.5px;margin-bottom:-5px;font-family:sans-serif;line-height:1.5;">Open Category 2<sup style="font-family:sans-serif;">nd</sup>Place: Devendran Venkatesh (2R3), Tu Jingyang (2R8)</li>
+			<li style="font-size:14.5px;margin-bottom:-5px;font-family:sans-serif;line-height:1.5;">Open Category Judges’ Award: Tay Kai Yi (3I4), Kieran Tan (3I5), Ritesh Sathiyamoorthi (3I8)</li>
+		</ul>
+		<strong style="font-family:sans-serif;font-size:15px;">RoboCup Singapore Open</strong>
 		<ul style="margin-top:-5px"> 
 			<li style="font-size:14.5px;margin-bottom:-5px;font-family:sans-serif;line-height:1.5;">Cospace Rescue FirstSteps U19 1<sup style="font-family:sans-serif;">st</sup> Place - Ng Sze Qin Kaelyn (1P5), Seumus Koh (1P5), Cheonh Yue Heng Nathaniel (1P1)</li>
 			<li style="font-size:14.5px;margin-bottom:-5px;font-family:sans-serif;line-height:1.5;">Cospace Rescue U19 3<sup style="font-family:sans-serif;">rd</sup> Place - Bryceton Lam (4D4), Lee Yee Jay (4D4)</li>
