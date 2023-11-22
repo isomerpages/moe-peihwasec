@@ -50,7 +50,16 @@ variant: markdown
 	
 <tr style="background-color: #f3f3f3;">
 <td><strong style="font-family:sans-serif;font-size:14.5px;">2022</strong></td>
-	<td><strong style="font-family:sans-serif;font-size:15px;">RoboCup Singapore Open</strong>
+	<td>
+		<strong style="font-family:sans-serif;font-size:15px;">RoboCup Asia Pacific (held at Marina Bay Sands, Singapore)</strong>
+		<ul style="margin-top:-5px"> 
+			<li style="font-size:14.5px;margin-bottom:-5px;font-family:sans-serif;line-height:1.5;">CoSpace Autonomous Driving U19 Best Virtual Challenge - Tay Kai Yi (2R4), Heng Sheng Jun Ashton (2R5)</li>
+         <li style="font-size:14.5px;margin-bottom:-5px;font-family:sans-serif;line-height:1.5;">CoSpace Autonomous Driving U19 2<sup style="font-family:sans-serif;">nd</sup> Place - Tang Ka Lok (3I8), Emil Azkiputrasha (2R1)</li>
+			<li style="font-size:14.5px;margin-bottom:-5px;font-family:sans-serif;line-height:1.5;">CoSpace Rescue U19 3<sup style="font-family:sans-serif;">rd</sup> Place - Tay Ernest (3I7), Matsumura Taku (3I1)</li>
+			<li style="font-size:14.5px;margin-bottom:-5px;font-family:sans-serif;line-height:1.5;">CoSpace Rescue U19 2<sup style="font-family:sans-serif;">nd</sup> Place - Ng Jun Lin, Cogan (3I7), Tey Hao Yuan (3I6), Elkan Sin Yew Ken (1P8)</li>
+			<li style="font-size:14.5px;margin-bottom:-5px;font-family:sans-serif;line-height:1.5;">CoSpace Rescue U19 SuperTeam 1<sup style="font-family:sans-serif;">st</sup> Place - Tay Ernest (3I7), Matsumura Taku (3I1)</li>
+		</ul>
+		<strong style="font-family:sans-serif;font-size:15px;">RoboCup Singapore Open</strong>
 		<ul style="margin-top:-5px"> 
 			<li style="font-size:14.5px;margin-bottom:-5px;font-family:sans-serif;line-height:1.5;">OnStage 1<sup style="font-family:sans-serif;">st</sup> Place - 
 Tay Kai Wen, Bryan (4D1), Lai Le Xin Grace (3I4), Ain Myeisha Arman (3I1), Chang Guan Zheng (Justin) (2R9), Yan Ging Git (Zhenn Jingjie) (2R9), Chong Yun Ting Felicia (1P4)</li>
