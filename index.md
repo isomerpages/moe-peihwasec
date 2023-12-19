@@ -8,9 +8,9 @@ notification: ""
 sections:
   - hero:
       key_highlights:
-        - title: Open House 2023
-          description: The PHSS Experience
-          url: /we-are-pei-hwa/pei-hwa-open-house/
+        - title: Secondary 1 Registration 2024
+          description: Click here for more
+          url: https://www.peihwasec.moe.edu.sg/lp-announcement/secondary-1-registration/
         - title: Vision | Mission | Values
           description: The Heart of Pei Hwa
           url: /we-are-pei-hwa/our-vision-mission-and-values/

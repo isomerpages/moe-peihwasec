@@ -13,11 +13,11 @@ variant: markdown
 	<tbody>
 		<tr>
 			<td style="background-color: #54585d; font-weight: bold; font-size: 14.5px; border: 1px solid #54585d; color:white;border-bottom: 1px solid #dddddd;width:20%;font-family:sans-serif;">20 Dec 2023</td>
-			<td style="border: 1px solid #dddfe1;font-size: 14.5px;font-family:sans-serif;">Release of Sec 1 Posting Results by MOE<br><br>There is no requirement for students to report physically to the school. <br><br>You will receive notifications from Pei Hwa Secondary School via Parents Gateway for all administrative matters. If you do not have Parents Gateway yet, please click <a href="https://pg.moe.edu.sg/" style="font-size:14.5px; line-height:1.5;font-family:sans-serif;font-weight:bold;text-decoration: none;">here</a> to register for it.<br><br>If you still require more assistance then, please e-mail the school at <a href="mailto:peihwasec@moe.edu.sg" style="font-size:14.5px; line-height:1.5;font-family:sans-serif;font-weight:bold;text-decoration: none;">peihwasec@moe.edu.sg</a> or call 65009580 (Please be patient with us we are expecting high volumes of traffic regarding Sec 1 registration during this period).</td>
+			<td style="border: 1px solid #dddfe1;font-size: 14.5px;font-family:sans-serif;">Release of Sec 1 Posting Results by MOE</td>
 		</tr>
 		<tr>
 			<td style="background-color: #54585d; font-weight: bold; font-size: 14.5px;font-family:sans-serif; border: 1px solid #54585d; color:white;border-bottom: 1px solid #dddddd;">21 Dec 2023</td>
-			<td style="border: 1px solid #dddfe1;font-size: 14.5px;font-family:sans-serif;">9am – 1pm: Collection of School Textbooks and Uniform for MOE FAS students ONLY*
+			<td style="border: 1px solid #dddfe1;font-size: 14.5px;font-family:sans-serif;">9am – 1pm: Collection of School Textbooks and Uniform for<strong style="font-family:sans-serif;"> MOE FAS students ONLY*</strong>
 (Walk-in collection/ no booking necessary)</td>
 		</tr>
 		<tr>
@@ -28,7 +28,26 @@ variant: markdown
 		
 </tbody>
 	</table>
+	
+<h3 style="margin-top:10px;font-weight: bold;color:#000000">Registrations</h3>
+	
+<ul style="margin-top:-5px;">
+<li style="font-size:14.5px; line-height:2;font-family:sans-serif;">All posting results serve as a <strong style="font-family:sans-serif;">confirmed registration</strong> to the school.  There is <strong style="font-family:sans-serif;">no need to register further </strong> and/or to report physically to the school.</li>
+<li style="font-size:14.5px; line-height:2;font-family:sans-serif;">You will receive notifications from Pei Hwa Secondary School via Parents Gateway for all administrative matters <strong style="font-family:sans-serif;"> by 28 December</strong>. If you do not have Parents Gateway yet, please click <a href="https://pg.moe.edu.sg/" style="font-size:14.5px; line-height:1.5;font-family:sans-serif;font-weight:bold;text-decoration: none;">here</a> for more information.</li>
+<li style="font-size:14.5px; line-height:2;font-family:sans-serif;">Should you require any assistance, you may e-mail the school at <a href="mailto:peihwasec@moe.edu.sg" style="font-size:14.5px; line-height:1.5;font-family:sans-serif;font-weight:bold;text-decoration: none;">peihwasec@moe.edu.sg</a> or call 65009580 (Please be patient with us we are expecting high volumes of traffic regarding Sec 1 registration during this period).</li>
+</ul>
 
+<p style="margin-top:10px;font-size:14.5px; line-height:2;font-family:sans-serif;">	<strong style="font-family:sans-serif;">Subject-Based Banding (SBB)</strong></p>
+	
+<p style="margin-top:10px;font-size:14.5px; line-height:2;font-family:sans-serif;"></p><ul style="margin-top:-5px;">
+<li style="font-size:14.5px; line-height:2;font-family:sans-serif;">If your child is eligible for Subject-Based Banding (SBB) subjects, you will receive a notification from the school via Parents Gateway <strong style="font-family:sans-serif;"> by 21 December</strong>.  Parents are to follow the instructions accompanying the form on accepting or rejecting the offer.  If you are accepting the offer, do remember to purchase the relevant SBB subject textbooks.</li>
+</ul><p></p>
+
+<p style="margin-top:10px;font-size:14.5px; line-height:2;font-family:sans-serif;">	<strong style="font-family:sans-serif;">Higher Mother Tongue</strong></p>
+	
+<p style="margin-top:10px;font-size:14.5px; line-height:2;font-family:sans-serif;"></p><ul style="margin-top:-5px;">
+<li style="font-size:14.5px; line-height:2;font-family:sans-serif;">If your child is eligible for Higher Mother Tongue Language (HMTL), he/she will receive Form A from the school via Parents Gateway<strong style="font-family:sans-serif;"> by 21 December</strong>. Parents are to follow the instructions accompanying the form on accepting or rejecting the offer.  If you are accepting the offer, do remember to purchase the relevant Higher Mother Tongue subject textbooks. </li>
+</ul><p></p>
 
 <h3 style="margin-top:10px;font-weight: bold;color:#000000">Appeals for Transfer into Pei Hwa Secondary School (non-medical)</h3>
 <p style="font-size:14.5px; line-height:2;margin-top:15px; font-family:sans-serif;">The deadline for the submission of appeals is on <strong style="font-family:sans-serif;">27 December 2023 (Wednesday), 12:00pm</strong>. Late submissions will not be allowed.</p>
@@ -60,7 +79,7 @@ near the school:</p>
 <td style="padding: 20px 15px;font-family:sans-serif;width:10%;"><strong style="font-family:sans-serif;">1. </strong></td>
 	<td style="padding: 6px 10px;font-size:14.5px;font-family:sans-serif;"><strong style="font-family:sans-serif;">Question</strong>: Will there be Orientation for my child?
 
-<p style="margin-top:10px;font-size:14.5px; line-height:2;font-family:sans-serif;">	<strong style="font-family:sans-serif;">Answer</strong>:&nbsp;You will receive a notification via Parents Gateway about Orientation and your child’s Orientation Group (OG) by <strong style="font-family:sans-serif;"> 28 Dec</strong>. The e-mail of the OG Teachers are stated in the
+<p style="margin-top:10px;font-size:14.5px; line-height:2;font-family:sans-serif;">	<strong style="font-family:sans-serif;">Answer</strong>:&nbsp;You will receive a notification via Parents Gateway about Orientation and your child’s Orientation Group (OG) <strong style="font-family:sans-serif;">by 28 December</strong>. The e-mail of the OG Teachers are stated in the
 notification. You can email them should you require any assistance.</p></td>
 </tr>
 	
@@ -70,18 +89,6 @@ notification. You can email them should you require any assistance.</p></td>
 <p style="margin-top:10px;font-size:14.5px; line-height:2;font-family:sans-serif;"><strong style="font-family:sans-serif;">Answer</strong>:&nbsp;We have planned for the respective talks by the Principal as well as other school personnel to take place on Week 1. More information will be sent to parents via Parents Gateway.</p></td>
 </tr>
 	
-<tr style="border-bottom: 1px solid #dddddd;">
-<td style="padding: 20px 15px;font-size:14.5px;font-family:sans-serif;"><strong style="font-family:sans-serif;">3.</strong></td>
-	<td style="padding: 6px 10px;font-size:15px;font-family:sans-serif;"><strong style="font-family:sans-serif;">Question</strong>: How do I know if my child is eligible for Higher Mother Tongue Language (HMTL)? How do we submit the forms?
-<p style="margin-top:10px;font-size:14.5px; line-height:2;font-family:sans-serif;"><strong style="font-family:sans-serif;">Answer</strong>:&nbsp;Your child will receive Form A from the school via Parents Gateway. Parents are to follow the instructions accompanying the form on accepting or rejecting the offer.</p>
-<p style="margin-top:10px;font-size:14.5px; line-height:2;font-family:sans-serif;">*If you are accepting the offer, do remember to purchase the relevant Higher Mother Tongue subject textbooks.</p></td>
-</tr>
-<tr style="border-bottom: 1px solid #dddddd;">
-<td style="padding: 20px 15px;font-size:14.5px;font-family:sans-serif;"><strong style="font-family:sans-serif;">4.</strong></td>
-	<td style="padding: 6px 10px;font-size:14.5px;font-family:sans-serif;"><strong style="font-family:sans-serif;">Question</strong>: How do I know if my child is eligible for Subject-based banding (SBB) subjects? How do we submit the forms?
-<p style="margin-top:10px;font-size:14.5px; line-height:2;font-family:sans-serif;"><strong style="font-family:sans-serif;">Answer</strong>:&nbsp; Your child will receive a notification from the school via Parents Gateway on his or her eligibility for the respective SBB subjects. Parents are to follow the instructions accompanying the form on accepting or rejecting the offer.</p>
-<p style="margin-top:10px;font-size:14.5px; line-height:2;font-family:sans-serif;">*If you are accepting the offer, do remember to purchase the relevant subject textbooks.</p></td>
-</tr>
 	
 </tbody>
 </table></div>
