@@ -23,7 +23,7 @@ variant: markdown
 		<tr>
 			<td style="background-color: #54585d; font-weight: bold; font-size: 14.5px;font-family:sans-serif; border: 1px solid #54585d; color:white;border-bottom: 1px solid #dddddd;">21 Dec 2023<br>1pm – 3pm<br><br>22 Dec 2023<br>
 26-27 Dec 2023<br>9am – 3pm</td>
-			<td style="border: 1px solid #dddfe1;font-size: 14.5px;font-family:sans-serif;">Purchase/ collection of School Textbooks and Uniform in Pei Hwa Secondary School<br><br>Strictly via booking appointment ONLY. Please refer to the following link to book an appointment: <a href="https://www.pacificbookstores.com/login" style="font-size:14.5px; line-height:1.5;font-family:sans-serif;font-weight:bold;text-decoration: none;">https://www.pacificbookstores.com/login</a></td>
+			<td style="border: 1px solid #dddfe1;font-size: 14.5px;font-family:sans-serif;">Purchase/ collection of School Textbooks and Uniform in Pei Hwa Secondary School<br><br>Strictly via booking appointment ONLY. Please refer to the following link to book an appointment: <a href="https://www.pacificbookstores.com/login" style="font-size:14.5px; line-height:1.5;font-family:sans-serif;font-weight:bold;text-decoration: none;">https://www.pacificbookstores.com/login</a><br><br> Click <a href="https://drive.google.com/file/d/1pWv7H3ThRsyANhPVBTYdWTQu0b4vCXPl/view?usp=drive_link" style="font-size:14.5px; line-height:1.5;font-family:sans-serif;font-weight:bold;text-decoration: none;">here</a> for the booklist. </td>
 		</tr>
 		
 </tbody>
