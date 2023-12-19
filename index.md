@@ -9,7 +9,7 @@ sections:
   - hero:
       key_highlights:
         - title: Secondary 1 Registration 2024
-          description: Click here for more
+          description: Click here to find out more
           url: https://www.peihwasec.moe.edu.sg/lp-announcement/secondary-1-registration/
         - title: Vision | Mission | Values
           description: The Heart of Pei Hwa
