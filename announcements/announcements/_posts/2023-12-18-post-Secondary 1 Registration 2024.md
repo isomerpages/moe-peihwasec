@@ -23,7 +23,7 @@ variant: markdown
 		<tr>
 			<td style="background-color: #54585d; font-weight: bold; font-size: 14.5px;font-family:sans-serif; border: 1px solid #54585d; color:white;border-bottom: 1px solid #dddddd;">21 Dec 2023<br>1pm – 3pm<br><br>22 Dec 2023<br>
 26-27 Dec 2023<br>9am – 3pm</td>
-			<td style="border: 1px solid #dddfe1;font-size: 14.5px;font-family:sans-serif;">Purchase/ collection of School Textbooks and Uniform in Pei Hwa Secondary School<br><br>Strictly via booking appointment ONLY. Please refer to the following link to book an appointment: <a href="www.pacificbookstores.com/appointment/book" style="font-size:14.5px; line-height:1.5;font-family:sans-serif;font-weight:bold;text-decoration: none;">www.pacificbookstores.com/appointment/book</a></td>
+			<td style="border: 1px solid #dddfe1;font-size: 14.5px;font-family:sans-serif;">Purchase/ collection of School Textbooks and Uniform in Pei Hwa Secondary School<br><br>Strictly via booking appointment ONLY. Please refer to the following link to book an appointment: <a href="https://www.pacificbookstores.com/login" style="font-size:14.5px; line-height:1.5;font-family:sans-serif;font-weight:bold;text-decoration: none;">https://www.pacificbookstores.com/login</a></td>
 		</tr>
 		
 </tbody>
@@ -39,7 +39,7 @@ variant: markdown
 
 
 <h3 style="margin-top:10px;font-weight: bold;color:#000000">2024 Cohort Sec 1 Uniform and Textbook Purchases</h3>
-<p style="font-size:14.5px; line-height:2;margin-top:15px; font-family:sans-serif;">Parents are to make a booking via the link (<a href="www.pacificbookstores.com/appointment/book" style="font-size:14.5px; line-height:1.5;font-family:sans-serif;font-weight:bold;text-decoration: none;">www.pacificbookstores.com/appointment/book</a>) to enter Pei Hwa Secondary School. You can use this time to purchase textbooks and/or uniforms.</p>
+<p style="font-size:14.5px; line-height:2;margin-top:15px; font-family:sans-serif;">Parents are to make a booking via the link (<a href="https://www.pacificbookstores.com/login" style="font-size:14.5px; line-height:1.5;font-family:sans-serif;font-weight:bold;text-decoration: none;">https://www.pacificbookstores.com/login</a>) to enter Pei Hwa Secondary School. You can use this time to purchase textbooks and/or uniforms.</p>
 <p style="font-size:14.5px; line-height:2;margin-top:15px; font-family:sans-serif;">* Do note that in the event of uniform sizes unavailability, do be assured that the school has made flexible arrangements
 should there be a need for your child to wear their primary school attire for the first week of school.</p>
 <p style="font-size:14.5px; line-height:2;margin-top:15px; font-family:sans-serif;">*Due to limited parking lots, parents are encouraged to park at the following public car parks that are conveniently located
