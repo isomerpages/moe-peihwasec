@@ -2,7 +2,7 @@
 title: Outdoor Activities Club (ODAC)
 permalink: /learning-at-pei-hwa/cca/sports-games/outdoor-activities-club-odac/
 description: ""
-third_nav_title: Sports & Games
+third_nav_title: Clubs & Societies
 ---
 <img style="width: 100%; height: auto;margin-top:30px;margin-bottom:30px;" alt="Image" src="https://raw.githubusercontent.com/isomerpages/moe-peihwasec/staging/images/CCA/odacbanner.png">
 
