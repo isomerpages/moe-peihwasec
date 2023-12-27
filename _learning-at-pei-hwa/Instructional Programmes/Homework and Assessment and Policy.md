@@ -31,7 +31,7 @@ practices will continue to be given to students to prepare them for formal asses
 
 <p style="font-size:14.5px; line-height:2;margin-top:0px;font-family:sans-serif;">The following table details the weighting for the WA administered each term.</p>
 	
-<table border="1" style="border-collapse: collapse;margin: 25px 0;font-size: 0.9em;font-family: sans-serif;min-width: 400px; box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);">
+<table border="1" style="border-collapse: collapse;margin: 0px 0;font-size: 0.9em;font-family: sans-serif;min-width: 400px; box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);">
 	
 <tbody>
 <tr style="border-bottom: 1px solid #dddddd;">
@@ -44,18 +44,18 @@ practices will continue to be given to students to prepare them for formal asses
 	
 <tr style="border-bottom: 1px solid #dddddd;">
 <td style="padding: 20px 15px;font-size:14.5px;font-family:sans-serif;"><strong style="font-family:sans-serif;">Weighting</strong></td>
-<td style="padding: 6px 10px;font-size:14.5px;font-family:sans-serif;">WA: 15%</td>
-<td style="padding: 6px 10px;font-size:14.5px;font-family:sans-serif;">WA: 15%</td>
-<td style="padding: 6px 10px;font-size:14.5px;font-family:sans-serif;">WA: 15%</td>
-<td style="padding: 6px 10px;font-size:14.5px;font-family:sans-serif;">EOY: 55%</td>
+<td style="padding: 20px 15px;font-size:14.5px;font-family:sans-serif;">WA: 15%</td>
+<td style="padding: 20px 15px;font-size:14.5px;font-family:sans-serif;">WA: 15%</td>
+<td style="padding: 20px 15px;font-size:14.5px;font-family:sans-serif;">WA: 15%</td>
+<td style="padding: 20px 15px;font-size:14.5px;font-family:sans-serif;">EOY: 55%</td>
 </tr>
 	
 <tr style="border-bottom: 1px solid #dddddd;">
 <td style="padding: 20px 15px;font-size:14.5px;font-family:sans-serif;"><strong style="font-family:sans-serif;">Time Frame</strong></td>
-<td style="padding: 6px 10px;font-size:14.5px;font-family:sans-serif;">Week 5 - 8</td>
-<td style="padding: 6px 10px;font-size:14.5px;font-family:sans-serif;">Week 5 - 7</td>
-<td style="padding: 6px 10px;font-size:14.5px;font-family:sans-serif;">Week 4 - 8</td>
-<td style="padding: 6px 10px;font-size:14.5px;font-family:sans-serif;">Week 3 - 5</td>
+<td style="padding: 20px 15px;font-size:14.5px;font-family:sans-serif;">Week 5 - 8</td>
+<td style="padding: 20px 15px;font-size:14.5px;font-family:sans-serif;">Week 5 - 7</td>
+<td style="padding: 20px 15px;font-size:14.5px;font-family:sans-serif;">Week 4 - 8</td>
+<td style="padding: 20px 15px;font-size:14.5px;font-family:sans-serif;">Week 3 - 5</td>
 </tr>
 	
 </tbody>
