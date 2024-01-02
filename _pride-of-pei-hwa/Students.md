@@ -2,6 +2,7 @@
 title: Students
 permalink: /pride-of-pei-hwa/students/
 description: ""
+variant: markdown
 ---
 <img src="/images/sa1.jpg">
 <p style="line-height:2;margin-top:10px;margin-bottom:0;font-family:sans-serif;font-size:15.5px;"><strong style="font-family:sans-serif;font-size:15.5px;">AWS DeepRacer League Competition</strong></p>
@@ -99,6 +100,11 @@ description: ""
 	</thead>
 
 <tbody>
+	
+<tr style="background-color: #f3f3f3;border-bottom: 1px solid #dddddd;">
+<td style="padding: 12px 15px; font-size:14.5px;font-family:sans-serif;">Choir</td>
+<td style="padding: 12px 15px; font-size:14.5px;font-family:sans-serif;">ACCOMPLISHMENT</td>
+</tr>
 	
 <tr style="border-bottom: 1px solid #dddddd;">
 <td style="padding: 12px 15px; font-size:14.5px;font-family:sans-serif;">Band (Team A)</td>
