@@ -1,0 +1,86 @@
+logo: /images/master logo - tagline vertical.jpg
+links:
+  - title: We Are Pei Hwa
+    url: /we-are-pei-hwa/our-story/
+    sublinks:
+      - title: Our Story
+        url: /we-are-pei-hwa/our-story/
+      - title: Our Vision, Mission & Values
+        url: /we-are-pei-hwa/our-vision-mission-and-values/
+      - title: Our Motto, Logo and Song
+        url: /we-are-pei-hwa/our-motto-logo-and-song/
+      - title: Staff Information
+        url: /we-are-pei-hwa/staff-information/
+      - title: Our Inspiration
+        url: /we-are-pei-hwa/our-inspiration/
+      - title: Open House 2023
+        url: /we-are-pei-hwa/pei-hwa-open-house
+  - title: Learning @ Pei Hwa
+    url: /learning-at-pei-hwa/instructional-programmes/english-language-literature/
+    sublinks:
+      - title: Instructional Programmes
+        url: /learning-at-pei-hwa/instructional-programmes/
+      - title: CCE
+        url: /learning-at-pei-hwa/cce/character-citizenship-education-at-pei-hwa/
+      - title: CCA
+        url: /learning-at-pei-hwa/cca/
+      - title: Student Leadership
+        url: /learning-at-pei-hwa/student-leadership/
+      - title: Infocomm Technology
+        url: /learning-at-pei-hwa/infocomm-technology/
+  - title: Uniquely Pei Hwa
+    url: /uniquely-pei-hwa/future-leader-programme/
+    sublinks:
+      - title: Future Leader Programme (FLP)
+        url: /uniquely-pei-hwa/future-leader-programme/
+      - title: Applied Learning Programme
+        url: /uniquely-pei-hwa/applied-learning-programme-robotics-and-programming/
+      - title: Learning for Life Programme
+        url: /uniquely-pei-hwa/learning-for-life-programme-community-youth-leadership-llp-cyl/
+      - title: Pei Hwa Talent Academy
+        url: /uniquely-pei-hwa/pei-hwa-talent-academy/
+      - title: Beyond Borders Programme
+        url: /uniquely-pei-hwa/beyond-borders-programme/
+      - title: Innovative Changemakers
+        url: /uniquely-pei-hwa/innovative-changemakers-programme/
+      - title: Direct School Admission
+        url: /uniquely-pei-hwa/direct-school-admission-dsa/
+      - title: Family Matters @ School
+        url: /uniquely-pei-hwa/family-matters-at-school/
+      - title: Counselling
+        url: /uniquely-pei-hwa/counselling/
+      - title: School Green Awards (SGA)
+        url: /uniquely-pei-hwa/sga/
+      - title: Special Education Needs
+        url: /uniquely-pei-hwa/special-education-needs/
+      - title: Our Student Management
+        url: /uniquely-pei-hwa/our-student-management/
+      - title: School Safety
+        url: /uniquely-pei-hwa/school-safety/
+  - title: Pride of Pei Hwa
+    url: /pride-of-pei-hwa/students/
+    sublinks:
+      - title: Student
+        url: /pride-of-pei-hwa/students/
+      - title: Graduates
+        url: /pride-of-pei-hwa/graduates/
+  - title: Community@Pei Hwa
+    url: /community-at-pei-hwa/parents-support-group/
+    sublinks:
+      - title: Parents Support Group
+        url: /community-at-pei-hwa/parents-support-group/
+      - title: Pei Hwa Alumni
+        url: /community-at-pei-hwa/pei-hwa-alumni/
+      - title: School Advisory Committee
+        url: /community-at-pei-hwa/school-advisory-committee/
+  - title: Links
+    url: /links/links-for-teachers/
+    sublinks:
+      - title: Links for Students
+        url: /links/links-for-students/
+      - title: Links For Teachers
+        url: /links/links-for-teachers/
+      - title: Links for Parents
+        url: /links/links-for-parents/
+      - title: Announcements
+        url: /links/announcements/

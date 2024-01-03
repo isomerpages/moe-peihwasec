@@ -1,0 +1,10 @@
+collections:
+  we-are-pei-hwa:
+    output: true
+    order:
+      - Our Story.md
+      - Our Vision, Mission and Values.md
+      - Our Motto, Logo and Song.md
+      - Our Inspiration.md
+      - Staff Information.md
+      - Open House 2023.md

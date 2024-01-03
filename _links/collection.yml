@@ -1,0 +1,8 @@
+collections:
+  links:
+    output: true
+    order:
+      - Links for Students.md
+      - Links for Teachers.md
+      - Links for Parents.md
+      - Announcements.md
