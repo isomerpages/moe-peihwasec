@@ -2,6 +2,7 @@
 title: Infocomm Technology
 permalink: /learning-at-pei-hwa/infocomm-technology/
 description: ""
+variant: markdown
 ---
 <img style="width: 100%; height: auto;margin-top:30px;" alt="Image" src="https://raw.githubusercontent.com/isomerpages/moe-peihwasec/staging/images/Learning%20%40%20Pei%20Hwa/Instructional%20Programme/Banner/infocommtechnologybanner.png">
 
@@ -31,3 +32,7 @@ description: ""
 	<li style="font-size:14.5px; line-height:1.5 ;margin-top:5px; font-family:sans-serif;">connecting and communicating digitally; and</li>
 	<li style="font-size:14.5px; line-height:1.5 ;margin-top:5px; font-family:sans-serif;">creating digital products.</li>
 	</ul>
+
+<a href="https://drive.google.com/file/d/1kWjikPAhYcxdsl4nfV5xZLqmPmIn7CeW/view?usp=sharing" style="font-size:14.5px; line-height:1;font-family:sans-serif;font-weight:bold;text-decoration: none;">Slides on Parent Engagement on 6 Jan</a>
+
+<a href="https://drive.google.com/file/d/1Pp44g0jKTY2pYPtTabixNXnrIbGfKTsG/view?usp=sharing" style="font-size:14.5px; line-height:1;font-family:sans-serif;font-weight:bold;text-decoration: none;">Additional Information Slides on PLD</a>
