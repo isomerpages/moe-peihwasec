@@ -32,9 +32,7 @@ variant: markdown
 	<li style="font-size:14.5px; line-height:1.5 ;margin-top:5px; font-family:sans-serif;">connecting and communicating digitally; and</li>
 	<li style="font-size:14.5px; line-height:1.5 ;margin-top:5px; font-family:sans-serif;">creating digital products.</li>
 	</ul>
-	
-<p style="line-height:2;margin-top:5px;margin-bottom:0;font-family:sans-serif;font-size:15.5px;"><strong style="font-family:sans-serif;">Slides on Parent Engagement on 6 Jan</strong></p>
 
-<p style="line-height:2;margin-top:5px;margin-bottom:0;font-family:sans-serif;font-size:15.5px;"><strong style="font-family:sans-serif;">Additional Information Slides on PLD
-</strong></p>
-	
+<a href="https://drive.google.com/file/d/1kWjikPAhYcxdsl4nfV5xZLqmPmIn7CeW/view?usp=sharing" style="font-size:14.5px; line-height:1;font-family:sans-serif;font-weight:bold;text-decoration: none;">Slides on Parent Engagement on 6 Jan</a>
+
+<a href="https://drive.google.com/file/d/1Pp44g0jKTY2pYPtTabixNXnrIbGfKTsG/view?usp=sharing" style="font-size:14.5px; line-height:1;font-family:sans-serif;font-weight:bold;text-decoration: none;">Additional Information Slides on PLD</a>
