@@ -90,30 +90,30 @@ activities), sometimes without understanding the unpleasant consequences that ma
 	</td>
 		<td>
 			<ul style="margin-top:-10px;">
-				<li style="font-size:14.5px;font-family:sans-serif;margin-bottom:5px;line-height:2">have strong negative effects on a person’s self-concept</li>
+				<li style="font-size:14.5px;font-family:sans-serif;margin-bottom:5px;line-height:2">understand that physical and psychological abuse from others, especially those we know and trust, can have strong negative effects on a person’s self-concept</li>
 			</ul>
 		</td>
-		<td style="font-size:14.5px;font-family:sans-serif;margin-bottom:5px;line-height:2"></td>
+		<td style="font-size:14.5px;font-family:sans-serif;margin-bottom:5px;line-height:2">Term 3 Week 5</td>
 </tr>
 	
 <tr style="border-bottom: 2px solid #009879;">
 		<td style="font-size:14.5px;font-family:sans-serif;margin-bottom:5px;line-height:2;text-align:center;">More than Meets the Eye<br>Lesson 3&nbsp;<br>(60 mins)</td>
-	<td style="font-size:14.5px;font-family:sans-serif;margin-bottom:5px;line-height:2">This lesson touches on two areas relevant to an adolescent’s curiosity on matters related to sexuality – masturbation and pornography. Students will gain awareness of the health, legal and moral issues related to viewing, downloading and/or distributing pornography. While students may perceive watching pornography as a private issue without consequences to bear, they will learn that it could lead to addiction and/or other risky sexual behaviours. <br>
+	<td style="font-size:14.5px;font-family:sans-serif;margin-bottom:5px;line-height:2">This lesson touches on two areas relevant to an adolescent’s curiosity on matters related to sexuality – masturbation and pornography. Students will gain awareness of the health, legal and moral issues related to viewing, downloading and/or distributing pornography. While students may perceive watching pornography as a private issue without consequences to bear, they will learn that it could lead to addiction and/or other risky sexual behaviours.<br>
 
-<i>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</i>
+<i style="font-size:14.5px;font-family:sans-serif;">This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</i>
 		</td><td>
 			<ul style="margin-top:-10px;">
-				<li style="font-size:14.5px;font-family:sans-serif;margin-bottom:5px;line-height:2">Understand and accept that as we work towards becoming our best self, there will be times when we make mistakes, and recognise the importance of exercising moral courage in facing up to consequences</li>
-				<li style="font-size:14.5px;font-family:sans-serif;margin-bottom:5px;">Recognise that there are moral and legal consequences of risky sexual behaviours, pornography access and acting irresponsibly or maliciously when online (e.g. spreading of online falsehoods, flouting copyright laws, etc.)</li>
+				<li style="font-size:14.5px;font-family:sans-serif;margin-bottom:5px;line-height:2">understand and accept that as we work towards becoming our best self, there will be times when we make mistakes, and recognise the importance of exercising moral courage in facing up to consequences </li>
+				<li style="font-size:14.5px;font-family:sans-serif;margin-bottom:5px;">recognise that there are moral and legal consequences of risky sexual behaviours, pornography access and acting irresponsibly or maliciously when online (e.g. spreading of online falsehoods, flouting copyright laws, etc.)</li>
 			</ul>
 		</td>
-		<td style="font-size:14.5px;font-family:sans-serif;margin-bottom:5px;line-height:2">Term 3 Week 3</td>
+		<td style="font-size:14.5px;font-family:sans-serif;margin-bottom:5px;line-height:2">Term 3 Week 6</td>
 </tr>
 										
 </tbody>
 </table>
 
-<img src="/images/Screenshot-2023-01-25-085338.png">
+<img src="/images/Learning%20@%20Pei%20Hwa/2024SexEduSec2.png">
 <p style="margin-top:15px;font-size:17px;font-family:sans-serif;"><strong>SECONDARY 2</strong></p>
 
 <table border="1" style="border-collapse: collapse;margin: 25px 0;font-size:14.5px;font-family: sans-serif;box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);">
@@ -132,16 +132,17 @@ activities), sometimes without understanding the unpleasant consequences that ma
 <tr>
 		<td style="font-size:14.5px;font-family:sans-serif;margin-bottom:5px; line-height:2" rowspan="5">Respectful Relationships &amp; Safety</td>
 		<td style="font-size:14.5px;font-family:sans-serif;margin-bottom:5px;line-height:2;text-align:center;">A Role for Everyone<br>Lesson 1<br>(60 mins)</td>
-			<td style="font-size:14.5px;font-family:sans-serif;margin-bottom:5px;line-height:2">This lesson focus on how the family, culture and society can influence one’s perception of their gender roles. Students will learn what gender stereotypes are (e.g. males traditionally as breadwinners and females traditionally as doing household chores) and how gender stereotypes are formed.&nbsp;&nbsp;Students will discuss how one’s understanding of gender roles should not be limited by gender stereotypes, for example women can be pilots, while men can be nurses. <br>
+			<td style="font-size:14.5px;font-family:sans-serif;margin-bottom:5px;line-height:2">This lesson focus on how the family, culture and society can influence one’s perception of their gender roles. Students will learn what gender stereotypes are (e.g. males traditionally as breadwinners and females traditionally as doing household chores) and how gender stereotypes are formed.  Students will discuss how one’s understanding of gender roles should not be limited by gender stereotypes, for example women can be pilots, while men can be nurses.<br>
 				
-Students learn to focus on their personal strengths to pursue their interests and build their self- confidence.&nbsp;<br>
+Students learn to focus on their personal strengths to pursue their interests and build their self- confidence. <br>
 				
-Students will also learn about the definitions of biological sex, gender identity, gender expression and sexual orientation. They will learn to treat everyone with respect and empathy.</td>
+Students will also learn about the definitions of biological sex, gender identity, gender expression and sexual orientation. They will learn to treat everyone with respect and empathy.
+</td>
 		<td>
 			<ul style="margin-top:-10px;">
-			    <li style="font-size:14.5px;font-family:sans-serif;margin-bottom:5px;line-height:2">Know that one’s understanding of gender roles should not be limited by gender stereotypes</li>
-				<li style="font-size:14.5px;font-family:sans-serif;margin-bottom:5px;line-height:2">Develop an appreciation of one’s own unique qualities and characteristics as a male or female</li>
-					<li style="font-size:14.5px;font-family:sans-serif;margin-bottom:5px;line-height:2">Understand what sexual orientation entails</li>
+			    <li style="font-size:14.5px;font-family:sans-serif;margin-bottom:5px;line-height:2">know that one’s understanding of gender roles should not be limited by gender stereotypes</li>
+				<li style="font-size:14.5px;font-family:sans-serif;margin-bottom:5px;line-height:2">develop an appreciation of one’s own unique qualities and characteristics as a male or female</li>
+					<li style="font-size:14.5px;font-family:sans-serif;margin-bottom:5px;line-height:2">understand what sexual orientation entails</li>
 			</ul>
 		</td>
 		<td style="font-size:14.5px;font-family:sans-serif;margin-bottom:5px;line-height:2">Term 2 Week 1</td>
@@ -150,34 +151,34 @@ Students will also learn about the definitions of biological sex, gender identit
 <tr style="background-color:#f3f3f3;font-size:14.5px;line-height:2">
 		<td style="font-size:14.5px;font-family:sans-serif;margin-bottom:5px;line-height:2;text-align:center;">Online Safety Challenge<br> Lesson 2A<br>
 (60 mins)</td>
-<td style="font-size:14.5px;font-family:sans-serif;margin-bottom:5px;line-height:2">This lesson focuses on the issue of online grooming and cyber-flashing. It emphasises the need for help-seeking, peer support and positive peer influence. The lesson encourages the safe and responsible use of social media, and aims to deepen students’ conviction, and extend a call to action to students to taking appropriate decisions to safeguard their well-being and safety.&nbsp;
-<br>
+<td style="font-size:14.5px;font-family:sans-serif;margin-bottom:5px;line-height:2">This lesson focuses on the issue of online grooming and cyber-flashing. It emphasises the need for help-seeking, peer support and positive peer influence. The lesson encourages the safe and responsible use of social media, and aims to deepen students’ conviction, and extend a call to action to students to taking appropriate decisions to safeguard their well-being and safety. <br>
 	
-This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</td>
+<i style="font-size:14.5px;font-family:sans-serif;margin-bottom:5px;line-height:2">This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</i>
+</td>
 		<td>
 			<ul style="margin-top:-10px;">
-				<li style="font-size:14.5px;font-family:sans-serif;margin-bottom:5px;line-height:2">Recognise one’s vulnerability to risky situations and the importance of exercising discretion to reduce risks and avoid negative consequences, both online and offline</li>
+				<li style="font-size:14.5px;font-family:sans-serif;margin-bottom:5px;line-height:2">recognise one’s vulnerability to risky situations and the importance of exercising discretion to reduce risks and avoid negative consequences, both online and offline</li>
 			</ul>
 		</td>
-		<td style="font-size:14.5px;font-family:sans-serif;margin-bottom:5px;line-height:2">Term 2 Week 2</td>
+		<td style="font-size:14.5px;font-family:sans-serif;margin-bottom:5px;line-height:2">Term 2 Week 6</td>
 </tr>
 	
 <tr style="border-bottom: 2px solid #009879;">
 		<td style="font-size:14.5px;font-family:sans-serif;margin-bottom:5px;line-height:2;text-align:center;">Do I or Don’t I <br>Lesson 2B<br>(60 mins)</td>
-		<td style="font-size:14.5px;font-family:sans-serif;margin-bottom:5px;line-height:2">This lesson focuses on respect for personal boundaries; and how to be safe from risky sexual behaviour, teenage pregnancy and abortion. Students will learn the importance of respecting one another’s boundaries in relationships. This lesson emphasises the importance of responsible decision-making, the value of sexual abstinence, the need for help seeking. Students will be aware of Singapore laws protecting minors, such as the legal consequences of having sex with a minor, abortion and the abandonment of babies.</td>
+		<td style="font-size:14.5px;font-family:sans-serif;margin-bottom:5px;line-height:2">This lesson focuses on respect for personal boundaries; and how to be safe from risky sexual behaviour, teenage pregnancy and abortion. Students will learn the importance of respecting one another’s boundaries in relationships. This lesson emphasises the importance of responsible decision-making, the value of sexual abstinence, the need for help seeking. Students will be aware of Singapore laws protecting minors, such as the legal consequences of having sex with a minor, abortion and the abandonment of babies. </td>
 		<td>
 			<ul style="margin-top:-10px;">
-				<li style="font-size:14.5px;font-family:sans-serif;margin-bottom:5px;line-height:2">Recognise the importance of self-respect and respect for others in relating to members of the opposite gender </li>
-				<li style="font-size:14.5px;font-family:sans-serif;margin-bottom:5px;">Recognise one’s vulnerability to risky situations and the importance of exercising discretion to reduce risks and avoid negative consequences, both offline and online</li>
+				<li style="font-size:14.5px;font-family:sans-serif;margin-bottom:5px;line-height:2">recognise the importance of self-respect and respect for others in relating to members of the opposite sex</li>
+				<li style="font-size:14.5px;font-family:sans-serif;margin-bottom:5px;">recognise one’s vulnerability to risky situations and the importance of exercising discretion to reduce risks and avoid negative consequences, both offline and online</li>
 			</ul>
 		</td>
-		<td style="font-size:14.5px;font-family:sans-serif;margin-bottom:5px;line-height:2">Term 2 Week 5</td>
+		<td style="font-size:14.5px;font-family:sans-serif;margin-bottom:5px;line-height:2">Term 2 Week 7</td>
 </tr>
 										
 </tbody>
 </table>
 
-<img src="/images/Screenshot-2023-01-25-085338.png">
+<img src="/images/Learning%20@%20Pei%20Hwa/2024SexEduSec2.png">
  <p style="margin-top:15px;font-size:17px;"><strong style="font-family:sans-serif;">SECONDARY 3<br></strong></p>
 
 <table border="1" style="border-collapse: collapse;margin: 25px 0;font-size:14.5px;font-family: sans-serif;box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);">
@@ -197,15 +198,16 @@ This lesson is conducted separately for boys and girls in different classrooms, 
 		<td style="font-size:14.5px;font-family:sans-serif;margin-bottom:5px; line-height:2" rowspan="5">Respectful Relationships &amp; Safety</td>
 		<td style="font-size:14.5px;font-family:sans-serif;margin-bottom:5px;line-height:2;text-align:center;">Love Yourself, Love Others<br>Lesson 1A<br>
 (60 mins)</td>
-			<td style="font-size:14.5px;font-family:sans-serif;margin-bottom:5px;line-height:2">This lesson focuses on dating respectfully in healthy relationships. Students will learn about self-esteem, their sources of influence (e.g. friends’ perception) on self-esteem, the impact of one’s self-esteem on our mental well-being as well as relationships with others. Students will also learn how emotional reactions can affect relationships positively or negatively. Students will also learn that maturity and readiness are important when entering into a dating relationship</td>
+			<td style="font-size:14.5px;font-family:sans-serif;margin-bottom:5px;line-height:2">This lesson focuses on dating respectfully in healthy relationships. Students will learn about self-esteem, their sources of influence (e.g. friends’ perception) on self-esteem, the impact of one’s self-esteem on our mental well-being as well as relationships with others. Students will also learn how emotional reactions can affect relationships positively or negatively. Students will also learn that maturity and readiness are important when entering into a dating relationship.</td>
 		<td>
 			<ul style="margin-top:-10px;">
-				<li style="font-size:14.5px;font-family:sans-serif;margin-bottom:5px;line-height:2">Know that self-perception and identity have an impact on our self-esteem and how we interact with others and the choices we make, both online and offline </li>
-			    <li style="font-size:14.5px;font-family:sans-serif;margin-bottom:5px;line-height:2">Understand that expectations of oneself and others may differ and can affect one’s emotions, thoughts and behaviours</li>
-				<li style="font-size:14.5px;font-family:sans-serif;margin-bottom:5px;line-height:2">Recognise what healthy dating relationships involve and know that readiness is important when entering into a dating relationship</li>
+				<li style="font-size:14.5px;font-family:sans-serif;margin-bottom:5px;line-height:2">know that self-perception and identity have an impact on our self-esteem and how we interact with others and the choices we make, both online and offline 
+</li>
+			    <li style="font-size:14.5px;font-family:sans-serif;margin-bottom:5px;line-height:2">understand that expectations of oneself and others may differ and can affect one’s emotions, thoughts and behaviours</li>
+				<li style="font-size:14.5px;font-family:sans-serif;margin-bottom:5px;line-height:2">recognise what healthy dating relationships involve and know that readiness is important when entering into a dating relationship</li>
 			</ul>
 		</td>
-		<td style="font-size:14.5px;font-family:sans-serif;margin-bottom:5px;line-height:2">Term 2 Week 2</td>
+		<td style="font-size:14.5px;font-family:sans-serif;margin-bottom:5px;line-height:2">Term 2 Week 4</td>
 </tr>
 	
 <tr style="background-color:#f3f3f3;font-size:15px;line-height:2">
@@ -213,13 +215,13 @@ This lesson is conducted separately for boys and girls in different classrooms, 
 	<td style="font-size:14.5px;font-family:sans-serif;margin-bottom:5px;line-height:2">Students will learn how to manage their emotions if they were to face a breakup and know that relationship building involves person emotions and vulnerabilities, and changes and challenges. Students will also learn that a decision to end a relationship will have consequences on oneself and others, and that grief and loss due to rejections and broken relationships is normal and that one can recover from the experience. They will learn that there are healthy ways of coping with breakdowns in relationships and that family and friends are important pillars of support.</td>
 		<td>
 			<ul style="margin-top:-10px;">
-				<li style="font-size:14.5px;font-family:sans-serif;margin-bottom:5px;line-height:2">Know that relationship-building involves personal emotions and vulnerabilities, and changes and challenges</li>
-				<li style="font-size:14.5px;font-family:sans-serif;margin-bottom:5px;line-height:2">Know that a decision to end a relationship will have consequences on oneself and others</li>
-				<li style="font-size:14.5px;font-family:sans-serif;margin-bottom:5px;line-height:2">Know that grief and loss due to rejections and broken relationships is normal and one can recover from the experience </li>
-				<li style="font-size:14.5px;font-family:sans-serif;margin-bottom:5px;line-height:2">Know that grief and loss due to rejections and broken relationships is normal and one can recover from the experience </li>
+				<li style="font-size:14.5px;font-family:sans-serif;margin-bottom:5px;line-height:2">know that relationship-building involves personal emotions and vulnerabilities, and changes and challenges </li>
+				<li style="font-size:14.5px;font-family:sans-serif;margin-bottom:5px;line-height:2">know that a decision to end a relationship will have consequences on oneself and others</li>
+				<li style="font-size:14.5px;font-family:sans-serif;margin-bottom:5px;line-height:2">know that grief and loss due to rejections and broken relationships is normal and one can recover from the experience </li>
+				<li style="font-size:14.5px;font-family:sans-serif;margin-bottom:5px;line-height:2">know there are healthy ways of coping with broken relationships, and family and friends are important pillars of support </li>
 			</ul>
 		</td>
-		<td style="font-size:14.5px;font-family:sans-serif;margin-bottom:5px;line-height:2">Term 2 Week 9</td>
+		<td style="font-size:14.5px;font-family:sans-serif;margin-bottom:5px;line-height:2">Term 3 Week 3</td>
 </tr>
 	
 <tr style="border-bottom: 2px solid #009879;">
@@ -228,18 +230,20 @@ Lesson 2<br>(60 mins)</td>
 	<td style="font-size:14.5px;font-family:sans-serif;margin-bottom:5px;line-height:2">This lesson aims to help students think critically and make informed decisions in the contexts of sexting and voyeurism, and encourages students to exert a positive influence as a respectful online user. It will also deepen students’ convictions about making moral decisions by taking into consideration the impact of their decisions and actions on their well-being and safety, their loved ones, and the community. Students learn that they have a right and responsibility to be safe and protect their personal space and body. They also learn that sexting, voyeurism and other related sexual offences are never justifiable and they can seek help in times of need.</td>
 		<td>
 			<ul style="margin-top:-10px;">
-				<li style="font-size:14.5px;font-family:sans-serif;margin-bottom:5px;line-height:2">Recognise the importance of being informed of social and moral issues of the day and the need to reflect on these issues, and weigh them against our own moral standpoints as we form our perspectives about them </li>
-				<li style="font-size:14.5px;font-family:sans-serif;margin-bottom:5px;">Understand that we strengthen our character when we commit to sound values-based viewpoints (e.g. respect for life) and decisions, and speak and act in alignment with our beliefs </li>
+				<li style="font-size:14.5px;font-family:sans-serif;margin-bottom:5px;line-height:2">recognise the importance of being informed of social and moral issues of the day and the need to reflect on these issues, and weigh them against our own moral standpoints as we form our perspectives about them </li>
+				<li style="font-size:14.5px;font-family:sans-serif;margin-bottom:5px;">understand that we strengthen our character when we commit to sound values-based viewpoints (e.g. respect for life) and decisions, and speak and act in alignment with our beliefs 
+</li>
 			</ul>
 		</td>
-		<td style="font-size:14.5px;font-family:sans-serif;margin-bottom:5px;line-height:2">Term 3 Week 6 </td>
+		<td style="font-size:14.5px;font-family:sans-serif;margin-bottom:5px;line-height:2">Term 3 Week 6</td>
 </tr>
 										
 </tbody>
 </table>
 
-<img src="/images/Screenshot-2023-01-25-085338.png">
- <p style="margin-top:15px;font-size:17px;"><strong style="font-family:sans-serif;">SECONDARY 4<br></strong></p>
+<img src="/images/Learning%20@%20Pei%20Hwa/2024SexEduSec2.png">
+ <p style="margin-top:15px;font-size:17px;">
+<strong style="font-family:sans-serif;">SECONDARY 4<br></strong></p>
 
 <table border="1" style="border-collapse: collapse;margin: 25px 0;font-size:14.5px;font-family: sans-serif;box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);">
 <thead style="background-color: #009879; font-weight: bold; font-size: 14.5px;">
@@ -261,9 +265,8 @@ Lesson 2<br>(60 mins)</td>
 			<td style="font-size:14.5px;font-family:sans-serif;margin-bottom:5px;line-height:2">This lesson aims to help students think critically about gender stereotypes that exist in our society in the contexts of career and family (e.g. males typically perceived as main breadwinners and females typically perceived as main caregivers in the family), and the impact of these stereotypes on individuals. Students will learn to be aware of possible gender stereotypes that may affect one’s family and future decisions. They will also learn to reframe their perspectives and not judge others based on their own or others’ values and principles, with regard to gender stereotypes.</td>
 		<td>
 			<ul style="margin-top:-10px;">
-				<li style="font-size:14.5px;font-family:sans-serif;margin-bottom:5px;line-height:2">Understand that the value of a person is not tied to one’s gender and not conforming to gender stereotypes does not negate one’s gender identity</li>
-			    <li style="font-size:14.5px;font-family:sans-serif;margin-bottom:5px;line-height:2">Understand what gender stereotypes comprise, e.g. notions of masculinity and femininity vary over time and space, and are shaped by societal expectations</li>
-				<li style="font-size:14.5px;font-family:sans-serif;margin-bottom:5px;line-height:2">Know that imposing gender stereotypes on oneself and others can limit one’s experiences, cause harm to the self-esteem of oneself and others and should be avoided </li>
+				<li style="font-size:14.5px;font-family:sans-serif;margin-bottom:5px;line-height:2">understand what gender stereotypes comprise, e.g. notions of masculinity and femininity vary over time and space, and are shaped by societal expectations</li>
+			    <li style="font-size:14.5px;font-family:sans-serif;margin-bottom:5px;line-height:2">know that imposing gender stereotypes on oneself and others can limit one’s experiences, cause harm to the self-esteem of oneself and others and should be avoided </li>
 			</ul>
 		</td>
 		<td style="font-size:14.5px;font-family:sans-serif;margin-bottom:5px;line-height:2">Term 1 Week 9</td>
@@ -274,10 +277,11 @@ Lesson 2<br>(60 mins)</td>
 			<td style="font-size:14.5px;font-family:sans-serif;margin-bottom:5px;line-height:2">This lesson aims to help students recognise unhealthy relationships and build their help-seeking skills. Students will learn to identify potential signs of an unhealthy relationship and recognise the different forms of dating violence. They will get to understand why dating violence occurs, why victims often feel “trapped” in such unhealthy relationships, and how one can get out of such a relationship safely. Students will learn when, where and how to seek help from trusted adults (e.g. family, teachers, school counsellors) in the supportive environment that they have if they or their friends are involved in an unhealthy relationship.</td>
 		<td>
 			<ul style="margin-top:-10px;">
-				<li style="font-size:14.5px;font-family:sans-serif;margin-bottom:5px;line-height:2">Know there are healthy ways of coping with broken relationships, and family and friends are important pillars of support</li>
-				<li style="font-size:14.5px;font-family:sans-serif;margin-bottom:5px;line-height:2">Recognise emotions caused by traumatic situations, e.g. bullying, abuse and dating violence, and understand the physiological and psychological, social impact on victims </li>
-				<li style="font-size:14.5px;font-family:sans-serif;margin-bottom:5px;line-height:2">Understand that we need moral courage and wisdom to recognise and end relationships that are unhealthy and cause harm to our mental and emotional well-being</li>
-				<li style="font-size:14.5px;font-family:sans-serif;margin-bottom:5px;line-height:2">Understand that we need moral courage and wisdom to recognise and end relationships that are unhealthy and cause harm to our mental and emotional well-being</li>
+				<li style="font-size:14.5px;font-family:sans-serif;margin-bottom:5px;line-height:2">know there are healthy ways of coping with broken relationships, and family and friends are important pillars of support
+</li>
+				<li style="font-size:14.5px;font-family:sans-serif;margin-bottom:5px;line-height:2">recognise emotions caused by traumatic situations, e.g. bullying, abuse and dating violence, and understand the physiological and psychological, social impact on victims</li>
+				<li style="font-size:14.5px;font-family:sans-serif;margin-bottom:5px;line-height:2">understand that we need moral courage and wisdom to recognise and end relationships that are unhealthy and cause harm to our mental and emotional well-being</li>
+				<li style="font-size:14.5px;font-family:sans-serif;margin-bottom:5px;line-height:2">understand the importance of ensuring that non-verbal messages match with verbal ones, when communicating personal and emotional boundaries in a relationship</li>
 			</ul>
 		</td>
 		<td style="font-size:14.5px;font-family:sans-serif;margin-bottom:5px;line-height:2">Term 2 Week 1</td>
@@ -285,34 +289,35 @@ Lesson 2<br>(60 mins)</td>
 	
 <tr>
 		<td style="font-size:14.5px;font-family:sans-serif;margin-bottom:5px;line-height:2;text-align:center;">For Better or For Worse<br>Lesson 3<br>(60 mins)</td>
-		<td style="font-size:14.5px;font-family:sans-serif;margin-bottom:5px;line-height:2">This lesson focuses on building a positive relationship with one’s partner in a marriage. Students will understand that while a marriage, defined in Singapore as a union between a man and a woman, requires mutual commitment and effort like the other relationships in their lives, what sets a marriage apart is its lifelong commitment. Students will learn that what really matters to sustain and maintain a long-term romantic relationship leading to marriage is understanding the other person’s perspective and effectively communicating with each other.</td>
+		<td style="font-size:14.5px;font-family:sans-serif;margin-bottom:5px;line-height:2">This lesson focuses on building a positive relationship with one’s partner in a marriage. Students will understand that while a marriage, defined in Singapore as a union between a man and a woman, requires mutual commitment and effort like the other relationships in their lives, what sets a marriage apart is its lifelong commitment. Students will learn that what really matters to sustain and maintain a long-term romantic relationship leading to marriage is understanding the other person’s perspective and effectively communicating with each other. </td>
 		<td>
 			<ul style="margin-top:-10px;">
-				<li style="font-size:14.5px;font-family:sans-serif;margin-bottom:5px;line-height:2">Know that long-term romantic relationships leading to marriage involve understanding oneself and others in the intellectual, emotional, social and moral dimensions.</li>
-				<li style="font-size:14.5px;font-family:sans-serif;margin-bottom:5px;">Know that marriage entails a union between a man and a woman based on love, trust, commitment, and requires mutual effort. </li>
-				<li style="font-size:14.5px;font-family:sans-serif;margin-bottom:5px;">Understand that conflicts are normal in any relationship, including marriage, and the way in which a couple handles conflict is critical to the success of their marriage.  </li>
+				<li style="font-size:14.5px;font-family:sans-serif;margin-bottom:5px;line-height:2">know that long-term romantic relationships leading to marriage involve understanding oneself and others in the intellectual, emotional, social and moral dimensions</li>
+				<li style="font-size:14.5px;font-family:sans-serif;margin-bottom:5px;">know that marriage entails a union between a man and a woman based on love, trust, commitment, and requires mutual effort </li>
+				<li style="font-size:14.5px;font-family:sans-serif;margin-bottom:5px;">understand that conflicts are normal in any relationship, including marriage, and the way in which a couple handles conflict is critical to the success of their marriage</li>
 			</ul>
 		</td>
-		<td style="font-size:14.5px;font-family:sans-serif;margin-bottom:5px;line-height:2">Term 2 Week 2</td>
+		<td style="font-size:14.5px;font-family:sans-serif;margin-bottom:5px;line-height:2">Term 2 Week 4</td>
 </tr>
 	
 <tr style="background-color:#f3f3f3;font-size:15px;line-height:2;border-bottom: 2px solid #009879;">
 		<td style="font-size:14.5px;font-family:sans-serif;margin-bottom:5px;line-height:2;text-align:center;">There’s Always More to a Story&nbsp; <br> Lesson 4<br>(60 mins)</td>
-			<td style="font-size:14.5px;font-family:sans-serif;margin-bottom:5px;line-height:2">In this lesson, students will revisit the impact of pornography and deepen their understanding on its impact on relationships. Students will also learn about revenge pornography, including its definition and legal provisions. They will also learn that they can turn to trusted adults for help in setting boundaries and overcoming difficulties in making sound decisions, to prevent themselves from encountering danger.</td>
+			<td style="font-size:14.5px;font-family:sans-serif;margin-bottom:5px;line-height:2">In this lesson, students will revisit the impact of pornography and deepen their understanding on its impact on relationships. Students will also learn about revenge pornography, including its definition and legal provisions. They will also learn that they can turn to trusted adults for help in setting boundaries and overcoming difficulties in making sound decisions, to prevent themselves from encountering danger. </td>
 		<td>
 			<ul style="margin-top:-10px;">
-				<li style="font-size:14.5px;font-family:sans-serif;margin-bottom:5px;line-height:2">Understand that we strengthen our character when we commit to sound values-based viewpoints (e.g. respect for life) and decisions, and speak and act in alignment with our beliefs</li>
+				<li style="font-size:14.5px;font-family:sans-serif;margin-bottom:5px;line-height:2">understand that we strengthen our character when we commit to sound values-based viewpoints (e.g. respect for life) and decisions, and speak and act in alignment with our beliefs</li>
 			</ul>
 		</td>
-		<td style="font-size:14.5px;font-family:sans-serif;margin-bottom:5px;line-height:2">Term 2 Week 5</td>
+		<td style="font-size:14.5px;font-family:sans-serif;margin-bottom:5px;line-height:2">Term 2 Week 6</td>
 </tr>
 									
 </tbody>
 </table>
 
-<img src="/images/Screenshot-2023-01-25-085338.png">
+<img src="/images/Learning%20@%20Pei%20Hwa/2024SexEduSec2.png">
+ <p style="margin-top:15px;font-size:17px;">
 
- <p style="margin-top:15px;font-size:17px;"><strong style="font-family:sans-serif;">SECONDARY 5<br></strong></p>
+ </p><p style="margin-top:15px;font-size:17px;"><strong style="font-family:sans-serif;">SECONDARY 5<br></strong></p>
 
 <table border="1" style="border-collapse: collapse;margin: 25px 0;font-size:14.5px;font-family: sans-serif;box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);">
 <thead style="background-color: #009879; font-weight: bold; font-size: 14.5px;">
@@ -333,7 +338,7 @@ Lesson 2<br>(60 mins)</td>
 			<td style="font-size:14.5px;font-family:sans-serif;margin-bottom:5px;line-height:2">In this lesson, students will understand that different individuals have different emotional and physical boundaries. This lesson highlights the need to respect the boundaries of others and reinforces the importance of showing respect to the opposite sex by using appropriate words and actions. Students will examine personal boundaries from different perspectives and learn the importance of making sound values-based decisions and acting in consideration of the well-being of themselves and others.</td>
 		<td>
 			<ul style="margin-top:-10px;">
-				<li style="font-size:14.5px;font-family:sans-serif;margin-bottom:5px;line-height:2">Understand that we strengthen our character when we commit to sound values-based viewpoints (e.g. respect for life) and decisions, and speak and act in alignment with our beliefs</li>
+				<li style="font-size:14.5px;font-family:sans-serif;margin-bottom:5px;line-height:2">understand that we strengthen our character when we commit to sound values-based viewpoints (e.g. respect for life) and decisions, and speak and act in alignment with our beliefs</li>
 			</ul>
 		</td>
 		<td style="font-size:14.5px;font-family:sans-serif;margin-bottom:5px;line-height:2">Term 2 Week 1</td>
@@ -344,11 +349,12 @@ Lesson 2<br>(60 mins)</td>
 
 <h6 style="color:#0B6623;font-family:sans-serif;font-weight:bold;"><strong style="font-family:sans-serif;font-size:17px;color:#0B6623;"><em style="font-weight: bold;margin: 0;color:#0B6623;font-family:sans-serif">eTeens</em> Programme:</strong></h6>
 
- <p style="font-size:14.5px; line-height:2;margin-top:0px; font-family:sans-serif"><em style="font-family:sans-serif;">eTeens</em> is a programme developed by Health Promotion Board, in collaboration with the Ministry of Education, to provide Secondary 3 students with accurate information on STIs, HIV and protection from a health perspective.<em style="font-family:sans-serif;"> eTeens </em>is conducted in two segments – a mass talk segment and a classroom-based programme.</p>
+ <p style="font-size:14.5px; line-height:2;margin-top:0px; font-family:sans-serif"><em style="font-family:sans-serif;">eTeens</em> is a programme developed by Health Promotion Board, in collaboration with the Ministry of Education, to provide Secondary 3 students with accurate information on STIs, HIV and protection from a health perspective.<em style="font-family:sans-serif;"> eTeens </em>is conducted in two segments – a mass talk segment and a classroom-based programme. The desired outcome of the <em style="font-family:sans-serif;"> eTeens </em> programme is that students are empowered to make wise, informed and sensible decisions.
+</p>
 
-<p style="margin-top:0px;font-size:14.5px; line-height:2;font-family:sans-serif;">Students are taught skills such as decision-making, assertiveness and negotiation to say “no” to sex and negative peer pressure. They also learn that the impact of STIs/HIV extends beyond themselves and involves their family. Abstinence and upholding family values are the key messages. The desired outcome of the&nbsp;<em style="font-family:sans-serif;">eTeens</em>&nbsp;programme is that students are empowered to make wise, informed and sensible decisions.</p>
+<p style="margin-top:0px;font-size:14.5px; line-height:2;font-family:sans-serif;">Students are taught skills such as decision-making, assertiveness and negotiation to say “no” to sex and negative peer pressure. They also learn that the impact of STIs/HIV extends beyond themselves and involves their family, and the importance of responsible decision-making and seeking help. Abstinence and upholding family values are the key messages.</p>
 
-<h6 style="color:#0B6623;;font-family:sans-serif;font-weight:bold;"><strong style="font-family:sans-serif;font-size:17px;color:#0B6623;">At Pei Hwa Secondary School, the <em style="font-weight: bold;margin: 0;color:#0B6623;">eTeens</em> programme will be implemented as follows in 2023:</strong></h6>
+<h6 style="color:#0B6623;;font-family:sans-serif;font-weight:bold;"><strong style="font-family:sans-serif;font-size:17px;color:#0B6623;">At Pei Hwa Secondary School, the <em style="font-weight: bold;margin: 0;color:#0B6623;">eTeens</em> programme will be implemented as follows in 2024:</strong></h6>
 
 <table border="1" style="border-collapse: collapse;margin: 25px 0;font-size:15px;font-family: sans-serif;box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);">
 <thead style="background-color: #009879; font-weight: bold; font-size: 14.5px;">
@@ -366,15 +372,16 @@ Lesson 2<br>(60 mins)</td>
 		</td>
 		<td style="font-size:14.5px; line-height:2;font-family:sans-serif;">
 			<ul>
-			<li style="font-size:14.5px; line-height:2;font-family:sans-serif;">Awareness of the different STIs and HIV/AIDS</li>
-			<li style="font-size:14.5px;font-family:sans-serif; line-height:2;">Modes of transmission</li>
-			<li style="font-size:14.5px;font-family:sans-serif; line-height:2;">Modes of protection, specifically on how the condom is used</li>
-			<li style="font-size:14.5px;font-family:sans-serif; line-height:2;">Consequences and impact of STIs/HIV</li>
+			<li style="font-size:14.5px; line-height:2;font-family:sans-serif;">Raise awareness and provide knowledge on:
+</li>
+				<ol>
+					<li style="font-size:14.5px; line-height:2;font-family:sans-serif;">Infectious diseases (STIs and HIV): what it is, how it spreads, how to prevent infection mainly through ABC (abstinence, being faithful, correct, and consistent condom use).</li>
+					<li style="font-size:14.5px; line-height:2;font-family:sans-serif;">Managing relationships and risky situations in a healthy way.</li>
+				</ol>
 		</ul>
 		</td>
 		<td style="font-size:14.5px; font-family:sans-serif;line-height:2">
-			Term 2 Week 5
-		</td>
+			Term 2 Week 7</td>
 </tr>
 									
 <tr style="background-color:#f3f3f3;border-bottom: 2px solid #009879;">
@@ -387,8 +394,7 @@ Lesson 2<br>(60 mins)</td>
 		</ul>
 		</td>
 		<td style="font-size:14.5px;font-family:sans-serif; line-height:2">
-			Term 2 Week 6
-		</td>
+			Term 2 Week 8</td>
 </tr>
 				
 
@@ -398,8 +404,9 @@ Lesson 2<br>(60 mins)</td>
 <h6 style="color:#0B6623;;font-family:sans-serif;font-weight:bold;"><strong style="font-family:sans-serif;font-size:17px;color:#0B6623;">Information for Parents</strong></h6>
 <p style="font-size:14.5px; line-height:2;margin-top:0px; font-family:sans-serif">Parents may opt their children out of the Sexuality Education lessons, <em style="font-family:sans-serif;">eTeens</em> and/or supplementary sexuality education programmes by MOE-approved external providers. </p>
 
- <p style="margin-top:0px;font-size:14.5px; line-height:2;font-family:sans-serif;">Parents who wish to opt their children out of the <strong style="font-family:sans-serif;">Sexuality Education lessons </strong> need to complete an opt-out form at <a href="https://go.gov.sg/2023-sed-lessons-parent-opt-out-form" style="font-size:14.5px; line-height:1.5;font-family:sans-serif;font-weight:bold;text-decoration: none;">https://go.gov.sg/2023-sed-lessons-parent-opt-out-form</a>. The link to this form will be distributed to parents in Term 1 via Parents Gateway and is also downloadable <a href="https://drive.google.com/file/d/1Do9o9CqIlRP3c4bczZ26gjUPE6Pi6vLL/view" style="font-size:14.5px; line-height:1.5;font-family:sans-serif;font-weight:bold;text-decoration: none;">here</a>. The completed form is to be submitted online by 10/02/2023 for Secondary 1-4 students and by 17/02/2023 for Secondary 5 students.</p>
+ <p style="margin-top:0px;font-size:14.5px; line-height:2;font-family:sans-serif;">Parents who wish to opt their children out of the <strong style="font-family:sans-serif;">Sexuality Education lessons </strong> need to complete an opt-out form. This form will be communicated to parents at the start of the year and is also downloadable <a href="https://drive.google.com/file/d/16TTvBNnYsTNaW5EI0LgcsV6yCqFFhxSM/view?usp=sharing" style="font-size:14.5px; line-height:1.5;font-family:sans-serif;font-weight:bold;text-decoration: none;">here</a>. The completed form is to be submitted by 02/02/2024 for Secondary 1 to Secondary 4 students and 16/02/2024 for Secondary 5 students. </p>
 
- <p style="margin-top:0px;font-size:14.5px; line-height:2;font-family:sans-serif;"><span lang="EN-GB">Parents who wish to opt their children out of the <strong style="font-family:sans-serif;"><em style="font-family:sans-serif;">eTeens</em> programme</strong> need to complete an opt-out form at <a href="https://go.gov.sg/2023-eteens-parent-opt-out-form" style="font-size:14.5px; line-height:1.5;font-family:sans-serif;font-weight:bold;text-decoration: none;">https://go.gov.sg/2023-eteens-parent-opt-out-form</a>. The link to this form will be distributed to parents in Term 1 via Parents Gateway and is also downloadable <a href="https://drive.google.com/file/d/1ouzgb9CFrLTlQAsCo6LxGUlKwKBZEwiU/view" style="font-size:14.5px; line-height:1.5;font-family:sans-serif;font-weight:bold;text-decoration: none;">here</a>. The completed form is to be submitted online by 10/02/2023.</span></p>
+ <p style="margin-top:0px;font-size:14.5px; line-height:2;font-family:sans-serif;"><span lang="EN-GB">Parents who wish to opt their children out of the <strong style="font-family:sans-serif;"><em style="font-family:sans-serif;">eTeens</em> programme</strong> need to complete an opt-out form. This form will be communicated to parents at the start of the year and is also downloadable <a href="https://drive.google.com/file/d/1GUIaK-Yu79KpFYffJQ3CLs7kVCRV90Gc/view?usp=sharing" style="font-size:14.5px; line-height:1.5;font-family:sans-serif;font-weight:bold;text-decoration: none;">here</a>. The completed form is to be submitted by 02/02/2024.
+</span></p>
 
- <p style="margin-top:0px;font-size:14.5px; line-height:2;font-family:sans-serif;">&nbsp;Parents can contact the school at 65009580 ext 293 for discussion or to seek clarification about the school’s Sexuality Education programme.</p>
+ <p style="margin-top:0px;font-size:14.5px; line-height:2;font-family:sans-serif;">Parents can contact the school at 65009580 for discussion or to seek clarification about the school’s Sexuality Education programme.</p>
