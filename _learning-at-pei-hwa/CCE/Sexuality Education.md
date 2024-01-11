@@ -3,32 +3,36 @@ title: Sexuality Education
 permalink: /learning-at-pei-hwa/cce/sexuality-education/
 description: ""
 third_nav_title: CCE
+variant: markdown
 ---
 <h6 style="color:#0B6623;;font-family:sans-serif;font-weight:bold;"><strong style="font-family:sans-serif;font-size:17px;color:#0B6623;">MOE Sexuality Education in Schools</strong></h6>
 
-<p style="font-size:14.5px; line-height:2;margin-top:0px; font-family:sans-serif">Sexuality Education (SEd) in schools is about enabling students to understand the physiological, social and emotional changes they experience as they mature, develop healthy and rewarding relationships including those with members of the opposite sex, and make wise, informed and responsible decisions on sexuality matters. SEd is premised on the importance of the family as the basic unit of society. This means encouraging healthy, heterosexual marriages and stable nuclear family units with extended family support. The teaching and learning of SEd is based on respect for the values and beliefs of the different ethnic and religious communities in Singapore on sexuality issues.</p>
+<p style="font-size:14.5px; line-height:2;margin-top:0px; font-family:sans-serif">Sexuality Education (SEd) in schools aims to enable students to understand the physiological, social and emotional changes they experience as they mature, develop healthy and rewarding relationships with others, including those with members of the opposite sex, and make wise, informed and responsible decisions on sexuality matters. SEd is premised on the importance of the family as the basic unit of society. This means encouraging healthy, heterosexual marriages and stable
+nuclear family units with extended family support. The teaching and learning of SEd is based on respect for the values and beliefs of the different ethnic and religious communities in Singapore on sexuality issues.</p>
 
-<p style="font-size:14.5px; line-height:2;font-family:sans-serif;">The goals of Sexuality Education are:</p>
+<p style="font-size:14.5px; line-height:2;font-family:sans-serif;">The <strong style="font-size:14.5px;font-family:sans-serif;">Goals</strong> of Sexuality Education are:</p>
 <ol style="margin-top:-5px;">
-<li aria-level="1" style="font-size:14.5px; line-height:2;margin-left:17px;font-family:sans-serif;">To help students make wise, responsible and informed decisions through the provision of accurate, current and age-appropriate&nbsp;knowledge&nbsp;on human sexuality and the consequences of sexual activity;</li>
-<li aria-level="1" style="font-size:14.5px; line-height:2;margin-left:17px;font-family:sans-serif;">To help students know themselves and build healthy and rewarding relationships through the acquisition of&nbsp;social and emotional skills&nbsp;of self-awareness, management of their thoughts, feelings and behaviours, development of empathy for others, possession of effective communication, problem-solving and decision-making skills; and</li>
-<li aria-level="1" style="font-size:14.5px; line-height:2;margin-left:17px;font-family:sans-serif;">To help students develop a moral compass, respect for themselves and for others as sexual beings, premised on the family as the basic unit of society, through the inculcation of&nbsp;positive mainstream values and attitudes&nbsp;about sexuality.&nbsp;</li>
+<li aria-level="1" style="font-size:14.5px; line-height:2;margin-left:17px;font-family:sans-serif;">Support students in managing their physiological, social and emotional changes as they grow up and develop safe and healthy relationships.</li>
+<li aria-level="1" style="font-size:14.5px; line-height:2;margin-left:17px;font-family:sans-serif;">Guide students to make wise, informed and responsible decisions on sexuality matters.</li>
+<li aria-level="1" style="font-size:14.5px; line-height:2;margin-left:17px;font-family:sans-serif;">Help students develop a moral compass and respect for themselves and others by having positive mainstream values and attitudes about sexuality that are premised on the family as the basic unit of society.</li>
 </ol>
 
-<p style="margin-top:15px;font-size:14.5px; line-height:2;font-family:sans-serif;">The key messages of Sexuality Education are:</p>
+<p style="margin-top:15px;font-size:14.5px; line-height:2;font-family:sans-serif;">The<strong style="font-size:14.5px;font-family:sans-serif;"> Key Messages </strong>of Sexuality Education are:</p>
 <ol style="margin-top:-5px">
 <li aria-level="1" style="font-size:14.5px; line-height:2;margin-left:17px;font-family:sans-serif;">Love and respect yourself as you love and respect others;</li>
-<li aria-level="1" style="font-size:14.5px; line-height:2;margin-left:17px;font-family:sans-serif;">Build positive relationships based on love and respect (which are the foundation for strong families);</li>
+<li aria-level="1" style="font-size:14.5px; line-height:2;margin-left:17px;font-family:sans-serif;">Build positive relationships based on love and respect (which are the
+foundation for strong families);</li>
 <li aria-level="1" style="font-size:14.5px; line-height:2;margin-left:17px;font-family:sans-serif;">Make responsible decisions for yourself, your family and society; and</li>
 <li aria-level="1" style="font-size:14.5px; line-height:2;margin-left:17px;font-family:sans-serif;">Abstinence before marriage is the best protection against STIs/HIV and unintended pregnancies. Casual sex can harm and hurt you and your loved ones.</li>
 </ol>
 
-<p style="margin-top:15px;font-size:14.5px; line-height:2;font-family:sans-serif;">You may click&nbsp;<a href="https://www.moe.gov.sg/education-in-sg/our-programmes/sexuality-education" style="font-size:14.5px; line-height:1.5;font-family:sans-serif;font-weight:bold;text-decoration: none;">here</a>&nbsp;for more information on MOE Sexuality Education.</p>
+<p style="margin-top:15px;font-size:14.5px; line-height:2;font-family:sans-serif;">You may click&nbsp;<a href="https://go.gov.sg/moe-sexuality-education" style="font-size:14.5px; line-height:1.5;font-family:sans-serif;font-weight:bold;text-decoration: none;">here</a>&nbsp;for more information on MOE Sexuality Education.</p>
 
 
-<h6 style="color:#0B6623;;font-family:sans-serif;font-weight:bold;"><strong style="font-family:sans-serif;font-size:17px;color:#0B6623;">Overview of Pei Hwa Secondary &amp; School &amp; Sexuality Education Programme for 2023</strong></h6>
+<h6 style="color:#0B6623;;font-family:sans-serif;font-weight:bold;"><strong style="font-family:sans-serif;font-size:17px;color:#0B6623;">Overview of Pei Hwa Secondary &amp; School &amp; Sexuality Education Programme for 2024</strong></h6>
 
-<p style="margin-top:0px;font-size:14.5px; line-height:2;font-family:sans-serif;">Sexuality Education is delivered in a holistic manner through the school curriculum. The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law. You may click&nbsp;<a href="https://www.moe.gov.sg/programmes/sexuality-education/scope-and-teaching-approach" style="font-size:14.5px; line-height:1.5;font-family:sans-serif;font-weight:bold;text-decoration: none;">here</a>&nbsp;for more information on the scope of Sexuality Education in the school curriculum.</p>
+<p style="margin-top:0px;font-size:14.5px; line-height:2;font-family:sans-serif;">Sexuality Education is delivered in a holistic manner through the school curriculum. The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law. You may click <a href="https://go.gov.sg/moe-sexuality-education-scope)" style="font-size:14.5px; line-height:1.5;font-family:sans-serif;font-weight:bold;text-decoration: none;">here</a>for more information on the scope
+of Sexuality Education in the school curriculum.</p>
 
 <p style="margin-top:0px;font-size:14.5px; line-height:2;font-family:sans-serif;">The subjects that incorporate topics on sexuality include:</p>
 <ul style="margin-top:-5px;">
@@ -38,13 +42,14 @@ third_nav_title: CCE
 
 
 <h6 style="color:#0B6623;;font-family:sans-serif;font-weight:bold;"><strong style="font-family:sans-serif;font-size:17px;color:#0B6623;">Sexuality Education Lessons</strong></h6>
-<p style="font-size:14.5px; line-height:2;margin-top:0px; font-family:sans-serif">The values and attitudes of our youth towards sexuality are increasingly shaped by their peers, exposure to the media, popular culture and the internet. Adolescence is a complex stage in life as the adolescent attempts to find his/her own identity and often struggles with new social relationships. The period of middle adolescence (generally from 15 – 17 years old) can be a turbulent period for adolescents. The gap between physical and emotional/cognitive maturity may result in a tendency to act on impulse, experiment with various activities (including sexual activities), sometimes without understanding the unpleasant consequences that may arise from such experimentation. The need for peer acceptance can be overwhelmingly strong, and hinder one’s ability to act responsibly. Given the pressures faced by the middle adolescent from within themselves and from peers, it is important to build a strong sense of self-worth, personal conviction and an understanding of the possible consequences of sexual behaviour.</p>
+<p style="font-size:14.5px; line-height:2;margin-top:0px; font-family:sans-serif">The values and attitudes of our youth towards sexuality are increasingly shaped by their peers, exposure to the media, popular culture and the internet. Adolescence is a complex stage in life as the adolescent attempts to find his/her own identity and often struggles with new social relationships. The period of middle adolescence (generally from 15 – 17 years old) can be a turbulent period for adolescents. The gap between physical and emotional/cognitive maturity may result in a tendency to act on impulse, experiment with various activities (including sexual
+activities), sometimes without understanding the unpleasant consequences that may arise from such experimentation. The need for peer acceptance can be overwhelmingly strong and hinder one’s ability to act responsibly. Given the pressures faced by the middle adolescent from within themselves and from peers, it is important to build a strong sense of self-worth, personal conviction and an understanding of the possible consequences of sexual behaviour.</p>
 
-<p style="margin-top:0px;font-size:14.5px; line-height:2;font-family:sans-serif;">Through the Sexuality Education lessons, secondary students will have the opportunity to develop a positive self-esteem, develop their character, and expand their understanding and repertoire of skills to deal with various issues related to sexuality, which are of prime concern at this age.&nbsp;</p>
+<p style="margin-top:0px;font-size:14.5px; line-height:2;font-family:sans-serif;">Through the Sexuality Education lessons, secondary students will have the opportunity to develop a positive self-esteem, develop their character, and expand their understanding and repertoire of skills to deal with various issues related to sexuality, which are of prime concern at this age.</p>
 
-<h6 style="color:#0B6623;font-family:sans-serif;font-weight:bold;"><strong style="font-family:sans-serif;font-size:17px;color:#0B6623;">At Pei Hwa Secondary School, the following Sexuality Education lessons will be taught in 2023</strong></h6>
+<h6 style="color:#0B6623;font-family:sans-serif;font-weight:bold;"><strong style="font-family:sans-serif;font-size:17px;color:#0B6623;">At Pei Hwa Secondary School, the following Sexuality Education lessons will be taught in 2024</strong></h6>
 
-<img src="/images/Screenshot-2023-01-25-085338.png">
+<img src="/images/Learning%20@%20Pei%20Hwa/2024SexEduSec1.png">
 
  <p style="margin-top:15px;font-size:17px;"><strong style="font-family:sans-serif;">SECONDARY 1<br></strong></p>
 
@@ -54,8 +59,8 @@ third_nav_title: CCE
 				<td style="text-align:center;color:white;font-family:sans-serif;">UNIT</td>
 				<td style="text-align:center;color:white;font-family:sans-serif;">LESSONS / DURATION</td>
 					<td style="text-align:center;color:white;font-family:sans-serif;">LESSON OVERVIEW</td>
-				<td style="text-align:center;color:white;font-family:sans-serif;">LESSON OBJECTIVES</td>
-				<td style="text-align:center;color:white;font-family:sans-serif;">TIME PERIOD</td>
+				<td style="text-align:center;color:white;font-family:sans-serif;">LESSON OBJECTIVES<br>At the end of the lesson, students will be able to:</td>
+				<td style="text-align:center;color:white;font-family:sans-serif;">TIME PERIOD<br>(e.g.Term 1 Week 2)</td>
 			</tr>
 </thead>
 	
@@ -67,34 +72,36 @@ third_nav_title: CCE
 		<td style="font-size:14.5px;font-family:sans-serif;margin-bottom:5px;line-height:2;">This lesson helps students understand more about relationship building and the different types of love (e.g. familial, platonic, romantic). They will have the opportunity to better understand the considerations involved in making responsible decisions towards dating and romantic relationships and understand how to build healthy and supportive relationships, both online and offline.</td>
 		<td>
 			<ul style="margin-top:-10px;">
-				<li style="font-size:14.5px;font-family:sans-serif;margin-bottom:5px;line-height:2">Recognise the importance of monitoring and managing our emotional reactions, in helpful ways that are reflective of our values and principles</li>
-			    <li style="font-size:14.5px;font-family:sans-serif;margin-bottom:5px;line-height:2">Recognise that there are different forms of love (e.g. familial, platonic, romantic love)</li>
-				<li style="font-size:14.5px;font-family:sans-serif;margin-bottom:5px;line-height:2">Recognise the importance and understand what builds healthy and supportive relationships, both online and offline</li>
-				<li style="font-size:14.5px;font-family:sans-serif;margin-bottom:5px;line-height:2">Understand what dating is, and recognise that the readiness and interest in dating vary among individuals</li>
+				<li style="font-size:14.5px;font-family:sans-serif;margin-bottom:5px;line-height:2">recognise the importance of monitoring and managing our emotional reactions, in helpful ways that are reflective of our values and principles</li>
+			    <li style="font-size:14.5px;font-family:sans-serif;margin-bottom:5px;line-height:2">recognise that there are different forms of love (e.g. familial, platonic, romantic love)</li>
+				<li style="font-size:14.5px;font-family:sans-serif;margin-bottom:5px;line-height:2">recognise the importance and understand what builds healthy and supportive relationships, both online and offline</li>
+				<li style="font-size:14.5px;font-family:sans-serif;margin-bottom:5px;line-height:2">understand what dating is, and recognise that the readiness and interest in dating vary among individuals</li>
 			</ul>
 		</td>
-		<td style="font-size:14.5px;font-family:sans-serif;margin-bottom:5px;line-height:2">Term 2 Week 6</td>
+		<td style="font-size:14.5px;font-family:sans-serif;margin-bottom:5px;line-height:2">Term 3 Week 3</td>
 </tr>
 	
 <tr style="background-color:#f3f3f3;font-size:15px;line-height:2">
-		<td style="font-size:14.5px;font-family:sans-serif;margin-bottom:5px;line-height:2;text-align:center;">Being Aware, Being Safe<br>Lesson 2<br>(60 mins)</td>
-		<td style="font-size:14.5px;font-family:sans-serif;margin-bottom:5px;line-height:2">This lesson focuses on helping students to be safe from the dangers of sexual grooming and on respecting one’s right to safety. Students will also learn about the legal provisions against sexual abuse, and the impact of sexual abuse on victims, including the psychological impact on the sense of self.&nbsp;<br>
+		<td style="font-size:14.5px;font-family:sans-serif;margin-bottom:5px;line-height:2;text-align:center;">Being Aware, Being Safe
+<br>Lesson 2<br>(60 mins)</td>
+		<td style="font-size:14.5px;font-family:sans-serif;margin-bottom:5px;line-height:2">This lesson focuses on helping students to be safe from the dangers of sexual grooming and on respecting one’s right to safety. Students will also learn about the legal provisions against sexual abuse, and the impact of sexual abuse on victims, including the psychological impact on the sense of self. <br>
 
-This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</td>
+<i style="font-size:14.5px;font-family:sans-serif;">This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</i>
+	</td>
 		<td>
 			<ul style="margin-top:-10px;">
-				<li style="font-size:14.5px;font-family:sans-serif;margin-bottom:5px;line-height:2">Understand that physical and psychological abuse from others, especially those we know and trust, can have strong negative effects on a person’s self-concept</li>
+				<li style="font-size:14.5px;font-family:sans-serif;margin-bottom:5px;line-height:2">have strong negative effects on a person’s self-concept</li>
 			</ul>
 		</td>
-		<td style="font-size:14.5px;font-family:sans-serif;margin-bottom:5px;line-height:2">Term 2 Week 9</td>
+		<td style="font-size:14.5px;font-family:sans-serif;margin-bottom:5px;line-height:2"></td>
 </tr>
 	
 <tr style="border-bottom: 2px solid #009879;">
 		<td style="font-size:14.5px;font-family:sans-serif;margin-bottom:5px;line-height:2;text-align:center;">More than Meets the Eye<br>Lesson 3&nbsp;<br>(60 mins)</td>
-	<td style="font-size:14.5px;font-family:sans-serif;margin-bottom:5px;line-height:2">This lesson touches on two areas relevant to an adolescent’s curiosity on matters related to sexuality – masturbation and pornography. Students will gain awareness of the health, legal and moral issues related to viewing, downloading and/or distributing pornography. While students may perceive watching pornography as a private issue without consequences to bear, they will learn that it could lead to addiction and/or other risky sexual behaviours.&nbsp;<br>
+	<td style="font-size:14.5px;font-family:sans-serif;margin-bottom:5px;line-height:2">This lesson touches on two areas relevant to an adolescent’s curiosity on matters related to sexuality – masturbation and pornography. Students will gain awareness of the health, legal and moral issues related to viewing, downloading and/or distributing pornography. While students may perceive watching pornography as a private issue without consequences to bear, they will learn that it could lead to addiction and/or other risky sexual behaviours. <br>
 
-This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</td>
-		<td>
+<i>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</i>
+		</td><td>
 			<ul style="margin-top:-10px;">
 				<li style="font-size:14.5px;font-family:sans-serif;margin-bottom:5px;line-height:2">Understand and accept that as we work towards becoming our best self, there will be times when we make mistakes, and recognise the importance of exercising moral courage in facing up to consequences</li>
 				<li style="font-size:14.5px;font-family:sans-serif;margin-bottom:5px;">Recognise that there are moral and legal consequences of risky sexual behaviours, pornography access and acting irresponsibly or maliciously when online (e.g. spreading of online falsehoods, flouting copyright laws, etc.)</li>
