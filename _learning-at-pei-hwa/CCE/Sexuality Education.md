@@ -31,7 +31,7 @@ foundation for strong families);</li>
 
 <h6 style="color:#0B6623;;font-family:sans-serif;font-weight:bold;"><strong style="font-family:sans-serif;font-size:17px;color:#0B6623;">Overview of Pei Hwa Secondary &amp; School &amp; Sexuality Education Programme for 2024</strong></h6>
 
-<p style="margin-top:0px;font-size:14.5px; line-height:2;font-family:sans-serif;">Sexuality Education is delivered in a holistic manner through the school curriculum. The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law. You may click <a href="https://go.gov.sg/moe-sexuality-education-scope)" style="font-size:14.5px; line-height:1.5;font-family:sans-serif;font-weight:bold;text-decoration: none;">here</a>for more information on the scope
+<p style="margin-top:0px;font-size:14.5px; line-height:2;font-family:sans-serif;">Sexuality Education is delivered in a holistic manner through the school curriculum. The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law. You may click <a href="https://go.gov.sg/moe-sexuality-education-scope" style="font-size:14.5px; line-height:1.5;font-family:sans-serif;font-weight:bold;text-decoration: none;">here</a> for more information on the scope
 of Sexuality Education in the school curriculum.</p>
 
 <p style="margin-top:0px;font-size:14.5px; line-height:2;font-family:sans-serif;">The subjects that incorporate topics on sexuality include:</p>
