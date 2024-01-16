@@ -2,6 +2,7 @@
 title: Our Story
 permalink: /we-are-pei-hwa/our-story/
 description: ""
+variant: markdown
 ---
 <h6 style="color:#0B6623;font-family:sans-serif;font-size:17px;"><strong style="color:#0B6623;font-weight:bold;font-family:sans-serif;font-size:17px;">Our Story</strong></h6>
 
@@ -27,6 +28,10 @@ With a strong emphasis on developing innovation and resilience, the school conti
 </li>
 <li style="font-size:14.5px; line-height:2; margin-bottom:-5px; font-family:sans-serif;"> Mr Mohd Azhar B Terimo (2022–present)</li>
 	</ul>
+	
+<h6 style="color:#0B6623;font-family:sans-serif;font-size:17px;"><strong style="color:#0B6623;font-weight:bold;font-family:sans-serif;font-size:17px;">Principal Message</strong></h6>
+
+<p style="font-size:14.5px; line-height:2;font-family:sans-serif;">Hello!<br><br>Welcome to Pei Hwa Secondary School – an institution of choice, committed to nurturing <strong style="font-size:14.5px; line-height:2;font-family:sans-serif;">Future-Ready Learners and Forward-Looking Leaders</strong>The world that our students are living in today is hyperconnected, fast-changing, and complex. It is also fraught with many challenges. At Pei Hwa, we are committed to providing an education for the future, by equipping our students with sound values, and the right<strong style="font-size:14.5px; line-height:2;font-family:sans-serif;"> mindset, skillset, and toolset </strong> to not just survive but thrive in this ever-changing world. <br><br>We believe that all students can learn and succeed, regardless of their starting points. We empower our students to take ownership of their learning. We encourage them to dream big, to believe in their abilities, and to turn those dreams into reality.  Above all, we inspire them to actively contribute to the community.  Our dedicated educators are committed to achieving that by helping our students to <strong style="font-size:14.5px; line-height:2;font-family:sans-serif;">nurture their talents</strong> and creating a caring learning environment that fosters empathy, curiosity, critical and adaptive thinking, creativity, and collaboration.</p>
 
 <h6 style="color:#0B6623;font-family:sans-serif;font-size:17px;"><strong style="color:#0B6623;font-weight:bold;font-family:sans-serif;font-size:17px;">Our Education Philosophy</strong></h6>
 
