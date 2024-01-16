@@ -33,6 +33,18 @@ With a strong emphasis on developing innovation and resilience, the school conti
 
 <p style="font-size:14.5px; line-height:2;font-family:sans-serif;">Hello!<br><br>Welcome to Pei Hwa Secondary School – an institution of choice, committed to nurturing <strong style="font-size:14.5px; line-height:2;font-family:sans-serif;">Future-Ready Learners and Forward-Looking Leaders</strong>The world that our students are living in today is hyperconnected, fast-changing, and complex. It is also fraught with many challenges. At Pei Hwa, we are committed to providing an education for the future, by equipping our students with sound values, and the right<strong style="font-size:14.5px; line-height:2;font-family:sans-serif;"> mindset, skillset, and toolset </strong> to not just survive but thrive in this ever-changing world. <br><br>We believe that all students can learn and succeed, regardless of their starting points. We empower our students to take ownership of their learning. We encourage them to dream big, to believe in their abilities, and to turn those dreams into reality.  Above all, we inspire them to actively contribute to the community.  Our dedicated educators are committed to achieving that by helping our students to <strong style="font-size:14.5px; line-height:2;font-family:sans-serif;">nurture their talents</strong> and creating a caring learning environment that fosters empathy, curiosity, critical and adaptive thinking, creativity, and collaboration.</p>
 
+
+
+<div style="margin-top:30px; width:100%; padding: 40px; display: flex; align-items: center;" class="box">
+<div style="position: relative; width: 300px; height: 300px; margin-right:40px;" class="container"> 
+	<img class="image" alt="Image" style="max-width: 50%; margin-right: 40px;border-radius: 10px" src="https://raw.githubusercontent.com/isomerpages/moe-peihwasec/staging/images/logo%20icon%20only%20-%20no%20tagline.png">&nbsp;
+	</div>
+<div style="flex: 1;" class="content">
+<p style="margin: 10px 0;font-size:14.5px; line-height:2;font-family:sans-serif;">Our signature Future Leaders Programme is a key  enabler to achieve our Student Outcomes goals. Coupled with a suite of customised learning and student development experiences, we strive to inspire every Pei Hwa-ian with the zest to learn, the dare to innovate, and the heart to lead and serve.<br><br>We are fully aware that ‘It takes a whole village to raise a child.’  At Pei Hwa Secondary, we are blessed with the strong support from, and partnership with our stakeholders, namely our Parents, School Advisory Committee, Alumni, as well as Community and Industry partners.  Though this valuable collaboration, we are able to provide the best possible opportunities for our students to learn and grow.
+</p>
+</div>
+</div>
+
 <h6 style="color:#0B6623;font-family:sans-serif;font-size:17px;"><strong style="color:#0B6623;font-weight:bold;font-family:sans-serif;font-size:17px;">Our Education Philosophy</strong></h6>
 
 <img style="width: 100%; height: auto;" alt="Image" src="https://raw.githubusercontent.com/isomerpages/moe-peihwasec/staging/images/Links/link06.png">
