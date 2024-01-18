@@ -2,8 +2,8 @@ collections:
   we-are-pei-hwa:
     output: true
     order:
-      - Principal Message.md
       - Our Story.md
+      - Principal Message.md
       - Our Vision, Mission and Values.md
       - Our Motto, Logo and Song.md
       - Our Inspiration.md
