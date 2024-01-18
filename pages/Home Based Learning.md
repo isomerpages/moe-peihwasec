@@ -2,6 +2,7 @@
 title: Home Based Learning
 permalink: /permalink/
 description: ""
+variant: tiptap
 ---
 <h4 style="color:#635f1a;font-weight:bold;font-family:Open Sans;">Dear parents/students, welcome to the HBL page.</h4>
 
