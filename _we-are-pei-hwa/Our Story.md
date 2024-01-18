@@ -35,15 +35,18 @@ With a strong emphasis on developing innovation and resilience, the school conti
 
 
 
-<div style="margin-top:30px; width:100%; padding: 40px; display: flex; align-items: center;" class="box">
+<div style="margin-top:30px; width:100%; padding: 40px; display: flex; align-items: center;margin-bottom:-50px" class="box">
 <div style="position: relative; width: 300px; height: 300px; margin-right:40px;" class="container"> 
-	<img class="image" alt="Image" style="max-width: 50%; margin-right: 40px;border-radius: 10px" src="https://raw.githubusercontent.com/isomerpages/moe-peihwasec/staging/images/logo%20icon%20only%20-%20no%20tagline.png">&nbsp;
+	<img class="image" alt="Image" style="max-width: 100%; margin-right: 40px;border-radius: 10px" src="/images/We%20Are%20Pei%20Hwa/prinicipal_message.png">&nbsp;
 	</div>
 <div style="flex: 1;" class="content">
 <p style="margin: 10px 0;font-size:14.5px; line-height:2;font-family:sans-serif;">Our signature Future Leaders Programme is a key  enabler to achieve our Student Outcomes goals. Coupled with a suite of customised learning and student development experiences, we strive to inspire every Pei Hwa-ian with the zest to learn, the dare to innovate, and the heart to lead and serve.<br><br>We are fully aware that ‘It takes a whole village to raise a child.’  At Pei Hwa Secondary, we are blessed with the strong support from, and partnership with our stakeholders, namely our Parents, School Advisory Committee, Alumni, as well as Community and Industry partners.  Though this valuable collaboration, we are able to provide the best possible opportunities for our students to learn and grow.
 </p>
 </div>
 </div>
+
+<p style="font-size:14.5px; line-height:2;font-family:sans-serif;">As you explore our website, I hope it will give you a glimpse of our unique Pei Hwa-brand of education. <br><br>Mr Mohd Azhar Terimo  <br>
+Principal</p>
 
 <h6 style="color:#0B6623;font-family:sans-serif;font-size:17px;"><strong style="color:#0B6623;font-weight:bold;font-family:sans-serif;font-size:17px;">Our Education Philosophy</strong></h6>
 
