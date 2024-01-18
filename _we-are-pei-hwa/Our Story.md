@@ -36,7 +36,7 @@ With a strong emphasis on developing innovation and resilience, the school conti
 
 
 <div style="margin-top:0px; width:100%; padding: 40px; display: flex; align-items: center;margin-bottom:0px" class="box">
-<div style="position:relative; width: 300px; height: 300px; margin-right:40px;margin-top:0px;" class="container"> 
+<div style="position:relative; width: 300px; height: 300px; margin-right:40px;margin-top:-90px;" class="container"> 
 	<img class="image" alt="Image" style="max-width: 100%; margin-right: 40px;border-radius: 10px.margin-top:0px;" src="/images/We%20Are%20Pei%20Hwa/prinicipal_message.png">&nbsp;
 	</div>
 <div style="flex: 1;" class="content">
