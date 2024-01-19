@@ -2,7 +2,6 @@ collections:
   learning-at-pei-hwa:
     output: true
     order:
-      - Home Based Learning.md
       - Instructional Programmes.md
       - Instructional Programmes/.keep
       - Instructional Programmes/English and English Literature.md
@@ -19,6 +18,7 @@ collections:
       - CCE/Pastoral Care and Career Guidance.md
       - CCE/Sexuality Education.md
       - CCE/Cyberwellness @ Pei Hwa.md
+      - Home Based Learning.md
       - CCAs.md
       - Clubs & Societies/.keep
       - Clubs & Societies/Infocomm Club.md
