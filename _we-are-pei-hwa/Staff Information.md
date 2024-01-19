@@ -369,7 +369,7 @@ lim_jin_kng_emmanuel@moe.edu.sg
 </div>
 </li>
 
-<li><input id="accordion3" type="checkbox"> <label for="accordion3" style="font-family:sans-serif;">Secondary 2 Classes 2023</label>
+<li><input id="accordion3" type="checkbox"> <label for="accordion3" style="font-family:sans-serif;">Secondary 2 Classes 2024</label>
 <div>
 <table style="width:100%" border="1">
 <thead style="background-color: #54585d; font-weight: bold; font-size: 15.5px; border: 1px solid #54585d;">
@@ -384,13 +384,9 @@ lim_jin_kng_emmanuel@moe.edu.sg
 <td style="text-align:center; border: 1px solid #dddfe1;">
 <strong style="font-family:sans-serif;">Resilience 1</strong>
 </td>
-<td style="text-align:center; border: 1px solid #dddfe1;font-family:sans-serif;">
-Mrs Yeo-Kwok Coleen<br>
-Mr Li Hong Jin
+<td style="text-align:center; border: 1px solid #dddfe1;font-family:sans-serif;">Tu Harrick Iskandar<br>Jovitta Christopher Pereira
 </td>
-<td style="text-align:center; border: 1px solid #dddfe1;font-family:sans-serif;">
-coleen_kwok_siew_yun@moe.edu.sg<br>
-li_hong_jin@moe.edu.sg
+<td style="text-align:center; border: 1px solid #dddfe1;font-family:sans-serif;">tu_harrick_iskandar@moe.edu.sg<br>jovitta_christopher_pereira@moe.edu.sg
 </td>
 </tr>
 	
@@ -398,13 +394,9 @@ li_hong_jin@moe.edu.sg
 <td style="text-align:center; border: 1px solid #dddfe1;">
 <strong style="font-family:sans-serif;">Resilience 2</strong>
 </td>
-<td style="text-align:center; border: 1px solid #dddfe1;font-family:sans-serif;">
-Mr Teo Eng Hao<br>
-Miss Nur Fateha Bte Kamsani
+<td style="text-align:center; border: 1px solid #dddfe1;font-family:sans-serif;">Shenu Binte Hamidun<br>Koh Ting Suen Jewel
 </td>
-<td style="text-align:center; border: 1px solid #dddfe1;font-family:sans-serif;">
-teo_eng_hao@moe.edu.sg<br>
-nur_fateha_kamsani@moe.edu.sg
+<td style="text-align:center; border: 1px solid #dddfe1;font-family:sans-serif;">shenu_hamidun@moe.edu.sg<br>koh_ting_suen_jewel@moe.edu.sg
 </td>
 </tr>
 	
@@ -412,15 +404,9 @@ nur_fateha_kamsani@moe.edu.sg
 <td style="text-align:center; border: 1px solid #dddfe1;">
 <strong style="font-family:sans-serif;">Resilience 3</strong>
 </td>
-<td style="text-align:center; border: 1px solid #dddfe1;font-family:sans-serif;">
-Mdm Tai Bee Chuan (Mrs Cheow)<br>
-Mdm Rositah Binte Yusof<br>
-Miss Heera Farzana
+<td style="text-align:center; border: 1px solid #dddfe1;font-family:sans-serif;">Anna Foo Tsuey Yun<br>Tan Hui Ping
 </td>
-<td style="text-align:center; border: 1px solid #dddfe1;font-family:sans-serif;">
-tai_bee_chuan@moe.edu.sg<br>
-rositah_yusof@moe.edu.sg<br>
--
+<td style="text-align:center; border: 1px solid #dddfe1;font-family:sans-serif;">foo_tsuey_yun@moe.edu.sg<br>tan_hui_ping@moe.edu.sg
 </td>
 </tr>
 	
@@ -428,13 +414,9 @@ rositah_yusof@moe.edu.sg<br>
 <td style="text-align:center; border: 1px solid #dddfe1;">
 <strong style="font-family:sans-serif;">Resilience 4</strong>
 </td>
-<td style="text-align:center; border: 1px solid #dddfe1;font-family:sans-serif;">
-Mr Koh Chong Peng<br>
-Miss Toh May May Lisa
+<td style="text-align:center; border: 1px solid #dddfe1;font-family:sans-serif;">Lim Sin Ee Rachel<br>Lam Zihan
 </td>
-<td style="text-align:center; border: 1px solid #dddfe1;font-family:sans-serif;">
-koh_chong_peng@moe.edu.sg<br>
-toh_may_may_lisa@moe.edu.sg
+<td style="text-align:center; border: 1px solid #dddfe1;font-family:sans-serif;">lim_sin_ee_rachel@moe.edu.sg<br>lam_zihan@moe.edu.sg
 </td>
 </tr>
 	
@@ -442,13 +424,9 @@ toh_may_may_lisa@moe.edu.sg
 <td style="text-align:center; border: 1px solid #dddfe1;">
 <strong style="font-family:sans-serif;">Resilience 5</strong>
 </td>
-<td style="text-align:center; border: 1px solid #dddfe1;font-family:sans-serif;">
-Mdm Rasyidah Bte Ramli<br>
-Miss Thong Jia Man Bernice
+<td style="text-align:center; border: 1px solid #dddfe1;font-family:sans-serif;">Chen Peishi<br>Oh Shu Ying Serene (SH)
 </td>
-<td style="text-align:center; border: 1px solid #dddfe1;font-family:sans-serif;">
-rasyidah_ramli@moe.edu.sg<br>
-thong_jia_man_bernice@moe.edu.sg
+<td style="text-align:center; border: 1px solid #dddfe1;font-family:sans-serif;">chen_pei_shi@moe.edu.sg<br>oh_shu_ying_serene@moe.edu.sg
 </td>
 </tr>
 	
@@ -456,13 +434,9 @@ thong_jia_man_bernice@moe.edu.sg
 <td style="text-align:center; border: 1px solid #dddfe1;">
 <strong style="font-family:sans-serif;">Resilience 6</strong>
 </td>
-<td style="text-align:center; border: 1px solid #dddfe1;font-family:sans-serif;">
-Miss Su Yi Ying Kristen<br>
-Mdm Oh Shu Ying Serene
+<td style="text-align:center; border: 1px solid #dddfe1;font-family:sans-serif;">Udhaya Chandhini d/o Mugilvanan<br>Andrew Cheng Chang Hup 
 </td>
-<td style="text-align:center; border: 1px solid #dddfe1;font-family:sans-serif;">
-su_yi_ying@moe.edu.sg<br>
-oh_shu_ying_serene@moe.edu.sg
+<td style="text-align:center; border: 1px solid #dddfe1;font-family:sans-serif;">udhaya_chandhini_mugilvanan@moe.edu.sg<br>cheng_chang_hup@moe.edu.sg
 </td>
 </tr>
 	
@@ -470,13 +444,9 @@ oh_shu_ying_serene@moe.edu.sg
 <td style="text-align:center; border: 1px solid #dddfe1;">
 <strong style="font-family:sans-serif;">Resilience 7</strong>
 </td>
-<td style="text-align:center; border: 1px solid #dddfe1;font-family:sans-serif;">
-Miss Chan Yen Lin Charlotte<br>
-Miss Tan Jiewen (Joyce)
+<td style="text-align:center; border: 1px solid #dddfe1;font-family:sans-serif;">Mr Ng Tiong Ghee<br>Mr Goh Kok Soon Ronnie
 </td>
-<td style="text-align:center; border: 1px solid #dddfe1;font-family:sans-serif;">
-charlotte_chan@moe.edu.sg<br>
-tan_jiewen@moe.edu.sg
+<td style="text-align:center; border: 1px solid #dddfe1;font-family:sans-serif;">ng_tiong_ghee@moe.edu.sg<br>goh_kok_soon@moe.edu.sg
 </td>
 </tr>
 	
@@ -484,13 +454,9 @@ tan_jiewen@moe.edu.sg
 <td style="text-align:center; border: 1px solid #dddfe1;">
 <strong style="font-family:sans-serif;">Resilience 8</strong>
 </td>
-<td style="text-align:center; border: 1px solid #dddfe1;font-family:sans-serif;">
-Mr Mohamad Arizal Bin Ahmad<br>
-Miss Wong Ser Ching
+<td style="text-align:center; border: 1px solid #dddfe1;font-family:sans-serif;">Lee Helen<br>Chua Jin Xia Valerie
 </td>
-<td style="text-align:center; border: 1px solid #dddfe1;font-family:sans-serif;">
-mohamad_arizal_ahmad@moe.edu.sg<br>
-wong_ser_ching@moe.edu.sg
+<td style="text-align:center; border: 1px solid #dddfe1;font-family:sans-serif;">lee_helen_a@moe.edu.sg<br>chua_jin_xia_valerie@moe.edu.sg
 </td>
 </tr>
 </tbody>
@@ -498,7 +464,7 @@ wong_ser_ching@moe.edu.sg
 </div>
 </li>
 	
-<li><input id="accordion4" type="checkbox"><label for="accordion4" style="font-family:sans-serif;">Secondary 3 Classes 2023</label>
+<li><input id="accordion4" type="checkbox"><label for="accordion4" style="font-family:sans-serif;">Secondary 3 Classes 2024</label>
 <div>
 <table border="1" style="width:100%">
 <thead style="background-color: #54585d; font-weight: bold; font-size: 15.5px; border: 1px solid #54585d;">
@@ -516,13 +482,9 @@ wong_ser_ching@moe.edu.sg
 <td style="text-align:center; border: 1px solid #dddfe1;">
 <strong style="font-family:sans-serif;">Integrity 1</strong>
 </td>
-<td style="text-align:center; border: 1px solid #dddfe1;font-family:sans-serif;">
-Miss Wong Ping Fang Claire<br>
-Mr Yang Chao Kai Victor
+<td style="text-align:center; border: 1px solid #dddfe1;font-family:sans-serif;">Yeo-Kwok Coleen<br>Mr Yeo Wei Qiang Kenneth
 </td>
-<td style="text-align:center; border: 1px solid #dddfe1;font-family:sans-serif;">
-wong_ping_fang@moe.edu.sg<br>
-yang_chao_kai_victor@moe.edu.sg
+<td style="text-align:center; border: 1px solid #dddfe1;font-family:sans-serif;">coleen_kwok_siew_yun@moe.edu.sg<br>kenneth_yeo_wei_qiang@moe.edu.sg
 </td>
 </tr>
 	
@@ -530,11 +492,9 @@ yang_chao_kai_victor@moe.edu.sg
 <td style="text-align:center; border: 1px solid #dddfe1;">
 <strong style="font-family:sans-serif;">Integrity 2</strong>
 </td>
-<td style="text-align:center; border: 1px solid #dddfe1;font-family:sans-serif;">
-Mr Riyaz Huseni
+<td style="text-align:center; border: 1px solid #dddfe1;font-family:sans-serif;">Nur Fateha Bte Kamsani<br>Wong Li Qing
 </td>
-<td style="text-align:center; border: 1px solid #dddfe1;font-family:sans-serif;">
-riyaz_huseni@moe.edu.sg
+<td style="text-align:center; border: 1px solid #dddfe1;font-family:sans-serif;">nur_fateha_kamsani@moe.edu.sg<br>wong_li_qing@moe.edu.sg
 </td>
 </tr>
 	
@@ -542,13 +502,9 @@ riyaz_huseni@moe.edu.sg
 <td style="text-align:center; border: 1px solid #dddfe1;">
 <strong style="font-family:sans-serif;">Integrity 3</strong>
 </td>
-<td style="text-align:center; border: 1px solid #dddfe1;font-family:sans-serif;">
-Miss Lee Ya Yu<br>
-Mr Tay Swee Hoe
+<td style="text-align:center; border: 1px solid #dddfe1;font-family:sans-serif;">Tai Bee Chuan<br>Nordiana Bte Abbas
 </td>
-<td style="text-align:center; border: 1px solid #dddfe1;font-family:sans-serif;">
-lee_ya_yu@moe.edu.sg<br>
-tay_swee_hoe@moe.edu.sg
+<td style="text-align:center; border: 1px solid #dddfe1;font-family:sans-serif;">tai_bee_chuan@moe.edu.sg<br>nordiana_abbas@moe.edu.sg
 </td>
 </tr>
 	
@@ -556,13 +512,9 @@ tay_swee_hoe@moe.edu.sg
 <td style="text-align:center; border: 1px solid #dddfe1;">
 <strong style="font-family:sans-serif;">Integrity 4</strong>
 </td>
-<td style="text-align:center; border: 1px solid #dddfe1;font-family:sans-serif;">
-Mr Ong Jun Ming Gary<br>
-Mdm Lin Airong Michelle (Mrs Neo)
+<td style="text-align:center; border: 1px solid #dddfe1;font-family:sans-serif;">Koh Chong Peng<br>Toh May May Lisa (SH)
 </td>
-<td style="text-align:center; border: 1px solid #dddfe1;font-family:sans-serif;">
-ong_jun_ming_gary@moe.edu.sg<br>
-lin_airong_michelle@moe.edu.sg
+<td style="text-align:center; border: 1px solid #dddfe1;font-family:sans-serif;">koh_chong_peng@moe.edu.sg<br>toh_may_may_lisa@moe.edu.sg
 </td>
 </tr>
 	
@@ -570,13 +522,9 @@ lin_airong_michelle@moe.edu.sg
 <td style="text-align:center; border: 1px solid #dddfe1;">
 <strong style="font-family:sans-serif;">Integrity 5</strong>
 </td>
-<td style="text-align:center; border: 1px solid #dddfe1;font-family:sans-serif;">
-Miss Lian Jane<br>
-Mr Fahmie Bin Ali Abdat
+<td style="text-align:center; border: 1px solid #dddfe1;font-family:sans-serif;">Thong Jia Man Bernice <br>Heera Farzana
 </td>
-<td style="text-align:center; border: 1px solid #dddfe1;font-family:sans-serif;">
-lian_jane@moe.edu.sg<br>
-fahmie_ali_abdat@moe.edu.sg
+<td style="text-align:center; border: 1px solid #dddfe1;font-family:sans-serif;">thong_jia_man_bernice@moe.edu.sg<br>heera_farzana@moe.edu.sg
 </td>
 </tr>
 	
