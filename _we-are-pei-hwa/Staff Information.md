@@ -224,6 +224,12 @@ variant: markdown
 <td style="text-align:center; border: 1px solid #dddfe1;font-family:sans-serif;">Mr Tan Aik Fong</td>
 <td style="text-align:center; border: 1px solid #dddfe1;font-family:sans-serif;">tan_aik_fong@moe.edu.sg</td>
 </tr>
+		
+<tr>
+<td style="text-align:center; border: 1px solid #dddfe1;"><strong style="font-family:sans-serif;">Lead Teacher/ History</strong></td>
+<td style="text-align:center; border: 1px solid #dddfe1;font-family:sans-serif;">Mr  Fahmie Ali Abdat</td>
+<td style="text-align:center; border: 1px solid #dddfe1;font-family:sans-serif;">fahmie_ali_abdat@moe.edu.sg</td>
+</tr>
 	
 <tr>
 <td style="text-align:center; border: 1px solid #dddfe1;"><strong style="font-family:sans-serif;">Administration Manager</strong></td>
