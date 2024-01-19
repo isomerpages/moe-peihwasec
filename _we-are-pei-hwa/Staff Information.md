@@ -154,7 +154,7 @@ variant: markdown
 </tr>
 	
 <tr>
-<td style="text-align:center; border: 1px solid #dddfe1;"><strong style="font-family:sans-serif;">Assistant Year Head (Sec 1)</strong></td>
+<td style="text-align:center; border: 1px solid #dddfe1;"><strong style="font-family:sans-serif;">Assistant Year Head <br>(Sec 1)</strong></td>
 <td style="text-align:center; border: 1px solid #dddfe1;font-family:sans-serif;">Ms Yasmin Yeow</td>
 <td style="text-align:center; border: 1px solid #dddfe1;font-family:sans-serif;">yeow_yasmin@moe.edu.sg</td>
 </tr>
