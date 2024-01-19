@@ -2,6 +2,7 @@ collections:
   learning-at-pei-hwa:
     output: true
     order:
+      - Home Based Learning.md
       - Instructional Programmes.md
       - Instructional Programmes/.keep
       - Instructional Programmes/English and English Literature.md
