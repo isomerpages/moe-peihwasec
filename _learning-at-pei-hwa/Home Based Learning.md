@@ -29,9 +29,3 @@ description: ""
 	<li style="font-size:14.5px; line-height:2;font-family:sans-serif;">For technical issues, please call the SLS school-based helpline at 65009585 (8am-5pm).</li>
 </ul>
 
-<p style="margin-top:15.5px;font-size:15.5px;"><strong style="font-family:sans-serif;">»&nbsp;PLD Frequently Asked Questions</strong></p>
-
-<ul style="margin-top:-5px;">
-	<li style="font-size:14.5px; line-height:2;font-family:sans-serif;">Please refer to the FAQs when using your Personal Learning Devices for Home-Based Learning.</li>
-
-</ul>
