@@ -20,12 +20,8 @@ description: ""
 	</li>
 </ul>
 
-<p style="margin-top:15px;font-size:15.5px;"><strong style="font-family:sans-serif;">»&nbsp;Live streaming guideline</strong></p>
-<img src="/images/LIVE_Streaming_Guidelines-1024x843.jpeg">
-
 <p style="margin-top:15px;font-size:15.5px;"><strong style="font-family:sans-serif;">»&nbsp;SLS Helpline</strong></p>
 
 <ul style="margin-top:-5px;">
 	<li style="font-size:14.5px; line-height:2;font-family:sans-serif;">For technical issues, please call the SLS school-based helpline at 65009585 (8am-5pm).</li>
 </ul>
-
