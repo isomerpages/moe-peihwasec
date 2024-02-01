@@ -22,5 +22,5 @@ description: ""
 
 <ul style="margin-top:-5px;">
 	<li style="font-size:14.5px; line-height:2;font-family:sans-serif;">For SLS technical issues, please call the SLS school-based helpline at 65009585 (8am-5pm).</li>
-	<li style="font-size:14.5px; line-height:2;font-family:sans-serif;">Refer to this guide for more reference.</li>
+	<li style="font-size:14.5px; line-height:2;font-family:sans-serif;">Refer to this guide for additional insights.</li>
 </ul>
