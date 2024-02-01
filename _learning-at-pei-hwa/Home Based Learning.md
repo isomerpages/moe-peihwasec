@@ -4,7 +4,7 @@ permalink: /learning-at-pei-hwa/home-based-learning/
 variant: markdown
 description: ""
 ---
-<img style="width: 100%; height: auto;margin-top:30px;" alt="Image" src="">
+<img style="width: 100%; height: auto;margin-top:30px;" alt="Image" src="/images/HBL_TITLE.gif">
 
 
 <p style="margin-top:15px;font-size:15.5px;"><strong style="font-family:sans-serif;">»&nbsp;Instructions to Students</strong></p>
