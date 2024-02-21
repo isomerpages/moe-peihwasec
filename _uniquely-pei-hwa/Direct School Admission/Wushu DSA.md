@@ -26,7 +26,7 @@ for from year 1 to 4.</p>
 <li style="font-size:14.5px; line-height:2;font-family:sans-serif;margin-bottom:0px;">Exchanges with local schools</li>
 </ul>
 
-<p style="margin-top:0px;font-size:14.5px; line-height:2;font-family:sans-serif;">For more information on Pei Hwa Wushu CCA and their programme, please visit <a style="font-size:14.5px; line-height:1.5;font-family:sans-serif;font-weight:bold;text-decoration: none;" href="https://moe-peihwasec-staging.netlify.app/learning-at-pei-hwa/cca/sports-games/wushu/">here.</a></p>
+<p style="margin-top:0px;font-size:14.5px; line-height:2;font-family:sans-serif;">For more information on Pei Hwa Wushu CCA and their programme, please visit <a style="font-size:14.5px; line-height:1.5;font-family:sans-serif;font-weight:bold;text-decoration: none;" href="/learning-at-pei-hwa/cca/sports-games/wushu/">here.</a></p>
 
 <h6 style="color:#0B6623;font-family:sans-serif;font-weight:bold;margin-top:30px;"><strong style="font-family:sans-serif;font-size:17px;color:#0B6623;">Shortlisting Criteria</strong></h6>
 
