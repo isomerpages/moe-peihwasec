@@ -154,7 +154,7 @@ National Infocomm Competition. Team Pei Hwa clinched a total of 9 awards from th
 <li style="font-size:14.5px; line-height:2;font-family:sans-serif;margin-bottom:0px;">Singapore Robo Grand Prix</li>
 </ul>
 
-<p style="margin-top:0px;font-size:14.5px; line-height:2;font-family:sans-serif;">Please refer to our&nbsp;<a href="https://moe-peihwasec-staging.netlify.app/learning-at-pei-hwa/cca/clubs-societies/robotics/" style="font-size:14.5px; line-height:1.5;font-family:sans-serif;font-weight:bold;text-decoration: none;">school website</a>&nbsp;for more information.</p>
+<p style="margin-top:0px;font-size:14.5px; line-height:2;font-family:sans-serif;">Please refer to our&nbsp;<a href="/learning-at-pei-hwa/cca/clubs-societies/robotics/" style="font-size:14.5px; line-height:1.5;font-family:sans-serif;font-weight:bold;text-decoration: none;">school website</a>&nbsp;for more information.</p>
 
 <h6 style="color:#0B6623;font-family:sans-serif;font-weight:bold;margin-top:30px;"><strong style="font-family:sans-serif;font-size:17px;color:#0B6623;">Infusion of Coding and Making into New Project Work</strong></h6>
 
