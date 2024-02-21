@@ -31,7 +31,7 @@ to help students to build a variety of important skills and qualities, such as t
 <li style="font-size:14.5px; line-height:2;font-family:sans-serif;margin-bottom:0;">Leadership opportunities</li>
 </ul>
 
-<p style="margin-top:15px;font-size:14.5px; line-height:2;font-family:sans-serif;">For more information on Pei Hwa Floorball CCA and their programme, please click <a style="font-size:14.5px; line-height:1.5;font-family:sans-serif;font-weight:bold;text-decoration: none;" href="https://moe-peihwasec-staging.netlify.app/learning-at-pei-hwa/cca/sports-games/football/">here.</a></p>
+<p style="margin-top:15px;font-size:14.5px; line-height:2;font-family:sans-serif;">For more information on Pei Hwa Floorball CCA and their programme, please click <a style="font-size:14.5px; line-height:1.5;font-family:sans-serif;font-weight:bold;text-decoration: none;" href="/learning-at-pei-hwa/cca/sports-games/football/">here.</a></p>
 
 <h6 style="color:#0B6623;font-family:sans-serif;font-weight:bold;margin-top:30px;"><strong style="font-family:sans-serif;font-size:17px;color:#0B6623;">Shortlisting Criteria</strong></h6>
 <p style="font-size:14.5px; line-height:2;margin-top:15px; font-family:sans-serif">
