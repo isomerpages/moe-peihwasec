@@ -32,7 +32,7 @@ third_nav_title: Direct School Admission
 <li style="font-size:14.5px; line-height:2;font-family:sans-serif;margin-bottom:0px;">Learning journeys</li>
 </ul>
 
-<p style="margin-top:0px;font-size:14.5px; line-height:2;font-family:sans-serif;">For more information on Pei Hwa Guzheng Ensemble and their programme, please click <a href="https://moe-peihwasec-staging.netlify.app/learning-at-pei-hwa/cca/performing-arts/guzheng-ensemble/" style="font-size:14.5px; line-height:1.5;font-family:sans-serif;font-weight:bold;text-decoration: none;">here.</a></p>
+<p style="margin-top:0px;font-size:14.5px; line-height:2;font-family:sans-serif;">For more information on Pei Hwa Guzheng Ensemble and their programme, please click <a href="/learning-at-pei-hwa/cca/performing-arts/guzheng-ensemble/" style="font-size:14.5px; line-height:1.5;font-family:sans-serif;font-weight:bold;text-decoration: none;">here.</a></p>
 
 <h6 style="color:#0B6623;font-family:sans-serif;font-weight:bold;margin-top:30px;"><strong style="font-family:sans-serif;font-size:17px;color:#0B6623;">Shortlisting Criteria</strong></h6>
 <p style="font-size:14.5px; line-height:2;margin-top:15px; font-family:sans-serif">
