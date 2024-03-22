@@ -2,5 +2,6 @@ collections:
   pride-of-pei-hwa:
     output: true
     order:
+      - Student Journalism.md
       - Students.md
       - Graduates.md
