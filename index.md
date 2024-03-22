@@ -8,9 +8,9 @@ notification: ""
 sections:
   - hero:
       key_highlights:
-        - title: Secondary 1 Registration 2024
-          description: Click here to find out more
-          url: https://www.peihwasec.moe.edu.sg/lp-announcement/secondary-1-registration/
+        - title: social media
+          description: Follow us on Instagram!
+          url: https://www.instagram.com/phssofficial/
         - title: Vision | Mission | Values
           description: The Heart of Pei Hwa
           url: /we-are-pei-hwa/our-vision-mission-and-values/

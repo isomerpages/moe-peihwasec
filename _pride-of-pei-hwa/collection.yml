@@ -3,4 +3,5 @@ collections:
     output: true
     order:
       - Students.md
+      - Student Journalism.md
       - Graduates.md
