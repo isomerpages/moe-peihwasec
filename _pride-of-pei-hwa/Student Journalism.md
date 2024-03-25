@@ -4,8 +4,8 @@ permalink: /pride-of-pei-hwa/student-journalism/
 variant: tiptap
 description: ""
 ---
-<p>Pei Hwa Chronicles is the official school newsletter for the students
-by the students.</p>
+<p><strong>Pei Hwa Chronicles </strong>is the official school newsletter
+for the students by the students.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Pride of Pei Hwa/PH_Times_Newsletter__01_Page_01.jpg">
 </div>
