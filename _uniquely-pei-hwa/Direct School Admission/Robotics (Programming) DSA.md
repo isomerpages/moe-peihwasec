@@ -1,8 +1,9 @@
 ---
 title: Robotics (Programming) DSA
-permalink: /uniquely-pei-hwa/direct-school-admission/robotics-programming-dsa/
+permalink: /uniquely-pei-hwa/direct-school-admission-dsa/
 description: ""
 third_nav_title: Direct School Admission
+variant: tiptap
 ---
 <h6 style="color:#0B6623;font-family:sans-serif;font-weight:bold;margin-top:30px;"><strong style="font-family:sans-serif;font-size:17px;color:#0B6623;">Direct School Admission (DSA)</strong></h6>
 

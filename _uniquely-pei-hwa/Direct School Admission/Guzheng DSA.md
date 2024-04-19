@@ -1,8 +1,9 @@
 ---
 title: Guzheng DSA
-permalink: /uniquely-pei-hwa/direct-school-admission/guzheng-dsa/
+permalink: /uniquely-pei-hwa/direct-school-admission-dsa/
 description: ""
 third_nav_title: Direct School Admission
+variant: tiptap
 ---
 <img src="/images/unnamed-10.jpg" style="width: 85%;">
 <h6 style="color:#0B6623;font-family:sans-serif;font-weight:bold;margin-top:30px;"><strong style="font-family:sans-serif;font-size:17px;color:#0B6623;">DSA Admission – Guzheng</strong></h6>

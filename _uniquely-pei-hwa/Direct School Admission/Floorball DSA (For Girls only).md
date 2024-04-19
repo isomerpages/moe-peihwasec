@@ -1,8 +1,9 @@
 ---
 title: Floorball DSA (For Girls only)
-permalink: /uniquely-pei-hwa/direct-school-admission/floorball-dsa-for-girls-only/
+permalink: /uniquely-pei-hwa/direct-school-admission-dsa/
 description: ""
 third_nav_title: Direct School Admission
+variant: tiptap
 ---
 <h6 style="color:#0B6623;font-family:sans-serif;font-weight:bold;margin-top:30px;"><strong style="font-family:sans-serif;font-size:17px;color:#0B6623;">DSA Admission – Floorball (For Girls only)</strong></h6>
 
