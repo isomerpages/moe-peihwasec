@@ -3,6 +3,7 @@ title: Direct School Admission
 permalink: /uniquely-pei-hwa/direct-school-admission-dsa/
 description: ""
 third_nav_title: Direct School Admission
+variant: markdown
 ---
 <h6 style="color:#0B6623;font-family:sans-serif;font-weight:bold;margin-top:30px;"><strong style="font-family:sans-serif;font-size:17px;color:#0B6623;">What is Direct School Admission?</strong></h6>
 <p style="font-size:14.5px; line-height:2;margin-top:5px;margin-bottom:0;font-family:sans-serif;">DSA-Sec is an initiative by MOE which was introduced in 2004 to give schools greater flexibility in student admission, so as to recognise more diverse range of student achievements and talents. Under the DSA-Sec Exercise, participating schools may select some students for admission via their own admission criteria. </p>
@@ -12,7 +13,7 @@ third_nav_title: Direct School Admission
 
 <p style="font-size:14.5px;line-height:2;margin-top:5px;margin-bottom:0;font-family:sans-serif;">Pei Hwa Secondary offers DSA through 5 different talent areas. We are looking for students who demonstrate interest and aptitude in these 5 talent areas:</p>
 
-<table style="border-collapse: collapse;margin: 25px 0;font-size:14.5px;font-family: sans-serif;box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);" border="1">
+<table style="border-collapse: collapse;margin: 25px 0;font-size:12px;font-family: sans-serif;box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);" border="1">
 <thead style="background-color: #009879; font-weight: bold; font-size: 14.5px;">
 <tr>
 				<td style="text-align:left;color:white;font-family:sans-serif;">DSA Category</td>
@@ -23,8 +24,10 @@ third_nav_title: Direct School Admission
 <tbody>
 <tr>
 				<td style="font-family:sans-serif;">Performing Arts</td>
-				<td style="font-family:sans-serif;margin-bottom:5px;">Guzheng</td>
-</tr>
+	<td style="font-family:sans-serif;margin-bottom:5px;"> Guzheng <br>Chinese and Modern Dance <br>
+</td></tr>
+	
+
 			
 <tr style="background-color: #f3f3f3;">
 				<td style="font-family:sans-serif;">Science, Technology, Engineering and Mathematics</td>
@@ -96,6 +99,7 @@ Apart from developing our students to acquire knowledge in Taekwondo, the CCA al
 <h6 style="color:#0B6623;font-family:sans-serif;font-weight:bold;margin-top:30px;"><strong style="font-family:sans-serif;font-size:17px;color:#0B6623;">Related Pages</strong></h6>
 <ol style="margin-top:5px;"> 
 	<li style="font-size:14.5px; line-height:2;font-family:sans-serif;"><a href="https://www.peihwasec.moe.edu.sg/uniquely-pei-hwa/direct-school-admission/guzheng-dsa/" style="font-size:14.5px; line-height:1.5;font-family:sans-serif;font-weight:bold;text-decoration: none;">Guzheng DSA</a></li> 
+	<li style="font-size:14.5px; line-height:2;font-family:sans-serif;"><a href="https://www.peihwasec.moe.edu.sg/uniquely-pei-hwa/direct-school-admission/guzheng-dsa/" style="font-size:14.5px; line-height:1.5;font-family:sans-serif;font-weight:bold;text-decoration: none;">Chinese and Modern Dance DSA</a></li> 
 <li style="font-size:14.5px; line-height:2;font-family:sans-serif;"><a href="https://www.peihwasec.moe.edu.sg/uniquely-pei-hwa/direct-school-admission/robotics-programming-dsa/" style="font-size:14.5px; line-height:1.5;font-family:sans-serif;font-weight:bold;text-decoration: none;">Robotics (Programming) DSA</a></li> 
 <li style="font-size:14.5px; line-height:2;font-family:sans-serif;"><a href="https://www.peihwasec.moe.edu.sg/uniquely-pei-hwa/direct-school-admission/floorball-dsa-for-girls-only/" style="font-size:14.5px; line-height:1.5;font-family:sans-serif;font-weight:bold;text-decoration: none;">Floorball DSA (For Girls only)</a></li> 
 <li style="font-size:14.5px; line-height:2;font-family:sans-serif;"><a href="https://www.peihwasec.moe.edu.sg/uniquely-pei-hwa/direct-school-admission/wushu-dsa/" style="font-size:14.5px; line-height:1.5;font-family:sans-serif;font-weight:bold;text-decoration: none;">Wushu DSA</a></li> 
