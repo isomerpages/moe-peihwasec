@@ -11,7 +11,7 @@ variant: markdown
 
 <p style="font-size:14.5px; line-height:2;margin-top:5px;margin-bottom:0;font-family:sans-serif;">Students who are successfully admitted to the school via DSA are expected to honour their commitment to the school, and participate in the activities related to the talent they are selected for from year 1-4.</p>
 
-<p style="font-size:14.5px;line-height:2;margin-top:5px;margin-bottom:0;font-family:sans-serif;">Pei Hwa Secondary offers DSA through 5 different talent areas. We are looking for students who demonstrate interest and aptitude in these 5 talent areas:</p>
+<p style="font-size:14.5px;line-height:2;margin-top:5px;margin-bottom:0;font-family:sans-serif;">Pei Hwa Secondary offers DSA through 6 different talent areas. We are looking for students who demonstrate interest and aptitude in these 6 talent areas:</p>
 
 <table style="border-collapse: collapse;margin: 25px 0;font-size:12px;font-family: sans-serif;box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);" border="1">
 <thead style="background-color: #009879; font-weight: bold; font-size: 14.5px;">
@@ -67,6 +67,17 @@ The Pei Hwa Guzheng Ensemble debuted in the Singapore Youth Festival Arts Presen
 The Guzheng programme includes opportunities for members to be developed as a musician through school and public performances; learning journeys to provide exposure to various performing art forms; and opportunities to interact and learn from students from other performing arts CCA and other schools.<br><br>
 PHSS Guzheng is looking for Primary 6 students with a talent in guzheng, a passion for music and a desire to be developed in their skills and character..</td>
 </tr>
+
+<tr style="background-color: #009879;">
+				<td style="font-size:14.5px;margin-bottom:5px; color:white;font-weight:bold;font-family:sans-serif;">Chinese and Modern Dance</td>
+				
+</tr>
+		     
+<tr>
+				<td style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;">The Pei Hwa Dance Society has a long history of being exposed to Modern, Chinese, Hip-Hop and Malay Dance. It is our goal that in the 4 years of our dancers’ journey, they will explore various genres of dance (Modern / Chinese / Hip Hop / Jazz) in order to develop techniques that will empower them to be versatile performers on stage.<br><br>
+Through the regular trainings and role modelling of our diligent and passionate dance leaders, and under the careful tutelage of our instructors, each member of dance society improves and hones their dance skills. In Dance Society, we expose students to as many opportunities as possible where they participate in public performances, take part in competitions and go on learning journeys.<br><br>
+Pei Hwa Dance Society is looking for Primary 6 students with a talent and passion for dance and a desire to develop their skills and character.</td>
+</tr>
 	
 <tr style="background-color: #009879;">
 				<td style="font-size:14.5px;margin-bottom:5px; color:white;font-weight:bold;font-family:sans-serif;">Floorball (For Girls only)</td>
@@ -95,4 +106,3 @@ The Pei Hwa Wushu programme aims to develop resilient, disciplined, confident an
 Apart from developing our students to acquire knowledge in Taekwondo, the CCA also aims to develop desirable values such as modesty, perseverance, respect and indomitable spirit. Hence, in line with its goal of nurturing sport talents who can foster team spirit, we are looking for committed students who demonstrate forte and aptitude in Taekwondo.</td>
 </tr>
 </tbody></table>
-
