@@ -69,7 +69,7 @@ PHSS Guzheng is looking for Primary 6 students with a talent in guzheng, a passi
 </tr>
 
 <tr style="background-color: #009879;">
-				<td style="font-size:14.5px;margin-bottom:5px; color:white;font-weight:bold;font-family:sans-serif;">Chinese and Modern Dance (For Girls only)</td>
+				<td style="font-size:14.5px;margin-bottom:5px; color:white;font-weight:bold;font-family:sans-serif;">Chinese and Modern Dance</td>
 				
 </tr>
 		     
