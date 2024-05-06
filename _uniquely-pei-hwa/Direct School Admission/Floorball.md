@@ -6,14 +6,7 @@ description: ""
 third_nav_title: Direct School Admission
 ---
 
-
-
-
-<title>floorball-dsa</title>
-
-
-
-	<h6 style="color:#0B6623;font-family:sans-serif;font-weight:bold;margin-top:30px;"><strong style="font-family:sans-serif;font-size:17px;color:#0B6623;">DSA Admission – Floorball (For Girls only)</strong></h6>
+<h6 style="color:#0B6623;font-family:sans-serif;font-weight:bold;margin-top:30px;"><strong style="font-family:sans-serif;font-size:17px;color:#0B6623;">DSA Admission – Floorball (For Girls only)</strong></h6>
 
 <p style="font-size:14.5px; line-height:2;margin-top:0; font-family:sans-serif">Pei Hwa Secondary School is looking for Primary 6 students with passion and talent in playing floorball. Students should meet the admission criteria stated in the following section before
 applying. Shortlisted applicants who meet the admission criteria will be required to attend an interview and selection trial by our panel of teachers.</p>
@@ -223,5 +216,3 @@ intake via the DSA-Sec.</p>
 <p style="font-size:14.5px; line-height:2;font-family:sans-serif;margin-top:0px;">Successful DSA –Sec students are NOT allowed to transfer to another school after the release of the PSLE results. They are expected to honour the commitment to the posted DSA schools for the duration of the programme they are admitted to.</p>
 		
 <p style="font-size:14.5px;line-height:2;margin-top:5px;margin-bottom:0;font-family:sans-serif;"><strong style="font-family:sans-serif;">More FAQs can be found on </strong><a href="http://www.moe.gov.sg/education/admissions/dsa-sec/faqs/" style="font-size:14.5px; line-height:1.5;font-family:sans-serif;font-weight:bold;text-decoration: none;">http://www.moe.gov.sg/education/admissions/dsa-sec/faqs/</a></p>
-
-
