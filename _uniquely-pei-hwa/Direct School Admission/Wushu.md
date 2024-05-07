@@ -62,30 +62,6 @@ not compulsory)</li>
 		<ol>
 </ol></ol></ul>
 
-<p style="margin-top:15px;font-size:15.5px; line-height:2;font-family:sans-serif;"><strong style="font-family:sans-serif;">Breakdown of Criteria and Weighting</strong></p>
-
-
-<table style="border-collapse: collapse;margin: 25px 0;font-size:14.5px;font-family: sans-serif;box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);" border="1">
-<thead style="background-color: #009879; font-weight: bold; font-size: 14.5px;">
-<tr>
-				<td style="text-align:left;color:white;font-family:sans-serif;">Criteria</td>
-			</tr>
-</thead>
-	
-<tbody>
-<tr>
-				<td style="font-family:sans-serif;">Selection Trial <ul style="margin-top:5px;">
-<li style="font-size:14.5px; line-height:2;font-family:sans-serif;">Wushu Skills</li>
-<li style="font-size:14.5px; line-height:2;font-family:sans-serif;">Prepared routine</li></ul></td>
-</tr>
-			
-<tr style="background-color: #f3f3f3;">
-				<td style="font-family:sans-serif;">Interview</td>
-</tr>
-						
-</tbody>
-</table>
-		
 <p style="margin-top:15px;font-size:14.5px; line-height:2;font-family:sans-serif;"><strong style="font-family:sans-serif;">Note:</strong>
 </p>
 <ul style="margin-top:-5px;">
@@ -123,12 +99,12 @@ charge. For more information, please refer to MOE website – <a style="font-siz
 					<ol style="margin-top:-8px;">
 						<li style="font-family:sans-serif; font-size:14.5px; line-height:2;">Application for DSA-Sec can be
 submitted through the online DSA-Sec
-Portal. The application is free-of-charge and will be open from <strong style="font-family:sans-serif;"> 4 May 2023, 11am to 31 May 2023, 3pm</strong>. For more details, please refer to MOE website – <a style="font-size:14.5px; line-height:1.5;font-family:sans-serif;font-weight:bold;text-decoration: none;" href="www.moe.gov.sg/dsa-sec">www.moe.gov.sg/dsa-sec.</a></li>
-						<li style="font-family:sans-serif; font-size:14.5px; line-height:2;"><strong style="font-family:sans-serif;">For Students from MOE mainstream
+Portal. The application is free-of-charge and will be open from <strong style="font-family:sans-serif;"> 7 May 2024, 11am to 3 May 2024 3pm</strong>. For more details, please refer to MOE website – <a style="font-size:14.5px; line-height:1.5;font-family:sans-serif;font-weight:bold;text-decoration: none;" href="www.moe.gov.sg/dsa-sec">www.moe.gov.sg/dsa-sec.</a><br>For enquires, please email Mr Tan Kok Kwang at <a style="font-size:14.5px; line-height:1.5;font-family:sans-serif;font-weight:bold;text-decoration: none;" href="tan_kok_kwang_a@moe.edu.sg">tan_kok_kwang_a@moe.edu.sg
+						</a></li><li style="font-family:sans-serif; font-size:14.5px; line-height:2;"><a style="font-size:14.5px; line-height:1.5;font-family:sans-serif;font-weight:bold;text-decoration: none;" href="tan_kok_kwang_a@moe.edu.sg"><strong style="font-family:sans-serif;">For Students from MOE mainstream
 primary schools:</strong><br>Parent may log in directly to DSA-Sec Portal. Only one parent’s Singpass is required. Parents/guardians who are unable to apply
-online can approach their child’s primary school for assistance.</li>
-						<li style="font-family:sans-serif; font-size:14.5px; margin-bottom:0px;line-height:2;"><strong style="font-family:sans-serif;">For non-mainstream school students:</strong><br>Please request for a Registration Number which is required in the DSA application. This can be done via the MOE website at&nbsp;
-<a style="font-size:14.5px; line-height:1.5;font-family:sans-serif;font-weight:bold;text-decoration: none;" href="https://go.gov.sg/nmsdsa-sec-application">https://go.gov.sg/nmsdsa-sec-application</a></li>
+online can approach their child’s primary school for assistance.</a></li><a style="font-size:14.5px; line-height:1.5;font-family:sans-serif;font-weight:bold;text-decoration: none;" href="tan_kok_kwang_a@moe.edu.sg">
+						</a><li style="font-family:sans-serif; font-size:14.5px; margin-bottom:0px;line-height:2;"><a style="font-size:14.5px; line-height:1.5;font-family:sans-serif;font-weight:bold;text-decoration: none;" href="tan_kok_kwang_a@moe.edu.sg"><strong style="font-family:sans-serif;">For non-mainstream school students:</strong><br>Please request for a Registration Number which is required in the DSA application. This can be done via the MOE website at&nbsp;
+</a><a style="font-size:14.5px; line-height:1.5;font-family:sans-serif;font-weight:bold;text-decoration: none;" href="https://go.gov.sg/nmsdsa-sec-application">https://go.gov.sg/nmsdsa-sec-application</a></li>
 					</ol>
 				</td>
 </tr>
