@@ -5,7 +5,7 @@ variant: markdown
 description: ""
 third_nav_title: Direct School Admission
 ---
-<img src="/images/unnamed-10.jpg" style="width: 85%;">
+![](/images/Uniquely%20Pei%20Hwa/Guzheng.jpg)
 <h6 style="color:#0B6623;font-family:sans-serif;font-weight:bold;margin-top:30px;"><strong style="font-family:sans-serif;font-size:17px;color:#0B6623;">DSA Admission – Guzheng</strong></h6>
 
 <p style="font-size:14.5px;line-height:2;margin-top:0px;font-family:sans-serif;">Pei Hwa Guzheng Ensemble is committed to developing students’ talents and lifelong passion for the arts. Through rich and meaningful music experiences planned, the Pei Hwa Guzheng Ensemble also endeavours to help students to build character, foster friendships and cultivate a sense of belonging to the school.</p>
