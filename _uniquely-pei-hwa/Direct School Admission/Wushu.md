@@ -7,13 +7,9 @@ third_nav_title: Direct School Admission
 ---
 <h6 style="color:#0B6623;font-family:sans-serif;font-weight:bold;margin-top:30px;"><strong style="font-family:sans-serif;font-size:17px;color:#0B6623;">DSA Admission – Wushu</strong></h6>
 
-<p style="font-size:14.5px; line-height:2;margin-top:0px; font-family:sans-serif">Pei Hwa Secondary School is looking for Primary 6 students with a passion and talent in
-Wushu. Students should meet the admission criteria stated in the following section before applying. Shortlisted applicants who meet the admission criteria will be required to attend an interview and selection trial by our panel of teachers and instructor.</p>
+<p style="font-size:14.5px; line-height:2;margin-top:0px; font-family:sans-serif">Pei Hwa Wushu focuses on developing students’ confidence in body expressions through a vigorous attention on the strengthening of body and mind. The practice of contemporary Chinese martial arts combines elements of performance and martial application. </p>
 
-<p style="margin-top:0px;font-size:14.5px; line-height:2;font-family:sans-serif;">Parents and students are encouraged to choose schools wisely based on the student’s aptitudes and strengths, bearing in mind the school’s academic and non-academic requirements, and the programmes available to develop the area of talent.</p>
-
-<p style="margin-top:0px;font-size:14.5px; line-height:2;font-family:sans-serif;">Students who are successfully admitted to the school via DSA are expected to honour their commitment to the school, and participate in the activities related to the talent they are selected
-for from year 1 to 4.</p>
+<p style="font-size:14.5px; line-height:2;margin-top:20px; font-family:sans-serif">For more information on the CCA, please click <a style="font-size:14.5px; line-height:1.5;font-family:sans-serif;font-weight:bold;text-decoration: none;" href="https://moe-peihwasec-staging.netlify.app/learning-at-pei-hwa/cca/sports-games/wushu/"> here.</a> </p>
 
 <h6 style="color:#0B6623;font-family:sans-serif;font-weight:bold;margin-top:30px;"><strong style="font-family:sans-serif;font-size:17px;color:#0B6623;">About Pei Hwa Wushu</strong></h6>
 
