@@ -114,126 +114,38 @@ Students who are successfully admitted to the school via DSA are expected to hon
 <div style="content:''; clear: both;display: table;">
   <div style="float: left; width: 50%;padding: 5px;">
     <img style="width:100%" alt="Snow" src="/images/Uniquely%20Pei%20Hwa/DSA/Robotics05.jpg">
-		<p style="font-size:10px; line-height:2; text-align:center; margin-top:5px;font-family:sans-serif;"><strong style="font-size:10px;font-family:sans-serif;">Students working on their FLP projects</strong></p>
+		<p style="font-size:10px; line-height:2; text-align:center; margin-top:5px;font-family:sans-serif;"><strong style="font-size:10px;font-family:sans-serif;">Sharing during STEM ALP Learning Fest</strong></p>
   </div>
   <div style="float: left; width: 50%;padding: 5px;">
-    <img style="width:100%" alt="Forest" src="/images/Uniquely%20Pei%20Hwa/DSA/robotics06.jpg">
-		<p style="font-size:10px; line-height:2; text-align:center; margin-top:5px;font-family:sans-serif;"><strong style="font-size:10px;font-family:sans-serif;">Students working on their FLP projects</strong></p>
+    <img style="width:100%" alt="Forest" src="/images/Uniquely%20Pei%20Hwa/DSA/Robotics06.jpg">
+		<p style="font-size:10px; line-height:2; text-align:center; margin-top:5px;font-family:sans-serif;"><strong style="font-size:10px;font-family:sans-serif;">Sharing at Pei Hwa Open House</strong></p>
   </div>
 	<div style="float: left; width: 50%;padding: 5px;">
     <img style="width:100%" alt="Snow" src="/images/Uniquely%20Pei%20Hwa/DSA/Robotics07.jpg">
-		<p style="font-size:10px; line-height:2; text-align:center; margin-top:5px;font-family:sans-serif;"><strong style="font-size:10px;font-family:sans-serif;">Students working on their FLP projects</strong></p>
+		<p style="font-size:10px; line-height:2; text-align:center; margin-top:5px;font-family:sans-serif;"><strong style="font-size:10px;font-family:sans-serif;">Sharing during Streamnovation Week</strong></p>
   </div>
   <div style="float: left; width: 50%;padding: 5px;">
-    <img style="width:100%" alt="Forest" src="/images/Uniquely%20Pei%20Hwa/DSA/robotics08.jpg">
-		<p style="font-size:10px; line-height:2; text-align:center; margin-top:5px;font-family:sans-serif;"><strong style="font-size:10px;font-family:sans-serif;">Students working on their FLP projects</strong></p>
+    <img style="width:100%" alt="Forest" src="/images/Uniquely%20Pei%20Hwa/DSA/Robotics08.jpg">
+		<p style="font-size:10px; line-height:2; text-align:center; margin-top:5px;font-family:sans-serif;"><strong style="font-size:10px;font-family:sans-serif;">Sharing at Singapore Maker Extravaganza</strong></p>
   </div>
 	<div style="float: left; width: 50%;padding: 5px;">
     <img style="width:100%" alt="Snow" src="/images/Uniquely%20Pei%20Hwa/DSA/Robotics09.jpg">
-		<p style="font-size:10px; line-height:2; text-align:center; margin-top:5px;font-family:sans-serif;"><strong style="font-size:10px;font-family:sans-serif;">Students working on their FLP projects</strong></p>
+		<p style="font-size:10px; line-height:2; text-align:center; margin-top:5px;font-family:sans-serif;"><strong style="font-size:10px;font-family:sans-serif;">Sharing at SG:Digital Wonderland</strong></p>
   </div>
   <div style="float: left; width: 50%;padding: 5px;">
-    <img style="width:100%" alt="Forest" src="/images/Uniquely%20Pei%20Hwa/DSA/robotics10.jpg">
-		<p style="font-size:10px; line-height:2; text-align:center; margin-top:5px;font-family:sans-serif;"><strong style="font-size:10px;font-family:sans-serif;">Students working on their FLP projects</strong></p>
-  </div>
-	<div style="float: left; width: 50%;padding: 5px;">
-    <img style="width:100%" alt="Snow" src="/images/Uniquely%20Pei%20Hwa/DSA/Robotics11.jpg">
-		<p style="font-size:10px; line-height:2; text-align:center; margin-top:5px;font-family:sans-serif;"><strong style="font-size:10px;font-family:sans-serif;">Students working on their FLP projects</strong></p>
-  </div>
-  <div style="float: left; width: 50%;padding: 5px;">
-    <img style="width:100%" alt="Forest" src="/images/Uniquely%20Pei%20Hwa/DSA/robotics12.jpg">
-		<p style="font-size:10px; line-height:2; text-align:center; margin-top:5px;font-family:sans-serif;"><strong style="font-size:10px;font-family:sans-serif;">Students working on their FLP projects</strong></p>
+    <img style="width:100%" alt="Forest" src="/images/Uniquely%20Pei%20Hwa/DSA/Robotics10.jpg">
+		<p style="font-size:10px; line-height:2; text-align:center; margin-top:5px;font-family:sans-serif;"><strong style="font-size:10px;font-family:sans-serif;">Sharing at EduTech Asia</strong></p>
   </div>
 </div>
+<div style="float: left; width: 50%;padding: 5px;">
+    <img style="width:100%" alt="Snow" src="/images/Uniquely%20Pei%20Hwa/DSA/Robotics11.jpg">
+		<p style="font-size:10px; line-height:2; text-align:center; margin-top:5px;font-family:sans-serif;"><strong style="font-size:10px;font-family:sans-serif;">Sharing at SG:Digital Wonderland</strong></p>
+  </div>
+  <div style="float: left; width: 50%;padding: 5px;">
+    <img style="width:100%;" alt="Forest" src="/images/Uniquely%20Pei%20Hwa/DSA/Robotics12.jpg">
+		<p style="font-size:10px; line-height:2; text-align:center; margin-top:5px;font-family:sans-serif;"><strong style="font-size:10px;font-family:sans-serif;">Meeting with CEO of micro:bit Foundation</strong></p>
+  </div>
 
-<h6 style="color:#0B6623;font-family:sans-serif;font-weight:bold;margin-top:30px;"><strong style="font-family:sans-serif;font-size:17px;color:#0B6623;">Pinnacle Achievements in 2018 and 2019</strong></h6>
-
-<img src="/images/dsarobo1.png" style="width: 65%;">
-<p style="line-height:2;margin-top:5px;margin-bottom:0;font-family:sans-serif;font-size:15.5px;"><strong style="font-family:sans-serif;">Outstanding Contribution Award</strong></p>
-
-<p style="font-size:14.5px; line-height:2;margin-top:0px;font-family:sans-serif;">In April 2018, Pei Hwa Secondary School received the&nbsp;<strong style="font-family:sans-serif;">Outstanding Contribution Award</strong>&nbsp;from RoboCup Singapore for actively contributing to the CoSpace community through organising RoboCupJunior CoSpace Pei Hwa Challenge for the past 5 years. The award is not only&nbsp;dedicated
-to&nbsp;the hardworking&nbsp;ALP Team&nbsp;but also to all colleagues who had worked hard and supported the Robotics Programme.</p>
-
-<p style="line-height:2;margin-top:5px;margin-bottom:0;font-family:sans-serif;font-size:15.5px;"><strong style="font-family:sans-serif;">CCA Achievements 2019</strong></p>
-
-<p style="font-size:14.5px; line-height:2;margin-top:0px;font-family:sans-serif;">In April, the Robotics Club participated in the Robocup Singapore Open organized by RoboCup Singapore, Robotics &amp; Maker Academy (RMA), Singapore Polytechnic (SP), Singapore Science Centre and supported by Infocomm Media Development Authority of Singapore (IMDA) and
-National Infocomm Competition. Team Pei Hwa clinched a total of 9 awards from the various categories. The team was also awarded the Best Achievement Award, an award reserved for the best performing school in this event </p>
-
-<p style="margin-top:0px;font-size:14.5px; line-height:2;font-family:sans-serif;">The school was invited to represent Singapore in RoboCup Asia Pacific 2019 in Tianjin, China and Moscow, Russia.</p>
-<img src="/images/dsarobo2.jpg" style="width: 65%;">
-
-
-<h6 style="color:#0B6623;font-family:sans-serif;font-weight:bold;margin-top:30px;"><strong style="font-family:sans-serif;font-size:17px;color:#0B6623;">Accolades in Robotics and Programming</strong></h6>
-
-<p style="font-size:14.5px; line-height:2;margin-top:0px; font-family:sans-serif">We have won many awards in local and overseas competitions for the past years.</p>
-
-<img src="/images/robocup4.jpg" style="width: 65%;">
-<p style="font-size:10px; line-height:2; text-align:center; margin-top:5px;font-family:sans-serif;">Award Ceremony for RoboCup Singapore 2017</p>
-
-
-<img src="/images/robocup5.jpg" style="width: 65%;">
-<p style="font-size:10px; line-height:2; text-align:center; margin-top:5px;font-family:sans-serif;">RCJ CoSpace Rescue Championship Award for Team Category in Netherlands 2013</p>
-
-
-<img src="/images/robocup6.jpg" style="width: 65%;">
-<p style="font-size:10px; line-height:2; text-align:center; margin-top:5px;font-family:sans-serif;">RCJ CoSpace Rescue Championship Award for Team Category in Japan 2017</p>
-
-<p style="margin-top:0px;font-size:15.5px; line-height:2;font-family:sans-serif;">International Achievements:</p>
-
-<ul style="margin-top:-5px;">
-<li style="font-size:14.5px; line-height:2;font-family:sans-serif;">2017 Silver Award, RoboCupJunior CoSpace Rescue Individual Category, Japan</li>
-<li style="font-size:14.5px; line-height:2;font-family:sans-serif;">2013 Championship Award, RoboCupJunior CoSpace Rescue Team Category, Netherlands</li>
-<li style="font-size:14.5px; line-height:2;font-family:sans-serif;">2013 Bronze Award, RoboCupJunior CoSpace Rescue Team Category, Netherlands</li>
-<li style="font-size:14.5px; line-height:2;font-family:sans-serif;">2012 2<sup>nd</sup>&nbsp;runner-up in the Robocup Junior Cospace Rescue Team Category, Mexico</li>
-<li style="font-size:14.5px; line-height:2;font-family:sans-serif;margin-bottom:0px;">2011 Championship Award, RoboCupJunior Cospace Rescue Individual Category, Turkey</li>
-</ul>
-
-<p style="margin-top:0px;font-size:14.5px; line-height:2;font-family:sans-serif;">Other Achievements:</p>
-
-<ul style="margin-top:-5px;">
-<li style="font-size:14.5px; line-height:2;font-family:sans-serif;">Singapore National CoSpace and RoboMaker Challenge</li>
-<li style="font-size:14.5px; line-height:2;font-family:sans-serif;">RobocupJunior Singapore Open</li>
-<li style="font-size:14.5px; line-height:2;font-family:sans-serif;">National Junior Robotics Competition (NJRC)</li>
-<li style="font-size:14.5px; line-height:2;font-family:sans-serif;">Asia-Pacific Vex Championship</li>
-<li style="font-size:14.5px; line-height:2;font-family:sans-serif;">Singapore Robotics Games (Micromouse)</li>
-<li style="font-size:14.5px; line-height:2;font-family:sans-serif;margin-bottom:0px;">Singapore Robo Grand Prix</li>
-</ul>
-
-<p style="margin-top:0px;font-size:14.5px; line-height:2;font-family:sans-serif;">Please refer to our&nbsp;<a href="https://moe-peihwasec-staging.netlify.app/learning-at-pei-hwa/cca/clubs-societies/robotics/" style="font-size:14.5px; line-height:1.5;font-family:sans-serif;font-weight:bold;text-decoration: none;">school website</a>&nbsp;for more information.</p>
-
-<h6 style="color:#0B6623;font-family:sans-serif;font-weight:bold;margin-top:30px;"><strong style="font-family:sans-serif;font-size:17px;color:#0B6623;">Infusion of Coding and Making into New Project Work</strong></h6>
-
-<p style="font-size:14.5px; line-height:2;margin-top:0px; font-family:sans-serif">In alignment with the school’s vision to develop Future-Ready Learners and Forward-Looking Leaders, the school’s Project Work has been rebranded as the Future Leaders Programme (FLP). The
-FLP curriculum leverages on the school’s innovation cycle (adapted from Design Thinking) to develop empathy in our students as they need to put themselves in the shoes’ of the end users to understand the problems they faced. Students would use the coding and making skills learnt during ALP sessions to develop a prototype solution to meet the needs of their target audience. FLP
-integrates our school’s distinctive programmes (<a style="font-size:14.5px; line-height:1.5;font-family:sans-serif;font-weight:bold;text-decoration: none;" href="https://www.peihwasec.moe.edu.sg/school-distinctive-programme/applied-learning-programme-robotics-and-programming/">Robotics and Programming</a> and <a style="font-size:14.5px; line-height:1.5;font-family:sans-serif;font-weight:bold;text-decoration: none;" href="https://www.peihwasec.moe.edu.sg/school-distinctive-programme/learning-for-life-programme-community-youth-leadership-llp-cyl/">Community Youth Leadership</a>&nbsp;) and provides a more holistic and enriching experience for our students. In addition, they learn important 21 st CC skills and competencies through the project work experience. We believe that such authentic learning experience is crucial in preparing our students for the Volatile, Uncertain, Complex and Ambiguous world that our students would live in.</p>
-
-<p style="margin-top:0px;font-size:14.5px; line-height:2;font-family:sans-serif;">The theme for Secondary 1 FLP is Improvement to School Life. Students work in teams to find out the needs of various stakeholders in the school using PHSS Innovation Cycle and brainstorm how they can make use of micro:bit microcontrollers to meet their needs.</p>
-
-<img src="/images/unnamed-4.jpg" style="width: 85%;">
-<p style="text-align: center;margin-top:5px; font-size:11px;font-family:sans-serif;">Students working on their Micro:bit projects</p>
-
-<img src="/images/unnamed-5.jpg" style="width: 85%;">
-<p style="text-align: center;margin-top:5px; font-size:11px;font-family:sans-serif;">Students working on their Micro:bit projects</p>
-
-<p style="margin-top:0px;font-size:14.5px; line-height:2;font-family:sans-serif;">Secondary Two students will be able to choose between the two themes for their FLP. The themes include Inclusive Community and Sustainable Environment. Students work in teams and go beyond the school to find out the needs of the community and the envrionment using PHSS Innovation Cycle and brainstorm how they can make use of the M5Go microcontroller to meet their needs.</p>
-
-<img src="/images/unnamed-6.jpg" style="width: 85%;">
-<p style="text-align: center;margin-top:5px; font-size:11px;font-family:sans-serif;">Students interacting with the elderly</p>
-
-<img src="/images/unnamed-7.jpg" style="width: 85%;">
-<p style="text-align: center;margin-top:5px; font-size:11px;font-family:sans-serif;">Students brainstorming for project ideas</p>
-
-<p style="line-height:2;margin-top:5px;margin-bottom:0;font-family:sans-serif;font-size:15.5px;"><strong style="font-family:sans-serif;">Opportunity for International Competition</strong></p>
-
-<p style="font-size:14.5px; line-height:2;margin-top:0px;font-family:sans-serif;">The school stays true to its motto “Nurturing Talents” by sending students from our Robotic Club (CCA) to overseas competition. This exposure helps to broaden the students’ horizons and enhances their level of competency in various skills such as robot building and programming, leadership, communication, teamwork, and reinforces values such as resilience and excellence. These students would then share at the CCA level on the building and programming of robots. These students would also play a leadership role through sharing of their experiences to enhance the learning of the others.</p>
-
-<p style="line-height:2;margin-top:5px;margin-bottom:0;font-family:sans-serif;font-size:15.5px;"><strong style="font-family:sans-serif;">Opportunity for sharing Projects at different platforms</strong></p>
-
-<p style="font-size:14.5px; line-height:2;margin-top:0px;font-family:sans-serif;">The school also provides students with opportunities to share their wonderful project ideas with the wider community. Our students came up with innovative micro:bit Projects which were shared during various events such as Streamnovation Week, Open House, Singapore Maker Extravaganza, SG:Digital Wonderland and EduTech Asia. In 2018, our students were also invited to share their project ideas with the CEO of Micro:bits Foundation in March. In addition, one of our projects, the Panic Button, was featured in Time Machine, which is an infotainment programme which adopts a light-hearted way to show the roles and benefits of science and technology in this modern society.</p>
-
-
-
-<img src="/images/dsarobo5.png" style="width: 85%;">
 
 <h6 style="color:#0B6623;font-family:sans-serif;font-weight:bold;margin-top:30px;"><strong style="font-family:sans-serif;font-size:17px;color:#0B6623;">Application Procedures for 2024</strong></h6>
 <p style="font-size:14.5px; line-height:2;margin-top:0px;font-family:sans-serif;"><strong>Here are the procedures for DSA-Robotics (Programming) application in Pei Hwa Secondary School.</strong></p>
