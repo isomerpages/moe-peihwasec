@@ -27,9 +27,23 @@ Students who are successfully admitted to the school via DSA are expected to hon
 
 <h6 style="color:#0B6623;font-family:sans-serif;font-weight:bold;margin-top:30px;"><strong style="font-family:sans-serif;font-size:17px;color:#0B6623;">Admission Criteria</strong></h6>
 
-<p style="margin-top:0px;font-size:14.5px; line-height:2;font-family:sans-serif;">The admission criteria are shown below.</p><strong style="font-family:sans-serif;font-size:14.5px;">ROBOTICS (PROGRAMMING) CRITERIA</strong><p></p>
+<p style="margin-top:0px;font-size:14.5px; line-height:2;font-family:sans-serif;">The admission criteria are shown below.</p><strong style="font-family:sans-serif;font-size:14.5px;">ROBOTICS (PROGRAMMING) CRITERIA</strong>
 
-<p style="margin-top:0px;font-size:14.5px; line-height:2;font-family:sans-serif;">Our Secondary 1 students are exposed to M5Go, an entry-level programmable microcontroller, which will be loaned to our students to inspire them to explore the possibilities of digital making. After the training, they would be actively looking at how they can use M5Go microcontrollers to make improvement to their lives in the school community. </p>
+<p style="margin-top:10px;font-size:14.5px;;font-family:sans-serif;"><strong style="font-family:sans-serif;">Talent/Experience in: </strong>
+	
+</p><ul style="margin-top:-5px;">
+	<li style="font-size:14.5px; line-height:2;font-family:sans-serif;">Talent/experience in: </li>
+	<li style="font-size:14.5px; line-height:1.5;font-family:sans-serif;">LEGO Mindstorms EV3, SPIKE Prime </li>
+			<li style="font-size:14.5px; line-height:1.5;font-family:sans-serif;">Robocup CoSpace Programming</li>
+			<li style="font-size:14.5px; line-height:1.5;font-family:sans-serif;">FIRST Tech Challenge</li>
+			<li style="font-size:14.5px;line-height:1.5;font-family:sans-serif;">Vex Robotics System</li>
+			<li style="font-size:14.5px;line-height:1.5;font-family:sans-serif;">Arduino System</li>
+			<li style="font-size:14.5px;line-height:1.5;font-family:sans-serif;">micro:bit microcontroller system</li>
+			<li style="font-size:14.5px;line-height:1.5;font-family:sans-serif;">C/C++/Java/Python Programming</li>
+			<li style="font-size:14.5px;line-height:1.5;font-family:sans-serif;">Python Programming</li>
+			<li style="font-size:14.5px;line-height:1.5;font-family:sans-serif;">Any other programming languages</li></ul>
+
+<p style="margin-top:0px;font-size:14.5px; line-height:2;font-family:sans-serif;"><strong style="font-family:sans-serif;font-size:14.5px">Level of Experience and Exposure: </strong>Participations in CCA, national or/and international robotics competitions, showcasing and projects.</p>
 
 <p style="margin-top:0px;font-size:14.5px; line-height:2;font-family:sans-serif;">Our Secondary 2 students would deepen their learning of M5Go microcontroller with the introduction of new sensors, which would allow them wider options and to come with more complex solutions. After the training, they would be working on their projects to benefit selected Voluntary Welfare Organisations (VWOs) and external stakeholders in the community. </p>
 
