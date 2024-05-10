@@ -176,7 +176,7 @@ integrates our school’s distinctive programmes (<a style="font-size:14.5px; li
 
 <img src="/images/dsarobo5.png" style="width: 85%;">
 
-<h6 style="color:#0B6623;font-family:sans-serif;font-weight:bold;margin-top:30px;"><strong style="font-family:sans-serif;font-size:17px;color:#0B6623;">Application Procedures for 2023</strong></h6>
+<h6 style="color:#0B6623;font-family:sans-serif;font-weight:bold;margin-top:30px;"><strong style="font-family:sans-serif;font-size:17px;color:#0B6623;">Application Procedures for 2024</strong></h6>
 <p style="font-size:14.5px; line-height:2;margin-top:0px;font-family:sans-serif;"><strong>Here are the procedures for DSA-Robotics (Programming) application in Pei Hwa Secondary School.</strong></p>
 
 <table style="border-collapse: collapse;margin: 25px 0;font-size:14.5px;font-family: sans-serif;box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);" border="1">
@@ -194,7 +194,7 @@ integrates our school’s distinctive programmes (<a style="font-size:14.5px; li
 				<td style="font-family:sans-serif;line-height:2;">Application for DSA-Sec can be submitted through the online DSA-Sec Portal. The application is free-of-charge. For more information, please refer to MOE website – <a style="font-size:14.5px; line-height:1.5;font-family:sans-serif;font-weight:bold;text-decoration: none;" href="www.moe.gov.sg/dsa-sec">www.moe.gov.sg/dsa-sec</a></td>
 				<td>
 					<ol style="margin-top:-8px;">
-						<li style="font-family:sans-serif; font-size:14.5px;line-height:2">Application for DSA-Sec can be submitted through the online DSA-Sec Portal. The application is free-of-charge and will be open from <strong style="font-family:sans-serif;"> 4 May 2023, 11am to 31 May 2023, 3pm</strong>. For more details, please refer to MOE website – <a style="font-size:14.5px; line-height:1.5;font-family:sans-serif;font-weight:bold;text-decoration: none;" href="www.moe.gov.sg/dsa-sec">www.moe.gov.sg/dsa-sec.</a><br>For enquiries, please call Mrs Jaslyn Ang 65009580 #253</li>
+						<li style="font-family:sans-serif; font-size:14.5px;line-height:2">Application for DSA-Sec can be submitted through the online DSA-Sec Portal. The application is free-of-charge and will be open from <strong style="font-family:sans-serif;"> 7 May 2024, 11am to 3 Jun 2024, 3pm</strong>. For more details, please refer to MOE website – <a style="font-size:14.5px; line-height:1.5;font-family:sans-serif;font-weight:bold;text-decoration: none;" href="www.moe.gov.sg/dsa-sec">www.moe.gov.sg/dsa-sec.</a><br>For enquiries, please call Mrs Jaslyn Ang 65009580 #220</li>
 						<li style="font-family:sans-serif; font-size:14.5px;line-height:2"><strong style="font-family:sans-serif;">For Students from MOE mainstream primary schools: </strong><br>Parent may log in directly to DSA-Sec Portal. Only one parent’s Singpass is required. Parents/ guardians who are unable to apply online can approach their child’s primary school for assistance.</li>
 						<li style="font-family:sans-serif;line-height:2; font-size:14.5px; margin-bottom:5px;"><strong style="font-family:sans-serif;">For non-mainstream school students:</strong> Applicants not studying in MOE mainstream primary schools will need to apply for a Registration Number (RGxxxxxxx) to access the DSA-Sec Portal. Please refer to the MOE website at: <a style="font-size:14.5px; line-height:1.5;font-family:sans-serif;font-weight:bold;text-decoration: none;" href="https://go.gov.sg/nmsdsa-sec-application">https://go.gov.sg/nmsdsa-sec-application</a> </li>
 					</ol>
@@ -205,7 +205,7 @@ integrates our school’s distinctive programmes (<a style="font-size:14.5px; li
 				<td><strong style="font-family:sans-serif;">2</strong></td>
 				<td>
 					<ol style="margin-top:-8px;">
-						<li style="font-size:14.5px; font-family:sans-serif;line-height:2">Short-listed applicants will be notified by email/ call / SMS from 26 Jun 2023 onwards.
+						<li style="font-size:14.5px; font-family:sans-serif;line-height:2">Short-listed applicants will be notified by email/ call / SMS from 24 Jun 2024 onwards.
     </li>
 						<li style="font-family:sans-serif;font-size:14.5px;line-height:2">Shorted listed applicants will be required to attend an interview and a selection test.</li>
 						<li style="font-size:14.5px;font-family:sans-serif;line-height:2">Date and time of the interview and selection test will be informed.</li>
@@ -213,17 +213,16 @@ integrates our school’s distinctive programmes (<a style="font-size:14.5px; li
 </ol></td>
 <td style="font-size:14.5;margin-bottom:5px;font-family:sans-serif;">
 					<ol style="margin-top:-8px;">
-						<li style="font-size:14.5px;font-family:sans-serif;line-height:2;">Selection process will be carried out from<strong style="font-family:sans-serif;"> 26 Jun 2023 to 11 Sep 2023.</strong></li>
+						<li style="font-size:14.5px;font-family:sans-serif;line-height:2;">Selection process will be carried out from<strong style="font-family:sans-serif;"> 24 Jun 2024 to 9 Sep 2024.</strong></li>
 						<li style="font-size:14.5px;font-family:sans-serif;line-height:2;">Parents are allowed to accompany the child to school but not during the interview.</li>
-						<li style="font-size:14.5px;font-family:sans-serif;line-height:2;">Prevailing SMM applies.</li>
-						<li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:2;">DSA applicants / Parents are advised not to change the assigned interview and selection schedule except for valid reasons, Please call Mrs Jaslyn Ang at 65009580 #253 for clarification</li>
+						<li style="font-size:14.5px;margin-bottom:5px;font-family:sans-serif;line-height:2;">DSA applicants / Parents are advised not to change the assigned interview and selection schedule except for valid reasons, Please call Mrs Jaslyn Ang at 65009580 #220 for clarification</li>
 					</ol>
 				</td>
 </tr>
 			
 <tr>
 				<td><strong style="font-family:sans-serif;">3</strong></td>
-				<td style="font-family:sans-serif;font-size:14.5px;line-height:2;margin-bottom:5px;">All DSA applicants will be notified by <strong style="font-family:sans-serif;">11 Sep 2023</strong> on the outcome of their application. The decision of the interview panel is final.</td>
+				<td style="font-family:sans-serif;font-size:14.5px;line-height:2;margin-bottom:5px;">All DSA applicants will be notified by <strong style="font-family:sans-serif;">9 Sep 2024</strong> on the outcome of their application. The decision of the interview panel is final.</td>
 				<td style="font-family:sans-serif;font-size:14.5px;line-height:2">
 					Possible outcomes of selection:
 					<ul style="margin-top:-5px;">
@@ -236,7 +235,7 @@ integrates our school’s distinctive programmes (<a style="font-size:14.5px; li
 			
 <tr style="background-color: #f3f3f3;border-bottom: 2px solid #009879;">
 				<td><strong style="font-family:sans-serif;">4</strong></td>
-				<td style="font-size:14.5px;font-family:sans-serif;line-height:2;">Students who receive at least one DSA-Sec offer will receive email and SMS notification on the School Preference Submission in October 2023</td>
+				<td style="font-size:14.5px;font-family:sans-serif;line-height:2;">Students who receive at least one DSA-Sec offer will receive email and SMS notification on the School Preference Submission in October 2024</td>
 				<td style="font-size:14.5px;margin-bottom:5px;">
 					<ol style="margin-top:-8px;">
 						<li style="font-family:sans-serif;font-size:14.5px;line-height:2;">Both parents are required to login to the DSA-Sec Portal using their SingPass to submit up to three school preferences before the deadline&nbsp; (Please refer to&nbsp;<a style="font-size:14.5px; line-height:1.5;font-family:sans-serif;font-weight:bold;text-decoration: none;" href="http://www.moe.gov.sg/dsa-sec">http://www.moe.gov.sg/dsa-sec</a> for details)</li>
