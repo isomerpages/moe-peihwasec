@@ -37,48 +37,22 @@ third_nav_title: Direct School Admission
 			<li style="font-size:14.5px;line-height:1.5;font-family:sans-serif;">Python Programming</li>
 			<li style="font-size:14.5px;line-height:1.5;font-family:sans-serif;">o	Any other programming languages</li>
 		</ul>
-		<li style="font-size:14.5px; line-height:2;font-family:sans-serif;">Talent/experience in: </li>
-		<li style="font-size:14.5px; line-height:2;font-family:sans-serif;">Talent/experience in: </li>
-	
+		<li style="font-size:14.5px; line-height:2;font-family:sans-serif;">Participated in CCA, national or/and international robotics competitions, showcasing and projects.</li>
+		<li style="font-size:14.5px; line-height:2;font-family:sans-serif;">An e-portfolio to showcase their work. Shortlisted applicants will be informed about the method of submission.</li>
 </ul>
 
-<p style="margin-top:0px;font-size:14.5px; line-height:2;font-family:sans-serif;"><strong style="font-family:sans-serif;">Level of Experience and Exposure:&nbsp;</strong>Participations in CCA, national or/and international robotics competitions, showcasing and projects.</p>
+<p style="margin-top:-20px;font-size:14.5px; line-height:2;font-family:sans-serif;">Note:</p>
 
-<p style="margin-top:0px;font-size:14.5px; line-height:2;font-family:sans-serif;"><strong style="font-family:sans-serif;">Note:&nbsp;</strong>
-Applicants do not need to possess&nbsp;<strong style="font-family:sans-serif;">ALL</strong>&nbsp;of the above criteria to be considered. Meeting all the criteria does not guarantee the applicant will be shortlisted / given an offer.</p>
+<ol style="margin-top:-5px;">
+<li style="font-size:14.5px; line-height:2;font-family:sans-serif;">Applicants who do not have prior experience may also apply. The school will assess applicants based on the selection criteria, which may include assessing the potential of the applicants. </li>
+<li style="font-size:14.5px; line-height:2;font-family:sans-serif;">Meeting all the criteria does not guarantee the applicant will be shortlisted/given an offer. </li>
+</ol>
 
-<h6 style="color:#0B6623;font-family:sans-serif;font-weight:bold;margin-top:30px;"><strong style="font-family:sans-serif;font-size:17px;color:#0B6623;">Selection Process and Criteria</strong></h6>
+<h6 style="color:#0B6623;font-family:sans-serif;font-weight:bold;margin-top:30px;"><strong style="font-family:sans-serif;font-size:17px;color:#0B6623;">Selection Process</strong></h6>
 
-<p style="font-size:15px; line-height:2;margin-top:0px;">The selection process will involve&nbsp;<strong style="font-family:sans-serif;">an interview and a selection test</strong>&nbsp;which requires applicants to attempt&nbsp;<strong style="font-family:sans-serif;">a programming task</strong>.&nbsp;</p>
+<p style="font-size:15px; line-height:2;margin-top:0px;">Shortlisted applicants will be invited to attend <strong style="font-family:sans-serif;">an interview and a selection test </strong>which requires applicants to attempt <strong style="font-family:sans-serif;">a programming task</strong>.</p>
 
-<table style="border-collapse: collapse;margin: 25px 0;font-size:14.5px;font-family: sans-serif;box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);" border="1">
-<thead style="background-color: #009879; font-weight: bold; font-size: 14.5px;">
-<tr>
-				<td style="text-align:left;color:white;font-family:sans-serif;">Criteria</td>
-			</tr>
-</thead>
-	
-<tbody>
-<tr>
-				<td style="font-family:sans-serif;">Level of Experience &amp; Exposure as a Programmer</td>
-</tr>
-			
-<tr style="background-color: #f3f3f3;">
-				<td style="font-family:sans-serif;">E-Portfolio (Evidence of Students’ existing work from School-Based Activities)</td>
-</tr>
-			
-<tr>
-				<td style="font-family:sans-serif;">Interview</td>
-</tr>
-						
-<tr style="background-color: #f3f3f3;border-bottom: 2px solid #009879;">
-				<td>Selection Test</td>
-</tr>
-			
-</tbody>
-</table>
-
-<p style="margin-top:0px;font-size:14.5px; line-height:2;font-family:sans-serif;"><strong style="font-family:sans-serif;">*Method of submission for E-Portfolio will be communicated with applicant schools.</strong></p>
+<p style="margin-top:0px;font-size:15.5px; line-height:2;font-family:sans-serif;"><strong style="font-family:sans-serif;">Infusion of Coding and Making into Future Leaders Programme </strong></p>
 
 <p style="margin-top:0px;font-size:14.5px; line-height:2;font-family:sans-serif;"><strong style="font-family:sans-serif;">For more information on DSA-Sec, please refer to the MOE website at&nbsp;</strong><a href="https://www.moe.gov.sg/dsa-sec" style="font-size:14.5px; line-height:1.5;font-family:sans-serif;font-weight:bold;text-decoration: none;">https://www.moe.gov.sg/dsa-sec</a></p>
 
