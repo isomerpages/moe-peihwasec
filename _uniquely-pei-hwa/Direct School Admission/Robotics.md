@@ -111,6 +111,41 @@ Students who are successfully admitted to the school via DSA are expected to hon
 
 <p style="margin-top:0px;font-size:14.5px; line-height:2;font-family:sans-serif;">The school also provides students with opportunities to share their wonderful project ideas with the wider community. Our students came up with innovative micro:bit Projects which were shared during various events such as STEM ALP Learning Festival, Streamnovation Week, Pei Hwa Open House, Singapore Maker Extravaganza, SG:Digital Wonderland and EduTech Asia. In 2018, our students were also invited to share their project ideas with the CEO of micro:bit Foundation in March. In addition, one of our projects, the Panic Button, was featured in Time Machine, which is an infotainment programme which adopts a light-hearted way to show the roles and benefits of science and technology in this modern society.</p>
 
+<div style="content:''; clear: both;display: table;">
+  <div style="float: left; width: 50%;padding: 5px;">
+    <img style="width:100%" alt="Snow" src="/images/Uniquely%20Pei%20Hwa/DSA/Robotics05.jpg">
+		<p style="font-size:10px; line-height:2; text-align:center; margin-top:5px;font-family:sans-serif;"><strong style="font-size:10px;font-family:sans-serif;">Students working on their FLP projects</strong></p>
+  </div>
+  <div style="float: left; width: 50%;padding: 5px;">
+    <img style="width:100%" alt="Forest" src="/images/Uniquely%20Pei%20Hwa/DSA/robotics06.jpg">
+		<p style="font-size:10px; line-height:2; text-align:center; margin-top:5px;font-family:sans-serif;"><strong style="font-size:10px;font-family:sans-serif;">Students working on their FLP projects</strong></p>
+  </div>
+	<div style="float: left; width: 50%;padding: 5px;">
+    <img style="width:100%" alt="Snow" src="/images/Uniquely%20Pei%20Hwa/DSA/Robotics07.jpg">
+		<p style="font-size:10px; line-height:2; text-align:center; margin-top:5px;font-family:sans-serif;"><strong style="font-size:10px;font-family:sans-serif;">Students working on their FLP projects</strong></p>
+  </div>
+  <div style="float: left; width: 50%;padding: 5px;">
+    <img style="width:100%" alt="Forest" src="/images/Uniquely%20Pei%20Hwa/DSA/robotics08.jpg">
+		<p style="font-size:10px; line-height:2; text-align:center; margin-top:5px;font-family:sans-serif;"><strong style="font-size:10px;font-family:sans-serif;">Students working on their FLP projects</strong></p>
+  </div>
+	<div style="float: left; width: 50%;padding: 5px;">
+    <img style="width:100%" alt="Snow" src="/images/Uniquely%20Pei%20Hwa/DSA/Robotics09.jpg">
+		<p style="font-size:10px; line-height:2; text-align:center; margin-top:5px;font-family:sans-serif;"><strong style="font-size:10px;font-family:sans-serif;">Students working on their FLP projects</strong></p>
+  </div>
+  <div style="float: left; width: 50%;padding: 5px;">
+    <img style="width:100%" alt="Forest" src="/images/Uniquely%20Pei%20Hwa/DSA/robotics10.jpg">
+		<p style="font-size:10px; line-height:2; text-align:center; margin-top:5px;font-family:sans-serif;"><strong style="font-size:10px;font-family:sans-serif;">Students working on their FLP projects</strong></p>
+  </div>
+	<div style="float: left; width: 50%;padding: 5px;">
+    <img style="width:100%" alt="Snow" src="/images/Uniquely%20Pei%20Hwa/DSA/Robotics11.jpg">
+		<p style="font-size:10px; line-height:2; text-align:center; margin-top:5px;font-family:sans-serif;"><strong style="font-size:10px;font-family:sans-serif;">Students working on their FLP projects</strong></p>
+  </div>
+  <div style="float: left; width: 50%;padding: 5px;">
+    <img style="width:100%" alt="Forest" src="/images/Uniquely%20Pei%20Hwa/DSA/robotics12.jpg">
+		<p style="font-size:10px; line-height:2; text-align:center; margin-top:5px;font-family:sans-serif;"><strong style="font-size:10px;font-family:sans-serif;">Students working on their FLP projects</strong></p>
+  </div>
+</div>
+
 <h6 style="color:#0B6623;font-family:sans-serif;font-weight:bold;margin-top:30px;"><strong style="font-family:sans-serif;font-size:17px;color:#0B6623;">Pinnacle Achievements in 2018 and 2019</strong></h6>
 
 <img src="/images/dsarobo1.png" style="width: 65%;">
