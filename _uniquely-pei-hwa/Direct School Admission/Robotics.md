@@ -54,10 +54,6 @@ third_nav_title: Direct School Admission
 
 <p style="margin-top:0px;font-size:15.5px; line-height:2;font-family:sans-serif;"><strong style="font-family:sans-serif;">Infusion of Coding and Making into Future Leaders Programme </strong></p>
 
-<p style="margin-top:0px;font-size:14.5px; line-height:2;font-family:sans-serif;"><strong style="font-family:sans-serif;">For more information on DSA-Sec, please refer to the MOE website at&nbsp;</strong><a href="https://www.moe.gov.sg/dsa-sec" style="font-size:14.5px; line-height:1.5;font-family:sans-serif;font-weight:bold;text-decoration: none;">https://www.moe.gov.sg/dsa-sec</a></p>
-
-<h6 style="color:#0B6623;font-family:sans-serif;font-weight:bold;margin-top:30px;"><strong style="font-family:sans-serif;font-size:17px;color:#0B6623;">Why Join Pei Hwa Applied Learning Programme: Robotics (Programming)</strong></h6>
-
 <p style="font-size:14.5px; line-height:2;margin-top:0px; font-family:sans-serif">Robotics is not just a CCA in Pei Hwa Secondary School. It is a platform for us to provide holistic development for all Pei Hwa Students. We have a structured&nbsp;<strong style="font-family:sans-serif;">Robotics Experiential Education Programme</strong>&nbsp;for all staff and students, such as&nbsp;<strong style="font-family:sans-serif;">Teachers’ Training Programme, Micro:bits training for Secondary 1 and 2 students&nbsp;</strong>to equip them with Maker and Programming skills.</p>
 
 <p style="margin-top:0px;font-size:14.5px; line-height:2;font-family:sans-serif;">With innovation as one of the school’s new strategic thrusts, we have explored new ideas to align our programmes to promote innovation in our students. We have embarked in the Digital Makers’
