@@ -45,48 +45,37 @@ Students who are successfully admitted to the school via DSA are expected to hon
 
 <p style="margin-top:0px;font-size:14.5px; line-height:2;font-family:sans-serif;"><strong style="font-family:sans-serif;font-size:14.5px">Level of Experience and Exposure: </strong>Participations in CCA, national or/and international robotics competitions, showcasing and projects.</p>
 
-<p style="margin-top:0px;font-size:14.5px; line-height:2;font-family:sans-serif;">Our Secondary 2 students would deepen their learning of M5Go microcontroller with the introduction of new sensors, which would allow them wider options and to come with more complex solutions. After the training, they would be working on their projects to benefit selected Voluntary Welfare Organisations (VWOs) and external stakeholders in the community. </p>
+<p style="margin-top:0px"><u><strong style="font-family:sans-serif;font-size:14.5px">Note: </strong></u>
 
-<p style="margin-top:0px;font-size:14.5px; line-height:2;font-family:sans-serif;">Beyond the two years of level-wide programmes, students are given many opportunities to solve real world problems through coding and making. We believe coding literacy would be one of the most important skills that we need to equip our students to prepare them for the future world.</p>
+</p><p style="margin-top:-10px;font-size:14.5px; line-height:2;font-family:sans-serif;">Participations in CCA, national or/and international robotics competitions, showcasing and projects.</p>
+	
+<h6 style="color:#0B6623;font-family:sans-serif;font-weight:bold;margin-top:30px;"><strong style="font-family:sans-serif;font-size:17px;color:#0B6623;">Selection Process and Criteria</strong></h6>
 
-<p style="font-size:14.5px; line-height:2;margin-top:20px; font-family:sans-serif">For more information on the CCA, please click <a style="font-size:14.5px; line-height:1.5;font-family:sans-serif;font-weight:bold;text-decoration: none;" href="https://moe-peihwasec-staging.netlify.app/learning-at-pei-hwa/cca/clubs-societies/robotics/"> here.</a> </p>
+<p style="margin-top:0px;font-size:14.5px; line-height:2;font-family:sans-serif;">The selection process will involve <strong style="font-family:sans-serif;font-size:14.5px">an interview and a selection test </strong>which requires applicants to attempt<strong style="font-family:sans-serif;font-size:14.5px">a programming task. </strong></p>
 
-<h6 style="color:#0B6623;font-family:sans-serif;font-weight:bold;margin-top:30px;"><strong style="font-family:sans-serif;font-size:17px;color:#0B6623;">Criteria</strong></h6>
-<p style="font-size:14.5px; line-height:2;margin-top:0px; font-family:sans-serif">Applicants should have:</p>
+<p style="margin-top:0px"><strong style="font-family:sans-serif;font-size:14.5px">*Method of submission for E-Portfolio will be communicated with applicants.</strong></p>
+	
+<p style="font-size:14.5px; line-height:2;margin-top:20px; font-family:sans-serif"><strong style="font-family:sans-serif;font-size:14.5px">For more information on DSA-Sec, please refer to the MOE website at <a style="font-size:14.5px; line-height:1.5;font-family:sans-serif;font-weight:bold;text-decoration: none;" href="http://www.moe.gov.sg/dsa-sec">https://www.moe.gov.sg/dsa-sec</a></strong></p>
 
-<ul style="margin-top:-5px;">
-	<li style="font-size:14.5px; line-height:2;font-family:sans-serif;">Talent/experience in: </li>
-		<ul style="margin-top:-5px;">
-			<li style="font-size:14.5px; line-height:1.5;font-family:sans-serif;">Mindstorms EV3, SPIKE Prime </li>
-			<li style="font-size:14.5px; line-height:1.5;font-family:sans-serif;">Robocup CoSpace Programming</li>
-			<li style="font-size:14.5px; line-height:1.5;font-family:sans-serif;">FIRST Tech Challenge</li>
-			<li style="font-size:14.5px;line-height:1.5;font-family:sans-serif;">Vex Robotics System</li>
-			<li style="font-size:14.5px;line-height:1.5;font-family:sans-serif;">Arduino System</li>
-			<li style="font-size:14.5px;line-height:1.5;font-family:sans-serif;">micro:bit microcontroller system</li>
-			<li style="font-size:14.5px;line-height:1.5;font-family:sans-serif;">C/C++/Java/Python Programming</li>
-			<li style="font-size:14.5px;line-height:1.5;font-family:sans-serif;">Python Programming</li>
-			<li style="font-size:14.5px;line-height:1.5;font-family:sans-serif;">o	Any other programming languages</li>
-		</ul>
-		<li style="font-size:14.5px; line-height:2;font-family:sans-serif;">Participated in CCA, national or/and international robotics competitions, showcasing and projects.</li>
-		<li style="font-size:14.5px; line-height:2;font-family:sans-serif;">An e-portfolio to showcase their work. Shortlisted applicants will be informed about the method of submission.</li>
-</ul>
+<h6 style="color:#0B6623;font-family:sans-serif;font-weight:bold;margin-top:30px;"><strong style="font-family:sans-serif;font-size:17px;color:#0B6623;">Why Join Pei Hwa Applied Learning Programme: Robotics (Programming)</strong></h6>
 
-<p style="margin-top:-20px;font-size:14.5px; line-height:2;font-family:sans-serif;">Note:</p>
+<p style="font-size:14.5px; line-height:2;margin-top:0px; font-family:sans-serif">Robotics is not just a CCA in Pei Hwa Secondary School. It is a platform for us to provide holistic development for all Pei Hwa Students. We have a structured <strong style="font-family:sans-serif;font-size:14.5px">Robotics Experiential Education Programme</strong> for all staff and students, such as <strong style="font-family:sans-serif;font-size:14.5px">Teachers’ Training Programme, M5Go training for Secondary 1 and 2 students</strong> to equip them with Maker and Programming skills.</p>
 
-<ol style="margin-top:-5px;">
-<li style="font-size:14.5px; line-height:2;font-family:sans-serif;">Applicants who do not have prior experience may also apply. The school will assess applicants based on the selection criteria, which may include assessing the potential of the applicants. </li>
-<li style="font-size:14.5px; line-height:2;font-family:sans-serif;">Meeting all the criteria does not guarantee the applicant will be shortlisted/given an offer. </li>
-</ol>
+<p style="font-size:14.5px; line-height:2;margin-top:0px; font-family:sans-serif">With innovation as one of the school’s new strategic thrusts, we have explored new ideas to align our programmes to promote innovation in our students. We have embarked in the Code for Fun Programme rolled out by Infocomm Media Development Authority.  The Programme aims to grow the maker culture through the introduction of simple-to-use and open-ended technologies that the baseline users will be comfortable using.</p>
 
-<h6 style="color:#0B6623;font-family:sans-serif;font-weight:bold;margin-top:30px;"><strong style="font-family:sans-serif;font-size:17px;color:#0B6623;">Selection Process</strong></h6>
+<p style="font-size:14.5px; line-height:2;margin-top:0px; font-family:sans-serif">Our Secondary 1 students are exposed to M5Go, an entry-level programmable microcontroller, which will be loaned to our students to inspire them to explore the possibilities of digital making. After the training, they would be actively looking at how they can use M5Go microcontrollers to make improvement to their lives in the school community.</p>
 
-<p style="font-size:15px; line-height:2;margin-top:0px;">Shortlisted applicants will be invited to attend <strong style="font-family:sans-serif;">an interview and a selection test </strong>which requires applicants to attempt <strong style="font-family:sans-serif;">a programming task</strong>.</p>
+<p style="font-size:14.5px; line-height:2;margin-top:0px; font-family:sans-serif">Our Secondary 2 students would deepen their learning of M5Go microcontroller with the introduction of new sensors, which would allow them wider options and to come with more complex solutions. After the training, they would be working on their projects to benefit selected Voluntary Welfare Organisations (VWOs) and external stakeholders in the community.</p>
+
+<p style="font-size:14.5px; line-height:2;margin-top:0px; font-family:sans-serif">Beyond the two years of level-wide programmes, students are given many opportunities to solve real world problems through coding and making. We believe coding literacy would be one of the most important skills that we need to equip our students to prepare them for the future world.
+	
+</p><p style="font-size:14.5px; line-height:2;margin-top:0px; font-family:sans-serif">Please refer to the Robotics CCA website for more information on the CCA’s achievements and student accolades:
+<br>
+<a style="font-size:14.5px; line-height:1.5;font-family:sans-serif;font-weight:bold;text-decoration: none;" href="https://moe-peihwasec-staging.netlify.app/uniquely-pei-hwa/applied-learning-programme-robotics-and-programming/">https://moe-peihwasec-staging.netlify.app/learning-at-pei-hwa/cca/clubs-societies/robotics/</a></p>
 
 <p style="margin-top:0px;font-size:15.5px; line-height:2;font-family:sans-serif;"><strong style="font-family:sans-serif;">Infusion of Coding and Making into Future Leaders Programme </strong></p>
 
-<p style="font-size:14.5px; line-height:2;margin-top:0px; font-family:sans-serif">In alignment with the school’s vision to develop Future-Ready Learners and Forward-Looking Leaders, the school’s Project Work has been rebranded as the Future Leaders Programme (FLP).  The FLP curriculum leverages on the school’s innovation cycle (adapted from Design Thinking) to develop empathy in our students as they need to put themselves in the shoes’ of the end users to understand the problems they faced. Students would use the coding and making skills learnt during ALP sessions to develop a prototype solution to meet the needs of their target audience. FLP integrates our school’s distinctive programmes (<a style="font-size:14.5px; line-height:1.5;font-family:sans-serif;font-weight:bold;text-decoration: none;" href="https://moe-peihwasec-staging.netlify.app/uniquely-pei-hwa/applied-learning-programme-robotics-and-programming/">Robotics and Programming</a> and <a style="font-size:14.5px; line-height:1.5;font-family:sans-serif;font-weight:bold;text-decoration: none;" href="https://moe-peihwasec-staging.netlify.app/uniquely-pei-hwa/learning-for-life-programme-community-youth-leadership-llp-cyl/">Community Youth Leadership </a>) and provides a more holistic and enriching experience for our students. In addition, they learn important 21st CC skills and competencies through the project work experience. We believe that such authentic learning experience is crucial in preparing our students for the Volatile, Uncertain, Complex and Ambiguous world that our students would live in.</p>
-
-<p style="margin-top:0px;font-size:14.5px; line-height:2;font-family:sans-serif;">The theme for Secondary 1 FLP is School Life. Students work in teams to find out the needs of various stakeholders in the school using PHSS Innovation Cycle and brainstorm how they can make use of M5Go microcontrollers to meet their needs.</p>
+<p style="margin-top:0px;font-size:14.5px; line-height:2;font-family:sans-serif;">.In alignment with the school’s vision to develop Future-Ready Learners and Forward-Looking Leaders, the school’s Project Work has been rebranded as the Future Leaders Programme (FLP).  The FLP curriculum leverages on the school’s innovation cycle (adapted from Design Thinking) to develop empathy in our students as they need to put themselves in the shoes’ of the end users to understand the problems they faced. Students would use the coding and making skills learnt during ALP sessions to develop a prototype solution to meet the needs of their target audience. FLP integrates our school’s distinctive programmes (<a style="font-size:14.5px; line-height:1.5;font-family:sans-serif;font-weight:bold;text-decoration: none;" href="https://moe-peihwasec-staging.netlify.app/uniquely-pei-hwa/applied-learning-programme-robotics-and-programming/">Robotics and Programming</a> and <a style="font-size:14.5px; line-height:1.5;font-family:sans-serif;font-weight:bold;text-decoration: none;" href="https://moe-peihwasec-staging.netlify.app/uniquely-pei-hwa/applied-learning-programme-robotics-and-programming/">Community Youth Leadership</a>)</p>
 
 <div style="content:''; clear: both;display: table;">
   <div style="float: left; width: 50%;padding: 5px;">
