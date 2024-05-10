@@ -146,7 +146,6 @@ Students who are successfully admitted to the school via DSA are expected to hon
 		<p style="font-size:10px; line-height:2; text-align:center; margin-top:5px;font-family:sans-serif;"><strong style="font-size:10px;font-family:sans-serif;">Meeting with CEO of micro:bit Foundation</strong></p>
   </div>
 
-
 <h6 style="color:#0B6623;font-family:sans-serif;font-weight:bold;margin-top:30px;"><strong style="font-family:sans-serif;font-size:17px;color:#0B6623;">Application Procedures for 2024</strong></h6>
 <p style="font-size:14.5px; line-height:2;margin-top:0px;font-family:sans-serif;"><strong>Here are the procedures for DSA-Robotics (Programming) application in Pei Hwa Secondary School.</strong></p>
 
