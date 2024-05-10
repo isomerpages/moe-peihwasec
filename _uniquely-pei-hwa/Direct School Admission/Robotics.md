@@ -146,6 +146,7 @@ Students who are successfully admitted to the school via DSA are expected to hon
 		<p style="font-size:10px; line-height:2; text-align:center; margin-top:5px;font-family:sans-serif;"><strong style="font-size:10px;font-family:sans-serif;">Meeting with CEO of micro:bit Foundation</strong>
 	</p>
   </div>
+	
 
 <h6 style="color:#0B6623;font-family:sans-serif;font-weight:bold;"><strong style="font-family:sans-serif;font-size:17px;color:#0B6623;">Application Procedures for 2024</strong></h6>
 
