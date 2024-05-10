@@ -54,13 +54,33 @@ third_nav_title: Direct School Admission
 
 <p style="margin-top:0px;font-size:15.5px; line-height:2;font-family:sans-serif;"><strong style="font-family:sans-serif;">Infusion of Coding and Making into Future Leaders Programme </strong></p>
 
-<p style="font-size:14.5px; line-height:2;margin-top:0px; font-family:sans-serif">Robotics is not just a CCA in Pei Hwa Secondary School. It is a platform for us to provide holistic development for all Pei Hwa Students. We have a structured&nbsp;<strong style="font-family:sans-serif;">Robotics Experiential Education Programme</strong>&nbsp;for all staff and students, such as&nbsp;<strong style="font-family:sans-serif;">Teachers’ Training Programme, Micro:bits training for Secondary 1 and 2 students&nbsp;</strong>to equip them with Maker and Programming skills.</p>
+<p style="font-size:14.5px; line-height:2;margin-top:0px; font-family:sans-serif">In alignment with the school’s vision to develop Future-Ready Learners and Forward-Looking Leaders, the school’s Project Work has been rebranded as the Future Leaders Programme (FLP).  The FLP curriculum leverages on the school’s innovation cycle (adapted from Design Thinking) to develop empathy in our students as they need to put themselves in the shoes’ of the end users to understand the problems they faced. Students would use the coding and making skills learnt during ALP sessions to develop a prototype solution to meet the needs of their target audience. FLP integrates our school’s distinctive programmes (<a style="font-size:14.5px; line-height:1.5;font-family:sans-serif;font-weight:bold;text-decoration: none;" href="https://moe-peihwasec-staging.netlify.app/uniquely-pei-hwa/applied-learning-programme-robotics-and-programming/">Robotics and Programming</a> and <a style="font-size:14.5px; line-height:1.5;font-family:sans-serif;font-weight:bold;text-decoration: none;" href="https://moe-peihwasec-staging.netlify.app/uniquely-pei-hwa/learning-for-life-programme-community-youth-leadership-llp-cyl/">Community Youth Leadership </a>) and provides a more holistic and enriching experience for our students. In addition, they learn important 21st CC skills and competencies through the project work experience. We believe that such authentic learning experience is crucial in preparing our students for the Volatile, Uncertain, Complex and Ambiguous world that our students would live in.</p>
 
-<p style="margin-top:0px;font-size:14.5px; line-height:2;font-family:sans-serif;">With innovation as one of the school’s new strategic thrusts, we have explored new ideas to align our programmes to promote innovation in our students. We have embarked in the Digital Makers’
-Programme rolled out by Infocomm Media Development Authority. The Programme aims to grow the maker culture through the introduction of simple-to-use and open-ended technologies that the baseline users will be comfortable using.</p>
+<p style="margin-top:0px;font-size:14.5px; line-height:2;font-family:sans-serif;">The theme for Secondary 1 FLP is School Life. Students work in teams to find out the needs of various stakeholders in the school using PHSS Innovation Cycle and brainstorm how they can make use of M5Go microcontrollers to meet their needs.</p>
 
-<p style="margin-top:0px;font-size:14.5px; line-height:2;font-family:sans-serif;">Our Secondary 1 students are exposed to micro:bits, an entry-level programmable microcontroller, which will be loaned to our students to inspire them to explore the possibilities of digital making. After the training, they would be actively looking at how they can use micro:bits to make
-improvement to their lives in the school community.</p>
+<div style="content:''; clear: both;display: table;">
+  <div style="float: left; width: 50%;padding: 5px;">
+    <img style="width:100%" alt="Snow" src="/images/Uniquely%20Pei%20Hwa/DSA/Robotics01.jpg">
+		<p style="font-size:10px; line-height:2; text-align:center; margin-top:5px;font-family:sans-serif;"><strong style="font-size:10px;font-family:sans-serif;">Students working on their FLP projects</strong></p>
+  </div>
+  <div style="float: left; width: 50%;padding: 5px;">
+    <img style="width:100%" alt="Forest" src="/images/Uniquely%20Pei%20Hwa/DSA/robotics02.jpg">
+		<p style="font-size:10px; line-height:2; text-align:center; margin-top:5px;font-family:sans-serif;"><strong style="font-size:10px;font-family:sans-serif;">Students working on their FLP projects</strong></p>
+  </div>
+</div>
+
+<p style="margin-top:0px;font-size:14.5px; line-height:2;font-family:sans-serif;">Secondary Two students will be able to choose between the two themes for their FLP. The themes include Inclusive Community and Sustainable Environment. Students work in teams and go beyond the school to find out the needs of the community and the envrionment using PHSS Innovation Cycle and brainstorm how they can make use of the M5Go microcontroller to meet their needs.</p>
+
+<div style="content:''; clear: both;display: table;">
+  <div style="float: left; width: 50%;padding: 5px;">
+    <img style="width:100%" alt="Snow" src="/images/Uniquely%20Pei%20Hwa/DSA/Robotics03.jpg">
+		<p style="font-size:10px; line-height:2; text-align:center; margin-top:5px;font-family:sans-serif;"><strong style="font-size:10px;font-family:sans-serif;">Students interacting with the elderly                   </strong></p>
+  </div>
+  <div style="float: left; width: 50%;padding: 5px;margin-top:40px;">
+    <img style="width:100%" alt="Forest" src="/images/Uniquely%20Pei%20Hwa/DSA/Robotics04.jpg">
+		<p style="font-size:10px; line-height:2; text-align:center; margin-top:5px;font-family:sans-serif;"><strong style="font-size:10px;font-family:sans-serif;">Students brainstorming for project ideas</strong></p>
+  </div>
+</div>
 
 <p style="margin-top:0px;font-size:14.5px; line-height:2;font-family:sans-serif;">Our Secondary 2 students would deepen their learning of micro:bits with the introduction of new sensors, which would allow them wider options and to come with more complex solutions. After the training, they would be working on their projects to benefit selected VWOs.</p>
 
