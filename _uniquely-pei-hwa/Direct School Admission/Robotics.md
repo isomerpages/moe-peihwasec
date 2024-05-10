@@ -5,13 +5,29 @@ variant: markdown
 description: ""
 third_nav_title: Direct School Admission
 ---
+<h6 style="color:#0B6623;font-family:sans-serif;font-weight:bold;margin-top:30px;"><strong style="font-family:sans-serif;font-size:17px;color:#0B6623;">Direct School Admission (DSA)</strong></h6>
+
+<p style="font-size:14.5px; line-height:2;margin-top:0px; font-family:sans-serif">DSA-Sec is an initiative by MOE which was introduced in 2004 to give schools greater flexibility in student admission, so as to recognise more diverse range of student achievements and talents. Under the DSA-Sec Exercise, participating schools may select some students for admission via their own admission criteria.
+	
+Pei Hwa Secondary School (PHSS) is committed to develop our students as innovative and compassionate citizens. As part of the effort to achieve these desirable outcomes of education, the School launched its Applied Learning Programme (ALP): 
+ <strong style="font-family:sans-serif;font-size:14.5px">Robotics (Programming) </strong>since 2014.
+	
+Hence, in line with its goal of nurturing talents, we are looking for committed students who demonstrate forte and aptitude in <strong style="font-family:sans-serif;font-size:14.5px">Robotics (Programming).</strong>
+
+With the nation’s effort to improve digital literacy and encourage innovation, there is a shift of our ALP focus towards <strong style="font-family:sans-serif;font-size:14.5px">Digital Makers’ Programme </strong>where students are encouraged to tinker and create products to solve real world problems through <strong style="font-family:sans-serif;font-size:14.5px">STEM</strong> education </p>
+
 <h6 style="color:#0B6623;font-family:sans-serif;font-weight:bold;margin-top:30px;"><strong style="font-family:sans-serif;font-size:17px;color:#0B6623;">DSA – Robotics (Programming)</strong></h6>
 
-<p style="font-size:14.5px; line-height:2;margin-top:0px; font-family:sans-serif">Robotics is not just a CCA in Pei Hwa Secondary School. It is a platform for us to provide holistic development for all Pei Hwa Students. We have a structured <strong style="font-family:sans-serif;">Robotics Experiential Education Programme</strong> for all staff and students, such as <strong style="font-family:sans-serif;"> Teachers’ Training Programme, M5Go training for Secondary 1 and 2 students</strong> to equip them with Maker and Programming skills.</p>
+<p style="margin-top:0px;font-size:14.5px; line-height:2;font-family:sans-serif;">PHSS is looking for Primary 6 students who possess special talents in <strong style="font-family:sans-serif;">Robotics (Programming)</strong> and are able to present their ideas with clarity in various medium. 
 
-<p style="margin-top:0px;font-size:14.5px; line-height:2;font-family:sans-serif;">With innovation as one of the school’s new strategic thrusts, we have explored new ideas to align our programmes to promote innovation in our students. We have embarked in the Code for Fun Programme rolled out by Infocomm Media Development Authority.  The Programme aims to grow the maker culture through the introduction of simple-to-use and open-ended technologies that the baseline users will be comfortable using.  
 
-</p>
+<strong style="font-family:sans-serif;font-size:14.5px">Parents and students are encouraged to choose wisely based on the student’s aptitudes and strengths, bearing in mind the school’s academic and non-academic requirements, and the programmes available to develop the area of talent. 
+
+Students who are successfully admitted to the school via DSA are expected to honour their commitment to the school, and participate in the activities related to the talent they are selected for from Secondary 1 to 4. </strong></p>
+
+<h6 style="color:#0B6623;font-family:sans-serif;font-weight:bold;margin-top:30px;"><strong style="font-family:sans-serif;font-size:17px;color:#0B6623;">Admission Criteria</strong></h6>
+
+<p style="margin-top:0px;font-size:14.5px; line-height:2;font-family:sans-serif;">The admission criteria are shown below.</p><strong style="font-family:sans-serif;font-size:14.5px;">ROBOTICS (PROGRAMMING) CRITERIA</strong><p></p>
 
 <p style="margin-top:0px;font-size:14.5px; line-height:2;font-family:sans-serif;">Our Secondary 1 students are exposed to M5Go, an entry-level programmable microcontroller, which will be loaned to our students to inspire them to explore the possibilities of digital making. After the training, they would be actively looking at how they can use M5Go microcontrollers to make improvement to their lives in the school community. </p>
 
@@ -82,9 +98,13 @@ third_nav_title: Direct School Admission
   </div>
 </div>
 
-<p style="margin-top:0px;font-size:14.5px; line-height:2;font-family:sans-serif;">Our Secondary 2 students would deepen their learning of micro:bits with the introduction of new sensors, which would allow them wider options and to come with more complex solutions. After the training, they would be working on their projects to benefit selected VWOs.</p>
+<p style="margin-top:0px;font-size:15.5px; line-height:2;font-family:sans-serif;"><strong style="font-family:sans-serif;">Opportunity for International Competition </strong></p>
 
-<p style="margin-top:0px;font-size:14.5px; line-height:2;font-family:sans-serif;">Beyond the two years of level-wide programmes, students are given many opportunities to solve real world problems through coding and making. We believe coding literacy would be one of the most important skills that we need to equip our students to prepare them for the future world.</p>
+<p style="margin-top:0px;font-size:14.5px; line-height:2;font-family:sans-serif;">The school stays true to its motto “Nurturing Talents” by sending students from our Robotic Club (CCA) to overseas competition. This exposure helps to broaden the students’ horizons and enhances their level of competency in various skills such as robot building and programming, leadership, communication, teamwork, and reinforces values such as resilience and excellence. These students would then share at the CCA level on the building and programming of robots. These students would also play a leadership role through sharing of their experiences to enhance the learning of the others. </p>
+
+<p style="margin-top:0px;font-size:15.5px; line-height:2;font-family:sans-serif;"><strong style="font-family:sans-serif;">Opportunity for sharing Projects at different platforms  </strong></p>
+
+<p style="margin-top:0px;font-size:14.5px; line-height:2;font-family:sans-serif;">The school also provides students with opportunities to share their wonderful project ideas with the wider community. Our students came up with innovative micro:bit Projects which were shared during various events such as STEM ALP Learning Festival, Streamnovation Week, Pei Hwa Open House, Singapore Maker Extravaganza, SG:Digital Wonderland and EduTech Asia. In 2018, our students were also invited to share their project ideas with the CEO of micro:bit Foundation in March. In addition, one of our projects, the Panic Button, was featured in Time Machine, which is an infotainment programme which adopts a light-hearted way to show the roles and benefits of science and technology in this modern society.</p>
 
 <h6 style="color:#0B6623;font-family:sans-serif;font-weight:bold;margin-top:30px;"><strong style="font-family:sans-serif;font-size:17px;color:#0B6623;">Pinnacle Achievements in 2018 and 2019</strong></h6>
 
@@ -154,7 +174,6 @@ integrates our school’s distinctive programmes (<a style="font-size:14.5px; li
 
 <img src="/images/unnamed-5.jpg" style="width: 85%;">
 <p style="text-align: center;margin-top:5px; font-size:11px;font-family:sans-serif;">Students working on their Micro:bit projects</p>
-
 
 <p style="margin-top:0px;font-size:14.5px; line-height:2;font-family:sans-serif;">Secondary Two students will be able to choose between the two themes for their FLP. The themes include Inclusive Community and Sustainable Environment. Students work in teams and go beyond the school to find out the needs of the community and the envrionment using PHSS Innovation Cycle and brainstorm how they can make use of the M5Go microcontroller to meet their needs.</p>
 
