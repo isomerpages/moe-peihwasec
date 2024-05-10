@@ -102,7 +102,7 @@ Students who are successfully admitted to the school via DSA are expected to hon
 		<p style="font-size:10px; line-height:2; text-align:center; margin-top:5px;font-family:sans-serif;"><strong style="font-size:10px;font-family:sans-serif;">Students brainstorming for project ideas</strong></p>
   </div>
 </div>
-
+<br>
 <p style="margin-top:0px;font-size:15.5px; line-height:2;font-family:sans-serif;"><strong style="font-family:sans-serif;">Opportunity for International Competition </strong></p>
 
 <p style="margin-top:0px;font-size:14.5px; line-height:2;font-family:sans-serif;">The school stays true to its motto “Nurturing Talents” by sending students from our Robotic Club (CCA) to overseas competition. This exposure helps to broaden the students’ horizons and enhances their level of competency in various skills such as robot building and programming, leadership, communication, teamwork, and reinforces values such as resilience and excellence. These students would then share at the CCA level on the building and programming of robots. These students would also play a leadership role through sharing of their experiences to enhance the learning of the others. </p>
