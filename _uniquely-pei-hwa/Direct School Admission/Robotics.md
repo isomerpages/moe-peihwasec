@@ -136,17 +136,18 @@ Students who are successfully admitted to the school via DSA are expected to hon
     <img style="width:100%" alt="Forest" src="/images/Uniquely%20Pei%20Hwa/DSA/Robotics10.jpg">
 		<p style="font-size:10px; line-height:2; text-align:center; margin-top:5px;font-family:sans-serif;"><strong style="font-size:10px;font-family:sans-serif;">Sharing at EduTech Asia</strong></p>
   </div>
-</div>
+	</div>
 <div style="float: left; width: 50%;padding: 5px;">
     <img style="width:100%" alt="Snow" src="/images/Uniquely%20Pei%20Hwa/DSA/Robotics11.jpg">
 		<p style="font-size:10px; line-height:2; text-align:center; margin-top:5px;font-family:sans-serif;"><strong style="font-size:10px;font-family:sans-serif;">Sharing at SG:Digital Wonderland</strong></p>
   </div>
-  <div style="float: left; width: 50%;padding: 5px;">
+  <div style="float: left; width: 50%;padding: 5px;margin-top:10px;">
     <img style="width:100%;" alt="Forest" src="/images/Uniquely%20Pei%20Hwa/DSA/Robotics12.jpg">
-		<p style="font-size:10px; line-height:2; text-align:center; margin-top:5px;font-family:sans-serif;"><strong style="font-size:10px;font-family:sans-serif;">Meeting with CEO of micro:bit Foundation</strong></p>
+		<p style="font-size:10px; line-height:2; text-align:center; margin-top:5px;font-family:sans-serif;"><strong style="font-size:10px;font-family:sans-serif;">Meeting with CEO of micro:bit Foundation</strong>
+	</p>
   </div>
 
-<h6 style="color:#0B6623;font-family:sans-serif;font-weight:bold;margin-top:30px;"><strong style="font-family:sans-serif;font-size:17px;color:#0B6623;">Application Procedures for 2024</strong></h6>
+<h6 style="color:#0B6623;font-family:sans-serif;font-weight:bold;"><strong style="font-family:sans-serif;font-size:17px;color:#0B6623;">Application Procedures for 2024</strong></h6>
 
 <p style="font-size:14.5px; line-height:2;margin-top:0px;font-family:sans-serif;"><strong>Here are the procedures for DSA-Robotics (Programming) application in Pei Hwa Secondary School.</strong></p>
 
