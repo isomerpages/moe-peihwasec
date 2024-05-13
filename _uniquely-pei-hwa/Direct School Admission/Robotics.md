@@ -27,11 +27,13 @@ Students who are successfully admitted to the school via DSA are expected to hon
 
 <h6 style="color:#0B6623;font-family:sans-serif;font-weight:bold;margin-top:30px;"><strong style="font-family:sans-serif;font-size:17px;color:#0B6623;">Admission Criteria</strong></h6>
 
-<p style="margin-top:0px;font-size:14.5px; line-height:2;font-family:sans-serif;">The admission criteria are shown below.</p><strong style="font-family:sans-serif;font-size:14.5px;">ROBOTICS (PROGRAMMING) CRITERIA</strong>
+<p style="margin-top:0px;font-size:14.5px; line-height:2;font-family:sans-serif;">The admission criteria are shown below.
+<strong style="font-family:sans-serif;font-size:14.5px;">ROBOTICS (PROGRAMMING) CRITERIA</strong></p>
 
 <p style="margin-top:10px;font-size:14.5px;;font-family:sans-serif;"><strong style="font-family:sans-serif;">Talent/Experience in: </strong>
 	
-</p><ul style="margin-top:-5px;">
+</p>
+<ul style="margin-top:-5px;">
 	<li style="font-size:14.5px; line-height:2;font-family:sans-serif;">Talent/experience in: </li>
 	<li style="font-size:14.5px; line-height:1.5;font-family:sans-serif;">LEGO Mindstorms EV3, SPIKE Prime </li>
 			<li style="font-size:14.5px; line-height:1.5;font-family:sans-serif;">Robocup CoSpace Programming</li>
@@ -41,13 +43,13 @@ Students who are successfully admitted to the school via DSA are expected to hon
 			<li style="font-size:14.5px;line-height:1.5;font-family:sans-serif;">micro:bit microcontroller system</li>
 			<li style="font-size:14.5px;line-height:1.5;font-family:sans-serif;">C/C++/Java/Python Programming</li>
 			<li style="font-size:14.5px;line-height:1.5;font-family:sans-serif;">Python Programming</li>
-			<li style="font-size:14.5px;line-height:1.5;font-family:sans-serif;">Any other programming languages</li></ul>
+			<li style="font-size:14.5px;line-height:1.5;font-family:sans-serif;">Any other programming languages</li>
+</ul>
 
 <p style="margin-top:0px;font-size:14.5px; line-height:2;font-family:sans-serif;"><strong style="font-family:sans-serif;font-size:14.5px">Level of Experience and Exposure: </strong>Participations in CCA, national or/and international robotics competitions, showcasing and projects.</p>
 
-<p style="margin-top:0px"><u><strong style="font-family:sans-serif;font-size:14.5px">Note: </strong></u>
-
-</p><p style="margin-top:-10px;font-size:14.5px; line-height:2;font-family:sans-serif;">Participations in CCA, national or/and international robotics competitions, showcasing and projects.</p>
+<p style="margin-top:0px"><u><strong style="font-family:sans-serif;font-size:14.5px">Note: </strong></u></p>
+<p style="margin-top:-10px;font-size:14.5px; line-height:2;font-family:sans-serif;">Participations in CCA, national or/and international robotics competitions, showcasing and projects.</p>
 	
 <h6 style="color:#0B6623;font-family:sans-serif;font-weight:bold;margin-top:30px;"><strong style="font-family:sans-serif;font-size:17px;color:#0B6623;">Selection Process and Criteria</strong></h6>
 
@@ -67,11 +69,12 @@ Students who are successfully admitted to the school via DSA are expected to hon
 
 <p style="font-size:14.5px; line-height:2;margin-top:0px; font-family:sans-serif">Our Secondary 2 students would deepen their learning of M5Go microcontroller with the introduction of new sensors, which would allow them wider options and to come with more complex solutions. After the training, they would be working on their projects to benefit selected Voluntary Welfare Organisations (VWOs) and external stakeholders in the community.</p>
 
-<p style="font-size:14.5px; line-height:2;margin-top:0px; font-family:sans-serif">Beyond the two years of level-wide programmes, students are given many opportunities to solve real world problems through coding and making. We believe coding literacy would be one of the most important skills that we need to equip our students to prepare them for the future world.
-	
-</p><p style="font-size:14.5px; line-height:2;margin-top:0px; font-family:sans-serif">Please refer to the Robotics CCA website for more information on the CCA’s achievements and student accolades:
+<p style="font-size:14.5px; line-height:2;margin-top:0px; font-family:sans-serif">Beyond the two years of level-wide programmes, students are given many opportunities to solve real world problems through coding and making. We believe coding literacy would be one of the most important skills that we need to equip our students to prepare them for the future world.</p>
+
+<p style="font-size:14.5px; line-height:2;margin-top:0px; font-family:sans-serif">Please refer to the Robotics CCA website for more information on the CCA’s achievements and student accolades:
 <br>
-<a style="font-size:14.5px; line-height:1.5;font-family:sans-serif;font-weight:bold;text-decoration: none;" href="https://moe-peihwasec-staging.netlify.app/uniquely-pei-hwa/applied-learning-programme-robotics-and-programming/">https://moe-peihwasec-staging.netlify.app/learning-at-pei-hwa/cca/clubs-societies/robotics/</a></p>
+<a style="font-size:14.5px; line-height:1.5;font-family:sans-serif;font-weight:bold;text-decoration: none;" href="https://moe-peihwasec-staging.netlify.app/uniquely-pei-hwa/applied-learning-programme-robotics-and-programming/">https://moe-peihwasec-staging.netlify.app/learning-at-pei-hwa/cca/clubs-societies/robotics/</a>
+</p>
 
 <p style="margin-top:0px;font-size:15.5px; line-height:2;font-family:sans-serif;"><strong style="font-family:sans-serif;">Infusion of Coding and Making into Future Leaders Programme </strong></p>
 
@@ -120,6 +123,8 @@ Students who are successfully admitted to the school via DSA are expected to hon
     <img style="width:100%" alt="Forest" src="/images/Uniquely%20Pei%20Hwa/DSA/Robotics06.jpg">
 		<p style="font-size:10px; line-height:2; text-align:center; margin-top:5px;font-family:sans-serif;"><strong style="font-size:10px;font-family:sans-serif;">Sharing at Pei Hwa Open House</strong></p>
   </div>
+</div>
+<div style="content:''; clear: both;display: table;">
 	<div style="float: left; width: 50%;padding: 5px;">
     <img style="width:100%" alt="Snow" src="/images/Uniquely%20Pei%20Hwa/DSA/Robotics07.jpg">
 		<p style="font-size:10px; line-height:2; text-align:center; margin-top:5px;font-family:sans-serif;"><strong style="font-size:10px;font-family:sans-serif;">Sharing during Streamnovation Week</strong></p>
@@ -128,6 +133,8 @@ Students who are successfully admitted to the school via DSA are expected to hon
     <img style="width:100%" alt="Forest" src="/images/Uniquely%20Pei%20Hwa/DSA/Robotics08.jpg">
 		<p style="font-size:10px; line-height:2; text-align:center; margin-top:5px;font-family:sans-serif;"><strong style="font-size:10px;font-family:sans-serif;">Sharing at Singapore Maker Extravaganza</strong></p>
   </div>
+</div>
+<div style="content:''; clear: both;display: table;">
 	<div style="float: left; width: 50%;padding: 5px;">
     <img style="width:100%" alt="Snow" src="/images/Uniquely%20Pei%20Hwa/DSA/Robotics09.jpg">
 		<p style="font-size:10px; line-height:2; text-align:center; margin-top:5px;font-family:sans-serif;"><strong style="font-size:10px;font-family:sans-serif;">Sharing at SG:Digital Wonderland</strong></p>
@@ -136,7 +143,8 @@ Students who are successfully admitted to the school via DSA are expected to hon
     <img style="width:100%" alt="Forest" src="/images/Uniquely%20Pei%20Hwa/DSA/Robotics10.jpg">
 		<p style="font-size:10px; line-height:2; text-align:center; margin-top:5px;font-family:sans-serif;"><strong style="font-size:10px;font-family:sans-serif;">Sharing at EduTech Asia</strong></p>
   </div>
-	</div>
+</div>
+<div style="content:''; clear: both;display: table;">
 <div style="float: left; width: 50%;padding: 5px;">
     <img style="width:100%" alt="Snow" src="/images/Uniquely%20Pei%20Hwa/DSA/Robotics11.jpg">
 		<p style="font-size:10px; line-height:2; text-align:center; margin-top:5px;font-family:sans-serif;"><strong style="font-size:10px;font-family:sans-serif;">Sharing at SG:Digital Wonderland</strong></p>
@@ -146,9 +154,9 @@ Students who are successfully admitted to the school via DSA are expected to hon
 		<p style="font-size:10px; line-height:2; text-align:center; margin-top:5px;font-family:sans-serif;"><strong style="font-size:10px;font-family:sans-serif;">Meeting with CEO of micro:bit Foundation</strong>
 	</p>
   </div>
-	
+		</div>
 
-<h6 style="color:#0B6623;font-family:sans-serif;font-weight:bold;"><strong style="font-family:sans-serif;font-size:17px;color:#0B6623;">Application Procedures for 2024</strong></h6>
+<h6 style="color:#0B6623;font-family:sans-serif;font-weight:bold;margin-top:25px;"><strong style="font-family:sans-serif;font-size:17px;color:#0B6623;">Application Procedures for 2024</strong></h6>
 
 <p style="font-size:14.5px; line-height:2;margin-top:0px;font-family:sans-serif;"><strong>Here are the procedures for DSA-Robotics (Programming) application in Pei Hwa Secondary School.</strong></p>
 
