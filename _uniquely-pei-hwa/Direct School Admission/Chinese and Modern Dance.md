@@ -1,5 +1,5 @@
 ---
-title: Dance
+title: Chinese and Modern Dance
 permalink: /uniquely-pei-hwa/direct-school-admission-dsa/dance/
 variant: markdown
 description: ""
@@ -35,7 +35,7 @@ third_nav_title: Direct School Admission
 
 <ul style="margin-top:-5px;">
 <li style="font-size:14.5px; line-height:2;font-family:sans-serif;">An interview with panel of teachers and instructor</li>
-<li style="font-size:14.5px; line-height:2;font-family:sans-serif;">An interview with panel of teachers and instructor</li>
+<li style="font-size:14.5px; line-height:2;font-family:sans-serif;">An individual audition requiring shortlisting DSA applicants to:</li>
 	<ol style="margin-top:-5px; display">
 <li style="font-size:14.5px; line-height:2;font-family:sans-serif;list-style-type: lower-roman;">perform a prepared individual dance (~2 min) of any genre.</li>
 <li style="font-size:14.5px; line-height:2;font-family:sans-serif;list-style-type: lower-roman;">learn and perform dance techniques and taught choreography</li>
