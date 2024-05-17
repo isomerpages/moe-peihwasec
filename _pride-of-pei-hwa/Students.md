@@ -18,7 +18,7 @@ variant: markdown
 
 <tr>
 <td style="font-size:14.5px;font-family:Tahoma;">Award</td>
-<td style="font-size:14.5px;font-family:sans-serif;">: 2<sup style="font-family:sans-serif;">nd</sup> Price</td>
+<td style="font-size:14.5px;font-family:sans-serif;">: 2<sup style="font-family:sans-serif;">nd</sup> Prize</td>
 </tr>
 
 </tbody>
