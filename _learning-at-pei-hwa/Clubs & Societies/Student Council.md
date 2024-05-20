@@ -3,6 +3,7 @@ title: Student Council
 permalink: /learning-at-pei-hwa/cca/clubs-societies/student-council/
 description: ""
 third_nav_title: Clubs & Societies
+variant: markdown
 ---
 <img style="width: 100%; height: auto;margin-top:30px;margin-bottom:30px;" alt="Image" src="https://raw.githubusercontent.com/isomerpages/moe-peihwasec/staging/images/CCA/studentcouncilbanner.png">
 
@@ -19,11 +20,11 @@ third_nav_title: Clubs & Societies
 <p style="font-size:14.5px; line-height:2 ;margin-top:5px; font-family:sans-serif;" class="description">Some other school events which the Student Council would support include:</p>
 
 <ul style="margin-top:-5px">
-	<li style="font-size:14.5px; line-height:2; font-family:sans-serif;"> Chinese New Year Celebration</li>
-<li style="font-size:14.5px; line-height:2; font-family:sans-serif;"> PHiesta </li>
-		<li style="font-size:14.5px; line-height:2; font-family:sans-serif;"> Awards Day</li>
-<li style="font-size:14.5px; line-height:2; font-family:sans-serif;"> National Day Celebration </li>
-		<li style="font-size:14.5px; line-height:2; margin-bottom:-5px; font-family:sans-serif;"> Open House</li>
+	<li style="font-size:14.5px; line-height:1.5; font-family:sans-serif;">Chinese New Year Celebration</li>
+<li style="font-size:14.5px; line-height:1.5; font-family:sans-serif;">PHiesta </li>
+	<li style="font-size:14.5px; line-height:1.5; font-family:sans-serif;">Awards Day</li>
+<li style="font-size:14.5px; line-height:1.5; font-family:sans-serif;">National Day Celebration </li>
+		<li style="font-size:14.5px; line-height:1.5; margin-bottom:-5px; font-family:sans-serif;"> Open House</li>
 	</ul>
 	
 <h6 style="color:#0B6623;font-family:sans-serif;font-weight:bold;margin-top:30px;"><strong style="font-family:sans-serif;font-size:17px;color:#0B6623;">Promoting Student Voice</strong></h6>
@@ -49,10 +50,10 @@ third_nav_title: Clubs & Societies
 
 <p style="font-size:14.5px; line-height:2 ;margin-top:5px; font-family:sans-serif;" class="description">In addition</p>
 <ul style="margin-top:-5px">
-	<li style="font-size:14.5px; line-height:2; font-family:sans-serif;"> Sec 2 Basic Leadership Camp</li>
-<li style="font-size:14.5px; line-height:2; font-family:sans-serif;"> Sec 3 Advanced Leadership Camp</li>
-		<li style="font-size:14.5px; line-height:2; font-family:sans-serif;"> Communications Training</li>
-<li style="font-size:14.5px; line-height:2; font-family:sans-serif;"> Design Thinking Workshop</li>
-		<li style="font-size:14.5px; line-height:2; font-family:sans-serif;"> Strengths Finder Workshop</li>
-	<li style="font-size:14.5px; line-height:2; margin-bottom:-5px; font-family:sans-serif;"> Leadership events by other organisations</li>
+	<li style="font-size:14.5px; line-height:1.5; font-family:sans-serif;">Sec 2 Basic Leadership Camp</li>
+<li style="font-size:14.5px; line-height:1.5; font-family:sans-serif;">Sec 3 Advanced Leadership Camp</li>
+	<li style="font-size:14.5px; line-height:1.5; font-family:sans-serif;">Communications Training</li>
+<li style="font-size:14.5px; line-height:1.5; font-family:sans-serif;">Design Thinking Workshop</li>
+	<li style="font-size:14.5px; line-height:1.5; font-family:sans-serif;">Strengths Finder Workshop</li>
+	<li style="font-size:14.5px; line-height:1.5; margin-bottom:-5px; font-family:sans-serif;"> Leadership events by other organisations</li>
 	</ul>
