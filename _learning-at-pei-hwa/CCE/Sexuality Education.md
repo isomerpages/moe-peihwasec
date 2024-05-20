@@ -12,18 +12,18 @@ nuclear family units with extended family support. The teaching and learning of 
 
 <p style="font-size:14.5px; line-height:2;font-family:sans-serif;">The <strong style="font-size:14.5px;font-family:sans-serif;">Goals</strong> of Sexuality Education are:</p>
 <ol style="margin-top:-5px;">
-<li aria-level="1" style="font-size:14.5px; line-height:2;margin-left:17px;font-family:sans-serif;">Support students in managing their physiological, social and emotional changes as they grow up and develop safe and healthy relationships.</li>
-<li aria-level="1" style="font-size:14.5px; line-height:2;margin-left:17px;font-family:sans-serif;">Guide students to make wise, informed and responsible decisions on sexuality matters.</li>
-<li aria-level="1" style="font-size:14.5px; line-height:2;margin-left:17px;font-family:sans-serif;">Help students develop a moral compass and respect for themselves and others by having positive mainstream values and attitudes about sexuality that are premised on the family as the basic unit of society.</li>
+<li aria-level="1" style="font-size:14.5px; line-height:1.5;margin-left:17px;font-family:sans-serif;">Support students in managing their physiological, social and emotional changes as they grow up and develop safe and healthy relationships.</li>
+<li aria-level="1" style="font-size:14.5px; line-height:1.5;margin-left:17px;font-family:sans-serif;">Guide students to make wise, informed and responsible decisions on sexuality matters.</li>
+<li aria-level="1" style="font-size:14.5px; line-height:1.5;margin-left:17px;font-family:sans-serif;">Help students develop a moral compass and respect for themselves and others by having positive mainstream values and attitudes about sexuality that are premised on the family as the basic unit of society.</li>
 </ol>
 
 <p style="margin-top:15px;font-size:14.5px; line-height:2;font-family:sans-serif;">The<strong style="font-size:14.5px;font-family:sans-serif;"> Key Messages </strong>of Sexuality Education are:</p>
 <ol style="margin-top:-5px">
-<li aria-level="1" style="font-size:14.5px; line-height:2;margin-left:17px;font-family:sans-serif;">Love and respect yourself as you love and respect others;</li>
-<li aria-level="1" style="font-size:14.5px; line-height:2;margin-left:17px;font-family:sans-serif;">Build positive relationships based on love and respect (which are the
+<li aria-level="1" style="font-size:14.5px; line-height:1.5;margin-left:17px;font-family:sans-serif;">Love and respect yourself as you love and respect others;</li>
+<li aria-level="1" style="font-size:14.5px; line-height:1.5;margin-left:17px;font-family:sans-serif;">Build positive relationships based on love and respect (which are the
 foundation for strong families);</li>
-<li aria-level="1" style="font-size:14.5px; line-height:2;margin-left:17px;font-family:sans-serif;">Make responsible decisions for yourself, your family and society; and</li>
-<li aria-level="1" style="font-size:14.5px; line-height:2;margin-left:17px;font-family:sans-serif;">Abstinence before marriage is the best protection against STIs/HIV and unintended pregnancies. Casual sex can harm and hurt you and your loved ones.</li>
+<li aria-level="1" style="font-size:14.5px; line-height:1.5;margin-left:17px;font-family:sans-serif;">Make responsible decisions for yourself, your family and society; and</li>
+<li aria-level="1" style="font-size:14.5px; line-height:1.5;margin-left:17px;font-family:sans-serif;">Abstinence before marriage is the best protection against STIs/HIV and unintended pregnancies. Casual sex can harm and hurt you and your loved ones.</li>
 </ol>
 
 <p style="margin-top:15px;font-size:14.5px; line-height:2;font-family:sans-serif;">You may click&nbsp;<a href="https://go.gov.sg/moe-sexuality-education" style="font-size:14.5px; line-height:1.5;font-family:sans-serif;font-weight:bold;text-decoration: none;">here</a>&nbsp;for more information on MOE Sexuality Education.</p>
@@ -36,8 +36,8 @@ of Sexuality Education in the school curriculum.</p>
 
 <p style="margin-top:0px;font-size:14.5px; line-height:2;font-family:sans-serif;">The subjects that incorporate topics on sexuality include:</p>
 <ul style="margin-top:-5px;">
-<li style="font-size:14.5px; line-height:2;margin-left:17px;font-family:sans-serif;">Science</li>
-<li style="font-size:14.5px; line-height:2;margin-left:17px;font-family:sans-serif;">Character and Citizenship Education&nbsp;(CCE)</li>
+<li style="font-size:14.5px; line-height:1.5;margin-left:17px;font-family:sans-serif;">Science</li>
+<li style="font-size:14.5px; line-height:1.5;margin-left:17px;font-family:sans-serif;">Character and Citizenship Education&nbsp;(CCE)</li>
 </ul>
 
 
