@@ -16,9 +16,7 @@ year, the school continues to make changes to our school-based assessments to cr
 
 <p style="line-height:2;margin-top:5px;margin-bottom:0;font-family:sans-serif;font-size:15.5px;"><strong style="font-family:sans-serif;">(a) Formative Assessment</strong></p>
 
-<p style="font-size:14.5px; line-height:2;margin-top:0px;font-family:sans-serif;">Formative Assessment is carried out during lessons to provide feedback to adjust on-going
-teaching and learning in order to improve students’ learning in the classroom. They are often given in the form of class assignments, mini quizzes and presentations aimed to help students identify their strengths and weaknesses and target areas that need support. Timed
-practices will continue to be given to students to prepare them for formal assessments and to ensure that they are ready for the end-of-year examinations. Teachers use these practices as formative assessments to give students feedback on areas for improvement. Formative assessment scores, if any, are <u style="font-family:sans-serif;">not</u> weighted.</p>
+<p style="font-size:14.5px; line-height:2;margin-top:0px;font-family:sans-serif;">Formative Assessment is carried out during lessons to provide feedback to adjust on-going teaching and learning in order to improve students’ learning in the classroom. They are often given in the form of class assignments, mini quizzes and presentations aimed to help students identify their strengths and weaknesses and target areas that need support. Timed practices will continue to be given to students to prepare them for formal assessments and to ensure that they are ready for the end-of-year examinations. Teachers use these practices as formative assessments to give students feedback on areas for improvement. Formative assessment scores, if any, are <u style="font-family:sans-serif;">not</u> weighted.</p>
 
 <p style="line-height:2;margin-top:5px;margin-bottom:0;font-family:sans-serif;font-size:15.5px;"><strong style="font-family:sans-serif;">(b) Weighted Assessment (WA)</strong></p>
 
