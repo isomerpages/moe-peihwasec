@@ -3,6 +3,7 @@ title: Outdoor Activities Club (ODAC)
 permalink: /learning-at-pei-hwa/cca/sports-games/outdoor-activities-club-odac/
 description: ""
 third_nav_title: Clubs & Societies
+variant: markdown
 ---
 <img style="width: 100%; height: auto;margin-top:30px;margin-bottom:30px;" alt="Image" src="https://raw.githubusercontent.com/isomerpages/moe-peihwasec/staging/images/CCA/odacbanner.png">
 
@@ -76,14 +77,14 @@ third_nav_title: Clubs & Societies
 <h6 style="color:#0B6623;font-family:sans-serif;font-weight:bold;margin-top:30px;"><strong style="font-family:sans-serif;font-size:17px;color:#0B6623;">CCA Activities</strong></h6>
 
 <ul style="margin-top:-5px">
-	<li style="font-size:14.5px; line-height:2; font-family:sans-serif;"> Certification for Kayaking led by trained instructors</li>
-<li style="font-size:14.5px; line-height:2; font-family:sans-serif;"> Training programmes in and out of school to be certified in Orienteering</li>
-<li style="font-size:14.5px; line-height:2; font-family:sans-serif;"> Physical training sessions</li>
-	<li style="font-size:14.5px; line-height:2; font-family:sans-serif;"> Park connector runs</li>
-<li style="font-size:14.5px; line-height:2; font-family:sans-serif;">	Bonding games</li>
-	<li style="font-size:14.5px; line-height:2; font-family:sans-serif;"> Camp craft and outdoor cooking skills training</li>
-<li style="font-size:14.5px; line-height:2; font-family:sans-serif;"> School competitions</li>
-	<li style="font-size:14.5px; line-height:2; font-family:sans-serif;margin-bottom:-5px;"> School overnight camps</li>
+	<li style="font-size:14.5px; line-height:1.5; font-family:sans-serif;"> Certification for Kayaking led by trained instructors</li>
+<li style="font-size:14.5px; line-height:1.5; font-family:sans-serif;"> Training programmes in and out of school to be certified in Orienteering</li>
+<li style="font-size:14.5px; line-height:1.5; font-family:sans-serif;"> Physical training sessions</li>
+	<li style="font-size:14.5px; line-height:1.5; font-family:sans-serif;"> Park connector runs</li>
+<li style="font-size:14.5px; line-height:1.5; font-family:sans-serif;"> Bonding games</li>
+<li style="font-size:14.5px; line-height:1.5; font-family:sans-serif;"> Camp craft and outdoor cooking skills training</li>
+<li style="font-size:14.5px; line-height:1.5; font-family:sans-serif;"> School competitions</li>
+	<li style="font-size:14.5px; line-height:1.5; font-family:sans-serif;margin-bottom:-5px;"> School overnight camps</li>
 	</ul>
 	
 <h6 style="color:#0B6623;font-family:sans-serif;font-weight:bold;margin-top:30px;"><strong style="font-family:sans-serif;font-size:17px;color:#0B6623;">Student Testament</strong></h6>
