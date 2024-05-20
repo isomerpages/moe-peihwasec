@@ -3,6 +3,7 @@ title: Character and Citizenship Education @ Pei Hwa
 permalink: /learning-at-pei-hwa/cce/character-citizenship-education-at-pei-hwa/
 description: ""
 third_nav_title: CCE
+variant: markdown
 ---
 <img style="width: 100%; height: auto;margin-top:30px;margin-bottom:30px;" alt="Image" src="https://raw.githubusercontent.com/isomerpages/moe-peihwasec/staging/images/Learning%20%40%20Pei%20Hwa/CCE/ccebanner.png">
 
@@ -20,7 +21,7 @@ third_nav_title: CCE
 
 <p style="ine-height:2;margin-top:5px;margin-bottom:0;font-family:sans-serif;font-size:15.5px;"><u style="font-family:sans-serif;">Components in CCE</u></p>
 
-<p style="font-size:14.5px; line-height:2;font-family:sans-serif;margin-top:5px;">The Character and Citizenship Education (CCE) will emphasise the interconnectedness of values, knowledge, skills and competencies taught in these areas:</p>
+<p style="font-size:14.5px; line-height:2;font-family:sans-serif;margin-top:0px;">The Character and Citizenship Education (CCE) will emphasise the interconnectedness of values, knowledge, skills and competencies taught in these areas:</p>
 
 <table border="1" style="border-collapse: collapse;margin: 25px 0;font-size: 0.9em;font-family: sans-serif;min-width: 400px; box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);">
 	
