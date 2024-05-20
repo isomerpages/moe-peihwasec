@@ -3,6 +3,7 @@ title: PH Times
 permalink: /learning-at-pei-hwa/cca/clubs-societies/ph-times/
 description: ""
 third_nav_title: Clubs & Societies
+variant: markdown
 ---
 <img style="width: 100%; height: auto;margin-top:30px;margin-bottom:30px;" alt="Image" src="https://raw.githubusercontent.com/isomerpages/moe-peihwasec/staging/images/CCA/phtimesbanner.png">
 
@@ -11,9 +12,9 @@ third_nav_title: Clubs & Societies
 
 <p style="font-size:14.5px; line-height:1.5;margin-top:15px; font-family:sans-serif;">The CCA will enable our students to:</p>
 <ul style="margin-top:-5px;">
-	<li style="font-size:14.5px; line-height2;font-family:sans-serif;"> acquire and apply basic photography and videography knowledge and skills</li>
-	<li style="font-size:14.5px; line-height:2;font-family:sans-serif;"> demonstrate creativity through photography and videography activities</li>
-	<li style="font-size:14.5px; line-height:2; margin-bottom:-5px;font-family:sans-serif;"> develop into being a team player and work collaboratively with others</li>
+	<li style="font-size:14.5px; line-height:1.5;font-family:sans-serif;"> acquire and apply basic photography and videography knowledge and skills</li>
+	<li style="font-size:14.5px; line-height:1.5;font-family:sans-serif;"> demonstrate creativity through photography and videography activities</li>
+	<li style="font-size:14.5px; line-height:1.5; margin-bottom:-5px;font-family:sans-serif;"> develop into being a team player and work collaboratively with others</li>
 </ul>
 
 <h6 style="color:#0B6623;font-family:sans-serif;font-weight:bold;margin-top:30px;"><strong style="font-family:sans-serif;font-size:17px;color:#0B6623;">Achievements</strong></h6>
@@ -109,8 +110,8 @@ third_nav_title: Clubs & Societies
 <p style="font-size:14.5px; line-height:2;margin-top:0px; font-family:sans-serif;">Our CCA members are given the opportunity to apply their photography and videography knowledge and skills in various platforms. This allows them to explore photojournalism, broadcast journalism and digital journalism. Some of the platforms are:</p>
 
 <ul style="margin-top:-5px">
-	<li style="font-size:14.5px; line-height:2; font-family:sans-serif;"> school events and celebrations</li>
-<li style="font-size:14.5px; line-height:2;margin-bottom:-5px; font-family:sans-serif;"> student-led CCA activities / projects</li>
+	<li style="font-size:14.5px; line-height:1.5; font-family:sans-serif;"> school events and celebrations</li>
+<li style="font-size:14.5px; line-height:1.5;margin-bottom:-5px; font-family:sans-serif;"> student-led CCA activities / projects</li>
 	</ul>
 	
 <div style="display: flex; flex-wrap: wrap; justify-content: space-between; max-width: 800px; margin: 0 auto;" class="image-container">
@@ -134,8 +135,8 @@ third_nav_title: Clubs & Societies
 <p style="font-size:14.5px; line-height:2;margin-top:15px; font-family:sans-serif;">Our CCA also encourages members to take part in the following competitions:</p>
 
 <ul style="margin-top:-5px">
-	<li style="font-size:14.5px; line-height:2; font-family:sans-serif;"> Our School, Our Stories Photo and Video Contest</li>
-<li style="font-size:14.5px; line-height:2;margin-bottom:-5px; font-family:sans-serif;"> DRUGFREESG Video Competition</li>
+	<li style="font-size:14.5px; line-height:1.5; font-family:sans-serif;"> Our School, Our Stories Photo and Video Contest</li>
+<li style="font-size:14.5px; line-height:1.5;margin-bottom:-5px; font-family:sans-serif;"> DRUGFREESG Video Competition</li>
 	</ul>
 
 <h6 style="color:#0B6623;font-family:sans-serif;font-weight:bold;margin-top:30px;"><strong style="font-family:sans-serif;font-size:17px;color:#0B6623;">Student Testament</strong></h6>
