@@ -3,6 +3,7 @@ title: Floorball
 permalink: /learning-at-pei-hwa/cca/sports-games/floorball/
 description: ""
 third_nav_title: Sports & Games
+variant: markdown
 ---
 <img style="width: 100%; height: auto;margin-top:30px;margin-bottom:30px;" alt="Image" src="https://raw.githubusercontent.com/isomerpages/moe-peihwasec/staging/images/CCA/floorballbanner.png">
 
@@ -14,10 +15,10 @@ third_nav_title: Sports & Games
 
 <p style="font-size:14.5px; line-height:2;margin-top:15px; font-family:sans-serif;">Through the meaningful experiences planned, the Floorball CCA also aims to help students to build a variety of important skills and qualities, such as:</p>
 <ul style="margin-top:-5px">
-	<li style="font-size:14.5px; line-height:2; font-family:sans-serif;"> Teamwork: Floorball is a team sport that requires cooperation and communication among team members. Through participating in the CCA, students can learn to work effectively as a team and support one another.</li>
-	<li style="font-size:14.5px; line-height:2; font-family:sans-serif;"> Physical fitness: Floorball is a physically demanding sport that requires speed, agility, and endurance. By practising and playing floorball, students can improve their overall physical fitness and develop a healthy lifestyle.</li>
-	<li style="font-size:14.5px; line-height:2; font-family:sans-serif;"> Sportsmanship: Playing floorball involves following rules, respecting opponents and teammates, and demonstrating good sportsmanship. Through participating in the CCA, students can learn to compete fairly and with integrity.</li>
-	<li style="font-size:14.5px; line-height:2; font-family:sans-serif;margin-bottom:-5px;"> Leadership: Within a floorball team, there may be opportunities for students to take on leadership roles, such as team captain or coach. These roles can help students to develop their leadership skills and learn to motivate and inspire others.</li>
+	<li style="font-size:14.5px; line-height:1.5; font-family:sans-serif;"> Teamwork: Floorball is a team sport that requires cooperation and communication among team members. Through participating in the CCA, students can learn to work effectively as a team and support one another.</li>
+	<li style="font-size:14.5px; line-height:1.5; font-family:sans-serif;"> Physical fitness: Floorball is a physically demanding sport that requires speed, agility, and endurance. By practising and playing floorball, students can improve their overall physical fitness and develop a healthy lifestyle.</li>
+	<li style="font-size:14.5px; line-height:1.5; font-family:sans-serif;"> Sportsmanship: Playing floorball involves following rules, respecting opponents and teammates, and demonstrating good sportsmanship. Through participating in the CCA, students can learn to compete fairly and with integrity.</li>
+	<li style="font-size:14.5px; line-height:1.5; font-family:sans-serif;margin-bottom:-5px;"> Leadership: Within a floorball team, there may be opportunities for students to take on leadership roles, such as team captain or coach. These roles can help students to develop their leadership skills and learn to motivate and inspire others.</li>
 </ul>
 <p style="font-size:14.5px; line-height:2;margin-top:0px; font-family:sans-serif;">Overall, participating in the floorball CCA can offer students a range of benefits, from physical fitness to social and emotional development, and can help to create a positive and supportive learning environment.</p>
 
