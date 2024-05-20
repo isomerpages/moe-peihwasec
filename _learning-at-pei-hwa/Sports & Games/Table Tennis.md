@@ -3,6 +3,7 @@ title: Table Tennis
 permalink: /learning-at-pei-hwa/cca/sports-games/table-tennis/
 description: ""
 third_nav_title: Sports & Games
+variant: markdown
 ---
 <img style="width: 100%; height: auto;margin-top:30px;margin-bottom:30px;" alt="Image" src="https://raw.githubusercontent.com/isomerpages/moe-peihwasec/staging/images/CCA/tabletennisbanner.png">
 
@@ -56,11 +57,11 @@ third_nav_title: Sports & Games
 
 <h6 style="color:#0B6623;font-family:sans-serif;font-weight:bold;margin-top:30px;"><strong style="font-family:sans-serif;font-size:17px;color:#0B6623;">CCA Activities</strong></h6>
 
-<ul style="margin-top:5px">
-	<li style="font-size:14.5px; line-height:2; font-family:sans-serif;"> National School Games, zonal competitions, external ad-hoc competitions, inter-school friendly competitions.</li>
-<li style="font-size:14.5px; line-height:2; font-family:sans-serif;"> Training camps</li>
-<li style="font-size:14.5px; line-height:2; font-family:sans-serif;"> Bonding activities</li>
-	<li style="font-size:14.5px; line-height:2; font-family:sans-serif;margin-bottom:-5px;"> Technical and tactical training sessions</li>
+<ul style="margin-top:-5px">
+	<li style="font-size:14.5px; line-height:1.5; font-family:sans-serif;"> National School Games, zonal competitions, external ad-hoc competitions, inter-school friendly competitions.</li>
+<li style="font-size:14.5px; line-height:1.5; font-family:sans-serif;"> Training camps</li>
+<li style="font-size:14.5px; line-height:1.5; font-family:sans-serif;"> Bonding activities</li>
+	<li style="font-size:14.5px; line-height:1.5; font-family:sans-serif;margin-bottom:-5px;"> Technical and tactical training sessions</li>
 	</ul>
 	
 <h6 style="color:#0B6623;font-family:sans-serif;font-weight:bold;margin-top:30px;"><strong style="font-family:sans-serif;font-size:17px;color:#0B6623;">Student Testament</strong></h6>
