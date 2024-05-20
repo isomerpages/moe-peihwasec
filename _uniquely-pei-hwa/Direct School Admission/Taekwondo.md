@@ -15,28 +15,28 @@ third_nav_title: Direct School Admission
 <p style="font-size:14.5px; line-height:2;margin-top:15px; font-family:sans-serif">Applicants should have experience in practicing Taekwondo. (Formal Certification is useful, but not compulsory)</p>
 <p style="font-size:14.5px; line-height:2;margin-top:5px; font-family:sans-serif">Applicants should preferably have:</p>
 <ul style="margin-top:-5px;">
-<li style="font-size:14.5px; line-height:2;font-family:sans-serif;">Relevant experiences in performing in school or external events<strong style="font-size:14.5px; line-height:2;font-family:sans-serif;"> OR</strong></li>
-<li style="font-size:14.5px; line-height:2;font-family:sans-serif;">Represented their primary school in National School Championship <strong style="font-size:14.5px; line-height:2;font-family:sans-serif;"> OR</strong></li>
-	<li style="font-size:14.5px; line-height:2;font-family:sans-serif;">Other achievement(s)/ attainment(s) in Taekwondo</li>
-		<li style="font-size:14.5px; line-height:2;font-family:sans-serif;">Good physical abilities</li>
+<li style="font-size:14.5px; line-height:1.5;font-family:sans-serif;">Relevant experiences in performing in school or external events<strong style="font-size:14.5px; line-height:1.5;font-family:sans-serif;"> OR</strong></li>
+<li style="font-size:14.5px; line-height:1.5;font-family:sans-serif;">Represented their primary school in National School Championship <strong style="font-size:14.5px; line-height:1.5;font-family:sans-serif;"> OR</strong></li>
+	<li style="font-size:14.5px; line-height:1.5;font-family:sans-serif;">Other achievement(s)/ attainment(s) in Taekwondo</li>
+		<li style="font-size:14.5px; line-height:1.5;font-family:sans-serif;">Good physical abilities</li>
 </ul>
 
 <p style="margin-top:-20px;font-size:14.5px; line-height:2;font-family:sans-serif;">Note:</p>
 
 <ol style="margin-top:-5px;">
-<li style="font-size:14.5px; line-height:2;font-family:sans-serif;">Applicants do not need to possess all of the above criteria to be considered.</li>
-<li style="font-size:14.5px; line-height:2;font-family:sans-serif;">Meeting all the criteria does not guarantee the applicant will be shortlisted/given an offer. </li>
+<li style="font-size:14.5px; line-height:1.5;font-family:sans-serif;">Applicants do not need to possess all of the above criteria to be considered.</li>
+<li style="font-size:14.5px; line-height:1.5;font-family:sans-serif;">Meeting all the criteria does not guarantee the applicant will be shortlisted/given an offer. </li>
 </ol>
 <h6 style="color:#0B6623;font-family:sans-serif;font-weight:bold;margin-top:30px;"><strong style="font-family:sans-serif;font-size:17px;color:#0B6623;">Selection Process </strong></h6>
 
 <p style="font-size:14.5px; line-height:2;margin-top:5px; font-family:sans-serif">Shortlisted applicants will undergo:</p>
 
 <ul style="margin-top:-5px;">
-<li style="font-size:14.5px; line-height:2;font-family:sans-serif;">An interview.</li>
-<li style="font-size:14.5px; line-height:2;font-family:sans-serif;">A selection trial requiring shortlisted DSA applicants to:</li>
-	<ol style="margin-top:-5px; display">
-<li style="font-size:14.5px; line-height:2;font-family:sans-serif;list-style-type: lower-roman;">Perform Taekwondo movement/ stances/ sparring techniques as decided by Pei Hwa Secondary School</li>
-<li style="font-size:14.5px; line-height:2;font-family:sans-serif;list-style-type: lower-roman;">Participate in a physical ability test.</li>
+<li style="font-size:14.5px; line-height:1.5;font-family:sans-serif;">An interview.</li>
+<li style="font-size:14.5px; line-height:1.5;font-family:sans-serif;">A selection trial requiring shortlisted DSA applicants to:</li>
+	<ol style="margin-top:0px; display">
+<li style="font-size:14.5px; line-height:1.5;font-family:sans-serif;list-style-type: lower-roman;">Perform Taekwondo movement/ stances/ sparring techniques as decided by Pei Hwa Secondary School</li>
+<li style="font-size:14.5px; line-height:1.5;font-family:sans-serif;list-style-type: lower-roman;">Participate in a physical ability test.</li>
 </ol>
 </ul>
 <p style="margin-top:5px;font-size:14.5px; line-height:2;font-family:sans-serif;">Note: All Interviews and selection trials will take place face-to-face at Pei Hwa Secondary School.</p>
