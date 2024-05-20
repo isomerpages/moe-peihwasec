@@ -3,6 +3,7 @@ title: Physical Education
 permalink: /learning-at-pei-hwa/instructional-programmes/physical-education/
 description: ""
 third_nav_title: Instructional Programmes
+variant: markdown
 ---
 <img style="width: 100%; height: auto;margin-top:30px;" alt="Image" src="https://raw.githubusercontent.com/isomerpages/moe-peihwasec/staging/images/Learning%20%40%20Pei%20Hwa/Instructional%20Programme/Banner/physicaleducationbanner.png">
 
@@ -41,9 +42,9 @@ third_nav_title: Instructional Programmes
 <p style="margin-top:15px;font-size:15.5px;"><strong style="font-family:sans-serif;">Physical Health &amp; Fitness topics (From Sec 1 – 5):</strong></p>
 
 <ol style="margin-top:-5px;">
-<li style="font-size:14.5px; line-height:2;margin-left:17px;font-family:sans-serif;">Health &amp; Fitness Management</li>
-<li style="font-size:14.5px; line-height:2;margin-left:17px;font-family:sans-serif;">Healthy eating and weight management</li>
-<li style="font-size:14.5px; line-height:2;margin-left:17px;font-family:sans-serif;">Personal safety in physical activities</li>
+<li style="font-size:14.5px; line-height:1.5;margin-left:17px;font-family:sans-serif;">Health &amp; Fitness Management</li>
+<li style="font-size:14.5px; line-height:1.5;margin-left:17px;font-family:sans-serif;">Healthy eating and weight management</li>
+<li style="font-size:14.5px; line-height:1.5;margin-left:17px;font-family:sans-serif;">Personal safety in physical activities</li>
 </ol>
 
 <img src="/images/pe2.jpg" style="width:70%;">
@@ -51,9 +52,9 @@ third_nav_title: Instructional Programmes
 <p style="line-height:2;margin-top:15px;margin-bottom:0;font-family:sans-serif;font-size:15.5px;"><strong style="font-family:sans-serif;">Outdoor Education topics (From Sec 1 – 3):</strong></p>
 
 <ol style="margin-top:-5px;">
-<li style="font-size:14.5px; line-height:2;margin-left:17px;font-family:sans-serif;">Enhancing physical health and well-being</li>
-<li style="font-size:14.5px; line-height:2;margin-left:17px;font-family:sans-serif;">Building competency in assessing and managing risk</li>
-<li style="font-size:14.5px; line-height:2;margin-left:17px;font-family:sans-serif;">Developing a sense of place</li>
+<li style="font-size:14.5px; line-height:1.5;margin-left:17px;font-family:sans-serif;">Enhancing physical health and well-being</li>
+<li style="font-size:14.5px; line-height:1.5;margin-left:17px;font-family:sans-serif;">Building competency in assessing and managing risk</li>
+<li style="font-size:14.5px; line-height:1.5;margin-left:17px;font-family:sans-serif;">Developing a sense of place</li>
 </ol>
 
 <img src="/images/pe3.jpg" style="width:70%;">
@@ -63,8 +64,7 @@ third_nav_title: Instructional Programmes
 
 <p style="line-height:2;margin-top:5px;margin-bottom:0;font-family:sans-serif;font-size:15.5px;"><strong style="font-family:sans-serif;">PE Lessons</strong></p>
 
- <p style="font-size:14.5px; line-height:2;margin-top:0px;font-family:sans-serif;">
-In Pei Hwa Secondary school, we strive to design fun and engaging PE lessons to develop students in the physical, cognitive and affective domains. We focus on delivering lessons with clear learning goals and employ differentiated instructions to cater to the different learning needs of our students.</p>
+ <p style="font-size:14.5px; line-height:2;margin-top:0px;font-family:sans-serif;">In Pei Hwa Secondary school, we strive to design fun and engaging PE lessons to develop students in the physical, cognitive and affective domains. We focus on delivering lessons with clear learning goals and employ differentiated instructions to cater to the different learning needs of our students.</p>
 
 <div class="row" style="box-sizing: border-box;"> 
 		<div class="column" style="box-sizing: border-box;  float: left; width: 50%; padding: 5;">
