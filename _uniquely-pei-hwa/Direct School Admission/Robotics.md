@@ -23,9 +23,9 @@ third_nav_title: Direct School Admission
 
 <p style="margin-top:0px;font-size:14.5px; line-height:2;font-family:sans-serif;">Applicants should have:</p>
 
-<ul style="margin-top:-10px;">
-	<li style="font-size:14.5px; line-height:2;font-family:sans-serif;">Talent/experience in: </li>
-	<ul style="margin-top:-10px;">
+<ul style="margin-top:-5px;">
+	<li style="font-size:14.5px; line-height:1.5;font-family:sans-serif;">Talent/experience in: </li>
+	<ul style="margin-top:0px;">
 	<li style="font-size:14.5px; line-height:1.5;font-family:sans-serif;">Mindstorms EV3, SPIKE Prime </li>
 			<li style="font-size:14.5px; line-height:1.5;font-family:sans-serif;">Robocup CoSpace Programming</li>
 			<li style="font-size:14.5px; line-height:1.5;font-family:sans-serif;">FIRST Tech Challenge</li>
