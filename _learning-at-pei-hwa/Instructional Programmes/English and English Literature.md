@@ -3,6 +3,7 @@ title: English and English Literature
 permalink: /learning-at-pei-hwa/instructional-programmes/english-language-literature/
 description: ""
 third_nav_title: Instructional Programmes
+variant: markdown
 ---
 <img style="width: 100%; height: auto;margin-top:30px;" alt="Image" src="https://raw.githubusercontent.com/isomerpages/moe-peihwasec/staging/images/Learning%20%40%20Pei%20Hwa/Instructional%20Programme/Banner/englishnenglishliteraturebanner.png">
 
@@ -40,6 +41,6 @@ In Upper Secondary, students go into greater depth and study a designated set no
 <h6 style="color:#0B6623;font-family:sans-serif;font-weight:bold;margin-top:30px;"><strong style="font-family:sans-serif;font-size:17px;color:#0B6623;">Enrichment </strong></h6>
 
 <p style="font-size:14.5px; line-height:2;margin-top:0px;font-family:sans-serif;">Our signature enrichment programme which supports our students’ oracy development is the:</p>
-<ul style="margin-top:5px">
-	<li style="font-size:14.5px; line-height:1.5 ;margin-top:5px; font-family:sans-serif;">Slice of Life </li>
+<ul style="margin-top:-5px">
+	<li style="font-size:14.5px; line-height:1.5;font-family:sans-serif;">Slice of Life </li>
 	</ul>
