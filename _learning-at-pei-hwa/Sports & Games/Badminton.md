@@ -3,6 +3,7 @@ title: Badminton
 permalink: /learning-at-pei-hwa/cca/sports-games/badminton/
 description: ""
 third_nav_title: Sports & Games
+variant: markdown
 ---
 <img style="width: 100%; height: auto;margin-top:30px;margin-bottom:30px;" alt="Image" src="https://raw.githubusercontent.com/isomerpages/moe-peihwasec/staging/images/CCA/badmintonbanner.png">
 
@@ -68,11 +69,11 @@ third_nav_title: Sports & Games
 
 <h6 style="color:#0B6623;font-family:sans-serif;font-weight:bold;margin-top:30px;"><strong style="font-family:sans-serif;font-size:17px;color:#0B6623;">CCA Activities</strong></h6>
 
-<ul style="margin-top:5px">
-	<li style="font-size:14.5px; line-height:2; font-family:sans-serif;"> Training for students led by the coach</li>
-<li style="font-size:14.5px; line-height:2; font-family:sans-serif;"> National School Games (NSG)</li>
-<li style="font-size:14.5px; line-height:2x; font-family:sans-serif;"> Friendly Matches with other schools</li>
-	<li style="font-size:14.5px; line-height:2; margin-bottom:-5px; font-family:sans-serif;"> Bonding Activities</li>
+<ul style="margin-top:-5px">
+	<li style="font-size:14.5px; line-height:1.5; font-family:sans-serif;"> Training for students led by the coach</li>
+<li style="font-size:14.5px; line-height:1.5; font-family:sans-serif;"> National School Games (NSG)</li>
+<li style="font-size:14.5px; line-height:1.5; font-family:sans-serif;"> Friendly Matches with other schools</li>
+	<li style="font-size:14.5px; line-height:1.5; margin-bottom:-5px; font-family:sans-serif;"> Bonding Activities</li>
 	</ul>
 	
 <h6 style="color:#0B6623;font-family:sans-serif;font-weight:bold;margin-top:30px;"><strong style="font-family:sans-serif;font-size:17px;color:#0B6623;">Student Testament</strong></h6>
