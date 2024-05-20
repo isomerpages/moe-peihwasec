@@ -25,8 +25,8 @@ third_nav_title: Direct School Admission
 <p style="margin-top:-20px;font-size:14.5px; line-height:2;font-family:sans-serif;">Note:</p>
 
 <ol style="margin-top:-5px;">
-<li style="font-size:14.5px; line-height:2;font-family:sans-serif;">Applicants who do not have prior experience may also apply. The school will assess applicants based on the selection criteria, which may include assessing the potential of the applicants.</li>
-<li style="font-size:14.5px; line-height:2;font-family:sans-serif;">Meeting all the criteria does not guarantee the applicant will be shortlisted/given an offer.</li>
+<li style="font-size:14.5px; line-height:1.5;font-family:sans-serif;">Applicants who do not have prior experience may also apply. The school will assess applicants based on the selection criteria, which may include assessing the potential of the applicants.</li>
+<li style="font-size:14.5px; line-height:1.5;font-family:sans-serif;">Meeting all the criteria does not guarantee the applicant will be shortlisted/given an offer.</li>
 </ol>
 
 <h6 style="color:#0B6623;font-family:sans-serif;font-weight:bold;margin-top:30px;"><strong style="font-family:sans-serif;font-size:17px;color:#0B6623;">Selection Process </strong></h6>
@@ -34,11 +34,11 @@ third_nav_title: Direct School Admission
 <p style="font-size:14.5px; line-height:2;margin-top:5px; font-family:sans-serif"> All shortlisted DSA applicants will undergo:</p>
 
 <ul style="margin-top:-5px;">
-<li style="font-size:14.5px; line-height:2;font-family:sans-serif;">An interview</li>
-<li style="font-size:14.5px; line-height:2;font-family:sans-serif;">A selection trial requiring shortlisted DSA applicants to: </li>
-	<ol style="margin-top:-5px; display">
-		<li style="font-size:14.5px; line-height:2;font-family:sans-serif;list-style-type: lower-roman;">Perform floorball skills as decided by Pei Hwa Secondary School</li>
-		<li style="font-size:14.5px; line-height:2;font-family:sans-serif;list-style-type: lower-roman;">Participate in a speed and agility test</li>
-		<li style="font-size:14.5px; line-height:2;font-family:sans-serif;list-style-type: lower-roman;">Play a floorball game </li>
+<li style="font-size:14.5px; line-height:1.5;font-family:sans-serif;">An interview</li>
+<li style="font-size:14.5px; line-height:1.5;font-family:sans-serif;">A selection trial requiring shortlisted DSA applicants to: </li>
+	<ol style="margin-top:5px; display">
+		<li style="font-size:14.5px; line-height:1.5;font-family:sans-serif;list-style-type: lower-roman;">Perform floorball skills as decided by Pei Hwa Secondary School</li>
+		<li style="font-size:14.5px; line-height:1.5;font-family:sans-serif;list-style-type: lower-roman;">Participate in a speed and agility test</li>
+		<li style="font-size:14.5px; line-height:1.5;font-family:sans-serif;list-style-type: lower-roman;">Play a floorball game </li>
 </ol>
 </ul>
