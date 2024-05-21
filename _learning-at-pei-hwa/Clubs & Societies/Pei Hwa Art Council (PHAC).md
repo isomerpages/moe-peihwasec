@@ -3,6 +3,7 @@ title: Pei Hwa Art Council (PHAC)
 permalink: /learning-at-pei-hwa/cca/clubs-societies/pei-hwa-art-council-phac/
 description: ""
 third_nav_title: Clubs & Societies
+variant: markdown
 ---
 <img style="width: 100%; height: auto;margin-top:30px;margin-bottom:30px;" alt="Image" src="https://raw.githubusercontent.com/isomerpages/moe-peihwasec/staging/images/CCA/phacbanner.png">
 
@@ -10,11 +11,11 @@ third_nav_title: Clubs & Societies
 
 <p style="font-size:14.5px; line-height:2 ;margin-top:0px; font-family:sans-serif;" class="description">Students are exposed to a range of art-making to let them have a feel of different media as part of their creative expression. While some of our members have some background in art, we also have new students join us to discover their hidden talents. Through regular practice and active participation, our members emerge skillful and confident under the care and guidance of the teachers. </p>
 
-<p style="font-size:14.5px; line-height:2;margin-top:15px; font-family:sans-serif;">The CCA will enable our students to:</p>
+<p style="font-size:14.5px; line-height:1.5;margin-top:15px; font-family:sans-serif;">The CCA will enable our students to:</p>
 <ul style="margin-top:-5px">
-	<li style="font-size:14.5px; line-height:2; font-family:sans-serif;"> develop better observational and problem-solving skills</li>
-	<li style="font-size:14.5px; line-height:2; font-family:sans-serif;"> have greater awareness of the arts in order to increase appreciation and participation in the CCA and beyond</li>
-	<li style="font-size:14.5px; line-height:2; margin-bottom:-5px; font-family:sans-serif;"> provide support to the school for school-wide events and in partnering with the community</li>
+	<li style="font-size:14.5px; line-height:1.5; font-family:sans-serif;"> develop better observational and problem-solving skills</li>
+	<li style="font-size:14.5px; line-height:1.5; font-family:sans-serif;"> have greater awareness of the arts in order to increase appreciation and participation in the CCA and beyond</li>
+	<li style="font-size:14.5px; line-height:1.5; margin-bottom:-5px; font-family:sans-serif;"> provide support to the school for school-wide events and in partnering with the community</li>
 </ul>
 
 
@@ -71,10 +72,10 @@ third_nav_title: Clubs & Societies
 <h6 style="color:#0B6623;font-family:sans-serif;font-weight:bold;margin-top:30px;"><strong style="font-family:sans-serif;font-size:17px;color:#0B6623;">CCA Activities</strong></h6>
 
 <ul style="margin-top:-5px">
-	<li style="font-size:14.5px; line-height:2; font-family:sans-serif;"> Regular training for students to develop and hone their artistic and thinking skills</li>
-<li style="font-size:14.5px; line-height:2; font-family:sans-serif;"> Competitions, school events and Values-in-Action programmes</li>
-		<li style="font-size:14.5px; line-height:2; font-family:sans-serif;"> Learning journeys to museums and exhibitions</li>
-<li style="font-size:14.5px; line-height:2;margin-bottom:-5px; font-family:sans-serif;"> Participate in graduation shows and school camps</li>
+	<li style="font-size:14.5px; line-height:1.5; font-family:sans-serif;"> Regular training for students to develop and hone their artistic and thinking skills</li>
+<li style="font-size:14.5px; line-height:1.5; font-family:sans-serif;"> Competitions, school events and Values-in-Action programmes</li>
+		<li style="font-size:14.5px; line-height:1.5; font-family:sans-serif;"> Learning journeys to museums and exhibitions</li>
+<li style="font-size:14.5px; line-height:1.5;margin-bottom:-5px; font-family:sans-serif;"> Participate in graduation shows and school camps</li>
 	</ul>
 
 <h6 style="color:#0B6623;font-family:sans-serif;font-weight:bold;margin-top:30px;"><strong style="font-family:sans-serif;font-size:17px;color:#0B6623;">CCA Details</strong></h6>

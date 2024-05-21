@@ -166,12 +166,12 @@ Tay Kai Wen, Bryan (4D1), Lai Le Xin Grace (3I4), Ain Myeisha Arman (3I1), Chang
 
 <h6 style="color:#0B6623;font-family:sans-serif;font-weight:bold;margin-top:30px;"><strong style="font-family:sans-serif;font-size:17px;color:#0B6623;">CCA Activities</strong></h6>
 <ul style="margin-top:-5px">
-	<li style="font-size:14.5px; line-height:2; font-family:sans-serif;"> Robocup Singapore Open (Cospace Rescue, Cospace Autonomous Driving and Cospace OnStage)</li>
-<li style="font-size:14.5px; line-height:2; font-family:sans-serif;"> In-house Enrichments: Introduction to Python Programming Language, Intermediate Python, Data Science with Python</li>
-		<li style="font-size:14.5px; line-height:2; font-family:sans-serif;"> Arduino Programming</li>
-<li style="font-size:14.5px; line-height:2; font-family:sans-serif;"> AI with Huskylens and Micro:bit</li>
-		<li style="font-size:14.5px; line-height:2; font-family:sans-serif;"> Lego Mindstorms EV3</li>
-<li style="font-size:14.5px; line-height:2; font-family:sans-serif;margin-bottom:-5px;"> Codomo Potato Pirates Coding Card Games</li>
+	<li style="font-size:14.5px; line-height:1.5; font-family:sans-serif;"> Robocup Singapore Open (Cospace Rescue, Cospace Autonomous Driving and Cospace OnStage)</li>
+<li style="font-size:14.5px; line-height:1.5; font-family:sans-serif;"> In-house Enrichments: Introduction to Python Programming Language, Intermediate Python, Data Science with Python</li>
+		<li style="font-size:14.5px; line-height:1.5; font-family:sans-serif;"> Arduino Programming</li>
+<li style="font-size:14.5px; line-height:1.5; font-family:sans-serif;"> AI with Huskylens and Micro:bit</li>
+		<li style="font-size:14.5px; line-height:1.5; font-family:sans-serif;"> Lego Mindstorms EV3</li>
+<li style="font-size:14.5px; line-height:1.5; font-family:sans-serif;margin-bottom:-5px;"> Codomo Potato Pirates Coding Card Games</li>
 	</ul>
 	
 <div style="display: flex; flex-wrap: wrap; justify-content: space-between; max-width: 800px; margin: 0 auto;" class="image-container">

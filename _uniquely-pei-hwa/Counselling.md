@@ -2,6 +2,7 @@
 title: Counselling
 permalink: /uniquely-pei-hwa/counselling/
 description: ""
+variant: markdown
 ---
 <img style="width: 100%; height: auto;margin-top:30px;margin-bottom:30px;" alt="Image" src="/images/Uniquely%20Pei%20Hwa/counsellingbannernew.png">
 
@@ -12,20 +13,19 @@ description: ""
 <p style="font-size:14.5px; line-height:2;margin-top:0px;font-family:sans-serif;">Counselling is a therapeutic relationship between the trained school counsellor and the student. One fundamental goal of counselling is to help the student develop a better understanding of themselves and gain insights into issues they might be facing. Through this process, the student
 is empowered to gradually build up their readiness to identify and acknowledge their areas of concerns and work towards a commitment for positive change.</p> 
 
-<p style="margin-top:0px;font-size:14.5px; line-height:2;font-family:sans-serif;">To create a safe and trusting space for the student, the school counsellor is bounded by a set of
-professional ethics to maintain confidentiality of matters discussed during counselling sessions.</p>
+<p style="margin-top:0px;font-size:14.5px; line-height:2;font-family:sans-serif;">To create a safe and trusting space for the student, the school counsellor is bounded by a set of professional ethics to maintain confidentiality of matters discussed during counselling sessions.</p>
 
 <p style="line-height:2;margin-top:5px;margin-bottom:0;font-family:sans-serif;font-size:15.5px;"><strong style="font-family:sans-serif;">Areas that the school counsellor provide support on include but not limited by:</strong></p>
 
 <ul style="margin-top:-5px">
-	<li style="font-size:14.5px; line-height:2;font-family:sans-serif;">Stress Management (Academic/Non-academic)</li>
-<li style="font-size:14.5px; line-height:2; font-family:sans-serif;">Mood Issues (e.g. Depression, Anxiety)</li>
-<li style="font-size:14.5px; line-height:2; font-family:sans-serif;">Relationship Issues (e.g. Peers, Family)</li>
-	<li style="font-size:14.5px; line-height:2; font-family:sans-serif;">Behavioural Issues (e.g. Bullying, Gaming, Aggression)</li>
-	<li style="font-size:14.5px; line-height:2; font-family:sans-serif;">Grief and Loss</li>
-	<li style="font-size:14.5px; line-height:2; font-family:sans-serif;">Post-traumatic Stress</li>
-	<li style="font-size:14.5px; line-height:2; font-family:sans-serif;">Child Protection Concerns</li>
-	<li style="font-size:14.5px; line-height:2;margin-bottom:-5px; font-family:sans-serif;">Crisis Intervention</li>
+<li style="font-size:14.5px; line-height:1.5;font-family:sans-serif;">Stress Management (Academic/Non-academic)</li>
+<li style="font-size:14.5px; line-height:1.5;font-family:sans-serif;">Mood Issues (e.g. Depression, Anxiety)</li>
+<li style="font-size:14.5px; line-height:1.5;font-family:sans-serif;">Relationship Issues (e.g. Peers, Family)</li>
+<li style="font-size:14.5px; line-height:1.5;font-family:sans-serif;">Behavioural Issues (e.g. Bullying, Gaming, Aggression)</li>
+<li style="font-size:14.5px; line-height:1.5;font-family:sans-serif;">Grief and Loss</li>
+<li style="font-size:14.5px; line-height:1.5;font-family:sans-serif;">Post-traumatic Stress</li>
+<li style="font-size:14.5px; line-height:1.5;font-family:sans-serif;">Child Protection Concerns</li>
+	<li style="font-size:14.5px; line-height:1.5;margin-bottom:0px; font-family:sans-serif;">Crisis Intervention</li>
 	</ul>
 	
 <p style="line-height:2;margin-top:5px;margin-bottom:0;font-family:sans-serif;font-size:15.5px;"><strong style="font-family:sans-serif;">The Referral Process</strong></p>
@@ -38,4 +38,4 @@ professional ethics to maintain confidentiality of matters discussed during coun
 
 <p style="line-height:2;margin-top:5px;margin-bottom:0;font-family:sans-serif;font-size:15.5px;"><strong style="font-family:sans-serif;">The Counsellor</strong></p>
 
-<p style="font-size:14.5px; line-height:2;margin-top:0px;font-family:sans-serif;">Mr Vernon Koh | Senior School Counsellor | 65009580 ext 225</p> 
+<p style="font-size:14.5px; line-height:2;margin-top:0px;font-family:sans-serif;">Mr Vernon Koh | Senior School Counsellor | 65009580 ext 225</p>

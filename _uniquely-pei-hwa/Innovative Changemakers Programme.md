@@ -2,15 +2,14 @@
 title: Innovative Changemakers Programme
 permalink: /uniquely-pei-hwa/innovative-changemakers-programme/
 description: ""
+variant: markdown
 ---
 <img style="width: 100%; height: auto;margin-top:30px;margin-bottom:30px;" alt="Image" src="https://raw.githubusercontent.com/isomerpages/moe-peihwasec/staging/images/Uniquely%20Pei%20Hwa/innovativechangemakerprogrammebanner.png">
 
 <h6 style="color:#0B6623;font-family:sans-serif;font-weight:bold;margin-top:30px;"><strong style="font-family:sans-serif;font-size:17px;color:#0B6623;">Our Goals</strong></h6>
-<p style="font-size:14.5px; line-height:2;margin-top:0px; font-family:sans-serif">In our pursuit to foster an innovative mindset among our students, the school's innovation thrust endeavours to create diverse platforms for Pei Hwa students. These platforms serve to
-introduce students to the dynamic innovations of the VUCA world, enabling them to explore, apply, and showcase their innovative ideas and projects.</p>
+<p style="font-size:14.5px; line-height:2;margin-top:0px; font-family:sans-serif">In our pursuit to foster an innovative mindset among our students, the school's innovation thrust endeavours to create diverse platforms for Pei Hwa students. These platforms serve to introduce students to the dynamic innovations of the VUCA world, enabling them to explore, apply, and showcase their innovative ideas and projects.</p>
 
-<p style="font-size:14.5px; line-height:2;margin-top:0px; font-family:sans-serif">Leveraging on our very own Pei Hwa Innovation Cycle, we aim to develop an innovative
-mindset in our students, equipping them with the eight characteristics of an innovator’s mindset as defined by George Couros.</p>
+<p style="font-size:14.5px; line-height:2;margin-top:0px; font-family:sans-serif">Leveraging on our very own Pei Hwa Innovation Cycle, we aim to develop an innovative mindset in our students, equipping them with the eight characteristics of an innovator’s mindset as defined by George Couros.</p>
 
 <h6 style="color:#0B6623;font-family:sans-serif;font-weight:bold;margin-top:30px;"><strong style="font-family:sans-serif;font-size:17px;color:#0B6623;">Our Programmes</strong></h6>
 
@@ -21,7 +20,7 @@ levels to be exposed to, apply and exhibit the innovative mindset:</p>
 
 <ul style="margin-top:-5px;">
 	<li style="font-size:14.5px; line-height:1.5;font-family:sans-serif;">School Wide Programme (Whole school)</li>
-					<li style="font-size:14.5px; line-height:1.5;font-family:sans-serif;margin-bottom:0px;">Talent Development Programme (Students with higher readiness)</li>
+	<li style="font-size:14.5px; line-height:1.5;font-family:sans-serif;margin-bottom:0px;">Talent Development Programme (Students with higher readiness)</li>
 </ul>
 
 <p style="font-size:14.5px; line-height:2;margin-top:0px;font-family:sans-serif;">As part of the tiered student development in Pei Hwa Secondary School, the Innovation Talent Development Programme (TDP) aims to target and select around 30 Secondary 1 to 3 students
@@ -45,8 +44,7 @@ discussion forums, speaker series and workshops.</p>
 <ul style="margin-top:-5px;">
   <li style="font-size:14.5px; line-height:2;margin-top:5px;margin-bottom:0;font-family:sans-serif;">MOE Innovation Programme (MOE IvP)</li>
 	<p style="font-size:14.5px; line-height:2;margin-top:0px;font-family:sans-serif;">MOE Innovation Programme provides a unique opportunity for pupils to develop their problem-solving and thinking skills. In this year-long journey, students will be able to work alongside with Innovation mentors from the partner institutions where they are able to receive quality feedback and mentorship from industrial experts.</p>
-	<p style="font-size:14.5px; line-height:2;margin-top:0px;font-family:sans-serif;">In 2022, a total of 7 teams comprising Secondary 2 and 3 students eagerly
-participated in a competition aimed at generating innovative solutions to foster a more inclusive society or create a sustainable and livable city in Singapore. It fills us with great pride to announce that Pei Hwa has achieved remarkable success, securing 1 Distinction and 6 Merit awards. Furthermore, the team that earned the prestigious Distinction award has been bestowed with the esteemed Tan Kah Kee Young Inventors' Encouragement Award, highlighting their exceptional accomplishments.</p>
+	<p style="font-size:14.5px; line-height:2;margin-top:0px;font-family:sans-serif;">In 2022, a total of 7 teams comprising Secondary 2 and 3 students eagerly participated in a competition aimed at generating innovative solutions to foster a more inclusive society or create a sustainable and livable city in Singapore. It fills us with great pride to announce that Pei Hwa has achieved remarkable success, securing 1 Distinction and 6 Merit awards. Furthermore, the team that earned the prestigious Distinction award has been bestowed with the esteemed Tan Kah Kee Young Inventors' Encouragement Award, highlighting their exceptional accomplishments.</p>
 	  <li style="font-size:14.5px; line-height:2;margin-top:5px;margin-bottom:0;font-family:sans-serif;">Design for Change Singapore Challenge</li>
 	<p style="font-size:14.5px; line-height:2;margin-top:0px;font-family:sans-serif;">The Design for Change Singapore Challenge is one of Singapore’s largest&nbsp;inter-school challenges,&nbsp;recognising young change makers and their meaningful work. Student participants will apply the Design-Thinking problem-solving framework to identify and address community problems and lead social change projects in their own schools, homes, neighbourhood or community.</p>
 	  <li style="font-size:14.5px; line-height:2;margin-top:5px;margin-bottom:0;font-family:sans-serif;">Shell STEM Challenge</li>

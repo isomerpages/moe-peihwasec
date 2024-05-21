@@ -23,9 +23,9 @@ third_nav_title: Direct School Admission
 
 <p style="margin-top:0px;font-size:14.5px; line-height:2;font-family:sans-serif;">Applicants should have:</p>
 
-<ul style="margin-top:-10px;">
-	<li style="font-size:14.5px; line-height:2;font-family:sans-serif;">Talent/experience in: </li>
-	<ul style="margin-top:-10px;">
+<ul style="margin-top:-5px;">
+	<li style="font-size:14.5px; line-height:1.5;font-family:sans-serif;">Talent/experience in: </li>
+	<ul style="margin-top:0px;">
 	<li style="font-size:14.5px; line-height:1.5;font-family:sans-serif;">Mindstorms EV3, SPIKE Prime </li>
 			<li style="font-size:14.5px; line-height:1.5;font-family:sans-serif;">Robocup CoSpace Programming</li>
 			<li style="font-size:14.5px; line-height:1.5;font-family:sans-serif;">FIRST Tech Challenge</li>
@@ -42,8 +42,8 @@ third_nav_title: Direct School Admission
 <p style="font-size:14.5px; line-height:2;font-family:sans-serif;">Note:</p>
 
 <ol style="margin-top:-5px;">
-<li style="font-size:14.5px; line-height:2;font-family:sans-serif;">Applicants who do not have prior experience may also apply. The school will assess applicants based on the selection criteria, which may include assessing the potential of the applicants. </li>
-<li style="font-size:14.5px; line-height:2;font-family:sans-serif;">Meeting all the criteria does not guarantee the applicant will be shortlisted/given an offer. </li>
+<li style="font-size:14.5px; line-height:1.5;font-family:sans-serif;">Applicants who do not have prior experience may also apply. The school will assess applicants based on the selection criteria, which may include assessing the potential of the applicants. </li>
+<li style="font-size:14.5px; line-height:1.5;font-family:sans-serif;">Meeting all the criteria does not guarantee the applicant will be shortlisted/given an offer. </li>
 </ol>
 	
 <h6 style="color:#0B6623;font-family:sans-serif;font-weight:bold;margin-top:30px;"><strong style="font-family:sans-serif;font-size:17px;color:#0B6623;">Selection Process</strong></h6>

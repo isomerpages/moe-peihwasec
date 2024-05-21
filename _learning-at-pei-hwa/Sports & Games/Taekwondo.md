@@ -3,6 +3,7 @@ title: Taekwondo
 permalink: /learning-at-pei-hwa/cca/sports-games/taekwondo/
 description: ""
 third_nav_title: Sports & Games
+variant: markdown
 ---
 <img style="width: 100%; height: auto;margin-top:30px;margin-bottom:30px;" alt="Image" src="https://raw.githubusercontent.com/isomerpages/moe-peihwasec/staging/images/CCA/taekwandobanner.png">
 
@@ -12,10 +13,10 @@ third_nav_title: Sports & Games
 
 <p style="font-size:14.5px; line-height:1.5;margin-top:15px; font-family:sans-serif;">The CCA will enable our students to:</p>
 <ul style="margin-top:-5px;">
-	<li style="font-size:14.5px; line-height:2;font-family:sans-serif;"> cultivate respectful and rational individuals</li>
-	<li style="font-size:14.5px; line-height:2;font-family:sans-serif;"> develop desirable values such as modesty, perseverance and an indomitable spirit</li>
-	<li style="font-size:14.5px; line-height:2;font-family:sans-serif;"> acquire knowledge in Taekwondo and experience stage performances</li>
-		<li style="font-size:14.5px; line-height:2;font-family:sans-serif;margin-bottom:-5px;"> deepen understanding of self-discipline and team collaboration</li>
+	<li style="font-size:14.5px; line-height:1.5;font-family:sans-serif;"> cultivate respectful and rational individuals</li>
+	<li style="font-size:14.5px; line-height:1.5;font-family:sans-serif;"> develop desirable values such as modesty, perseverance and an indomitable spirit</li>
+	<li style="font-size:14.5px; line-height:1.5;font-family:sans-serif;"> acquire knowledge in Taekwondo and experience stage performances</li>
+		<li style="font-size:14.5px; line-height:1.5;font-family:sans-serif;margin-bottom:-5px;"> deepen understanding of self-discipline and team collaboration</li>
 </ul>
 
 <h6 style="color:#0B6623;font-family:sans-serif;font-weight:bold;margin-top:30px;"><strong style="font-family:sans-serif;font-size:17px;color:#0B6623;">Achievements</strong></h6>
@@ -97,10 +98,10 @@ third_nav_title: Sports & Games
 <h6 style="color:#0B6623;font-family:sans-serif;font-weight:bold;margin-top:30px;"><strong style="font-family:sans-serif;font-size:17px;color:#0B6623;">CCA Activities</strong></h6>
 
 <ul style="margin-top:-5px">
-	<li style="font-size:14.5px; line-height:2; font-family:sans-serif;"> Training for students led by the coach</li>
-<li style="font-size:14.5px; line-height:2; font-family:sans-serif;"> National School Games</li>
-<li style="font-size:14.5px; line-height:2; font-family:sans-serif;"> School exchange training with other schools</li>
-	<li style="font-size:14.5px; line-height:2; margin-bottom:-5px;font-family:sans-serif;"> Bonding activities</li>
+	<li style="font-size:14.5px; line-height:1.5; font-family:sans-serif;"> Training for students led by the coach</li>
+<li style="font-size:14.5px; line-height:1.5; font-family:sans-serif;"> National School Games</li>
+<li style="font-size:14.5px; line-height:1.5; font-family:sans-serif;"> School exchange training with other schools</li>
+	<li style="font-size:14.5px; line-height:1.5; margin-bottom:-5px;font-family:sans-serif;"> Bonding activities</li>
 	</ul>
 	
 <h6 style="color:#0B6623;font-family:sans-serif;font-weight:bold;margin-top:30px;"><strong style="font-family:sans-serif;font-size:17px;color:#0B6623;">Student Testament</strong></h6>

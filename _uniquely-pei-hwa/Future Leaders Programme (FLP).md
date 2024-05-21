@@ -2,7 +2,7 @@
 title: Future Leaders Programme (FLP)
 permalink: /uniquely-pei-hwa/future-leader-programme/
 description: ""
-variant: tiptap
+variant: markdown
 ---
 <img style="width: 100%; height: auto;margin-top:30px;margin-bottom:30px;" alt="Image" src="https://raw.githubusercontent.com/isomerpages/moe-peihwasec/staging/images/Uniquely%20Pei%20Hwa/flpbanner.png">
 
