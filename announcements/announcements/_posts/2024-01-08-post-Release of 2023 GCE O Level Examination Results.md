@@ -20,6 +20,20 @@ variant: markdown
 
 <h6 style="color:#0B6623;font-family:sans-serif;font-size:20px;"><strong style="color:#0B6623;font-weight:bold;font-family:sans-serif;font-size:20px;">Resources for Parents</strong></h6>
 
-<p style="font-size:14.5px; line-height:2 ;margin-top:0px; font-family:sans-serif;" class="description">For more resources on providing social and emotional support, affirming your teen, and supporting your teen’s transition through post O-Level education, please refer to: <a href="https://go.gov.sg/selresforparents" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/selresforparents</a>. 
+<p style="font-size:14.5px; line-height:2 ;margin-top:0px; font-family:sans-serif;" class="description">For more resources on providing social and emotional support, affirming your teen, and supporting your teen’s transition through post O-Level education, please refer to: <a href="https://go.gov.sg/selresforparents" style="font-size:14.5px; line-height:1.5;font-family:sans-serif;font-weight:bold;text-decoration: none;">https://go.gov.sg/selresforparents</a>. You can access ECG resources via the What’s Next pamphlet (<a href="https://go.gov.sg/whats-next-olevel" rel="noopener noreferrer nofollow" target="_blank" style="font-size:14.5px; line-height:1.5;font-family:sans-serif;font-weight:bold;text-decoration: none;">https://go.gov.sg/whats-next-olevel</a>) and the MySkillsFuture Student Portal (<a href="https://go.gov.sg/MySFSec" rel="noopener noreferrer nofollow" target="_blank" style="font-size:14.5px; line-height:1.5;font-family:sans-serif;font-weight:bold;text-decoration: none;">https://go.gov.sg/MySFSec</a>).</p>
 
-</p>
+<h6 style="color:#0B6623;font-family:sans-serif;font-size:20px;"><strong style="color:#0B6623;font-weight:bold;font-family:sans-serif;font-size:20px;">ECG Counselling Services</strong></h6>
+
+<p style="font-size:14.5px; line-height:2 ;margin-top:0px; font-family:sans-serif;" class="description">For ECG counselling services, students may contact the ECG Counsellor in their schools or make an ECG counselling appointment with the ECG Centre @ MOE (Grange Road) between 4 and 18 January 2024 via</p>
+
+<ul style="margin-top:-5px" data-tight="true" class="tight">
+	<li style="font-size:14.5px; line-height:1.5; font-family:sans-serif;">Email: 
+		<a href="mailto:moe_ecg@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank" style="font-size:14.5px; line-height:1.5;font-family:sans-serif;font-weight:bold;text-decoration: none;">moe_ecg@moe.gov.sg</a></li>
+</ul>
+
+<p style="font-size:14.5px; line-height:2 ;margin-top:0px; font-family:sans-serif;" class="description">Appointment booking form: <a href="https://go.gov.sg/moe-ecg-centre" rel="noopener noreferrer nofollow" target="_blank" style="font-size:14.5px; line-height:1.5;font-family:sans-serif;font-weight:bold;text-decoration: none;">https://go.gov.sg/moe-ecg-centre</a></p>
+
+<p style="font-size:14.5px; line-height:2 ;margin-top:0px; font-family:sans-serif;" class="description">All the best to all students getting their results on Thursday!</p>
+
+
+
