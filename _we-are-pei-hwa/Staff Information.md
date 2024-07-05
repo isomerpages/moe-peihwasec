@@ -122,7 +122,7 @@ variant: markdown
 <strong style="font-family:sans-serif;">School Staff Developer</strong>
 </td>
 <td style="text-align:center; border: 1px solid #dddfe1;font-family:sans-serif;">Mr Teo Eng Tong </td>
-<td style="text-align:center; border: 1px solid #dddfe1;font-family:sans-serif;">teo_eng_tong@moe.edu.sg</td>
+<td style="text-align:center; border: 1px solid #dddfe1;font-family:sans-serif;">eng_tong_teo@moe.edu.sg</td>
 </tr>
 	
 <tr>
