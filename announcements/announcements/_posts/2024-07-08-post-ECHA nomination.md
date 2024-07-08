@@ -7,3 +7,4 @@ description: ""
 image: ""
 variant: markdown
 ---
+![](/images/Announcement/3b__ECHA_Poster_Students.png)
