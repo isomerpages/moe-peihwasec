@@ -18,7 +18,7 @@ variant: markdown
 <p style="margin-top:15px;font-size:15.5px;"><strong style="font-family:sans-serif;">»&nbsp;Instructions to Students</strong></p>
 
 <ul style="margin-top:-5px;">
-<li style="font-size:14.5px; line-height:1.5;font-family:sans-serif;"><a href="https://drive.google.com/file/d/1zze4BCpJELyFj3Ym0pwRQEtZmpvV3ob3/view" style="font-size:14.5px; line-height:1.5;font-family:sans-serif;font-weight:bold;text-decoration: none;">Student’s Guide on Zoom and Google Meet</a>
+<li style="font-size:14.5px; line-height:1.5;font-family:sans-serif;"><a href="https://drive.google.com/file/d/1my3oGr0n-c9vY9HK-Q-Gh36wT-61io4p/view?usp=sharing" style="font-size:14.5px; line-height:1.5;font-family:sans-serif;font-weight:bold;text-decoration: none;">Student’s Guide on Zoom and Google Meet</a>
 	</li>
 <li style="font-size:14.5px; line-height:1.5;font-family:sans-serif;"><a href="https://peihwasec.moe.edu.sg/lp_announcement/quick-start" style="font-size:14.5px; line-height:1.5;font-family:sans-serif;font-weight:bold;text-decoration: none;">Quick Start in Using Zoom</a>
 	</li>
