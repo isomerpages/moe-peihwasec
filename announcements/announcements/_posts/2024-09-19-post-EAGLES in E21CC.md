@@ -17,12 +17,33 @@ variant: markdown
 
 <p style="font-size:14.5px; line-height:2;margin-top:0px;font-family:sans-serif;">E21CC comprise knowledge, skills, dispositions and values that enable a person to meet complex demands in specific contexts.</p>
 
+<ul style="margin-top:-5px;">
+<li style="font-size:14.5px; line-height:1.5;font-family:sans-serif;"><strong style="font-family:sans-serif;">Critical Thinking </strong>refers to the ability to exercise sound reasoning and metacognitive thinking to interpret and analyse information and evidence, draw conclusions, make decisions, and solve problems.</li>
+<li style="font-size:14.5px; line-height:1.5;font-family:sans-serif;"><strong style="font-family:sans-serif;">Adaptive Thinking</strong> refers to the ability to apply learnt knowledge and skills strategically and with flexibility in different or new and evolving contexts.</li>
+	<li style="font-size:14.5px; line-height:1.5;font-family:sans-serif;"><strong style="font-family:sans-serif;">Inventive Thinking </strong>&nbsp;refers to the ability to frame, investigate and explore issues, generate innovative ideas, and evaluate them to form novel and useful responses.</li>
+	<li style="font-size:14.5px; line-height:1.5;font-family:sans-serif;"><strong style="font-family:sans-serif;">Effective communication </strong> refers to the ability to convey information and exchange ideas clearly and coherently through multimodal ways for specific purposes, audiences and contexts.</li>
+	<li style="font-size:14.5px; line-height:1.5;font-family:sans-serif;"><strong style="font-family:sans-serif;">Effective collaboration</strong> refers to the ability to work together in a respectful manner to share responsibilities and make collective decisions to meet shared goals.</li>
+	<li style="font-size:14.5px; line-height:1.5;font-family:sans-serif;"><strong style="font-family:sans-serif;">Information Skills</strong> refer to the ability to source for, select, evaluate and synthesise digital and non-digital information with discernment. It also entails ethical and responsible practices when using, sharing and creating information.</li>
+	<li style="font-size:14.5px; line-height:1.5;font-family:sans-serif;"><strong style="font-family:sans-serif;">Civic Literacy</strong> refers to the ability to understand the nation’s values, governance, context and realities, form one’s civic identity, and constructively engage with and contribute to one’s community and nation.</li>
+	<li style="font-size:14.5px; line-height:1.5;font-family:sans-serif;"><strong style="font-family:sans-serif;">Global Literacy </strong>refers to the ability to understand and think with discernment about world issues and interact responsibly and constructively with people from and beyond Singapore on such issues.</li>
+	<li style="font-size:14.5px; line-height:1.5;font-family:sans-serif;"><strong style="font-family:sans-serif;">Cross-Cultural Literacy </strong>refers to the ability to sensitively understand, appreciate and interact with different social, cultural and religious communities and their perspectives.</li>
+</ul>
 
+<p style="margin-top:15px;font-size:15.5px;margin-bottom:0;"><u style="font-family:sans-serif;">Eligibility criteria</u></p>
 
-<p style="font-size:14.5px; line-height:2;margin-top:0px;font-family:sans-serif;">For more information on the scholarship you may refer to the following document: <a href="https://drive.google.com/file/d/13SOXVclgpMKWnKHTQpYtIUPvLRKINYRP/view?usp=share_link" style="font-size:14.5px; line-height:1.5;font-family:sans-serif;font-weight:bold;text-decoration: none;">General Info</a></p>
+<ol style="margin-top:-5px;">
+<li style="font-size:14.5px; line-height:1.5;font-family:sans-serif;">Singapore Citizen</li>
+<li style="font-size:14.5px; line-height:1.5;font-family:sans-serif;">Attain a conduct grade of ‘Good’ or better;</li>
+	<li style="font-size:14.5px; line-height:1.5;font-family:sans-serif;">Nominated for demonstrating E21CC by teachers, students and public.
+		<p style="margin-top:15px;font-size:15.5px;margin-bottom:0;">There should be minimally 2 observations of nominee demonstrating the identified E21CC:</p>
+		<ul style="margin-top:0px;">
+<li style="font-size:14.5px; line-height:1.5;font-family:sans-serif;">in different contexts (e.g., an observation in Math class, and a similar observation in CCA) or</li>
+<li style="font-size:14.5px; line-height:1.5;font-family:sans-serif;">over a period of time in the same context (e.g., observation of the E21CC over time in a school-based programme that all students participate in)</li>
 
-<p style="font-size:14.5px; line-height:2;margin-top:0px;font-family:sans-serif;">Application for Pei Hwa Foundation Scholarship 2023 is now OPEN!!!<br><a href="https://go.gov.sg/2023phfscholarship" style="font-size:14.5px; line-height:1.5;font-family:sans-serif;font-weight:bold;text-decoration: none;">https://go.gov.sg/2023phfscholarship</a></p>
+</ul></li></ol>
 
-<p style="font-size:14.5px; line-height::2;margin-top:0px;font-family:sans-serif;">The Pei Hwa Foundation (PHF) is offering the Pei Hwa Foundation Scholarship to outstanding Pei Hwa Alumni Youth Wing students who have been achieving good results in their tertiary education and also consistently contributed back to Pei Hwa Secondary School as an Alumni member.</p>
+<p style="margin-top:15px;font-size:15.5px;margin-bottom:0;"><u style="font-family:sans-serif;">Nomination</u></p>
 
-<p style="font-size:14.5px; line-height:2;margin-top:0px;font-family:sans-serif;">Period for application: 21 April 2023 to 5 May 2023</p>
+<p style="font-size:14.5px; line-height:2;margin-top:0px;font-family:sans-serif;">Students and parents are invited to nominate eligible and deserving students via this link:<a href="https://form.gov.sg/66cc9c82ffe8274d31d77da0" style="font-size:14.5px; line-height:1.5;font-family:sans-serif;font-weight:bold;text-decoration: none;"> https://form.gov.sg/66cc9c82ffe8274d31d77da0</a></p>
+
+<p style="font-size:14.5px; line-height:2;margin-top:0px;font-family:sans-serif;">The closing date for nominations is 17 Sep 2024.</p>
