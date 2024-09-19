@@ -46,4 +46,4 @@ variant: markdown
 
 <p style="font-size:14.5px; line-height:2;margin-top:0px;font-family:sans-serif;">Students and parents are invited to nominate eligible and deserving students via this link:<a href="https://form.gov.sg/66cc9c82ffe8274d31d77da0" style="font-size:14.5px; line-height:1.5;font-family:sans-serif;font-weight:bold;text-decoration: none;"> https://form.gov.sg/66cc9c82ffe8274d31d77da0</a></p>
 
-<p style="font-size:14.5px; line-height:2;margin-top:0px;font-family:sans-serif;">The closing date for nominations is 17 Sep 2024.</p>
+<p style="font-size:14.5px; line-height:2;margin-top:0px;font-family:sans-serif;">The closing date for nominations is 04 October 2024.</p>
