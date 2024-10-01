@@ -8,7 +8,7 @@ image: ""
 variant: markdown
 ---
 <p style="font-size:14.5px; line-height:2;margin-top:0px;font-family:sans-serif;">Dear Parent/Guardian,</p>
-<p style="font-size:14.5px; line-height:2;margin-top:0px;font-family:sans-serif;margin-left: 17px;">The application for MOE Financial Assistance Scheme 2024 is open. Please view the pamphlet and application form below. Please view the pamphlet and application form below.
+<p style="font-size:14.5px; line-height:2;margin-top:0px;font-family:sans-serif;margin-left: 17px;">The application for MOE Financial Assistance Scheme 2025 is open. Please view the pamphlet and application form below. Please view the pamphlet and application form below.
 </p>
 
 <ol style="margin-top:-5px;margin-left: 50px;">
