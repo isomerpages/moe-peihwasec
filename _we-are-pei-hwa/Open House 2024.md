@@ -8,3 +8,4 @@ variant: markdown
 Please visit our <strong><a href="https://go.gov.sg/phssopenhouse" rel="noopener noreferrer nofollow" target="_blank">microsite </a></strong>for
 more information!</p>
 
+<img style="width: 100%; height: auto;margin-top:30px;margin-bottom:30px;" alt="Image" src="/images/MOTD_Open_House__1_.jpg">
