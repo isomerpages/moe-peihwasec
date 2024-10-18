@@ -8,9 +8,9 @@ notification: ""
 sections:
   - hero:
       key_highlights:
-        - title: social media
-          description: Follow us on Instagram!
-          url: https://www.instagram.com/phssofficial/
+        - title: Open House 2024
+          description: Explore our microsite here
+          url: https://go.gov.sg/phssopenhouse
         - title: Vision | Mission | Values
           description: The Heart of Pei Hwa
           url: /we-are-pei-hwa/our-vision-mission-and-values/
