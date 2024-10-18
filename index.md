@@ -9,7 +9,7 @@ sections:
   - hero:
       key_highlights:
         - title: Open House 2024
-          description: Check out our microsite
+          description: Explore our microsite here
           url: go.gov.sg/phssopenhouse
         - title: Vision | Mission | Values
           description: The Heart of Pei Hwa
