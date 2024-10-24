@@ -28,19 +28,19 @@ variant: markdown
 		<ul style="margin-top:-5px"> 
 			<li style="font-size:14.5px;margin-bottom:-5px;font-family:sans-serif;line-height:1.5;">OnStage U19 2<sup style="font-family:sans-serif;">nd</sup> Place - Chang Guan Zheng (Justin) (4D9),
 Yan Ging Git (Zhen Jingjie) (4D9), Chong Yun Ting Felicia (3I4), Thiyagarajan Santosh (2R8), Kyler Ang Yi Kai (1P7)</li>
-         <li style="font-size:14.5px;margin-bottom:-5px;font-family:sans-serif;line-height:1.5;">Autonomous Driving U19 1<sup style="font-family:sans-serif;">st</sup> Place - HENG SHENG JUN ASHTON(4D5), ELVIN TAN ZHEN HONG (1P3)</li>
-			<li style="font-size:14.5px;margin-bottom:-5px;font-family:sans-serif;line-height:1.5;">Autonomous Driving U19 Judges Award - 4D1 EMIL AZKIPUTRASHA, 1P8 IAN TAN WEI EN</li>
-			<li style="font-size:14.5px;margin-bottom:-5px;font-family:sans-serif;line-height:1.5;">Autonomous Driving U19 Judges Award - 4D4 TAY KAI YI, 1P5 GOH YING WEI AYDEN</li>
-			<li style="font-size:14.5px;margin-bottom:-5px;font-family:sans-serif;line-height:1.5;">Autonomous Driving U19 Superteam 1<sup style="font-family:sans-serif;">st</sup> Place - 3I8 TU JINGYANG, 2R1 YU JIA RONG ZENDEN</li>
-			<li style="font-size:14.5px;margin-bottom:-5px;font-family:sans-serif;line-height:1.5;">Cospace Rescue Firststeps U12 1<sup style="font-family:sans-serif;">st</sup> Place - 1P7 KINGZLY YEW MIN JIN, 1P4 AYSON BAYER SPAIN, 1P5 EVAN LIM YUE ZE </li>
-			<li style="font-size:14.5px;margin-bottom:-5px;font-family:sans-serif;line-height:1.5;">Cospace Rescue Firststeps U12 2<sup style="font-family:sans-serif;">nd</sup> Place - 1P3 IAN LIM KIAN CHEE, 1P9 RAYMOND ONG JIAN YU</li>
-			<li style="font-size:14.5px;margin-bottom:-5px;font-family:sans-serif;line-height:1.5;">Cospace Rescue Firststeps U12 3<sup style="font-family:sans-serif;">rd</sup> Place - 1P8 JORDON LIM JIACHENG, 1P8 TOH YU ZHE, LUCAS</li>
-			<li style="font-size:14.5px;margin-bottom:-5px;font-family:sans-serif;line-height:1.5;">Cospace Rescue Firststeps U19 2<sup style="font-family:sans-serif;">nd</sup> Place - 2R7 Mohammed Haziq Bin Mohammed Riduan, 2R8 SETH MICAH IMPUERTO GONIDA</li>
-			<li style="font-size:14.5px;margin-bottom:-5px;font-family:sans-serif;line-height:1.5;">Cospace Rescue Firststeps U19 3<sup style="font-family:sans-serif;">rd</sup> Place - 3I7 GAVRIEL LEE KHONG YIH, 3I8 ELKAN SIN YEW KEN</li>
+         <li style="font-size:14.5px;margin-bottom:-5px;font-family:sans-serif;line-height:1.5;">Autonomous Driving U19 1<sup style="font-family:sans-serif;">st</sup> Place - Heng Sheng Jun Ashton (4D5), Elvin Tan Zhen Hong (1P3)</li>
+			<li style="font-size:14.5px;margin-bottom:-5px;font-family:sans-serif;line-height:1.5;">Autonomous Driving U19 Judges Award - Emil Azkiputrasha (4D1), Ian Tan Wei En (1P8)</li>
+			<li style="font-size:14.5px;margin-bottom:-5px;font-family:sans-serif;line-height:1.5;">Autonomous Driving U19 Judges Award - Tay Kai Yi (4D4), Goh Ying Wei Ayden (1P5)</li>
+			<li style="font-size:14.5px;margin-bottom:-5px;font-family:sans-serif;line-height:1.5;">Autonomous Driving U19 Superteam 1<sup style="font-family:sans-serif;">st</sup> Place - Tu Jingyang (3I8), Yu Jia Rong Zenden (2R1)</li>
+			<li style="font-size:14.5px;margin-bottom:-5px;font-family:sans-serif;line-height:1.5;">Cospace Rescue Firststeps U12 1<sup style="font-family:sans-serif;">st</sup> Place - Kingzly Yew Min Jin (1P7), Ayson Bayer Spain (1P4), Evan Lim Yue Ze (1P5) </li>
+			<li style="font-size:14.5px;margin-bottom:-5px;font-family:sans-serif;line-height:1.5;">Cospace Rescue Firststeps U12 2<sup style="font-family:sans-serif;">nd</sup> Place - Ian Lim Kian Chee (1P3), Raymond Ong Jian Yu (1P9)</li>
+			<li style="font-size:14.5px;margin-bottom:-5px;font-family:sans-serif;line-height:1.5;">Cospace Rescue Firststeps U12 3<sup style="font-family:sans-serif;">rd</sup> Place - Jordon Lim Jiacheng (1P8), Toh Yu Zhe, Lucas (1P8)</li>
+			<li style="font-size:14.5px;margin-bottom:-5px;font-family:sans-serif;line-height:1.5;">Cospace Rescue Firststeps U19 2<sup style="font-family:sans-serif;">nd</sup> Place - Mohammed Haziq Bin Mohammed Riduan (2R7), Seth Micah Impuerto Gonida (2R8)</li>
+			<li style="font-size:14.5px;margin-bottom:-5px;font-family:sans-serif;line-height:1.5;">Cospace Rescue Firststeps U19 3<sup style="font-family:sans-serif;">rd</sup> Place - Gavriel Lee Khong Yih (3I7), Elkan Sin Yew Ken (3I8)</li>
 		</ul>
 		<strong style="font-family:sans-serif;font-size:15px;">NATIONAL ROBOTICS COMPETITION</strong>
 		<ul style="margin-top:-5px"> 
-			<li style="font-size:14.5px;margin-bottom:-5px;font-family:sans-serif;line-height:1.5;">CoSpace Autonomous Driving Virtual Robot Challenge Judge’s Award - 1P3 ELVIN TAN ZHEN HONG, 2R8 GALEN TEOW ZI YU</li>
+			<li style="font-size:14.5px;margin-bottom:-5px;font-family:sans-serif;line-height:1.5;">CoSpace Autonomous Driving Virtual Robot Challenge Judge’s Award - Elvin Tan Zhen Hong (1P3), Galen Teow Zi Yu (2R8)</li>
 		</ul>
 	</td>
 </tr>
