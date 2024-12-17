@@ -23,7 +23,9 @@ variant: markdown
 		<tr>
 			<td style="background-color:#0C6523; font-weight: bold; font-size: 14.5px;font-family:sans-serif; border: 1px solid #54585d; color:white;border-bottom: 1px solid #dddddd;">19 Dec 2024<br>1pm – 3pm<br><br>20, 23 Dec 2024<br>
 26, 27, 30 Dec 2024<br>9am – 3pm</td>
-			<td style="border: 1px solid #dddfe1;font-size: 14.5px;font-family:sans-serif;">Purchase/ collection of School Textbooks and Uniform in Pei Hwa Secondary School<br><br>Strictly via booking appointment ONLY. Booking link will be released on day of posting results.</td>
+			<td style="border: 1px solid #dddfe1;font-size: 14.5px;font-family:sans-serif;">Purchase/ collection of School Textbooks and Uniform in Pei Hwa Secondary School<br><br>Strictly via booking appointment ONLY. Please refer to the following link to book an appointment: <a href="https://www.pacificbookstores.com/login" style="font-size:14.5px; line-height:1.5;font-family:sans-serif;font-weight:bold;text-decoration: none;">https://www.pacificbookstores.com/login</a><br><br>
+Click <a href="https://www.pacificbookstores.com/login" style="font-size:14.5px; line-height:1.5;font-family:sans-serif;font-weight:bold;text-decoration: none;">here</a> for the booklist.
+			</td>
 		</tr>
 		
 </tbody>
