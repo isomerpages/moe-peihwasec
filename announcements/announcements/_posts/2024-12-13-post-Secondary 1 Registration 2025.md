@@ -37,7 +37,7 @@ variant: markdown
 <li style="font-size:14.5px; line-height:2;font-family:sans-serif;">Should you require any assistance, you may e-mail the school at <a href="mailto:peihwasec@moe.edu.sg" style="font-size:14.5px; line-height:1.5;font-family:sans-serif;font-weight:bold;text-decoration: none;">peihwasec@moe.edu.sg</a> or call 65009580 (Please be patient with us we are expecting high volumes of traffic regarding Sec 1 registration during this period).</li>
 </ul>
 
-<p style="margin-top:10px;font-size:14.5px; line-height:2;font-family:sans-serif;">	<strong style="font-family:sans-serif;">Subjects offered at More Demanding Level (MDL)</strong></p>
+<p style="margin-top:10px;font-size:14.5px; line-height:2;font-family:sans-serif;">	<strong style="font-family:sans-serif;">Subjects offered at More Demanding Levels (MDL)</strong></p>
 	
 <p style="margin-top:10px;font-size:14.5px; line-height:2;font-family:sans-serif;"></p><ul style="margin-top:-5px;">
 <li style="font-size:14.5px; line-height:2;font-family:sans-serif;">If your child is eligible for Subject-Based Banding (SBB) subjects, you will receive a notification from the school via Parents Gateway <strong style="font-family:sans-serif;"> by 19 December</strong>.  Parents are to follow the instructions accompanying the form on accepting or rejecting the offer.  If you are accepting the offer, do remember to purchase the relevant SBB subject textbooks.</li>
