@@ -8,9 +8,9 @@ notification: ""
 sections:
   - hero:
       key_highlights:
-        - title: Open House 2024
-          description: Explore our microsite here
-          url: https://go.gov.sg/phssopenhouse
+        - title: Secondary 1 Registration 2025
+          description: ""
+          url: https://go.gov.sg/lp-announcement/secondary-1-registration/
         - title: Vision | Mission | Values
           description: The Heart of Pei Hwa
           url: /we-are-pei-hwa/our-vision-mission-and-values/

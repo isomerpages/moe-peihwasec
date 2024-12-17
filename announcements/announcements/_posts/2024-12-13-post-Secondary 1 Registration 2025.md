@@ -23,7 +23,9 @@ variant: markdown
 		<tr>
 			<td style="background-color:#0C6523; font-weight: bold; font-size: 14.5px;font-family:sans-serif; border: 1px solid #54585d; color:white;border-bottom: 1px solid #dddddd;">19 Dec 2024<br>1pm – 3pm<br><br>20, 23 Dec 2024<br>
 26, 27, 30 Dec 2024<br>9am – 3pm</td>
-			<td style="border: 1px solid #dddfe1;font-size: 14.5px;font-family:sans-serif;">Purchase/ collection of School Textbooks and Uniform in Pei Hwa Secondary School<br><br>Strictly via booking appointment ONLY. Booking link will be released on day of posting results.</td>
+			<td style="border: 1px solid #dddfe1;font-size: 14.5px;font-family:sans-serif;">Purchase/ collection of School Textbooks and Uniform in Pei Hwa Secondary School<br><br>Strictly via booking appointment ONLY. Please refer to the following link to book an appointment: <a href="https://www.pacificbookstores.com/login" style="font-size:14.5px; line-height:1.5;font-family:sans-serif;font-weight:bold;text-decoration: none;">https://www.pacificbookstores.com/login</a><br><br>
+Click <a href="https://drive.google.com/file/d/1s8WW2w4z05LGdQgkZN-hSBshvEiPy7LE/view?usp=drive_link" style="font-size:14.5px; line-height:1.5;font-family:sans-serif;font-weight:bold;text-decoration: none;">here</a> for the booklist.
+			</td>
 		</tr>
 		
 </tbody>
@@ -37,10 +39,10 @@ variant: markdown
 <li style="font-size:14.5px; line-height:2;font-family:sans-serif;">Should you require any assistance, you may e-mail the school at <a href="mailto:peihwasec@moe.edu.sg" style="font-size:14.5px; line-height:1.5;font-family:sans-serif;font-weight:bold;text-decoration: none;">peihwasec@moe.edu.sg</a> or call 65009580 (Please be patient with us we are expecting high volumes of traffic regarding Sec 1 registration during this period).</li>
 </ul>
 
-<p style="margin-top:10px;font-size:14.5px; line-height:2;font-family:sans-serif;">	<strong style="font-family:sans-serif;">Subject-Based Banding (SBB)</strong></p>
+<p style="margin-top:10px;font-size:14.5px; line-height:2;font-family:sans-serif;">	<strong style="font-family:sans-serif;">Subjects offered at More Demanding Levels (MDL)</strong></p>
 	
 <p style="margin-top:10px;font-size:14.5px; line-height:2;font-family:sans-serif;"></p><ul style="margin-top:-5px;">
-<li style="font-size:14.5px; line-height:2;font-family:sans-serif;">If your child is eligible for Subject-Based Banding (SBB) subjects, you will receive a notification from the school via Parents Gateway <strong style="font-family:sans-serif;"> by 19 December</strong>.  Parents are to follow the instructions accompanying the form on accepting or rejecting the offer.  If you are accepting the offer, do remember to purchase the relevant SBB subject textbooks.</li>
+<li style="font-size:14.5px; line-height:2;font-family:sans-serif;">If your child is eligible to take a subject at a more demanding level, you will receive a notification from the school via Parents Gateway <strong style="font-family:sans-serif;"> by 19 December</strong>.  Parents are to follow the instructions accompanying the form on accepting or rejecting the offer.  If you are accepting the offer, do remember to purchase the relevant SBB subject textbooks.</li>
 </ul><p></p>
 
 <p style="margin-top:10px;font-size:14.5px; line-height:2;font-family:sans-serif;">	<strong style="font-family:sans-serif;">Higher Mother Tongue</strong></p>
@@ -50,11 +52,13 @@ variant: markdown
 </ul><p></p>
 
 <h3 style="margin-top:10px;font-weight: bold;color:#000000">Appeals for Transfer into Pei Hwa Secondary School (non-medical)</h3>
-<p style="font-size:14.5px; line-height:2;margin-top:15px; font-family:sans-serif;">Coming soon. </p>
+<p style="font-size:14.5px; line-height:2;margin-top:15px; font-family:sans-serif;">The deadline for the submission of appeals is on 27 December 2024 (Friday), 12:00pm. Late submissions will not be allowed.
+If you meet the Cut-off Point (COP) for the respective posting groups and would like to appeal to Pei Hwa Secondary School, you may submit an appeal via the link: <a href="https://go.gov.sg/phssappeal2025" style="font-size:14.5px; line-height:1.5;font-family:sans-serif;font-weight:bold;text-decoration: none;">https://go.gov.sg/phssappeal2025</a></p>
 
 <h3 style="margin-top:10px;font-weight: bold;color:#000000">2025 Cohort Sec 1 Uniform and Textbook Purchases</h3>
-<p style="font-size:14.5px; line-height:2;margin-top:15px; font-family:sans-serif;">Parents are to make a booking via the link (coming soon) to enter Pei Hwa Secondary School. You can use this time to purchase textbooks and/or uniforms.</p>
-<p style="font-size:14.5px; line-height:2;margin-top:15px; font-family:sans-serif;">* Do note that in the event of uniform sizes unavailability, do be assured that the school has made flexible arrangements
+<p style="font-size:14.5px; line-height:2;margin-top:15px; font-family:sans-serif;">Parents are to make a booking via the link 
+<a href="https://www.pacificbookstores.com/login" style="font-size:14px; line-height:1.5;font-family:sans-serif;font-weight:bold;text-decoration: none;">https://www.pacificbookstores.com/login</a> to enter Pei Hwa Secondary School. You can use this time to purchase textbooks and/or uniforms.</p>
+<p style="font-size:14.5px; line-height:2;margin-top:15px; font-family:sans-serif;">* Please click <a href="https://drive.google.com/file/d/1hljVZB2EQQWmGpJJBYo4NRHVO7oncftg/view?usp=drive_link" style="font-size:14.5px; line-height:1.5;font-family:sans-serif;font-weight:bold;text-decoration: none;">here</a>  for instructions on the purchase of school uniform. Do note that in the event of uniform sizes unavailability, do be assured that the school has made flexible arrangements
 should there be a need for your child to wear their primary school attire for the first week of school.</p>
 <p style="font-size:14.5px; line-height:2;margin-top:15px; font-family:sans-serif;">*Due to limited parking lots, parents are encouraged to park at the following public car parks that are conveniently located
 near the school:</p>
