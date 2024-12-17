@@ -10,7 +10,7 @@ sections:
       key_highlights:
         - title: Secondary 1 Registration 2025
           description: ""
-          url: https://go.gov.sg/
+          url: https://go.gov.sg/lp-announcement/secondary-1-registration/
         - title: Vision | Mission | Values
           description: The Heart of Pei Hwa
           url: /we-are-pei-hwa/our-vision-mission-and-values/
