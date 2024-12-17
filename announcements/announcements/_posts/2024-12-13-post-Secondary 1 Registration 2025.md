@@ -56,8 +56,9 @@ Click <a href="https://drive.google.com/file/d/1s8WW2w4z05LGdQgkZN-hSBshvEiPy7LE
 If you meet the Cut-off Point (COP) for the respective posting groups and would like to appeal to Pei Hwa Secondary School, you may submit an appeal via the link: <a href="https://go.gov.sg/phssappeal2025" style="font-size:14.5px; line-height:1.5;font-family:sans-serif;font-weight:bold;text-decoration: none;">https://go.gov.sg/phssappeal2025</a></p>
 
 <h3 style="margin-top:10px;font-weight: bold;color:#000000">2025 Cohort Sec 1 Uniform and Textbook Purchases</h3>
-<p style="font-size:14.5px; line-height:2;margin-top:15px; font-family:sans-serif;">Parents are to make a booking via the link (coming soon) to enter Pei Hwa Secondary School. You can use this time to purchase textbooks and/or uniforms.</p>
-<p style="font-size:14.5px; line-height:2;margin-top:15px; font-family:sans-serif;">* Do note that in the event of uniform sizes unavailability, do be assured that the school has made flexible arrangements
+<p style="font-size:14.5px; line-height:2;margin-top:15px; font-family:sans-serif;">Parents are to make a booking via the link 
+<a href="https://www.pacificbookstores.com/login" style="font-size:14px; line-height:1.5;font-family:sans-serif;font-weight:bold;text-decoration: none;">https://www.pacificbookstores.com/login</a> to enter Pei Hwa Secondary School. You can use this time to purchase textbooks and/or uniforms.</p>
+<p style="font-size:14.5px; line-height:2;margin-top:15px; font-family:sans-serif;">* Please click <a href="https://drive.google.com/file/d/1hljVZB2EQQWmGpJJBYo4NRHVO7oncftg/view?usp=drive_link" style="font-size:14.5px; line-height:1.5;font-family:sans-serif;font-weight:bold;text-decoration: none;">here</a>  for instructions on the purchase of school uniform. Do note that in the event of uniform sizes unavailability, do be assured that the school has made flexible arrangements
 should there be a need for your child to wear their primary school attire for the first week of school.</p>
 <p style="font-size:14.5px; line-height:2;margin-top:15px; font-family:sans-serif;">*Due to limited parking lots, parents are encouraged to park at the following public car parks that are conveniently located
 near the school:</p>
