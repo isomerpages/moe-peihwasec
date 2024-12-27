@@ -236,8 +236,8 @@ variant: markdown
 		
 <tr>
 <td style="text-align:center; border: 1px solid #dddfe1;"><strong style="font-family:sans-serif;">Lead Teacher <br> Social Studies</strong></td>
-<td style="text-align:center; border: 1px solid #dddfe1;font-family:sans-serif;">Mr Tan Aik Fong</td>
-<td style="text-align:center; border: 1px solid #dddfe1;font-family:sans-serif;">tan_aik_fong@moe.edu.sg</td>
+<td style="text-align:center; border: 1px solid #dddfe1;font-family:sans-serif;">Mdm Lin Airong Michelle (Mrs Neo)</td>
+<td style="text-align:center; border: 1px solid #dddfe1;font-family:sans-serif;">lin_airong_michelle@moe.edu.sg</td>
 </tr>
 		
 <tr>
@@ -259,7 +259,7 @@ variant: markdown
 </tr>
 	
 <tr>
-<td style="text-align:center; border: 1px solid #dddfe1;"><strong style="font-family:sans-serif;">Operations Manager <br> (Safety &amp; Security)</strong></td>
+<td style="text-align:center; border: 1px solid #dddfe1;"><strong style="font-family:sans-serif;">Adjunct <br> Operations Manager</strong></td>
 <td style="text-align:center; border: 1px solid #dddfe1;font-family:sans-serif;">Mr Tam Wai Seng</td>
 <td style="text-align:center; border: 1px solid #dddfe1;font-family:sans-serif;">tam_wai_seng@moe.edu.sg</td>
 </tr>
