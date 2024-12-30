@@ -42,7 +42,7 @@ variant: markdown
 	
 <div style="flex: 1;border: 1px solid #ccc; padding: 10px 10px; display: flex; flex-direction: column;width:100%;gap: 10px;margin: 10px; background-color:white;background-color: #0B6623;flex: 0 0 calc(33.33% - 20px);" class="box">  
 	<div style="flex: 1;" class="content"> 
-		<h5 style="text-align:center;padding-top:7px;"><a href="https://rent-a-locker.com/" style="color:#FDBC58;font-family:sans-serif;font-weight:bold;font-size:18px;text-decoration: none;text-align:center;">Rent A Locker</a>
+		<h5 style="text-align:center;padding-top:7px;"><a href="https://rent-a-locker.com/" style="color:#FDBC58;font-family:sans-serif;font-weight:bold;font-size:18px;text-decoration: none;text-align:center;">Locker Rental</a>
 		</h5>  
 	</div> 
 </div>
