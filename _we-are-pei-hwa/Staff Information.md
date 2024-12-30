@@ -336,22 +336,12 @@ variant: markdown
 <td style="text-align:center; border: 1px solid #dddfe1;font-family:sans-serif;">lu_yitong@moe.edu.sg<br>ong_jun_ming_gary@moe.edu.sg</td>
 </tr>
 	
-<tr>
-<td style="text-align:center; border: 1px solid #dddfe1;">
-<strong style="font-family:sans-serif;">Passion 9</strong>
-</td>
-<td style="text-align:center; border: 1px solid #dddfe1;font-family:sans-serif;">Mr Neo Peck Wee Joel <br>Mr Ct Karuppiah Arasu
-</td>
-<td style="text-align:center; border: 1px solid #dddfe1;font-family:sans-serif;">neo_peck_wee_joel@moe.edu.sg<br>ct_karuppiah_arasu@moe.edu.sg
-</td>
-</tr>
-	
 </tbody>
 </table>
 </div>
 </li>
 
-<li><input id="accordion3" type="checkbox"> <label for="accordion3" style="font-family:sans-serif;">Secondary 2 Classes 2024</label>
+<li><input id="accordion3" type="checkbox"> <label for="accordion3" style="font-family:sans-serif;">Secondary 2 Classes 2025</label>
 <div>
 <table style="width:100%" border="1">
 <thead style="background-color: #54585d; font-weight: bold; font-size: 15.5px; border: 1px solid #54585d;">
@@ -364,89 +354,73 @@ variant: markdown
 <tbody style="font-size:14.5px; line-height: 1.5;">
 <tr>
 <td style="text-align:center; border: 1px solid #dddfe1;">
-<strong style="font-family:sans-serif;">Resilience 1</strong>
-</td>
-<td style="text-align:center; border: 1px solid #dddfe1;font-family:sans-serif;">Mr Tu Harrick Iskandar<br>Miss Jovitta Christopher Pereira
-</td>
-<td style="text-align:center; border: 1px solid #dddfe1;font-family:sans-serif;">tu_harrick_iskandar@moe.edu.sg<br>jovitta_christopher_pereira@moe.edu.sg
-</td>
+<strong style="font-family:sans-serif;">Resilience 1</strong></td>
+<td style="text-align:center; border: 1px solid #dddfe1;font-family:sans-serif;">Ms Nur Afiqah Zamri<br>Mr Yang Chuanzhi</td>
+<td style="text-align:center; border: 1px solid #dddfe1;font-family:sans-serif;">nur_afiqah_zamri@moe.edu.sg <br>yang_chuanzhi@moe.edu.sg</td>
 </tr>
 	
 <tr>
 <td style="text-align:center; border: 1px solid #dddfe1;">
-<strong style="font-family:sans-serif;">Resilience 2</strong>
-</td>
-<td style="text-align:center; border: 1px solid #dddfe1;font-family:sans-serif;">Miss Shenu Binte Hamidun<br>Miss Koh Ting Suen Jewel
-</td>
-<td style="text-align:center; border: 1px solid #dddfe1;font-family:sans-serif;">shenu_hamidun@moe.edu.sg<br>koh_ting_suen_jewel@moe.edu.sg
-</td>
+<strong style="font-family:sans-serif;">Resilience 2</strong></td>
+<td style="text-align:center; border: 1px solid #dddfe1;font-family:sans-serif;">Mr Ang Yu Jian<br>Ms Shangeetha Devi D/O Panesilvam</td>
+<td style="text-align:center; border: 1px solid #dddfe1;font-family:sans-serif;">ang_yu_jian@moe.edu.sg<br>shangeetha_devi_panesilvam@moe.edu.sg</td>
 </tr>
 	
 <tr>
 <td style="text-align:center; border: 1px solid #dddfe1;">
-<strong style="font-family:sans-serif;">Resilience 3</strong>
-</td>
-<td style="text-align:center; border: 1px solid #dddfe1;font-family:sans-serif;">Mdm Anna Foo Tsuey Yun<br>Miss Tan Hui Ping
-</td>
-<td style="text-align:center; border: 1px solid #dddfe1;font-family:sans-serif;">foo_tsuey_yun@moe.edu.sg<br>tan_hui_ping@moe.edu.sg
-</td>
+<strong style="font-family:sans-serif;">Resilience 3</strong></td>
+<td style="text-align:center; border: 1px solid #dddfe1;font-family:sans-serif;">Miss Lee Ching Yi<br>Mr Teo Eng Hao</td>
+<td style="text-align:center; border: 1px solid #dddfe1;font-family:sans-serif;">lee_ching_yi@moe.edu.sg<br>teo_eng_hao@moe.edu.sg</td>
 </tr>
 	
 <tr>
 <td style="text-align:center; border: 1px solid #dddfe1;">
-<strong style="font-family:sans-serif;">Resilience 4</strong>
-</td>
-<td style="text-align:center; border: 1px solid #dddfe1;font-family:sans-serif;">Miss Lim Sin Ee Rachel<br>Mr Lam Zihan
-</td>
-<td style="text-align:center; border: 1px solid #dddfe1;font-family:sans-serif;">lim_sin_ee_rachel@moe.edu.sg<br>lam_zihan@moe.edu.sg
-</td>
+<strong style="font-family:sans-serif;">Resilience 4</strong></td>
+<td style="text-align:center; border: 1px solid #dddfe1;font-family:sans-serif;">Miss Oh Yi Qi Dora<br>Miss Tan Jiewen</td>
+<td style="text-align:center; border: 1px solid #dddfe1;font-family:sans-serif;">oh_yi_qi_dora@moe.edu.sg<br>tan_jiewen@moe.edu.sg</td>
 </tr>
 	
 <tr>
 <td style="text-align:center; border: 1px solid #dddfe1;">
-<strong style="font-family:sans-serif;">Resilience 5</strong>
-</td>
-<td style="text-align:center; border: 1px solid #dddfe1;font-family:sans-serif;">Mdm Chen Peishi
-</td>
-<td style="text-align:center; border: 1px solid #dddfe1;font-family:sans-serif;">chen_pei_shi@moe.edu.sg
-</td>
+<strong style="font-family:sans-serif;">Resilience 5</strong></td>
+<td style="text-align:center; border: 1px solid #dddfe1;font-family:sans-serif;">Ms Ari Sutanti Bte Haji Mispan<br>Mdm Lee Jia Qi</td>
+<td style="text-align:center; border: 1px solid #dddfe1;font-family:sans-serif;">ari_sutanti_haji_mispan@moe.edu.sg<br>lee_jia_qi@moe.edu.sg</td>
 </tr>
 	
 <tr>
 <td style="text-align:center; border: 1px solid #dddfe1;">
-<strong style="font-family:sans-serif;">Resilience 6</strong>
-</td>
-<td style="text-align:center; border: 1px solid #dddfe1;font-family:sans-serif;">Miss Udhaya Chandhini d/o Mugilvanan<br>Mr Teo Hong 
-</td>
-<td style="text-align:center; border: 1px solid #dddfe1;font-family:sans-serif;">udhaya_chandhini_mugilvanan@moe.edu.sg<br>teo_hong@moe.edu.sg
-</td>
+<strong style="font-family:sans-serif;">Resilience 6</strong></td>
+<td style="text-align:center; border: 1px solid #dddfe1;font-family:sans-serif;">Mr Li Hong Jin<br>Miss Nur Syairah Bte Azahari</td>
+<td style="text-align:center; border: 1px solid #dddfe1;font-family:sans-serif;">i_hong_jin@moe.edu.sg<br>nur_syairah_azahari@moe.edu.sg</td>
 </tr>
 	
 <tr>
 <td style="text-align:center; border: 1px solid #dddfe1;">
-<strong style="font-family:sans-serif;">Resilience 7</strong>
-</td>
-<td style="text-align:center; border: 1px solid #dddfe1;font-family:sans-serif;">Mr Ng Tiong Ghee<br>Mr Goh Kok Soon Ronnie
-</td>
-<td style="text-align:center; border: 1px solid #dddfe1;font-family:sans-serif;">ng_tiong_ghee@moe.edu.sg<br>goh_kok_soon@moe.edu.sg
-</td>
+<strong style="font-family:sans-serif;">Resilience 7</strong></td>
+<td style="text-align:center; border: 1px solid #dddfe1;font-family:sans-serif;">Mr Huang Weiqiang<br>Mdm Rasyidah Bte Ramli</td>
+<td style="text-align:center; border: 1px solid #dddfe1;font-family:sans-serif;">huang_weiqiang@moe.edu.sg<br>rasyidah_ramli@moe.edu.sg</td>
 </tr>
 	
 <tr>
 <td style="text-align:center; border: 1px solid #dddfe1;">
-<strong style="font-family:sans-serif;">Resilience 8</strong>
-</td>
-<td style="text-align:center; border: 1px solid #dddfe1;font-family:sans-serif;">Mdm Lee Helen<br>Miss Chua Jin Xia Valerie
-</td>
-<td style="text-align:center; border: 1px solid #dddfe1;font-family:sans-serif;">lee_helen_a@moe.edu.sg<br>chua_jin_xia_valerie@moe.edu.sg
-</td>
+<strong style="font-family:sans-serif;">Resilience 8</strong></td>
+<td style="text-align:center; border: 1px solid #dddfe1;font-family:sans-serif;">Mr Lim Jin Kng Emmanuel <br>Mdm Nurull Dzarifa Bte Othman Z</td>
+<td style="text-align:center; border: 1px solid #dddfe1;font-family:sans-serif;">lim_jin_kng_emmanuel@moe.edu.sg<br>nurull_dzarifa_othman_z@moe.edu.sg</td>
 </tr>
+	
+<tr>
+<td style="text-align:center; border: 1px solid #dddfe1;">
+<strong style="font-family:sans-serif;">Resilience 9</strong></td>
+<td style="text-align:center; border: 1px solid #dddfe1;font-family:sans-serif;">Mr Ct Karuppiah Arasu<br>Mr Neo Peck Wee Joel</td>
+<td style="text-align:center; border: 1px solid #dddfe1;font-family:sans-serif;">ct_karuppiah_arasu@moe.edu.sg<br>neo_peck_wee_joel@moe.edu.sg</td>
+</tr>
+
 </tbody>
 </table>
 </div>
 </li>
 	
-<li><input id="accordion4" type="checkbox"><label for="accordion4" style="font-family:sans-serif;">Secondary 3 Classes 2024</label>
+<li><input id="accordion4" type="checkbox"><label for="accordion4" style="font-family:sans-serif;">Secondary 3 Classes 2025</label>
 <div>
 <table border="1" style="width:100%">
 <thead style="background-color: #54585d; font-weight: bold; font-size: 15.5px; border: 1px solid #54585d;">
