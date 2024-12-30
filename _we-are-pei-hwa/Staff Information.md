@@ -436,82 +436,58 @@ variant: markdown
 
 <tr>
 <td style="text-align:center; border: 1px solid #dddfe1;">
-<strong style="font-family:sans-serif;">Integrity 1</strong>
-</td>
-<td style="text-align:center; border: 1px solid #dddfe1;font-family:sans-serif;">Mrs Yeo-Kwok Coleen<br>Mr Yeo Wei Qiang Kenneth
-</td>
-<td style="text-align:center; border: 1px solid #dddfe1;font-family:sans-serif;">coleen_kwok_siew_yun@moe.edu.sg<br>kenneth_yeo_wei_qiang@moe.edu.sg
-</td>
+<strong style="font-family:sans-serif;">Integrity 1</strong></td>
+<td style="text-align:center; border: 1px solid #dddfe1;font-family:sans-serif;">Mr Tu Harrick Iskandar<br>Miss Wong Ping Fang Claire</td>
+<td style="text-align:center; border: 1px solid #dddfe1;font-family:sans-serif;">tu_harrick_iskandar@moe.edu.sg<br>wong_ping_fang@moe.edu.sg</td>
 </tr>
 	
 <tr>
 <td style="text-align:center; border: 1px solid #dddfe1;">
-<strong style="font-family:sans-serif;">Integrity 2</strong>
-</td>
-<td style="text-align:center; border: 1px solid #dddfe1;font-family:sans-serif;">Miss Nur Fateha Bte Kamsani<br>Miss Wong Li Qing
-</td>
-<td style="text-align:center; border: 1px solid #dddfe1;font-family:sans-serif;">nur_fateha_kamsani@moe.edu.sg<br>wong_li_qing@moe.edu.sg
-</td>
+<strong style="font-family:sans-serif;">Integrity 2</strong></td>
+<td style="text-align:center; border: 1px solid #dddfe1;font-family:sans-serif;">Miss Koh Ting Suen Jewel<br>Miss Shenu Binte Hamidun<br>Mr Tan Aik Fong</td>
+<td style="text-align:center; border: 1px solid #dddfe1;font-family:sans-serif;">koh_ting_suen_jewel@moe.edu.sg<br>shenu_hamidun@moe.edu.sg<br>tan_aik_fong@moe.edu.sg</td>
 </tr>
 	
 <tr>
 <td style="text-align:center; border: 1px solid #dddfe1;">
-<strong style="font-family:sans-serif;">Integrity 3</strong>
-</td>
-<td style="text-align:center; border: 1px solid #dddfe1;font-family:sans-serif;">Mdm Tai Bee Chuan<br>Miss Nordiana Bte Abbas
-</td>
-<td style="text-align:center; border: 1px solid #dddfe1;font-family:sans-serif;">tai_bee_chuan@moe.edu.sg<br>nordiana_abbas@moe.edu.sg
-</td>
+<strong style="font-family:sans-serif;">Integrity 3</strong></td>
+<td style="text-align:center; border: 1px solid #dddfe1;font-family:sans-serif;">Mdm Anna Foo Tsuey Yun<br>Miss Tan Hui Ping</td>
+<td style="text-align:center; border: 1px solid #dddfe1;font-family:sans-serif;">foo_tsuey_yun@moe.edu.sg<br>tan_hui_ping@moe.edu.sg</td>
 </tr>
 	
 <tr>
 <td style="text-align:center; border: 1px solid #dddfe1;">
-<strong style="font-family:sans-serif;">Integrity 4</strong>
-</td>
-<td style="text-align:center; border: 1px solid #dddfe1;font-family:sans-serif;">Mr Koh Chong Peng
-</td>
-<td style="text-align:center; border: 1px solid #dddfe1;font-family:sans-serif;">koh_chong_peng@moe.edu.sg
-</td>
+<strong style="font-family:sans-serif;">Integrity 4</strong></td>
+<td style="text-align:center; border: 1px solid #dddfe1;font-family:sans-serif;">Miss Jaime Toh Guek Peng<br>Miss Lim Sin Ee Rachel</td>
+<td style="text-align:center; border: 1px solid #dddfe1;font-family:sans-serif;">jaime_toh_guek_peng@moe.edu.sg<br>lim_sin_ee_rachel@moe.edu.sg</td>
 </tr>
 	
 <tr>
 <td style="text-align:center; border: 1px solid #dddfe1;">
-<strong style="font-family:sans-serif;">Integrity 5</strong>
-</td>
-<td style="text-align:center; border: 1px solid #dddfe1;font-family:sans-serif;">Miss Thong Jia Man Bernice <br>Miss Heera Farzana
-</td>
-<td style="text-align:center; border: 1px solid #dddfe1;font-family:sans-serif;">thong_jia_man_bernice@moe.edu.sg<br>heera_farzana@moe.edu.sg
-</td>
+<strong style="font-family:sans-serif;">Integrity 5</strong></td>
+<td style="text-align:center; border: 1px solid #dddfe1;font-family:sans-serif;">Mdm Chen Peishi<br>Mdm Lin Airong Michelle (Mrs Neo)</td>
+<td style="text-align:center; border: 1px solid #dddfe1;font-family:sans-serif;">chen_pei_shi@moe.edu.sg<br>lin_airong_michelle@moe.edu.sg</td>
 </tr>
 	
 <tr>
 <td style="text-align:center; border: 1px solid #dddfe1;">
-<strong style="font-family:sans-serif;">Integrity 6</strong>
-</td>
-<td style="text-align:center; border: 1px solid #dddfe1;font-family:sans-serif;">Miss Su Yiying Kristen<br>Ms Lim Guat Hong
-</td>
-<td style="text-align:center; border: 1px solid #dddfe1;font-family:sans-serif;">su_yi_ying@moe.edu.sg<br>lim_guat_hong@moe.edu.sg
-</td>
+<strong style="font-family:sans-serif;">Integrity 6</strong></td>
+<td style="text-align:center; border: 1px solid #dddfe1;font-family:sans-serif;">Mr Tay Swee Hoe<br>Miss Udhaya Chandhini d/o Mugilvanan</td>
+<td style="text-align:center; border: 1px solid #dddfe1;font-family:sans-serif;">tay_swee_hoe@moe.edu.sg<br>udhaya_chandhini_mugilvanan@moe.edu.sg</td>
 </tr>
 	
 <tr>
 <td style="text-align:center; border: 1px solid #dddfe1;">
-<strong style="font-family:sans-serif;">Integrity 7</strong>
-</td>
-<td style="text-align:center; border: 1px solid #dddfe1;font-family:sans-serif;">Miss Chan Yen Lin Charlotte<br>Miss Tang Wai Sim Wendy
-</td>
-<td style="text-align:center; border: 1px solid #dddfe1;font-family:sans-serif;">charlotte_chan@moe.edu.sg<br>tang_wai_sim_wendy@moe.edu.sg
-</td>
+<strong style="font-family:sans-serif;">Integrity 7</strong></td>
+<td style="text-align:center; border: 1px solid #dddfe1;font-family:sans-serif;">Mr Goh Kok Soon Ronnie<br>Mr Ng Tiong Ghee</td>
+<td style="text-align:center; border: 1px solid #dddfe1;font-family:sans-serif;">goh_kok_soon@moe.edu.sg<br>ng_tiong_ghee@moe.edu.sg</td>
 </tr>
 	
 <tr>
 <td style="text-align:center; border: 1px solid #dddfe1;">
-<strong style="font-family:sans-serif;">Integrity 8</strong>
-</td>
-<td style="text-align:center; border: 1px solid #dddfe1;font-family:sans-serif;">Mr Mohamad Arizal Bin Ahmad<br>Miss Wong Ser Ching
-</td>
-<td style="text-align:center; border: 1px solid #dddfe1;font-family:sans-serif;">mohamad_arizal_ahmad@moe.edu.sg<br>wong_ser_ching@moe.edu.sg
-</td>
+<strong style="font-family:sans-serif;">Integrity 8</strong></td>
+<td style="text-align:center; border: 1px solid #dddfe1;font-family:sans-serif;">Miss Chua Jin Xia Valerie<br>Mr Nicholas Ng Pit Shen</td>
+<td style="text-align:center; border: 1px solid #dddfe1;font-family:sans-serif;">chua_jin_xia_valerie@moe.edu.sg<br>ng_pit_shen@moe.edu.sg</td>
 </tr>
 	
 </tbody>
