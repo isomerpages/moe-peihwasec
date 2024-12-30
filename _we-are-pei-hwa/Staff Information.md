@@ -216,7 +216,7 @@ variant: markdown
 		
 <tr>
 <td style="text-align:center; border: 1px solid #dddfe1;">
-<strong style="font-family:sans-serif;">SH PAD (INT)</strong>
+<strong style="font-family:sans-serif;">SH Personal and Aesthetic Development (INT)</strong>
 </td>
 <td style="text-align:center; border: 1px solid #dddfe1;font-family:sans-serif;">Mr Yeo Wei Qiang Kenneth</td>
 <td style="text-align:center; border: 1px solid #dddfe1;font-family:sans-serif;">kenneth_yeo_wei_qiang@moe.edu.sg</td>
@@ -259,7 +259,7 @@ variant: markdown
 </tr>
 	
 <tr>
-<td style="text-align:center; border: 1px solid #dddfe1;"><strong style="font-family:sans-serif;">Adjunct <br> Operations Manager</strong></td>
+<td style="text-align:center; border: 1px solid #dddfe1;"><strong style="font-family:sans-serif;">Operations Manager</strong></td>
 <td style="text-align:center; border: 1px solid #dddfe1;font-family:sans-serif;">Mr Tam Wai Seng</td>
 <td style="text-align:center; border: 1px solid #dddfe1;font-family:sans-serif;">tam_wai_seng@moe.edu.sg</td>
 </tr>
