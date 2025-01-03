@@ -3,6 +3,7 @@ title: National Civil Defence Cadet Corps
 permalink: /learning-at-pei-hwa/cca/uniformed-groups/ncdcc/
 description: ""
 third_nav_title: Uniformed Groups
+variant: markdown
 ---
 <h6 style="color:#0B6623;font-family:sans-serif;font-weight:bold;margin-top:30px;"><strong style="font-family:sans-serif;font-size:17px;color:#0B6623;">National Civil Defence Cadet Corps – A Choice Uniformed Group of Community First Responders</strong></h6>
 
@@ -149,7 +150,7 @@ third_nav_title: Uniformed Groups
 	<tbody style="border: none;">
 <tr>
 			<td style="font-weight: bold; font-size: 14.5px; border-bottom: 1px solid #dddddd;width:30%;font-family:sans-serif;letter-spacing:0.2px">Teachers-in-Charge</td>
-			<td style="font-size: 14.5px; border-bottom: 1px solid #dddddd;font-family:sans-serif;letter-spacing:0.2px">Mr Ong Jun Ming Gary, Mdm Chen Peishi, Mdm Ong Xin Yi, Ms Jovitta Christopher Pereira</td>
+			<td style="font-size: 14.5px; border-bottom: 1px solid #dddddd;font-family:sans-serif;letter-spacing:0.2px">Mdm Chen Peishi, Ms Jovitta Christopher Pereira, Miss Heera Farzana, Mr Lam Zihan</td>
 		</tr>
 <tr>
 			<td style="font-weight: bold; font-size: 14.5px; border-bottom: 1px solid #dddddd;width:30%;font-family:sans-serif;letter-spacing:0.2px">CCA Schedule</td>
