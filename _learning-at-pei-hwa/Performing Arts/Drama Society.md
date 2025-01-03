@@ -3,6 +3,7 @@ title: Drama Society
 permalink: /learning-at-pei-hwa/cca/clubs-societies/drama-society/
 description: ""
 third_nav_title: Performing Arts
+variant: markdown
 ---
 <img style="width: 100%; height: auto;margin-top:30px;margin-bottom:30px;" alt="Image" src="https://raw.githubusercontent.com/isomerpages/moe-peihwasec/staging/images/CCA/dramabanner.png">
 
@@ -116,7 +117,7 @@ third_nav_title: Performing Arts
 	<tbody style="border: none;">
 <tr>
 			<td style="font-weight: bold; font-size: 14.5px; border-bottom: 1px solid #dddddd;width:30%;font-family:sans-serif;letter-spacing:0.2px">Teachers-in-Charge</td>
-			<td style="font-size: 14.5px; border-bottom: 1px solid #dddddd;font-family:sans-serif;letter-spacing:0.2px">Mdm Afizah Shaik Abdul Rahim, Ms Jaime Toh Guek Peng, Miss Udhaya Chandhini</td>
+			<td style="font-size: 14.5px; border-bottom: 1px solid #dddddd;font-family:sans-serif;letter-spacing:0.2px">Mdm Afizah Shaik Abdul Rahim, Ms Jaime Toh Guek Peng, Miss Udhaya Chandhini, Ms Low Li Shan</td>
 		</tr>
 <tr>
 			<td style="font-weight: bold; font-size: 14.5px; border-bottom: 1px solid #dddddd;width:30%;font-family:sans-serif;letter-spacing:0.2px">CCA Schedule</td>
