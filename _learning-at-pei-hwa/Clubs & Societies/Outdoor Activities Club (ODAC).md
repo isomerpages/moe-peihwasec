@@ -114,7 +114,7 @@ variant: markdown
 	<tbody style="border: none;">
 <tr>
 			<td style="font-weight: bold; font-size: 14.5px; border-bottom: 1px solid #dddddd;width:30%;font-family:sans-serif;letter-spacing:0.2px">Teachers-in-Charge</td>
-			<td style="font-size: 14.5px; border-bottom: 1px solid #dddddd;font-family:sans-serif;letter-spacing:0.2px">Mr Riyaz Huseni, Ms Lee Sixian, Mrs Kamini Lam</td>
+			<td style="font-size: 14.5px; border-bottom: 1px solid #dddddd;font-family:sans-serif;letter-spacing:0.2px">Mr Riyaz Huseni, Ms Lee Sixian, Mr Wong Hon Kit Benjamin, Ms Lee Ching Yi</td>
 		</tr>
 <tr>
 			<td style="font-weight: bold; font-size: 14.5px; border-bottom: 1px solid #dddddd;width:30%;font-family:sans-serif;letter-spacing:0.2px">CCA Schedule</td>
@@ -124,7 +124,7 @@ variant: markdown
 		
 <tr>
 			<td style="font-weight: bold; font-size: 14.5px; border-bottom: 1px solid #dddddd;width:30%;font-family:sans-serif;letter-spacing:0.2px">Venues</td>
-			<td style="font-size: 14.5px; border-bottom: 1px solid #dddddd;font-family:sans-serif;letter-spacing:0.2px">Outside ODAC room</td>
+			<td style="font-size: 14.5px; border-bottom: 1px solid #dddddd;font-family:sans-serif;letter-spacing:0.2px">INT 1 classroom / Volleyball court for PT or games / Outside ODAC room</td>
 		</tr>
 		
 </tbody>
