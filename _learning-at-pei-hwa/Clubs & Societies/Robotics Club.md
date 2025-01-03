@@ -236,7 +236,7 @@ Notably, the friendships we forge within the Robotics Club hold a special place 
 	<tbody style="border: none;">
 <tr>
 			<td style="font-weight: bold; font-size: 14.5px; border-bottom: 1px solid #dddddd;width:30%;font-family:sans-serif;">Teachers-in-Charge</td>
-			<td style="font-size: 14.5px; border-bottom: 1px solid #dddddd;font-family:sans-serif;line-height:1.5">Mr Nicholas Ng, Mr Joel Neo, Mr Ronnie Goh, Ms Jane Lian </td>
+			<td style="font-size: 14.5px; border-bottom: 1px solid #dddddd;font-family:sans-serif;line-height:1.5">Mr Nicholas Ng, Mr Ronnie, Ms Lian Jane, Mr Neo Peck Wee (Joel) </td>
 		</tr>
 <tr>
 			<td style="font-weight: bold; font-size: 14.5px; border-bottom: 1px solid #dddddd;width:30%;font-family:sans-serif;">CCA Schedule</td>

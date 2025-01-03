@@ -3,6 +3,7 @@ title: Dance Society
 permalink: /learning-at-pei-hwa/cca/performing-arts/dance-society/
 description: ""
 third_nav_title: Performing Arts
+variant: markdown
 ---
 <img style="width: 100%; height: auto;margin-top:30px;margin-bottom:30px;" alt="Image" src="https://raw.githubusercontent.com/isomerpages/moe-peihwasec/staging/images/CCA/dancebanner.png">
 
@@ -115,7 +116,7 @@ third_nav_title: Performing Arts
 	<tbody style="border: none;">
 <tr>
 			<td style="font-weight: bold; font-size: 14.5px; border-bottom: 1px solid #dddddd;width:30%;font-family:sans-serif;letter-spacing:0.2px">Teachers-in-Charge</td>
-			<td style="font-size: 14.5px; border-bottom: 1px solid #dddddd;font-family:sans-serif;letter-spacing:0.2px">Miss Bernice Thong, Mrs Michelle Neo, Mrs Michelle Jonathan, Miss Valerie Chua</td>
+			<td style="font-size: 14.5px; border-bottom: 1px solid #dddddd;font-family:sans-serif;letter-spacing:0.2px">Miss Bernice Thong, Miss Chua Jin Xia, Valerie, Ms Chan Xin Hui Michelle</td>
 		</tr>
 <tr>
 			<td style="font-weight: bold; font-size: 14.5px; border-bottom: 1px solid #dddddd;width:30%;font-family:sans-serif;letter-spacing:0.2px">CCA Schedule</td>
@@ -126,8 +127,8 @@ Fridays 2.30pm – 6.00pm
 		
 <tr>
 			<td style="font-weight: bold; font-size: 14.5px; border-bottom: 1px solid #dddddd;width:30%;font-family:sans-serif;letter-spacing:0.2px">Venues</td>
-			<td style="font-size: 14.5px; border-bottom: 1px solid #dddddd;font-family:sans-serif;letter-spacing:0.2px">[Even week] Dance studio (Level 3) <br>
-[Odd week] Res A and B (Level 2)
+			<td style="font-size: 14.5px; border-bottom: 1px solid #dddddd;font-family:sans-serif;letter-spacing:0.2px">[Even week] Music and Dance room,  Res A and B <br>
+[Odd week] Res A and B, Res 4 and 6
 </td>
 		</tr>
 		

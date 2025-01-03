@@ -3,6 +3,7 @@ title: National Cadet Corps (Land)
 permalink: /learning-at-pei-hwa/cca/uniformed-groups/ncc-land/
 description: ""
 third_nav_title: Uniformed Groups
+variant: markdown
 ---
 <h6 style="color:#0B6623;font-family:sans-serif;font-weight:bold;margin-top:30px;"><strong style="font-family:sans-serif;font-size:17px;color:#0B6623;">Nurturing. Committed. Cool.</strong></h6>
 
@@ -131,14 +132,13 @@ third_nav_title: Uniformed Groups
 		</tr>
 <tr>
 			<td style="font-weight: bold; font-size: 14.5px; border-bottom: 1px solid #dddddd;width:30%;font-family:sans-serif;letter-spacing:0.2px">CCA Schedule</td>
-			<td style="font-size: 14.5px; border-bottom: 1px solid #dddddd;font-family:sans-serif;letter-spacing:0.2px">Tuesdays 3.30pm – 6.00pm<br>
-Fridays 2.30pm – 6.00pm
+			<td style="font-size: 14.5px; border-bottom: 1px solid #dddddd;font-family:sans-serif;letter-spacing:0.2px">Fridays 2.30pm – 6.00pm
 </td>
 		</tr>
 		
 <tr>
 			<td style="font-weight: bold; font-size: 14.5px; border-bottom: 1px solid #dddddd;width:30%;font-family:sans-serif;letter-spacing:0.2px">Venues</td>
-			<td style="font-size: 14.5px; border-bottom: 1px solid #dddddd;font-family:sans-serif;letter-spacing:0.2px">2R3, 2R5, Quandrangle
+			<td style="font-size: 14.5px; border-bottom: 1px solid #dddddd;font-family:sans-serif;letter-spacing:0.2px">2R3, 2R5, Amphitheatre, Quandrangle
 </td>
 		</tr>
 		

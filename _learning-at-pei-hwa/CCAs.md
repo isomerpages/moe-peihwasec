@@ -6,6 +6,19 @@ variant: markdown
 ---
 <h6 style="color:#0B6623;font-family:sans-serif;font-weight:bold;text-align:center;"><strong style="font-family:sans-serif;font-size:17px;color:#0B6623;">Co-Curricular Activities </strong></h6>
 
+<p style="margin-top:15px;font-size:15.5px;"><strong style="font-family:sans-serif;">» Sec 1 CCA Allocation</strong></p>
+
+<ul style="margin-top:-5px;">
+<li style="font-size:14.5px; line-height:1.5;font-family:sans-serif;">By 7 Jan (Tue) 6pm, Sec 1 students are to submit their 3 choices for CCA Tryouts at <a href="https://go.gov.sg/phssccatryouts" style="font-size:14.5px; line-height:1.5;font-family:sans-serif;font-weight:bold;text-decoration: none;">https://go.gov.sg/phssccatryouts</a></li>
+<li style="font-size:14.5px; line-height:1.5;font-family:sans-serif;">On 10 Jan (Fri), 14 Jan (Tue), 17 Jan (Fri), 21 Jan (Tue), Sec 1 students will attend CCA Tryouts at 3 CCAs, according to this schedule <a href="https://go.gov.sg/phssccatryouts-schedule" style="font-size:14.5px; line-height:1.5;font-family:sans-serif;font-weight:bold;text-decoration: none;">https://go.gov.sg/phssccatryouts-schedule</a></li>
+	<ul style="margin-top:-5px;margin-bottom:-25px">
+<li style="font-size:14.5px; line-height:1.5;font-family:sans-serif;">*   Students are to report to school hall by 3.30pm (Tuesdays) and 2.30pm (Fridays) for the CCA Tryouts scheduled</li>
+	</ul>
+	<li style="font-size:14.5px; line-height:1.5;font-family:sans-serif;">By 24 Jan (Fri) 6pm, Sec 1 students are to submit their 6 choices for CCA Selection at <a href="https://go.gov.sg/phssccaselection" style="font-size:14.5px; line-height:1.5;font-family:sans-serif;font-weight:bold;text-decoration: none;">https://go.gov.sg/phssccaselection</a>&nbsp;(accessible from 18 Jan)</li>
+	<li style="font-size:14.5px; line-height:1.5;font-family:sans-serif;">The CCA allocation results will be announced by 31 Jan (Fri)</li>
+	<li style="font-size:14.5px; line-height:1.5;font-family:sans-serif;">Sec 1 students are to attend allocated CCAs starting 4 Feb (Tue)</li>
+	<li style="font-size:14.5px; line-height:1.5;font-family:sans-serif;">For clarifications regarding Sec 1 CCA Allocation, please email <a href="mailto:tan_kok_kwang_a@moe.edu.sg" style="font-size:14.5px; line-height:1.5;font-family:sans-serif;font-weight:bold;text-decoration: none;">tan_kok_kwang_a@moe.edu.sg</a>.</li>
+	
 <div style="display: flex; margin:0;padding:0;" class="container"> 
 	<div style="flex: 1; background-color: #F8BF58;; margin: 10px; padding: 25px; text-align: center; width: 225px; height: auto;padding-bottom:-10px;" class="box"> 
 		<p style="font-size:14.5px; line-height:1.5 ;margin-top:5px; font-family:sans-serif;text-align:center;"><strong style="font-size:14.5px; line-height:1.5 ;margin-top:5px; font-family:sans-serif;text-align:center;">Club &amp; Societies</strong></p> 
@@ -52,4 +65,4 @@ variant: markdown
 			<li style="font-size:14.5px; line-height:1.5;"><a href="https://moe-peihwasec-staging.netlify.app/learning-at-pei-hwa/cca/performing-arts/symphonic-band/" style="font-size:14.5px;color:black;line-height:1.5;font-family:sans-serif;text-align:center;text-align:left;text-decoration: none;">Symphonic Band</a></li>
 		</ul>
 	</div> 
-</div>
+</div></ul>

@@ -123,7 +123,7 @@ variant: markdown
 	<tbody style="border: none;">
 <tr>
 			<td style="font-weight: bold; font-size: 14.5px; border-bottom: 1px solid #dddddd;width:30%;font-family:sans-serif;letter-spacing:0.2px">Teachers-in-Charge</td>
-			<td style="font-size: 14.5px; border-bottom: 1px solid #dddddd;font-family:sans-serif;letter-spacing:0.2px">Mr Toh Wee Teck, Ms Tang Wai Sim Wendy, Ms Cheng Liangyu</td>
+			<td style="font-size: 14.5px; border-bottom: 1px solid #dddddd;font-family:sans-serif;letter-spacing:0.2px">Ms Cheng Liangyu, Mr Toh Wee Teck, Ms Tang Wai Sim Wendy</td>
 		</tr>
 		
 <tr>
@@ -135,7 +135,7 @@ Trainers (AVA)
 
 <tr>
 			<td style="font-weight: bold; font-size: 14.5px; border-bottom: 1px solid #dddddd;width:30%;font-family:sans-serif;letter-spacing:0.2px">CCA Schedule</td>
-			<td style="font-size: 14.5px; border-bottom: 1px solid #dddddd;font-family:sans-serif;letter-spacing:0.2px">Tuesdays 3.30pm - 6.00pm<br>*Fridays 2.30pm - 5.30pm
+			<td style="font-size: 14.5px; border-bottom: 1px solid #dddddd;font-family:sans-serif;letter-spacing:0.2px">Tuesdays 3.30pm - 5.30pm<br>*Fridays 2.30pm - 5.30pm
 <br><br>
 *ad-hoc trainings (only for AVA crew members)
 </td>

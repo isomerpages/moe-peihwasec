@@ -3,6 +3,7 @@ title: Football
 permalink: /learning-at-pei-hwa/cca/sports-games/football/
 description: ""
 third_nav_title: Sports & Games
+variant: markdown
 ---
 <img style="width: 100%; height: auto;margin-top:30px;margin-bottom:30px;" alt="Image" src="https://raw.githubusercontent.com/isomerpages/moe-peihwasec/staging/images/CCA/footballbanner.png">
 
@@ -96,7 +97,7 @@ third_nav_title: Sports & Games
 	<tbody style="border: none;">
 <tr>
 			<td style="font-weight: bold; font-size: 15px; border-bottom: 1px solid #dddddd;width:30%;font-family:sans-serif;letter-spacing:0.2px">Teachers-in-Charge</td>
-			<td style="font-size: 14.5px; border-bottom: 1px solid #dddddd;font-family:sans-serif;letter-spacing:0.2px">Mr Huang Weiqiang, Mr Fahmie Ali Abdat, Mr Russell Lin Yanshan, Mr Andrew Cheng Chang Hup</td>
+			<td style="font-size: 14.5px; border-bottom: 1px solid #dddddd;font-family:sans-serif;letter-spacing:0.2px">Mr Huang Weiqiang, Mr Ct Karuppiah Arasu, Miss Shangeetha Devi D/O Panesilvam</td>
 		</tr>
 <tr>
 			<td style="font-weight: bold; font-size: 15px; border-bottom: 1px solid #dddddd;width:30%;font-family:sans-serif;letter-spacing:0.2px">CCA Schedule</td>
@@ -106,9 +107,7 @@ third_nav_title: Sports & Games
 		
 <tr>
 			<td style="font-weight: bold; font-size: 15px; border-bottom: 1px solid #dddddd;width:30%;font-family:sans-serif;letter-spacing:0.2px">Venues</td>
-			<td style="font-size: 14.5px; border-bottom: 1px solid #dddddd;font-family:sans-serif;letter-spacing:0.2px">Field<br>
-Wet Weather – Classroom / Sheltered area within school compound
-</td>
+			<td style="font-size: 14.5px; border-bottom: 1px solid #dddddd;font-family:sans-serif;letter-spacing:0.2px">Field <br>Wet Weather – Outside ODAC room on level 2</td>
 		</tr>
 		
 </tbody>
