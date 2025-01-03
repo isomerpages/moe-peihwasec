@@ -3,6 +3,7 @@ title: Symphonic Band
 permalink: /learning-at-pei-hwa/cca/performing-arts/symphonic-band/
 description: ""
 third_nav_title: Performing Arts
+variant: markdown
 ---
 <img style="width: 100%; height: auto;margin-top:30px;margin-bottom:30px;" alt="Image" src="https://raw.githubusercontent.com/isomerpages/moe-peihwasec/staging/images/CCA/symphonicbandbanner.png">
 
@@ -115,18 +116,18 @@ Quinton Soo Tian Le</em></span><br><br>
 	<tbody style="border: none;">
 <tr>
 			<td style="font-weight: bold; font-size: 14.5px; border-bottom: 1px solid #dddddd;width:30%;font-family:sans-serif;letter-spacing:0.2px">Teachers-in-Charge</td>
-			<td style="font-size: 14.5px; border-bottom: 1px solid #dddddd;font-family:sans-serif;letter-spacing:0.2px">Ms Wong Li Qing, Ms Chan Yen Lin Charlotte, Ms Rachel Lim, Mrs Hannah Zulaihah Gwynne</td>
+			<td style="font-size: 14.5px; border-bottom: 1px solid #dddddd;font-family:sans-serif;letter-spacing:0.2px">Ms Wong Li Qing, Ms Lim Sin Ee Rachel, Mr Victor Yang</td>
 		</tr>
 <tr>
 			<td style="font-weight: bold; font-size: 14.5px; border-bottom: 1px solid #dddddd;width:30%;font-family:sans-serif;letter-spacing:0.2px">CCA Schedule</td>
 			<td style="font-size: 14.5px; border-bottom: 1px solid #dddddd;font-family:sans-serif;letter-spacing:0.2px">Tuesdays 3.30pm – 6.00pm<br>
-Fridays 2.30pm – 6.00pm
-</td>
+Fridays 2.30pm – 5.30pm
+	</td>
 		</tr>
 		
 <tr>
 			<td style="font-weight: bold; font-size: 14.5px; border-bottom: 1px solid #dddddd;width:30%;font-family:sans-serif;letter-spacing:0.2px">Venues</td>
-			<td style="font-size: 14.5px; border-bottom: 1px solid #dddddd;font-family:sans-serif;letter-spacing:0.2px">Music Room and Dance Studio
+			<td style="font-size: 14.5px; border-bottom: 1px solid #dddddd;font-family:sans-serif;letter-spacing:0.2px">[Odd Week] Music Room and Dance Studio, INT 3, 4, 5, 6, A, B, 8 <br> [Even Week] INT 3, 4, 5, 6, 7, A, B, 8
 </td>
 		</tr>
 		
