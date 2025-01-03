@@ -4,6 +4,11 @@ permalink: /pride-of-pei-hwa/students/
 description: ""
 variant: markdown
 ---
+<img src="/images/Pride%20of%20Pei%20Hwa/Taekwando_Competition_2_Jan2025_.jpg">
+<p style="line-height:2;margin-top:10px;margin-bottom:0;font-family:sans-serif;font-size:15.5px;"><strong style="font-family:sans-serif;font-size:15.5px;">DAEDO Taekwondo Open Championships</strong></p>
+<p style="font-size:14.5px; line-height:2;margin-top:0px;font-family:sans-serif;">On December 8, 2024, Skyler Goh from class 2R9 (2025) proudly represented our school at the&nbsp;<strong style="font-family:sans-serif;font-size:14.5px;">DAEDO Taekwondo Open Championships</strong>. Competing against a formidable lineup of 1,400 participants from 14 countries, Skyler showcased exceptional skill, determination, and sportsmanship, earning an outstanding&nbsp;<strong style="font-family:sans-serif;font-size:14.5px;">3<sup style="font-family:sans-serif;">rd</sup> place in the Kyorugi (sparring) event</strong>. This accomplishment not only marks our school’s very&nbsp;<strong style="font-family:sans-serif;font-size:14.5px;">first participation in an international Taekwondo event</strong>&nbsp;but also sets an inspiring benchmark for future endeavors in international competitions by our members. <br>Please join us in congratulating Skyler on this remarkable achievement!</p>
+<br>
+
 <img src="/images/sa1.jpg">
 <p style="line-height:2;margin-top:10px;margin-bottom:0;font-family:sans-serif;font-size:15.5px;"><strong style="font-family:sans-serif;font-size:15.5px;">AWS DeepRacer League Competition</strong></p>
 <p style="font-size:14.5px; line-height:2;margin-top:0px;font-family:sans-serif;">Congratulations to our five students from Resilience 5 who&nbsp;have participated in the AWS DeepRacer League Competition during the June Holidays.</p>
