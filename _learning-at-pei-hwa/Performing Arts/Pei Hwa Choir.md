@@ -3,6 +3,7 @@ title: Pei Hwa Choir
 permalink: /learning-at-pei-hwa/cca/performing-arts/pei-hwa-choir/
 description: ""
 third_nav_title: Performing Arts
+variant: markdown
 ---
 <img style="width: 100%; height: auto;margin-top:30px;margin-bottom:30px;" alt="Image" src="https://raw.githubusercontent.com/isomerpages/moe-peihwasec/staging/images/CCA/choirbanner.png">
 
@@ -117,7 +118,7 @@ Our singers are exposed to different art forms through our collaboration with ot
 	<tbody style="border: none;">
 <tr>
 			<td style="font-weight: bold; font-size: 14.5px; border-bottom: 1px solid #dddddd;width:30%;font-family:sans-serif;letter-spacing:0.2px">Teachers-in-Charge</td>
-			<td style="font-size: 14.5px; border-bottom: 1px solid #dddddd;font-family:sans-serif;letter-spacing:0.2px">Mr Yeo Wei Qiang, Kenneth, Ms Tan Jiewen, Mdm Wong Ping Fang Claire</td>
+			<td style="font-size: 14.5px; border-bottom: 1px solid #dddddd;font-family:sans-serif;letter-spacing:0.2px">Mdm Wong Ping Fang (Claire), Mdm Tan Jiewen, Mr Yeo Wei Qiang, Kenneth</td>
 		</tr>
 <tr>
 			<td style="font-weight: bold; font-size: 14.5px; border-bottom: 1px solid #dddddd;width:30%;font-family:sans-serif;letter-spacing:0.2px">CCA Schedule</td>
@@ -128,7 +129,7 @@ Our singers are exposed to different art forms through our collaboration with ot
 		
 <tr>
 			<td style="font-weight: bold; font-size: 14.5px; border-bottom: 1px solid #dddddd;width:30%;font-family:sans-serif;letter-spacing:0.2px">Venues</td>
-			<td style="font-size: 14.5px; border-bottom: 1px solid #dddddd;font-family:sans-serif;letter-spacing:0.2px">AVA Room and iMac Room
+			<td style="font-size: 14.5px; border-bottom: 1px solid #dddddd;font-family:sans-serif;letter-spacing:0.2px">iMac Room / INT 7 / INT 8 / RES 1 / RES 2 
 </td>
 		</tr>
 		
