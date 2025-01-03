@@ -188,7 +188,7 @@ myself."
 	<tbody style="border: none;">
 <tr>
 			<td style="font-weight: bold; font-size: 14.5px; border-bottom: 1px solid #dddddd;width:30%;font-family:sans-serif;letter-spacing:0.2px">Teachers-in-Charge</td>
-			<td style="font-size: 14.5px; border-bottom: 1px solid #dddddd;font-family:sans-serif;letter-spacing:0.2px">Mdm Rasyidah Binte Ramli, Ms Ari Sutanti Binte Haji Mispan, Miss Koh Ting Suen Jewel, Ms Woo Nan Cam</td>
+			<td style="font-size: 14.5px; border-bottom: 1px solid #dddddd;font-family:sans-serif;letter-spacing:0.2px">Mdm Rasyidah Binte Ramli, Ms Ari Sutanti Binte Haji Mispan, Miss Koh Ting Suen Jewel</td>
 		</tr>
 <tr>
 			<td style="font-weight: bold; font-size: 14.5px; border-bottom: 1px solid #dddddd;width:30%;font-family:sans-serif;letter-spacing:0.2px">CCA Schedule</td>
@@ -198,7 +198,7 @@ myself."
 		
 <tr>
 			<td style="font-weight: bold; font-size: 14.5px; border-bottom: 1px solid #dddddd;width:30%;font-family:sans-serif;letter-spacing:0.2px">Venues</td>
-			<td style="font-size: 14.5px; border-bottom: 1px solid #dddddd;font-family:sans-serif;letter-spacing:0.2px">Computer Lab 2, Passion A, Studio, Resillience C, Resilience 7</td>
+			<td style="font-size: 14.5px; border-bottom: 1px solid #dddddd;font-family:sans-serif;letter-spacing:0.2px">Computer Lab 2, Resilience 9, Resilience 7, Media Resoure Rm 1</td>
 		</tr>
 		
 </tbody>
