@@ -3,6 +3,7 @@ title: Basketball
 permalink: /learning-at-pei-hwa/cca/sports-games/basketball/
 description: ""
 third_nav_title: Sports & Games
+variant: markdown
 ---
 <img style="width: 100%; height: auto;margin-top:30px;margin-bottom:30px;" alt="Image" src="https://raw.githubusercontent.com/isomerpages/moe-peihwasec/staging/images/CCA/basketballbanner.png">
 
@@ -84,19 +85,19 @@ third_nav_title: Sports & Games
 	<tbody style="border: none;">
 <tr>
 			<td style="font-weight: bold; font-size: 14.5px; border-bottom: 1px solid #dddddd;width:30%;font-family:sans-serif;letter-spacing:0.2px">Teachers-in-Charge</td>
-			<td style="font-size: 14.5px; border-bottom: 1px solid #dddddd;font-family:sans-serif;letter-spacing:0.2px">Mr Koh Chong Peng, Mr Tay Swee Hoe, Mr Yang Bin</td>
+			<td style="font-size: 14.5px; border-bottom: 1px solid #dddddd;font-family:sans-serif;letter-spacing:0.2px">Mr Koh Chong Peng, Mdm Lee Jia Qi, Mr Teo Hong</td>
 		</tr>
 
 <tr>
 			<td style="font-weight: bold; font-size: 14.5px; border-bottom: 1px solid #dddddd;width:30%;font-family:sans-serif;letter-spacing:0.2px">CCA Schedule</td>
-			<td style="font-size: 14.5px; border-bottom: 1px solid #dddddd;font-family:sans-serif;letter-spacing:0.2px">Tuesdays 3.30pm - 6.00pm<br>
+			<td style="font-size: 14.5px; border-bottom: 1px solid #dddddd;font-family:sans-serif;letter-spacing:0.2px">Tuesdays 3.30pm - 5.30pm<br>
 Fridays 2.30pm - 6.00pm
 </td>
 		</tr>
 		
 <tr>
 			<td style="font-weight: bold; font-size: 14.5px; border-bottom: 1px solid #dddddd;width:30%;font-family:sans-serif;letter-spacing:0.2px">Venues</td>
-			<td style="font-size: 14.5px; border-bottom: 1px solid #dddddd;font-family:sans-serif;letter-spacing:0.2px">Basketball court</td>
+			<td style="font-size: 14.5px; border-bottom: 1px solid #dddddd;font-family:sans-serif;letter-spacing:0.2px">ISH 1, Basketball court</td>
 		</tr>
 		
 </tbody>
