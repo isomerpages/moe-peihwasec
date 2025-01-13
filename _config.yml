@@ -52,9 +52,9 @@ plugins:
 staging: https://staging.d594np1scia3j.amplifyapp.com
 prod: https://master.d594np1scia3j.amplifyapp.com
 shareicon: /images/logo icon only - no tagline.png
-is_government: false
+is_government: true
 facebook-pixel: ""
 google_analytics: ""
 linkedin-insights: ""
 resources_name: announcements
-google_analytics_ga4: ""
+google_analytics_ga4: G-G2H8DEGDMK
