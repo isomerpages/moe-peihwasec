@@ -9,6 +9,13 @@ variant: markdown
 
 <div style="display:flex;flex-wrap: wrap; justify-content: space-between;">
 
+<div style="flex: 1;border: 1px solid #ccc; padding: 10px 10px; display: flex; flex-direction: column;width:100%;gap: 10px;margin: 10px; background-color:white;background-color: #0B6623;flex: 0 0 calc(33.33% - 20px);" class="box"> 
+	<div style="flex: 1;" class="content"> 
+		<h5 style="text-align:center;padding-top:7px;"><a href="https://drive.google.com/file/d/1e5XiHwqVvopdNyfuRO9USWIGiLQBlAS0/view?usp=share_link" style="color:#FDBC58;font-family:sans-serif;font-weight:bold;font-size:18px;text-decoration: none;text-align:center;">Purchase of School Uniform during School Term</a>
+		</h5>  
+	</div> 
+</div>
+
 <div style="flex: 1;border: 1px solid #ccc; padding: 10px 10px; display: flex; flex-direction: column;width:100%;gap: 10px;margin: 10px; background-color:white;background-color: #0B6623;flex: 0 0 calc(33.33% - 20px);" class="box">
 	<div style="flex: 1;" class="content"> 
 		<h5 style="text-align:center;padding-top:7px;"><a href="/lp-announcement/secondary-1-registration/" style="color:#FDBC58;font-family:sans-serif;font-weight:bold;font-size:18px;text-decoration: none;text-align:center;">Secondary 1 Registration 2025</a>
@@ -73,6 +80,7 @@ variant: markdown
 		</h5>  
 	</div> 
 </div>
+
 
 </div>
 </div>
