@@ -78,7 +78,7 @@ variant: markdown
 <div style="flex: 1; padding: 10px 10px; display: flex; flex-direction: column;width:100%;gap: 10px;margin: 10px; bflex: 0 0 calc(33.33% - 20px);" class="box"> 
 	<div style="flex: 1;" class="content"> 
 		  
-	</div> 
+</div> 
 </div>
 
 
