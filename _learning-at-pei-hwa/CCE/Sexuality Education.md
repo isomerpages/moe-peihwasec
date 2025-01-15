@@ -47,7 +47,7 @@ of Sexuality Education in the school curriculum.</p>
 
 <h6 style="color:#0B6623;font-family:sans-serif;font-weight:bold;"><strong style="font-family:sans-serif;font-size:17px;color:#0B6623;">At Pei Hwa Secondary School, the following Sexuality Education lessons will be taught in 2025:</strong></h6>
 
-<img src="/images/Learning%20@%20Pei%20Hwa/2024SexEduSec1.png">
+<img src="/images/Learning%20@%20Pei%20Hwa/CCE_SEC_1_2025.png">
 
  <p style="margin-top:15px;font-size:17px;"><strong style="font-family:sans-serif;">SECONDARY 1<br></strong></p>
 
