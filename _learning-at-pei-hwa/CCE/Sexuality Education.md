@@ -177,7 +177,8 @@ Students will also learn about the definitions of biological sex, gender identit
 </tbody>
 </table>
 
-<img src="/images/Learning%20@%20Pei%20Hwa/2024SexEduSec2.png">
+<img src="/images/Learning%20@%20Pei%20Hwa/CCE_SEC_1_2025.png">
+
  <p style="margin-top:15px;font-size:17px;"><strong style="font-family:sans-serif;">SECONDARY 3<br></strong></p>
 
 <table border="1" style="border-collapse: collapse;margin: 25px 0;font-size:14.5px;font-family: sans-serif;box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);">
@@ -206,7 +207,7 @@ Students will also learn about the definitions of biological sex, gender identit
 				<li style="font-size:14.5px;font-family:sans-serif;margin-bottom:5px;line-height:2">recognise what healthy dating relationships involve and know that readiness is important when entering into a dating relationship</li>
 			</ul>
 		</td>
-		<td style="font-size:14.5px;font-family:sans-serif;margin-bottom:5px;line-height:2">Term 2 Week 4</td>
+		<td style="font-size:14.5px;font-family:sans-serif;margin-bottom:5px;line-height:2">Term 1 Week 8</td>
 </tr>
 	
 <tr style="background-color:#f3f3f3;font-size:15px;line-height:2">
