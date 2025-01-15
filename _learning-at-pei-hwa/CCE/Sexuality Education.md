@@ -105,14 +105,15 @@ of Sexuality Education in the school curriculum.</p>
 				<li style="font-size:14.5px;font-family:sans-serif;margin-bottom:5px;">recognise that there are moral and legal consequences of risky sexual behaviours, pornography access and acting irresponsibly or maliciously when online (e.g. spreading of online falsehoods, flouting copyright laws, etc.)</li>
 			</ul>
 		</td>
-		<td style="font-size:14.5px;font-family:sans-serif;margin-bottom:5px;line-height:2">Term 3 Week 6</td>
+		<td style="font-size:14.5px;font-family:sans-serif;margin-bottom:5px;line-height:2">Term 3 Week 8</td>
 </tr>
 										
 </tbody>
 </table>
 
-<img src="/images/Learning%20@%20Pei%20Hwa/2024SexEduSec2.png">
-<p style="margin-top:15px;font-size:17px;font-family:sans-serif;"><strong>SECONDARY 2</strong></p>
+<img src="/images/Learning%20@%20Pei%20Hwa/CCE_SEC_1_2025.png">
+
+ <p style="margin-top:15px;font-size:17px;"><strong style="font-family:sans-serif;">SECONDARY 2<br></strong></p>
 
 <table border="1" style="border-collapse: collapse;margin: 25px 0;font-size:14.5px;font-family: sans-serif;box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);">
 <thead style="background-color: #009879; font-weight: bold; font-size: 14.5px;">
@@ -143,7 +144,7 @@ Students will also learn about the definitions of biological sex, gender identit
 					<li style="font-size:14.5px;font-family:sans-serif;margin-bottom:5px;line-height:2">understand what sexual orientation entails</li>
 			</ul>
 		</td>
-		<td style="font-size:14.5px;font-family:sans-serif;margin-bottom:5px;line-height:2">Term 2 Week 1</td>
+		<td style="font-size:14.5px;font-family:sans-serif;margin-bottom:5px;line-height:2">Term 2 Week 7</td>
 </tr>
 	
 <tr style="background-color:#f3f3f3;font-size:14.5px;line-height:2">
@@ -158,19 +159,19 @@ Students will also learn about the definitions of biological sex, gender identit
 				<li style="font-size:14.5px;font-family:sans-serif;margin-bottom:5px;line-height:2">recognise one’s vulnerability to risky situations and the importance of exercising discretion to reduce risks and avoid negative consequences, both online and offline</li>
 			</ul>
 		</td>
-		<td style="font-size:14.5px;font-family:sans-serif;margin-bottom:5px;line-height:2">Term 2 Week 6</td>
+		<td style="font-size:14.5px;font-family:sans-serif;margin-bottom:5px;line-height:2">Term 2 Week 8</td>
 </tr>
 	
 <tr style="border-bottom: 2px solid #009879;">
 		<td style="font-size:14.5px;font-family:sans-serif;margin-bottom:5px;line-height:2;text-align:center;">Do I or Don’t I <br>Lesson 2B<br>(60 mins)</td>
-		<td style="font-size:14.5px;font-family:sans-serif;margin-bottom:5px;line-height:2">This lesson focuses on respect for personal boundaries; and how to be safe from risky sexual behaviour, teenage pregnancy and abortion. Students will learn the importance of respecting one another’s boundaries in relationships. This lesson emphasises the importance of responsible decision-making, the value of sexual abstinence, the need for help seeking. Students will be aware of Singapore laws protecting minors, such as the legal consequences of having sex with a minor, abortion and the abandonment of babies. </td>
+		<td style="font-size:14.5px;font-family:sans-serif;margin-bottom:5px;line-height:2">This lesson focuses on respect for personal boundaries; and how to be safe from risky sexual behaviour, teenage pregnancy and abortion. Students will learn the importance of respecting one another’s boundaries in relationships. This lesson emphasises the importance of responsible decision-making, the value of sexual abstinence, the need for help seeking. Students will be aware of Singapore laws protecting minors, such as the legal consequences of having sex with a minor, abortion and the abandonment of babies.  </td>
 		<td>
 			<ul style="margin-top:-10px;">
 				<li style="font-size:14.5px;font-family:sans-serif;margin-bottom:5px;line-height:2">recognise the importance of self-respect and respect for others in relating to members of the opposite sex</li>
 				<li style="font-size:14.5px;font-family:sans-serif;margin-bottom:5px;">recognise one’s vulnerability to risky situations and the importance of exercising discretion to reduce risks and avoid negative consequences, both offline and online</li>
 			</ul>
 		</td>
-		<td style="font-size:14.5px;font-family:sans-serif;margin-bottom:5px;line-height:2">Term 2 Week 7</td>
+		<td style="font-size:14.5px;font-family:sans-serif;margin-bottom:5px;line-height:2">Term 3 Week 2</td>
 </tr>
 										
 </tbody>
