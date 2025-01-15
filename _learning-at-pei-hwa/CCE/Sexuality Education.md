@@ -7,8 +7,7 @@ variant: markdown
 ---
 <h6 style="color:#0B6623;;font-family:sans-serif;font-weight:bold;"><strong style="font-family:sans-serif;font-size:17px;color:#0B6623;">MOE Sexuality Education in Schools</strong></h6>
 
-<p style="font-size:14.5px; line-height:2;margin-top:0px; font-family:sans-serif">Sexuality Education (SEd) in schools aims to enable students to understand the physiological, social and emotional changes they experience as they mature, develop healthy and rewarding relationships with others, including those with members of the opposite sex, and make wise, informed and responsible decisions on sexuality matters. SEd is premised on the importance of the family as the basic unit of society. This means encouraging healthy, heterosexual marriages and stable
-nuclear family units with extended family support. The teaching and learning of SEd is based on respect for the values and beliefs of the different ethnic and religious communities in Singapore on sexuality issues.</p>
+<p style="font-size:14.5px; line-height:2;margin-top:0px; font-family:sans-serif">Sexuality Education (SEd) in schools aims to enable students to understand the physiological, social and emotional changes they experience as they mature, develop healthy and rewarding relationships with others, including those with members of the opposite sex, and make wise, informed and responsible decisions on sexuality matters. SEd is premised on the importance of the family as the basic unit of society. This means encouraging healthy, heterosexual marriages and stable nuclear family units with extended family support. The teaching and learning of SEd is based on respect for the values and beliefs of the different ethnic and religious communities in Singapore on sexuality issues.</p>
 
 <p style="font-size:14.5px; line-height:2;font-family:sans-serif;">The <strong style="font-size:14.5px;font-family:sans-serif;">Goals</strong> of Sexuality Education are:</p>
 <ol style="margin-top:-5px;">
@@ -29,7 +28,7 @@ foundation for strong families);</li>
 <p style="margin-top:15px;font-size:14.5px; line-height:2;font-family:sans-serif;">You may click&nbsp;<a href="https://go.gov.sg/moe-sexuality-education" style="font-size:14.5px; line-height:1.5;font-family:sans-serif;font-weight:bold;text-decoration: none;">here</a>&nbsp;for more information on MOE Sexuality Education.</p>
 
 
-<h6 style="color:#0B6623;;font-family:sans-serif;font-weight:bold;"><strong style="font-family:sans-serif;font-size:17px;color:#0B6623;">Overview of Pei Hwa Secondary &amp; School &amp; Sexuality Education Programme for 2024</strong></h6>
+<h6 style="color:#0B6623;;font-family:sans-serif;font-weight:bold;"><strong style="font-family:sans-serif;font-size:17px;color:#0B6623;">Overview of Pei Hwa Secondary School's Sexuality Education Programme for 2025</strong></h6>
 
 <p style="margin-top:0px;font-size:14.5px; line-height:2;font-family:sans-serif;">Sexuality Education is delivered in a holistic manner through the school curriculum. The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law. You may click <a href="https://go.gov.sg/moe-sexuality-education-scope" style="font-size:14.5px; line-height:1.5;font-family:sans-serif;font-weight:bold;text-decoration: none;">here</a> for more information on the scope
 of Sexuality Education in the school curriculum.</p>
@@ -42,14 +41,13 @@ of Sexuality Education in the school curriculum.</p>
 
 
 <h6 style="color:#0B6623;;font-family:sans-serif;font-weight:bold;"><strong style="font-family:sans-serif;font-size:17px;color:#0B6623;">Sexuality Education Lessons</strong></h6>
-<p style="font-size:14.5px; line-height:2;margin-top:0px; font-family:sans-serif">The values and attitudes of our youth towards sexuality are increasingly shaped by their peers, exposure to the media, popular culture and the internet. Adolescence is a complex stage in life as the adolescent attempts to find his/her own identity and often struggles with new social relationships. The period of middle adolescence (generally from 15 – 17 years old) can be a turbulent period for adolescents. The gap between physical and emotional/cognitive maturity may result in a tendency to act on impulse, experiment with various activities (including sexual
-activities), sometimes without understanding the unpleasant consequences that may arise from such experimentation. The need for peer acceptance can be overwhelmingly strong and hinder one’s ability to act responsibly. Given the pressures faced by the middle adolescent from within themselves and from peers, it is important to build a strong sense of self-worth, personal conviction and an understanding of the possible consequences of sexual behaviour.</p>
+<p style="font-size:14.5px; line-height:2;margin-top:0px; font-family:sans-serif">The values and attitudes of our youth towards sexuality are increasingly shaped by their peers, exposure to the media, popular culture and the internet. Adolescence is a complex stage in life as the adolescent attempts to find his or her own identity and often struggles with new social relationships. The period of middle adolescence (generally from 15 – 17 years old) can be a turbulent period for adolescents. The gap between physical and emotional/cognitive maturity may result in a tendency to act on impulse, experiment with various activities (including sexual activities), sometimes without understanding the unpleasant consequences that may arise from such experimentation. The need for peer acceptance can be overwhelmingly strong and hinder one’s ability to act responsibly.  Given the pressures faced by the middle adolescent from within themselves and from peers, it is important to build a strong sense of self-worth, personal conviction and an understanding of the possible consequences of sexual behaviour. </p>
 
 <p style="margin-top:0px;font-size:14.5px; line-height:2;font-family:sans-serif;">Through the Sexuality Education lessons, secondary students will have the opportunity to develop a positive self-esteem, develop their character, and expand their understanding and repertoire of skills to deal with various issues related to sexuality, which are of prime concern at this age.</p>
 
-<h6 style="color:#0B6623;font-family:sans-serif;font-weight:bold;"><strong style="font-family:sans-serif;font-size:17px;color:#0B6623;">At Pei Hwa Secondary School, the following Sexuality Education lessons will be taught in 2024</strong></h6>
+<h6 style="color:#0B6623;font-family:sans-serif;font-weight:bold;"><strong style="font-family:sans-serif;font-size:17px;color:#0B6623;">At Pei Hwa Secondary School, the following Sexuality Education lessons will be taught in 2025:</strong></h6>
 
-<img src="/images/Learning%20@%20Pei%20Hwa/2024SexEduSec1.png">
+<img src="/images/Learning%20@%20Pei%20Hwa/CCE_SEC_1_2025.png">
 
  <p style="margin-top:15px;font-size:17px;"><strong style="font-family:sans-serif;">SECONDARY 1<br></strong></p>
 
@@ -107,14 +105,15 @@ activities), sometimes without understanding the unpleasant consequences that ma
 				<li style="font-size:14.5px;font-family:sans-serif;margin-bottom:5px;">recognise that there are moral and legal consequences of risky sexual behaviours, pornography access and acting irresponsibly or maliciously when online (e.g. spreading of online falsehoods, flouting copyright laws, etc.)</li>
 			</ul>
 		</td>
-		<td style="font-size:14.5px;font-family:sans-serif;margin-bottom:5px;line-height:2">Term 3 Week 6</td>
+		<td style="font-size:14.5px;font-family:sans-serif;margin-bottom:5px;line-height:2">Term 3 Week 8</td>
 </tr>
 										
 </tbody>
 </table>
 
-<img src="/images/Learning%20@%20Pei%20Hwa/2024SexEduSec2.png">
-<p style="margin-top:15px;font-size:17px;font-family:sans-serif;"><strong>SECONDARY 2</strong></p>
+<img src="/images/Learning%20@%20Pei%20Hwa/CCE_SEC_1_2025.png">
+
+ <p style="margin-top:15px;font-size:17px;"><strong style="font-family:sans-serif;">SECONDARY 2<br></strong></p>
 
 <table border="1" style="border-collapse: collapse;margin: 25px 0;font-size:14.5px;font-family: sans-serif;box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);">
 <thead style="background-color: #009879; font-weight: bold; font-size: 14.5px;">
@@ -145,7 +144,7 @@ Students will also learn about the definitions of biological sex, gender identit
 					<li style="font-size:14.5px;font-family:sans-serif;margin-bottom:5px;line-height:2">understand what sexual orientation entails</li>
 			</ul>
 		</td>
-		<td style="font-size:14.5px;font-family:sans-serif;margin-bottom:5px;line-height:2">Term 2 Week 1</td>
+		<td style="font-size:14.5px;font-family:sans-serif;margin-bottom:5px;line-height:2">Term 2 Week 7</td>
 </tr>
 	
 <tr style="background-color:#f3f3f3;font-size:14.5px;line-height:2">
@@ -160,25 +159,26 @@ Students will also learn about the definitions of biological sex, gender identit
 				<li style="font-size:14.5px;font-family:sans-serif;margin-bottom:5px;line-height:2">recognise one’s vulnerability to risky situations and the importance of exercising discretion to reduce risks and avoid negative consequences, both online and offline</li>
 			</ul>
 		</td>
-		<td style="font-size:14.5px;font-family:sans-serif;margin-bottom:5px;line-height:2">Term 2 Week 6</td>
+		<td style="font-size:14.5px;font-family:sans-serif;margin-bottom:5px;line-height:2">Term 2 Week 8</td>
 </tr>
 	
 <tr style="border-bottom: 2px solid #009879;">
 		<td style="font-size:14.5px;font-family:sans-serif;margin-bottom:5px;line-height:2;text-align:center;">Do I or Don’t I <br>Lesson 2B<br>(60 mins)</td>
-		<td style="font-size:14.5px;font-family:sans-serif;margin-bottom:5px;line-height:2">This lesson focuses on respect for personal boundaries; and how to be safe from risky sexual behaviour, teenage pregnancy and abortion. Students will learn the importance of respecting one another’s boundaries in relationships. This lesson emphasises the importance of responsible decision-making, the value of sexual abstinence, the need for help seeking. Students will be aware of Singapore laws protecting minors, such as the legal consequences of having sex with a minor, abortion and the abandonment of babies. </td>
+		<td style="font-size:14.5px;font-family:sans-serif;margin-bottom:5px;line-height:2">This lesson focuses on respect for personal boundaries; and how to be safe from risky sexual behaviour, teenage pregnancy and abortion. Students will learn the importance of respecting one another’s boundaries in relationships. This lesson emphasises the importance of responsible decision-making, the value of sexual abstinence, the need for help seeking. Students will be aware of Singapore laws protecting minors, such as the legal consequences of having sex with a minor, abortion and the abandonment of babies.  </td>
 		<td>
 			<ul style="margin-top:-10px;">
 				<li style="font-size:14.5px;font-family:sans-serif;margin-bottom:5px;line-height:2">recognise the importance of self-respect and respect for others in relating to members of the opposite sex</li>
 				<li style="font-size:14.5px;font-family:sans-serif;margin-bottom:5px;">recognise one’s vulnerability to risky situations and the importance of exercising discretion to reduce risks and avoid negative consequences, both offline and online</li>
 			</ul>
 		</td>
-		<td style="font-size:14.5px;font-family:sans-serif;margin-bottom:5px;line-height:2">Term 2 Week 7</td>
+		<td style="font-size:14.5px;font-family:sans-serif;margin-bottom:5px;line-height:2">Term 3 Week 2</td>
 </tr>
 										
 </tbody>
 </table>
 
-<img src="/images/Learning%20@%20Pei%20Hwa/2024SexEduSec2.png">
+<img src="/images/Learning%20@%20Pei%20Hwa/CCE_SEC_1_2025.png">
+
  <p style="margin-top:15px;font-size:17px;"><strong style="font-family:sans-serif;">SECONDARY 3<br></strong></p>
 
 <table border="1" style="border-collapse: collapse;margin: 25px 0;font-size:14.5px;font-family: sans-serif;box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);">
@@ -207,7 +207,7 @@ Students will also learn about the definitions of biological sex, gender identit
 				<li style="font-size:14.5px;font-family:sans-serif;margin-bottom:5px;line-height:2">recognise what healthy dating relationships involve and know that readiness is important when entering into a dating relationship</li>
 			</ul>
 		</td>
-		<td style="font-size:14.5px;font-family:sans-serif;margin-bottom:5px;line-height:2">Term 2 Week 4</td>
+		<td style="font-size:14.5px;font-family:sans-serif;margin-bottom:5px;line-height:2">Term 1 Week 8</td>
 </tr>
 	
 <tr style="background-color:#f3f3f3;font-size:15px;line-height:2">
@@ -221,7 +221,7 @@ Students will also learn about the definitions of biological sex, gender identit
 				<li style="font-size:14.5px;font-family:sans-serif;margin-bottom:5px;line-height:2">know there are healthy ways of coping with broken relationships, and family and friends are important pillars of support </li>
 			</ul>
 		</td>
-		<td style="font-size:14.5px;font-family:sans-serif;margin-bottom:5px;line-height:2">Term 3 Week 3</td>
+		<td style="font-size:14.5px;font-family:sans-serif;margin-bottom:5px;line-height:2">Term 1 Week 9</td>
 </tr>
 	
 <tr style="border-bottom: 2px solid #009879;">
@@ -235,15 +235,15 @@ Lesson 2<br>(60 mins)</td>
 </li>
 			</ul>
 		</td>
-		<td style="font-size:14.5px;font-family:sans-serif;margin-bottom:5px;line-height:2">Term 3 Week 6</td>
+		<td style="font-size:14.5px;font-family:sans-serif;margin-bottom:5px;line-height:2">Term 2 Week 1</td>
 </tr>
 										
 </tbody>
 </table>
 
-<img src="/images/Learning%20@%20Pei%20Hwa/2024SexEduSec2.png">
- <p style="margin-top:15px;font-size:17px;">
-<strong style="font-family:sans-serif;">SECONDARY 4<br></strong></p>
+<img src="/images/Learning%20@%20Pei%20Hwa/CCE_SEC_1_2025.png">
+
+ <p style="margin-top:15px;font-size:17px;"><strong style="font-family:sans-serif;">SECONDARY 4<br></strong></p>
 
 <table border="1" style="border-collapse: collapse;margin: 25px 0;font-size:14.5px;font-family: sans-serif;box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);">
 <thead style="background-color: #009879; font-weight: bold; font-size: 14.5px;">
@@ -269,7 +269,7 @@ Lesson 2<br>(60 mins)</td>
 			    <li style="font-size:14.5px;font-family:sans-serif;margin-bottom:5px;line-height:2">know that imposing gender stereotypes on oneself and others can limit one’s experiences, cause harm to the self-esteem of oneself and others and should be avoided </li>
 			</ul>
 		</td>
-		<td style="font-size:14.5px;font-family:sans-serif;margin-bottom:5px;line-height:2">Term 1 Week 9</td>
+		<td style="font-size:14.5px;font-family:sans-serif;margin-bottom:5px;line-height:2">Term 1 Week 8</td>
 </tr>
 	
 <tr style="background-color:#f3f3f3;font-size:15px;line-height:2">
@@ -284,7 +284,7 @@ Lesson 2<br>(60 mins)</td>
 				<li style="font-size:14.5px;font-family:sans-serif;margin-bottom:5px;line-height:2">understand the importance of ensuring that non-verbal messages match with verbal ones, when communicating personal and emotional boundaries in a relationship</li>
 			</ul>
 		</td>
-		<td style="font-size:14.5px;font-family:sans-serif;margin-bottom:5px;line-height:2">Term 2 Week 1</td>
+		<td style="font-size:14.5px;font-family:sans-serif;margin-bottom:5px;line-height:2">Term 1 Week 9</td>
 </tr>
 	
 <tr>
@@ -297,7 +297,7 @@ Lesson 2<br>(60 mins)</td>
 				<li style="font-size:14.5px;font-family:sans-serif;margin-bottom:5px;">understand that conflicts are normal in any relationship, including marriage, and the way in which a couple handles conflict is critical to the success of their marriage</li>
 			</ul>
 		</td>
-		<td style="font-size:14.5px;font-family:sans-serif;margin-bottom:5px;line-height:2">Term 2 Week 4</td>
+		<td style="font-size:14.5px;font-family:sans-serif;margin-bottom:5px;line-height:2">Term 2 Week 1</td>
 </tr>
 	
 <tr style="background-color:#f3f3f3;font-size:15px;line-height:2;border-bottom: 2px solid #009879;">
@@ -308,16 +308,15 @@ Lesson 2<br>(60 mins)</td>
 				<li style="font-size:14.5px;font-family:sans-serif;margin-bottom:5px;line-height:2">understand that we strengthen our character when we commit to sound values-based viewpoints (e.g. respect for life) and decisions, and speak and act in alignment with our beliefs</li>
 			</ul>
 		</td>
-		<td style="font-size:14.5px;font-family:sans-serif;margin-bottom:5px;line-height:2">Term 2 Week 6</td>
+		<td style="font-size:14.5px;font-family:sans-serif;margin-bottom:5px;line-height:2">Term 2 Week 2</td>
 </tr>
 									
 </tbody>
 </table>
 
-<img src="/images/Learning%20@%20Pei%20Hwa/2024SexEduSec2.png">
- <p style="margin-top:15px;font-size:17px;">
+<img src="/images/Learning%20@%20Pei%20Hwa/CCE_SEC_1_2025.png">
 
- </p><p style="margin-top:15px;font-size:17px;"><strong style="font-family:sans-serif;">SECONDARY 5<br></strong></p>
+ <p style="margin-top:15px;font-size:17px;"><strong style="font-family:sans-serif;">SECONDARY 5<br></strong></p>
 
 <table border="1" style="border-collapse: collapse;margin: 25px 0;font-size:14.5px;font-family: sans-serif;box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);">
 <thead style="background-color: #009879; font-weight: bold; font-size: 14.5px;">
@@ -341,7 +340,7 @@ Lesson 2<br>(60 mins)</td>
 				<li style="font-size:14.5px;font-family:sans-serif;margin-bottom:5px;line-height:2">understand that we strengthen our character when we commit to sound values-based viewpoints (e.g. respect for life) and decisions, and speak and act in alignment with our beliefs</li>
 			</ul>
 		</td>
-		<td style="font-size:14.5px;font-family:sans-serif;margin-bottom:5px;line-height:2">Term 2 Week 1</td>
+		<td style="font-size:14.5px;font-family:sans-serif;margin-bottom:5px;line-height:2">Term 2 Week 7</td>
 </tr>
 	
 </tbody>
@@ -354,7 +353,7 @@ Lesson 2<br>(60 mins)</td>
 
 <p style="margin-top:0px;font-size:14.5px; line-height:2;font-family:sans-serif;">Students are taught skills such as decision-making, assertiveness and negotiation to say “no” to sex and negative peer pressure. They also learn that the impact of STIs/HIV extends beyond themselves and involves their family, and the importance of responsible decision-making and seeking help. Abstinence and upholding family values are the key messages.</p>
 
-<h6 style="color:#0B6623;;font-family:sans-serif;font-weight:bold;"><strong style="font-family:sans-serif;font-size:17px;color:#0B6623;">At Pei Hwa Secondary School, the <em style="font-weight: bold;margin: 0;color:#0B6623;">eTeens</em> programme will be implemented as follows in 2024:</strong></h6>
+<h6 style="color:#0B6623;;font-family:sans-serif;font-weight:bold;"><strong style="font-family:sans-serif;font-size:17px;color:#0B6623;">At Pei Hwa Secondary School, the <em style="font-weight: bold;margin: 0;color:#0B6623;">eTeens</em> programme will be implemented as follows in 2025:</strong></h6>
 
 <table border="1" style="border-collapse: collapse;margin: 25px 0;font-size:15px;font-family: sans-serif;box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);">
 <thead style="background-color: #009879; font-weight: bold; font-size: 14.5px;">
@@ -368,7 +367,7 @@ Lesson 2<br>(60 mins)</td>
 <tbody>
 <tr>
 		<td style="font-size:14.5px; line-height:2;font-family:sans-serif;">
-		Mass Talk by HPB appointed vendor
+		Mass Talk delivered through a pre-recorded video
 		</td>
 		<td style="font-size:14.5px; line-height:2;font-family:sans-serif;">
 			<ul>
@@ -381,7 +380,7 @@ Lesson 2<br>(60 mins)</td>
 		</ul>
 		</td>
 		<td style="font-size:14.5px; font-family:sans-serif;line-height:2">
-			Term 2 Week 7</td>
+			Term 2 Week 2</td>
 </tr>
 									
 <tr style="background-color:#f3f3f3;border-bottom: 2px solid #009879;">
@@ -394,7 +393,7 @@ Lesson 2<br>(60 mins)</td>
 		</ul>
 		</td>
 		<td style="font-size:14.5px;font-family:sans-serif; line-height:2">
-			Term 2 Week 8</td>
+			Term 2 Week 6</td>
 </tr>
 				
 
@@ -404,9 +403,8 @@ Lesson 2<br>(60 mins)</td>
 <h6 style="color:#0B6623;;font-family:sans-serif;font-weight:bold;"><strong style="font-family:sans-serif;font-size:17px;color:#0B6623;">Information for Parents</strong></h6>
 <p style="font-size:14.5px; line-height:2;margin-top:0px; font-family:sans-serif">Parents may opt their children out of the Sexuality Education lessons, <em style="font-family:sans-serif;">eTeens</em> and/or supplementary sexuality education programmes by MOE-approved external providers. </p>
 
- <p style="margin-top:0px;font-size:14.5px; line-height:2;font-family:sans-serif;">Parents who wish to opt their children out of the <strong style="font-family:sans-serif;">Sexuality Education lessons </strong> need to complete an opt-out form. This form will be communicated to parents at the start of the year and is also downloadable <a href="https://drive.google.com/file/d/16TTvBNnYsTNaW5EI0LgcsV6yCqFFhxSM/view?usp=sharing" style="font-size:14.5px; line-height:1.5;font-family:sans-serif;font-weight:bold;text-decoration: none;">here</a>. The completed form is to be submitted by 02/02/2024 for Secondary 1 to Secondary 4 students and 16/02/2024 for Secondary 5 students. </p>
+ <p style="margin-top:0px;font-size:14.5px; line-height:2;font-family:sans-serif;">Parents who wish to opt their children out of the <strong style="font-family:sans-serif;">Sexuality Education lessons </strong> need to complete an opt-out form. This form will be communicated to parents at the start of the year and is also downloadable <a href="https://drive.google.com/file/d/1WAL0fAOvHunUeM7nwWVnR2B-U1WUW8vp/view?usp=sharing" style="font-size:14.5px; line-height:1.5;font-family:sans-serif;font-weight:bold;text-decoration: none;">here</a>. The completed form is to be submitted by <strong style="font-family:sans-serif;">07/02/2025</strong>.</p>
 
- <p style="margin-top:0px;font-size:14.5px; line-height:2;font-family:sans-serif;"><span lang="EN-GB">Parents who wish to opt their children out of the <strong style="font-family:sans-serif;"><em style="font-family:sans-serif;">eTeens</em> programme</strong> need to complete an opt-out form. This form will be communicated to parents at the start of the year and is also downloadable <a href="https://drive.google.com/file/d/1GUIaK-Yu79KpFYffJQ3CLs7kVCRV90Gc/view?usp=sharing" style="font-size:14.5px; line-height:1.5;font-family:sans-serif;font-weight:bold;text-decoration: none;">here</a>. The completed form is to be submitted by 02/02/2024.
-</span></p>
-
+ <p style="margin-top:0px;font-size:14.5px; line-height:2;font-family:sans-serif;"><span lang="EN-GB">Parents who wish to opt their children out of the <strong style="font-family:sans-serif;"><em style="font-family:sans-serif;">eTeens</em> programme</strong> need to complete an opt-out form. This form will be communicated to parents at the start of the year and is also downloadable <a href="https://drive.google.com/file/d/1tmFI8Zwv_86SoYiVuPSzkiW_OPYGtGIP/view?usp=sharing" style="font-size:14.5px; line-height:1.5;font-family:sans-serif;font-weight:bold;text-decoration: none;">here</a>. The completed form is to be submitted by <strong style="font-family:sans-serif;">07/02/2025</strong>.</span></p>
+	
  <p style="margin-top:0px;font-size:14.5px; line-height:2;font-family:sans-serif;">Parents can contact the school at 65009580 for discussion or to seek clarification about the school’s Sexuality Education programme.</p>
