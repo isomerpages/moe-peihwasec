@@ -221,7 +221,7 @@ Students will also learn about the definitions of biological sex, gender identit
 				<li style="font-size:14.5px;font-family:sans-serif;margin-bottom:5px;line-height:2">know there are healthy ways of coping with broken relationships, and family and friends are important pillars of support </li>
 			</ul>
 		</td>
-		<td style="font-size:14.5px;font-family:sans-serif;margin-bottom:5px;line-height:2">Term 3 Week 3</td>
+		<td style="font-size:14.5px;font-family:sans-serif;margin-bottom:5px;line-height:2">Term 1 Week 9</td>
 </tr>
 	
 <tr style="border-bottom: 2px solid #009879;">
@@ -235,15 +235,15 @@ Lesson 2<br>(60 mins)</td>
 </li>
 			</ul>
 		</td>
-		<td style="font-size:14.5px;font-family:sans-serif;margin-bottom:5px;line-height:2">Term 3 Week 6</td>
+		<td style="font-size:14.5px;font-family:sans-serif;margin-bottom:5px;line-height:2">Term 2 Week 1</td>
 </tr>
 										
 </tbody>
 </table>
 
-<img src="/images/Learning%20@%20Pei%20Hwa/2024SexEduSec2.png">
- <p style="margin-top:15px;font-size:17px;">
-<strong style="font-family:sans-serif;">SECONDARY 4<br></strong></p>
+<img src="/images/Learning%20@%20Pei%20Hwa/CCE_SEC_1_2025.png">
+
+ <p style="margin-top:15px;font-size:17px;"><strong style="font-family:sans-serif;">SECONDARY 4<br></strong></p>
 
 <table border="1" style="border-collapse: collapse;margin: 25px 0;font-size:14.5px;font-family: sans-serif;box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);">
 <thead style="background-color: #009879; font-weight: bold; font-size: 14.5px;">
@@ -269,7 +269,7 @@ Lesson 2<br>(60 mins)</td>
 			    <li style="font-size:14.5px;font-family:sans-serif;margin-bottom:5px;line-height:2">know that imposing gender stereotypes on oneself and others can limit one’s experiences, cause harm to the self-esteem of oneself and others and should be avoided </li>
 			</ul>
 		</td>
-		<td style="font-size:14.5px;font-family:sans-serif;margin-bottom:5px;line-height:2">Term 1 Week 9</td>
+		<td style="font-size:14.5px;font-family:sans-serif;margin-bottom:5px;line-height:2">Term 1 Week 8</td>
 </tr>
 	
 <tr style="background-color:#f3f3f3;font-size:15px;line-height:2">
@@ -284,7 +284,7 @@ Lesson 2<br>(60 mins)</td>
 				<li style="font-size:14.5px;font-family:sans-serif;margin-bottom:5px;line-height:2">understand the importance of ensuring that non-verbal messages match with verbal ones, when communicating personal and emotional boundaries in a relationship</li>
 			</ul>
 		</td>
-		<td style="font-size:14.5px;font-family:sans-serif;margin-bottom:5px;line-height:2">Term 2 Week 1</td>
+		<td style="font-size:14.5px;font-family:sans-serif;margin-bottom:5px;line-height:2">Term 1 Week 9</td>
 </tr>
 	
 <tr>
@@ -297,7 +297,7 @@ Lesson 2<br>(60 mins)</td>
 				<li style="font-size:14.5px;font-family:sans-serif;margin-bottom:5px;">understand that conflicts are normal in any relationship, including marriage, and the way in which a couple handles conflict is critical to the success of their marriage</li>
 			</ul>
 		</td>
-		<td style="font-size:14.5px;font-family:sans-serif;margin-bottom:5px;line-height:2">Term 2 Week 4</td>
+		<td style="font-size:14.5px;font-family:sans-serif;margin-bottom:5px;line-height:2">Term 2 Week 1</td>
 </tr>
 	
 <tr style="background-color:#f3f3f3;font-size:15px;line-height:2;border-bottom: 2px solid #009879;">
@@ -308,16 +308,15 @@ Lesson 2<br>(60 mins)</td>
 				<li style="font-size:14.5px;font-family:sans-serif;margin-bottom:5px;line-height:2">understand that we strengthen our character when we commit to sound values-based viewpoints (e.g. respect for life) and decisions, and speak and act in alignment with our beliefs</li>
 			</ul>
 		</td>
-		<td style="font-size:14.5px;font-family:sans-serif;margin-bottom:5px;line-height:2">Term 2 Week 6</td>
+		<td style="font-size:14.5px;font-family:sans-serif;margin-bottom:5px;line-height:2">Term 2 Week 2</td>
 </tr>
 									
 </tbody>
 </table>
 
-<img src="/images/Learning%20@%20Pei%20Hwa/2024SexEduSec2.png">
- <p style="margin-top:15px;font-size:17px;">
+<img src="/images/Learning%20@%20Pei%20Hwa/CCE_SEC_1_2025.png">
 
- </p><p style="margin-top:15px;font-size:17px;"><strong style="font-family:sans-serif;">SECONDARY 5<br></strong></p>
+ <p style="margin-top:15px;font-size:17px;"><strong style="font-family:sans-serif;">SECONDARY 5<br></strong></p>
 
 <table border="1" style="border-collapse: collapse;margin: 25px 0;font-size:14.5px;font-family: sans-serif;box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);">
 <thead style="background-color: #009879; font-weight: bold; font-size: 14.5px;">
@@ -341,7 +340,7 @@ Lesson 2<br>(60 mins)</td>
 				<li style="font-size:14.5px;font-family:sans-serif;margin-bottom:5px;line-height:2">understand that we strengthen our character when we commit to sound values-based viewpoints (e.g. respect for life) and decisions, and speak and act in alignment with our beliefs</li>
 			</ul>
 		</td>
-		<td style="font-size:14.5px;font-family:sans-serif;margin-bottom:5px;line-height:2">Term 2 Week 1</td>
+		<td style="font-size:14.5px;font-family:sans-serif;margin-bottom:5px;line-height:2">Term 2 Week 7</td>
 </tr>
 	
 </tbody>
@@ -354,7 +353,7 @@ Lesson 2<br>(60 mins)</td>
 
 <p style="margin-top:0px;font-size:14.5px; line-height:2;font-family:sans-serif;">Students are taught skills such as decision-making, assertiveness and negotiation to say “no” to sex and negative peer pressure. They also learn that the impact of STIs/HIV extends beyond themselves and involves their family, and the importance of responsible decision-making and seeking help. Abstinence and upholding family values are the key messages.</p>
 
-<h6 style="color:#0B6623;;font-family:sans-serif;font-weight:bold;"><strong style="font-family:sans-serif;font-size:17px;color:#0B6623;">At Pei Hwa Secondary School, the <em style="font-weight: bold;margin: 0;color:#0B6623;">eTeens</em> programme will be implemented as follows in 2024:</strong></h6>
+<h6 style="color:#0B6623;;font-family:sans-serif;font-weight:bold;"><strong style="font-family:sans-serif;font-size:17px;color:#0B6623;">At Pei Hwa Secondary School, the <em style="font-weight: bold;margin: 0;color:#0B6623;">eTeens</em> programme will be implemented as follows in 2025:</strong></h6>
 
 <table border="1" style="border-collapse: collapse;margin: 25px 0;font-size:15px;font-family: sans-serif;box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);">
 <thead style="background-color: #009879; font-weight: bold; font-size: 14.5px;">
@@ -368,7 +367,7 @@ Lesson 2<br>(60 mins)</td>
 <tbody>
 <tr>
 		<td style="font-size:14.5px; line-height:2;font-family:sans-serif;">
-		Mass Talk by HPB appointed vendor
+		Mass Talk delivered through a pre-recorded video
 		</td>
 		<td style="font-size:14.5px; line-height:2;font-family:sans-serif;">
 			<ul>
@@ -381,7 +380,7 @@ Lesson 2<br>(60 mins)</td>
 		</ul>
 		</td>
 		<td style="font-size:14.5px; font-family:sans-serif;line-height:2">
-			Term 2 Week 7</td>
+			Term 2 Week 2</td>
 </tr>
 									
 <tr style="background-color:#f3f3f3;border-bottom: 2px solid #009879;">
@@ -394,7 +393,7 @@ Lesson 2<br>(60 mins)</td>
 		</ul>
 		</td>
 		<td style="font-size:14.5px;font-family:sans-serif; line-height:2">
-			Term 2 Week 8</td>
+			Term 2 Week 6</td>
 </tr>
 				
 
@@ -404,9 +403,8 @@ Lesson 2<br>(60 mins)</td>
 <h6 style="color:#0B6623;;font-family:sans-serif;font-weight:bold;"><strong style="font-family:sans-serif;font-size:17px;color:#0B6623;">Information for Parents</strong></h6>
 <p style="font-size:14.5px; line-height:2;margin-top:0px; font-family:sans-serif">Parents may opt their children out of the Sexuality Education lessons, <em style="font-family:sans-serif;">eTeens</em> and/or supplementary sexuality education programmes by MOE-approved external providers. </p>
 
- <p style="margin-top:0px;font-size:14.5px; line-height:2;font-family:sans-serif;">Parents who wish to opt their children out of the <strong style="font-family:sans-serif;">Sexuality Education lessons </strong> need to complete an opt-out form. This form will be communicated to parents at the start of the year and is also downloadable <a href="https://drive.google.com/file/d/16TTvBNnYsTNaW5EI0LgcsV6yCqFFhxSM/view?usp=sharing" style="font-size:14.5px; line-height:1.5;font-family:sans-serif;font-weight:bold;text-decoration: none;">here</a>. The completed form is to be submitted by 02/02/2024 for Secondary 1 to Secondary 4 students and 16/02/2024 for Secondary 5 students. </p>
+ <p style="margin-top:0px;font-size:14.5px; line-height:2;font-family:sans-serif;">Parents who wish to opt their children out of the <strong style="font-family:sans-serif;">Sexuality Education lessons </strong> need to complete an opt-out form. This form will be communicated to parents at the start of the year and is also downloadable <a href="https://drive.google.com/file/d/16TTvBNnYsTNaW5EI0LgcsV6yCqFFhxSM/view?usp=sharing" style="font-size:14.5px; line-height:1.5;font-family:sans-serif;font-weight:bold;text-decoration: none;">here</a>. The completed form is to be submitted by <strong style="font-family:sans-serif;">07/02/2025</strong>.</p>
 
- <p style="margin-top:0px;font-size:14.5px; line-height:2;font-family:sans-serif;"><span lang="EN-GB">Parents who wish to opt their children out of the <strong style="font-family:sans-serif;"><em style="font-family:sans-serif;">eTeens</em> programme</strong> need to complete an opt-out form. This form will be communicated to parents at the start of the year and is also downloadable <a href="https://drive.google.com/file/d/1GUIaK-Yu79KpFYffJQ3CLs7kVCRV90Gc/view?usp=sharing" style="font-size:14.5px; line-height:1.5;font-family:sans-serif;font-weight:bold;text-decoration: none;">here</a>. The completed form is to be submitted by 02/02/2024.
-</span></p>
-
+ <p style="margin-top:0px;font-size:14.5px; line-height:2;font-family:sans-serif;"><span lang="EN-GB">Parents who wish to opt their children out of the <strong style="font-family:sans-serif;"><em style="font-family:sans-serif;">eTeens</em> programme</strong> need to complete an opt-out form. This form will be communicated to parents at the start of the year and is also downloadable <a href="https://drive.google.com/file/d/1GUIaK-Yu79KpFYffJQ3CLs7kVCRV90Gc/view?usp=sharing" style="font-size:14.5px; line-height:1.5;font-family:sans-serif;font-weight:bold;text-decoration: none;">here</a>. The completed form is to be submitted by <strong style="font-family:sans-serif;">07/02/2025</strong>.</span></p>
+	
  <p style="margin-top:0px;font-size:14.5px; line-height:2;font-family:sans-serif;">Parents can contact the school at 65009580 for discussion or to seek clarification about the school’s Sexuality Education programme.</p>
