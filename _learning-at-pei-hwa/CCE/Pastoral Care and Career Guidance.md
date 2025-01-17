@@ -18,7 +18,7 @@ students.</p>
 <p style="margin-top:0px;font-size:14.5px; line-height:2;font-family:sans-serif;">The Tiered System of Support is a comprehensive whole-school framework that utilises and assesses data regarding students' performance and progress to determine their specific needs and the level of support they require. The framework is employed to guide and provide support
 in both academic and non-academic domains.</p>
 
-<img style="width: 100%; height: auto;margin-top:30px;margin-bottom:30px;" alt="Image" src="https://raw.githubusercontent.com/isomerpages/moe-peihwasec/staging/images/Learning%20%40%20Pei%20Hwa/CCE/ccepccg01.png">
+<img style="width: 100%; height: auto;margin-top:30px;margin-bottom:30px;" alt="Image" src="/images/Learning%20@%20Pei%20Hwa/CCE/ccepccg01.png">
 
 <h6 style="color:#0B6623;font-family:sans-serif;font-size:17px;margin-top:30px;"><strong style="color:#0B6623;font-weight:bold;font-family:sans-serif;font-size:17px;">2. Counselling</strong></h6>
 
