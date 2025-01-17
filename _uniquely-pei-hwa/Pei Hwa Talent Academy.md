@@ -4,7 +4,7 @@ permalink: /uniquely-pei-hwa/pei-hwa-talent-academy/
 description: ""
 variant: markdown
 ---
-<img style="width: 100%; height: auto;margin-top:30px;margin-bottom:30px;" alt="Image" src="https://raw.githubusercontent.com/isomerpages/moe-peihwasec/staging/images/Uniquely%20Pei%20Hwa/talentacademybanner.png">
+<img style="width: 100%; height: auto;margin-top:30px;margin-bottom:30px;" alt="Image" src="/images/Uniquely%20Pei%20Hwa/talentacademybanner.png">
 
 <p style="font-size:14.5px; line-height:2;margin-top:15px; font-family:sans-serif">The Pei Hwa Talent Academy (PHTA), is a programme that aims to develop and nurture
 students who demonstrate a strong aptitude and talent in academic studies. This programme is a 4-year&nbsp;enriched curriculum specially&nbsp;tailored and differentiated for selected students who display strong passion, great aptitude and keen motivation in the various academic disciplines (English, Mathematics, Science and Humanities).</p>
@@ -102,7 +102,7 @@ awareness of how the knowledge learnt in school can help them with their future.
 
 <div style="display: flex; flex-wrap: wrap; justify-content: space-between; max-width: 800px; margin: 0 auto;" class="image-container">
 	<div style="width: 100%; margin-bottom: 20px; box-sizing: border-box; text-align: center;" class="image-box">
-    <img style="width: 100%; margin-bottom: 10px;" alt="Image 1" src="https://raw.githubusercontent.com/isomerpages/moe-peihwasec/staging/images/Uniquely%20Pei%20Hwa/phta01.png">
+    <img style="width: 100%; margin-bottom: 10px;" alt="Image 1" src="/images/Uniquely%20Pei%20Hwa/phta01.png">
     <p style="text-align: center; font-size:10px;margin-top:-5px;font-family:sans-serif;line-height:1.5;">Fig. 1: Approach for Pei Hwa Talent Academy</p>
   </div>
 
