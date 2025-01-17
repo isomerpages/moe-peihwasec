@@ -4,7 +4,7 @@ permalink: /community-at-pei-hwa/pei-hwa-alumni/
 description: ""
 variant: markdown
 ---
-<img style="width: 100%; height: auto;margin-top:30px;margin-bottom:30px;" alt="Image" src="https://raw.githubusercontent.com/isomerpages/moe-peihwasec/staging/images/BANNERs/peihwaalumnibanner.png">
+<img style="width: 100%; height: auto;margin-top:30px;margin-bottom:30px;" alt="Image" src="/images/BANNERs/peihwaalumnibanner.png">
 
 <h6 style="margin-top:10px;color:#0B6623;"><strong style="font-family:sans-serif;font-size:17px;color:#0B6623;">Who Are We</strong></h6>
 <p style="font-size:14.5px; line-height:2;font-family:sans-serif;margin-top:0px;">Ex-students from Pei Hwa Secondary School who wish to remain connected to the school via events and
@@ -30,7 +30,7 @@ programmes.</p>
 <h6 style="margin-top:10px;color:#0B6623;"><strong style="font-family:sans-serif;font-size:17px;color:#0B6623;">Register with Us</strong></h6>
 <p style="font-size:14.5px; line-height:1.5;font-family:sans-serif;margin-top:5px;">Complete the <a href="https://forms.gle/rTHd7b1NZoAmgG1s7" style="font-size:14.5px; line-height:1.5;font-family:sans-serif;font-weight:bold;text-decoration: none;">RECONNECT Form</a> AND follow us on Social media:</p>
 
-<img style="width: 100%; height: auto;margin-top:30px;margin-bottom:30px;" alt="Image" src="https://raw.githubusercontent.com/isomerpages/moe-peihwasec/staging/images/Links/peihwaalumni01.png">
+<img style="width: 100%; height: auto;margin-top:30px;margin-bottom:30px;" alt="Image" src="/images/Links/peihwaalumni01.png">
 
 <img style="width: 100%; height: auto;margin-bottom:30px;" alt="Image" src="/images/WhatsApp_Image_2024_05_27_at_11_19_41_AM.jpg">
 
