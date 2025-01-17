@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Clubs & Societies
 variant: markdown
 ---
-<img style="width: 100%; height: auto;margin-top:30px;margin-bottom:30px;" alt="Image" src="https://raw.githubusercontent.com/isomerpages/moe-peihwasec/staging/images/CCA/roboticsclubbanner.png">
+<img style="width: 100%; height: auto;margin-top:30px;margin-bottom:30px;" alt="Image" src="/images/CCA/roboticsclubbanner.png">
 
 <p style="font-size:14.5px; line-height:2 ;margin-top:0px; font-family:sans-serif;" class="description"><strong style="font-size:14.5px; line-height:2; font-family:sans-serif;">Pei Hwa Robotics Club</strong> plays an important role in Singapore’s Smart Nation initiative. In the Club, students innovate, think critically and work collaboratively with their peers in experimenting ideas and solving problems. They develop robot construction and programming skills through exposure to a variety of robotics platforms such as Cospace (Rescue, Autonomous Driving and OnStage), Arduino and many more. The students were given the opportunities to compete in national and international competitions where they pitch their skills against the best to build and programme robots to complete assigned missions in the most strategic and efficient manner.</p>
 	
@@ -200,11 +200,11 @@ Tay Kai Wen, Bryan (4D1), Lai Le Xin Grace (3I4), Ain Myeisha Arman (3I1), Chang
 	
 <div style="display: flex; flex-wrap: wrap; justify-content: space-between; max-width: 800px; margin: 0 auto;" class="image-container">
 	<div style="width: 45%; margin-bottom: 20px; box-sizing: border-box; text-align: center;" class="image-box">
-    <img style="width: 100%; margin-bottom: 10px;" alt="Image 1" src="https://raw.githubusercontent.com/isomerpages/moe-peihwasec/staging/images/CCA/robotics01.png">
+    <img style="width: 100%; margin-bottom: 10px;" alt="Image 1" src="/images/CCA/robotics01.png">
     <p style="text-align: center; font-size:10px;margin-top:-5px;font-family:sans-serif;line-height:1.5;">CoSpace OnStage students with their Robot that incorporates the use of Huskylens and Arduino programming </p>
   </div>
 	<div style="width: 45%; margin-bottom: 20px; box-sizing: border-box; text-align: center;" class="image-box">
-    <img style="width: 100%; margin-bottom: 10px;" alt="Image 1" src="https://raw.githubusercontent.com/isomerpages/moe-peihwasec/staging/images/CCA/robotics02.png">
+    <img style="width: 100%; margin-bottom: 10px;" alt="Image 1" src="/images/CCA/robotics02.png">
     <p style="text-align: center; font-size:10px;margin-top:-5px;font-family:sans-serif;line-height:1.5;">CoSpace OnStage students debugging the wiring of their Arduino coded robot</p>
   </div>
 </div>
@@ -212,20 +212,20 @@ Tay Kai Wen, Bryan (4D1), Lai Le Xin Grace (3I4), Ain Myeisha Arman (3I1), Chang
 <h6 style="color:#0B6623;font-family:sans-serif;font-weight:bold;margin-top:30px;"><strong style="font-family:sans-serif;font-size:17px;color:#0B6623;">Student Testament</strong></h6>
 
 <blockquote style="font-size: 15px;width:100%;margin:50px auto;margin-top:5px;font-family:serif;font-style:italic;color: #555555;padding:1.2em 25px 1.2em 25px;border-left:8px solid #0C6523;line-height:1.6;position: relative;background:#EDEDED;">
-<img align="left" src="https://raw.githubusercontent.com/isomerpages/moe-peihwasec/staging/images/CCA/roboticstestimonial02.png" style="width: 23%; border-radius: 7%;  margin-right:15px;">
+<img align="left" src="/images/CCA/roboticstestimonial02.png" style="width: 23%; border-radius: 7%;  margin-right:15px;">
 	"I enjoy the Robotics Club as I get to learn many new things and try them out with the help of the teachers and coaches. Since the first session of the CCA, I felt that I have a strong bond among my fellow CCA members. During my journey in the Robotics Club, i have learnt to be more resilient and confident. I am very grateful to the teachers in charge for providing me with the opportunity to lead and guide the CCA well. Being able to be part of the CCA has helped me grow a lot, which is something i am thankful for."
   <span style="display:block; color:#333333; margin-top:1em;font-size:15px;font-family:sans-serif;"><em style="font-family:sans-serif;">President, Teo Xuan Pei </em></span><br><br><br>
 	</blockquote> 
 
 <blockquote style="font-size: 15px;width:100%;margin:50px auto;margin-top:5px;font-family:serif;font-style:italic;color: #555555;padding:1.2em 25px 1.2em 25px;border-left:8px solid #0C6523;line-height:1.6;position: relative;background:#EDEDED;">
-<img align="left" src="https://raw.githubusercontent.com/isomerpages/moe-peihwasec/staging/images/CCA/roboticstestimonial01.png" style="width: 23%; border-radius: 7%;  margin-right:15px;">
+<img align="left" src="/images/CCA/roboticstestimonial01.png" style="width: 23%; border-radius: 7%;  margin-right:15px;">
 	"Being part of the Robotics Club has been an incredibly rewarding experience, not only in terms of personal growth, skill development, and leadership opportunities but also in forming lasting friendships. While our triumphs in competitions are certainly cause for celebration, they mean much more to us than mere accolades. They symbolise the collective sense of accomplishment and camaraderie that we have fostered as a team.<br><br>
 Notably, the friendships we forge within the Robotics Club hold a special place in our hearts. Through countless hours spent working together, overcoming challenges, and celebrating successes, we form bonds that extend beyond the club itself. These friendships have enriched our lives, providing support, encouragement, and a sense of belonging. As I reflect on my time in this remarkable Robotics Club, I am filled with gratitude. The unwavering commitment to teamwork, the pursuit of knowledge, and the drive for excellence have consistently propel us to success in competitions. It is an honor to be part of a team that embodies true collaboration, and I eagerly look forward to the future achievements we will accomplish together!"
   <span style="display:block; color:#333333; margin-top:1em;font-size:15px;font-family:sans-serif;"><em style="font-family:sans-serif;">Vice-President, Yan Ging Git</em></span>
 	</blockquote> 
 	
 <blockquote style="font-size: 15px;width:100%;margin:50px auto;margin-top:5px;font-family:serif;font-style:italic;color: #555555;padding:1.2em 25px 1.2em 25px;border-left:8px solid #0C6523;line-height:1.6;position: relative;background:#EDEDED;">
-<img align="left" src="https://raw.githubusercontent.com/isomerpages/moe-peihwasec/staging/images/CCA/roboticstestimonial03.png" style="width: 23%; border-radius: 7%;  margin-right:15px;">
+<img align="left" src="/images/CCA/roboticstestimonial03.png" style="width: 23%; border-radius: 7%;  margin-right:15px;">
 	"The Robotics Club is a marvelous place full of amiable and kind people whom I have the pleasure to meet. Over the past 1 and a half years, I have learnt many valuable values, such as resilience and perseverance. The valuable and interesting experiences I have in my time at the CCA has shaped me as a person positively,  and I slowly but surely found it easier to persevere through my obstacles and stand strong in the face of challenges. The competitions that I participate in are enjoyable, and my eyes are opened to an even bigger part of the robotics world. The competitions let me taste the feelings of victory and loss, and when I reminisce about my competitions, thinking about the fun I have and the amount of times my group meet with problems. I have a whale of a time with my team members during cca sessions and competitions, and I find them really affable and funny. The Robotics Club will always have a special place in my heart, and it's ever so bittersweet when I think back about my time at the cca, making new friends, and parting with a few. I look forward to every CCA session, eager to learn new things about Robotics and contribute to my CCA, as a logistics manager, but most importantly, a proud member of the Robotics Club."
   <span style="display:block; color:#333333; margin-top:1em;font-size:15px;font-family:sans-serif;"><em style="font-family:sans-serif;">Logistics Manager, Chong Yun Ting  </em></span>
 	</blockquote> 
