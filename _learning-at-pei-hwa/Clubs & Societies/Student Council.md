@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Clubs & Societies
 variant: markdown
 ---
-<img style="width: 100%; height: auto;margin-top:30px;margin-bottom:30px;" alt="Image" src="https://raw.githubusercontent.com/isomerpages/moe-peihwasec/staging/images/CCA/studentcouncilbanner.png">
+<img style="width: 100%; height: auto;margin-top:30px;margin-bottom:30px;" alt="Image" src="/images/CCA/studentcouncilbanner.png">
 
 <p style="font-size:14.5px; line-height:2 ;margin-top:0px; font-family:sans-serif;" class="description">The <strong style="font-size:14.5px; line-height:2; font-family:sans-serif;">Pei Hwa Student Council </strong> seeks to develop forward-looking leaders who are confident communicators, effective collaborators, active and empathetic contributors and innovative changemakers. The Student Council aspires to promote the school’s PRIDE values and to be exemplary role models to their fellow Pei Hwa-ians. </p>
 
@@ -39,10 +39,10 @@ variant: markdown
 
 <div style="display: flex; flex-wrap: wrap; justify-content: space-between; max-width: 800px; margin: 0 auto;" class="image-container">
 	<div style="width: 45%; margin-bottom: 20px; box-sizing: border-box; text-align: center;" class="image-box">
-    <img style="width: 100%; margin-bottom: 10px;" alt="Image 1" src="https://raw.githubusercontent.com/isomerpages/moe-peihwasec/staging/images/CCA/studentcouncil01.png">
+    <img style="width: 100%; margin-bottom: 10px;" alt="Image 1" src="/images/CCA/studentcouncil01.png">
   </div>
 	<div style="width: 45%; margin-bottom: 20px; box-sizing: border-box; text-align: center;" class="image-box">
-    <img style="width: 100%; margin-bottom: 10px;" alt="Image 1" src="https://raw.githubusercontent.com/isomerpages/moe-peihwasec/staging/images/CCA/studentcouncil02.png">
+    <img style="width: 100%; margin-bottom: 10px;" alt="Image 1" src="/images/CCA/studentcouncil02.png">
   </div>
 </div>
 
