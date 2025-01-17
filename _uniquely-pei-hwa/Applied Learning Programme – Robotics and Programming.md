@@ -2,8 +2,9 @@
 title: Applied Learning Programme – Robotics and Programming
 permalink: /uniquely-pei-hwa/applied-learning-programme-robotics-and-programming/
 description: ""
+variant: markdown
 ---
-<img style="width: 100%; height: auto;margin-top:30px;margin-bottom:30px;" alt="Image" src="https://raw.githubusercontent.com/isomerpages/moe-peihwasec/staging/images/Uniquely%20Pei%20Hwa/alpbanner.png">
+<img style="width: 100%; height: auto;margin-top:30px;margin-bottom:30px;" alt="Image" src="/images/Uniquely%20Pei%20Hwa/alpbanner.png">
 
 <h6 style="color:#0B6623;font-family:sans-serif;font-weight:bold;margin-top:30px;"><strong style="font-family:sans-serif;font-size:17px;color:#0B6623;">Our Goals</strong></h6>
 <p style="font-size:14.5px; line-height:2;margin-top:0; font-family:sans-serif">Pei Hwa Secondary’s Applied Learning Programme (ALP) in Robotics and Programming aims to empower students with the technological and thinking skills that will enable them to be innovative and empathetic members of the community.&nbsp;Recognised by MOE Educational Technology Division (ETD) as the Zonal Lead School for Making from 2019 to 2022, we are
@@ -12,7 +13,7 @@ students opportunities for work attachments, learning journeys and invaluable re
 
 <div style="display: flex; flex-wrap: wrap; justify-content: space-between; max-width: 800px; margin: 0 auto;" class="image-container">
 	<div style="width: 100%; margin-bottom: 20px; box-sizing: border-box; text-align: center;" class="image-box">
-    <img style="width: 100%; margin-bottom: 10px;" alt="Image 1" src="https://raw.githubusercontent.com/isomerpages/moe-peihwasec/staging/images/Uniquely%20Pei%20Hwa/alpr%26p01.png">
+    <img style="width: 100%; margin-bottom: 10px;" alt="Image 1" src="/images/Uniquely%20Pei%20Hwa/alpr&amp;p01.png">
   </div>
 </div>
 
@@ -25,7 +26,7 @@ academic subjects to equip our students with future ready skills to succeed in t
 
 <div style="display: flex; flex-wrap: wrap; justify-content: space-between; max-width: 800px; margin: 0 auto;" class="image-container">
 	<div style="width: 100%; margin-bottom: 20px; box-sizing: border-box; text-align: center;" class="image-box">
-    <img style="width: 100%; margin-bottom: 10px;" alt="Image 1" src="https://raw.githubusercontent.com/isomerpages/moe-peihwasec/staging/images/Uniquely%20Pei%20Hwa/alpr%26p02.png">
+    <img style="width: 100%; margin-bottom: 10px;" alt="Image 1" src="/images/Uniquely%20Pei%20Hwa/alpr&amp;p02.png">
   </div>
 </div>
 
@@ -33,7 +34,7 @@ academic subjects to equip our students with future ready skills to succeed in t
 
 <div style="display: flex; flex-wrap: wrap; justify-content: space-between; max-width: 800px; margin: 0 auto;" class="image-container">
 	<div style="width: 100%; margin-bottom: 20px; box-sizing: border-box; text-align: center;" class="image-box">
-    <img style="width: 100%; margin-bottom: 10px;" alt="Image 1" src="https://raw.githubusercontent.com/isomerpages/moe-peihwasec/staging/images/Uniquely%20Pei%20Hwa/alpr%26p03.png">
+    <img style="width: 100%; margin-bottom: 10px;" alt="Image 1" src="/images/Uniquely%20Pei%20Hwa/alpr&amp;p03.png">
   </div>
 </div>
 
