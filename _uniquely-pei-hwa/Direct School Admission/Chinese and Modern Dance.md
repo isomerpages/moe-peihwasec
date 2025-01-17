@@ -13,7 +13,7 @@ third_nav_title: Direct School Admission
 
 <img src="/images/Uniquely%20Pei%20Hwa/DSA/Dance02.jpg" style="width: 100%;">
 
-<p style="font-size:14.5px; line-height:2;margin-top:20px; font-family:sans-serif">For more information on the CCA, please click <a style="font-size:14.5px; line-height:1.5;font-family:sans-serif;font-weight:bold;text-decoration: none;" href="https://moe-peihwasec-staging.netlify.app/learning-at-pei-hwa/cca/performing-arts/dance-society/"> here.</a> </p>
+<p style="font-size:14.5px; line-height:2;margin-top:20px; font-family:sans-serif">For more information on the CCA, please click <a style="font-size:14.5px; line-height:1.5;font-family:sans-serif;font-weight:bold;text-decoration: none;" href="https://www.peihwasec.moe.edu.sg/learning-at-pei-hwa/cca/performing-arts/dance-society/"> here.</a> </p>
 
 <h6 style="color:#0B6623;font-family:sans-serif;font-weight:bold;margin-top:30px;"><strong style="font-family:sans-serif;font-size:17px;color:#0B6623;">Criteria</strong></h6>
 
