@@ -4,7 +4,7 @@ permalink: /uniquely-pei-hwa/beyond-borders-programme/
 description: ""
 variant: markdown
 ---
-<img style="width: 100%; height: auto;margin-top:30px;margin-bottom:30px;" alt="Image" src="https://raw.githubusercontent.com/isomerpages/moe-peihwasec/staging/images/Uniquely%20Pei%20Hwa/beyondbordersbanner.png">
+<img style="width: 100%; height: auto;margin-top:30px;margin-bottom:30px;" alt="Image" src="/images/Uniquely%20Pei%20Hwa/beyondbordersbanner.png">
 
 
 <p style="font-size:14.5px; line-height:2;font-family:sans-serif;margin-top:0px">The Beyond Borders Programme is designed to provide opportunities for our students to be exposed to the world beyond Singapore and understand different
