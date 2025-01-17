@@ -2,6 +2,7 @@
 title: Our Motto, Logo and Song
 permalink: /we-are-pei-hwa/our-motto-logo-and-song/
 description: ""
+variant: markdown
 ---
 <div style="background-color:#0B6623; padding:50px;">
 		<h6 style="font-weight: bold;margin: 0;color:white;font-family:sans-serif;font-size:17px;"><strong style="color:white;font-weight:bold;font-family:sans-serif;font-size:17px;">Our motto</strong></h6> 
@@ -10,7 +11,7 @@ description: ""
 
 <div style="margin-top:30px; width:100%; padding: 40px; display: flex; align-items: center;" class="box">
 <div style="position: relative; width: 300px; height: 300px; margin-right:40px;" class="container"> 
-	<img class="image" alt="Image" style="max-width: 50%; margin-right: 40px;border-radius: 10px" src="https://raw.githubusercontent.com/isomerpages/moe-peihwasec/staging/images/logo%20icon%20only%20-%20no%20tagline.png">&nbsp;
+	<img class="image" alt="Image" style="max-width: 50%; margin-right: 40px;border-radius: 10px" src="/images/logo%20icon%20only%20-%20no%20tagline.png">&nbsp;
 	</div>
 <div style="flex: 1;" class="content">
 	<h6 style="margin-top:-70px;color:#0B6623;font-family:sans-serif;font-size:17px;"><strong style="color:#0B6623;font-weight:bold;font-family:sans-serif;font-size:17px;">Our School Logo</strong></h6>
