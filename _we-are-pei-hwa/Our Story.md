@@ -6,7 +6,7 @@ variant: markdown
 ---
 <h6 style="color:#0B6623;font-family:sans-serif;font-size:17px;"><strong style="color:#0B6623;font-weight:bold;font-family:sans-serif;font-size:17px;">Our Story</strong></h6>
 
-<img style="width: 100%; height: auto;" alt="Image" src="https://raw.githubusercontent.com/isomerpages/moe-peihwasec/staging/images/Homepage/(3)%20learning%20for%20life%20programme%20%E2%80%93%20community%20youth%20leadership.png">
+<img style="width: 100%; height: auto;" alt="Image" src="/images/Homepage/(3)%20learning%20for%20life%20programme%20–%20community%20youth%20leadership.png">
 
 <p style="font-size:14.5px; line-height:2;font-family:sans-serif;">Pei Hwa Secondary School was established in January 2005.  The school gets inspiration from the Pei Hwa Foundation, which is made up of alumni of the former Pei Hwa Public School. Every year, students at Pei Hwa Secondary receive bursaries and scholarships provided by the Foundation. These bursaries and scholarships, especially for the less privileged students, help them make the best of every opportunity that comes their way.</p>
 
@@ -40,6 +40,6 @@ With a strong emphasis on developing innovation and resilience, the school conti
 
 <h6 style="color:#0B6623;font-family:sans-serif;font-size:17px;"><strong style="color:#0B6623;font-weight:bold;font-family:sans-serif;font-size:17px;">Our Education Philosophy</strong></h6>
 
-<img style="width: 100%; height: auto;" alt="Image" src="https://raw.githubusercontent.com/isomerpages/moe-peihwasec/staging/images/Links/link06.png">
+<img style="width: 100%; height: auto;" alt="Image" src="/images/Links/link06.png">
 
 <p style="font-size:14.5px; line-height:2;font-family:sans-serif;">We seek to develop well-rounded individuals equipped with critical thinking skills, creativity, empathy, and a sense of social responsibility. We believe that every child has limitless potential to grow and is very much capable of transformative growth. Our educational approach is dedicated to nurturing the interests and aptitudes of every child, providing them with the supportive environment they need to flourish and grow. By prioritising personal growth, experiential learning, collaboration, and community engagement, we hope to empower all students to become Future-Ready Learners and Forward-Looking Leaders.</p>
