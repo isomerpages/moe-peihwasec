@@ -2,8 +2,9 @@
 title: Learning for Life Programme – Community Youth Leadership (LLP – CYL)
 permalink: /uniquely-pei-hwa/learning-for-life-programme-community-youth-leadership-llp-cyl/
 description: ""
+variant: markdown
 ---
-<img style="width: 100%; height: auto;margin-top:30px;margin-bottom:30px;" alt="Image" src="https://raw.githubusercontent.com/isomerpages/moe-peihwasec/staging/images/Uniquely%20Pei%20Hwa/llpbanner.png">
+<img style="width: 100%; height: auto;margin-top:30px;margin-bottom:30px;" alt="Image" src="/images/Uniquely%20Pei%20Hwa/llpbanner.png">
 
 <p style="font-size:14.5px; line-height:2;margin-top:0px;font-family:sans-serif;">Pei Hwa Secondary School’s Learning for Life Programme (LLP) - Community Youth Leadership (CYL) contributes to the holistic development of the students. The LLP is designed to bring students through a four- to five-year programme to develop forward-looking leaders who will play an active part in contributing to the community. </p>
 
