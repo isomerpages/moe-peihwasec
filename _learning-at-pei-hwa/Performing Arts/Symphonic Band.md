@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Performing Arts
 variant: markdown
 ---
-<img style="width: 100%; height: auto;margin-top:30px;margin-bottom:30px;" alt="Image" src="https://raw.githubusercontent.com/isomerpages/moe-peihwasec/staging/images/CCA/symphonicbandbanner.png">
+<img style="width: 100%; height: auto;margin-top:30px;margin-bottom:30px;" alt="Image" src="/images/CCA/symphonicbandbanner.png">
 
 <p style="font-size:14.5px; line-height:2 ;margin-top:0px; font-family:sans-serif;" class="description">At <strong style="font-size:14.5px; line-height:2; font-family:sans-serif;">Pei Hwa Symphonic Band</strong>, we take great pride in our rigorous training programme which is designed to nurture the talents of our students and inspire them to achieve their potential. We firmly believe that discipline and perseverance are essential qualities for success, and we strive to instill these values in our students as they pursue their passion for music.</p>
 
@@ -92,20 +92,20 @@ SYF Arts Presentation for Concert Band </strong>
 <h6 style="color:#0B6623;font-family:sans-serif;font-weight:bold;margin-top:30px;"><strong style="font-family:sans-serif;font-size:17px;color:#0B6623;">Student Testament</strong></h6>
 
 <blockquote style="font-size: 15px;width:100%;margin:50px auto;margin-top:5px;font-family:serif;font-style:italic;color: #555555;padding:1.2em 25px 1.2em 25px;border-left:8px solid #0C6523;line-height:1.6;position: relative;background:#EDEDED;">
-<img align="left" src="https://raw.githubusercontent.com/isomerpages/moe-peihwasec/staging/images/CCA/bandtestimonial05.png" style="width: 23%; border-radius: 7%;  margin-right:15px;">
+<img align="left" src="/images/CCA/bandtestimonial05.png" style="width: 23%; border-radius: 7%;  margin-right:15px;">
 	"As the President of Band, it is an honor to be leading this group of talented musicians, and to witness their growth and achievements firsthand. Our Band is a diverse group of people who share the same passion for learning music. Even though it is challenging to achieve the highest level of musicality, it is touching to see everyone being determined and having persistence to push on and reach that goal. Being chosen as an executive committee member, it has given me many occasions to step out of my comfort zone and to grow as a leader. I am very grateful for this opportunity as the President of Band and together, we can achieve greater heights as One Band, One Sound."
   <span style="display:block; color:#333333; margin-top:1em;font-size:15px;font-family:sans-serif;"><em style="font-family:sans-serif;">Drum Major, Reuben</em></span><br>
 	</blockquote> 
 
 <blockquote style="font-size: 15px;width:100%;margin:50px auto;margin-top:5px;font-family:serif;font-style:italic;color: #555555;padding:1.2em 25px 1.2em 25px;border-left:8px solid #0C6523;line-height:1.6;position: relative;background:#EDEDED;">
-<img align="left" src="https://raw.githubusercontent.com/isomerpages/moe-peihwasec/staging/images/CCA/bandtestimonial01.png" style="width: 23%; border-radius: 7%;  margin-right:15px;">
+<img align="left" src="/images/CCA/bandtestimonial01.png" style="width: 23%; border-radius: 7%;  margin-right:15px;">
 	"As the Band Major of Admin of Symphonic Band, I am proud to witness the remarkable growth and talent that defines our ensemble. Through unwavering dedication and relentless effort, our band has made significant strides. Countless hours of practice and a shared commitment to excellence have propelled us to new heights. The Symphonic Band stands as a testament to the power of hard work, resilience, and the transformative nature of music. I am honored to be part of this remarkable journey, and I am proud to share the captivating beauty and passion of our performances with you."
   <span style="display:block; color:#333333; margin-top:1em;font-size:15px;font-family:sans-serif;"><em style="font-family:sans-serif;">Band major of Admin,   
 Quinton Soo Tian Le</em></span><br><br>
 	</blockquote> 
 	
 <blockquote style="font-size: 15px;width:100%;margin:50px auto;margin-top:5px;font-family:serif;font-style:italic;color: #555555;padding:1.2em 25px 1.2em 25px;border-left:8px solid #0C6523;line-height:1.6;position: relative;background:#EDEDED;">
-<img align="left" src="https://raw.githubusercontent.com/isomerpages/moe-peihwasec/staging/images/CCA/bandtestimonial02.png" style="width: 23%; border-radius: 7%;  margin-right:15px;">
+<img align="left" src="/images/CCA/bandtestimonial02.png" style="width: 23%; border-radius: 7%;  margin-right:15px;">
 	"Being the Vice-President of Band, I am delighted to be leading such a passionate group of musicians. As the Band Major of Music, it has been an eventful and busy period for the Band to prepare for upcoming events back to back. Everyone's perseverance has brought us to where we are now and will continue to bring our Band to greater achievements. The little bonds of friendships and rivalries in our Band have also motivated one another to strive for the common goal of achieving the highest possible musicality in our Band."
   <span style="display:block; color:#333333; margin-top:1em;font-size:15px;font-family:sans-serif;"><em style="font-family:sans-serif;">Band major of Music, Dyclan</em></span><br><br><br>
 	</blockquote> 
