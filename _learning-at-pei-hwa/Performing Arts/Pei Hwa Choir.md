@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Performing Arts
 variant: markdown
 ---
-<img style="width: 100%; height: auto;margin-top:30px;margin-bottom:30px;" alt="Image" src="https://raw.githubusercontent.com/isomerpages/moe-peihwasec/staging/images/CCA/choirbanner.png">
+<img style="width: 100%; height: auto;margin-top:30px;margin-bottom:30px;" alt="Image" src="/images/CCA/choirbanner.png">
 
 <p style="font-size:14.5px; line-height:2 ;margin-top:0px; font-family:sans-serif;" class="description">The <strong style="font-size:14.5px; line-height:2; font-family:sans-serif;">Pei Hwa Voices (Choir)</strong> is committed to nurture confident singers to have a deep appreciation of choral music in different cultures and throughout different time periods. We seek to inculcate the values of discipline, resilience and empathy for others through songs by singing as a choir.</p>
 
