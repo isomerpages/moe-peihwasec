@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Clubs & Societies
 variant: markdown
 ---
-<img style="width: 100%; height: auto;margin-top:30px;margin-bottom:30px;" alt="Image" src="https://raw.githubusercontent.com/isomerpages/moe-peihwasec/staging/images/CCA/phtimesbanner.png">
+<img style="width: 100%; height: auto;margin-top:30px;margin-bottom:30px;" alt="Image" src="/images/CCA/phtimesbanner.png">
 
 <p style="font-size:14.5px; line-height:2;font-family:sans-serif;"><strong style="font-size:14.5px; font-family:sans-serif;margin-top:0px;">Pei Hwa Times (PH Times) </strong> provides the opportunity for our members to develop technical skills about photography and videography. With these skills, our members will then have the opportunity to embark on a journalism journey; photojournalism and video journalism. We seek to help our members realise their potential and build resilience as well as confidence as they get their heart, head and hands on the journalism journey.</p>
 
@@ -116,18 +116,18 @@ variant: markdown
 	
 <div style="display: flex; flex-wrap: wrap; justify-content: space-between; max-width: 800px; margin: 0 auto;" class="image-container">
 	<div style="width: 45%; margin-bottom: 20px; box-sizing: border-box; text-align: center;" class="image-box">
-    <img style="width: 100%; margin-bottom: 10px;" alt="Image 1" src="https://raw.githubusercontent.com/isomerpages/moe-peihwasec/staging/images/CCA/phtimes02.png">
+    <img style="width: 100%; margin-bottom: 10px;" alt="Image 1" src="/images/CCA/phtimes02.png">
     <p style="text-align: center; font-size:10px;margin-top:-5px;font-family:sans-serif;line-height:1.5;">Filming a SYF Band performance during COVID-19 period</p>
   </div>
 	<div style="width: 45%; margin-bottom: 20px; box-sizing: border-box; text-align: center;" class="image-box">
-    <img style="width: 100%; margin-bottom: 10px;" alt="Image 1" src="https://raw.githubusercontent.com/isomerpages/moe-peihwasec/staging/images/CCA/phtimes03.png">
+    <img style="width: 100%; margin-bottom: 10px;" alt="Image 1" src="/images/CCA/phtimes03.png">
     <p style="text-align: center; font-size:10px;margin-top:-5px;font-family:sans-serif;line-height:1.5;">Pei Hwa Secondary School’s National Day Parade</p>
   </div>
 	<div style="width: 45%; margin-bottom: 20px; box-sizing: border-box; text-align: center;" class="image-box">
-    <img style="width: 100%; margin-bottom: 10px;" alt="Image 1" src="https://raw.githubusercontent.com/isomerpages/moe-peihwasec/staging/images/CCA/phtimes04.png">
+    <img style="width: 100%; margin-bottom: 10px;" alt="Image 1" src="/images/CCA/phtimes04.png">
     <p style="text-align: center; font-size:10px;margin-top:-5px;font-family:sans-serif;line-height:1.5;">A broadcast production</p>
   </div><div style="width: 45%; margin-bottom: 20px; box-sizing: border-box; text-align: center;" class="image-box">
-    <img style="width: 100%; margin-bottom: 10px;" alt="Image 1" src="https://raw.githubusercontent.com/isomerpages/moe-peihwasec/staging/images/CCA/phtimes05.png">
+    <img style="width: 100%; margin-bottom: 10px;" alt="Image 1" src="/images/CCA/phtimes05.png">
     <p style="text-align: center; font-size:10px;margin-top:-5px;font-family:sans-serif;line-height:1.5;">Mapping the layout of articles produced by PH Times members</p>
   </div>
 </div>
@@ -142,45 +142,23 @@ variant: markdown
 <h6 style="color:#0B6623;font-family:sans-serif;font-weight:bold;margin-top:30px;"><strong style="font-family:sans-serif;font-size:17px;color:#0B6623;">Student Testament</strong></h6>
 
 <blockquote style="font-size: 15px;width:100%;margin:50px auto;margin-top:5px;font-family:serif;font-style:italic;color: #555555;padding:1.2em 25px 1.2em 25px;border-left:8px solid #0C6523;line-height:1.6;position: relative;background:#EDEDED;">
-<img align="left" src="https://raw.githubusercontent.com/isomerpages/moe-peihwasec/staging/images/CCA/phtimestestimonial03.png" style="width: 23%; border-radius: 7%;  margin-right:15px;">
-	"PH Times has made a big impact on my life. I got to learn so many new things and make new
-friends. I became a confident communicator and more socially capable rather than staying in my
-comfort zone. Not only have I got to earn the knowledge of journalism, but I also got to earn the
-hearts of my precious fellow teammates while working together. I have never felt so loved and
-welcomed by my seniors too. I can recall the numerous times I have volunteered in CCA
-activities. Every time I got to work with my friends, it gave me a memorable experience. It was
-the very first time I had come forward and stepped up. As the President of PH Times, I had the
-opportunity to dare to innovate and have the compassion to lead others. I have learnt many
-values and morals from leading this CCA. I appreciate all my teachers for giving me the love
-and support I needed when I needed help. My teachers are the reason I am doing my best. I
-cherish the time I have spent in this CCA. PH Times will forever be my happy place."
+<img align="left" src="/images/CCA/phtimestestimonial03.png" style="width: 23%; border-radius: 7%;  margin-right:15px;">
+	"PH Times has made a big impact on my life. I got to learn so many new things and make new friends. I became a confident communicator and more socially capable rather than staying in my comfort zone. Not only have I got to earn the knowledge of journalism, but I also got to earn the
+hearts of my precious fellow teammates while working together. I have never felt so loved and welcomed by my seniors too. I can recall the numerous times I have volunteered in CCA activities. Every time I got to work with my friends, it gave me a memorable experience. It was the very first time I had come forward and stepped up. As the President of PH Times, I had the opportunity to dare to innovate and have the compassion to lead others. I have learnt many values and morals from leading this CCA. I appreciate all my teachers for giving me the love and support I needed when I needed help. My teachers are the reason I am doing my best. I cherish the time I have spent in this CCA. PH Times will forever be my happy place."
   <span style="display:block; color:#333333; margin-top:1em;font-size:15px;font-family:sans-serif;"><em style="font-family:sans-serif;">President, Liew Yu En</em></span>
 	</blockquote> 
 
 <blockquote style="font-size: 15px;width:100%;margin:50px auto;margin-top:5px;font-family:serif;font-style:italic;color: #555555;padding:1.2em 25px 1.2em 25px;border-left:8px solid #0C6523;line-height:1.6;position: relative;background:#EDEDED;">
-<img align="left" src="https://raw.githubusercontent.com/isomerpages/moe-peihwasec/staging/images/CCA/phtimestestimonial02.png" style="width: 23%; border-radius: 7%;  margin-right:15px;">
-	"My CCA teachers are friendly and easy-going with students, and we get to have more
-freedom with group discussions and photo-shoots. I like the atmosphere where students
-get to work together effectively. As a CCA leader, I hope to challenge myself, as well as
-develop soft skills like communication skills and problem-solving skills. While I enjoy the
-things I do in PH Times, I also enjoy the company with my friends in the CCA."
-  <span style="display:block; color:#333333; margin-top:1em;font-size:15px;font-family:sans-serif;"><em style="font-family:sans-serif;">Vice-President, Lim Yu Heng</em></span>
-	<br><br><br><br>
-	</blockquote> 
+<img align="left" src="/images/CCA/phtimestestimonial02.png" style="width: 23%; border-radius: 7%;  margin-right:15px;">
+	"My CCA teachers are friendly and easy-going with students, and we get to have more freedom with group discussions and photo-shoots. I like the atmosphere where students get to work together effectively. As a CCA leader, I hope to challenge myself, as well as develop soft skills like communication skills and problem-solving skills. While I enjoy the things I do in PH Times, I also enjoy the company with my friends in the CCA."
+  <span style="display:block; color:#333333; margin-top:1em;font-size:15px;font-family:sans-serif;"><em style="font-family:sans-serif;">Vice-President, Lim Yu Heng</em></span><br><br><br><br>
+</blockquote> 
 	
 <blockquote style="font-size: 15px;width:100%;margin:50px auto;margin-top:5px;font-family:serif;font-style:italic;color: #555555;padding:1.2em 25px 1.2em 25px;border-left:8px solid #0C6523;line-height:1.6;position: relative;background:#EDEDED;">
-<img align="left" src="https://raw.githubusercontent.com/isomerpages/moe-peihwasec/staging/images/CCA/phtimestestimonial01.png" style="width: 23%; border-radius: 7%;  margin-right:15px;">
-	"As a member of PH Times, I have acquired a lot of knowledge and skills which my
-teachers and seniors have taught me. I have been granted many opportunities to
-sharpen my skills and explore my interests in journalism. I have volunteered to take
-photos of school events on numerous occasions and have been both in front and
-behind the camera multiple times for videography and broadcast. For digital journalism,
-I have had a lot of practice during CCA sessions working on PHactors, a PH Times
-online production. I am truly grateful to PH Times for allowing me freedom to express
-myself."
-  <span style="display:block; color:#333333; margin-top:1em;font-size:15px;font-family:sans-serif;"><em style="font-family:sans-serif;">Head of Photo Journalism, Phua Le Xuan Alicia, </em></span>
-<br><br>
-	</blockquote> 
+<img align="left" src="/images/CCA/phtimestestimonial01.png" style="width: 23%; border-radius: 7%;  margin-right:15px;">
+	"As a member of PH Times, I have acquired a lot of knowledge and skills which my teachers and seniors have taught me. I have been granted many opportunities to sharpen my skills and explore my interests in journalism. I have volunteered to take photos of school events on numerous occasions and have been both in front and behind the camera multiple times for videography and broadcast. For digital journalism, I have had a lot of practice during CCA sessions working on PHactors, a PH Times online production. I am truly grateful to PH Times for allowing me freedom to express
+myself."   <span style="display:block; color:#333333; margin-top:1em;font-size:15px;font-family:sans-serif;"><em style="font-family:sans-serif;">Head of Photo Journalism, Phua Le Xuan Alicia, </em><br>
+</span></blockquote> 
 
 <h6 style="color:#0B6623;font-family:sans-serif;font-weight:bold;margin-top:30px;"><strong style="font-family:sans-serif;font-size:17px;color:#0B6623;">CCA Details</strong></h6>
 

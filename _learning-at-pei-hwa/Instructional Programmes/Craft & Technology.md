@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Instructional Programmes
 variant: markdown
 ---
-<img style="width: 100%; height: auto;margin-top:30px;" alt="Image" src="https://raw.githubusercontent.com/isomerpages/moe-peihwasec/staging/images/Learning%20%40%20Pei%20Hwa/Instructional%20Programme/Banner/craftntechbanner.png">
+<img style="width: 100%; height: auto;margin-top:30px;" alt="Image" src="/images/Learning%20@%20Pei%20Hwa/Instructional%20Programme/Banner/craftntechbanner.png">
 
 
 
@@ -22,9 +22,9 @@ variant: markdown
 <p style="font-size:14.5px; line-height:2;font-family:sans-serif;margin-top:0px;">Pupils in the lower secondary are introduced to observational drawing, photography and ceramics while upper secondary pupils are equipped with painting, printmaking and critique skills. These units foster experimentation and collaboration, ultimately fostering a lasting appreciation for artistic expression.</p>
 
 <div style="display: flex;" class="image-container"> 
-	<img alt="Image 1" style="display: inline-block;  width: calc(32% - 0px);" src="https://raw.githubusercontent.com/isomerpages/moe-peihwasec/staging/images/Learning%20%40%20Pei%20Hwa/Instructional%20Programme/Others/artcurriculum01.png"> 
-	<img alt="Image 2" style="display: inline-block;  width: calc(32% - 0px);" src="https://raw.githubusercontent.com/isomerpages/moe-peihwasec/staging/images/Learning%20%40%20Pei%20Hwa/Instructional%20Programme/Others/artcurriculum02.png"> 
-		<img alt="Image 2" style="display: inline-block;  width: calc(32% - 0px);" src="https://raw.githubusercontent.com/isomerpages/moe-peihwasec/staging/images/Learning%20%40%20Pei%20Hwa/Instructional%20Programme/Others/artcurriculum01.png">
+	<img alt="Image 1" style="display: inline-block;  width: calc(32% - 0px);" src="/images/Learning%20@%20Pei%20Hwa/Instructional%20Programme/Others/artcurriculum01.png"> 
+	<img alt="Image 2" style="display: inline-block;  width: calc(32% - 0px);" src="/images/Learning%20@%20Pei%20Hwa/Instructional%20Programme/Others/artcurriculum02.png"> 
+		<img alt="Image 2" style="display: inline-block;  width: calc(32% - 0px);" src="/images/Learning%20@%20Pei%20Hwa/Instructional%20Programme/Others/artcurriculum01.png">
 </div>
 
 <p style="line-height:2;margin-top:15px;margin-bottom:0;font-family:sans-serif;font-size:15.5px;"><strong style="font-family:sans-serif;">The Design &amp; Technology Unit</strong></p>
@@ -32,22 +32,22 @@ variant: markdown
 <p style="font-size:14.5px; line-height:2;font-family:sans-serif;margin-top:0px;">As students engage in the design thinking process, they will develop a sense of confidence, pride, and tenacity. They will learn invaluable life skills that will empower them not only throughout their secondary school journey but also as they step into the challenges of higher education and the professional world.</p>
 
 <div style="display: flex;margin-bottom:10px;" class="image-container"> 
-	<img alt="Image 1" style="display: inline-block;  width: calc(32% - 0px);" src="https://raw.githubusercontent.com/isomerpages/moe-peihwasec/staging/images/Learning%20%40%20Pei%20Hwa/Instructional%20Programme/Others/dntcurriculum04.png"> 
-	<img alt="Image 1" style="display: inline-block;  width: calc(32% - 0px);" src="https://raw.githubusercontent.com/isomerpages/moe-peihwasec/staging/images/Learning%20%40%20Pei%20Hwa/Instructional%20Programme/Others/dntcurriculum05.png"> 
-	<img alt="Image 1" style="display: inline-block;  width: calc(32% - 0px);" src="https://raw.githubusercontent.com/isomerpages/moe-peihwasec/staging/images/Learning%20%40%20Pei%20Hwa/Instructional%20Programme/Others/dntcurriculum06.png"> 
+	<img alt="Image 1" style="display: inline-block;  width: calc(32% - 0px);" src="/images/Learning%20@%20Pei%20Hwa/Instructional%20Programme/Others/dntcurriculum04.png"> 
+	<img alt="Image 1" style="display: inline-block;  width: calc(32% - 0px);" src="/images/Learning%20@%20Pei%20Hwa/Instructional%20Programme/Others/dntcurriculum05.png"> 
+	<img alt="Image 1" style="display: inline-block;  width: calc(32% - 0px);" src="/images/Learning%20@%20Pei%20Hwa/Instructional%20Programme/Others/dntcurriculum06.png"> 
 </div>
 
 <div style="display: flex; flex-wrap: wrap; justify-content: space-between; max-width: 800px; margin: 0 auto;" class="image-container">
   <div style="width: 45%; margin-bottom: 0px; box-sizing: border-box; text-align: center;" class="image-box">
-    <img style="width: 100%; margin-bottom: 10px;" alt="Image 1" src="https://raw.githubusercontent.com/isomerpages/moe-peihwasec/staging/images/Learning%20%40%20Pei%20Hwa/Instructional%20Programme/Others/dntcurriculum01.png">
+    <img style="width: 100%; margin-bottom: 10px;" alt="Image 1" src="/images/Learning%20@%20Pei%20Hwa/Instructional%20Programme/Others/dntcurriculum01.png">
   </div>
   <div style="width: 45%; margin-bottom: 0px; box-sizing: border-box; text-align: center;" class="image-box">
-    <img style="width: 100%; margin-bottom: 10px;" alt="Image 1" src="https://raw.githubusercontent.com/isomerpages/moe-peihwasec/staging/images/Learning%20%40%20Pei%20Hwa/Instructional%20Programme/Others/dntcurriculum02.png">
+    <img style="width: 100%; margin-bottom: 10px;" alt="Image 1" src="/images/Learning%20@%20Pei%20Hwa/Instructional%20Programme/Others/dntcurriculum02.png">
   </div>
   <div style="width: 45%; margin-bottom: 0px; box-sizing: border-box; text-align: center;" class="image-box">
-    <img style="width: 100%; margin-bottom: 10px;" alt="Image 1" src="https://raw.githubusercontent.com/isomerpages/moe-peihwasec/staging/images/Learning%20%40%20Pei%20Hwa/Instructional%20Programme/Others/dntcurriculum03.png">
+    <img style="width: 100%; margin-bottom: 10px;" alt="Image 1" src="/images/Learning%20@%20Pei%20Hwa/Instructional%20Programme/Others/dntcurriculum03.png">
   </div><div style="width: 45%; margin-bottom: 0px; box-sizing: border-box; text-align: center;" class="image-box">
-    <img style="width: 100%; margin-bottom: 10px;" alt="Image 1" src="https://raw.githubusercontent.com/isomerpages/moe-peihwasec/staging/images/Learning%20%40%20Pei%20Hwa/Instructional%20Programme/Others/dntcurriculum07.png">
+    <img style="width: 100%; margin-bottom: 10px;" alt="Image 1" src="/images/Learning%20@%20Pei%20Hwa/Instructional%20Programme/Others/dntcurriculum07.png">
   </div>
 </div>
 
@@ -71,8 +71,8 @@ variant: markdown
 	</ul>
 	
 <div style="display: flex;" class="image-container"> 
-	<img alt="Image 1" style="display: inline-block;  width: calc(45% - 0px);" src="https://raw.githubusercontent.com/isomerpages/moe-peihwasec/staging/images/Learning%20%40%20Pei%20Hwa/Instructional%20Programme/Others/fcecurriculum01.png"> 
-	<img alt="Image 1" style="display: inline-block;  width: calc(45% - 0px);" src="https://raw.githubusercontent.com/isomerpages/moe-peihwasec/staging/images/Learning%20%40%20Pei%20Hwa/Instructional%20Programme/Others/fcecurriculum02.png"> 
+	<img alt="Image 1" style="display: inline-block;  width: calc(45% - 0px);" src="/images/Learning%20@%20Pei%20Hwa/Instructional%20Programme/Others/fcecurriculum01.png"> 
+	<img alt="Image 1" style="display: inline-block;  width: calc(45% - 0px);" src="/images/Learning%20@%20Pei%20Hwa/Instructional%20Programme/Others/fcecurriculum02.png"> 
 </div>
 
 <h6 style="color:#0B6623;font-family:sans-serif;font-weight:bold;margin-top:30px;"><strong style="font-family:sans-serif;font-size:17px;color:#0B6623;">Enrichment </strong></h6>

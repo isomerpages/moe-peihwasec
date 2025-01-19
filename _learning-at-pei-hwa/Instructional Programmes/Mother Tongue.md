@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Instructional Programmes
 variant: markdown
 ---
-<img style="width: 100%; height: auto;margin-top:30px;" alt="Image" src="https://raw.githubusercontent.com/isomerpages/moe-peihwasec/staging/images/Learning%20%40%20Pei%20Hwa/Instructional%20Programme/Banner/mothertonguebanner.png">
+<img style="width: 100%; height: auto;margin-top:30px;" alt="Image" src="/images/Learning%20@%20Pei%20Hwa/Instructional%20Programme/Banner/mothertonguebanner.png">
 
 
 
@@ -38,7 +38,7 @@ variant: markdown
 
 <p style="font-size:14.5px; line-height:2;margin-top:0px;font-family:sans-serif;">We believe that the learning of languages should not be confined by the boundaries of a classroom. The best learning should come from exposure and application. Thus we also adopt a tiered approach to enhance our students’ learning of Mother Tongue Languages.</p>
 
-<img style="width: 100%; height: auto;margin-top:20px;margin-bottom:30px;" alt="Image" src="https://raw.githubusercontent.com/isomerpages/moe-peihwasec/staging/images/mt5.png">
+<img style="width: 100%; height: auto;margin-top:20px;margin-bottom:30px;" alt="Image" src="/images/mt5.png">
 
 <p style="line-height:2;margin-top:5px;margin-bottom:0;font-family:sans-serif;font-size:15.5px;"><strong style="font-family:sans-serif;">Cultural Enrichment
 </strong></p>

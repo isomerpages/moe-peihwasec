@@ -2,17 +2,18 @@
 title: Student Leadership
 permalink: /learning-at-pei-hwa/student-leadership/
 description: ""
+variant: markdown
 ---
 <p style="font-size:14.5px; line-height:2; font-family:sans-serif">In Pei Hwa Secondary School, we believe that all students can be and should be developed as <strong style="font-size:14.5px; line-height:2; font-family:sans-serif">Forward-Looking Leaders</strong>. We hope to develop our student leaders to be <strong style="font-size:14.5px; line-height:2; font-family:sans-serif">confident communicators, effective collaborators, active and empathetic contributors</strong> as well as <strong style="font-size:14.5px; line-height:2; font-family:sans-serif">innovative changemakers</strong>. We are committed to equipping our students with knowledge and skills to be effective leaders in various areas of their lives. 
 </p>
 
-<img src="https://raw.githubusercontent.com/isomerpages/moe-peihwasec/staging/images/Learning%20%40%20Pei%20Hwa/Student%20Leadership/studentleadership01.png">
+<img src="/images/Learning%20@%20Pei%20Hwa/Student%20Leadership/studentleadership01.png">
 
 <p style="font-size:14.5px; line-height:2;margin-top:15px; font-family:sans-serif">Our student leadership development programme follows the STEER framework. We consider the various aspects of Selecting, Training, Empowering, Evaluating and Recognizing our student leaders. </p>
 
 <h6 style="color:#0B6623;font-family:sans-serif;font-weight:bold;margin-top:30px;"><strong style="font-family:sans-serif;font-size:17px;color:#0B6623;">Student Leadership Training and Empowerment Opportunities</strong></h6>
 	
-<img src="https://raw.githubusercontent.com/isomerpages/moe-peihwasec/staging/images/Learning%20%40%20Pei%20Hwa/Student%20Leadership/studentleadership02.png">
+<img src="/images/Learning%20@%20Pei%20Hwa/Student%20Leadership/studentleadership02.png">
 	
 <p style="font-size:14.5px; line-height:2;margin-top:0px; font-family:sans-serif">We believe that leadership is an acquirable set of skills and abilities that can be fostered and cultivated within our students. We adopt The Leadership Challenge as our training model for student leadership development. The 5 practices of exemplary leadership from The Leadership Challenge help to guide and develop student leaders with the skills that they need to be Forward-Looking leaders.</p>
 

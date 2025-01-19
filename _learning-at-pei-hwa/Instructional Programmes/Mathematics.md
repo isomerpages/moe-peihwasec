@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Instructional Programmes
 variant: markdown
 ---
-<img style="width: 100%; height: auto;margin-top:30px;" alt="Image" src="https://raw.githubusercontent.com/isomerpages/moe-peihwasec/staging/images/Learning%20%40%20Pei%20Hwa/Instructional%20Programme/Banner/mathematicsbanner.png">
+<img style="width: 100%; height: auto;margin-top:30px;" alt="Image" src="/images/Learning%20@%20Pei%20Hwa/Instructional%20Programme/Banner/mathematicsbanner.png">
 
 
 
@@ -23,10 +23,10 @@ variant: markdown
 
 <div style="display: flex; flex-wrap: wrap; justify-content: space-between; max-width: 800px; margin: 0 auto;" class="image-container">
   <div style="width: 48%; margin-bottom: 0px; box-sizing: border-box; text-align: center;" class="image-box">
-    <img style="width: 100%; margin-bottom: 10px;" alt="Image 1" src="https://raw.githubusercontent.com/isomerpages/moe-peihwasec/staging/images/Learning%20%40%20Pei%20Hwa/Instructional%20Programme/Others/img_2336.JPG">
+    <img style="width: 100%; margin-bottom: 10px;" alt="Image 1" src="/images/Learning%20@%20Pei%20Hwa/Instructional%20Programme/Others/img_2336.JPG">
   </div>
   <div style="width: 48%; margin-bottom: 0px; box-sizing: border-box; text-align: center;" class="image-box">
-    <img style="width: 100%; margin-bottom: 10px;" alt="Image 1" src="https://raw.githubusercontent.com/isomerpages/moe-peihwasec/staging/images/Learning%20%40%20Pei%20Hwa/Instructional%20Programme/Others/img_2343.JPG">
+    <img style="width: 100%; margin-bottom: 10px;" alt="Image 1" src="/images/Learning%20@%20Pei%20Hwa/Instructional%20Programme/Others/img_2343.JPG">
 	</div>
 </div>
 

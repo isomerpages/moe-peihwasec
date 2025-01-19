@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Performing Arts
 variant: markdown
 ---
-<img style="width: 100%; height: auto;margin-top:30px;margin-bottom:30px;" alt="Image" src="https://raw.githubusercontent.com/isomerpages/moe-peihwasec/staging/images/CCA/dramabanner.png">
+<img style="width: 100%; height: auto;margin-top:30px;margin-bottom:30px;" alt="Image" src="/images/CCA/dramabanner.png">
 
 <p style="font-size:14.5px; line-height:2 ;margin-top:0px; font-family:sans-serif;" class="description"> The <strong style="font-size:14.5px; line-height:2; font-family:sans-serif;">Drama Society</strong>  was set up in 2014. Many of our members join Drama with little to no acting or stage presentation experience. Through the passion for the drama artistic craft, many of our budding actors have grown to become confident artists with no fear of performing in public or taking on performing roles that are in contrast to their individual personalities. Through their involvements in the many processes involved in staging a show, they have grown in maturity and acting skills. We are also able to include a variety of experiences through various public performances such as participation at The Singapore Youth Festival (SYF), Choral Reading for the lower secondary members at the Literature Festival and attendance at live theatre performances.</p>
 
@@ -93,20 +93,20 @@ variant: markdown
 <h6 style="color:#0B6623;font-family:sans-serif;font-weight:bold;margin-top:30px;"><strong style="font-family:sans-serif;font-size:17px;color:#0B6623;">Student Testament</strong></h6>
 
 <blockquote style="font-size: 15px;width:100%;margin:50px auto;margin-top:5px;font-family:serif;font-style:italic;color: #555555;padding:1.2em 25px 1.2em 25px;border-left:8px solid #0C6523;line-height:1.6;position: relative;background:#EDEDED;">
-<img align="left" src="https://raw.githubusercontent.com/isomerpages/moe-peihwasec/staging/images/CCA/dramatestimonial02.png" style="width: 23%; border-radius: 7%;  margin-right:15px;">
+<img align="left" src="/images/CCA/dramatestimonial02.png" style="width: 23%; border-radius: 7%;  margin-right:15px;">
 	"The Drama Society is a place where we can fully be ourselves without anyone judging us, without having to give a care about what’s going on outside of the library. Drama has turned me from a shy and introverted person to a more sociable and extroverted person with leadership abilities. The Drama Society has taught us values such to have the “passion to learn”. We have a strong strong passion to correct from our mistakes and learn from our seniors. We do not give up easily and have resilience in times of adversity. We have the resilience to go far and to strive for our goals. "
   <span style="display:block; color:#333333; margin-top:1em;font-size:15px;font-family:sans-serif;"><em style="font-family:sans-serif;">Vice-President, Chau Cai Tong</em></span><br><br>
 	</blockquote> 
 
 <blockquote style="font-size: 15px;width:100%;margin:50px auto;margin-top:5px;font-family:serif;font-style:italic;color: #555555;padding:1.2em 25px 1.2em 25px;border-left:8px solid #0C6523;line-height:1.6;position: relative;background:#EDEDED;">
-<img align="left" src="https://raw.githubusercontent.com/isomerpages/moe-peihwasec/staging/images/CCA/dramatestimonial03.png" style="width: 23%; border-radius: 7%;  margin-right:15px;">
+<img align="left" src="/images/CCA/dramatestimonial03.png" style="width: 23%; border-radius: 7%;  margin-right:15px;">
 	"I think of each play as a work of art, and it is not painted by one artist alone. Instead, this artwork is pieced by the numerous collaborators— the various departments that support the stage behind the scenes. Like the way dye touches water, I hope this experience will ignite a spark of creativity within each individual. Each stage entails major responsibilities and a range of new challenges and opportunities. With an innovative mind, a challenge becomes a chance. You can be so much more, and it's your decision to make. To be or not to be."
   <span style="display:block; color:#333333; margin-top:1em;font-size:15px;font-family:sans-serif;"><em style="font-family:sans-serif;">Vice-President (Welfare), Ariann Khoo Min En
 </em></span><br><br><br>
 	</blockquote> 
 	
 <blockquote style="font-size: 15px;width:100%;margin:50px auto;margin-top:5px;font-family:serif;font-style:italic;color: #555555;padding:1.2em 25px 1.2em 25px;border-left:8px solid #0C6523;line-height:1.6;position: relative;background:#EDEDED;">
-<img align="left" src="https://raw.githubusercontent.com/isomerpages/moe-peihwasec/staging/images/CCA/dramatestimonial04.png" style="width: 23%; border-radius: 7%;  margin-right:15px;">
+<img align="left" src="/images/CCA/dramatestimonial04.png" style="width: 23%; border-radius: 7%;  margin-right:15px;">
 	"Drama embodies the PRIDE values by fostering a space where students explore, adapt, commit, create, and collaborate to bring compelling stories to life"
   <span style="display:block; color:#333333; margin-top:1em;font-size:15px;font-family:sans-serif;"><em style="font-family:sans-serif;">Secondary One representative, Chang Thu Dinh</em></span><br><br><br><br><br><br><br>
 	</blockquote> 
