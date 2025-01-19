@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Uniformed Groups
 variant: markdown
 ---
-<img style="width: 100%; height: auto;margin-top:30px;margin-bottom:30px;" alt="Image" src="https://raw.githubusercontent.com/isomerpages/moe-peihwasec/staging/images/CCA/npccbanner.png">
+<img style="width: 100%; height: auto;margin-top:30px;margin-bottom:30px;" alt="Image" src="/images/CCA/npccbanner.png">
 
 <p style="font-size:14.5px; line-height:2 ;margin-top:0px; font-family:sans-serif;" class="description">At Pei Hwa Secondary School, our <strong style="font-size:14.5px; line-height:2; font-family:sans-serif;">NPCC </strong> unit is dedicated to nurturing well-rounded individuals who are not only academically competent but also possessing strong character traits. Through our NPCC programme, we provide our students with valuable opportunities to cultivate qualities such as resilience, teamwork, and integrity. We believe in instilling values that will guide our cadets throughout their lives.</p>
 
