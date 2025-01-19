@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Sports & Games
 variant: markdown
 ---
-<img style="width: 100%; height: auto;margin-top:30px;margin-bottom:30px;" alt="Image" src="https://raw.githubusercontent.com/isomerpages/moe-peihwasec/staging/images/CCA/floorballbanner.png">
+<img style="width: 100%; height: auto;margin-top:30px;margin-bottom:30px;" alt="Image" src="/images/CCA/floorballbanner.png">
 
 <p style="font-size:14.5px; line-height:2 ;margin-top:0px; font-family:sans-serif;" class="description">Step into the exhilarating world of <strong style="font-size:14.5px; line-height:2; font-family:sans-serif;"> Pei Hwa Floorball</strong>, where speed, strategy, and teamwork collide in a mesmerizing display of athleticism. Join our floorball CCA and experience the thrill of gliding across the court, executing lightning-fast passes, and scoring jaw-dropping goals. This dynamic sport, blending the finesse of hockey and soccer, not only challenges your skills but also provides opportunities for leadership development, fostering lifelong friendships and personal growth.</p>
 
