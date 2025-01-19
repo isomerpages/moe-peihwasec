@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Performing Arts
 variant: markdown
 ---
-<img style="width: 100%; height: auto;margin-top:30px;margin-bottom:30px;" alt="Image" src="https://raw.githubusercontent.com/isomerpages/moe-peihwasec/staging/images/CCA/guzhengbanner.png">
+<img style="width: 100%; height: auto;margin-top:30px;margin-bottom:30px;" alt="Image" src="/images/CCA/guzhengbanner.png">
 
 <p style="font-size:14.5px; line-height:2 ;margin-top:0px; font-family:sans-serif;" class="description">Set up in 2009, the <strong style="font-size:14.5px; line-height:2; font-family:sans-serif;"> Pei Hwa Guzheng Ensemble</strong> seeks to provide opportunities to develop students’ talents and lifelong passion for the arts regardless of their background and experience. Through the meaningful music experiences planned, the Pei Hwa Guzheng Ensemble also endeavours to build students’ character, foster friendships and cultivate a sense of belonging to the school.</p>
 
@@ -70,7 +70,7 @@ variant: markdown
 </table>
 
 <div style="width: 100%; margin-bottom: 20px; box-sizing: border-box; text-align: center;" class="image-box">
-<img style="width: 100%; margin-bottom: 10px;" alt="Image" src="https://raw.githubusercontent.com/isomerpages/moe-peihwasec/staging/images/CCA/guzheng08.png">
+<img style="width: 100%; margin-bottom: 10px;" alt="Image" src="/images/CCA/guzheng08.png">
     <p style="text-align: center; font-size:10px;margin-top:-5px;font-family:sans-serif;line-height:1.5;">2023 Singapore Youth Festival Arts Presentation @ Singapore Conference Hall</p></div>
 
 <h6 style="color:#0B6623;font-family:sans-serif;font-weight:bold;margin-top:30px;"><strong style="font-family:sans-serif;font-size:17px;color:#0B6623;">CCA Activities</strong></h6>
@@ -78,7 +78,7 @@ variant: markdown
 <p style="font-size:14.5px; line-height:2;margin-top:0px; font-family:sans-serif;" class="description">In 2019, the Pei Hwa Guzheng Ensemble had their inaugural Guzheng recital at the Esplanade Recital Studio. </p>
 
 <div style="width: 100%; margin-bottom: 20px; box-sizing: border-box; text-align: center;" class="image-box">
-<img style="width: 100%; margin-bottom: 10px;" alt="Image" src="https://raw.githubusercontent.com/isomerpages/moe-peihwasec/staging/images/CCA/guzheng01.png">
+<img style="width: 100%; margin-bottom: 10px;" alt="Image" src="/images/CCA/guzheng01.png">
     <p style="text-align: center; font-size:10px;margin-top:-5px;font-family:sans-serif;line-height:1.5;">Guzheng Recital at the Esplanade Recital Studio</p>
 	</div>
 
@@ -87,7 +87,7 @@ variant: markdown
 <p style="font-size:14.5px; line-height:2 ;margin-top:0px; font-family:sans-serif;" class="description">The recitals aim to showcase the passion and talent of the Guzheng Ensemble. Pieces played at the recital highlights the versatility of the Guzheng instrument through traditional Chinese music pieces, Mandopop medleys and English pop songs. The exposure and preparation for the Guzheng recitals allow members of Pei Hwa Guzheng Ensemble to grow as a person, a performer and as a team player.</p>
 
 <div style="width: 100%; margin-bottom: 20px; box-sizing: border-box; text-align: center;" class="image-box">
-<img style="width: 100%; margin-bottom: 10px;" alt="Image" src="https://raw.githubusercontent.com/isomerpages/moe-peihwasec/staging/images/CCA/guzheng02.png">
+<img style="width: 100%; margin-bottom: 10px;" alt="Image" src="/images/CCA/guzheng02.png">
     <p style="text-align: center; font-size:10px;margin-top:-5px;font-family:sans-serif;line-height:1.5;">Guzheng lunchtime concert at the canteen</p>
 	</div>
 
@@ -102,7 +102,7 @@ variant: markdown
 </ul>
 
 <div style="width: 100%; margin-bottom: 20px; box-sizing: border-box; text-align: center;" class="image-box">
-<img style="width: 100%; margin-bottom: 10px;" alt="Image" src="https://raw.githubusercontent.com/isomerpages/moe-peihwasec/staging/images/CCA/guzheng03.png">
+<img style="width: 100%; margin-bottom: 10px;" alt="Image" src="/images/CCA/guzheng03.png">
     <p style="text-align: center; font-size:10px;margin-top:-5px;font-family:sans-serif;line-height:1.5;">Performance at the 2023 Hari Raya Concert in School</p>
 </div>
 
@@ -126,7 +126,7 @@ variant: markdown
 </ul>
 
 <div style="width: 100%; margin-bottom: 20px; box-sizing: border-box; text-align: center;" class="image-box">
-<img style="width: 100%; margin-bottom: 10px;" alt="Image" src="https://raw.githubusercontent.com/isomerpages/moe-peihwasec/staging/images/CCA/guzheng04.png">
+<img style="width: 100%; margin-bottom: 10px;" alt="Image" src="/images/CCA/guzheng04.png">
     <p style="text-align: center; font-size:10px;margin-top:-5px;font-family:sans-serif;line-height:1.5;">Tunes of SCO Programme </p>
 </div>
 
@@ -135,12 +135,12 @@ variant: markdown
 <p style="font-size:14.5px; line-height:2 ;margin-top:0px; font-family:sans-serif;" class="description">Joint events include the school’s biennial public concert, PHiesta, which is conducted during non-SYF years, and the annual Performing Arts Group camp which allos the different performing arts group members to work with and learn from one another.</p>
 
 <div style="width: 100%; margin-bottom: 20px; box-sizing: border-box; text-align: center;" class="image-box">
-<img style="width: 100%; margin-bottom: 10px;" alt="Image" src="https://raw.githubusercontent.com/isomerpages/moe-peihwasec/staging/images/CCA/guzheng05.png">
+<img style="width: 100%; margin-bottom: 10px;" alt="Image" src="/images/CCA/guzheng05.png">
     <p style="text-align: center; font-size:10px;margin-top:-5px;font-family:sans-serif;line-height:1.5;">Recording session for Pei Hwa’s biennial concert PHiesta in 2022</p>
 	</div>
 
 <div style="width: 100%; margin-bottom: 20px; box-sizing: border-box; text-align: center;" class="image-box">
-<img style="width: 100%; margin-bottom: 10px;" alt="Image" src="https://raw.githubusercontent.com/isomerpages/moe-peihwasec/staging/images/CCA/guzheng06.png">
+<img style="width: 100%; margin-bottom: 10px;" alt="Image" src="/images/CCA/guzheng06.png">
     <p style="text-align: center; font-size:10px;margin-top:-5px;font-family:sans-serif;line-height:1.5;">Guzheng members teaching other performing arts students how to play the Guzheng during Performing Arts Group camp</p>
 </div>
 
