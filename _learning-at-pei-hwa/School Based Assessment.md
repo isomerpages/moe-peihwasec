@@ -7,6 +7,10 @@ description: ""
 <p style="font-size:14.5px; line-height:2;margin-top:0; font-family:sans-serif">In meeting the challenges of an increasingly complex world, the Ministry of Education (MOE) has, in recent years, announced changes to School-Based Assessments to help our students discover more joy in learning and to develop them to become lifelong learners. This
 year, the school continues to make changes to our school-based assessments to create time and space for teachers and students to achieve that.</p>
 
+<p style="margin-top:15px;font-size:15.5px;"><strong style="font-family:sans-serif;">Modes of Assessment</strong></p>
+<p style="font-size:14.5px; line-height:2;margin-top:0; font-family:sans-serif">All modes of assessments are important as they provide feedback to the students, teachers
+and parents about</p>
+
 <table style="border-collapse: collapse;margin: 25px 0;font-size:14.5px;font-family: sans-serif;box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);" border="1">
 <thead style="background-color: #009879; font-weight: bold; font-size: 14.5px;">
 <tr>
