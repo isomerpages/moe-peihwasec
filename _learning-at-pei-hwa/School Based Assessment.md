@@ -4,31 +4,53 @@ permalink: /learning-at-pei-hwa/school-based-assessment/
 variant: markdown
 description: ""
 ---
-<p style="font-size:14.5px; line-height:2;margin-top:0; font-family:sans-serif">As a culmination of FLP, students will have opportunities to showcase their projects at various platforms. Some of these external exhibition platforms include Edutech Asia, Design for
-Change, SG:Digital Wonderland, Singapore Maker Extravaganza, Tech for Good Challenge, SG:D Techblazer Awards (Student Techblazer) and the annual STEM ALP Learning Festival. </p>
+<p style="font-size:14.5px; line-height:2;margin-top:0; font-family:sans-serif">In meeting the challenges of an increasingly complex world, the Ministry of Education (MOE) has, in recent years, announced changes to School-Based Assessments to help our students discover more joy in learning and to develop them to become lifelong learners. This
+year, the school continues to make changes to our school-based assessments to create time and space for teachers and students to achieve that.</p>
 
-<table border="1" style="border-collapse: collapse;margin: 25px 0;font-size: 0.9em;font-family: sans-serif;min-width: 400px; box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);">
+<table style="border-collapse: collapse;margin: 25px 0;font-size:14.5px;font-family: sans-serif;box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);" border="1">
+<thead style="background-color: #009879; font-weight: bold; font-size: 14.5px;">
+<tr>
+				<td style="text-align:left;color:white;font-family:sans-serif;">Talent Area</td>
+	<td style="text-align:left;color:white;font-family:sans-serif;">Officer</td>
+	<td style="text-align:left;color:white;font-family:sans-serif;">Tel</td>
+	<td style="text-align:left;color:white;font-family:sans-serif;">Email</td>
+			</tr>
+</thead>
 	
-<tbody>
-<tr style="border-bottom: 1px solid #dddddd;">
-<td rowspan="2" style="padding: 20px 15px; font-size:14.5px; font-family:sans-serif;background-color:#009879"><strong style="font-family:sans-serif;color:white;">Future Leaders
-Programme</strong></td>
-	<td style="padding: 6px 10px;font-size:14.5px;font-family:sans-serif;"><strong style="font-size:14.5px;font-family:sans-serif;">Secondary 1</strong></td>
-	<td style="padding: 6px 10px;font-size:14.5px;font-family:sans-serif;"><strong style="font-size:14.5px;font-family:sans-serif;">Secondary 2</strong></td>
+<tbody style="">
+<tr>
+	<td style="font-family:sans-serif;">Robotics (Programming)</td>
+	<td style="font-family:sans-serif;">Mrs Jaslyn Ang</td>
+	<td style="font-family:sans-serif;">65009580 (Ext 220)</td>
+	<td style="font-family:sans-serif;">chan_huaihui_jaslyn@moe.edu.sg</td>
+</tr>
+			
+<tr style="background-color: #f3f3f3;">
+	<td style="font-family:sans-serif;">Guzheng </td>
+	<td rowspan="2" style="font-family:sans-serif;">Mrs Michelle Jonathan</td>
+	<td rowspan="2" style="font-family:sans-serif;">65009580 (Ext 251)</td>
+	<td rowspan="2" style="font-family:sans-serif;">chan_xin_hui_michelle@moe.edu.sg 
+</td>
+</tr>
+<tr style="background-color: #f3f3f3;">
+	<td style="font-family:sans-serif;">Chinese and Modern Dance</td>
 </tr>
 	
-<tr style="border-bottom: 1px solid #dddddd;">
-<td style="padding: 6px 10px;font-size:14.5px;font-family:sans-serif;"><ul style="margin-top:-5px;">
-	<li style="font-size:14.5px; line-height:1.5;font-family:sans-serif;">Introduction to PHSS Innovation Cycle</li>
-					<li style="font-size:14.5px; line-height:1.5;font-family:sans-serif;"> Basic coding with micro:bit</li>
-	<li style="font-size:14.5px; line-height:1.5;font-family:sans-serif;"> Encourage empathy and foster innovation at school level</li>
-</ul></td>
-	<td style="padding: 6px 10px;font-size:14.5px;font-family:sans-serif;"><ul style="margin-top:-5px;">
-	<li style="font-size:14.5px; line-height:1.5;font-family:sans-serif;"> PHSS Innovation Cycle as guiding framework</li>
-					<li style="font-size:14.5px; line-height:1.5;font-family:sans-serif;"> Coding with M5Go microcontroller focusing on Internet-of-Things (IoT)</li>
-	<li style="font-size:14.5px; line-height:1.5;font-family:sans-serif;"> Encourage empathy and foster innovation at community level</li>
-</ul></td>
+<tr>
+	<td style="font-family:sans-serif;">Floorball (Girls only)</td>
+	<td rowspan="3" style="font-family:sans-serif;">Mr Tan Kok Kwang</td>
+	<td rowspan="3" style="font-family:sans-serif;">65009580 (Ext 216)</td>
+	<td rowspan="3" style="font-family:sans-serif;">tan_kok_kwang_a@moe.edu.sg </td>
 </tr>
-
+<tr>
+	<td style="font-family:sans-serif;">Wushu</td>
+</tr>
+<tr>
+	<td style="font-family:sans-serif;">Taekwondo</td>
+</tr>
+	
+<tr>
+</tr>
+						
 </tbody>
 </table>
