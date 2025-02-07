@@ -18,12 +18,22 @@ sections:
           description: Driving Innovation
           url: /uniquely-pei-hwa/future-leader-programme/
       background: /images/Homepage/montage draft 4_18sep.gif
-  - infopic:
-      title: Latest Announcements
-      button: More
-      alt: Image alt text
-      url: /links/announcements/
-      image: /images/Homepage/announcementbanner.png
+  - textcards:
+      title: Latest Announcement
+      id: textcards
+      cards:
+        - title: Semester 1 (2025) Timetable
+          description: ""
+          linktext: Learn more
+          url: https://www.peihwasec.moe.edu.sg/lp-announcement/timetable/
+        - title: Purchase of School Uniform during School Term
+          description: ""
+          linktext: Learn more
+          url: https://drive.google.com/file/d/1e5XiHwqVvopdNyfuRO9USWIGiLQBlAS0/view
+        - title: Others
+          description: ""
+          linktext: More
+          url: https://www.peihwasec.moe.edu.sg/links/announcements/
   - infopic:
       title: Applied Learning Programme
       description: Robotics and Programming
