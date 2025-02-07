@@ -142,25 +142,25 @@ lessons.</p>
 <table border="1" style="border-collapse: collapse;margin: 0px 0;font-size: 0.9em;font-family: sans-serif;min-width: 400px; box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);">
 	
 <tbody>
-<tr style="border-bottom: 1px solid #dddddd;">
-<td style="padding: 20px 15px; font-size:14.5px; font-family:sans-serif;"><strong style="font-family:sans-serif;">March Holidays</strong></td>
-<td style="padding: 20px 15px; font-size:14.5px; font-family:sans-serif;">9 hours for Sec 1 and 2<br>
+<tr>
+		<td style="background-color: #009879; font-weight: bold; font-size: 14.5px;color:white;border-right: 1px solid lightgrey;"><strong style="font-family:sans-serif;color:white;">March Holidays</strong></td>
+<td style="font-weight: bold; font-size: 14.5px;border-right: 1px solid lightgrey;">9 hours for Sec 1 and 2<br>
 12 hours for Sec 3, 4 and 5</td>
 </tr>
 	
-<tr style="border-bottom: 1px solid #dddddd;">
-<td style="padding: 20px 15px;font-size:14.5px;font-family:sans-serif;"><strong style="font-family:sans-serif;">June Holidays</strong></td>
-<td style="padding: 20px 15px;font-size:14.5px;font-family:sans-serif;">18 hours for Sec 1 and 2<br>24 hours for Sec 3, 4 and 5</td>
+<tr>
+		<td style="background-color: #009879; font-weight: bold; font-size: 14.5px;color:white;border-right: 1px solid lightgrey;width:40%;"><strong style="font-family:sans-serif;color:white;">June Holidays</strong></td>
+<td style="font-weight: bold; font-size: 14.5px;border-right: 1px solid lightgrey;">18 hours for Sec 1 and 2<br>24 hours for Sec 3, 4 and 5</td>
 </tr>
 
-<tr style="border-bottom: 1px solid #dddddd;">
-<td style="padding: 20px 15px;font-size:14.5px;font-family:sans-serif;"><strong style="font-family:sans-serif;">September Holidays</strong></td>
-<td style="padding: 20px 15px;font-size:14.5px;font-family:sans-serif;">9 hours for Sec 1 and 2<br>12 hours for Sec 3, 4 and 5</td>
+<tr>
+		<td style="background-color: #009879; font-weight: bold; font-size: 14.5px;color:white;border-right: 1px solid lightgrey;"><strong style="font-family:sans-serif;color:white;">September Holidays</strong></td>
+<td style="font-weight: bold; font-size: 14.5px;border-right: 1px solid lightgrey;">9 hours for Sec 1 and 2<br>12 hours for Sec 3, 4 and 5</td>
 </tr>
 
-<tr style="border-bottom: 1px solid #dddddd;">
-<td style="padding: 20px 15px;font-size:14.5px;font-family:sans-serif;"><strong style="font-family:sans-serif;">Year-End Holidays</strong></td>
-<td style="padding: 20px 15px;font-size:14.5px;font-family:sans-serif;">18 hours for Sec 1 and 2<br>24 hours for Sec 3, 4 and 5</td>
+<tr>
+		<td style="background-color: #009879; font-weight: bold; font-size: 14.5px;color:white;border-right: 1px solid lightgrey;"><strong style="font-family:sans-serif;color:white;">Year-End Holidays</strong></td>
+<td style="font-weight: bold; font-size: 14.5px;border-right: 1px solid lightgrey;">18 hours for Sec 1 and 2<br>24 hours for Sec 3, 4 and 5</td>
 </tr>
 	
 
