@@ -1,8 +1,9 @@
 ---
-title: School Based Assessment
-permalink: /learning-at-pei-hwa/school-based-assessment/
-variant: markdown
+title: Homework and Assessment Policy
+permalink: /learning-at-pei-hwa/instructional-programmes/homework-and-assessment-policy/
 description: ""
+third_nav_title: Instructional Programmes
+variant: markdown
 ---
 <p style="font-size:14.5px; line-height:2;margin-top:0; font-family:sans-serif;text-align:justify;">In meeting the challenges of an increasingly complex world, the Ministry of Education (MOE) has, in recent years, announced changes to School-Based Assessments to help our students discover more joy in learning and to develop them to become lifelong learners. This
 year, the school continues to make changes to our school-based assessments to create time and space for teachers and students to achieve that.</p>
@@ -112,3 +113,56 @@ Examinations</td>
 <p style="font-size:14.5px; line-height:2;margin-top:0; font-family:sans-serif;text-align:justify;">Students who are absent for a WA with no valid reason will be given a zero mark for that assessment and this assessment mark will be included in the overall mark computation.</p>
 
 <p style="font-size:14.5px; line-height:2;margin-top:0; font-family:sans-serif;text-align:justify;">Please refer to the student handbook for other examination regulations.</p>
+
+<h6 style="color:#0B6623;;font-family:sans-serif;font-weight:bold;"><strong style="font-family:sans-serif;font-size:17px;color:#0B6623;">Homework Policy</strong></h6>
+
+<p style="font-size:14.5px; line-height:2;font-family:sans-serif;margin-top:0px;text-align:justify;">Homework is work that is set to be done outside the time-tabled curriculum. Pei Hwa Secondary School believes that <u style="font-family:sans-serif;">reasonable amounts of academic effort outside the class can enhance student learning</u>, <u style="font-family:sans-serif;">improve achievement</u> and <u style="font-family:sans-serif;">develop students' study skills</u>. Homework provides an opportunity for students to revisit the concepts or skills taught during
+lessons.</p>
+
+<p style="font-size:14.5px; line-height:2;font-family:sans-serif;margin-top:0px;text-align:justify;">Homework refers to any task which students are required to carry out for a subject outside of time-tabled curriculum time, regardless of the mode of delivery. This includes projects or research work, but not revision of school work or studying for tests and examinations.</p>
+
+
+<p style="line-height:2;margin-top:5px;margin-bottom:0;font-family:sans-serif;font-size:15.5px;"><strong style="font-family:sans-serif;">Suggested Homework Duration</strong></p>
+
+<p style="font-size:14.5px; line-height:2;margin-top:0px;font-family:sans-serif;text-align:justify;">Suggested homework maximum average duration per day (including weekends):</p>
+
+<ol style="margin-top:-5px; list-style:none;">
+<li aria-level="1" style="font-size:14.5px; line-height:2;margin-left:17px;font-family:sans-serif;">Lower Secondary – 2 hours</li>
+	<li aria-level="1" style="font-size:14.5px; line-height:2;margin-left:17px;font-family:sans-serif;">Upper Secondary – 2½ hours</li>
+</ol>
+
+<p style="line-height:2;margin-top:5px;margin-bottom:0;font-family:sans-serif;font-size:15.5px;"><strong style="font-family:sans-serif;">Other Guidelines on Homework</strong></p>
+
+<p style="font-size:14.5px; line-height:2;margin-top:0px;font-family:sans-serif;text-align:justify;">Suggested homework maximum average duration per day (including weekends):</p>
+
+<ol style="margin-top:-5px;">
+<li aria-level="1" style="font-size:14.5px; line-height:2;margin-left:17px;font-family:sans-serif;">During the school holidays:</li>
+</ol>
+
+<table border="1" style="border-collapse: collapse;margin: 0px 0;font-size: 0.9em;font-family: sans-serif;min-width: 400px; box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);">
+	
+<tbody>
+<tr>
+		<td style="background-color: #009879; font-weight: bold; font-size: 14.5px;color:white;border-right: 1px solid lightgrey;"><strong style="font-family:sans-serif;color:white;">March Holidays</strong></td>
+<td style="font-weight: bold; font-size: 14.5px;border-right: 1px solid lightgrey;">9 hours for Sec 1 and 2<br>
+12 hours for Sec 3, 4 and 5</td>
+</tr>
+	
+<tr>
+		<td style="background-color: #009879; font-weight: bold; font-size: 14.5px;color:white;border-right: 1px solid lightgrey;width:40%;"><strong style="font-family:sans-serif;color:white;">June Holidays</strong></td>
+<td style="font-weight: bold; font-size: 14.5px;border-right: 1px solid lightgrey;">18 hours for Sec 1 and 2<br>24 hours for Sec 3, 4 and 5</td>
+</tr>
+
+<tr>
+		<td style="background-color: #009879; font-weight: bold; font-size: 14.5px;color:white;border-right: 1px solid lightgrey;"><strong style="font-family:sans-serif;color:white;">September Holidays</strong></td>
+<td style="font-weight: bold; font-size: 14.5px;border-right: 1px solid lightgrey;">9 hours for Sec 1 and 2<br>12 hours for Sec 3, 4 and 5</td>
+</tr>
+
+<tr>
+		<td style="background-color: #009879; font-weight: bold; font-size: 14.5px;color:white;border-right: 1px solid lightgrey;"><strong style="font-family:sans-serif;color:white;">Year-End Holidays</strong></td>
+<td style="font-weight: bold; font-size: 14.5px;border-right: 1px solid lightgrey;">18 hours for Sec 1 and 2<br>24 hours for Sec 3, 4 and 5</td>
+</tr>
+	
+
+</tbody>
+</table>
