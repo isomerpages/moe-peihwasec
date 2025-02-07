@@ -9,7 +9,7 @@ sections:
   - hero:
       key_highlights:
         - title: 20th Anniversary
-          description: ""
+          description: Inspiring Futures
           url: ""
         - title: Vision | Mission | Values
           description: The Heart of Pei Hwa
@@ -19,20 +19,20 @@ sections:
           url: /uniquely-pei-hwa/future-leader-programme/
       background: /images/Homepage/montage draft 4_18sep.gif
   - textcards:
-      title: Latest Announcement
+      title: Announcement
       id: textcards
       cards:
-        - title: Semester 1 (2025) Timetable
+        - title: Home-Based Learning Day
           description: ""
           linktext: Learn more
-          url: https://www.peihwasec.moe.edu.sg/lp-announcement/timetable/
-        - title: Purchase of School Uniform during School Term
+          url: https://www.peihwasec.moe.edu.sg/learning-at-pei-hwa/home-based-learning/
+        - title: 2025 Direct School Admission (DSA) Application
           description: ""
           linktext: Learn more
           url: https://drive.google.com/file/d/1e5XiHwqVvopdNyfuRO9USWIGiLQBlAS0/view
-        - title: Others
+        - title: Other Announcement
           description: ""
-          linktext: More
+          linktext: Learn More
           url: https://www.peihwasec.moe.edu.sg/links/announcements/
   - infopic:
       title: Applied Learning Programme
