@@ -8,9 +8,9 @@ notification: ""
 sections:
   - hero:
       key_highlights:
-        - title: Secondary 1 Registration 2025
+        - title: 20th Anniversary
           description: ""
-          url: lp-announcement/secondary-1-registration/
+          url: ""
         - title: Vision | Mission | Values
           description: The Heart of Pei Hwa
           url: /we-are-pei-hwa/our-vision-mission-and-values/
