@@ -62,7 +62,7 @@ variant: markdown
 	
 <div style="flex: 1;border: 1px solid #ccc; padding: 10px 10px; display: flex; flex-direction: column;width:100%;gap: 10px;margin: 10px; background-color:white;background-color: #0B6623;flex: 0 0 calc(33.33% - 20px);" class="box">   
 	<div style="flex: 1;" class="content"> 
-		<h5 style="text-align:center;padding-top:18px;"><a href="https://www.peihwasec.moe.edu.sg/learning-at-pei-hwa/instructional-programmes/physical-education/" style="color:#FDBC58;font-family:sans-serif;font-weight:bold;font-size:18px;text-decoration: none;text-align:center;">Physical Education</a></h5>  
+		<h5 style="text-align:center;padding-top:18px;"><a href="https://www.peihwasec.moe.edu.sg/learning-at-pei-hwa/instructional-programmes/homework-and-assessment-policy/" style="color:#FDBC58;font-family:sans-serif;font-weight:bold;font-size:18px;text-decoration: none;text-align:center;">Homework and Assessment Policy</a></h5>  
 	</div> 
 </div>
 
