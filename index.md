@@ -17,7 +17,7 @@ sections:
         - title: Future Leader Programme
           description: Driving Innovation
           url: /uniquely-pei-hwa/future-leader-programme/
-      background: /images/new_banner_2025.gif
+      background: /images/Blue_and_White_Modern_Cricket_Match_Final_Team_Banner__1200_x_630_px___2400_x_815_px_.gif
   - textcards:
       title: Announcement
       id: textcards
