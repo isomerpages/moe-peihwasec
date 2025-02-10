@@ -4,8 +4,6 @@ permalink: /uniquely-pei-hwa/special-education-needs/
 description: ""
 variant: markdown
 ---
-<img style="width: 100%; height: auto;margin-top:30px;margin-bottom:30px;" alt="Image" src="/images/Uniquely%20Pei%20Hwa/specialneedsbanner.png">
-
 <p style="font-size:14.5px; line-height:2;font-family:sans-serif;">The Special Educational Needs Officer (SENO) supports students with mild special educational needs such as Dyslexia, Autism Spectrum Disorder (ASD), attention deficit hyperactivity disorder (ADHD) as well as others with learning and behavioural needs in the following ways:</p>
 
 <ul style="margin-top:-5px;">
@@ -27,5 +25,5 @@ variant: markdown
 
 <h6 style="color:#0B6623;font-family:sans-serif;font-weight:bold;margin-top:30px;"><strong style="font-family:sans-serif;font-size:17px;color:#0B6623;">The SENO in Pei Hwa Secondary School is: </strong></h6>
 <ul style="margin-top:-5px;">
-<li style="font-size:14.5px; line-height:1.5;font-family:sans-serif;">Ms Belinda Danker | 65009580 ext 205 | danker_belinda_ann@moe.edu.sg</li>
+<li style="font-size:14.5px; line-height:1.5;font-family:sans-serif;">Mr Joel Lim | 65009580 ext 205 | joel_lim_defeng@moe.edu.sg</li>
 </ul>
