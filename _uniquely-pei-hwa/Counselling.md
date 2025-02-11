@@ -4,8 +4,6 @@ permalink: /uniquely-pei-hwa/counselling/
 description: ""
 variant: markdown
 ---
-<img style="width: 100%; height: auto;margin-top:30px;margin-bottom:30px;" alt="Image" src="/images/Uniquely%20Pei%20Hwa/counsellingbannernew.png">
-
 <p style="margin-top:0px;font-size:14.5px; line-height:2;font-family:sans-serif;">Pei Hwa recognizes the importance of nurturing a healthy and positive social-emotional well- being for our students. This is essential for them to pursue and thrive in their academic functioning, as well as to achieve other key developmental milestones in their lives. The school counseling team works closely in partnership with teachers, parents, and external partners to equip students with relevant knowledge and skills. This is done to develop them as individuals with a healthy sense of self-identity and social competencies, enabling them to build positive relationships and make responsible choices.</p>
 
 <p style="line-height:2;margin-top:5px;margin-bottom:0;font-family:sans-serif;font-size:15.5px;"><strong style="font-family:sans-serif;">The Counselling Process</strong></p>
@@ -38,4 +36,4 @@ is empowered to gradually build up their readiness to identify and acknowledge t
 
 <p style="line-height:2;margin-top:5px;margin-bottom:0;font-family:sans-serif;font-size:15.5px;"><strong style="font-family:sans-serif;">The Counsellor</strong></p>
 
-<p style="font-size:14.5px; line-height:2;margin-top:0px;font-family:sans-serif;">Mr Vernon Koh | Senior School Counsellor | 65009580 ext 225</p>
+<p style="font-size:14.5px; line-height:2;margin-top:0px;font-family:sans-serif;">Mr Muhammad Sabir | Senior School Counsellor | 65009580 ext 225</p>

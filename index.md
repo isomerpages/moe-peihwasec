@@ -8,22 +8,32 @@ notification: ""
 sections:
   - hero:
       key_highlights:
-        - title: Secondary 1 Registration 2025
-          description: ""
-          url: lp-announcement/secondary-1-registration/
+        - title: 20th Anniversary
+          description: Inspiring Futures
+          url: /20th-anniversary/
         - title: Vision | Mission | Values
           description: The Heart of Pei Hwa
           url: /we-are-pei-hwa/our-vision-mission-and-values/
         - title: Future Leader Programme
           description: Driving Innovation
           url: /uniquely-pei-hwa/future-leader-programme/
-      background: /images/Homepage/montage draft 4_18sep.gif
-  - infopic:
-      title: Latest Announcements
-      button: More
-      alt: Image alt text
-      url: /links/announcements/
-      image: /images/Homepage/announcementbanner.png
+      background: /images/Banner_a_o_Feb_2025.gif
+  - textcards:
+      title: Announcement
+      id: textcards
+      cards:
+        - title: Home-Based Learning Day
+          description: ""
+          linktext: Learn more
+          url: https://www.peihwasec.moe.edu.sg/learning-at-pei-hwa/home-based-learning/
+        - title: 2025 Direct School Admission (DSA) Application
+          description: ""
+          linktext: Learn more
+          url: /uniquely-pei-hwa/direct-school-admission-dsa/direct-school-admission/
+        - title: Other Announcement
+          description: ""
+          linktext: Learn More
+          url: https://www.peihwasec.moe.edu.sg/links/announcements/
   - infopic:
       title: Applied Learning Programme
       description: Robotics and Programming
