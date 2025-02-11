@@ -10,7 +10,7 @@ sections:
       key_highlights:
         - title: 20th Anniversary
           description: Inspiring Futures
-          url: ""
+          url: /20th-anniversary/
         - title: Vision | Mission | Values
           description: The Heart of Pei Hwa
           url: /we-are-pei-hwa/our-vision-mission-and-values/
