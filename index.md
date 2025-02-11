@@ -29,7 +29,7 @@ sections:
         - title: 2025 Direct School Admission (DSA) Application
           description: ""
           linktext: Learn more
-          url: https://drive.google.com/file/d/1e5XiHwqVvopdNyfuRO9USWIGiLQBlAS0/view
+          url: /uniquely-pei-hwa/direct-school-admission-dsa/direct-school-admission/
         - title: Other Announcement
           description: ""
           linktext: Learn More
