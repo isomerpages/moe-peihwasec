@@ -25,11 +25,38 @@ variant: markdown
 	
 <p style="line-height:2;margin-top:5px;margin-bottom:0;font-family:sans-serif;font-size:15.5px;"><strong style="font-family:sans-serif;">The Support Journey: A Path to Self-Discovery and Positive Change</strong></p>
 
-<p style="font-size:14.5px; line-height:2;margin-top:0px;font-family:sans-serif;">Referral for counselling is usually made by Form Teachers. Parents/caregivers may enquire on counselling services in the school for their child through the child’s Form Teachers. Students can also initiate the counselling themselves.</p> 
+<p style="font-size:14.5px; line-height:2;margin-top:0px;font-family:sans-serif;">The heart of our support services is a therapeutic relationship between a trained member of our Student Support Team and the student.</p> 
 
-<p style="line-height:2;margin-top:5px;margin-bottom:0;font-family:sans-serif;font-size:15.5px;"><strong style="font-family:sans-serif;">The Place</strong></p>
+<p style="font-size:14.5px; line-height:2;margin-top:0px;font-family:sans-serif;">Our goal is to help students:</p> 
 
-<p style="font-size:14.5px; line-height:2;margin-top:0px;font-family:sans-serif;">Our Counselling Room is located at Block D, Level 3 (above the gym and PE room).</p> 
+<ul style="margin-top:-5px">
+<li style="font-size:14.5px; line-height:1.5;font-family:sans-serif;">Understand themselves and their challenges better.</li>
+	<li style="font-size:14.5px; line-height:1.5;font-family:sans-serif;">Identify areas needing attention.</li>
+	<li style="font-size:14.5px; line-height:1.5;font-family:sans-serif;">Develop greater self-awareness.</li>
+	<li style="font-size:14.5px; line-height:1.5;font-family:sans-serif;">Build readiness for positive change.</li>
+</ul>
+
+<p style="margin-top:0px;font-size:14.5px; line-height:2;font-family:sans-serif;">We maintain strict confidentiality in all sessions, except when required by law or when student safety is at risk. In such cases, we collaborate with relevant stakeholders to ensure appropriate support.</p>
+
+<p style="margin-top:0px;font-size:14.5px; line-height:2;font-family:sans-serif;">The aim is to provide a safe space for students to explore their emotions, challenges, and personal growth.</p>
+
+<p style="line-height:2;margin-top:5px;margin-bottom:0;font-family:sans-serif;font-size:15.5px;"><strong style="font-family:sans-serif;">Areas of Support</strong></p>
+
+<p style="font-size:14.5px; line-height:2;margin-top:0px;font-family:sans-serif;">We provide guidance and support in a range of areas, including but not limited to:</p> 
+
+<ul style="margin-top:-5px">
+<li style="font-size:14.5px; line-height:1.5;font-family:sans-serif;">Understand themselves and their challenges better.</li>
+	<li style="font-size:14.5px; line-height:1.5;font-family:sans-serif;">Identify areas needing attention.</li>
+	<li style="font-size:14.5px; line-height:1.5;font-family:sans-serif;">Develop greater self-awareness.</li>
+	<li style="font-size:14.5px; line-height:1.5;font-family:sans-serif;">Build readiness for positive change.</li>
+</ul>
+
+<p style="margin-top:0px;font-size:14.5px; line-height:2;font-family:sans-serif;">We maintain strict confidentiality in all sessions, except when required by law or when student safety is at risk. In such cases, we collaborate with relevant stakeholders to ensure appropriate support.</p>
+
+<p style="margin-top:0px;font-size:14.5px; line-height:2;font-family:sans-serif;">The aim is to provide a safe space for students to explore their emotions, challenges,
+and personal growth.</p>
+
+
 
 <p style="line-height:2;margin-top:5px;margin-bottom:0;font-family:sans-serif;font-size:15.5px;"><strong style="font-family:sans-serif;">The Counsellor</strong></p>
 
