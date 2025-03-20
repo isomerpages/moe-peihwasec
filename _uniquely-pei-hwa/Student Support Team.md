@@ -45,19 +45,26 @@ variant: markdown
 <p style="font-size:14.5px; line-height:2;margin-top:0px;font-family:sans-serif;">We provide guidance and support in a range of areas, including but not limited to:</p> 
 
 <ul style="margin-top:-5px">
-<li style="font-size:14.5px; line-height:1.5;font-family:sans-serif;">Understand themselves and their challenges better.</li>
-	<li style="font-size:14.5px; line-height:1.5;font-family:sans-serif;">Identify areas needing attention.</li>
-	<li style="font-size:14.5px; line-height:1.5;font-family:sans-serif;">Develop greater self-awareness.</li>
-	<li style="font-size:14.5px; line-height:1.5;font-family:sans-serif;">Build readiness for positive change.</li>
+<li style="font-size:14.5px; line-height:1.5;font-family:sans-serif;">Stress Management (academic and non-academic)</li>
+	<li style="font-size:14.5px; line-height:1.5;font-family:sans-serif;">Mood Issues (such as anxiety, depression, and emotional regulation)</li>
+	<li style="font-size:14.5px; line-height:1.5;font-family:sans-serif;">Relationship Issues (peer relationships, family dynamics, social skills)</li>
+	<li style="font-size:14.5px; line-height:1.5;font-family:sans-serif;">Behavioral Issues (including bullying, aggression, and gaming habits)</li>
+		<li style="font-size:14.5px; line-height:1.5;font-family:sans-serif;">Grief and Loss (coping with loss and difficult emotions)</li>
+	<li style="font-size:14.5px; line-height:1.5;font-family:sans-serif;">Education and Career</li>
+	<li style="font-size:14.5px; line-height:1.5;font-family:sans-serif;">Special Educational Needs Support (Attention deficit hyperactivity disorder, Mild
+autism spectrum disorder, and other learning challenges)</li>
 </ul>
 
-<p style="margin-top:0px;font-size:14.5px; line-height:2;font-family:sans-serif;">We maintain strict confidentiality in all sessions, except when required by law or when student safety is at risk. In such cases, we collaborate with relevant stakeholders to ensure appropriate support.</p>
+<p style="margin-top:0px;font-size:14.5px; line-height:2;font-family:sans-serif;">Through holistic personalized support, we help students develop their capacity to access learning and be meaningfully involved in their academic and personal growth.</p>
 
-<p style="margin-top:0px;font-size:14.5px; line-height:2;font-family:sans-serif;">The aim is to provide a safe space for students to explore their emotions, challenges,
-and personal growth.</p>
+<p style="margin-top:0px;font-size:14.5px; line-height:2;font-family:sans-serif;">If you are interested in learning more about the support available for your child, you may reach out to your child’s Form Teacher or contact us directly.</p>
 
-
-
-<p style="line-height:2;margin-top:5px;margin-bottom:0;font-family:sans-serif;font-size:15.5px;"><strong style="font-family:sans-serif;">The Counsellor</strong></p>
+<p style="line-height:2;margin-top:5px;margin-bottom:0;font-family:sans-serif;font-size:15.5px;"><strong style="font-family:sans-serif;">The Student Support Team</strong></p>
 
 <p style="font-size:14.5px; line-height:2;margin-top:0px;font-family:sans-serif;">Mr Muhammad Sabir | Senior School Counsellor | 65009580 ext 225</p>
+
+<p style="font-size:14.5px; line-height:2;margin-top:-15px;font-family:sans-serif;">Ms Dhivyaa | School Counsellor | 65009580 ext 225</p>
+
+<p style="font-size:14.5px; line-height:2;margin-top:-15px;font-family:sans-serif;">Ms Adeline Ng | Education and Career Guidance counsellor | 65009580 ext 208</p>
+
+<p style="font-size:14.5px; line-height:2;margin-top:-15px;font-family:sans-serif;">Mr Joel Lim | Special Education Needs Officer | 65009580 ext 205</p>
