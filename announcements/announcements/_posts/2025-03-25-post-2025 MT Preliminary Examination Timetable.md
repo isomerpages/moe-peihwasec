@@ -7,3 +7,5 @@ description: ""
 image: ""
 variant: tiptap
 ---
+<p>Please click here for the 2024 Secondary 1 End-of-Year examination timetable
+and formats</p>
