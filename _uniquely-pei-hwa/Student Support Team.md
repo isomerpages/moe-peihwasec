@@ -4,6 +4,8 @@ permalink: /uniquely-pei-hwa/student-support-team/
 description: ""
 variant: markdown
 ---
+<img style="width: 100%; height: auto;margin-top:30px;margin-bottom:30px;" alt="Image" src="/images/Uniquely%20Pei%20Hwa/WhatsApp_Image_2025_03_24_at_11_31_12.jpg">
+
 <p style="margin-top:0px;font-size:14.5px; line-height:2;font-family:sans-serif;">We believe that psychological, emotional and cognitive well-being is essential for a student’s overall growth. When students feel supported, they can reach key personal milestones and thrive in all areas of life.</p>
 
 <p style="margin-top:0px;font-size:14.5px; line-height:2;font-family:sans-serif;">Our Student Support Team together with teachers, partners parents and relevant professionals to develop resilience and competence, both in and beyond the classroom.</p>
