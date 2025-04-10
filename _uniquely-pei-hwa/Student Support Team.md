@@ -51,7 +51,7 @@ variant: markdown
 	<li style="font-size:14.5px; line-height:1.5;font-family:sans-serif;">Interpersonal challenges (peer and family interactions, and social skills)</li>
 	<li style="font-size:14.5px; line-height:1.5;font-family:sans-serif;">Behavioral Issues (including bullying, aggression, and gaming habits)</li>
 		<li style="font-size:14.5px; line-height:1.5;font-family:sans-serif;">Grief and Loss (coping with loss and difficult emotions)</li>
-	<li style="font-size:14.5px; line-height:1.5;font-family:sans-serif;">Education and Career</li>
+	<li style="font-size:14.5px; line-height:1.5;font-family:sans-serif;">Education and Career Guidance (support in academic planning, career exploration)</li>
 	<li style="font-size:14.5px; line-height:1.5;font-family:sans-serif;">Special Educational Needs Support&nbsp; (Attention Deficit Hyperactivity Disorder, Mild Autism Spectrum Disorder, and other learning challenges)</li>
 </ul>
 
