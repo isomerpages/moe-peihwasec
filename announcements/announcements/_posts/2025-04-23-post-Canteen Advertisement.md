@@ -21,7 +21,7 @@ variant: markdown
 <tbody>
 
 <tr>
-		<td style="background-color: #009879; font-weight: bold; font-size: 14.5px;color:white;border-right: 1px solid lightgrey;">Cooked Food Stall (Non-Halal)</td>
+		<td style="font-size: 14.5px; border-right: 1px solid lightgrey;">Cooked Food Stall (Non-Halal)</td>
 	<td style="font-family:sans-serif;border-right: 1px solid lightgrey;">7 May 2025</td>
 	<td style="font-family:sans-serif;border-right: 1px solid lightgrey;">Non-Halal</td>
 </tr>
@@ -34,7 +34,7 @@ variant: markdown
 <h6 style="color:#0B6623;font-family:sans-serif;font-weight:bold;"><strong style="font-family:sans-serif;font-size:17px;color:#0B6623;">Application Procedure</strong></h6>
 
 <ol style="margin-top:-5px; margin-bottom:-15px">
-	<li style="font-size:14.5px; line-height:2;font-family:sans-serif;">Download and complete the <a href="https://drive.google.com/file/d/1kW88MO-lCBPxyYLb7SbSc4plBZhDFksL/view?usp=sharing" style="font-size:14.5px; line-height:1.5;font-family:sans-serif;font-weight:bold;text-decoration: none;">application form</a>. You may also request for a hardcopy from the School’s General Office. </li>
+	<li style="font-size:14.5px; line-height:2;font-family:sans-serif;">Download and complete the <a href="https://drive.google.com/file/d/1tOjuOko2T08tQ47kwhOtnLpdxTVM2Nja/view?usp=sharing" style="font-size:14.5px; line-height:1.5;font-family:sans-serif;font-weight:bold;text-decoration: none;">application form</a>. You may also request for a hardcopy from the School’s General Office. </li>
 	<li style="font-size:14.5px; line-height:2;font-family:sans-serif;">Attached the following documents together with the application form:
 	<ul style="margin-top:10px;margin-bottom:-15px;">
 	<li style="font-size:14.5px; line-height:1.5; font-family:sans-serif;"> Photocopy of the NRIC (front and back)</li>
