@@ -63,10 +63,10 @@ These are the existing non-halal stalls (Mixed Rice, Western Food and Noodles) c
 <li style="font-size:14.5px; line-height:2;margin-left:17px;font-family:sans-serif;">Singapore citizen or Singapore Permanent Resident (SPR) for stallholder and stall assistant.</li>
 <li style="font-size:14.5px; line-height:1.5;margin-left:17px;font-family:sans-serif;">Able to provide good service and quality food with prices determined in consultation with the school.</li>
 	<li style="font-size:14.5px; line-height:1.5;margin-left:17px;font-family:sans-serif;">Able to provide cooked food that meets the health / nutritional standards set by the Health Promotion Board (HPB) under the "Healthy Meals in Schools Programme (HMSP)" guidelines (see
-[link](https://www.hpb.gov.sg/schools/school-programmes/healthy-meals-in-schools-programme)).</li>
+<a href="https://www.hpb.gov.sg/schools/school-programmes/healthy-meals-in-schools-programme" style="font-size:14.5px; line-height:1.5;font-family:sans-serif;font-weight:bold;text-decoration: none;">Link.</a></li><a href="https://www.hpb.gov.sg/schools/school-programmes/healthy-meals-in-schools-programme" style="font-size:14.5px; line-height:1.5;font-family:sans-serif;font-weight:bold;text-decoration: none;">
 	<li style="font-size:14.5px; line-height:1.5;margin-left:17px;font-family:sans-serif;"></li>
 	<li style="font-size:14.5px; line-height:1.5;margin-left:17px;font-family:sans-serif;"></li>
 	<li style="font-size:14.5px; line-height:1.5;margin-left:17px;font-family:sans-serif;"></li>
 	<li style="font-size:14.5px; line-height:1.5;margin-left:17px;font-family:sans-serif;"></li>
 	<li style="font-size:14.5px; line-height:1.5;margin-left:17px;font-family:sans-serif;"></li>
-</ol>
+</a></ol>
