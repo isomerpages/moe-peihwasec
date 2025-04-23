@@ -29,7 +29,7 @@ variant: markdown
 </tbody>
 </table>
 
-<p style="font-size:14.5px; line-height:2;font-family:sans-serif;">We are a single session school and have an estimated school enrolment of 1230 students and 130 staff. These are the existing non-halal stalls (Mixed Rice, Western Food and Noodles) currently operating in the school.</p>
+<p style="font-size:14.5px; line-height:2;font-family:sans-serif;">We are a single session school and have an estimated school enrolment of 1230 students and 130 staff. <br>These are the existing non-halal stalls (Mixed Rice, Western Food and Noodles) currently operating in the school.</p>
 
 <h6 style="color:#0B6623;font-family:sans-serif;font-weight:bold;"><strong style="font-family:sans-serif;font-size:17px;color:#0B6623;">Application Procedure</strong></h6>
 
@@ -76,4 +76,4 @@ variant: markdown
 	<li style="font-size:14.5px; line-height:1.5;margin-left:17px;font-family:sans-serif;">Successful applicant is required to apply for a food stall license from Singapore Food Agency (SFA).</li>
 </ol>
 
-<p style="font-size:14.5px; line-height:2;font-family:sans-serif;">Shortlisted applicants will be notified for an interview and will be required to provide food sampling for the School. Canteen Selection Committee at the applicant's own expense.</p>
+<p style="font-size:14.5px; line-height:2;font-family:sans-serif;">Shortlisted applicants will be notified for an interview and will be required to provide food sampling for the School Canteen Selection Committee at the applicant's own expense.</p>
