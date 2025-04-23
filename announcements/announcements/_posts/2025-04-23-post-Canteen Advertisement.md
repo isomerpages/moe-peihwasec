@@ -43,35 +43,30 @@ These are the existing non-halal stalls (Mixed Rice, Western Food and Noodles) c
 	<li style="font-size:14.5px; line-height:1.5; font-family:sans-serif;"> Photocopy of relevant certificates such as Basic Food Hygiene Course, etc</li>
 </ul>
 	</li>
-	<li style="font-size:14.5px; line-height:2;font-family:sans-serif;">Submit the completed application form and documents by closing date via email OR to the School's General Office.
+	<li style="font-size:14.5px; line-height:2;font-family:sans-serif;">Submit the completed application form and documents by closing date via email OR to the School's General Office.</li>
 	<ul style="margin-top:10px;margin-bottom:-15px;">
 	<li style="font-size:14.5px; line-height:1.5; font-family:sans-serif;list-style-type: none !important;">Address: 21 Fernvale Link Singapore 797702</li>
 	<li style="font-size:14.5px; line-height:1.5; font-family:sans-serif;list-style-type: none !important;">Contact No: 65009580</li>
 	<li style="font-size:14.5px; line-height:1.5; font-family:sans-serif;list-style-type: none !important;">Email: peihwasec@moe.edu.sg</li>
 		<li style="font-size:14.5px; line-height:1.5; font-family:sans-serif;list-style-type: none !important;">Contact Person: Ms Engratia Ong</li>
 </ul>
-		
-<ul style="margin-top:10px;margin-bottom:-15px;">
-	<li style="font-size:14.5px; line-height:1.5; font-family:sans-serif;"></li>
-		</ul>
-	</li>
-	<li style="font-size:14.5px; line-height:2;font-family:sans-serif;">Application Form 2025 is available&nbsp;<a href="https://drive.google.com/file/d/1kW88MO-lCBPxyYLb7SbSc4plBZhDFksL/view?usp=sharing" style="font-size:14.5px; line-height:1.5;font-family:sans-serif;font-weight:bold;text-decoration: none;">here</a> (updated October 2024)</li>
+</ol>
 
-	
-
-
-<ul style="margin-top:10px">
-	<strong><li style="font-size:14.5px; line-height:1.5; font-family:sans-serif;"> WA Weighting and Time Frame</li></strong>
-		<p style="font-size:14.5px; line-height:2;margin-top:-25px; font-family:sans-serif;text-align:justify;">The following table details the weighting for the WA administered each term.</p>
+<h6 style="color:#0B6623;font-family:sans-serif;font-weight:bold;"><strong style="font-family:sans-serif;font-size:17px;color:#0B6623;">How to get there?</strong></h6>
+<ul style="margin-top:-5px;">
+<li style="font-size:14.5px; line-height:2;margin-left:17px;font-family:sans-serif;">Nearest LRT: Layar LRT– 3 minutes walking distance</li>
+<li style="font-size:14.5px; line-height:1.5;margin-left:17px;font-family:sans-serif;">Bus number: 50, 163 - 4 minutes walking distance</li>
 </ul>
 
-<ol style="margin-top:-5px;margin-left: 50px;">
-	<li style="font-size:14.5px; line-height:2;margin-left:17px;font-family:sans-serif;">Application Form 2025 is available&nbsp;<a href="https://drive.google.com/file/d/1kW88MO-lCBPxyYLb7SbSc4plBZhDFksL/view?usp=sharing" style="font-size:14.5px; line-height:1.5;font-family:sans-serif;font-weight:bold;text-decoration: none;">here</a> (updated October 2024)</li>
-	<li style="font-size:14.5px; line-height:2;margin-left:17px;font-family:sans-serif;"><a href="https://drive.google.com/drive/folders/1c5-mdhOXDBrt-B_29f19Kx98U__FB03w?usp=sharing" style="font-size:14.5px; line-height:1.5;font-family:sans-serif;font-weight:bold;text-decoration: none;">FAS pamphlet</a></li>
-</ol>
-
-<h6 style="color:#0B6623;font-family:sans-serif;font-weight:bold;"><strong style="font-family:sans-serif;font-size:17px;color:#0B6623;">Related Links &amp; Other Admin Forms</strong></h6>
+<h6 style="color:#0B6623;font-family:sans-serif;font-weight:bold;"><strong style="font-family:sans-serif;font-size:17px;color:#0B6623;">Interest applicants must meet the following criteria:</strong></h6>
 <ol style="margin-top:-5px;">
-<li style="font-size:14.5px; line-height:2;margin-left:17px;font-family:sans-serif;"><a href="https://www.digitalaccess.gov.sg/" style="font-size:14.5px; line-height:1.5;font-family:sans-serif;font-weight:bold;text-decoration: none;">Home Access programme</a></li>
+<li style="font-size:14.5px; line-height:2;margin-left:17px;font-family:sans-serif;">Singapore citizen or Singapore Permanent Resident (SPR) for stallholder and stall assistant.</li>
+<li style="font-size:14.5px; line-height:1.5;margin-left:17px;font-family:sans-serif;">Able to provide good service and quality food with prices determined in consultation with the school.</li>
+	<li style="font-size:14.5px; line-height:1.5;margin-left:17px;font-family:sans-serif;">Able to provide cooked food that meets the health / nutritional standards set by the Health Promotion Board (HPB) under the "Healthy Meals in Schools Programme (HMSP)" guidelines (see
+[link](https://www.hpb.gov.sg/schools/school-programmes/healthy-meals-in-schools-programme)).</li>
+	<li style="font-size:14.5px; line-height:1.5;margin-left:17px;font-family:sans-serif;"></li>
+	<li style="font-size:14.5px; line-height:1.5;margin-left:17px;font-family:sans-serif;"></li>
+	<li style="font-size:14.5px; line-height:1.5;margin-left:17px;font-family:sans-serif;"></li>
+	<li style="font-size:14.5px; line-height:1.5;margin-left:17px;font-family:sans-serif;"></li>
+	<li style="font-size:14.5px; line-height:1.5;margin-left:17px;font-family:sans-serif;"></li>
 </ol>
-<img src="/images/HomeAccessIMDA-1024x357.jpg"></ol>
