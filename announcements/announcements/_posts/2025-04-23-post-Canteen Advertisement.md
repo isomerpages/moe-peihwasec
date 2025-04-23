@@ -29,8 +29,7 @@ variant: markdown
 </tbody>
 </table>
 
-<p style="font-size:14.5px; line-height:2;font-family:sans-serif;">We are a single session school and have an estimated school enrolment of 1230 students and 130 staff.
-These are the existing non-halal stalls (Mixed Rice, Western Food and Noodles) currently operating in the school.</p>
+<p style="font-size:14.5px; line-height:2;font-family:sans-serif;">We are a single session school and have an estimated school enrolment of 1230 students and 130 staff. These are the existing non-halal stalls (Mixed Rice, Western Food and Noodles) currently operating in the school.</p>
 
 <h6 style="color:#0B6623;font-family:sans-serif;font-weight:bold;"><strong style="font-family:sans-serif;font-size:17px;color:#0B6623;">Application Procedure</strong></h6>
 
@@ -63,10 +62,18 @@ These are the existing non-halal stalls (Mixed Rice, Western Food and Noodles) c
 <li style="font-size:14.5px; line-height:2;margin-left:17px;font-family:sans-serif;">Singapore citizen or Singapore Permanent Resident (SPR) for stallholder and stall assistant.</li>
 <li style="font-size:14.5px; line-height:1.5;margin-left:17px;font-family:sans-serif;">Able to provide good service and quality food with prices determined in consultation with the school.</li>
 	<li style="font-size:14.5px; line-height:1.5;margin-left:17px;font-family:sans-serif;">Able to provide cooked food that meets the health / nutritional standards set by the Health Promotion Board (HPB) under the "Healthy Meals in Schools Programme (HMSP)" guidelines (see
-<a href="https://www.hpb.gov.sg/schools/school-programmes/healthy-meals-in-schools-programme" style="font-size:14.5px; line-height:1.5;font-family:sans-serif;font-weight:bold;text-decoration: none;">Link.</a></li><a href="https://www.hpb.gov.sg/schools/school-programmes/healthy-meals-in-schools-programme" style="font-size:14.5px; line-height:1.5;font-family:sans-serif;font-weight:bold;text-decoration: none;">
-	<li style="font-size:14.5px; line-height:1.5;margin-left:17px;font-family:sans-serif;"></li>
-	<li style="font-size:14.5px; line-height:1.5;margin-left:17px;font-family:sans-serif;"></li>
-	<li style="font-size:14.5px; line-height:1.5;margin-left:17px;font-family:sans-serif;"></li>
-	<li style="font-size:14.5px; line-height:1.5;margin-left:17px;font-family:sans-serif;"></li>
-	<li style="font-size:14.5px; line-height:1.5;margin-left:17px;font-family:sans-serif;"></li>
-</a></ol>
+<a href="https://www.hpb.gov.sg/schools/school-programmes/healthy-meals-in-schools-programme" style="font-size:14.5px; line-height:1.5;font-family:sans-serif;font-weight:bold;text-decoration: none;">Link</a>).</li>
+	<li style="font-size:14.5px; line-height:1.5;margin-left:17px;font-family:sans-serif;">Able to maintain high standard of food safety and personal hygiene.</li>
+	<li style="font-size:14.5px; line-height:1.5;margin-left:17px;font-family:sans-serif;">Healthy and fit to operate the stall.</li>
+	<li style="font-size:14.5px; line-height:1.5;margin-left:17px;font-family:sans-serif;">Must be in personal attendance at the stall during operating hours.</li>
+	<li style="font-size:14.5px; line-height:1.5;margin-left:17px;font-family:sans-serif;">Shall not provide disposables for dine-in meals in the canteen.</li>
+	<li style="font-size:14.5px; line-height:1.5;margin-left:17px;font-family:sans-serif;">Prior experience in running a school canteen stall will be an added advantage.</li></ol>
+
+<h6 style="color:#0B6623;font-family:sans-serif;font-weight:bold;"><strong style="font-family:sans-serif;font-size:17px;color:#0B6623;">Applicants should preferably fulfil the following criteria:</strong></h6>
+<ol style="margin-top:-5px;">
+<li style="font-size:14.5px; line-height:2;margin-left:17px;font-family:sans-serif;">Successful applicant and stall assistant(s) must possess the WSQ Basic Food Hygiene Certificate.</li>
+<li style="font-size:14.5px; line-height:1.5;margin-left:17px;font-family:sans-serif;">Possess catering experience or experience operating in a school environment.</li>
+	<li style="font-size:14.5px; line-height:1.5;margin-left:17px;font-family:sans-serif;">Successful applicant is required to apply for a food stall license from Singapore Food Agency (SFA).</li>
+</ol>
+
+<p style="font-size:14.5px; line-height:2;font-family:sans-serif;">Shortlisted applicants will be notified for an interview and will be required to provide food sampling for the School. Canteen Selection Committee at the applicant's own expense.</p>
