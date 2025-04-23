@@ -4,7 +4,6 @@ permalink: /links/announcements/
 description: ""
 variant: markdown
 ---
-
 <div style="padding:70px;margin-top:-100px;max-width:100%">
 
 
@@ -14,7 +13,7 @@ variant: markdown
 
 <div style="flex: 1;" class="content"> 
 
-<h5 style="text-align:center;padding-top:30px;"><a href="lp-announcement/canteen-advertisement/" style="color:#FDBC58;font-family:sans-serif;font-weight:bold;font-size:18px;text-decoration: none;text-align:center;">Canteen Advertisement</a></h5> &nbsp;
+<h5 style="text-align:center;padding-top:30px;"><a href="/lp-announcement/canteen-advertisement/" style="color:#FDBC58;font-family:sans-serif;font-weight:bold;font-size:18px;text-decoration: none;text-align:center;">Canteen Advertisement</a></h5> &nbsp;
 
 </div> 
 </div>
