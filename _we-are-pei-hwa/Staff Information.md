@@ -20,7 +20,7 @@ variant: markdown
 		<td style="text-align:center; border: 1px solid #dddfe1;width:30%;"><strong style="font-family:sans-serif;">Principal</strong>
 		</td>
 		<td style="text-align:center; border: 1px solid #dddfe1; font-family:sans-serif;width:40%;">Mr Mohd Azhar B Terimo</td>
-		<td style="text-align:center; border: 1px solid #dddfe1; font-family:sans-serif;width:30%;">mohd_azhar_terimo@schools.gov.sg</td>
+		<td style="text-align:center; border: 1px solid #dddfe1; font-family:sans-serif;width:30%;">mohd_azhar_terimo@moe.edu.sg</td>
 </tr>
 	
 <tr>
@@ -28,7 +28,7 @@ variant: markdown
 <strong style="font-family:sans-serif;">Vice-Principal</strong>
 </td>
 <td style="text-align:center; border: 1px solid #dddfe1; font-family:sans-serif;">Mrs Michelle Willman</td>
-		<td style="text-align:center; border: 1px solid #dddfe1; font-family:sans-serif;">michelle_willman@schools.gov.sg</td>
+		<td style="text-align:center; border: 1px solid #dddfe1; font-family:sans-serif;">michelle_willman@moe.edu.sg</td>
 </tr>
 		
 <tr>
@@ -36,7 +36,7 @@ variant: markdown
 <strong style="font-family:sans-serif;">Vice-Principal</strong>
 </td>
 <td style="text-align:center; border: 1px solid #dddfe1; font-family:sans-serif;">Mr Ow Weng Keong</td>
-		<td style="text-align:center; border: 1px solid #dddfe1; font-family:sans-serif;">ow_weng_keong@schools.gov.sg</td>
+		<td style="text-align:center; border: 1px solid #dddfe1; font-family:sans-serif;">ow_weng_keong@moe.edu.sg</td>
 </tr>
 		
 <tr>
@@ -298,7 +298,7 @@ variant: markdown
 <td style="text-align:center; border: 1px solid #dddfe1;">
 <strong style="font-family:sans-serif;">Passion 3</strong></td>
 <td style="text-align:center; border: 1px solid #dddfe1;font-family:sans-serif;">Mr Chew Lye Heng <br>Miss Lian Jane</td>
-<td style="text-align:center; border: 1px solid #dddfe1;font-family:sans-serif;">-<br>lian_jane@moe.edu.sg</td>
+<td style="text-align:center; border: 1px solid #dddfe1;font-family:sans-serif;">chew_lye_heng@moe.edu.sg<br>lian_jane@moe.edu.sg</td>
 </tr>
 	
 <tr>
