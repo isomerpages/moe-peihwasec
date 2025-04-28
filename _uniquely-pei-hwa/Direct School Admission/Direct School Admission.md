@@ -13,9 +13,7 @@ variant: markdown
 <p style="font-size:14.5px;line-height:2;margin-top:5px;margin-bottom:0;font-family:sans-serif;">Students who are successfully admitted to the school via DSA are expected to honour their commitment to the school and participate in the activities related to the talent they are selected for from year 1-4.</p>
 
 <h6 style="color:#0B6623;font-family:sans-serif;font-weight:bold;margin-top:30px;"><strong style="font-family:sans-serif;font-size:17px;color:#0B6623;">Talent Areas</strong></h6>
-<p style="font-size:14.5px; line-height:2;margin-top:5px;margin-bottom:0;font-family:sans-serif;">Pei Hwa Secondary School invites Primary 6 students to join the school through the 2024 DSA-Sec Exercise.</p>
-
-<p style="font-size:14.5px; line-height:2;margin-top:5px;margin-bottom:0;font-family:sans-serif;">Interested candidates can apply for DSA through the following talent areas:</p>
+<p style="font-size:14.5px; line-height:2;margin-top:5px;margin-bottom:0;font-family:sans-serif;">The following talent areas are offered at Pei Hwa Secondary School:</p>
 
 <ul style="margin-top:-5px;">
 <li style="font-size:14.5px; line-height:1.5;font-family:sans-serif;"><a style="font-size:14.5px; line-height:1.5;font-family:sans-serif;font-weight:bold;text-decoration: none;" href="https://www.peihwasec.moe.edu.sg/uniquely-pei-hwa/direct-school-admission-dsa/robotics/">Robotics (Programming)</a></li>
@@ -26,37 +24,8 @@ variant: markdown
 <li style="font-size:14.5px;line-height:1.5;font-family:sans-serif;margin-bottom:0px;"><a style="font-size:14.5px; line-height:1.5;font-family:sans-serif;font-weight:bold;text-decoration: none;" href="https://www.peihwasec.moe.edu.sg/uniquely-pei-hwa/direct-school-admission-dsa/taekwondo/">Taekwondo</a></li>
 </ul>
 
-<p style="font-size:14.5px; line-height:2;margin-top:5px;margin-bottom:0;font-family:sans-serif;"></p><p style="font-size:14.5px; line-height:2;margin-top:5px;margin-bottom:0;font-family:sans-serif;">Pei Hwa Secondary School invites Primary 6 students to join the school through the 2024 DSA-Sec Exercise.</p>
-
 <h6 style="color:#0B6623;font-family:sans-serif;font-weight:bold;margin-top:30px;"><strong style="font-family:sans-serif;font-size:17px;color:#0B6623;">Application</strong></h6>
-<p style="font-size:14.5px; line-height:2;margin-top:5px;margin-bottom:0;font-family:sans-serif;">Application for DSA-Sec can be submitted through the online DSA-Sec Portal. The application is free-of-charge and will be open from 7 May 2024, 11am to 3rd June 2024, 3pm.</p>
-
-<p style="font-size:14.5px; line-height:2;margin-top:5px;margin-bottom:0;font-family:sans-serif;">For more details, please refer to MOE website – <a style="font-size:14.5px; line-height:1.5;font-family:sans-serif;font-weight:bold;text-decoration: none;" href="https://www.moe.gov.sg/dsa-sec">www.moe.gov.sg/dsa-sec</a> </p>
-
-<h6 style="color:#0B6623;font-family:sans-serif;font-weight:bold;margin-top:30px;"><strong style="font-family:sans-serif;font-size:17px;color:#0B6623;">Important Dates</strong></h6>
-
-<table style="border-collapse: collapse;margin: 0 0;font-size:14.5px;font-family: sans-serif;box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);" border="1">
-	
-<tbody>
-<tr>
-				<td style="font-family:sans-serif;">7 May 2024, 11am to 3 Jun 2024, 3pm</td>
-	<td style="font-family:sans-serif;margin-bottom:5px;">Interested candidates to submit application for DSA-Sec<br>
-</td></tr>
-	
-
-			
-<tr style="background-color: #f3f3f3;">
-				<td style="font-family:sans-serif;">24 Jun 2024 to 9 Sep 2024</td>
-				<td style="font-family:sans-serif;margin-bottom:5px;">School to invite short-listed applicants to an interview and a selection test, via email/ call / SMS.</td>
-</tr>
-			
-<tr>
-				<td style="font-family:sans-serif;">By 9 Sep 2024</td>
-				<td style="font-family:sans-serif;margin-bottom:5px;">By 9 Sep 2024
-</td></tr>
-						
-</tbody>
-</table>
+<p style="font-size:14.5px; line-height:2;margin-top:5px;margin-bottom:0;font-family:sans-serif;">For more information on DSA-Sec, please refer to MOE website at <a style="font-size:14.5px; line-height:1.5;font-family:sans-serif;font-weight:bold;text-decoration: none;" href="http://www.moe.gov.sg/dsa-sec">www.moe.gov.sg/dsa-sec</a></p>
 
 <h6 style="color:#0B6623;font-family:sans-serif;font-weight:bold;margin-top:30px;"><strong style="font-family:sans-serif;font-size:17px;color:#0B6623;">Enquiries</strong></h6>
 <p style="font-size:14.5px; line-height:2;margin-top:5px;margin-bottom:0;font-family:sans-serif;">For further queries, please contact the following personnel:</p>
