@@ -10,7 +10,7 @@ third_nav_title: Direct School Admission
 
 <p style="font-size:14.5px;line-height:2;margin-top:0px;font-family:sans-serif;">The Pei Hwa Guzheng Ensemble seeks to provide opportunities to develop students’ talents and lifelong passion for the arts. Through the meaningful music experiences planned, the Pei Hwa Guzheng Ensemble also endeavours to help students to build character, foster friendships and cultivate a sense of belonging to the school.</p>
 
-<p style="font-size:14.5px;line-height:2;margin-top:0px;font-family:sans-serif;">For more information on the CCA, please click <a href="https://www.peihwasec.moe.edu.sg/learning-at-pei-hwa/cca/performing-arts/guzheng-ensemble/" style="font-size:14.5px; line-height:1.5;font-family:sans-serif;font-weight:bold;text-decoration: none;">here. </a>
+<p style="font-size:14.5px;line-height:2;margin-top:0px;font-family:sans-serif;">For more information on the CCA, please visit:<a href="https://www.peihwasec.moe.edu.sg/learning-at-pei-hwa/cca/performing-arts/guzheng-ensemble/" style="font-size:14.5px; line-height:1.5;font-family:sans-serif;font-weight:bold;text-decoration: none;">Guzheng. </a>
 
 </p><h6 style="color:#0B6623;font-family:sans-serif;font-weight:bold;margin-top:30px;"><strong style="font-family:sans-serif;font-size:17px;color:#0B6623;">Criteria</strong></h6>
 
