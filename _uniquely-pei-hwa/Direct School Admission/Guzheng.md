@@ -45,13 +45,13 @@ third_nav_title: Direct School Admission
 			<li style="font-size:14.5px; line-height:1.5;font-family:sans-serif;">The total duration of both pieces or movements should not be longer than 4 minutes</li>
 			<li style="font-size:14.5px; line-height:1.5;font-family:sans-serif;">Students will be asked to stop playing their prepared pieces at the end of 4 minutes</li>
 		</ul>
-<li style="font-size:14.5px; line-height:1.5; margin-top:-20px;font-family:sans-serif;list-style-type: lower-roman;">Sight-read and play a simple piece in cipher notation (简谱) provided by Pei Hwa Secondary School on the day of audition.</li>
+<li style="font-size:14.5px; line-height:1.5; margin-top:-25px;font-family:sans-serif;list-style-type: lower-roman;">Sight-read and play a simple piece in cipher notation (简谱) provided by Pei Hwa Secondary School on the day of audition.</li>
 </ol>
 </ul>
 
 <p style="margin-top:5px;font-size:14.5px; line-height:2;font-family:sans-serif;">Note:</p>
 
-<ol style="margin-top:-5px;">
+<ol style="margin-top:-15px;">
 	<li style="font-size:14.5px; line-height:1.5;font-family:sans-serif;">All Interviews and Auditions will take place face-to-face at Pei Hwa Secondary School.</li>
 	<li style="font-size:14.5px; line-height:1.5;font-family:sans-serif;">Guzheng will be provided by Pei Hwa Secondary School but shortlisted DSA applicants may bring their own instruments for the audition, if they wish to.</li>
 	<li style="font-size:14.5px; line-height:1.5;font-family:sans-serif;">Shortlisted DSA applicants need to provide two sets of scores for their prepared pieces at the start of the audition. The scores will be returned at the end of the audition.</li>
