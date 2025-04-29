@@ -32,6 +32,28 @@ variant: markdown
 
 <h6 style="color:#0B6623;font-family:sans-serif;font-weight:bold;margin-top:30px;"><strong style="font-family:sans-serif;font-size:17px;color:#0B6623;">Important Dates</strong></h6>
 
+<table border="1" style="border-collapse: collapse;margin: 15px 0;font-size: 0.9em;font-family: sans-serif;min-width: 50px; box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);width:70%;">
+<tbody>
+		
+<tr>
+<td style="font-size:14.5px; line-height:2;font-family:Tahoma;width:50%;">7 May 2025 to 3 Jun 2025</td>
+<td style="font-size:14.5px; line-height:2;font-family:Tahoma;border-left: 1px solid lightgrey;">Interested candidates to submit application for DSA-Sec</td>
+</tr>
+	
+<tr>
+<td style="font-size:14.5px; line-height:2;font-family:Tahoma;width:50%;">30 Jun 2025 to 4 Sep 2025</td>
+<td style="font-size:14.5px; line-height:2;font-family:Tahoma;border-left: 1px solid lightgrey;">School to invite short-listed applicants to an interview and a selection test, via email/ call / SMS.</td>
+</tr>
+	
+<tr>
+<td style="font-size:14.5px; line-height:2;font-family:Tahoma;width:50%;">25 Aug 2025 to 4 Sep 2025</td>
+<td style="font-size:14.5px; line-height:2;font-family:Tahoma;border-left: 1px solid lightgrey;">School to notify DSA applicants on the outcome of their application. The decision of the interview panel is final.</td>
+</tr>
+
+	
+</tbody>
+</table>
+
 <h6 style="color:#0B6623;font-family:sans-serif;font-weight:bold;margin-top:30px;"><strong style="font-family:sans-serif;font-size:17px;color:#0B6623;">Enquiries</strong></h6>
 <p style="font-size:14.5px; line-height:2;margin-top:5px;margin-bottom:0;font-family:sans-serif;">For further queries, please contact the following personnel:</p>
 
