@@ -9,7 +9,7 @@ third_nav_title: Direct School Admission
 
 <p style="font-size:14.5px; line-height:2;margin-top:0px; font-family:sans-serif">Pei Hwa Wushu focuses on developing students’ confidence in body expressions through a vigorous attention on the strengthening of body and mind. The practice of contemporary Chinese martial arts combines elements of performance and martial application. </p>
 
-<p style="font-size:14.5px; line-height:2;margin-top:20px; font-family:sans-serif">For more information on the CCA, please click <a style="font-size:14.5px; line-height:1.5;font-family:sans-serif;font-weight:bold;text-decoration: none;" href="https://www.peihwasec.moe.edu.sg/learning-at-pei-hwa/cca/sports-games/wushu/"> here.</a> </p>
+<p style="font-size:14.5px; line-height:2;margin-top:20px; font-family:sans-serif">For more information on the CCA, please visit <a style="font-size:14.5px; line-height:1.5;font-family:sans-serif;font-weight:bold;text-decoration: none;" href="https://www.peihwasec.moe.edu.sg/learning-at-pei-hwa/cca/sports-games/wushu/"> Wushu</a>.</p>
 
 
 <h6 style="color:#0B6623;font-family:sans-serif;font-weight:bold;margin-top:30px;"><strong style="font-family:sans-serif;font-size:17px;color:#0B6623;">Criteria</strong></h6>
