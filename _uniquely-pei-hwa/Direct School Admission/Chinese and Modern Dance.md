@@ -35,7 +35,7 @@ third_nav_title: Direct School Admission
 <li style="font-size:14.5px; line-height:1.5;font-family:sans-serif;">an interview with panel of teachers and instructor</li>
 <li style="font-size:14.5px; line-height:1.5;font-family:sans-serif;">an individual audition requiring shortlisted DSA applicants to:</li>
 	<ol style="margin-top:5px; display">
-<li style="font-size:14.5px; line-height:1.5;font-family:sans-serif;list-style-type: lower-roman;">perform a prepared individual dance (of not more than 2 min) of any genre.</li>
+<li style="font-size:14.5px; line-height:1.5;font-family:sans-serif;list-style-type: lower-roman;">perform a prepared individual dance (of not more than 1 min) of any genre.</li>
 <li style="font-size:14.5px;line-height:1.5;font-family:sans-serif;list-style-type: lower-roman;">learn and perform dance techniques and taught choreography</li>
 </ol>
 </ul>
