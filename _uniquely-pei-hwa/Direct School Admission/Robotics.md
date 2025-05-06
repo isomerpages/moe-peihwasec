@@ -24,22 +24,11 @@ third_nav_title: Direct School Admission
 <p style="margin-top:0px;font-size:14.5px; line-height:2;font-family:sans-serif;">Applicants should have:</p>
 
 <ul style="margin-top:-15px;">
-	<li style="font-size:14.5px; line-height:1.5;font-family:sans-serif;">Talent/experience in: </li>
-	<ul style="margin-top:0px;">
-	<li style="font-size:14.5px; line-height:1;font-family:sans-serif;">Mindstorms EV3, SPIKE Prime </li>
-			<li style="font-size:14.5px; line-height:1;font-family:sans-serif;">Robocup CoSpace Programming</li>
-			<li style="font-size:14.5px; line-height:1;font-family:sans-serif;">FIRST Tech Challenge</li>
-			<li style="font-size:14.5px;line-height:1;font-family:sans-serif;">Vex Robotics System</li>
-			<li style="font-size:14.5px;line-height:1;font-family:sans-serif;">Arduino System</li>
-			<li style="font-size:14.5px;line-height:1;font-family:sans-serif;">micro:bit microcontroller system</li>
-			<li style="font-size:14.5px;line-height:1;font-family:sans-serif;">C/C++/Java/Python Programming</li>
-			<li style="font-size:14.5px;line-height:1;font-family:sans-serif;">Python Programming</li>
-			<li style="font-size:14.5px;line-height:1;font-family:sans-serif;margin-bottom:0px;">Any other programming languages</li>
-</ul>
+	<li style="font-size:14.5px; line-height:1.5;font-family:sans-serif;">Talent/experience in text-based programming language such as Python, Java, C++, etc and Robotics systems/microcontrollers such as Mindstorms EV3, SPIKE Prime, Vex, Arduino, etc.</li>
 	<li style="font-size:14.5px;line-height:1.5;font-family:sans-serif;">Participated in CCA, national or/and international robotics competitions, showcasing and projects.</li>
 	<li style="font-size:14.5px;line-height:1.5;font-family:sans-serif;">An e-portfolio to showcase their work. Shortlisted applicants will be informed about the method of submission.</li>
-
-<p style="font-size:14.5px; line-height:2;font-family:sans-serif;">Note:</p>
+</ul>
+<p style="font-size:14.5px; line-height:2;font-family:sans-serif;margin-top:-25px;">Note:</p>
 
 <ol style="margin-top:-15px;">
 <li style="font-size:14.5px; line-height:1.5;font-family:sans-serif;">Applicants who do not have prior experience may also apply. The school will assess applicants based on the selection criteria, which may include assessing the potential of the applicants. </li>
@@ -48,4 +37,4 @@ third_nav_title: Direct School Admission
 	
 <h6 style="color:#0B6623;font-family:sans-serif;font-weight:bold;margin-top:30px;"><strong style="font-family:sans-serif;font-size:17px;color:#0B6623;">Selection Process</strong></h6>
 
-<p style="margin-top:0px;font-size:14.5px; line-height:2;font-family:sans-serif;">Shortlisted applicants will be invited to attend <strong style="font-family:sans-serif;font-size:14.5px">an interview and a selection test  </strong>which requires applicants to attempt <strong style="font-family:sans-serif;font-size:14.5px">a programming task. </strong></p></ul>
+<p style="margin-top:0px;font-size:14.5px; line-height:2;font-family:sans-serif;">Shortlisted applicants will be invited to attend <strong style="font-family:sans-serif;font-size:14.5px">an interview and a selection test  </strong>which requires applicants to attempt <strong style="font-family:sans-serif;font-size:14.5px">a programming task. </strong></p>
