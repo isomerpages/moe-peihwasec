@@ -26,7 +26,7 @@ variant: markdown
 
 <h6 style="color:#0B6623;font-family:sans-serif;font-weight:bold;margin-top:30px;"><strong style="font-family:sans-serif;font-size:17px;color:#0B6623;">Application</strong></h6>
 
-<p style="font-size:14.5px; line-height:2;margin-top:5px;margin-bottom:0;font-family:sans-serif;">Application for DSA-Sec can be submitted through the online DSA-Sec Portal. The application is free-of-charge and will be open from Wed, 7 May to Tue, 3 Jun 2025.</p>
+<p style="font-size:14.5px; line-height:2;margin-top:5px;margin-bottom:0;font-family:sans-serif;">Application for DSA-Sec can be submitted through the online DSA-Sec Portal. The application is free-of-charge and will be open from Wed, 7 May 2025, 11am to Tue, 3 Jun 2025, 3pm.</p>
 
 <p style="font-size:14.5px; line-height:2;margin-top:5px;margin-bottom:0;font-family:sans-serif;">For more information on DSA-Sec, please refer to MOE website at <a style="font-size:14.5px; line-height:1.5;font-family:sans-serif;font-weight:bold;text-decoration: none;" href="http://www.moe.gov.sg/dsa-sec">www.moe.gov.sg/dsa-sec</a></p>
 
