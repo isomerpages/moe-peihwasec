@@ -8,6 +8,12 @@ variant: markdown
 
 
 <div style="display:flex;flex-wrap: wrap; justify-content: space-between;">
+	
+<div style="flex: 1;border: 1px solid #ccc; padding: 10px 10px; display: flex; flex-direction: column;width:100%;gap: 10px;margin: 10px; background-color:white;background-color: #0B6623;flex: 0 0 calc(33.33% - 20px);" class="box"> 
+	<div style="flex: 1;" class="content"> 
+		<h5 style="text-align:center;padding-top:10px;"><a href="/lp-announcement/sports-day-on-23-may-2025-fri/" style="color:#FDBC58;font-family:sans-serif;font-weight:bold;font-size:18px;text-decoration: none;text-align:center;">Sports Day on 23 May 2025 (Fri)</a></h5>  
+	</div> 
+</div>
 
 <div style="flex: 1;border: 1px solid #ccc; padding: 10px 10px; display: flex; flex-direction: column;width:100%;gap: 10px;margin: 10px; background-color:white;background-color: #0B6623;flex: 0 0 calc(33.33% - 20px);" class="box"> 
 	<div style="flex: 1;" class="content"> 
