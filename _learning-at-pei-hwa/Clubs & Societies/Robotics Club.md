@@ -24,29 +24,30 @@ variant: markdown
 <tr>
 <td><strong style="font-family:sans-serif;font-size:14.5px;">2025</strong></td>
 	<td>
-		<strong style="font-family:sans-serif;font-size:15px;">ONSTAGE</strong>
+		<strong style="font-family:sans-serif;font-size:15px;">ROBOCUP SINGAPORE OPEN 2025</strong>
+		<li style="font-size:14.5px;margin-bottom:-5px;margin-top:10px;font-family:sans-serif;line-height:1.5;list-style-type: none; display: list-item; padding-left: 0; margin-left: 0;text-decoration: underline;">ONSTAGE</li>
 		<ul style="margin-top:-5px"> 
 			<li style="font-size:14.5px;margin-bottom:-5px;font-family:sans-serif;line-height:1.5;">Green Cheese 1<sup style="font-family:sans-serif;">st</sup> Place -  DEVENDRAN VENKATESH (4D3), THIYAGARAJAN SANTOSH (3I8), KYLER ANG YI KAI (2R7), ETHAN NG NGEE TIANG (3I7), LEE JIA AN LEONIDAS (2R7)</li>
-         <li style="font-size:14.5px;margin-bottom:-5px;font-family:sans-serif;line-height:1.5;"> Skibidi 2<sup style="font-family:sans-serif;">n</sup> Place -  TAY ZHI WEN TREYVIUS (2R6), CHIN JU WEI (3I4), CHUA JING EN (1P7), HENG ZENG ZI (4D6), CHEAH KAI WEI (2R5)</li>
+         <li style="font-size:14.5px;margin-bottom:-5px;font-family:sans-serif;line-height:1.5;"> Skibidi 2<sup style="font-family:sans-serif;">nd</sup> Place -  TAY ZHI WEN TREYVIUS (2R6), CHIN JU WEI (3I4), CHUA JING EN (1P7), HENG ZENG ZI (4D6), CHEAH KAI WEI (2R5)</li>
 		</ul>
-		<strong style="font-family:sans-serif;font-size:15px;">  COSPACE AUTO-DRIVING FIRSTSTEP U19 - VIRTUAL CATEGORY</strong>
+<li style="font-size:14.5px;margin-bottom:-5px;margin-top:10px;font-family:sans-serif;line-height:1.5;list-style-type: none; display: list-item; padding-left: 0; margin-left: 0;text-decoration: underline;"> COSPACE AUTO-DRIVING FIRSTSTEP U19 - VIRTUAL CATEGORY</li>
 		<ul style="margin-top:-5px"> 
 			<li style="font-size:14.5px;margin-bottom:-5px;font-family:sans-serif;line-height:1.5;">3<sup style="font-family:sans-serif;">rd</sup> place -     
 &nbsp;JOY LIM JING XUAN [3I7], GOH YING WEI AYDEN [2R5]</li>
 		</ul>
-			<strong style="font-family:sans-serif;font-size:15px;"> COSPACE RESCUE FIRSTSTEPS U19</strong>
+<li style="font-size:14.5px;margin-bottom:-5px;margin-top:10px;font-family:sans-serif;line-height:1.5;list-style-type: none; display: list-item; padding-left: 0; margin-left: 0;text-decoration: underline;">COSPACE RESCUE FIRSTSTEPS U19</li>
 		<ul style="margin-top:-5px"> 
 			<li style="font-size:14.5px;margin-bottom:-5px;font-family:sans-serif;line-height:1.5;">1<sup style="font-family:sans-serif;">st</sup> place -   KANTAVEERAKUL NATEEBODEE (1P6), ASHER SIM YU KAI (1P6), JOSHUA WONG JIAH KAI (1P7)</li>
 			<li style="font-size:14.5px;margin-bottom:-5px;font-family:sans-serif;line-height:1.5;">2<sup style="font-family:sans-serif;">nd</sup> place -     
 LUEI YANG YI, ISAAC (1P3), GLADWYN NEO JIN XI (1P3), CHIN WEI HENG RYVEN (1P4)</li>
 			<li style="font-size:14.5px;margin-bottom:-5px;font-family:sans-serif;line-height:1.5;">3<sup style="font-family:sans-serif;">rd</sup> place -  KINGZLY YEW MIN JIN (2R7), EVAN LIM YUE ZE (2R5)</li>
 		</ul>
-			<strong style="font-family:sans-serif;font-size:15px;">COSPACE RESCUE U19 - REAL ROBOT CHALLENGE</strong>
+<li style="font-size:14.5px;margin-bottom:-5px;margin-top:10px;font-family:sans-serif;line-height:1.5;list-style-type: none; display: list-item; padding-left: 0; margin-left: 0;text-decoration: underline;">COSPACE RESCUE U19 - REAL ROBOT CHALLENGE</li>
 		<ul style="margin-top:-5px"> 
 			<li style="font-size:14.5px;margin-bottom:-5px;font-family:sans-serif;line-height:1.5;">3<sup style="font-family:sans-serif;">rd</sup> place -     
 ELKAN SIN YEW KEN (4D8), GAVRIEL LEE KHONG YIH (4D7)</li>
 		</ul>
-			<strong style="font-family:sans-serif;font-size:15px;">&nbsp;INFLUENCER AWARD</strong>
+<li style="font-size:14.5px;margin-bottom:-5px;margin-top:10px;font-family:sans-serif;line-height:1.5;list-style-type: none; display: list-item; padding-left: 0; margin-left: 0;text-decoration: underline;">INFLUENCER AWARD</li>
 		<ul style="margin-top:-5px"> 
 			<li style="font-size:14.5px;margin-bottom:-5px;font-family:sans-serif;line-height:1.5;">Green cheese - DEVENDRAN VENKATESH (4D3), THIYAGARAJAN SANTOSH (3I8), KYLER ANG YI KAI (2R7), ETHAN NG NGEE TIANG (3I7), LEE JIA AN LEONIDAS (2R7)</li>
 		</ul>
