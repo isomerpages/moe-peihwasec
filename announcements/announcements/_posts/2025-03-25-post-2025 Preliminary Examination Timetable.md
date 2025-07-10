@@ -7,4 +7,4 @@ description: ""
 image: ""
 variant: markdown
 ---
-<p style="font-size:14.5px; line-height:2;margin-top:15px; font-family:sans-serif;">Please click <a href="https://drive.google.com/file/d/1I5cUE0qNcoH-RLKAYnBEftpo6S3PlFOq/view?usp=sharing" style="font-size:14.5px; line-height:1.5;font-family:sans-serif;font-weight:bold;text-decoration: none;">here</a> for more details on MT Preliminary Examination Timetable. </p>
+<p style="font-size:14.5px; line-height:2;margin-top:15px; font-family:sans-serif;">Please click <a href="https://drive.google.com/file/d/1x_C_9aW1N4SKZYUQPeRzD3zCWz2wtNA1/view?usp=sharing" style="font-size:14.5px; line-height:1.5;font-family:sans-serif;font-weight:bold;text-decoration: none;">here</a> for more details on 2025 Preliminary Examination Timetable. </p>
