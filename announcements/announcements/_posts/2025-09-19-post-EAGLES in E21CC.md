@@ -9,7 +9,7 @@ variant: markdown
 ---
 <p style="margin-top:10px;font-size:14.5px; line-height:2;font-family:sans-serif;"> The Edusave Awards for Achievement, Good Leadership &amp; Service (EAGLES) recognises students' leadership qualities, excellence in non-academic activities, and service to community and schools. Students awarded EAGLES will receive award of $350.</p>
 
-<p style="margin-top:10px;font-size:14.5px; line-height:2;font-family:sans-serif;">With effect from 2024, EAGLES is enhanced to also recognise students who have demonstrated <strong style="font-family:sans-serif;"> Emerging 21 st Century Competencies (E21CC)</strong>.</p>
+<p style="margin-top:10px;font-size:14.5px; line-height:2;font-family:sans-serif;">With effect from 2024, EAGLES is enhanced to also recognise students who have demonstrated <strong style="font-family:sans-serif;"> Emerging 21<sup style="font-family:sans-serif;">st</sup> Century Competencies (E21CC)</strong>.</p>
 
 <p style="margin-top:10px;font-size:14.5px; line-height:2;font-family:sans-serif;">	<u style="font-family:sans-serif;">E21CC</u></p>
 
@@ -50,4 +50,3 @@ time in a school-based programme that all students participate in)</li>
 <p style="margin-top:10px;font-size:14.5px; line-height:2;font-family:sans-serif;">Students and parents are invited to nominate eligible and deserving students via this
 link:<a href="https://form.gov.sg/68ab20b88f1c29e8370f225b" style="font-size:14.5px; line-height:1.5;font-family:sans-serif;font-weight:bold;text-decoration: none;"> https://form.gov.sg/68ab20b88f1c29e8370f225b</a></p>
 <p style="margin-top:10px;font-size:14.5px; line-height:2;font-family:sans-serif;">The closing date for nominations is 10 Oct 2025.</p>
-
