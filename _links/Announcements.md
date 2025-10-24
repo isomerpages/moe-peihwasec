@@ -18,20 +18,20 @@ variant: markdown
 
 <div style="flex: 1;border: 1px solid #ccc; padding: 10px 10px; display: flex; flex-direction: column;width:100%;gap: 10px;margin: 10px; background-color:white;background-color: #0B6623;flex: 0 0 calc(33.33% - 20px);" class="box">
 	<div style="flex: 1;" class="content"> 
-		<h5 style="text-align:center;padding-top:15px;"><a href="/lp-announcement/moe-fas-application/" style="color:#FDBC58;font-family:sans-serif;font-weight:bold;font-size:18px;text-decoration: none;text-align:center;">MOE FAS Application</a>
+		<h5 style="text-align:center;padding-top:35px;"><a href="/lp-announcement/moe-fas-application/" style="color:#FDBC58;font-family:sans-serif;font-weight:bold;font-size:18px;text-decoration: none;text-align:center;">MOE FAS Application</a>
 		</h5>  
 	</div> 
 </div>
 	
 <div style="flex: 1;border: 1px solid #ccc; padding: 10px 10px; display: flex; flex-direction: column;width:100%;gap: 10px;margin: 10px; background-color:white;background-color: #0B6623;flex: 0 0 calc(33.33% - 20px);" class="box"> 
 	<div style="flex: 1;" class="content"> 
-		<h5 style="text-align:center;padding-top:25px;"><a href="/lp-announcement/sec-2-subject-combi-hub/" style="color:#FDBC58;font-family:sans-serif;font-weight:bold;font-size:18px;text-decoration: none;text-align:center;">Secondary 2 Subject Combination Hub</a></h5>  
+		<h5 style="text-align:center;padding-top:20px;"><a href="/lp-announcement/sec-2-subject-combi-hub/" style="color:#FDBC58;font-family:sans-serif;font-weight:bold;font-size:18px;text-decoration: none;text-align:center;">Secondary 2 Subject Combination Hub</a></h5>  
 	</div> 
 </div>
 	
 <div style="flex: 1;border: 1px solid #ccc; padding: 10px 10px; display: flex; flex-direction: column;width:100%;gap: 10px;margin: 10px; background-color:white;background-color: #0B6623;flex: 0 0 calc(33.33% - 20px);" class="box"> 
 	<div style="flex: 1;" class="content"> 
-		<h5 style="text-align:center;padding-top:25px;"><a href="/lp-announcement/eagles-in-e21cc/" style="color:#FDBC58;font-family:sans-serif;font-weight:bold;font-size:18px;text-decoration: none;text-align:center;">EAGLES in E21CC</a></h5>  
+		<h5 style="text-align:center;padding-top:30px;"><a href="/lp-announcement/eagles-in-e21cc/" style="color:#FDBC58;font-family:sans-serif;font-weight:bold;font-size:18px;text-decoration: none;text-align:center;">EAGLES in E21CC</a></h5>  
 	</div> 
 </div>
 
@@ -63,7 +63,7 @@ variant: markdown
 	
 <div style="flex: 1;border: 1px solid #ccc; padding: 10px 10px; display: flex; flex-direction: column;width:100%;gap: 10px;margin: 10px; background-color:white;background-color: #0B6623;flex: 0 0 calc(33.33% - 20px);" class="box"> 
 	<div style="flex: 1;" class="content"> 
-		<h5 style="text-align:center;padding-top:15px;"><a href="https://www.peihwasec.moe.edu.sg/learning-at-pei-hwa/home-based-learning/" style="color:#FDBC58;font-family:sans-serif;font-weight:bold;font-size:18px;text-decoration: none;text-align:center;">Home Based Learning</a>
+		<h5 style="text-align:center;padding-top:30px;"><a href="https://www.peihwasec.moe.edu.sg/learning-at-pei-hwa/home-based-learning/" style="color:#FDBC58;font-family:sans-serif;font-weight:bold;font-size:18px;text-decoration: none;text-align:center;">Home Based Learning</a>
 		</h5>  
 	</div> 
 </div>
