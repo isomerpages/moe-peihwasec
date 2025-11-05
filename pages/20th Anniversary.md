@@ -29,5 +29,12 @@ description: ""
 <li style="font-size:14.5px; line-height:1.5; font-family:sans-serif;"><strong style="font-family:sans-serif;font-size:14.5px;">Sports Day</strong> saw the school community singing and dancing along to the Anniversary Song — a lively expression of unity, joy, and shared identity.</li>
 
 <li style="font-size:14.5px; line-height:1.5; font-family:sans-serif;">The <strong style="font-family:sans-serif;font-size:14.5px;">National Day Celebration</strong> featured the re-launch of the <strong style="font-family:sans-serif;font-size:14.5px;">Phoenix</strong>, reaffirming its role as the signature emblem of our 20th anniversary. The event also included interactive booths at the <strong style="font-family:sans-serif;font-size:14.5px;">Heritage Hut</strong>, where students explored the school’s rich history through fun and educational activities — such as discovering who sang the first school song — deepening their appreciation of our heritage in an engaging, student-centric way.</li>
-
 </ul>
+
+<h6 style="color:#0B6623;font-family:sans-serif;font-weight:bold;margin-top:30px;"><i><strong style="font-family:sans-serif;font-size:17px;color:#0B6623;">Impact and Outcomes</strong></i></h6>
+
+<p style="font-size:14.5px; line-height:2 ;margin-top:0px; font-family:sans-serif;" class="description">The 20th Anniversary celebrations united a large gathering of former and current staff, students, Parent Support Group members, and alumni spanning back to our founding year. Many participants, both past and present, actively contributed to the events, exemplifying the values of responsibility, teamwork, and leadership. Feedback from the community highlighted a profound sense of pride, connection, and renewed purpose inspired by the celebrations.</p>
+
+<h6 style="color:#0B6623;font-family:sans-serif;font-weight:bold;margin-top:30px;"><i><strong style="font-family:sans-serif;font-size:17px;color:#0B6623;">Future Plans</strong></i></h6>
+
+<p style="font-size:14.5px; line-height:2 ;margin-top:0px; font-family:sans-serif;" class="description">As we look to the future, we remain committed to nurturing confident learners and compassionate leaders. The spirit of our 20th Anniversary will continue to guide our journey forward — inspiring us to build on our strengths, deepen our sense of community, and stay true to the values that have shaped us over the years.</p>
