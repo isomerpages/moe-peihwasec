@@ -22,11 +22,11 @@ sections:
       title: Announcement
       id: textcards
       cards:
-        - title: Home-Based Learning Day
+        - title: 2025 Secondary 1 Registration
           description: ""
           linktext: Learn more
           url: https://www.peihwasec.moe.edu.sg/learning-at-pei-hwa/home-based-learning/
-        - title: 2025 Direct School Admission (DSA) Application
+        - title: 2025 DSA Application
           description: ""
           linktext: Learn more
           url: /uniquely-pei-hwa/direct-school-admission-dsa/direct-school-admission/
