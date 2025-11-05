@@ -57,7 +57,7 @@ sections:
   - infopic:
       title: Celebrating Excellence, Championing Futures
       button: Learn More
-      url: pride-of-pei-hwa/students/
+      url: /pride-of-pei-hwa/
       image: /images/Homepage/(4) pei hwa talent academy .png
       alt: Image alt text
       subtitle: EXCELLENCE TOGETHER
