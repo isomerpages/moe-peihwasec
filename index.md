@@ -25,7 +25,7 @@ sections:
         - title: 2025 Secondary 1 Registration
           description: ""
           linktext: Learn more
-          url: https://www.peihwasec.moe.edu.sg/learning-at-pei-hwa/home-based-learning/
+          url: https://www.peihwasec.moe.edu.sg/lp-announcement/secondary-1-registration/
         - title: 2025 DSA Application
           description: ""
           linktext: Learn more
