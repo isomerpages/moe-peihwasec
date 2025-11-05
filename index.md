@@ -8,14 +8,14 @@ notification: ""
 sections:
   - hero:
       key_highlights:
-        - title: 20th Anniversary
-          description: Inspiring Futures
+        - title: Pei Hwa 20th Anniversary
+          description: ""
           url: /20th-anniversary/
         - title: Vision | Mission | Values
           description: The Heart of Pei Hwa
           url: /we-are-pei-hwa/our-vision-mission-and-values/
-        - title: Future Leader Programme
-          description: Driving Innovation
+        - title: CONNECTIONS @ PEI HWA
+          description: Follow us on Social Media
           url: /uniquely-pei-hwa/future-leader-programme/
       background: /images/Website_Banner_as_of_190225.gif
   - textcards:
