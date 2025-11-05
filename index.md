@@ -16,7 +16,7 @@ sections:
           url: /we-are-pei-hwa/our-vision-mission-and-values/
         - title: CONNECTIONS @ PEI HWA
           description: Follow us on Social Media
-          url: /uniquely-pei-hwa/future-leader-programme/
+          url: /connection-pei-hwa/
       background: /images/Website_Banner_as_of_190225.gif
   - textcards:
       title: Announcement
