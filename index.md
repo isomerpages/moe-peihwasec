@@ -35,25 +35,42 @@ sections:
           linktext: Learn More
           url: https://www.peihwasec.moe.edu.sg/links/announcements/
   - infopic:
-      title: Applied Learning Programme
-      description: Robotics and Programming
-      button: More
-      url: /uniquely-pei-hwa/applied-learning-programme-robotics-and-programming/
+      title: Inspiring Curiosity, Igniting Innovation
+      description: We empower students as change-makers by cultivating creativity,
+        innovation, and entrepreneurial skills through our Future Leaders
+        Programme.
+      button: Learn More
+      url: /uniquely-pei-hwa/future-leader-programme/
       image: /images/Homepage/(2) applied learning programme – robotics and
         programming.png
-      alt: Image alt text
+      subtitle: DARE TO INNOVATE
   - infopic:
-      title: Learning for Life Programme
-      description: Community Youth Leadership
-      button: More
-      url: /uniquely-pei-hwa/learning-for-life-programme-community-youth-leadership-llp-cyl/
+      title: Learning Today, Leading Tomorrow
+      description: We nurture students' talents through specialised training and
+        opportunities to excel in their interests in the Pei Hwa Talent Academy.
+      button: Learn More
+      url: uniquely-pei-hwa/pei-hwa-talent-academy/
       image: /images/Homepage/(3) learning for life programme – community youth
         leadership.png
       alt: Image alt text
+      subtitle: PASSION TO LEARN
   - infopic:
-      title: Pei Hwa Talent Academy
-      button: More
-      url: /uniquely-pei-hwa/pei-hwa-talent-academy/
+      title: Celebrating Excellence, Championing Futures
+      button: Learn More
+      url: pride-of-pei-hwa/students/
       image: /images/Homepage/(4) pei hwa talent academy .png
+      alt: Image alt text
+      subtitle: EXCELLENCE TOGETHER
+      description: We celebrate the successes of today, where listening leadership and
+        staff innovation empower students to flourish into changemakers of
+        tomorrow.
+  - infopic:
+      title: Sharing Experiences, Shaping Dreams
+      subtitle: VOICES THAT MATTER
+      id: infopic
+      description: We celebrate shared experiences that inspire and shape the dreams
+        of our learners.
+      button: Learn More
+      url: /community-at-pei-hwa/voices-of-pei-hwa/
       alt: Image alt text
 ---
