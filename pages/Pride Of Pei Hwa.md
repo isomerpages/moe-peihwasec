@@ -9,8 +9,7 @@ description: ""
 <p style="font-size:14.5px; line-height:2 ;margin-top:0px; font-family:sans-serif;" class="description">Pei Hwa Secondary proudly honours Principal Mr Mohd Azhar Terimo, whose open, authentic and respectful leadership has inspired a culture of innovation across the school. By empowering his staff to take bold ideas forward and cascading this spirit of creativity to students, he has helped Pei Hwa become a community where innovation thrives — shaping future-ready leaders with the courage to create change.</p>
 
 <a target="_blank" href="https://www.facebook.com/moesingapore/videos/how-does-a-principal-inspire-and-lead-his-school-management-team-here-pei-hwa-se/1790644384826496/">
-  <img style="width:100%; border-radius:8px;" alt="Watch on Facebook" src="/images/Screenshot_2025_11_06_at_11_38_29_AM.png">
-</a>
+  <img style="width:100%; border-radius:8px;" alt="Watch on Facebook" src="/images/Screenshot_2025_11_06_at_11_38_29_AM.png"></a>
 <p style="font-size:12px; color:#555; margin-top:5px;">Source: MOE Singapore – Facebook Video</p>
 
 <h6 style="color:#0B6623;font-family:sans-serif;font-weight:bold;margin-top:30px;"><i><strong style="font-family:sans-serif;font-size:17px;color:#0B6623;">Our Teachers, Our Innovators</strong></i></h6>
@@ -29,8 +28,7 @@ description: ""
   <img style="width:100%; border-radius:8px; display:block;" alt="Straits Times Article" src="/images/Screenshot_2025_11_06_at_1_51_23_PM.png">
   <p style="font-size:12px; color:#555; margin-top:5px;">
     Source: The Straits Times – “How a single spreadsheet saved each Pei Hwa Secondary teacher 60 hours of admin work a year”
-  </p>
-</a>
+  </p></a>
 
 <h6 style="color:#0B6623;font-family:sans-serif;font-weight:bold;margin-top:30px;"><i><strong style="font-family:sans-serif;font-size:17px;color:#0B6623;">Our Innovators, Our Trailblazers</strong></i></h6>
 
