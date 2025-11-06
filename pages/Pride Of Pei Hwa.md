@@ -25,7 +25,7 @@ description: ""
 <p style="font-size:14.5px; line-height:2 ;margin-top:0px; font-family:sans-serif;" class="description">We are proud of our educators who aren’t just teaching – they are transforming the way we work and support students.</p>
 
 <a style="text-decoration:none; color:inherit;" target="_blank" href="https://www.straitstimes.com/singapore/parenting-education/how-a-single-spreadsheet-saved-each-pei-hwa-secondary-teacher-60-hours-of-admin-work-a-year">
-  <img style="width:100%; border-radius:8px; display:block;" alt="Straits Times Article" src="/images/Screenshot_2025_11_06_at_1_51_23_PM.png">
+  <img style="width:100%; border-radius:8px; display:block;" alt="Straits Times Article" src="/images/Screenshot_2025_11_06_at_1_51_23_PM.png"></a>
   <p style="font-size:12px; color:#555; margin-top:5px;">
     Source: The Straits Times – “How a single spreadsheet saved each Pei Hwa Secondary teacher 60 hours of admin work a year”
   </p>
@@ -36,9 +36,9 @@ description: ""
 
 <p style="font-size:14.5px; line-height:2 ;margin-top:0px; font-family:sans-serif;" class="description">Student Recognition and Accolades:</p>
 
-</a><ol style="margin-top:-5px"><a style="text-decoration:none; color:inherit;" target="_blank" href="https://www.straitstimes.com/singapore/parenting-education/how-a-single-spreadsheet-saved-each-pei-hwa-secondary-teacher-60-hours-of-admin-work-a-year">
+<ol style="margin-top:-5px">
 
-</a><li style="font-size:14.5px; line-height:1.5; font-family:sans-serif;"><a style="text-decoration:none; color:inherit;" target="_blank" href="https://www.straitstimes.com/singapore/parenting-education/how-a-single-spreadsheet-saved-each-pei-hwa-secondary-teacher-60-hours-of-admin-work-a-year"></a><a style="margin:0 10px; color:#0D6523; text-decoration:none; font-weight:600;" href="#DeptI">Department of Innovation</a></li>
+<li style="font-size:14.5px; line-height:1.5; font-family:sans-serif;"><a style="margin:0 10px; color:#0D6523; text-decoration:none; font-weight:600;" href="#DeptI">Department of Innovation</a></li>
 
 <li style="font-size:14.5px; line-height:1.5; font-family:sans-serif;"><a style="margin:0 10px; color:#0D6523; text-decoration:none; font-weight:600;" href="#DeptCnC">Department of Commerce and Computing</a></li>
 
