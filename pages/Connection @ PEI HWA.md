@@ -18,7 +18,7 @@ description: ""
     
 <h2 style="margin:10px 0 5px; font-size:18px; color:#000;">Pei Hwa Secondary School</h2>
 <p style="margin:0 0 10px; color:#555; font-size:14px;">💙 Stay connected with us</p>
-	<a style="display:inline-block; margin-top:10px; padding:8px 16px; background:#1877F2; color:#fff; text-decoration:none; border-radius:999px; font-weight:600;" rel="noopener noreferrer" target="_blank" href="https://www.facebook.com/phssofficial">Visit Page</a>
+	<a style="display:inline-block; margin-top:10px; padding:8px 16px; background:#1877F2; color:#fff; text-decoration:none; border-radius:999px; font-weight:600;" rel="noopener noreferrer" target="_blank" href="https://www.facebook.com/peihwasec/">Visit Page</a>
 </div>
 
 </div>
