@@ -40,19 +40,20 @@ description: ""
 
 <ol style="margin-top:-5px">
 
-<li style="font-size:14.5px; line-height:1.5; font-family:sans-serif;">Department of Innovation</li>
+<li style="font-size:14.5px; line-height:1.5; font-family:sans-serif;"><a style="margin:0 10px; color:#0D6523; text-decoration:none; font-weight:600;" href="#DeptI">Department of Innovation</a></li>
 
-<li style="font-size:14.5px; line-height:1.5; font-family:sans-serif;">Department of Commerce and Computing</li>
+<li style="font-size:14.5px; line-height:1.5; font-family:sans-serif;"><a style="margin:0 10px; color:#0D6523; text-decoration:none; font-weight:600;" href="#DeptCnC">Department of Commerce and Computing</a></li>
 
-<li style="font-size:14.5px; line-height:1.5; font-family:sans-serif;">Department of Humanities</li>
+<li style="font-size:14.5px; line-height:1.5; font-family:sans-serif;"><a style="margin:0 10px; color:#0D6523; text-decoration:none; font-weight:600;" href="#DeptH">Department of Humanities</a></li>
 
-<li style="font-size:14.5px; line-height:1.5; font-family:sans-serif;">Department of Science</li>
+<li style="font-size:14.5px; line-height:1.5; font-family:sans-serif;"><a style="margin:0 10px; color:#0D6523; text-decoration:none; font-weight:600;" href="#DeptS">Department of Science</a></li>
 
-<li style="font-size:14.5px; line-height:1.5; font-family:sans-serif;">Department of Mother Tongue</li>
+<li style="font-size:14.5px; line-height:1.5; font-family:sans-serif;"><a style="margin:0 10px; color:#0D6523; text-decoration:none; font-weight:600;" href="#DeptCnC">Department of Mother Tongue</a></li>
 </ol>
 
-<div style="font-family:system-ui, sans-serif; text-align:center;">
+<p style="margin:30px 0 20px; font-size:18px; color:#0D6523;" id="DeptI"><strong style="margin:30px 0 20px; font-size:18px; color:#0D6523;">Department of Innovation</strong></p>
 
+<div style="font-family:system-ui, sans-serif; text-align:center;">
 
 <h2 style="margin:30px 0 20px; font-size:22px; color:#0D6523;">2024</h2>
 
@@ -151,3 +152,11 @@ description: ""
 </div>
 	
 </div>
+
+<p style="margin:30px 0 20px; font-size:18px; color:#0D6523;" id="DeptCnC"><strong style="margin:30px 0 20px; font-size:18px; color:#0D6523;">Department of Commerce and Computing</strong></p>
+
+<p style="margin:30px 0 20px; font-size:18px; color:#0D6523;" id="DeptH"><strong style="margin:30px 0 20px; font-size:18px; color:#0D6523;">Department of Humanities</strong></p>
+
+<p style="margin:30px 0 20px; font-size:18px; color:#0D6523;" id="DeptS"><strong style="margin:30px 0 20px; font-size:18px; color:#0D6523;">Department of Science</strong></p>
+
+<p style="margin:30px 0 20px; font-size:18px; color:#0D6523;" id="DeptMT"><strong style="margin:30px 0 20px; font-size:18px; color:#0D6523;">Department of Mother Tongue</strong></p>
