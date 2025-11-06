@@ -78,10 +78,76 @@ description: ""
     </div>
 
 <div style="max-width:450px;">
-      <img style="width:100%; border-radius:12px; box-shadow:0 4px 12px rgba(0,0,0,0.1);" alt="Innovation Excellence Award 2023" src="images/awards/award4.jpg">
-      <p style="margin-top:10px; font-size:15px; color:#333;">Innovation Excellence Award 2023</p>
+      <img style="width:100%; border-radius:12px; box-shadow:0 4px 12px rgba(0,0,0,0.1);" alt="Innovation Excellence Award 2023" src="/images/DFC_2023.png">
+	<p style="margin-top:10px; font-size:15px; color:#333;">Design for Change 2023 - Champion</p>
     </div>
+	
+<div style="max-width:450px;">
+      <img style="width:100%; border-radius:12px; box-shadow:0 4px 12px rgba(0,0,0,0.1);" alt="Innovation Excellence Award 2023" src="/images/The_Ecopedia.jpg">
+    </div>
+	
+<div style="max-width:450px;">
+      <img style="width:100%; border-radius:12px; box-shadow:0 4px 12px rgba(0,0,0,0.1);" alt="Innovation Excellence Award 2023" src="/images/Work_for_You__Work_for_Youths.jpg">
+    </div>
+	
   </div>
 
-</div>
+<h2 style="margin:40px 0 20px; font-size:22px; color:#0D6523;">2022</h2>
 
+<div style="display:flex; flex-direction:column; align-items:center; gap:30px;">
+ <div style="max-width:450px;">
+      <img style="width:100%; border-radius:12px; box-shadow:0 4px 12px rgba(0,0,0,0.1);" alt="MOE Innergy Award 2023" src="/images/TKK_2022.png">
+      <p style="margin-top:10px; font-size:15px; color:#333;">&nbsp;Tan Kah Kee Young Inventor’s Award 2022 – Commendation Award</p>
+    </div>
+
+<div style="max-width:450px;">
+      <img style="width:100%; border-radius:12px; box-shadow:0 4px 12px rgba(0,0,0,0.1);" alt="Innovation Excellence Award 2023" src="/images/Tech_for_Good_2022.png">
+	<p style="margin-top:10px; font-size:15px; color:#333;">Tech for Good 2022</p>
+    </div>
+	
+<div style="max-width:450px;">
+      <img style="width:100%; border-radius:12px; box-shadow:0 4px 12px rgba(0,0,0,0.1);" alt="Innovation Excellence Award 2023" src="/images/DFC_2022.png">
+		<p style="margin-top:10px; font-size:15px; color:#333;">Design for Change 2022 – Champion</p>
+    </div>
+
+<div style="display:flex; gap:20px; flex-wrap:wrap; justify-content:center;">
+    <img style="width:200px; border-radius:12px; box-shadow:0 4px 12px rgba(0,0,0,0.1);" alt="Innovation Awards 2023" src="/images/IvP_Poster_Insprimental.jpg">
+    <img style="width:200px; border-radius:12px; box-shadow:0 4px 12px rgba(0,0,0,0.1);" alt="Innovation Awards 2023" src="/images/Fishy_Business.jpg">
+  </div>
+  <p style="margin-top:-20px; font-size:15px; color:#333;">&nbsp;MOE Innovation Programme – Distinction</p>	
+  </div>
+<h2 style="margin:40px 0 20px; font-size:22px; color:#0D6523;">2021</h2>
+
+<div style="display:flex; flex-direction:column; align-items:center; gap:30px;">
+ <div style="max-width:450px;">
+      <img style="width:100%; border-radius:12px; box-shadow:0 4px 12px rgba(0,0,0,0.1);" alt="MOE Innergy Award 2023" src="/images/Pei_Hwa_Sec___Bus_Hailing_System_ST_Article.jpg">
+      <p style="margin-top:10px; font-size:15px; color:#333;">&nbsp;Design for Change 2021 - Champion</p>
+    </div>
+
+<div style="max-width:450px;">
+      <img style="width:100%; border-radius:12px; box-shadow:0 4px 12px rgba(0,0,0,0.1);" alt="Innovation Excellence Award 2023" src="/images/TKK_2021.png">
+	<p style="margin-top:10px; font-size:15px; color:#333;">&nbsp;Tan Kah Kee Young Inventor’s Award 2021 – Encouragement Award</p>
+    </div>
+	
+<div style="max-width:450px;">
+      <img style="width:100%; border-radius:12px; box-shadow:0 4px 12px rgba(0,0,0,0.1);" alt="Innovation Excellence Award 2023" src="/images/Abandtrolley.jpg">
+	<p style="margin-top:10px; font-size:15px; color:#333;">MOE Innovation Programme – Distinction</p>
+    </div>
+	</div>
+
+<div style="max-width:450px; margin:30px auto; text-align:center;">
+
+  
+  <a style="display:block;" target="_blank" href="https://www.youtube.com/watch?v=YOUR_VIDEO_ID">
+    <img style="width:100%; border-radius:12px; box-shadow:0 4px 12px rgba(0,0,0,0.1);" alt="Video Award" src="/images/Screenshot_2025_11_06_at_4_06_22_PM.png">
+  </a>
+
+  
+<a style="color:#0D6523; text-decoration:none; font-weight:600;" target="_blank" href="https://www.youtube.com/watch?v=xWvCAJkFrNM">Source: https://www.youtube.com/watch?v=xWvCAJkFrNM]</a>
+
+  <p style="margin-top:10px; font-size:15px; color:#333;">2,154 views May 18, 2020 <br> Discover how the young scientists of Pei Hwa Secondary School come together to invent a technological tool that is specifically for the elderly! Learn how they put their designing skills and technological knowledge together to address a specific need for senior folks!</p>
+
+  
+</div>
+	
+</div>
