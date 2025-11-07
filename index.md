@@ -43,6 +43,7 @@ sections:
       url: /uniquely-pei-hwa/future-leader-programme/
       image: /images/Homepage/(4) pei hwa talent academy .png
       subtitle: DARE TO INNOVATE
+      alt: Image alt text
   - infopic:
       title: Learning Today, Leading Tomorrow
       description: We nurture students' talents through specialised training and
