@@ -41,8 +41,7 @@ sections:
         Programme.
       button: Learn More
       url: /uniquely-pei-hwa/future-leader-programme/
-      image: /images/Homepage/(2) applied learning programme – robotics and
-        programming.png
+      image: /images/Homepage/(4) pei hwa talent academy .png
       subtitle: DARE TO INNOVATE
   - infopic:
       title: Learning Today, Leading Tomorrow
@@ -50,15 +49,14 @@ sections:
         opportunities to excel in their interests in the Pei Hwa Talent Academy.
       button: Learn More
       url: uniquely-pei-hwa/pei-hwa-talent-academy/
-      image: /images/Homepage/(3) learning for life programme – community youth
-        leadership.png
+      image: /images/Homepage/PHSS_486.jpg
       alt: Image alt text
       subtitle: PASSION TO LEARN
   - infopic:
       title: Celebrating Excellence, Championing Futures
       button: Learn More
       url: /pride-of-pei-hwa/
-      image: /images/Homepage/(4) pei hwa talent academy .png
+      image: /images/Homepage/PHSS_153.jpg
       alt: Image alt text
       subtitle: EXCELLENCE TOGETHER
       description: We celebrate the successes of today, where listening leadership and
@@ -73,4 +71,5 @@ sections:
       button: Learn More
       url: /community-at-pei-hwa/voices-of-pei-hwa/
       alt: Image alt text
+      image: /images/Homepage/PHSS_375.jpg
 ---
