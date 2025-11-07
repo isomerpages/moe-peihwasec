@@ -29,4 +29,8 @@ description: ""
 <a style="display:block; flex: 1 1 45%; max-width:420px; overflow:hidden; border-radius:12px;" target="_blank" href="https://www.instagram.com/p/DIirN3RxYPo/?igsh=NnNjb3ZkMDhyN3Z0">
     <img style="width:100%; display:block; box-shadow:0 6px 16px rgba(0,0,0,0.15); object-fit:cover; object-position: center 30%;" alt="Instagram Post 2" src="/images/Screenshot_2025_11_07_at_2_28_55_PM.png">
   </a>
+	
+<a style="display:block; flex: 1 1 45%; max-width:420px; overflow:hidden; border-radius:12px;" target="_blank" href="https://www.instagram.com/p/DIirN3RxYPo/?igsh=NnNjb3ZkMDhyN3Z0">
+    <img style="width:100%; display:block; box-shadow:0 6px 16px rgba(0,0,0,0.15); object-fit:cover; object-position: center 30%;" alt="Instagram Post 2" src="/images/Screenshot_2025_11_07_at_2_28_55_PM.png">
+  </a>
 </div>
