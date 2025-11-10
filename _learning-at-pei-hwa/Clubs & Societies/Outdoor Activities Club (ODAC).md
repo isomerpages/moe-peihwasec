@@ -25,6 +25,24 @@ variant: markdown
 	</thead>
 	
 <tbody>
+	
+<tr style="background-color: #f3f3f3;border-bottom: 2px solid #0C6523;">
+<td><strong style="font-family:sans-serif;font-size:14.5px;">2024</strong></td>
+	<td><strong style="font-family:sans-serif;font-size:15px;">PAssion Wave Orienteering Championship ‘C’ Division Girls Category</strong>
+		<br>
+		<ul style="margin-top:-5px"> 
+			<li style="font-size:14.5px;margin-bottom:-5px;font-family:sans-serif;line-height:1.5;"> 2<sup style="font-family:sans-serif;">nd</sup> Place</li>
+		</ul>
+		<strong style="font-family:sans-serif;font-size:15px;">GARanG Race Mixed Category</strong>
+		<ul style="margin-top:-5px;">
+			<li style="font-size:14.5px;margin-bottom:-5px;font-family:sans-serif;line-height:1.5;"> 3<sup style="font-family:sans-serif;">rd</sup> Place</li>
+		</ul>
+		<strong style="font-family:sans-serif;font-size:15px;">Jurong Lake Adventure Race Boys Category</strong>
+		<ul style="margin-top:-5px;">
+			<li style="font-size:14.5px;margin-bottom:-5px;font-family:sans-serif;line-height:1.5;"> 2<sup style="font-family:sans-serif;">nd</sup> Place</li>
+		</ul>
+	</td>
+</tr>
 
 <tr>
 <td><strong style="font-family:sans-serif;font-size:14.5px;">2023</strong></td>
