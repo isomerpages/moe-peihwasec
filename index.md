@@ -8,9 +8,9 @@ notification: ""
 sections:
   - hero:
       key_highlights:
-        - title: Pei Hwa 20th Anniversary
+        - title: Pei Hwa open  house 2025
           description: ""
-          url: /20th-anniversary/
+          url: /we-are-pei-hwa/pei-hwa-open-house/
         - title: Vision | Mission | Values
           description: The Heart of Pei Hwa
           url: /we-are-pei-hwa/our-vision-mission-and-values/
