@@ -171,14 +171,18 @@ description: ""
 	
 <tr style="background-color: #f3f3f3;">
 <td><strong style="font-family:sans-serif;font-size:14.5px;">2024</strong></td>
-<td><strong style="font-family:sans-serif;font-size:15px;">Safety-starts-with-me Photo Competition</strong>
-<ul style="margin-top:-5px">
-	<li style="font-size:14.5px;margin-bottom:-5px;font-family:sans-serif;line-height:1.5;">Silver Award, $1000 Cash Prize (Aaron Lim Cheng Kiat)</li>
-</ul>
+<td><strong style="font-family:sans-serif;font-size:15px;">1. National Accounting Challenge – Merit and Participation_</strong>
+<p style="margin-top:10px; font-size:15px; color:#333;line-height:1.5">One team achieved a Top 10 finish and received the Merit Award, while the other team participated in the 2024 National Accounting Challenge (2nd Edition) gaining exposure to Financial Literacy concepts and applying POA knowledge in real-world contexts.</p>
+	 <img style="width:50%; border-radius:12px; box-shadow:0 4px 12px rgba(0,0,0,0.1);margin-bottom:20px;" alt="" src="/images/Pride%20of%20Pei%20Hwa/Picture_4.jpg">
+	<strong style="font-family:sans-serif;font-size:15px;">2. Animation and Game Making Competition – Silver and Bronze</strong>
+<p style="margin-top:10px; font-size:15px; color:#333;line-height:1.5">Kelly received $40 popular vouchers and a certificate for Silver Award in Game Making, and Akif received $20 popular vouchers and a certificate for Bronze Award in Animation.</p>
+	 <div style="display:flex; gap:20px; justify-content:center; flex-wrap:wrap;">
+  <img style="width:48%; border-radius:12px; box-shadow:0 4px 12px rgba(0,0,0,0.1); margin-bottom:20px;" alt="" src="/images/Pride%20of%20Pei%20Hwa/Picture_5.jpg">      
+  <img style="width:48%; border-radius:12px; box-shadow:0 4px 12px rgba(0,0,0,0.1); margin-bottom:20px;" alt="" src="/images/Pride%20of%20Pei%20Hwa/Picture_6.jpg">
+</div>
 	</td>
 </tr>
-
-
+	
 </tbody>
 </table>
 
