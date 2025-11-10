@@ -8,7 +8,7 @@ notification: ""
 sections:
   - hero:
       key_highlights:
-        - title: Pei Hwa open  house 2025
+        - title: open house 2025
           description: ""
           url: /we-are-pei-hwa/pei-hwa-open-house/
         - title: Vision | Mission | Values
