@@ -152,6 +152,7 @@ description: ""
 </div>
 
 <p style="margin:30px 0 20px; font-size:18px; color:#0D6523;" id="DeptCnC"><strong style="margin:30px 0 20px; font-size:18px; color:#0D6523;">Department of Commerce and Computing</strong></p>
+
 <table style="border-collapse: collapse;margin: 25px 0;margin-top:5px;font-family: sans-serif;box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);width:100%" border="1">
 	
 <tbody>
@@ -171,7 +172,7 @@ description: ""
 	
 <tr style="background-color: #f3f3f3;">
 <td><strong style="font-family:sans-serif;font-size:14.5px;">2024</strong></td>
-<td><strong style="font-family:sans-serif;font-size:15px;">1. National Accounting Challenge – Merit and Participation_</strong>
+<td><strong style="font-family:sans-serif;font-size:15px;">1. National Accounting Challenge – Merit and Participation</strong>
 <p style="margin-top:10px; font-size:15px; color:#333;line-height:1.5">One team achieved a Top 10 finish and received the Merit Award, while the other team participated in the 2024 National Accounting Challenge (2nd Edition) gaining exposure to Financial Literacy concepts and applying POA knowledge in real-world contexts.</p>
 	 <img style="width:50%; border-radius:12px; box-shadow:0 4px 12px rgba(0,0,0,0.1);margin-bottom:20px;" alt="" src="/images/Pride%20of%20Pei%20Hwa/Picture_4.jpg">
 	<strong style="font-family:sans-serif;font-size:15px;">2. Animation and Game Making Competition – Silver and Bronze</strong>
@@ -188,6 +189,98 @@ description: ""
 
 <p style="margin:30px 0 20px; font-size:18px; color:#0D6523;" id="DeptH"><strong style="margin:30px 0 20px; font-size:18px; color:#0D6523;">Department of Humanities</strong></p>
 
+<div style="display:flex; gap:20px; justify-content:center; flex-wrap:wrap; margin-bottom:20px;">
+  
+  <figure style="width:48%; margin:0;">
+    <img style="width:100%; border-radius:12px; box-shadow:0 4px 12px rgba(0,0,0,0.1);" alt="" src="/images/Pride%20of%20Pei%20Hwa/Humanities_01.jpg">
+    <figcaption style="text-align:center; margin-top:8px;">
+      <strong style="font-family:sans-serif;font-size:15px;">Historical Investigation: <br> National Museum of Singapore</strong>
+    </figcaption>
+  </figure>
+  
+  <figure style="width:48%; margin:0;">
+    <img style="width:100%; border-radius:12px; box-shadow:0 4px 12px rgba(0,0,0,0.1);" alt="" src="/images/Pride%20of%20Pei%20Hwa/Humanities_02.jpg">
+    <figcaption style="text-align:center; margin-top:8px;">
+      <strong style="font-family:sans-serif;font-size:15px;">Geographical Investigation:<br> Sengkang River</strong>
+    </figcaption>
+  </figure>
+
+</div>
+
+<div style="display:flex; justify-content:center; margin-bottom:20px;">
+  <figure style="width:70%; margin:0;">
+    <img style="width:100%; border-radius:12px; box-shadow:0 4px 12px rgba(0,0,0,0.1);" alt="" src="/images/Pride%20of%20Pei%20Hwa/Humanities_03.jpg">
+    <figcaption style="text-align:center; margin-top:8px;">
+      <strong style="font-family:sans-serif;font-size:15px;">Learning Journey to Kampong Lorong Buangkok</strong>
+    </figcaption>
+  </figure>
+</div>
+
+
+<table style="border-collapse: collapse;margin: 25px 0;margin-top:5px;font-family: sans-serif;box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);width:100%" border="1">
+	
+<tbody>
+<tr>
+<td><strong style="font-family:sans-serif;font-size:14.5px;">2025</strong></td>
+<td><strong style="font-family:sans-serif;font-size:15px;">NUS Geography Challenge – Bronze Award</strong>
+	 <img style="width:50%; border-radius:12px; box-shadow:0 4px 12px rgba(0,0,0,0.1);margin-bottom:20px;margin-top:10px" alt="" src="/images/Pride%20of%20Pei%20Hwa/2025_Award.jpg">
+	
+</td>
+</tr>
+	
+<tr style="background-color: #f3f3f3;">
+<td><strong style="font-family:sans-serif;font-size:14.5px;">2024</strong></td>
+	
+<td><strong style="font-family:sans-serif;font-size:15px;">1. War and Diplomacy Challenge – Merit Award</strong>
+	 <img style="width:50%; border-radius:12px; box-shadow:0 4px 12px rgba(0,0,0,0.1);margin-bottom:20px;margin-top:10px" alt="" src="/images/Pride%20of%20Pei%20Hwa/2024_Award.jpg">
+	<strong style="font-family:sans-serif;font-size:15px;">2. Animation and Game Making Competition – Silver and Bronze</strong>
+	<img style="width:50%; border-radius:12px; box-shadow:0 4px 12px rgba(0,0,0,0.1);margin-bottom:20px;margin-top:10px" alt="" src="/images/Pride%20of%20Pei%20Hwa/2024_Award_02.jpg">
+	</td>
+</tr>
+	
+</tbody>
+</table>
+
 <p style="margin:30px 0 20px; font-size:18px; color:#0D6523;" id="DeptS"><strong style="margin:30px 0 20px; font-size:18px; color:#0D6523;">Department of Science</strong></p>
+<table style="border-collapse: collapse;margin: 25px 0;margin-top:5px;font-family: sans-serif;box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);width:100%" border="1">
+	
+<tbody>
+<tr>
+<td><strong style="font-family:sans-serif;font-size:14.5px;">2025</strong></td>
+<td><strong style="font-family:sans-serif;font-size:15px;">1. C. B. Paul Science Quiz – 2 Bronze, 2 Honourable Mentions, 2 Merits</strong>
+<p style="margin-top:10px; font-size:15px; color:#333;line-height:1.5">Students showcased their scientific aptitude across a broad range of scientific areas through a quiz requiring analytical and critical thinking skills.</p>
+	 <img style="width:50%; border-radius:12px; box-shadow:0 4px 12px rgba(0,0,0,0.1);margin-bottom:20px;" alt="" src="/images/Pride%20of%20Pei%20Hwa/Students_only.jpg">
+	<strong style="font-family:sans-serif;font-size:15px;">2. Elementz Science Project Competition – 1 team Gold with presentation, 3 teams silver (2 x Lower Sec, 1 x Upper sec)</strong>
+<p style="margin-top:10px; font-size:15px; color:#333;line-height:1.5"> Student teams embarked on a self-directed research project, guided by teacher mentors, showcasing their findings using a poster and presentation.</p>
+	 <img style="width:50%; border-radius:12px; box-shadow:0 4px 12px rgba(0,0,0,0.1);margin-bottom:20px;" alt="" src="">
+	<strong style="font-family:sans-serif;font-size:15px;">3. NUS Physics Illustratum – 1 team Distinction, 1 team participation</strong>
+<p style="margin-top:10px; font-size:15px; color:#333;line-height:1.5">1.  Students prepared and delivered a 10-minute presentation on a Physical concept or phenomenon to showcase their scientific understanding and communication skills.</p>
+	 <img style="width:50%; border-radius:12px; box-shadow:0 4px 12px rgba(0,0,0,0.1);margin-bottom:15px;" alt="" src="">
+	<strong style="font-family:sans-serif;font-size:15px;">4. Singapore Junior Chemistry Olympiad – 2 Certificates of Merit</strong>
+<p style="margin-top:10px; font-size:15px; color:#333;line-height:1.5">1.  Students stretched their analytical and reasoning skills to answer chemistry questions beyond the syllabus.</p>
+	</td>
+</tr>
+	
+<tr style="background-color: #f3f3f3;">
+<td><strong style="font-family:sans-serif;font-size:14.5px;">2024</strong></td>
+<td><strong style="font-family:sans-serif;font-size:15px;">1. Elementz Science Project Competition – 2 teams silver, 1 team participation</strong>
+<p style="margin-top:10px; font-size:15px; color:#333;line-height:1.5">1.  Student teams embarked on a self-directed research project, guided by teacher&nbsp;mentors, showcasing their findings using a poster and presentation.</p>
+	 <img style="width:50%; border-radius:12px; box-shadow:0 4px 12px rgba(0,0,0,0.1);margin-bottom:20px;" alt="" src="">
+	<strong style="font-family:sans-serif;font-size:15px;">2. International Biomedical quiz – 1 Gold, 3 Bronze, 1 Honourable Mention,  
+    1 Participation</strong>
+<p style="margin-top:10px; font-size:15px; color:#333;line-height:1.5">Students attempt questions cover various medical and biological topics like oncology, psychiatry, or infectious diseases, and the events promote students' passion for science and innovation.</p>
+	</td>
+</tr>
+
+<tr>
+<td><strong style="font-family:sans-serif;font-size:14.5px;">2023</strong></td>
+<td><strong style="font-family:sans-serif;font-size:15px;">1.  C.B. Paul Science Quiz – 2 Golds, 1 Silver, 2 Bronze, 1 Honourable Mention,2 Merits</strong>
+<p style="margin-top:10px; font-size:15px; color:#333;line-height:1.5">This inter-disciplinary quiz, organised by Anglo-Chinese Junior College (ACJC), provides a platform for students to develop their aptitude and potential in the Pure and Applied Sciences (Biology, Chemistry, Computer Science, Mathematics and Physics) through solving higher- order questions that require critical thinking and perseverance.</p>
+	<strong style="font-family:sans-serif;font-size:15px;">2. Elementz Science Project Competition – 1 Bronze</strong>
+	</td>
+</tr>
+	
+</tbody>
+</table>
 
 <p style="margin:30px 0 20px; font-size:18px; color:#0D6523;" id="DeptMT"><strong style="margin:30px 0 20px; font-size:18px; color:#0D6523;">Department of Mother Tongue</strong></p>
