@@ -8,25 +8,25 @@ notification: ""
 sections:
   - hero:
       key_highlights:
-        - title: 20th Anniversary
-          description: Inspiring Futures
-          url: /20th-anniversary/
+        - title: open house 2025
+          description: ""
+          url: /we-are-pei-hwa/pei-hwa-open-house/
         - title: Vision | Mission | Values
           description: The Heart of Pei Hwa
           url: /we-are-pei-hwa/our-vision-mission-and-values/
-        - title: Future Leader Programme
-          description: Driving Innovation
-          url: /uniquely-pei-hwa/future-leader-programme/
+        - title: CONNECTIONS @ PEI HWA
+          description: Follow us on Social Media
+          url: /connection-pei-hwa/
       background: /images/Website_Banner_as_of_190225.gif
   - textcards:
       title: Announcement
       id: textcards
       cards:
-        - title: Home-Based Learning Day
+        - title: 2025 Secondary 1 Registration
           description: ""
           linktext: Learn more
-          url: https://www.peihwasec.moe.edu.sg/learning-at-pei-hwa/home-based-learning/
-        - title: 2025 Direct School Admission (DSA) Application
+          url: https://www.peihwasec.moe.edu.sg/lp-announcement/secondary-1-registration/
+        - title: 2025 DSA Application
           description: ""
           linktext: Learn more
           url: /uniquely-pei-hwa/direct-school-admission-dsa/direct-school-admission/
@@ -35,25 +35,42 @@ sections:
           linktext: Learn More
           url: https://www.peihwasec.moe.edu.sg/links/announcements/
   - infopic:
-      title: Applied Learning Programme
-      description: Robotics and Programming
-      button: More
-      url: /uniquely-pei-hwa/applied-learning-programme-robotics-and-programming/
-      image: /images/Homepage/(2) applied learning programme – robotics and
-        programming.png
+      title: Inspiring Curiosity, Igniting Innovation
+      description: We empower students as change-makers by cultivating creativity,
+        innovation, and entrepreneurial skills through our Future Leaders
+        Programme.
+      button: Learn More
+      url: /uniquely-pei-hwa/future-leader-programme/
+      image: /images/Homepage/22102025_PHSS_273.jpg
+      subtitle: DARE TO INNOVATE
       alt: Image alt text
   - infopic:
-      title: Learning for Life Programme
-      description: Community Youth Leadership
-      button: More
-      url: /uniquely-pei-hwa/learning-for-life-programme-community-youth-leadership-llp-cyl/
-      image: /images/Homepage/(3) learning for life programme – community youth
-        leadership.png
+      title: Learning Today, Leading Tomorrow
+      description: We nurture students' talents through specialised training and
+        opportunities to excel in their interests in the Pei Hwa Talent Academy.
+      button: Learn More
+      url: uniquely-pei-hwa/pei-hwa-talent-academy/
+      image: /images/Homepage/22102025_PHSS_304.jpg
       alt: Image alt text
+      subtitle: PASSION TO LEARN
   - infopic:
-      title: Pei Hwa Talent Academy
-      button: More
-      url: /uniquely-pei-hwa/pei-hwa-talent-academy/
-      image: /images/Homepage/(4) pei hwa talent academy .png
+      title: Celebrating Excellence, Championing Futures
+      button: Learn More
+      url: /pride-of-pei-hwa/
+      image: /images/Homepage/22102025_PHSS_319.jpg
       alt: Image alt text
+      subtitle: EXCELLENCE TOGETHER
+      description: We celebrate the successes of today, where listening leadership and
+        staff innovation empower students to flourish into changemakers of
+        tomorrow.
+  - infopic:
+      title: Sharing Experiences, Shaping Dreams
+      subtitle: VOICES THAT MATTER
+      id: infopic
+      description: We celebrate shared experiences that inspire and shape the dreams
+        of our learners.
+      button: Learn More
+      url: /community-at-pei-hwa/voices-of-pei-hwa/
+      alt: Image alt text
+      image: /images/Homepage/22102025_PHSS_18.jpg
 ---
