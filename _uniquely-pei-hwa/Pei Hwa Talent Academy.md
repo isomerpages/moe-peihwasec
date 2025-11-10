@@ -93,8 +93,8 @@ variant: markdown
 
 
 <div style="display: flex; flex-wrap: wrap; justify-content: space-between; max-width: 800px; margin: 0 auto;" class="image-container">
-	<div style="width:100%; height:140px; overflow:hidden; margin-bottom:10px; border-radius:8px;" class="image-box">
-    <img style="height:auto; object-fit:cover; object-position:top;" alt="Image 1" src="/images/Uniquely%20Pei%20Hwa/phta01.png">
+	<div style="width:100%; height:auto; overflow:hidden; margin-bottom:10px; border-radius:8px;" class="image-box">
+    <img style="height:auto; object-fit:cover; object-position:top;" alt="Image 1" src="/images/Screenshot_2025_11_10_at_8_11_25_AM.png">
    
   </div>
 
