@@ -43,21 +43,17 @@ variant: markdown
 </tbody>
 </table>
 
-<div style="display:flex; gap:10px; max-width:800px; margin:auto; flex-wrap:wrap;">
+<div style="display:flex; flex-direction:column; align-items:center; gap:20px;">
 
-  
-  <div style="display:flex; flex-direction:column; gap:10px; flex:2;">
-    <img style="width:100%; height:120px; object-fit:cover; border-radius:8px;" alt="Landscape 1" src="/images/Uniquely%20Pei%20Hwa/Talent_Academy_Science_Poster_Award_2.jpg">
-    <img style="width:100%; height:120px; object-fit:cover; border-radius:8px;" alt="Landscape 2" src="/images/Uniquely%20Pei%20Hwa/Talent_Academy_EL_Session.jpg">
-    <img style="width:100%; height:120px;object-position: center 30%;object-fit:cover; border-radius:8px;" alt="Landscape 3" src="/images/Uniquely%20Pei%20Hwa/Talent_Academy_Science_Poster_Award_1.jpg">
-  </div>
+  <img style="width:70%; border-radius:12px; box-shadow:0 4px 12px rgba(0,0,0,0.1);" alt="" src="/images/Uniquely%20Pei%20Hwa/Talent_Academy_Science_Poster_Award_2.jpg">
 
-  
-  <div style="flex:1;">
-    <img style="width:100%; height:100%; object-fit:contain; object-position:center; border-radius:8px;" alt="Portrait" src="/images/Uniquely%20Pei%20Hwa/Talent_Academy_Hums_LJ.png">
-  </div>
+  <img style="width:70%; border-radius:12px; box-shadow:0 4px 12px rgba(0,0,0,0.1);" alt="" src="/images/Uniquely%20Pei%20Hwa/Talent_Academy_EL_Session.jpg">
+
+  <img style="width:70%; border-radius:12px; box-shadow:0 4px 12px rgba(0,0,0,0.1);" alt="" src="/images/Uniquely%20Pei%20Hwa/Talent_Academy_Science_Poster_Award_1.jpg">
 
 </div>
+  
+
 
 <h6 style="color:#0B6623;font-family:sans-serif;font-weight:bold;margin-top:30px;"><strong style="font-family:sans-serif;font-size:17px;color:#0B6623;">Core Features of Pei Hwa Talent Academy</strong></h6>
 
