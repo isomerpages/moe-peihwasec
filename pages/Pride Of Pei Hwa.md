@@ -152,6 +152,83 @@ description: ""
 </div>
 
 <p style="margin:30px 0 20px; font-size:18px; color:#0D6523;" id="DeptCnC"><strong style="margin:30px 0 20px; font-size:18px; color:#0D6523;">Department of Commerce and Computing</strong></p>
+<table style="border-collapse: collapse;margin: 25px 0;margin-top:5px;font-family: sans-serif;box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);width:100%" border="1">
+	
+<tbody>
+<tr>
+<td><strong style="font-family:sans-serif;font-size:14.5px;">225</strong></td>
+<td><strong style="font-family:sans-serif;font-size:15px;">1. National Accounting Challenge – Participation</strong>
+<p style="margin-top:10px; font-size:15px; color:#333;line-height:1.5">Two teams participated in the National Accounting Challenge (3rd Edition) to apply their learning, demonstrate mastery of the subject, and propose solutions to real-life business scenarios.</p>
+	 <img style="width:100%; border-radius:12px; box-shadow:0 4px 12px rgba(0,0,0,0.1);" alt="Innovation Excellence Award 2023" src="/images/Abandtrolley.jpg">
+	</td>
+</tr>
+	
+<tr style="background-color: #f3f3f3;">
+<td><strong style="font-family:sans-serif;font-size:14.5px;">2013</strong></td>
+<td><strong style="font-family:sans-serif;font-size:15px;">Safety-starts-with-me Photo Competition</strong>
+<ul style="margin-top:-5px">
+	<li style="font-size:14.5px;margin-bottom:-5px;font-family:sans-serif;line-height:1.5;">Silver Award, $1000 Cash Prize (Aaron Lim Cheng Kiat)</li>
+</ul>
+	</td>
+</tr>
+
+<tr>
+<td><strong style="font-family:sans-serif;font-size:14.5px;">2012</strong></td>
+<td><strong style="font-family:sans-serif;font-size:15px;">National Photography Competition 'Climate Change'</strong>
+<ul style="margin-top:-5px">
+<li style="font-size:14.5px;margin-bottom:-5px;font-family:sans-serif;line-height:1.5;">2<sup style="font-family:sans-serif;">nd</sup> Prize (Amanda Goh)</li>
+	<li style="font-size:14.5px;margin-bottom:-5px;font-family:sans-serif;line-height:1.5;">Consolation (Aaron Lim)</li>
+	</ul>
+</td>
+</tr>
+														
+<tr style="background-color: #f3f3f3;">
+<td><strong style="font-family:sans-serif;font-size:14.5px;">2011</strong></td>
+<td><strong style="font-family:sans-serif;font-size:15px;">Canon Photomarathon</strong>
+<ul style="margin-top:-5px">
+<li style="font-size:14.5px;margin-bottom:-5px;font-family:sans-serif;line-height:1.5;">Student Category Winner (Douglas Tham)</li>
+	<li style="font-size:14.5px;margin-bottom:-5px;font-family:sans-serif;line-height:1.5;">Best of Show Student Category Winner (Douglas Tham)</li>
+	<li style="font-size:14.5px;margin-bottom:-5px;font-family:sans-serif;line-height:1.5;"> School's Challenge Winner</li>
+</ul>
+	<strong style="font-family:sans-serif;font-size:15px;">Freshness of Life by School of Photography</strong>
+<ul style="margin-top:-5px">
+<li style="font-size:14.5px;margin-bottom:-5px;font-family:sans-serif;line-height:1.5;">1<sup style="font-family:sans-serif;">st</sup> Prize (Dion Lim)</li>
+</ul>
+		<strong style="font-family:sans-serif;font-size:15px;">N3 Cluster International Friendship Day Photography Competition</strong>
+<ul style="margin-top:-5px">
+<li style="font-size:14.5px;margin-bottom:-5px;font-family:sans-serif;line-height:1.5;">1<sup style="font-family:sans-serif;">st</sup> Prize</li>
+</ul>
+	</td>
+</tr>
+	
+<tr>
+<td><strong style="font-family:sans-serif;font-size:14.5px;">2009</strong></td>
+<td><strong style="font-family:sans-serif;font-size:15px;">Straits Times National Schools Newspaper Competition</strong>
+<ul style="margin-top:-5px">
+<li style="font-size:14.5px;margin-bottom:-5px;font-family:sans-serif;line-height:1.5;">Consolation Prize</li>
+	</ul>
+	<strong style="font-family:sans-serif;font-size:15px;">HDB Competition</strong>
+<ul style="margin-top:-5px">
+<li style="font-size:14.5px;margin-bottom:-5px;font-family:sans-serif;line-height:1.5;">Consolation Prize</li>
+	</ul>
+</td>
+</tr>
+														
+<tr style="border-bottom: 2px solid #0C6523;background-color: #f3f3f3;">
+<td><strong style="font-family:sans-serif;font-size:14.5px;">2008</strong></td>
+<td><strong style="font-family:sans-serif;font-size:15px;">Straits Times National Schools Newspaper Competition</strong>
+<ul style="margin-top:-5px"> 
+<li style="font-size:14.5px;margin-bottom:-5px;font-family:sans-serif;line-height:1.5;">Consolation Prize</li>
+</ul>
+	<strong style="font-family:sans-serif;font-size:15px;">GMAC Competition</strong>
+<ul style="margin-top:-5px"> 
+<li style="font-size:14.5px;margin-bottom:-5px;font-family:sans-serif;line-height:1.5;">	3<sup style="font-family:sans-serif;">rd</sup> Place (Lim Ying Yun, Martin Goh, Charmaine Toh, Saw Jia Hui)</li>
+</ul>
+	</td>
+</tr>
+	
+</tbody>
+</table>
 
 <p style="margin:30px 0 20px; font-size:18px; color:#0D6523;" id="DeptH"><strong style="margin:30px 0 20px; font-size:18px; color:#0D6523;">Department of Humanities</strong></p>
 
