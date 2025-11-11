@@ -21,6 +21,17 @@ variant: markdown
 	</thead>
 	
 <tbody>
+
+<tr style="background-color: #f3f3f3;">
+<td><strong style="font-family:sans-serif;font-size:14.5px;">2024</strong></td>
+	<td>
+		<strong style="font-family:sans-serif;font-size:15px;">Unit Overall Proficiency Award </strong>
+		<ul style="margin-top:-5px">
+			<li style="font-size:14.5px;margin-bottom:-5px;font-family:sans-serif;line-height:1.5;">Distinction</li>
+		</ul>
+	</td>
+</tr>
+	
 <tr>
 <td><strong style="font-family:sans-serif;font-size:14.5px;">2022</strong></td>
 	<td>
