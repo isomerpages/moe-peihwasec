@@ -57,18 +57,6 @@ ELKAN SIN YEW KEN (4D8), GAVRIEL LEE KHONG YIH (4D7)</li>
 <td><strong style="font-family:sans-serif;font-size:14.5px;">2024</strong></td>
 	<td>
 		<strong style="font-family:sans-serif;font-size:15px;">Robocup Singapore Open</strong>
-		<ul style="margin-top:-5px"> 
-			<li style="font-size:14.5px;margin-bottom:-5px;font-family:sans-serif;line-height:1.5;">  OnStage U19 2<sup style="font-family:sans-serif;">nd</sup> Place - 4D9 CHANG GUAN ZHENG (Justin), 4D9 YAN GING GIT (ZHEN JINGJIE), 3I4 CHONG YUN TING FELICIA, 2R8 Thiyagarajan Santosh, 1P7 KYLER ANG YI KAI</li>
-         <li style="font-size:14.5px;margin-bottom:-5px;font-family:sans-serif;line-height:1.5;">Autonomous Driving U19 1<sup style="font-family:sans-serif;">st</sup> Place - 4D5 HENG SHENG JUN ASHTON, 1P3 ELVIN TAN ZHEN HONG</li>
-			<li style="font-size:14.5px;margin-bottom:-5px;font-family:sans-serif;line-height:1.5;">Autonomous Driving U19 Judge's Award -   4D1 EMIL AZKIPUTRASHA, 1P8 IAN TAN WEI EN</li>
-			<li style="font-size:14.5px;margin-bottom:-5px;font-family:sans-serif;line-height:1.5;">Autonomous Driving U19 Judge's Award - 4D4 TAY KAI YI, 1P5 GOH YING WEI AYDEN</li>
-			<li style="font-size:14.5px;margin-bottom:-5px;font-family:sans-serif;line-height:1.5;">Autonomous Driving U19 Superteams 1<sup style="font-family:sans-serif;">st</sup>  Place - 3I8 TU JINGYANG, 2R1 Yu Jia Rong Zenden</li>
-			<li style="font-size:14.5px;margin-bottom:-5px;font-family:sans-serif;line-height:1.5;"> Cospace Rescue Firststeps U12 1<sup style="font-family:sans-serif;">st</sup> Place - 1P7 KINGZLY YEW MIN JIN, 1P4 AYSON BAYER SPAIN, 1P5 EVAN LIM YUE ZE</li>
-			<li style="font-size:14.5px;margin-bottom:-5px;font-family:sans-serif;line-height:1.5;">Cospace Rescue Firststeps U12 2<sup style="font-family:sans-serif;">nd</sup> Place - 1P3 IAN LIM KIAN CHEE, 1P9 RAYMOND ONG JIAN YU</li>
-			<li style="font-size:14.5px;margin-bottom:-5px;font-family:sans-serif;line-height:1.5;">Cospace Rescue Firststeps U12 3<sup style="font-family:sans-serif;">rd</sup> Place - 1P8 JORDON LIM JIACHENG, 1P8 TOH YU ZHE, LUCAS</li>
-			<li style="font-size:14.5px;margin-bottom:-5px;font-family:sans-serif;line-height:1.5;">Cospace Rescue Firststeps U19 2<sup style="font-family:sans-serif;">nd</sup> Place - 2R7 Mohammed Haziq Bin Mohammed Riduan, 2R8 SETH MICAH IMPUERTO GONIDA</li>
-			<li style="font-size:14.5px;margin-bottom:-5px;font-family:sans-serif;line-height:1.5;">Cospace Rescue Firststeps U19 3<sup style="font-family:sans-serif;">rd</sup> Place - 3I7 GAVRIEL LEE KHONG YIH, 3I8 ELKAN SIN YEW KEN</li>
-		</ul>
 		<strong style="font-family:sans-serif;font-size:15px;">ROBOCUP SINGAPORE OPEN 2024</strong>
 		<ul style="margin-top:-5px"> 
 			<li style="font-size:14.5px;margin-bottom:-5px;font-family:sans-serif;line-height:1.5;">OnStage U19 2<sup style="font-family:sans-serif;">nd</sup> Place - Chang Guan Zheng (Justin) (4D9),
