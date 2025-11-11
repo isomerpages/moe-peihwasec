@@ -36,7 +36,7 @@ variant: markdown
 
 <tr style="background-color: #f3f3f3;">
 <td><strong style="font-family:sans-serif;font-size:14.5px;">2024</strong></td>
-<td><strong style="font-family:sans-serif;font-size:15px;">National School Games Wushu Championships 2023</strong>
+<td><strong style="font-family:sans-serif;font-size:15px;">National School Games Wushu Championships </strong>
 	<ul style="margin-top:-5px;"> 
 	<li style="font-size:14.5px;margin-bottom:-5px;font-family:sans-serif;line-height:1.5;"> B Division Girls</li>
 		<ul style="margin-top:-5px;">
