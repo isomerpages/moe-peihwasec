@@ -17,7 +17,7 @@ sections:
         - title: CONNECTIONS @ PEI HWA
           description: Follow us on Social Media
           url: /connection-pei-hwa/
-      background: /images/Homepage/disovery_cca_competition_2025_3.gif
+      background: /images/Homepage/disovery_cca_competition_2025_3_2.gif
   - textcards:
       title: Announcement
       id: textcards
