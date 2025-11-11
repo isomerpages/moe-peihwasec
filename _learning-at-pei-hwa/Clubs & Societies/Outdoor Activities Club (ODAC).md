@@ -24,9 +24,44 @@ variant: markdown
 		</tr>
 	</thead>
 	
-<tbody>
+<tbody>	
 	
-<tr style="background-color: #f3f3f3;border-bottom: 2px solid #0C6523;">
+<tr>
+<td><strong style="font-family:sans-serif;font-size:14.5px;">2025</strong></td>
+	<td>
+		<strong style="font-family:sans-serif;font-size:15px;">PASSION WAVE ORIENTEERING CHAMPIONSHIP</strong>
+		<br>
+		<ul style="margin-top:-5px"> 
+			<li style="font-size:14.5px;margin-bottom:-5px;font-family:sans-serif;line-height:1.5;">C Div Boys 1<sup style="font-family:sans-serif;">st</sup>,  2<sup style="font-family:sans-serif;">nd</sup> and  6<sup style="font-family:sans-serif;">th</sup>  Place</li> 
+			<li style="font-size:14.5px;margin-bottom:-5px;font-family:sans-serif;line-height:1.5;">C Div Girl 2<sup style="font-family:sans-serif;">nd</sup> and 4<sup style="font-family:sans-serif;">th</sup> Place</li>
+			<li style="font-size:14.5px;margin-bottom:-5px;font-family:sans-serif;line-height:1.5;">B Div Boys 1<sup style="font-family:sans-serif;">st</sup>, 3<sup style="font-family:sans-serif;">rd</sup>, 4<sup style="font-family:sans-serif;">th</sup> and 6<sup style="font-family:sans-serif;">th</sup> Place</li>
+		</ul>
+		<strong style="font-family:sans-serif;font-size:15px;">GREENDALE ADVENTURE RACE</strong>
+		<br>
+		<ul style="margin-top:-5px"> 
+			<li style="font-size:14.5px;margin-bottom:-5px;font-family:sans-serif;line-height:1.5;">Boys Team 2<sup style="font-family:sans-serif;">nd</sup> Place</li>
+			<li style="font-size:14.5px;margin-bottom:-5px;font-family:sans-serif;line-height:1.5;">Girls Team 4<sup style="font-family:sans-serif;">th</sup> Place</li>
+			<li style="font-size:14.5px;margin-bottom:-5px;font-family:sans-serif;line-height:1.5;">Mixed Team 1<sup style="font-family:sans-serif;">st</sup> Place</li>
+		</ul><strong style="font-family:sans-serif;font-size:15px;">NATIONAL ORIENTEERING RACE</strong>
+		<br>
+		<ul style="margin-top:-5px;">
+			<li style="font-size:14.5px;margin-bottom:-5px;font-family:sans-serif;line-height:1.5;">C Div Boys 1<sup style="font-family:sans-serif;">st</sup> Place</li>
+			<li style="font-size:14.5px;margin-bottom:-5px;font-family:sans-serif;line-height:1.5;">B Div Boys 2<sup style="font-family:sans-serif;">nd</sup> Place</li>
+			<li style="font-size:14.5px;margin-bottom:-5px;font-family:sans-serif;line-height:1.5;">B Div Boys 3<sup style="font-family:sans-serif;">rd</sup> Place</li>
+		</ul>
+		<strong style="font-family:sans-serif;font-size:15px;">JURONG LAKE ADVENTURE RACE</strong>
+		<br>
+		<ul style="margin-top:-5px;">
+			<li style="font-size:14.5px;margin-bottom:-5px;font-family:sans-serif;line-height:1.5;">Boys Team 1 - 2<sup style="font-family:sans-serif;">nd</sup> Place</li>
+			<li style="font-size:14.5px;margin-bottom:-5px;font-family:sans-serif;line-height:1.5;">Boys Team 2 - 4<sup style="font-family:sans-serif;">th</sup> Place</li>
+			<li style="font-size:14.5px;margin-bottom:-5px;font-family:sans-serif;line-height:1.5;">Girls Team 2 - 3<sup style="font-family:sans-serif;">rd</sup> Place</li>
+			<li style="font-size:14.5px;margin-bottom:-5px;font-family:sans-serif;line-height:1.5;">Mixed Team 2 - 2<sup style="font-family:sans-serif;">nd</sup> Place</li>
+			<li style="font-size:14.5px;margin-bottom:-5px;font-family:sans-serif;line-height:1.5;">Mixed Team 2 - 3<sup style="font-family:sans-serif;">rd</sup> Place</li>
+		</ul>
+	</td>
+</tr>		
+
+	<tr style="background-color: #f3f3f3;border-bottom: 2px solid #0C6523;">
 <td><strong style="font-family:sans-serif;font-size:14.5px;">2024</strong></td>
 	<td><strong style="font-family:sans-serif;font-size:15px;">PAssion Wave Orienteering Championship ‘C’ Division Girls Category</strong>
 		<br>
@@ -51,10 +86,15 @@ variant: markdown
 		<ul style="margin-top:-5px"> 
 			<li style="font-size:14.5px;margin-bottom:-5px;font-family:sans-serif;line-height:1.5;"> 1<sup style="font-family:sans-serif;">st</sup> Place</li>
 		</ul>
-		<strong style="font-family:sans-serif;font-size:15px;">GARanG Race Boys category </strong>
+		<strong style="font-family:sans-serif;font-size:15px;">GARanG Race Male category </strong>
 		<br>
 		<ul style="margin-top:-5px"> 
 			<li style="font-size:14.5px;margin-bottom:-5px;font-family:sans-serif;line-height:1.5;"> 3<sup style="font-family:sans-serif;">rd</sup> Place</li>
+		</ul>
+		<strong style="font-family:sans-serif;font-size:15px;">GARanG Race Female category</strong>
+		<br>
+		<ul style="margin-top:-5px"> 
+			<li style="font-size:14.5px;margin-bottom:-5px;font-family:sans-serif;line-height:1.5;">5<sup style="font-family:sans-serif;">th</sup> Place</li>
 		</ul>
 		<strong style="font-family:sans-serif;font-size:15px;">National Orienteering Race ‘Grassroot’ division</strong>
 		<br>
