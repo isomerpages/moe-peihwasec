@@ -32,6 +32,15 @@ variant: markdown
 	
 <tbody>
 	
+<tr>
+<td><strong style="font-family:sans-serif;font-size:14.5px;">2025</strong></td>
+	<td><strong style="font-family:sans-serif;font-size:15px;">NEmation! 2025 competition</strong>
+		<ul style="margin-top:-5px;">
+			<li style="font-size:14.5px;margin-bottom:-5px;font-family:sans-serif;line-height:1.5;">Top 20 teams </li>
+		</ul>
+	</td>
+</tr>
+	
 <tr style="background-color: #f3f3f3;">
 <td><strong style="font-family:sans-serif;font-size:14.5px;">2023</strong></td>
 	<td><strong style="font-family:sans-serif;font-size:15px;">N.E.mation! 2023 Competition</strong>
