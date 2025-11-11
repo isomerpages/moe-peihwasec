@@ -9,15 +9,15 @@ sections:
   - hero:
       key_highlights:
         - title: open house 2025
-          description: ""
-          url: /we-are-pei-hwa/pei-hwa-open-house/
+          description: Join us to find out more!
+          url: https://sites.google.com/moe.edu.sg/phsstest/home?
         - title: Vision | Mission | Values
           description: The Heart of Pei Hwa
           url: /we-are-pei-hwa/our-vision-mission-and-values/
         - title: CONNECTIONS @ PEI HWA
           description: Follow us on Social Media
           url: /connection-pei-hwa/
-      background: /images/Website_Banner_as_of_190225.gif
+      background: /images/Homepage/disovery_cca_competition_2025_3_2.gif
   - textcards:
       title: Announcement
       id: textcards

@@ -25,6 +25,31 @@ variant: markdown
 	</thead>
 	
 <tbody>
+	
+<tr>
+<td><strong style="font-family:sans-serif;font-size:14.5px;">2024</strong></td>
+	<td>
+		<strong style="font-family:sans-serif;font-size:15px;">Unit Overall Performance Award</strong>
+		<ul style="margin-top:-5px">
+			<li style="font-size:14.5px;margin-bottom:-5px;font-family:sans-serif;line-height:1.5;">Distinction</li>
+		</ul>
+	</td>
+</tr>
+															
+<tr style="background-color: #f3f3f3;">
+<td><strong style="font-family:sans-serif;font-size:14.5px;">2023</strong></td>
+		<td>
+					<strong style="font-family:sans-serif;font-size:15px;">Unit Overall Performance Award</strong>
+		<ul style="margin-top:-5px">
+			<li style="font-size:14.5px;margin-bottom:-5px;font-family:sans-serif;line-height:1.5;">Gold</li>
+		</ul>
+				<strong style="font-family:sans-serif;font-size:15px;">NCDCC Precision Drill Competition</strong>
+		<ul style="margin-top:-5px">
+			<li style="font-size:14.5px;margin-bottom:-5px;font-family:sans-serif;line-height:1.5;">5<sup style="font-family:sans-serif;">th</sup> Place</li>
+		</ul>
+	</td>
+</tr>
+	
 <tr>
 <td><strong style="font-family:sans-serif;font-size:14.5px;">2022</strong></td>
 	<td>

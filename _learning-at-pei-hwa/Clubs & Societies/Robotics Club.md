@@ -56,6 +56,7 @@ ELKAN SIN YEW KEN (4D8), GAVRIEL LEE KHONG YIH (4D7)</li>
 <tr style="background-color: #f3f3f3;">
 <td><strong style="font-family:sans-serif;font-size:14.5px;">2024</strong></td>
 	<td>
+		<strong style="font-family:sans-serif;font-size:15px;">Robocup Singapore Open</strong>
 		<strong style="font-family:sans-serif;font-size:15px;">ROBOCUP SINGAPORE OPEN 2024</strong>
 		<ul style="margin-top:-5px"> 
 			<li style="font-size:14.5px;margin-bottom:-5px;font-family:sans-serif;line-height:1.5;">OnStage U19 2<sup style="font-family:sans-serif;">nd</sup> Place - Chang Guan Zheng (Justin) (4D9),
@@ -80,6 +81,19 @@ Yan Ging Git (Zhen Jingjie) (4D9), Chong Yun Ting Felicia (3I4), Thiyagarajan Sa
 <tr>
 <td><strong style="font-family:sans-serif;font-size:14.5px;">2023</strong></td>
 	<td>
+		<strong style="font-family:sans-serif;font-size:15px;">Robocup Singapore Open</strong>
+		<ul style="margin-top:-5px"> 
+			<li style="font-size:14.5px;margin-bottom:-5px;font-family:sans-serif;line-height:1.5;">Cospace Rescue FirstSteps U19 - 1<sup style="font-family:sans-serif;">st</sup></li>
+			<li style="font-size:14.5px;margin-bottom:-5px;font-family:sans-serif;line-height:1.5;">Cospace Rescue U19 1 - 1<sup style="font-family:sans-serif;">st</sup> and 3<sup style="font-family:sans-serif;">rd</sup></li>
+			<li style="font-size:14.5px;margin-bottom:-5px;font-family:sans-serif;line-height:1.5;">Cospace Auto-Driving U19 - 1<sup style="font-family:sans-serif;">st</sup> and 2<sup style="font-family:sans-serif;">nd</sup></li>
+			<li style="font-size:14.5px;margin-bottom:-5px;font-family:sans-serif;line-height:1.5;">Onstage U19 - 1<sup style="font-family:sans-serif;">st</sup> and 2<sup style="font-family:sans-serif;">nd</sup></li>
+			<li style="font-size:14.5px;margin-bottom:-5px;font-family:sans-serif;line-height:1.5;">Cospace Auto-Driving Influencer Award - 2<sup style="font-family:sans-serif;">nd</sup></li>
+			<li style="font-size:14.5px;margin-bottom:-5px;font-family:sans-serif;line-height:1.5;">Cospace Rescue Influencer Award - 2<sup style="font-family:sans-serif;">nd</sup> Place</li>
+		</ul>
+		<strong style="font-family:sans-serif;font-size:15px;">IDE (Innovation, Design and Engineering) series</strong>
+		<ul style="margin-top:-5px"> 
+			<li style="font-size:14.5px;margin-bottom:-5px;font-family:sans-serif;line-height:1.5;">Code Hacker - 7<sup style="font-family:sans-serif;">th</sup>, 8<sup style="font-family:sans-serif;">th</sup> and 23<sup style="font-family:sans-serif;">th</sup></li>
+		</ul>
 		<strong style="font-family:sans-serif;font-size:15px;">IMDA National Youth Tech Championship</strong>
 		<ul style="margin-top:-5px"> 
 			<li style="font-size:14.5px;margin-bottom:-5px;font-family:sans-serif;line-height:1.5;">Participation: Ethan Ng Ngee Tiang (1P7), Joy Lim Jing Xuan (1P7), Thiyagarajan Santosh (1P8), Chang Guan Zheng (3I9), Yan Ging Git (3I9)</li>
