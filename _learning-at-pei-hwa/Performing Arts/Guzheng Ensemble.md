@@ -29,40 +29,77 @@ variant: markdown
 	</thead>
 	
 <tbody>
+
+<tr>
+<td><strong style="font-family:sans-serif;font-size:14.5px;">2025</strong></td>
+	<td>		
+	<strong style="font-family:sans-serif;font-size:15px;">SYF Arts Presentation (Guzheng Ensemble) </strong>
+		<ul style="margin-top:-5px">
+			<li style="font-size:14.5px;margin-bottom:-5px;font-family:sans-serif;line-height:1.5;">Certificate of Distinction</li>
+		</ul>
+	</td>
+</tr>	
+	
+<tr style="background-color: #f3f3f3;">
+<td><strong style="font-family:sans-serif;font-size:14.5px;">2024</strong></td>
+		<td><strong style="font-family:sans-serif;font-size:15px;">PHiesta</strong>
+	</td>
+</tr>	
 	
 <tr>
 <td><strong style="font-family:sans-serif;font-size:14.5px;">2023</strong></td>
-	<td><strong style="font-family:sans-serif;font-size:15px;">Certificate of Distinction</strong>
+	<td>		
+	<strong style="font-family:sans-serif;font-size:15px;">SYF Arts Presentation (Guzheng Ensemble) </strong>
+		<ul style="margin-top:-5px">
+			<li style="font-size:14.5px;margin-bottom:-5px;font-family:sans-serif;line-height:1.5;">Certificate of Distinction</li>
+		</ul>
 	</td>
 </tr>
 															
 <tr style="background-color: #f3f3f3;">
 <td><strong style="font-family:sans-serif;font-size:14.5px;">2021</strong></td>
-		<td><strong style="font-family:sans-serif;font-size:15px;">Certificate of Distinction</strong>
+		<td><strong style="font-family:sans-serif;font-size:15px;">SYF Arts Presentation (Guzheng Ensemble) </strong>
+		<ul style="margin-top:-5px">
+			<li style="font-size:14.5px;margin-bottom:-5px;font-family:sans-serif;line-height:1.5;">Certificate of Distinction</li>
+		</ul>
 	</td>
 </tr>
 		
 <tr>
 <td><strong style="font-family:sans-serif;font-size:14.5px;">2019</strong></td>
-		<td><strong style="font-family:sans-serif;font-size:15px;">Certificate of Distinction</strong>
+		<td><strong style="font-family:sans-serif;font-size:15px;">SYF Arts Presentation (Guzheng Ensemble) </strong>
+		<ul style="margin-top:-5px">
+			<li style="font-size:14.5px;margin-bottom:-5px;font-family:sans-serif;line-height:1.5;">Certificate of Distinction</li>
+		</ul>
 	</td>
 </tr>
 	
 <tr style="background-color: #f3f3f3;">
 <td><strong style="font-family:sans-serif;font-size:14.5px;">2017</strong></td>
-		<td><strong style="font-family:sans-serif;font-size:15px;">Certificate of Distinction</strong>
+		<td>
+		<strong style="font-family:sans-serif;font-size:15px;">SYF Arts Presentation (Guzheng Ensemble) </strong>
+		<ul style="margin-top:-5px">
+			<li style="font-size:14.5px;margin-bottom:-5px;font-family:sans-serif;line-height:1.5;">Certificate of Distinction</li>
+		</ul>
 	</td>
 </tr>
 		
 <tr>
 <td><strong style="font-family:sans-serif;font-size:14.5px;">2015</strong></td>
-<td><strong style="font-family:sans-serif;font-size:15px;">Certificate of Accomplishment</strong>
+<td><strong style="font-family:sans-serif;font-size:15px;">SYF Arts Presentation (Guzheng Ensemble) </strong>
+		<ul style="margin-top:-5px">
+			<li style="font-size:14.5px;margin-bottom:-5px;font-family:sans-serif;line-height:1.5;">Certificate of Accomplishment</li>
+		</ul>
 	</td>
 </tr>
 	
 <tr style="background-color: #f3f3f3;border-bottom: 2px solid #0C6523;">
 <td><strong style="font-family:sans-serif;font-size:14.5px;">2013</strong></td>
-		<td><strong style="font-family:sans-serif;font-size:15px;">Certificate of Distinction</strong>
+		<td>
+			<strong style="font-family:sans-serif;font-size:15px;">SYF Arts Presentation (Guzheng Ensemble) </strong>
+		<ul style="margin-top:-5px">
+			<li style="font-size:14.5px;margin-bottom:-5px;font-family:sans-serif;line-height:1.5;">Certificate of Distinction</li>
+		</ul>
 	</td>
 </tr>
 										
