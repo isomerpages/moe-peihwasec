@@ -32,7 +32,7 @@ variant: markdown
 <td><strong style="font-family:sans-serif;font-size:14.5px;">2025</strong></td>
 	<td><strong style="font-family:sans-serif;font-size:15px;">NSG C DIVISION GIRLS CHAMPIONSHIP 2025</strong>
 		<ul style="margin-top:-5px;"> 
-			<li style="font-size:14.5px;margin-bottom:-5px;font-family:sans-serif;line-height:1.5;">League 4 3RD</li>
+			<li style="font-size:14.5px;margin-bottom:-5px;font-family:sans-serif;line-height:1.5;">League 4 3<sup style="font-family:sans-serif;">rd</sup></li>
 		</ul>
 		<strong style="font-family:sans-serif;font-size:15px;">NSG NORTH ZONE B DIVISION BOYS CHAMPIONSHIP 2025</strong>
 		<ul style="margin-top:-5px;"> 
