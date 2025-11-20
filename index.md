@@ -15,7 +15,7 @@ sections:
           description: The Heart of Pei Hwa
           url: /we-are-pei-hwa/our-vision-mission-and-values/
         - title: Pei Hwa Virtual Tour
-          description: ""
+          description: Click here for a virtual tour!
           url: https://tubear.co/3d-model/pei-hwa-sec-school/fullscreen/
       background: /images/Open_House_2025_Outdoor_Banner__5_.png
   - textcards:
