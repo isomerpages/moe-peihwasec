@@ -14,9 +14,9 @@ sections:
         - title: Vision | Mission | Values
           description: The Heart of Pei Hwa
           url: /we-are-pei-hwa/our-vision-mission-and-values/
-        - title: CONNECTIONS @ PEI HWA
-          description: Follow us on Social Media
-          url: /connection-pei-hwa/
+        - title: Pei Hwa Virtual Tour
+          description: Click here for a virtual tour!
+          url: https://tubear.co/3d-model/pei-hwa-sec-school/fullscreen/
       background: /images/Open_House_2025_Outdoor_Banner__5_.png
   - textcards:
       title: Announcement

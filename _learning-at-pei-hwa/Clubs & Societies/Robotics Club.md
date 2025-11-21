@@ -7,7 +7,7 @@ variant: markdown
 ---
 <img style="width: 100%; height: auto;margin-top:30px;margin-bottom:30px;" alt="Image" src="/images/CCA/roboticsclubbanner.png">
 
-<p style="font-size:14.5px; line-height:2 ;margin-top:0px; font-family:sans-serif;" class="description"><strong style="font-size:14.5px; line-height:2; font-family:sans-serif;">Pei Hwa Robotics Club</strong> plays an important role in Singapore’s Smart Nation initiative. In the Club, students innovate, think critically and work collaboratively with their peers in experimenting ideas and solving problems. They develop robot construction and programming skills through exposure to a variety of robotics platforms such as Cospace (Rescue, Autonomous Driving and OnStage), Arduino and many more. The students were given the opportunities to compete in national and international competitions where they pitch their skills against the best to build and programme robots to complete assigned missions in the most strategic and efficient manner.</p>
+<p style="font-size:14.5px; line-height:2 ;margin-top:0px; font-family:sans-serif;" class="description"><strong style="font-size:14.5px; line-height:2; font-family:sans-serif;">Pei Hwa Robotics Club</strong> plays an important role in Singapore’s Smart Nation initiative. In the Club, students innovate, think critically and work collaboratively with their peers in experimenting ideas and solving problems. They develop robot construction and programming skills through exposure to a variety of robotics platforms such as Cospace (Rescue, Autonomous Driving and OnStage), ESP32 and many more. The students were given the opportunities to compete in national and international competitions where they pitch their skills against the best to build and programme robots to complete assigned missions in the most strategic and efficient manner.</p>
 	
 <h6 style="color:#0B6623;font-family:sans-serif;font-weight:bold;margin-top:30px;"><strong style="font-family:sans-serif;font-size:17px;color:#0B6623;">Achievements</strong></h6>
 
@@ -24,6 +24,14 @@ variant: markdown
 <tr>
 <td><strong style="font-family:sans-serif;font-size:14.5px;">2025</strong></td>
 	<td>
+		<strong style="font-family:sans-serif;font-size:15px;">RoboCup Asia Pacific @ Abu Dhabi, United Arab Emirates</strong>
+		<ul style="margin-top:-5px"> 
+			<li style="font-size:14.5px;margin-bottom:-5px;font-family:sans-serif;line-height:1.5;">OnStage U19 Participation: Devendran Venkatesh (4D3), Ethan Ng Ngee Tiang (3I7), Thiyagarajan Santosh (3I8), Kyler Ang Yi Kai (2R7)</li>
+		</ul>
+		<strong style="font-family:sans-serif;font-size:15px;"> National Robotics Competition</strong>
+		<ul style="margin-top:-5px"> 
+			<li style="font-size:14.5px;margin-bottom:-5px;font-family:sans-serif;line-height:1.5;">Open Category Participation: Luei Yang Yi, ISAAC (1P3), Chin Wei Heng Ryven (1P4), Shieh Kingsley (1P2), Zander Khoo Ruiyu (1P2), Thiyagarajan Santosh (3I8), Galen Teow Zi Yu, Seth Micah Impuerto Gonida</li>
+		</ul>
 		<strong style="font-family:sans-serif;font-size:15px;">ROBOCUP SINGAPORE OPEN 2025</strong>
 		<li style="font-size:14.5px;margin-bottom:-5px;margin-top:10px;font-family:sans-serif;line-height:1.5;list-style-type: none; display: list-item; padding-left: 0; margin-left: 0;text-decoration: underline;">ONSTAGE</li>
 		<ul style="margin-top:-5px"> 
