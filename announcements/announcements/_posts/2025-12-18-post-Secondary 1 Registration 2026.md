@@ -53,8 +53,7 @@ If you meet the Cut-off Point (COP) for the respective posting groups and would 
 <h3 style="margin-top:10px;font-weight: bold;color:#000000">2026 Cohort Sec 1 Uniform and Textbook Purchases</h3>
 <p style="font-size:14.5px; line-height:2;margin-top:15px; font-family:sans-serif;">Parents are to make a booking via the link 
 <a href="https://www.pacificbookstores.com/login" style="font-size:14px; line-height:1.5;font-family:sans-serif;font-weight:bold;text-decoration: none;">https://www.pacificbookstores.com/login</a> to enter Pei Hwa Secondary School. You can use this time to purchase textbooks and/or uniforms.</p>
-<p style="font-size:14.5px; line-height:2;margin-top:15px; font-family:sans-serif;">* Please click <a href="https://drive.google.com/file/d/1Qu--2IJPHT-85QpNE4N61cQWNzusLLl0/view?usp=sharing" style="font-size:14.5px; line-height:1.5;font-family:sans-serif;font-weight:bold;text-decoration: none;">here</a>  for instructions on the purchase of school uniform. Do note that in the event of uniform sizes unavailability, do be assured that the school has made flexible arrangements
-should there be a need for your child to wear their primary school attire for the first week of school.</p>
+<p style="font-size:14.5px; line-height:2;margin-top:15px; font-family:sans-serif;">* Please click <a href="https://drive.google.com/file/d/1XNuzmsq95WnOG81MW7gXP9fiHNn9Xbto/view?usp=sharing" style="font-size:14.5px; line-height:1.5;font-family:sans-serif;font-weight:bold;text-decoration: none;">here</a>  for instructions on the purchase of school uniform. Do note that in the event of uniform sizes unavailability, do be assured that the school has made flexible arrangements should there be a need for your child to wear their primary school attire for the first week of school.</p>
 <p style="font-size:14.5px; line-height:2;margin-top:15px; font-family:sans-serif;">*Due to limited parking lots, parents are encouraged to park at the following public car parks that are conveniently located
 near the school:</p>
 <img style="width: 34%;" src="/images/unnamed-3-285x300.jpg">
@@ -80,7 +79,7 @@ notification. You can email them should you require any assistance.</p></td>
 <tr style="border-bottom: 1px solid #dddddd;">
 <td style="padding: 20px 15px;font-size:14.5px;font-family:sans-serif;"><strong style="font-family:sans-serif;">2.</strong></td>
 	<td style="padding: 6px 10px;font-size:14.5px;font-family:sans-serif;"><strong style="font-family:sans-serif;">Question</strong>: Will there be any Parent Talks during the registration?
-<p style="margin-top:10px;font-size:14.5px; line-height:2;font-family:sans-serif;"><strong style="font-family:sans-serif;">Answer</strong>:&nbsp;We have planned for the respective talks by the Principal as well as other school personnel to take place when school starts. More information will be sent to parents via Parents Gateway.</p></td>
+<p style="margin-top:10px;font-size:14.5px; line-height:2;font-family:sans-serif;"><strong style="font-family:sans-serif;">Answer</strong>:&nbsp;We have planned for the respective talks by the Principal as well as other school personnel to take place when school starts. More information will be sent to parents via <strong style="font-family:sans-serif;"> Parents Gateway. </strong></p></td>
 </tr>
 	
 	
