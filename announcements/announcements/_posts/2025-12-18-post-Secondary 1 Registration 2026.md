@@ -76,14 +76,14 @@ near the school:</p>
 <td style="padding: 20px 15px;font-family:sans-serif;width:10%;"><strong style="font-family:sans-serif;">1. </strong></td>
 	<td style="padding: 6px 10px;font-size:14.5px;font-family:sans-serif;"><strong style="font-family:sans-serif;">Question</strong>: Will there be Orientation for my child?
 
-<p style="margin-top:10px;font-size:14.5px; line-height:2;font-family:sans-serif;">	<strong style="font-family:sans-serif;">Answer</strong>:&nbsp;You will receive a notification via Parents Gateway about Orientation and your child’s Orientation Group (OG) <strong style="font-family:sans-serif;">by 27 December</strong>. The e-mail of the OG Teachers are stated in the
+<p style="margin-top:10px;font-size:14.5px; line-height:2;font-family:sans-serif;">	<strong style="font-family:sans-serif;">Answer</strong>:&nbsp;You will receive a notification via <strong style="font-family:sans-serif;">Parents Gateway</strong> about Orientation and your child’s Orientation Group (OG) <strong style="font-family:sans-serif;">29 December 2025 (Monday)</strong>. The e-mail of the OG Teachers are stated in the
 notification. You can email them should you require any assistance.</p></td>
 </tr>
 	
 <tr style="border-bottom: 1px solid #dddddd;">
 <td style="padding: 20px 15px;font-size:14.5px;font-family:sans-serif;"><strong style="font-family:sans-serif;">2.</strong></td>
 	<td style="padding: 6px 10px;font-size:14.5px;font-family:sans-serif;"><strong style="font-family:sans-serif;">Question</strong>: Will there be any Parent Talks during the registration?
-<p style="margin-top:10px;font-size:14.5px; line-height:2;font-family:sans-serif;"><strong style="font-family:sans-serif;">Answer</strong>:&nbsp;We have planned for the respective talks by the Principal as well as other school personnel to take place when school starts. More information will be sent to parents via <strong style="font-family:sans-serif;"> Parents Gateway. </strong></p></td>
+<p style="margin-top:10px;font-size:14.5px; line-height:2;font-family:sans-serif;"><strong style="font-family:sans-serif;">Answer</strong>:&nbsp;We have planned for the respective talks by the Principal as well as other school personnel to take place on Week 1. More information will be sent to parents via <strong style="font-family:sans-serif;"> Parents Gateway</strong>.</p></td>
 </tr>
 	
 	
