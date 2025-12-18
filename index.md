@@ -17,7 +17,7 @@ sections:
         - title: Pei Hwa Virtual Tour
           description: Click here for a virtual tour!
           url: https://tubear.co/3d-model/pei-hwa-sec-school/fullscreen/
-      background: /images/Open_House_2025_Outdoor_Banner__5_.png
+      background: /images/School_Website_Banner_as_of_190225.gif
   - textcards:
       title: Announcement
       id: textcards
