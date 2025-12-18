@@ -16,11 +16,15 @@ variant: markdown
 			<td style="border: 1px solid #dddfe1;font-size: 14.5px;font-family:sans-serif;">Release of Sec 1 Posting Results by MOE</td>
 		</tr>
 		<tr>
-			<td style="background-color:#0C6523; font-weight: bold; font-size: 14.5px;font-family:sans-serif; border: 1px solid #54585d; color:white;border-bottom: 1px solid #dddddd;">22 December 2025 (9am - 3pm)<br><br>
-23 December 2025 (9am - 3pm)<br><br>26 December 2025 (9am - 12pm)*</td>
-			<td style="border: 1px solid #dddfe1;font-size: 14.5px;font-family:sans-serif;">Purchase/ collection of School Textbooks and Uniform in Pei Hwa Secondary School<br><br><strong style="font-family:sans-serif;">22 - 23 December 2025</strong>: Strictly via booking appointment <strong style="font-family:sans-serif;">ONLY</strong>.<br><br> Please refer to the following link to book an appointment: <a href="https://www.pacificbookstores.com/login" style="font-size:14.5px; line-height:1.5;font-family:sans-serif;font-weight:bold;text-decoration: none;">https://www.pacificbookstores.com/login</a><br><br><strong style="font-family:sans-serif;">For 26 December 2025 only (9am - 12pm)</strong>: Walk-In Purchase / No booking is required<br><br>
+			<td style="background-color:#0C6523; font-weight: bold; font-size: 14.5px;font-family:sans-serif; border: 1px solid #54585d; color:white;border-bottom: 1px solid #dddddd;">22 December 2025 (9am - 3pm)*<br><br>
+23 December 2025 (9am - 3pm)*<br><br>26 December 2025 (9am - 12pm)**</td>
+			<td style="border: 1px solid #dddfe1;font-size: 14.5px;font-family:sans-serif;">Purchase/ collection of School Textbooks and Uniform in Pei Hwa Secondary School<br><br><strong style="font-family:sans-serif;">*22 - 23 December 2025</strong>: Strictly via booking appointment <strong style="font-family:sans-serif;">ONLY</strong>.<br><br> Please refer to the following link to book an appointment: <a href="https://www.pacificbookstores.com/login" style="font-size:14.5px; line-height:1.5;font-family:sans-serif;font-weight:bold;text-decoration: none;">https://www.pacificbookstores.com/login</a><br><br><strong style="font-family:sans-serif;">**For 26 December 2025 only (9am - 12pm)</strong>: Walk-In Purchase / No booking is required<br><br>
 Click <a href="https://drive.google.com/file/d/1XNuzmsq95WnOG81MW7gXP9fiHNn9Xbto/view?usp=sharing" style="font-size:14.5px; line-height:1.5;font-family:sans-serif;font-weight:bold;text-decoration: none;">here</a> for the booklist.
 			</td>
+		</tr>
+		<tr>
+			<td style="background-color:#0C6523;font-weight: bold; font-size: 14.5px; border: 1px solid #54585d; color:white;border-bottom: 1px solid #dddddd;width:20%;font-family:sans-serif;">26 Dec 2025 (12pm - 3pm)***</td>
+			<td style="border: 1px solid #dddfe1;font-size: 14.5px;font-family:sans-serif;">***Collection of School Textbooks and Uniform for <strong style="font-family:sans-serif;">MOE FAS students ONLY</strong> (Walk-in collection/ no booking necessary)</td>
 		</tr>
 		
 </tbody>
