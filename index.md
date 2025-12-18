@@ -22,10 +22,10 @@ sections:
       title: Announcement
       id: textcards
       cards:
-        - title: 2025 Secondary 1 Registration
+        - title: 2026 Secondary 1 Registration
           description: ""
           linktext: Learn more
-          url: https://www.peihwasec.moe.edu.sg/lp-announcement/secondary-1-registration/
+          url: /lp-announcement/secondary-1-registration/
         - title: 2025 DSA Application
           description: ""
           linktext: Learn more
