@@ -22,6 +22,10 @@ variant: markdown
 Click <a href="https://drive.google.com/file/d/1XNuzmsq95WnOG81MW7gXP9fiHNn9Xbto/view?usp=sharing" style="font-size:14.5px; line-height:1.5;font-family:sans-serif;font-weight:bold;text-decoration: none;">here</a> for the booklist.
 			</td>
 		</tr>
+		<tr>
+			<td style="background-color:#0C6523;font-weight: bold; font-size: 14.5px; border: 1px solid #54585d; color:white;border-bottom: 1px solid #dddddd;width:20%;font-family:sans-serif;">26 Dec 2025 (12pm - 3pm)</td>
+			<td style="border: 1px solid #dddfe1;font-size: 14.5px;font-family:sans-serif;">Collection of School Textbooks and Uniform for <strong style="font-family:sans-serif;">MOE FAS students ONLY</strong> (Walk-in collection/ no booking necessary)</td>
+		</tr>
 		
 </tbody>
 	</table>
