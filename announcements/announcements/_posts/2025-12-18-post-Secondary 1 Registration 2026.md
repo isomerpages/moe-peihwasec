@@ -53,6 +53,7 @@ Click <a href="https://drive.google.com/file/d/1XNuzmsq95WnOG81MW7gXP9fiHNn9Xbto
 <h3 style="margin-top:10px;font-weight: bold;color:#000000">Appeals for Transfer into Pei Hwa Secondary School (non-medical)</h3>
 <p style="font-size:14.5px; line-height:2;margin-top:15px; font-family:sans-serif;">The deadline for the submission of appeals is on <strong style="font-family:sans-serif;">26 December 2025 (Friday), 12:00pm.</strong> Late submissions will not be allowed.
 If you meet the Cut-off Point (COP) for the respective posting groups and would like to appeal to Pei Hwa Secondary School, you may submit an appeal via the link: <a href="https://go.gov.sg/phssappeal2026" style="font-size:14.5px; line-height:1.5;font-family:sans-serif;font-weight:bold;text-decoration: none;">https://go.gov.sg/phssappeal2026</a></p>
+<img style="margin-bottom:25px;" src="/images/WhatsApp_Image_2025_12_19_at_09_58_09.jpg">
 
 <h3 style="margin-top:10px;font-weight: bold;color:#000000">2026 Cohort Sec 1 Uniform and Textbook Purchases</h3>
 <p style="font-size:14.5px; line-height:2;margin-top:15px; font-family:sans-serif;">Parents are to make a booking via the link 
