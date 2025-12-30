@@ -33,6 +33,4 @@ variant: markdown
 	<li style="font-size:14.5px; line-height:1.5;font-family:sans-serif;">creating digital products.</li>
 	</ul>
 
-<a href="https://drive.google.com/file/d/1kWjikPAhYcxdsl4nfV5xZLqmPmIn7CeW/view?usp=sharing" style="font-size:14.5px; line-height:1;font-family:sans-serif;font-weight:bold;text-decoration: none;">Slides on Parent Engagement on 6 Jan</a>
-
-<a href="https://drive.google.com/file/d/1Pp44g0jKTY2pYPtTabixNXnrIbGfKTsG/view?usp=sharing" style="font-size:14.5px; line-height:1;font-family:sans-serif;font-weight:bold;text-decoration: none;">Additional Information Slides on PLD</a>
+<a href="https://drive.google.com/file/d/1FYGLVNpDcUnFLvBtZ8aJOqeqBuPg3eZV/view?usp=sharing" style="font-size:14.5px; line-height:1;font-family:sans-serif;font-weight:bold;text-decoration: none;">Parents Engagement Deck 2026</a>
