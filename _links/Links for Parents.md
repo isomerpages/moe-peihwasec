@@ -5,7 +5,21 @@ description: ""
 variant: markdown
 ---
 <div style="padding:70px;margin-top:-100px;max-width:100%">
-<h6 style="color:#0B6623;font-family:sans-serif;font-weight:bold;margin-top:30px;text-align:center;"><strong style="font-family:sans-serif;font-size:17px;color:#0B6623;">Parents</strong></h6>
+<h6 style="color:#0B6623;font-family:sans-serif;font-weight:bold;margin-top:30px;"><strong style="font-family:sans-serif;font-size:17px;color:#0B6623;">DSA Admission – Chinese and Modern Dance</strong></h6>
+	
+<p style="font-size:14.5px; line-height:2;margin-top:20px; font-family:sans-serif">At Pei Hwa Secondary School, we believe that a strong school and parents’ partnership is essential, and we value the opportunity to work closely with parents for our students’ holistic development and well-being.</p>
+	
+<ol style="margin-top:-5px;">
+<li style="font-size:14.5px;line-height:1.5;font-family:sans-serif;">Parents could use the following official modes of communication with the school/teachers:</li>
+	<ul style="margin-top:-5px;">
+<li style="font-size:14.5px; line-height:1.5;font-family:sans-serif;">Emails (Preferred)
+	<ul style="margin-top:-5px;">
+		<li style="font-size:14.5px; line-height:1.5;font-family:sans-serif;">Email addresses of the school staff are on the school website</li>
+		<li style="font-size:14.5px; line-height:1.5;font-family:sans-serif;">School’s generic email: <a style="font-size:14.5px; line-height:1.5;font-family:sans-serif;font-weight:bold;text-decoration: none;" href="https://www.google.com/search?q=peihwasec%40moe.edu.sg&amp;rlz=1C1GCEA_enSG1163SG1163&amp;oq=Pei+Hwa+generial+email&amp;gs_lcrp=EgZjaHJvbWUqCQgBECEYChigATIGCAAQRRg5MgkIARAhGAoYoAHSAQg5NTQ2ajBqN6gCCLACAfEFCM-dd_edsSTxBQjPnXf3nbEk&amp;sourceid=chrome&amp;ie=UTF-8&amp;safe=active&amp;ssui=on&amp;mstk=AUtExfBdYYcUZm1QVvp7E8OwkX18ULkZ2Uyc3dY-SMPZ7tWZyZ9rSPG02nRfbhe9YqlPT72wZy0Rn2UZ8FMRYZmnyPMkgnaW-1BzJ5XsXEqboSn8eypK1c0twT8XTOWVHce8kpYXKvbRSuqd_5573CAo3AampvXOHsODjxPoXk7P0tHHgKw46a5GkGiX_9FxJWDVodWay1YEuVJmefDjauziMcM8ksySyKRT9wjBgkw6gABIiq0qva9jomkwRwEhcFRvcTNw_FrfqB90d40mh0gpqlQH&amp;csui=3&amp;ved=2ahUKEwjUm6uEvbSQAxUAbmwGHZqZNTAQgK4QegQIARAD"> : peihwasec@moe.edu.sg</a></li></ul>
+
+</li><li style="font-size:14.5px; line-height:1.5;font-family:sans-serif;">Phone (General Office): 65009580</li></ul>
+		
+<li style="font-size:14.5px;line-height:1.5;font-family:sans-serif;">Respectful communication</li>		
 
 <div style="display:flex;flex-wrap: wrap; justify-content: space-between;">
 	<div style="flex: 1;border: 1px solid #ccc; padding: 10px 10px; display: flex; flex-direction: column;width:100%;gap: 10px;margin: 10px; background-color:white;background-color: #0B6623;flex: 0 0 calc(33.33% - 20px);" class="box"> 
@@ -33,4 +47,4 @@ variant: markdown
 </div>
 
 
-</div></div>
+</div></ol></div>
