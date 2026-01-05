@@ -1,5 +1,5 @@
 ---
-title: CCAs
+title: Co Curricular Activities
 permalink: /learning-at-pei-hwa/cca/
 description: ""
 variant: markdown
