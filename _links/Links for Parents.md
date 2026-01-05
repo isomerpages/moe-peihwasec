@@ -34,6 +34,9 @@ variant: markdown
 <li style="font-size:14.5px; line-height:1.5;font-family:sans-serif;">Our staff are committed to partner you with sincerity, integrity and professionalism.</li>
 		<li style="font-size:14.5px; line-height:1.5;font-family:sans-serif;">By showing mutual courtesy and respect, we set a positive example for our children.</li>
 		<li style="font-size:14.5px; line-height:1.5;font-family:sans-serif;">MOE values our staff and will take firm action to protect them against any unreasonable behaviour, harassment and abuse.</li>
+		
+<div style="padding:70px;margin-top:-100px;max-width:100%">
+<h6 style="color:#0B6623;font-family:sans-serif;font-weight:bold;margin-top:30px;text-align:center;"><strong style="font-family:sans-serif;font-size:17px;color:#0B6623;">Parents</strong></h6>
 
 <div style="display:flex;flex-wrap: wrap; justify-content: space-between;">
 <div style="flex: 1;border: 1px solid #ccc; padding: 10px 10px; display: flex; flex-direction: column;width:100%;gap: 10px;margin: 10px; background-color:white;background-color: #0B6623;flex: 0 0 calc(33.33% - 20px);" class="box"> 
@@ -54,4 +57,4 @@ variant: markdown
 </div>
 
 
-</div></ul></ol></div>
+</div></div></ul></ol></div>
