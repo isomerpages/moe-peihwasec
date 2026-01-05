@@ -36,12 +36,6 @@ variant: markdown
 		<li style="font-size:14.5px; line-height:1.5;font-family:sans-serif;">MOE values our staff and will take firm action to protect them against any unreasonable behaviour, harassment and abuse.</li>
 
 <div style="display:flex;flex-wrap: wrap; justify-content: space-between;">
-	<div style="flex: 1;border: 1px solid #ccc; padding: 10px 10px; display: flex; flex-direction: column;width:100%;gap: 10px;margin: 10px; background-color:white;background-color: #0B6623;flex: 0 0 calc(33.33% - 20px);" class="box"> 
-	<div style="flex: 1;" class="content"> 
-		<h5 style="text-align:center;padding-top:7px;"><a href="https://go.gov.sg/phss-loa-form" style="color:#FDBC58;font-family:sans-serif;font-weight:bold;font-size:18px;text-decoration: none;">Parent-School Engagement</a></h5>  
-	</div> 
-</div>
-	
 <div style="flex: 1;border: 1px solid #ccc; padding: 10px 10px; display: flex; flex-direction: column;width:100%;gap: 10px;margin: 10px; background-color:white;background-color: #0B6623;flex: 0 0 calc(33.33% - 20px);" class="box"> 
 	<div style="flex: 1;" class="content"> 
 		<h5 style="text-align:center;padding-top:7px;"><a href="https://go.gov.sg/phss-loa-form" style="color:#FDBC58;font-family:sans-serif;font-weight:bold;font-size:18px;text-decoration: none;">LOA</a></h5>  
@@ -53,8 +47,7 @@ variant: markdown
 		<h5 style="text-align:center;padding-top:7px;"><a href="https://pg.moe.edu.sg/" style="color:#FDBC58;font-family:sans-serif;font-weight:bold;font-size:18px;text-decoration: none;">Parent’s Gateway</a>  
 	</h5></div> 
 </div>
-	
-	
+
 <div style="flex: 1;border: 1px solid #ccc; padding: 0px; display: flex; flex-direction: column;width:100%;gap: 10px;margin: 10px; background-color:white;background-color: white; border:white; flex: 0 0 calc(33.33% - 20px);" class="box"> 
 	<div style="flex: 1;" class="content"> 
 	</div> 
