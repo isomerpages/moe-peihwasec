@@ -56,4 +56,4 @@ variant: markdown
 	</div> 
 </div>
 
-<p style="font-size:14.5px; line-height:2 ;margin-top:5px; font-family:sans-serif;" class="description">  For information regarding Sec 1 CCA allocation, please click <a href="mailto:tan\_kok\_kwang\_a@moe.edu.sg" style="font-size:14.5px; line-height:1.5;font-family:sans-serif;font-weight:bold;text-decoration: none;">here</a></p>
+<p style="font-size:14.5px; line-height:2 ;margin-top:5px; font-family:sans-serif;" class="description">  For information regarding Sec 1 CCA allocation, please click <a href="https://docs.google.com/document/d/1ycL8wy9hIPeTfkNIyoKaBDvfanyO2ZcM/edit?usp=sharing&amp;ouid=102803535184566839809&amp;rtpof=true&amp;sd=true" style="font-size:14.5px; line-height:1.5;font-family:sans-serif;font-weight:bold;text-decoration: none;">here</a></p>
