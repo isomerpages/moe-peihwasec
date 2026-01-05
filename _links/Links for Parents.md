@@ -19,7 +19,21 @@ variant: markdown
 
 </li><li style="font-size:14.5px; line-height:1.5;font-family:sans-serif;">Phone (General Office): 65009580</li></ul>
 		
-<li style="font-size:14.5px;line-height:1.5;font-family:sans-serif;">Respectful communication</li>		
+<li style="font-size:14.5px;line-height:1.5;font-family:sans-serif;">Respectful communication</li>
+	<ul style="margin-top:-5px;">
+<li style="font-size:14.5px; line-height:1.5;font-family:sans-serif;">Communication through official channels.
+<ul style="margin-top:-5px;">
+		<li style="font-size:14.5px; line-height:1.5;font-family:sans-serif;">Teachers are not expected to give their personal contact number to students and parents.</li></ul>
+	</li><li style="font-size:14.5px; line-height:1.5;font-family:sans-serif;">Communication during official working hours 7.30am to 5.30pm.
+	<ul style="margin-top:-5px;">
+		<li style="font-size:14.5px; line-height:1.5;font-family:sans-serif;">Parents should only communicate and engage with teachers within school hours during school days. Teachers are not expected to respond to parents’ queries after school hours, during weekend and school holidays.</li></ul></li>
+		<li style="font-size:14.5px; line-height:1.5;font-family:sans-serif;">Request to meet staff to be pre-arranged and preferably in the afternoons, before 5.30pm.</li></ul>
+	<li style="font-size:14.5px;line-height:1.5;font-family:sans-serif;">MOE – Parent Engagement Charters</li>
+	<p style="font-size:14.5px; line-height:2;margin-top:20px; font-family:sans-serif">Respecting our staff</p>
+	<ul style="margin-top:-5px;">
+<li style="font-size:14.5px; line-height:1.5;font-family:sans-serif;">Our staff are committed to partner you with sincerity, integrity and professionalism.</li>
+		<li style="font-size:14.5px; line-height:1.5;font-family:sans-serif;">By showing mutual courtesy and respect, we set a positive example for our children.</li>
+		<li style="font-size:14.5px; line-height:1.5;font-family:sans-serif;">MOE values our staff and will take firm action to protect them against any unreasonable behaviour, harassment and abuse.</li>
 
 <div style="display:flex;flex-wrap: wrap; justify-content: space-between;">
 	<div style="flex: 1;border: 1px solid #ccc; padding: 10px 10px; display: flex; flex-direction: column;width:100%;gap: 10px;margin: 10px; background-color:white;background-color: #0B6623;flex: 0 0 calc(33.33% - 20px);" class="box"> 
@@ -47,4 +61,4 @@ variant: markdown
 </div>
 
 
-</div></ol></div>
+</div></ul></ol></div>
