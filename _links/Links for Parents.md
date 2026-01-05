@@ -5,7 +5,7 @@ description: ""
 variant: markdown
 ---
 <div style="padding:70px;margin-top:-100px;max-width:100%">
-<h6 style="color:#0B6623;font-family:sans-serif;font-weight:bold;margin-top:30px;"><strong style="font-family:sans-serif;font-size:17px;color:#0B6623;">DSA Admission – Chinese and Modern Dance</strong></h6>
+<h6 style="color:#0B6623;font-family:sans-serif;font-weight:bold;margin-top:30px;"><strong style="font-family:sans-serif;font-size:17px;color:#0B6623;">Parent-School Engagement</strong></h6>
 	
 <p style="font-size:14.5px; line-height:2;margin-top:20px; font-family:sans-serif">At Pei Hwa Secondary School, we believe that a strong school and parents’ partnership is essential, and we value the opportunity to work closely with parents for our students’ holistic development and well-being.</p>
 	
