@@ -56,7 +56,7 @@ sections:
   - infopic:
       title: Celebrating Excellence, Championing Futures
       button: Learn More
-      url: /pride-of-pei-hwa/students/
+      url: /pride-of-pei-hwa/
       image: /images/Homepage/22102025_PHSS_319.jpg
       alt: Image alt text
       subtitle: EXCELLENCE TOGETHER
