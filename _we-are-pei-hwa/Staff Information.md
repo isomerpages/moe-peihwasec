@@ -162,10 +162,10 @@ variant: markdown
 		
 <tr>
 <td style="text-align:center; border: 1px solid #dddfe1;">
-<strong style="font-family:sans-serif;">SH Student Well-Being</strong>
+<strong style="font-family:sans-serif;">SH InfoComm Technology</strong>
 </td>
-<td style="text-align:center; border: 1px solid #dddfe1;font-family:sans-serif;">Mr Yang Chao kai Victor</td>
-<td style="text-align:center; border: 1px solid #dddfe1;font-family:sans-serif;">yang_chao_kai_victor@moe.edu.sg</td>
+<td style="text-align:center; border: 1px solid #dddfe1;font-family:sans-serif;">Mr Chua Qing Jun</td>
+<td style="text-align:center; border: 1px solid #dddfe1;font-family:sans-serif;">chua_qing_jun@moe.edu.sg</td>
 </tr>
 
 <tr>
@@ -186,16 +186,8 @@ variant: markdown
 
 <tr>
 <td style="text-align:center; border: 1px solid #dddfe1;"><strong style="font-family:sans-serif;">SH Design &amp; Technology</strong></td>
-<td style="text-align:center; border: 1px solid #dddfe1;font-family:sans-serif;">Mr Lim Jin Kng Emmanuel</td>
-<td style="text-align:center; border: 1px solid #dddfe1;font-family:sans-serif;">lim_jin_kng_emmanuel@moe.edu.sg</td>
-</tr>
-		
-<tr>
-<td style="text-align:center; border: 1px solid #dddfe1;">
-<strong style="font-family:sans-serif;">SH English and Literature </strong>
-</td>
-<td style="text-align:center; border: 1px solid #dddfe1;font-family:sans-serif;">Ms Nur Afiqah Zamri</td>
-<td style="text-align:center; border: 1px solid #dddfe1;font-family:sans-serif;">nur_afiqah_zamri@moe.edu.sg</td>
+<td style="text-align:center; border: 1px solid #dddfe1;font-family:sans-serif;">Mr Kang Yong Heng</td>
+<td style="text-align:center; border: 1px solid #dddfe1;font-family:sans-serif;">kang_yong_heng@moe.edu.sg</td>
 </tr>
 		
 <tr>
@@ -216,10 +208,18 @@ variant: markdown
 		
 <tr>
 <td style="text-align:center; border: 1px solid #dddfe1;">
-<strong style="font-family:sans-serif;">SH Personal and Aesthetic Development (INT)</strong>
+<strong style="font-family:sans-serif;">SH Personal and Aesthetic Development </strong>
 </td>
 <td style="text-align:center; border: 1px solid #dddfe1;font-family:sans-serif;">Mr Yeo Wei Qiang Kenneth</td>
 <td style="text-align:center; border: 1px solid #dddfe1;font-family:sans-serif;">kenneth_yeo_wei_qiang@moe.edu.sg</td>
+</tr>
+
+<tr>
+<td style="text-align:center; border: 1px solid #dddfe1;">
+<strong style="font-family:sans-serif;">SH Student Well-Being(Cov) </strong>
+</td>
+<td style="text-align:center; border: 1px solid #dddfe1;font-family:sans-serif;">Mr Harrick Tu</td>
+<td style="text-align:center; border: 1px solid #dddfe1;font-family:sans-serif;">tu_harrick_iskandar@moe.edu.sg</td>
 </tr>
 		
 <tr>
@@ -248,8 +248,8 @@ variant: markdown
 	
 <tr>
 <td style="text-align:center; border: 1px solid #dddfe1;"><strong style="font-family:sans-serif;">Administration Manager</strong></td>
-<td style="text-align:center; border: 1px solid #dddfe1;font-family:sans-serif;">Ms Chan Xin Wei</td>
-	<td style="text-align:center; border: 1px solid #dddfe1;font-family:sans-serif;">chan_xin_wei_1@moe.edu.sg</td>
+<td style="text-align:center; border: 1px solid #dddfe1;font-family:sans-serif;">Ms Ho Jai Yi Elicia</td>
+	<td style="text-align:center; border: 1px solid #dddfe1;font-family:sans-serif;">elicia_ho@moe.edu.sg</td>
 </tr>
 	
 <tr>
