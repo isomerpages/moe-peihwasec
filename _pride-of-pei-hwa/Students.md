@@ -1,6 +1,6 @@
 ---
 title: Students
-permalink: /pride-of-pei-hwa/students/
+permalink: /pride-of-pei-hwa/
 description: ""
 variant: markdown
 ---
