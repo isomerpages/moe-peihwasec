@@ -501,7 +501,6 @@ variant: tiptap
 <tr>
 <td rowspan="2" colspan="1">
 <p></p>
-<p></p>
 <p><strong>Passion 1</strong>
 </p>
 </td>
@@ -1199,6 +1198,9 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
+</li>
+<li>
+<p></p>
 </li>
 </ul>
 <p></p>
