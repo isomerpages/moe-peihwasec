@@ -869,7 +869,7 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Designation</strong>
+<p><strong>Class</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1057,7 +1057,7 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Designation</strong>
+<p><strong>Class</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1165,56 +1165,68 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
 <p><strong>Dare 6</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Tay Swee Hoe</p>
-<p>
-<br>Miss Udhaya Chandhini d/o Mugilvanan</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:tay_swee_hoe@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tay_swee_hoe@moe.edu.sg</a>
-</p>
-<p>
-<br><a href="mailto:udhaya_chandhini_mugilvanan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">udhaya_chandhini_mugilvanan@moe.edu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Miss Udhaya Chandhini d/o Mugilvanan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:udhaya_chandhini_mugilvanan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">udhaya_chandhini_mugilvanan@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
 <p><strong>Dare 7</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Goh Kok Soon Ronnie</p>
-<p>
-<br>Mr Ng Tiong Ghee</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:goh_kok_soon@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">goh_kok_soon@moe.edu.sg</a>
-</p>
-<p>
-<br><a href="mailto:ng_tiong_ghee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng_tiong_ghee@moe.edu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mr Ng Tiong Ghee</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:ng_tiong_ghee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng_tiong_ghee@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
 <p><strong>Dare 8</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Miss Chua Jin Xia Valerie</p>
-<p>
-<br>Mr Nicholas Ng Pit Shen</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:chua_jin_xia_valerie@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chua_jin_xia_valerie@moe.edu.sg</a>
 </p>
-<p>
-<br><a href="mailto:ng_pit_shen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng_pit_shen@moe.edu.sg</a>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Nicholas Ng Pit Shen</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:ng_pit_shen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng_pit_shen@moe.edu.sg</a>
 </p>
 </td>
 </tr>
