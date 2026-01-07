@@ -552,32 +552,35 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
 <p><strong>Passion 3</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Miss Heera Farzana</p>
-<p>
-<br>Mr Chua Qing Jun</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="heera_farzana@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">heera_farzana@moe.edu.sg</a>
-</p>
-<p></p>
-<p><a href="mailto:chua_qing_jun@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chua_qing_jun@moe.edu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mr Chua Qing Jun</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:chua_qing_jun@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chua_qing_jun@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
 <p><strong>Passion 4</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Miss Thong Jia Man Bernice</p>
-<p>
-<br>Mr Yeo Woei Ter</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:thong_jia_man_bernice@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">thong_jia_man_bernice@moe.edu.sg</a>
@@ -587,72 +590,97 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mr Yeo Woei Ter</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:yeo_woei_ter@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yeo_woei_ter@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
 <p><strong>Passion 5</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Nordiana Bte Abbas</p>
-<p>
-<br>Mr Lee Kwang Ming</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:nordiana_abbas@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nordiana_abbas@moe.edu.sg</a>
-</p>
-<p>
-<br><a href="mailto:lee_kwang_ming@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lee_kwang_ming@moe.edu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mr Lee Kwang Ming</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:lee_kwang_ming@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lee_kwang_ming@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
 <p><strong>Passion 6</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Lim Guat Hong</p>
-<p>
-<br>Mr Go Qing Lin, Kenson</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:lim_guat_hong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_guat_hong@moe.edu.sg</a>
 </p>
-<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Go Qing Lin, Kenson</p>
+</td>
+<td rowspan="1" colspan="1">
 <p><a href="mailto:go_qing_lin_kenson@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">go_qing_lin_kenson@schools.gov.sg</a>
 </p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
 <p><strong>Passion 7</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Miss Tan Jiewen</p>
-<p></p>
-<p>Miss Nur Fateha Bte Kamsani</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:tan_jiewen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_jiewen@moe.edu.sg</a>
-</p>
-<p></p>
-<p><a href="mailto:nur_fateha_kamsani@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nur_fateha_kamsani@moe.edu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Miss Nur Fateha Bte Kamsani</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:nur_fateha_kamsani@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nur_fateha_kamsani@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
 <p><strong>Passion 8</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Neo Peck Wee Joel</p>
-<p></p>
-<p>Miss Wong Ser Ching</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:neo_peck_wee_joel@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">neo_peck_wee_joel@moe.edu.sg</a>
 </p>
-<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Miss Wong Ser Ching</p>
+</td>
+<td rowspan="1" colspan="1">
 <p><a href="mailto:wong_ser_ching@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wong_ser_ching@moe.edu.sg</a>
 </p>
 </td>
