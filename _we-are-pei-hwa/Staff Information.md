@@ -521,24 +521,32 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="3" colspan="1">
 <p><strong>Passion 2</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Tai Bee Chuan</p>
-<p></p>
-<p>Mr Mohammed Shaiful Abu Bakar</p>
-<p>
-<br>Mdm Afizah Binte Shaik Abdul Rahim</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:tai_bee_chuan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tai_bee_chuan@moe.edu.sg</a>
 </p>
-<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Mohammed Shaiful Abu Bakar</p>
+</td>
+<td rowspan="1" colspan="1">
 <p><a href="mailto:Mohammed_Shaiful_Abu_Bakar@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mohammed_Shaiful_Abu_Bakar@moe.edu.sg</a>
 </p>
-<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Afizah Binte Shaik Abdul Rahim</p>
+</td>
+<td rowspan="1" colspan="1">
 <p><a href="mailto:afizah_shaik_abdul_rahim@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">afizah_shaik_abdul_rahim@moe.edu.sg</a>
 </p>
 </td>
