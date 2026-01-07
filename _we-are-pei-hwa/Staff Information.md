@@ -474,6 +474,7 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
+<p></p>
 </li>
 <li>
 <p>Secondary 1 Classes 2026</p>
@@ -580,12 +581,10 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Miss Thong Jia Man Bernice</p>
-<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:thong_jia_man_bernice@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">thong_jia_man_bernice@moe.edu.sg</a>
 </p>
-<p></p>
 </td>
 </tr>
 <tr>
@@ -687,6 +686,7 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
+<p></p>
 </li>
 <li>
 <p>Secondary 2 Classes 2026</p>
