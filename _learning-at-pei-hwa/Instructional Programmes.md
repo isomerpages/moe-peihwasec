@@ -12,6 +12,9 @@ variant: markdown
 
 <p style="font-size:14.5px; line-height:2;font-family:sans-serif;margin-top:0px;"> At Pei Hwa, we stretch learning through extensions of learning such as:</p>
 
+
+<p style="font-size:14.5px; line-height:2 ;margin-top:5px; font-family:sans-serif;" class="description">The <strong style="font-family:sans-serif;">Infocomm Club</strong> is a co-curricular activity that centers around the domains of information, communication, and technology.</p>
+
 <h6 style="color:#0B6623;font-family:sans-serif;font-weight:bold;margin-top:30px;"><strong style="font-family:sans-serif;font-size:17px;color:#0B6623;">Talent Areas</strong></h6>
 <p style="font-size:14.5px; line-height:2;margin-top:5px;margin-bottom:0;font-family:sans-serif;">The following talent areas are offered at Pei Hwa Secondary School:</p>
 
