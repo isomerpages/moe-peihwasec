@@ -39,10 +39,10 @@ variant: markdown
 <p style="font-size:14.5px; line-height:2;font-family:sans-serif;margin-top:0px;">At Pei Hwa, we stretch learning through extensions of learning such as:</p>
 
 <ul style="margin-top:-5px">
-	<li style="font-size:14.5px; line-height:1.5; font-family:sans-serif;"> Activating learning by spark thinking and curiosity</li>
-<li style="font-size:14.5px; line-height:1.5; font-family:sans-serif;"> Promoting thinking and discussion to deepen learning</li>
-<li style="font-size:14.5px; line-height:1.5; font-family:sans-serif;"> Facilitate meaningful demonstrations of learning</li>
-	<li style="font-size:14.5px; line-height:1.5; font-family:sans-serif;"> Monitor and provide timely feedback for growth</li>
+	<li style="font-size:14.5px; line-height:1.5; font-family:sans-serif;"><a href="https://go.gov.sg/moe-sexuality-education" style="font-size:14.5px; line-height:1.5;font-family:sans-serif;font-weight:bold;text-decoration: none;">Future Leaders Programme</a></li>
+<li style="font-size:14.5px; line-height:1.5; font-family:sans-serif;"><a href="https://go.gov.sg/moe-sexuality-education" style="font-size:14.5px; line-height:1.5;font-family:sans-serif;font-weight:bold;text-decoration: none;">Pei Hwa Talent Academy</a></li>
+<li style="font-size:14.5px; line-height:1.5; font-family:sans-serif;"><a href="https://go.gov.sg/moe-sexuality-education" style="font-size:14.5px; line-height:1.5;font-family:sans-serif;font-weight:bold;text-decoration: none;">Enrichment Opportunities</a></li>
+	<li style="font-size:14.5px; line-height:1.5; font-family:sans-serif;"> Student-initiated Learning</li>
 	</ul>
 
-<p style="font-size:14.5px; line-height:2 ;margin-top:5px; font-family:sans-serif;" class="description">At the core of our Teaching and Learning approach are our interactions—between the learning content, students and teachers—that make learning purposeful and engaging. </p>
+<p style="font-size:14.5px; line-height:1.5; font-family:sans-serif;" class="description">These help students discover strengths, pursue passions, and build confidence to become Future-Ready Learners.</p>
