@@ -12,12 +12,37 @@ variant: markdown
 
 <p style="font-size:14.5px; line-height:2;font-family:sans-serif;margin-top:0px;"> At Pei Hwa, we stretch learning through extensions of learning such as:</p>
 
+<ul style="margin-top:-5px">
+	<li style="font-size:14.5px; line-height:1.5; font-family:sans-serif;"> <strong style="font-family:sans-serif;">Explore</strong> ideas and possibilities</li>
+<li style="font-size:14.5px; line-height:1.5; font-family:sans-serif;"> <strong style="font-family:sans-serif;">Collaborate</strong> meaningfully with others</li>
+<li style="font-size:14.5px; line-height:1.5; font-family:sans-serif;"> <strong style="font-family:sans-serif;">Create</strong> solutions and new understandings</li>
+	</ul>
 
-<p style="font-size:14.5px; line-height:2 ;margin-top:5px; font-family:sans-serif;" class="description">The <strong style="font-family:sans-serif;">Infocomm Club</strong> is a co-curricular activity that centers around the domains of information, communication, and technology.</p>
 
-<h6 style="color:#0B6623;font-family:sans-serif;font-weight:bold;margin-top:30px;"><strong style="font-family:sans-serif;font-size:17px;color:#0B6623;">Talent Areas</strong></h6>
-<p style="font-size:14.5px; line-height:2;margin-top:5px;margin-bottom:0;font-family:sans-serif;">The following talent areas are offered at Pei Hwa Secondary School:</p>
+<p style="font-size:14.5px; line-height:2 ;margin-top:5px; font-family:sans-serif;" class="description">These habits guide both classroom instruction and broader learning experiences at Pei Hwa, developing  <strong style="font-family:sans-serif;">E21CCs like Critical and Adaptive Thinking, Civic Literacy and Communication skills </strong> in Pei Hwa-ians. </p>
 
-<h6 style="color:#0B6623;font-family:sans-serif;font-weight:bold;margin-top:30px;"><strong style="font-family:sans-serif;font-size:17px;color:#0B6623;">Application</strong></h6>
+<h6 style="color:#0B6623;font-family:sans-serif;font-weight:bold;margin-top:30px;"><strong style="font-family:sans-serif;font-size:17px;color:#0B6623;">Thoughtful Classroom Design through the Active Learning Process</strong></h6>
 
-<p style="font-size:14.5px; line-height:2;margin-top:5px;margin-bottom:0;font-family:sans-serif;">Application for DSA-Sec can be submitted through the online DSA-Sec Portal. The application is free-of-charge and will be open from Wed, 7 May 2025, 11am to Tue, 3 Jun 2025, 3pm.</p>
+<p style="font-size:14.5px; line-height:2;font-family:sans-serif;margin-top:0px;">Every lesson is intentionally designed through the  <strong style="font-family:sans-serif;"> Active Learning Process </strong> by:</p>
+
+<ul style="margin-top:-5px">
+	<li style="font-size:14.5px; line-height:1.5; font-family:sans-serif;"> Activating learning by spark thinking and curiosity</li>
+<li style="font-size:14.5px; line-height:1.5; font-family:sans-serif;"> Promoting thinking and discussion to deepen learning</li>
+<li style="font-size:14.5px; line-height:1.5; font-family:sans-serif;"> Facilitate meaningful demonstrations of learning</li>
+	<li style="font-size:14.5px; line-height:1.5; font-family:sans-serif;"> Monitor and provide timely feedback for growth</li>
+	</ul>
+
+<p style="font-size:14.5px; line-height:2 ;margin-top:5px; font-family:sans-serif;" class="description">At the core of our Teaching and Learning approach are our interactions—between the learning content, students and teachers—that make learning purposeful and engaging. </p>
+
+<h6 style="color:#0B6623;font-family:sans-serif;font-weight:bold;margin-top:30px;"><strong style="font-family:sans-serif;font-size:17px;color:#0B6623;">Learning Beyond the Classroom</strong></h6>
+
+<p style="font-size:14.5px; line-height:2;font-family:sans-serif;margin-top:0px;">At Pei Hwa, we stretch learning through extensions of learning such as:</p>
+
+<ul style="margin-top:-5px">
+	<li style="font-size:14.5px; line-height:1.5; font-family:sans-serif;"> Activating learning by spark thinking and curiosity</li>
+<li style="font-size:14.5px; line-height:1.5; font-family:sans-serif;"> Promoting thinking and discussion to deepen learning</li>
+<li style="font-size:14.5px; line-height:1.5; font-family:sans-serif;"> Facilitate meaningful demonstrations of learning</li>
+	<li style="font-size:14.5px; line-height:1.5; font-family:sans-serif;"> Monitor and provide timely feedback for growth</li>
+	</ul>
+
+<p style="font-size:14.5px; line-height:2 ;margin-top:5px; font-family:sans-serif;" class="description">At the core of our Teaching and Learning approach are our interactions—between the learning content, students and teachers—that make learning purposeful and engaging. </p>
