@@ -1338,8 +1338,5 @@ variant: tiptap
 </tbody>
 </table>
 </li>
-<li>
-<p></p>
-</li>
 </ul>
 <p></p>
