@@ -10,7 +10,7 @@ variant: markdown
 
 <h6 style="color:#0B6623;font-family:sans-serif;font-weight:bold;"><strong style="font-family:sans-serif;font-size:17px;color:#0B6623;">Teaching &amp; Learning at Pei Hwa: Engaging Hearts and Minds for the Future </strong></h6>
 
-<p style="font-size:14.5px; line-height:1.5; font-family:sans-serif;">At Pei Hwa Secondary School, we design learning experiences that prepare students to be <a href="https://www.peihwasec.moe.edu.sg/we-are-pei-hwa/our-vision-mission-and-values/" style="font-size:14.5px; line-height:1.5;font-family:sans-serif;font-weight:bold;text-decoration: none;">be Future-Ready Learners</a> with <a href="https://www.moe.gov.sg/education-in-sg/21st-century-competencies" style="font-size:14.5px; line-height:1.5;font-family:sans-serif;font-weight:bold;text-decoration: none;">Emerging 21st Century Competencies (E21CCs)</a></p>
+<p style="font-size:14.5px; line-height:1.5; font-family:sans-serif;">At Pei Hwa Secondary School, we design learning experiences that prepare students to be <a href="https://www.peihwasec.moe.edu.sg/we-are-pei-hwa/our-vision-mission-and-values/" style="font-size:14.5px; line-height:1.5;font-family:sans-serif;font-weight:bold;text-decoration: none;"> Future-Ready Learners</a> with <a href="https://www.moe.gov.sg/education-in-sg/21st-century-competencies" style="font-size:14.5px; line-height:1.5;font-family:sans-serif;font-weight:bold;text-decoration: none;">Emerging 21st Century Competencies (E21CCs)</a></p>
 
 <h6 style="color:#0B6623;font-family:sans-serif;font-weight:bold;"><strong style="font-family:sans-serif;font-size:17px;color:#0B6623;">Our Approach: Explore. Collaborate. Create.</strong></h6>
 
