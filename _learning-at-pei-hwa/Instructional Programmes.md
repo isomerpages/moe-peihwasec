@@ -46,3 +46,9 @@ variant: markdown
 	</ul>
 
 <p style="font-size:14.5px; line-height:1.5; font-family:sans-serif;" class="description">These help students discover strengths, pursue passions, and build confidence to become Future-Ready Learners.</p>
+
+<h6 style="color:#0B6623;font-family:sans-serif;font-weight:bold;margin-top:30px;"><strong style="font-family:sans-serif;font-size:17px;color:#0B6623;">Driving Deeper Engagement</strong></h6>
+
+<p style="font-size:14.5px; line-height:2;font-family:sans-serif;margin-top:0px;">We support students through three key drivers:</p>
+
+<h6 style="color:#0B6623;font-family:sans-serif;font-weight:bold;margin-top:30px;"><strong style="font-family:sans-serif;font-size:17px;color:#0B6623;">Driving Deeper Engagement</strong></h6>
