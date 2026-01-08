@@ -1138,97 +1138,121 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
 <p><strong>Dare 1</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Tu Harrick Iskandar</p>
-<p>
-<br>Miss Wong Ping Fang Claire</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:tu_harrick_iskandar@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tu_harrick_iskandar@moe.edu.sg</a>
-</p>
-<p>
-<br><a href="mailto:wong_ping_fang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wong_ping_fang@moe.edu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Miss Wong Ping Fang Claire</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:wong_ping_fang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wong_ping_fang@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="3" colspan="1">
 <p><strong>Dare 2</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Miss Koh Ting Suen Jewel</p>
-<p>
-<br>Miss Shenu Binte Hamidun</p>
-<p>
-<br>Mr Tan Aik Fong</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:koh_ting_suen_jewel@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">koh_ting_suen_jewel@moe.edu.sg</a>
-</p>
-<p>
-<br><a href="mailto:shenu_hamidun@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">shenu_hamidun@moe.edu.sg</a>
-</p>
-<p>
-<br><a href="mailto:tan_aik_fong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_aik_fong@moe.edu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Miss Shenu Binte Hamidun</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:shenu_hamidun@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">shenu_hamidun@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Tan Aik Fong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:tan_aik_fong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_aik_fong@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
 <p><strong>Dare 3</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Anna Foo Tsuey Yun</p>
-<p>
-<br>Miss Tan Hui Ping</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:foo_tsuey_yun@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">foo_tsuey_yun@moe.edu.sg</a>
-</p>
-<p>
-<br><a href="mailto:tan_hui_ping@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_hui_ping@moe.edu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Miss Tan Hui Ping</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:tan_hui_ping@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_hui_ping@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
 <p><strong>Dare 4</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Miss Jaime Toh Guek Peng</p>
-<p>
-<br>Miss Lim Sin Ee Rachel</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:jaime_toh_guek_peng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">jaime_toh_guek_peng@moe.edu.sg</a>
-</p>
-<p>
-<br><a href="mailto:lim_sin_ee_rachel@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_sin_ee_rachel@moe.edu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Miss Lim Sin Ee Rachel</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:lim_sin_ee_rachel@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_sin_ee_rachel@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
 <p><strong>Dare 5</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Chen Peishi</p>
-<p>
-<br>Mdm Lin Airong Michelle (Mrs Neo)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:chen_pei_shi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chen_pei_shi@moe.edu.sg</a>
 </p>
-<p>
-<br><a href="mailto:lin_airong_michelle@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lin_airong_michelle@moe.edu.sg</a>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Lin Airong Michelle (Mrs Neo)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:lin_airong_michelle@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lin_airong_michelle@moe.edu.sg</a>
 </p>
 </td>
 </tr>
