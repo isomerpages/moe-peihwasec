@@ -238,7 +238,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Assistant Year Head <br>(Upper Sec)</strong>
+<p><strong>Assistant Year Head <br>(Lower Sec)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -251,7 +251,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Assistant Year Head <br>(Lower Sec) (INT)</strong>
+<p><strong>Assistant Year Head <br>(Upper Sec)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
