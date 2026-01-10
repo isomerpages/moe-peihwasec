@@ -6,7 +6,7 @@ variant: markdown
 ---
 <img style="width: 100%; height: auto;margin-top:30px;" alt="Image" src="/images/Learning%20@%20Pei%20Hwa/Instructional%20Programme/Banner/instructionalprogrammebanner.png">
 
-<img style="width: 100%; height: auto;margin-top:30px;" alt="Image" src="/images/Learning%20@%20Pei%20Hwa/Instructional%20Programme/Banner/InstructionalProg.png">
+<img style="width: 100%; height: auto;margin-top:30px;" alt="Image" src="/images/Learning%20@%20Pei%20Hwa/Instructional%20Programme/Banner/instructionalprog.jpg">
 
 <h6 style="color:#0B6623;font-family:sans-serif;font-weight:bold;"><strong style="font-family:sans-serif;font-size:17px;color:#0B6623;">Teaching &amp; Learning at Pei Hwa: Engaging Hearts and Minds for the Future </strong></h6>
 
