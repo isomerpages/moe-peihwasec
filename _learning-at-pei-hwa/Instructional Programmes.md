@@ -14,7 +14,7 @@ variant: markdown
 
 <h6 style="color:#0B6623;font-family:sans-serif;font-weight:bold;"><strong style="font-family:sans-serif;font-size:17px;color:#0B6623;">Our Approach: Explore. Collaborate. Create.</strong></h6>
 
-<p style="font-size:14.5px; line-height:2;font-family:sans-serif;margin-top:0px;"> At Pei Hwa, we stretch learning through extensions of learning such as:</p>
+<p style="font-size:14.5px; line-height:2;font-family:sans-serif;margin-top:0px;"> Our teaching is anchored in three learning habits we nurture in students:</p>
 
 <ul style="margin-top:-5px">
 	<li style="font-size:14.5px; line-height:1.5; font-family:sans-serif;"> <strong style="font-family:sans-serif;">Explore</strong> ideas and possibilities</li>
