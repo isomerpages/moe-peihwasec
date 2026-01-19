@@ -374,13 +374,14 @@ Lesson 2<br>(60 mins)</td>
 			<li style="font-size:14.5px; line-height:2;font-family:sans-serif;">Raise awareness and provide knowledge on:
 </li>
 				<ol>
-					<li style="font-size:14.5px; line-height:2;font-family:sans-serif;">Infectious diseases (STIs and HIV): what it is, how it spreads, how to prevent infection mainly through ABC (abstinence, being faithful, correct, and consistent condom use).</li>
-					<li style="font-size:14.5px; line-height:2;font-family:sans-serif;">Managing relationships and risky situations in a healthy way.</li>
+					<li style="font-size:14.5px; line-height:2;font-family:sans-serif;">Sexually transmitted infectious diseases (STIs and HIV): what it is, how it spreads, how to prevent infection mainly through ABC (abstinence, being faithful, correct, and consistent condom use), consequences and impact</li>
+					<li style="font-size:14.5px; line-height:2;font-family:sans-serif;">Skills for respecting boundaries (e.g. decision-making, assertiveness, negotiation to say ‘no’ to peer pressure)</li>
+					<li style="font-size:14.5px; line-height:2;font-family:sans-serif;">Managing relationships and risky situations in a healthy way, including avenues for help-seeking.</li>
 				</ol>
 		</ul>
 		</td>
 		<td style="font-size:14.5px; font-family:sans-serif;line-height:2">
-			Term 2 Week 2</td>
+			Term 2 Week 6</td>
 </tr>
 									
 <tr style="background-color:#f3f3f3;border-bottom: 2px solid #009879;">
@@ -393,7 +394,7 @@ Lesson 2<br>(60 mins)</td>
 		</ul>
 		</td>
 		<td style="font-size:14.5px;font-family:sans-serif; line-height:2">
-			Term 2 Week 6</td>
+			Term 2 Week 7</td>
 </tr>
 				
 
