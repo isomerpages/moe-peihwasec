@@ -353,7 +353,7 @@ Lesson 2<br>(60 mins)</td>
 
 <p style="margin-top:0px;font-size:14.5px; line-height:2;font-family:sans-serif;">Students are taught skills such as decision-making, assertiveness and negotiation to say “no” to sex and negative peer pressure. They also learn that the impact of STIs/HIV extends beyond themselves and involves their family, and the importance of responsible decision-making and seeking help. Abstinence and upholding family values are the key messages.</p>
 
-<h6 style="color:#0B6623;;font-family:sans-serif;font-weight:bold;"><strong style="font-family:sans-serif;font-size:17px;color:#0B6623;">At Pei Hwa Secondary School, the <em style="font-weight: bold;margin: 0;color:#0B6623;">eTeens</em> programme will be implemented as follows in 2025:</strong></h6>
+<h6 style="color:#0B6623;;font-family:sans-serif;font-weight:bold;"><strong style="font-family:sans-serif;font-size:17px;color:#0B6623;">At Pei Hwa Secondary School, the <em style="font-weight: bold;margin: 0;color:#0B6623;">eTeens</em> programme will be implemented as follows in 2026:</strong></h6>
 
 <table border="1" style="border-collapse: collapse;margin: 25px 0;font-size:15px;font-family: sans-serif;box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);">
 <thead style="background-color: #009879; font-weight: bold; font-size: 14.5px;">
