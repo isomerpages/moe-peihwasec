@@ -111,7 +111,7 @@ of Sexuality Education in the school curriculum.</p>
 </tbody>
 </table>
 
-<img src="/images/Learning%20@%20Pei%20Hwa/CCE_SEC_1_2025.png">
+<img src="/images/Learning%20@%20Pei%20Hwa/cce_sec1_2026.png">
 
  <p style="margin-top:15px;font-size:17px;"><strong style="font-family:sans-serif;">SECONDARY 2<br></strong></p>
 
@@ -177,7 +177,7 @@ Students will also learn about the definitions of biological sex, gender identit
 </tbody>
 </table>
 
-<img src="/images/Learning%20@%20Pei%20Hwa/CCE_SEC_1_2025.png">
+<img src="/images/Learning%20@%20Pei%20Hwa/cce_sec1_2026.png">
 
  <p style="margin-top:15px;font-size:17px;"><strong style="font-family:sans-serif;">SECONDARY 3<br></strong></p>
 
@@ -241,7 +241,7 @@ Lesson 2<br>(60 mins)</td>
 </tbody>
 </table>
 
-<img src="/images/Learning%20@%20Pei%20Hwa/CCE_SEC_1_2025.png">
+<img src="/images/Learning%20@%20Pei%20Hwa/cce_sec1_2026.png">
 
  <p style="margin-top:15px;font-size:17px;"><strong style="font-family:sans-serif;">SECONDARY 4<br></strong></p>
 
@@ -314,7 +314,7 @@ Lesson 2<br>(60 mins)</td>
 </tbody>
 </table>
 
-<img src="/images/Learning%20@%20Pei%20Hwa/CCE_SEC_1_2025.png">
+<img src="/images/Learning%20@%20Pei%20Hwa/cce_sec1_2026.png">
 
  <p style="margin-top:15px;font-size:17px;"><strong style="font-family:sans-serif;">SECONDARY 5<br></strong></p>
 
