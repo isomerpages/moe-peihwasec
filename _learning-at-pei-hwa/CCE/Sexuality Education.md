@@ -28,7 +28,7 @@ foundation for strong families);</li>
 <p style="margin-top:15px;font-size:14.5px; line-height:2;font-family:sans-serif;">You may click&nbsp;<a href="https://go.gov.sg/moe-sexuality-education" style="font-size:14.5px; line-height:1.5;font-family:sans-serif;font-weight:bold;text-decoration: none;">here</a>&nbsp;for more information on MOE Sexuality Education.</p>
 
 
-<h6 style="color:#0B6623;;font-family:sans-serif;font-weight:bold;"><strong style="font-family:sans-serif;font-size:17px;color:#0B6623;">Overview of Pei Hwa Secondary School's Sexuality Education Programme for 2025</strong></h6>
+<h6 style="color:#0B6623;;font-family:sans-serif;font-weight:bold;"><strong style="font-family:sans-serif;font-size:17px;color:#0B6623;">Overview of Pei Hwa Secondary School's Sexuality Education Programme for 2026</strong></h6>
 
 <p style="margin-top:0px;font-size:14.5px; line-height:2;font-family:sans-serif;">Sexuality Education is delivered in a holistic manner through the school curriculum. The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law. You may click <a href="https://go.gov.sg/moe-sexuality-education-scope" style="font-size:14.5px; line-height:1.5;font-family:sans-serif;font-weight:bold;text-decoration: none;">here</a> for more information on the scope
 of Sexuality Education in the school curriculum.</p>
@@ -45,9 +45,9 @@ of Sexuality Education in the school curriculum.</p>
 
 <p style="margin-top:0px;font-size:14.5px; line-height:2;font-family:sans-serif;">Through the Sexuality Education lessons, secondary students will have the opportunity to develop a positive self-esteem, develop their character, and expand their understanding and repertoire of skills to deal with various issues related to sexuality, which are of prime concern at this age.</p>
 
-<h6 style="color:#0B6623;font-family:sans-serif;font-weight:bold;"><strong style="font-family:sans-serif;font-size:17px;color:#0B6623;">At Pei Hwa Secondary School, the following Sexuality Education lessons will be taught in 2025:</strong></h6>
+<h6 style="color:#0B6623;font-family:sans-serif;font-weight:bold;"><strong style="font-family:sans-serif;font-size:17px;color:#0B6623;">At Pei Hwa Secondary School, the following Sexuality Education lessons will be taught in 2026:</strong></h6>
 
-<img src="/images/Learning%20@%20Pei%20Hwa/CCE_SEC_1_2025.png">
+<img src="/images/Learning%20@%20Pei%20Hwa/cce_sec1_2026.png">
 
  <p style="margin-top:15px;font-size:17px;"><strong style="font-family:sans-serif;">SECONDARY 1<br></strong></p>
 
@@ -403,8 +403,8 @@ Lesson 2<br>(60 mins)</td>
 <h6 style="color:#0B6623;;font-family:sans-serif;font-weight:bold;"><strong style="font-family:sans-serif;font-size:17px;color:#0B6623;">Information for Parents</strong></h6>
 <p style="font-size:14.5px; line-height:2;margin-top:0px; font-family:sans-serif">Parents may opt their children out of the Sexuality Education lessons, <em style="font-family:sans-serif;">eTeens</em> and/or supplementary sexuality education programmes by MOE-approved external providers. </p>
 
- <p style="margin-top:0px;font-size:14.5px; line-height:2;font-family:sans-serif;">Parents who wish to opt their children out of the <strong style="font-family:sans-serif;">Sexuality Education lessons </strong> need to complete an opt-out form. This form will be communicated to parents at the start of the year and is also downloadable <a href="https://drive.google.com/file/d/1WAL0fAOvHunUeM7nwWVnR2B-U1WUW8vp/view?usp=sharing" style="font-size:14.5px; line-height:1.5;font-family:sans-serif;font-weight:bold;text-decoration: none;">here</a>. The completed form is to be submitted by <strong style="font-family:sans-serif;">07/02/2025</strong>.</p>
+ <p style="margin-top:0px;font-size:14.5px; line-height:2;font-family:sans-serif;">Parents who wish to opt their children out of the <strong style="font-family:sans-serif;">Sexuality Education lessons </strong> need to complete an opt-out form. This form will be communicated to parents at the start of the year and is also available <a href="https://go.gov.sg/2026-sed-lessons-parent-opt-out-form" style="font-size:14.5px; line-height:1.5;font-family:sans-serif;font-weight:bold;text-decoration: none;">here</a>. The completed form is to be submitted by <strong style="font-family:sans-serif;">06/02/2026</strong>.</p>
 
- <p style="margin-top:0px;font-size:14.5px; line-height:2;font-family:sans-serif;"><span lang="EN-GB">Parents who wish to opt their children out of the <strong style="font-family:sans-serif;"><em style="font-family:sans-serif;">eTeens</em> programme</strong> need to complete an opt-out form. This form will be communicated to parents at the start of the year and is also downloadable <a href="https://drive.google.com/file/d/1tmFI8Zwv_86SoYiVuPSzkiW_OPYGtGIP/view?usp=sharing" style="font-size:14.5px; line-height:1.5;font-family:sans-serif;font-weight:bold;text-decoration: none;">here</a>. The completed form is to be submitted by <strong style="font-family:sans-serif;">07/02/2025</strong>.</span></p>
+ <p style="margin-top:0px;font-size:14.5px; line-height:2;font-family:sans-serif;"><span lang="EN-GB">Parents who wish to opt their children out of the <strong style="font-family:sans-serif;"><em style="font-family:sans-serif;">eTeens</em> programme</strong> need to complete an opt-out form. This form will be communicated to parents at the start of the year and is also available  <a href="https://go.gov.sg/2026-eteens-parent-opt-out-form" style="font-size:14.5px; line-height:1.5;font-family:sans-serif;font-weight:bold;text-decoration: none;">here</a>. The completed form is to be submitted by <strong style="font-family:sans-serif;">06/02/2026</strong>.</span></p>
 	
  <p style="margin-top:0px;font-size:14.5px; line-height:2;font-family:sans-serif;">Parents can contact the school at 65009580 for discussion or to seek clarification about the school’s Sexuality Education programme.</p>
