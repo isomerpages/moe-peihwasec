@@ -76,7 +76,7 @@ of Sexuality Education in the school curriculum.</p>
 				<li style="font-size:14.5px;font-family:sans-serif;margin-bottom:5px;line-height:2">understand what dating is, and recognise that the readiness and interest in dating vary among individuals</li>
 			</ul>
 		</td>
-		<td style="font-size:14.5px;font-family:sans-serif;margin-bottom:5px;line-height:2">Term 3 Week 3</td>
+		<td style="font-size:14.5px;font-family:sans-serif;margin-bottom:5px;line-height:2">Term 3 Week 2</td>
 </tr>
 	
 <tr style="background-color:#f3f3f3;font-size:15px;line-height:2">
@@ -91,7 +91,7 @@ of Sexuality Education in the school curriculum.</p>
 				<li style="font-size:14.5px;font-family:sans-serif;margin-bottom:5px;line-height:2">understand that physical and psychological abuse from others, especially those we know and trust, can have strong negative effects on a person’s self-concept</li>
 			</ul>
 		</td>
-		<td style="font-size:14.5px;font-family:sans-serif;margin-bottom:5px;line-height:2">Term 3 Week 5</td>
+		<td style="font-size:14.5px;font-family:sans-serif;margin-bottom:5px;line-height:2">Term 3 Week 3</td>
 </tr>
 	
 <tr style="border-bottom: 2px solid #009879;">
@@ -105,7 +105,7 @@ of Sexuality Education in the school curriculum.</p>
 				<li style="font-size:14.5px;font-family:sans-serif;margin-bottom:5px;">recognise that there are moral and legal consequences of risky sexual behaviours, pornography access and acting irresponsibly or maliciously when online (e.g. spreading of online falsehoods, flouting copyright laws, etc.)</li>
 			</ul>
 		</td>
-		<td style="font-size:14.5px;font-family:sans-serif;margin-bottom:5px;line-height:2">Term 3 Week 8</td>
+		<td style="font-size:14.5px;font-family:sans-serif;margin-bottom:5px;line-height:2">Term 3 Week 7</td>
 </tr>
 										
 </tbody>
@@ -144,7 +144,7 @@ Students will also learn about the definitions of biological sex, gender identit
 					<li style="font-size:14.5px;font-family:sans-serif;margin-bottom:5px;line-height:2">understand what sexual orientation entails</li>
 			</ul>
 		</td>
-		<td style="font-size:14.5px;font-family:sans-serif;margin-bottom:5px;line-height:2">Term 2 Week 7</td>
+		<td style="font-size:14.5px;font-family:sans-serif;margin-bottom:5px;line-height:2">Term 2 Week 8</td>
 </tr>
 	
 <tr style="background-color:#f3f3f3;font-size:14.5px;line-height:2">
@@ -159,7 +159,7 @@ Students will also learn about the definitions of biological sex, gender identit
 				<li style="font-size:14.5px;font-family:sans-serif;margin-bottom:5px;line-height:2">recognise one’s vulnerability to risky situations and the importance of exercising discretion to reduce risks and avoid negative consequences, both online and offline</li>
 			</ul>
 		</td>
-		<td style="font-size:14.5px;font-family:sans-serif;margin-bottom:5px;line-height:2">Term 2 Week 8</td>
+		<td style="font-size:14.5px;font-family:sans-serif;margin-bottom:5px;line-height:2">Term 3 Week 1</td>
 </tr>
 	
 <tr style="border-bottom: 2px solid #009879;">
@@ -207,7 +207,7 @@ Students will also learn about the definitions of biological sex, gender identit
 				<li style="font-size:14.5px;font-family:sans-serif;margin-bottom:5px;line-height:2">recognise what healthy dating relationships involve and know that readiness is important when entering into a dating relationship</li>
 			</ul>
 		</td>
-		<td style="font-size:14.5px;font-family:sans-serif;margin-bottom:5px;line-height:2">Term 1 Week 8</td>
+		<td style="font-size:14.5px;font-family:sans-serif;margin-bottom:5px;line-height:2">Term 1 Week 7</td>
 </tr>
 	
 <tr style="background-color:#f3f3f3;font-size:15px;line-height:2">
@@ -221,7 +221,7 @@ Students will also learn about the definitions of biological sex, gender identit
 				<li style="font-size:14.5px;font-family:sans-serif;margin-bottom:5px;line-height:2">know there are healthy ways of coping with broken relationships, and family and friends are important pillars of support </li>
 			</ul>
 		</td>
-		<td style="font-size:14.5px;font-family:sans-serif;margin-bottom:5px;line-height:2">Term 1 Week 9</td>
+		<td style="font-size:14.5px;font-family:sans-serif;margin-bottom:5px;line-height:2">Term 1 Week 8</td>
 </tr>
 	
 <tr style="border-bottom: 2px solid #009879;">
@@ -235,7 +235,7 @@ Lesson 2<br>(60 mins)</td>
 </li>
 			</ul>
 		</td>
-		<td style="font-size:14.5px;font-family:sans-serif;margin-bottom:5px;line-height:2">Term 2 Week 1</td>
+		<td style="font-size:14.5px;font-family:sans-serif;margin-bottom:5px;line-height:2">Term 2 Week 5</td>
 </tr>
 										
 </tbody>
@@ -297,7 +297,7 @@ Lesson 2<br>(60 mins)</td>
 				<li style="font-size:14.5px;font-family:sans-serif;margin-bottom:5px;">understand that conflicts are normal in any relationship, including marriage, and the way in which a couple handles conflict is critical to the success of their marriage</li>
 			</ul>
 		</td>
-		<td style="font-size:14.5px;font-family:sans-serif;margin-bottom:5px;line-height:2">Term 2 Week 1</td>
+		<td style="font-size:14.5px;font-family:sans-serif;margin-bottom:5px;line-height:2">Term 2 Week 5</td>
 </tr>
 	
 <tr style="background-color:#f3f3f3;font-size:15px;line-height:2;border-bottom: 2px solid #009879;">
@@ -308,7 +308,7 @@ Lesson 2<br>(60 mins)</td>
 				<li style="font-size:14.5px;font-family:sans-serif;margin-bottom:5px;line-height:2">understand that we strengthen our character when we commit to sound values-based viewpoints (e.g. respect for life) and decisions, and speak and act in alignment with our beliefs</li>
 			</ul>
 		</td>
-		<td style="font-size:14.5px;font-family:sans-serif;margin-bottom:5px;line-height:2">Term 2 Week 2</td>
+		<td style="font-size:14.5px;font-family:sans-serif;margin-bottom:5px;line-height:2">Term 2 Week 8</td>
 </tr>
 									
 </tbody>
