@@ -28,7 +28,7 @@ foundation for strong families);</li>
 <p style="margin-top:15px;font-size:14.5px; line-height:2;font-family:sans-serif;">You may click&nbsp;<a href="https://go.gov.sg/moe-sexuality-education" style="font-size:14.5px; line-height:1.5;font-family:sans-serif;font-weight:bold;text-decoration: none;">here</a>&nbsp;for more information on MOE Sexuality Education.</p>
 
 
-<h6 style="color:#0B6623;;font-family:sans-serif;font-weight:bold;"><strong style="font-family:sans-serif;font-size:17px;color:#0B6623;">Overview of Pei Hwa Secondary School's Sexuality Education Programme for 2025</strong></h6>
+<h6 style="color:#0B6623;;font-family:sans-serif;font-weight:bold;"><strong style="font-family:sans-serif;font-size:17px;color:#0B6623;">Overview of Pei Hwa Secondary School's Sexuality Education Programme for 2026</strong></h6>
 
 <p style="margin-top:0px;font-size:14.5px; line-height:2;font-family:sans-serif;">Sexuality Education is delivered in a holistic manner through the school curriculum. The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law. You may click <a href="https://go.gov.sg/moe-sexuality-education-scope" style="font-size:14.5px; line-height:1.5;font-family:sans-serif;font-weight:bold;text-decoration: none;">here</a> for more information on the scope
 of Sexuality Education in the school curriculum.</p>
@@ -47,7 +47,7 @@ of Sexuality Education in the school curriculum.</p>
 
 <h6 style="color:#0B6623;font-family:sans-serif;font-weight:bold;"><strong style="font-family:sans-serif;font-size:17px;color:#0B6623;">At Pei Hwa Secondary School, the following Sexuality Education lessons will be taught in 2026:</strong></h6>
 
-<img src="/images/Learning%20@%20Pei%20Hwa/CCE_SEC_1_2025.png">
+<img src="/images/Learning%20@%20Pei%20Hwa/CCE_SEC_1_2026.png">
 
  <p style="margin-top:15px;font-size:17px;"><strong style="font-family:sans-serif;">SECONDARY 1<br></strong></p>
 
