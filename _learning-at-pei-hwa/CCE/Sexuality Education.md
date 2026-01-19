@@ -111,7 +111,7 @@ of Sexuality Education in the school curriculum.</p>
 </tbody>
 </table>
 
-<img src="/images/Learning%20@%20Pei%20Hwa/CCE_SEC_1_2025.png">
+<img src="/images/Learning%20@%20Pei%20Hwa/cce_sec1_2026.png">
 
  <p style="margin-top:15px;font-size:17px;"><strong style="font-family:sans-serif;">SECONDARY 2<br></strong></p>
 
