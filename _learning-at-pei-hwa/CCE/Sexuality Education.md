@@ -45,7 +45,7 @@ of Sexuality Education in the school curriculum.</p>
 
 <p style="margin-top:0px;font-size:14.5px; line-height:2;font-family:sans-serif;">Through the Sexuality Education lessons, secondary students will have the opportunity to develop a positive self-esteem, develop their character, and expand their understanding and repertoire of skills to deal with various issues related to sexuality, which are of prime concern at this age.</p>
 
-<h6 style="color:#0B6623;font-family:sans-serif;font-weight:bold;"><strong style="font-family:sans-serif;font-size:17px;color:#0B6623;">At Pei Hwa Secondary School, the following Sexuality Education lessons will be taught in 2025:</strong></h6>
+<h6 style="color:#0B6623;font-family:sans-serif;font-weight:bold;"><strong style="font-family:sans-serif;font-size:17px;color:#0B6623;">At Pei Hwa Secondary School, the following Sexuality Education lessons will be taught in 2026:</strong></h6>
 
 <img src="/images/Learning%20@%20Pei%20Hwa/CCE_SEC_1_2025.png">
 
