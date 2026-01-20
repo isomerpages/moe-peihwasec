@@ -8,15 +8,15 @@ notification: ""
 sections:
   - hero:
       key_highlights:
-        - title: open house 2025
-          description: Join us to find out more!
-          url: https://sites.google.com/moe.edu.sg/phsstest/home?
         - title: Vision | Mission | Values
           description: The Heart of Pei Hwa
           url: /we-are-pei-hwa/our-vision-mission-and-values/
         - title: Pei Hwa Virtual Tour
           description: Click here for a virtual tour!
           url: https://tubear.co/3d-model/pei-hwa-sec-school/fullscreen/
+        - title: Latest Happenings
+          description: Check out our IG page!
+          url: https://www.instagram.com/phssofficial/?hl=en
       background: /images/School_Website_Banner_as_of_190225.gif
   - textcards:
       title: Announcement
