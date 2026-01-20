@@ -8,9 +8,6 @@ notification: ""
 sections:
   - hero:
       key_highlights:
-        - title: open house 2025
-          description: Join us to find out more!
-          url: https://sites.google.com/moe.edu.sg/phsstest/home?
         - title: Vision | Mission | Values
           description: The Heart of Pei Hwa
           url: /we-are-pei-hwa/our-vision-mission-and-values/
