@@ -20,5 +20,5 @@ description: ""
 <ul style="margin-top:-5px">
 	<li style="font-size:14.5px; line-height:1.5; font-family:sans-serif;"> For SLS technical issues, please call the SLS school-based helpline at 65009585 (8am-5pm).</li>
 <li style="font-size:14.5px; line-height:1.5; font-family:sans-serif;"> Refer to <a href="https://sites.google.com/moe.edu.sg/phss-student-ict-hub/home?authuser=0" style="font-size:14.5px; line-height:1.5;font-family:sans-serif;font-weight:bold;text-decoration: none;">this</a> guide for additional insights.</li>
-<li style="font-size:14.5px; line-height:1.5; font-family:sans-serif;"><a href="https://sites.google.com/moe.edu.sg/phss-student-ict-hub/home?authuser=0" style="font-size:14.5px; line-height:1.5;font-family:sans-serif;font-weight:bold;text-decoration: none;">Teacher Contact List</a>
+<li style="font-size:14.5px; line-height:1.5; font-family:sans-serif;"><a href="https://drive.google.com/file/d/1Hb8Y0PzbJwljeWYtL0ARkL-cV9xyS3BR/view?usp=sharing" style="font-size:14.5px; line-height:1.5;font-family:sans-serif;font-weight:bold;text-decoration: none;">Teacher Contact List</a>
 	</li></ul>
