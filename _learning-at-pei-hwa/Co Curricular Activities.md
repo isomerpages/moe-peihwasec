@@ -17,7 +17,6 @@ variant: markdown
 				<li style="font-size:14.5px; line-height:1.5;"><a href="https://www.peihwasec.moe.edu.sg/learning-at-pei-hwa/cca/clubs-societies/pei-hwa-art-council-phac/" style="font-size:14.5px;color:black;line-height:1.5;font-family:sans-serif;text-align:center;text-align:left;text-decoration: none;">Pei Hwa Art Council (PHAC)</a></li>
 			<li style="font-size:14.5px; line-height:1.5;"><a href="https://www.peihwasec.moe.edu.sg/learning-at-pei-hwa/cca/clubs-societies/ph-times/" style="font-size:14.5px;color:black;line-height:1.5;font-family:sans-serif;text-align:center;text-align:left;text-decoration: none;">PH Times</a></li>
 			<li style="font-size:14.5px; line-height:1.5;"><a href="https://www.peihwasec.moe.edu.sg/learning-at-pei-hwa/cca/clubs-societies/robotics/" style="font-size:14.5px;color:black;line-height:1.5;font-family:sans-serif;text-align:center;text-align:left;text-decoration: none;">Robotics Club</a></li>
-			<li style="font-size:14.5px; line-height:1.5;"><a href="https://www.peihwasec.moe.edu.sg/earning-at-pei-hwa/cca/clubs-societies/student-council/" style="font-size:14.5px;color:black;line-height:1.5;font-family:sans-serif;text-align:center;text-align:left;text-decoration: none;">Student Council</a></li>
 		</ul>
 	</div> 
 	<div style="flex: 1; background-color: #F8BF58;; margin: 10px; padding: 25px; text-align: center; width: 225px; height: auto;padding-bottom:-10px;" class="box"> 
