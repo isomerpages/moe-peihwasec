@@ -10,10 +10,10 @@ description: ""
 
 <h6 style="color:#0B6623;font-family:sans-serif;font-weight:bold;margin-top:30px;"><strong style="font-family:sans-serif;font-size:17px;color:#0B6623;">Instructions to Students</strong></h6>
 
-<p style="font-size:14.5px; line-height:2;font-family:sans-serif;margin-top:0px;">Students will not need to report to school on HBL days, unless otherwise stated. Learning activities will be assigned according to students’ timetable for the day, and subject teachers will post their instructions on Google Classroom (GC)* for the respective Teaching Groups (TG). Students may complete the assigned learning activities in any order.
+<p style="font-size:14.5px; line-height:2;font-family:sans-serif;margin-top:0px;">Students will not need to report to school on HBL days, unless otherwise stated. Learning activities will be assigned according to students’ timetable for the day, and subject teachers will post their instructions on Google Classroom (GC)* for the respective Teaching Groups (TG). Students may complete the assigned learning activities in any order.</p>
 	
-*Except for Physical Education (PE), which will be posted on Student Learning Space (SLS).
-</p>
+<p style="font-size:14.5px; line-height:2;font-family:sans-serif;margin-top:0px;">*Except for Physical Education (PE), which will be posted on Student Learning Space (SLS).</p>
+
 
 <h6 style="color:#0B6623;font-family:sans-serif;font-weight:bold;margin-top:30px;"><strong style="font-family:sans-serif;font-size:17px;color:#0B6623;">Student Support Materials</strong></h6>
 
