@@ -55,7 +55,8 @@ professional ethics to maintain confidentiality of matters discussed during coun
 
 <p style="line-height:2;margin-top:5px;margin-bottom:0;font-family:sans-serif;font-size:15.5px;"><strong style="font-family:sans-serif;">The Counsellor</strong></p>
 
-<p style="font-size:14.5px; line-height:2;margin-top:0px;font-family:sans-serif;">Mr Vernon Koh | Senior School Counsellor | 65009580 ext 225</p> 
+<p style="font-size:14.5px; line-height:2;margin-top:0px;font-family:sans-serif;">Mr Muhammad Sabir | Senior School Counsellor | 65009580 ext 225 <br> Ms Dhivyaa | School Counsellor | 65009580 ext 225 </p> 
+
 
 <h6 style="color:#0B6623;font-family:sans-serif;font-size:17px;margin-top:30px;"><strong style="color:#0B6623;font-weight:bold;font-family:sans-serif;font-size:17px;">3. Special Educational Needs (SEN) Support</strong></h6>
 
@@ -79,9 +80,9 @@ professional ethics to maintain confidentiality of matters discussed during coun
 	</ul>
 	
 <p style="margin-top:0px;font-size:14.5px; line-height:2;font-family:sans-serif;">The SEN Officer in Pei Hwa Secondary School is:<br>
-Ms Belinda Danker<br>
+Mr Joel Lim<br>
 Tel: 65009580 ext 205<br>
-Email: danker_belinda_ann@moe.edu.sg</p>
+Email: joel_lim_defeng@moe.edu.sg</p>
 
 <h6 style="color:#0B6623;font-family:sans-serif;font-size:17px;margin-top:30px;"><strong style="color:#0B6623;font-weight:bold;font-family:sans-serif;font-size:17px;">4. Education and Career Guidance (ECG) Counselling</strong></h6>
 
@@ -90,3 +91,9 @@ Email: danker_belinda_ann@moe.edu.sg</p>
 <p style="margin-top:0px;font-size:14.5px; line-height:2;font-family:sans-serif;">Our school’s ECG Counsellor is Ms Adeline Ng and she is stationed in our school every Monday and Thursday of the week to provide ECG counselling to students.</p>
 
 <p style="margin-top:0px;font-size:14.5px; line-height:2;font-family:sans-serif;">Students can visit this <a href="https://go.gov.sg/apptecgc" style="font-size:14.5px; line-height:1.5;font-family:sans-serif;font-weight:bold;text-decoration: none;">link</a> to book an appointment to see her at the school library to discover their values, interests, personalities and strengths as well as explore and make informed decisions about their post-secondary education pathways.</p>
+
+<p style="line-height:2;margin-top:5px;margin-bottom:0;font-family:sans-serif;font-size:15.5px;"><strong style="font-family:sans-serif;">The Student Support Team</strong></p>
+
+<p style="font-size:14.5px; line-height:2;margin-top:0px;font-family:sans-serif;">Mr Muhammad Sabir | Senior School Counsellor | 65009580 ext 225 <br> Ms Dhivyaa | School Counsellor | 65009580 ext 225 
+<br> Ms Jacqueline Ong | Education and Career Guidance | 65009580 ext 208 
+<br> Mr Joel Lim | Special Education Needs Officer | 65009580 ext 205 </p> 
