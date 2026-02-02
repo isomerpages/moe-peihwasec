@@ -17,7 +17,7 @@ sections:
         - title: Latest Happenings
           description: Check out our IG page!
           url: https://www.instagram.com/phssofficial/?hl=en
-      background: /images/School_Website_Banner_as_of_190225.gif
+      background: /images/Homepage/website_banner_a_o__020226.gif
   - textcards:
       title: Announcement
       id: textcards
