@@ -2,7 +2,6 @@
 title: Student Council
 permalink: /learning-at-pei-hwa/cca/clubs-societies/student-council/
 description: ""
-third_nav_title: Clubs & Societies
 variant: markdown
 ---
 <img style="width: 100%; height: auto;margin-top:30px;margin-bottom:30px;" alt="Image" src="/images/CCA/studentcouncilbanner.png">
