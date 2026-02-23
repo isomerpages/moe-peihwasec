@@ -27,7 +27,7 @@ variant: markdown
 	<td style="border: 1px solid #dddfe1;font-size: 14.5px;font-family:sans-serif;">Mr Mohd Azhar Terimo</td>
 	</tr>
 	<tr>
-		<td style="background-color:#0C6523; #54585d; font-weight: bold; font-size: 14.5px; border: 1px solid #54585d; color:white;border-bottom: 1px solid #dddddd;width:24%;font-family:sans-serif;" rowspan="4">Members	</td>
+		<td style="background-color:#0C6523; #54585d; font-weight: bold; font-size: 14.5px; border: 1px solid #54585d; color:white;border-bottom: 1px solid #dddddd;width:24%;font-family:sans-serif;" rowspan="6">Members	</td>
 	</tr>		
 	<tr>
 		<td style="border: 1px solid #dddfe1;font-size: 14.5px;font-family:sans-serif;">Ms Chew Shi Qi</td>
@@ -36,6 +36,10 @@ variant: markdown
 		<td style="border: 1px solid #dddfe1;font-size: 14.5px;font-family:sans-serif;">Mr Peh Hwee Heong Ricky</td>
 	</tr>	
 	<tr><td style="border: 1px solid #dddfe1;font-size: 14.5px;font-family:sans-serif;">Mr Kwan Yui</td>
-	</tr>	
+	</tr>
+	<tr><td style="border: 1px solid #dddfe1;font-size: 14.5px;font-family:sans-serif;">Ms Adeline Toh Wan Wen</td>
+	</tr>
+	<tr><td style="border: 1px solid #dddfe1;font-size: 14.5px;font-family:sans-serif;">Mr Daniel Lim Yu Xuan</td>
+	</tr>
 </tbody>
 </table>
