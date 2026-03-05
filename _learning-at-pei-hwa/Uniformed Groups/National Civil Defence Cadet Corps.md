@@ -25,18 +25,52 @@ variant: markdown
 	</thead>
 	
 <tbody>
+
+<tr>
+<td><strong style="font-family:sans-serif;font-size:14.5px;">2026</strong></td>
+	<td>
+		<strong style="font-family:sans-serif;font-size:15px;">Precision Drill Challenge</strong>
+		<ul style="margin-top:-5px">
+			<li style="font-size:14.5px;margin-bottom:-5px;font-family:sans-serif;line-height:1.5;">Grand Champion</li>
+		</ul>
+	</td>
+		
+</tr><tr style="background-color: #f3f3f3;">
+<td><strong style="font-family:sans-serif;font-size:14.5px;">2025</strong></td>
+		<td>
+					<strong style="font-family:sans-serif;font-size:15px;">GOTC Campus Legend Tournament</strong>
+		<ul style="margin-top:-5px">
+			<li style="font-size:14.5px;margin-bottom:-5px;font-family:sans-serif;line-height:1.5;">2<sup style="font-family:sans-serif;">nd</sup> Place (Team)</li>
+		</ul>
+				<strong style="font-family:sans-serif;font-size:15px;">Precision Drill Challenge</strong>
+		<ul style="margin-top:-5px">
+			<li style="font-size:14.5px;margin-bottom:-5px;font-family:sans-serif;line-height:1.5;">5<sup style="font-family:sans-serif;">th</sup> Place</li>
+		</ul>
+	</td>
+</tr>
 	
 <tr>
 <td><strong style="font-family:sans-serif;font-size:14.5px;">2024</strong></td>
 	<td>
+		<strong style="font-family:sans-serif;font-size:15px;">GOTC Campus Legend Tournament</strong>
+		<ul style="margin-top:-5px">
+			<li style="font-size:14.5px;margin-bottom:-5px;font-family:sans-serif;line-height:1.5;">Silver (Team)</li>
+		</ul>
+		<strong style="font-family:sans-serif;font-size:15px;">Precision Drill Challenge</strong>
+		<ul style="margin-top:-5px">
+			<li style="font-size:14.5px;margin-bottom:-5px;font-family:sans-serif;line-height:1.5;">5<sup style="font-family:sans-serif;">th</sup> Place</li>
+		</ul>
+		<strong style="font-family:sans-serif;font-size:15px;">Urban Adventure Civil Defence Challenge</strong>
+		<ul style="margin-top:-5px">
+			<li style="font-size:14.5px;margin-bottom:-5px;font-family:sans-serif;line-height:1.5;">Top 10</li>
+		</ul>
 		<strong style="font-family:sans-serif;font-size:15px;">Unit Overall Performance Award</strong>
 		<ul style="margin-top:-5px">
 			<li style="font-size:14.5px;margin-bottom:-5px;font-family:sans-serif;line-height:1.5;">Distinction</li>
 		</ul>
 	</td>
-</tr>
 															
-<tr style="background-color: #f3f3f3;">
+</tr><tr style="background-color: #f3f3f3;">
 <td><strong style="font-family:sans-serif;font-size:14.5px;">2023</strong></td>
 		<td>
 					<strong style="font-family:sans-serif;font-size:15px;">Unit Overall Performance Award</strong>
