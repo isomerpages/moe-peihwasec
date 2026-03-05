@@ -25,18 +25,52 @@ variant: markdown
 	</thead>
 	
 <tbody>
+
+<tr>
+<td><strong style="font-family:sans-serif;font-size:14.5px;">2026</strong></td>
+	<td>
+		<strong style="font-family:sans-serif;font-size:15px;">Precision Drill Challenge</strong>
+		<ul style="margin-top:-5px">
+			<li style="font-size:14.5px;margin-bottom:-5px;font-family:sans-serif;line-height:1.5;">Grand Champion</li>
+		</ul>
+	</td>
+		
+</tr><tr style="background-color: #f3f3f3;">
+<td><strong style="font-family:sans-serif;font-size:14.5px;">2025</strong></td>
+		<td>
+					<strong style="font-family:sans-serif;font-size:15px;">GOTC Campus Legend Tournament</strong>
+		<ul style="margin-top:-5px">
+			<li style="font-size:14.5px;margin-bottom:-5px;font-family:sans-serif;line-height:1.5;">2<sup style="font-family:sans-serif;">nd</sup> Place (Team)</li>
+		</ul>
+				<strong style="font-family:sans-serif;font-size:15px;">Precision Drill Challenge</strong>
+		<ul style="margin-top:-5px">
+			<li style="font-size:14.5px;margin-bottom:-5px;font-family:sans-serif;line-height:1.5;">5<sup style="font-family:sans-serif;">th</sup> Place</li>
+		</ul>
+	</td>
+</tr>
 	
 <tr>
 <td><strong style="font-family:sans-serif;font-size:14.5px;">2024</strong></td>
 	<td>
+		<strong style="font-family:sans-serif;font-size:15px;">GOTC Campus Legend Tournament</strong>
+		<ul style="margin-top:-5px">
+			<li style="font-size:14.5px;margin-bottom:-5px;font-family:sans-serif;line-height:1.5;">Silver (Team)</li>
+		</ul>
+		<strong style="font-family:sans-serif;font-size:15px;">Precision Drill Challenge</strong>
+		<ul style="margin-top:-5px">
+			<li style="font-size:14.5px;margin-bottom:-5px;font-family:sans-serif;line-height:1.5;">5<sup style="font-family:sans-serif;">th</sup> Place</li>
+		</ul>
+		<strong style="font-family:sans-serif;font-size:15px;">Urban Adventure Civil Defence Challenge</strong>
+		<ul style="margin-top:-5px">
+			<li style="font-size:14.5px;margin-bottom:-5px;font-family:sans-serif;line-height:1.5;">Top 10</li>
+		</ul>
 		<strong style="font-family:sans-serif;font-size:15px;">Unit Overall Performance Award</strong>
 		<ul style="margin-top:-5px">
 			<li style="font-size:14.5px;margin-bottom:-5px;font-family:sans-serif;line-height:1.5;">Distinction</li>
 		</ul>
 	</td>
-</tr>
 															
-<tr style="background-color: #f3f3f3;">
+</tr><tr style="background-color: #f3f3f3;">
 <td><strong style="font-family:sans-serif;font-size:14.5px;">2023</strong></td>
 		<td>
 					<strong style="font-family:sans-serif;font-size:15px;">Unit Overall Performance Award</strong>
@@ -148,6 +182,22 @@ variant: markdown
 	<li style="font-size:14.5px; line-height:2;font-family:sans-serif;">Unit Drill Instructor (UDI) Course</li>
 		<li style="font-size:14.5px; line-height:2;font-family:sans-serif;margin-bottom:-5px;">Urban Adventure Civil Defence Knowledge Challenge (UACDC)</li>
 </ul>
+
+<div style="width: 100%; margin-bottom: 20px; box-sizing: border-box; text-align: center;" class="image-box">
+<img style="width: 100%; margin-bottom: 10px;" alt="Image" src="/images/CCA/Screenshot_2026_03_05_at_4_21_09_PM.png">
+    <p style="text-align: center; font-size:10px;margin-top:-5px;font-family:sans-serif;line-height:1.5;">Urban Adventure Civil Defence Challenge 2024</p>
+</div>
+
+<div style="width: 100%; margin-bottom: 20px; box-sizing: border-box; text-align: center;" class="image-box">
+<img style="width: 100%; margin-bottom: 10px;" alt="Image" src="/images/CCA/Screenshot_2026_03_05_at_4_21_19_PM.png">
+    <p style="text-align: center; font-size:10px;margin-top:-5px;font-family:sans-serif;line-height:1.5;">GOTC Campus Legend Tournament 2025</p>
+	</div>
+	
+<div style="width: 100%; margin-bottom: 20px; box-sizing: border-box; text-align: center;" class="image-box">
+<img style="width: 100%; margin-bottom: 10px;" alt="Image" src="/images/CCA/Screenshot_2026_03_05_at_4_21_26_PM.png">
+    <p style="text-align: center; font-size:10px;margin-top:-5px;font-family:sans-serif;line-height:1.5;">Precision Drill Challenge 2026</p>
+	</div>
+ 
 
 <h6 style="color:#0B6623;font-family:sans-serif;font-weight:bold;margin-top:30px;"><strong style="font-family:sans-serif;font-size:17px;color:#0B6623;">Student Testament</strong></h6>
 
