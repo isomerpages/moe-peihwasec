@@ -183,6 +183,20 @@ variant: markdown
 		<li style="font-size:14.5px; line-height:2;font-family:sans-serif;margin-bottom:-5px;">Urban Adventure Civil Defence Knowledge Challenge (UACDC)</li>
 </ul>
 
+<div style="width: 100%; margin-bottom: 20px; box-sizing: border-box; text-align: center;" class="image-box">
+<img style="width: 100%; margin-bottom: 10px;" alt="Image" src="/images/CCA/Screenshot_2026_03_05_at_4_21_09_PM.png">
+    <p style="text-align: center; font-size:10px;margin-top:-5px;font-family:sans-serif;line-height:1.5;">Urban Adventure Civil Defence Challenge 2024</p>
+</div>
+
+<div style="width: 100%; margin-bottom: 20px; box-sizing: border-box; text-align: center;" class="image-box">
+<img style="width: 100%; margin-bottom: 10px;" alt="Image" src="/images/CCA/Screenshot_2026_03_05_at_4_21_19_PM.png">
+    <p style="text-align: center; font-size:10px;margin-top:-5px;font-family:sans-serif;line-height:1.5;">GOTC Campus Legend Tournament 2025</p>
+	</div>
+	
+<div style="width: 100%; margin-bottom: 20px; box-sizing: border-box; text-align: center;" class="image-box">
+<img style="width: 100%; margin-bottom: 10px;" alt="Image" src="/images/CCA/Screenshot_2026_03_05_at_4_21_26_PM.png">
+    <p style="text-align: center; font-size:10px;margin-top:-5px;font-family:sans-serif;line-height:1.5;">Precision Drill Challenge 2026</p>
+	</div>
  
 
 <h6 style="color:#0B6623;font-family:sans-serif;font-weight:bold;margin-top:30px;"><strong style="font-family:sans-serif;font-size:17px;color:#0B6623;">Student Testament</strong></h6>
