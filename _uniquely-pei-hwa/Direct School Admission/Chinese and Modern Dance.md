@@ -45,6 +45,6 @@ third_nav_title: Direct School Admission
 <ol style="margin-top:-5px;">
 	<li style="font-size:14.5px;line-height:1.5;font-family:sans-serif;">All Interviews and Auditions will take place face-to-face at Pei Hwa Secondary School.</li>
 	<li style="font-size:14.5px;line-height:1.5;font-family:sans-serif;">Shortlisted DSA applicants need to bring a thumbdrive containing the music for their prepared piece to be played on the laptop provided by Pei Hwa Secondary School.</li>
-	<li style="font-size:14.5px;line-height:1.5;font-family:sans-serif;">Meeting all the criteria does not guarantee the DSA applicant will be given an offer.li&gt;
+	<li style="font-size:14.5px;line-height:1.5;font-family:sans-serif;">Meeting all the criteria does not guarantee the DSA applicant will be given an offer.
 	
 </li></ol>
