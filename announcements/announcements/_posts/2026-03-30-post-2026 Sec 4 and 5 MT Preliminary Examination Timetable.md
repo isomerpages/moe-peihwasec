@@ -1,0 +1,10 @@
+---
+title: 2026 Sec 4 and 5 MT Preliminary Examination Timetable
+permalink: /lp-announcement/2026-preliminary-examination-timetable/
+date: 2026-03-30
+layout: post
+description: ""
+image: ""
+variant: markdown
+---
+<p style="font-size:14.5px; line-height:2;margin-top:15px; font-family:sans-serif;">Please click <a href="https://drive.google.com/file/d/196q6SabVui8dLZXhF1V6UyXD_Ap6d7vO/view?usp=sharing" style="font-size:14.5px; line-height:1.5;font-family:sans-serif;font-weight:bold;text-decoration: none;">here</a> for more details on 2026 Sec 4 and 5 MT Preliminary Examination Timetable. </p>
