@@ -31,6 +31,16 @@ variant: markdown
 	</thead>
 	
 <tbody>
+
+<tr style="background-color: #f3f3f3;">
+<td><strong style="font-family:sans-serif;font-size:14.5px;">2026</strong></td>
+	<td><strong style="font-family:sans-serif;font-size:15px;">N.E.mation! 2026 Competition</strong>
+		<ul style="margin-top:-5px;">
+			<li style="font-size:14.5px;margin-bottom:-5px;font-family:sans-serif;line-height:1.5;">Top 20<sup style="font-family:sans-serif;">th</sup> Team </li>
+		</ul>
+		
+</td>
+</tr>
 	
 <tr>
 <td><strong style="font-family:sans-serif;font-size:14.5px;">2025</strong></td>
@@ -132,7 +142,7 @@ variant: markdown
 	<tbody style="border: none;">
 <tr>
 			<td style="font-weight: bold; font-size: 14.5px; border-bottom: 1px solid #dddddd;width:30%;font-family:sans-serif;letter-spacing:0.2px">Teachers-in-Charge</td>
-			<td style="font-size: 14.5px; border-bottom: 1px solid #dddddd;font-family:sans-serif;letter-spacing:0.2px">Ms Cheng Liangyu, Mr Toh Wee Teck, Ms Tang Wai Sim Wendy</td>
+			<td style="font-size: 14.5px; border-bottom: 1px solid #dddddd;font-family:sans-serif;letter-spacing:0.2px">Ms Cheng Liangyu, Mr Toh Wee Teck, Ms Tang Wai Sim Wendy, Mr Yeo Woei Ter</td>
 		</tr>
 		
 <tr>
@@ -144,7 +154,7 @@ Trainers (AVA)
 
 <tr>
 			<td style="font-weight: bold; font-size: 14.5px; border-bottom: 1px solid #dddddd;width:30%;font-family:sans-serif;letter-spacing:0.2px">CCA Schedule</td>
-			<td style="font-size: 14.5px; border-bottom: 1px solid #dddddd;font-family:sans-serif;letter-spacing:0.2px">Tuesdays 3.30pm - 5.30pm<br>*Fridays 2.30pm - 5.30pm
+			<td style="font-size: 14.5px; border-bottom: 1px solid #dddddd;font-family:sans-serif;letter-spacing:0.2px">Tuesdays 3.30pm - 5.30pm<br>*Fridays 2.30pm - 4.30pm
 <br><br>
 *ad-hoc trainings (only for AVA crew members)
 </td>
