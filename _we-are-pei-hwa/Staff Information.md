@@ -645,7 +645,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="2" colspan="1">
+<td rowspan="3" colspan="1">
 <p><strong>Passion 7</strong>
 </p>
 </td>
@@ -663,6 +663,15 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:nur\_fateha\_kamsani@moe.edu.sg" rel="noopener noreferrer nofollow" target="\_blank">nur_fateha_kamsani@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Muhammad Nur 'Irfan Bin Hamsani</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:Muhammad_Nur_Irfan_Hamsani@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Muhammad_Nur_Irfan_Hamsani@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -826,7 +835,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="3" colspan="1">
+<td rowspan="2" colspan="1">
 <p><strong>Resilience 6</strong>
 </p>
 </td>
@@ -844,15 +853,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:wong\_hon\_kit\_benjamin@moe.edu.sg" rel="noopener noreferrer nofollow" target="\_blank">wong_hon_kit_benjamin@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Muhammad Nur 'Irfan Bin Hamsani</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:Muhammad_Nur_Irfan_Hamsani@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Muhammad_Nur_Irfan_Hamsani@moe.edu.sg</a>
 </p>
 </td>
 </tr>
