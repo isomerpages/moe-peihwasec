@@ -26,7 +26,7 @@ variant: markdown
 
 <h6 style="color:#0B6623;font-family:sans-serif;font-weight:bold;margin-top:30px;"><strong style="font-family:sans-serif;font-size:17px;color:#0B6623;">Application</strong></h6>
 
-<p style="font-size:14.5px; line-height:2;margin-top:5px;margin-bottom:0;font-family:sans-serif;">Application for DSA-Sec can be submitted through the online DSA-Sec Portal. The application is free-of-charge and will be open from Wed, 7 May 2025, 11am to Tue, 3 Jun 2025, 3pm.</p>
+<p style="font-size:14.5px; line-height:2;margin-top:5px;margin-bottom:0;font-family:sans-serif;">Application for DSA-Sec can be submitted through the online DSA-Sec Portal. The application is free-of-charge and will be open from Wed, 6 May 2026, 11am to Tue, 2 Jun 2026, 4.30pm.</p>
 
 <p style="font-size:14.5px; line-height:2;margin-top:5px;margin-bottom:0;font-family:sans-serif;">For more information on DSA-Sec, please refer to MOE website at <a style="font-size:14.5px; line-height:1.5;font-family:sans-serif;font-weight:bold;text-decoration: none;" href="http://www.moe.gov.sg/dsa-sec">www.moe.gov.sg/dsa-sec</a></p>
 
@@ -36,17 +36,17 @@ variant: markdown
 <tbody>
 		
 <tr>
-<td style="font-size:14.5px; line-height:2;font-family:Tahoma;width:50%;">7 May 2025 to 3 Jun 2025</td>
+<td style="font-size:14.5px; line-height:2;font-family:Tahoma;width:50%;">6 May 2026 to 2 Jun 2026</td>
 <td style="font-size:14.5px; line-height:2;font-family:Tahoma;border-left: 1px solid lightgrey;">Interested candidates to submit application for DSA-Sec</td>
 </tr>
 	
 <tr>
-<td style="font-size:14.5px; line-height:2;font-family:Tahoma;width:50%;">30 Jun 2025 to 4 Sep 2025</td>
+<td style="font-size:14.5px; line-height:2;font-family:Tahoma;width:50%;">29 Jun 2026 to&nbsp; 28 Jun 2026</td>
 <td style="font-size:14.5px; line-height:2;font-family:Tahoma;border-left: 1px solid lightgrey;">School to invite short-listed applicants to an interview and a selection test, via email/ call / SMS.</td>
 </tr>
 	
 <tr>
-<td style="font-size:14.5px; line-height:2;font-family:Tahoma;width:50%;">25 Aug 2025 to 4 Sep 2025</td>
+<td style="font-size:14.5px; line-height:2;font-family:Tahoma;width:50%;">17 Aug 2026 to 28 Aug 2026</td>
 <td style="font-size:14.5px; line-height:2;font-family:Tahoma;border-left: 1px solid lightgrey;">School to notify DSA applicants on the outcome of their application. The decision of the interview panel is final.</td>
 </tr>
 
@@ -77,10 +77,9 @@ variant: markdown
 			
 <tr style="background-color: #f3f3f3;">
 	<td style="font-family:sans-serif;">Guzheng </td>
-	<td rowspan="2" style="font-family:sans-serif;">Mrs Michelle Jonathan</td>
-	<td rowspan="2" style="font-family:sans-serif;">65009580 (Ext 251)</td>
-	<td rowspan="2" style="font-family:sans-serif;">chan_xin_hui_michelle@moe.edu.sg 
-</td>
+	<td rowspan="2" style="font-family:sans-serif;">Mr Kenneth Yeo</td>
+	<td rowspan="2" style="font-family:sans-serif;">65009580 (Ext 252)</td>
+	<td rowspan="2" style="font-family:sans-serif;">kenneth_yeo_wei_qiang@moe.edu.sg</td>
 </tr>
 <tr style="background-color: #f3f3f3;">
 	<td style="font-family:sans-serif;">Chinese and Modern Dance</td>
