@@ -19,8 +19,22 @@ variant: markdown
 			<td style="text-align:left;color:white;font-family:sans-serif;">Attainment</td>
 		</tr>
 	</thead>
-	
 <tbody>
+	
+<tr style="background-color: #f3f3f3;">
+<td><strong style="font-family:sans-serif;font-size:14.5px;">2026</strong></td>
+	<td>
+		<strong style="font-family:sans-serif;font-size:15px;">RoboCup Singapore Open</strong>
+		<ul style="margin-top:-5px"> 
+			<li style="font-size:14.5px;margin-bottom:-5px;font-family:sans-serif;line-height:1.5;">Onstage U19<sup style="font-family:sans-serif;">nd</sup> Place - KYLER ANG YI KAI (3I7), KANTAVEERAKUL NATEEBODEE (2R6), CYRUS HO JUN LE (2R8), CHUA JING EN (2R7), SOH XIN NING (1P3)</li>
+			<li style="font-size:14.5px;margin-bottom:-5px;font-family:sans-serif;line-height:1.5;">Onstage U19 Judge's Award: THIYAGARAJAN SANTOSH (4D8), CHIN JU WEI (4D4), CHEAH KAI WEI (3I5), CHIN XU BIAO (2R6), TAN ZHI HAO (1P5)</li>
+			<li style="font-size:14.5px;margin-bottom:-5px;font-family:sans-serif;line-height:1.5;">Cospace Rescue U19 1st Place: SEUMUS KOH (4D5), NG SZE QIN KAELYN (4D5)</li>
+			<li style="font-size:14.5px;margin-bottom:-5px;font-family:sans-serif;line-height:1.5;">Cospace Auto-Driving U19 (Virtual Robot) 1st Place: Yu Jia Rong Zenden (4D1), Jay Yeo (4D8)</li>
+			<li style="font-size:14.5px;margin-bottom:-5px;font-family:sans-serif;line-height:1.5;">Cospace Rescue U19 FirstSteps Top 4 Place: Cheonh Yue Heng Nathaniel (4D1), Asher Leong En Hao (4D2)</li>
+		</ul>
+	</td>
+</tr>
+	
 <tr>
 <td><strong style="font-family:sans-serif;font-size:14.5px;">2025</strong></td>
 	<td>
@@ -61,6 +75,7 @@ ELKAN SIN YEW KEN (4D8), GAVRIEL LEE KHONG YIH (4D7)</li>
 		</ul>
 	</td>
 </tr>
+	
 <tr style="background-color: #f3f3f3;">
 <td><strong style="font-family:sans-serif;font-size:14.5px;">2024</strong></td>
 	<td>
