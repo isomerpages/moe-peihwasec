@@ -1,7 +1,7 @@
 ---
 title: Semester 1 (2026) Timetable
 permalink: /lp-announcement/timetable/
-date: 2025-06-30
+date: 2026-01-04
 layout: post
 description: ""
 image: ""
