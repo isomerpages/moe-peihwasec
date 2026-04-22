@@ -26,7 +26,7 @@ sections:
           description: ""
           linktext: Learn more
           url: /lp-announcement/secondary-1-registration/
-        - title: 2025 DSA Application
+        - title: 2026 DSA Application
           description: ""
           linktext: Learn more
           url: /uniquely-pei-hwa/direct-school-admission-dsa/direct-school-admission/
