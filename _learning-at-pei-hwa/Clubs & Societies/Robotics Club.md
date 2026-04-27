@@ -276,6 +276,22 @@ Tay Kai Wen, Bryan (4D1), Lai Le Xin Grace (3I4), Ain Myeisha Arman (3I1), Chang
     <img style="width: 100%; margin-bottom: 10px;" alt="Image 1" src="/images/CCA/robotics02.png">
     <p style="text-align: center; font-size:10px;margin-top:-5px;font-family:sans-serif;line-height:1.5;">CoSpace OnStage students debugging the wiring of their Arduino coded robot</p>
   </div>
+	<div style="width: 45%; margin-bottom: 20px; box-sizing: border-box; text-align: center;" class="image-box">
+    <img style="width: 100%; margin-bottom: 10px;" alt="Image 1" src="/images/CCA/unnamed_2.jpg">
+    <p style="text-align: center; font-size:10px;margin-top:-5px;font-family:sans-serif;line-height:1.5;">Our team at the 2026 CCA Fair</p>
+  </div>
+	<div style="width: 45%; margin-bottom: 20px; box-sizing: border-box; text-align: center;" class="image-box">
+    <img style="width: 100%; margin-bottom: 10px;" alt="Image 1" src="/images/CCA/unnamed_3.jpg">
+    <p style="text-align: center; font-size:10px;margin-top:-5px;font-family:sans-serif;line-height:1.5;">Our team at the 2026 Robocup Singapore Open</p>
+  </div>
+	<div style="width: 45%; margin-bottom: 20px; box-sizing: border-box; text-align: center;" class="image-box">
+    <img style="width: 100%; margin-bottom: 10px;" alt="Image 1" src="/images/CCA/unnamed_4.jpg">
+    <p style="text-align: center; font-size:10px;margin-top:-5px;font-family:sans-serif;line-height:1.5;">Team Pei Hwa and their families. Off to represent Singapore at the 2025 Abu Dhabi Robocup Asia-Pacific Competition!</p>
+  </div>
+	<div style="width: 45%; margin-bottom: 20px; box-sizing: border-box; text-align: center;" class="image-box">
+    <img style="width: 100%;height:175px;object-fit: cover; margin-bottom: 10px;" alt="Image 1" src="/images/CCA/unnamed_5.jpg">
+    <p style="text-align: center; font-size:10px;margin-top:-5px;font-family:sans-serif;line-height:1.5;">Team Pei Hwa with Mr Kamal R Vaswani, the Singaporean Ambassador for Abu Dhabi and Zhou Changjiu, the President of Robocup Asia-Pacific</p>
+  </div>
 </div>
 
 <h6 style="color:#0B6623;font-family:sans-serif;font-weight:bold;margin-top:30px;"><strong style="font-family:sans-serif;font-size:17px;color:#0B6623;">Student Testament</strong></h6>
