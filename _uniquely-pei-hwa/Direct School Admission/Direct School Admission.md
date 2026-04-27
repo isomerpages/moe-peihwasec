@@ -41,7 +41,7 @@ variant: markdown
 </tr>
 	
 <tr>
-<td style="font-size:14.5px; line-height:2;font-family:Tahoma;width:50%;">29 Jun 2026 to&nbsp; 28 Jun 2026</td>
+<td style="font-size:14.5px; line-height:2;font-family:Tahoma;width:50%;">29 Jun 2026 to 28 Aug 2026</td>
 <td style="font-size:14.5px; line-height:2;font-family:Tahoma;border-left: 1px solid lightgrey;">School to invite short-listed applicants to an interview and a selection test, via email/ call / SMS.</td>
 </tr>
 	
