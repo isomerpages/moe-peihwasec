@@ -20,7 +20,7 @@ variant: markdown
 <li style="font-size:14.5px; line-height:1.5;font-family:sans-serif;"><a style="font-size:14.5px; line-height:1.5;font-family:sans-serif;font-weight:bold;text-decoration: none;" href="https://www.peihwasec.moe.edu.sg/uniquely-pei-hwa/direct-school-admission-dsa/guzheng/">Guzheng</a></li>
 <li style="font-size:14.5px;line-height:1.5;font-family:sans-serif;margin-bottom:0px;"><a style="font-size:14.5px; line-height:1.5;font-family:sans-serif;font-weight:bold;text-decoration: none;" href="https://www.peihwasec.moe.edu.sg/uniquely-pei-hwa/direct-school-admission-dsa/dance/">Chinese and Modern Dance</a></li>
 <li style="font-size:14.5px;line-height:1.5;font-family:sans-serif;"><a style="font-size:14.5px; line-height:1.5;font-family:sans-serif;font-weight:bold;text-decoration: none;" href="https://www.peihwasec.moe.edu.sg/uniquely-pei-hwa/direct-school-admission-dsa/floorball/">	Floorball (Girls only)</a></li>
-<li style="font-size:14.5px;line-height:1.5;font-family:sans-serif;"><a style="font-size:14.5px; line-height:1.5;font-family:sans-serif;font-weight:bold;text-decoration: none;" href="https://www.peihwasec.moe.edu.sg/learning-at-pei-hwa/cca/sports-games/wushu/">Wushu</a></li>
+<li style="font-size:14.5px;line-height:1.5;font-family:sans-serif;"><a style="font-size:14.5px; line-height:1.5;font-family:sans-serif;font-weight:bold;text-decoration: none;" href="https://www.peihwasec.moe.edu.sg/uniquely-pei-hwa/direct-school-admission-dsa/wushu/">Wushu</a></li>
 <li style="font-size:14.5px;line-height:1.5;font-family:sans-serif;margin-bottom:0px;"><a style="font-size:14.5px; line-height:1.5;font-family:sans-serif;font-weight:bold;text-decoration: none;" href="https://www.peihwasec.moe.edu.sg/uniquely-pei-hwa/direct-school-admission-dsa/taekwondo/">Taekwondo</a></li>
 </ul>
 
@@ -41,7 +41,7 @@ variant: markdown
 </tr>
 	
 <tr>
-<td style="font-size:14.5px; line-height:2;font-family:Tahoma;width:50%;">29 Jun 2026 to&nbsp; 28 Jun 2026</td>
+<td style="font-size:14.5px; line-height:2;font-family:Tahoma;width:50%;">29 Jun 2026 to 28 Aug 2026</td>
 <td style="font-size:14.5px; line-height:2;font-family:Tahoma;border-left: 1px solid lightgrey;">School to invite short-listed applicants to an interview and a selection test, via email/ call / SMS.</td>
 </tr>
 	
