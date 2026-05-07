@@ -26,7 +26,7 @@ variant: markdown
 	<td>
 		<strong style="font-family:sans-serif;font-size:15px;">RoboCup Singapore Open</strong>
 		<ul style="margin-top:-5px"> 
-			<li style="font-size:14.5px;margin-bottom:-5px;font-family:sans-serif;line-height:1.5;">Onstage U19<sup style="font-family:sans-serif;">nd</sup> Place - KYLER ANG YI KAI (3I7), KANTAVEERAKUL NATEEBODEE (2R6), CYRUS HO JUN LE (2R8), CHUA JING EN (2R7), SOH XIN NING (1P3)</li>
+			<li style="font-size:14.5px;margin-bottom:-5px;font-family:sans-serif;line-height:1.5;">Onstage U19 2<sup style="font-family:sans-serif;">nd</sup> Place - KYLER ANG YI KAI (3I7), KANTAVEERAKUL NATEEBODEE (2R6), CYRUS HO JUN LE (2R8), CHUA JING EN (2R7), SOH XIN NING (1P3)</li>
 			<li style="font-size:14.5px;margin-bottom:-5px;font-family:sans-serif;line-height:1.5;">Onstage U19 Judge's Award: THIYAGARAJAN SANTOSH (4D8), CHIN JU WEI (4D4), CHEAH KAI WEI (3I5), CHIN XU BIAO (2R6), TAN ZHI HAO (1P5)</li>
 			<li style="font-size:14.5px;margin-bottom:-5px;font-family:sans-serif;line-height:1.5;">Cospace Rescue U19 1st Place: SEUMUS KOH (4D5), NG SZE QIN KAELYN (4D5)</li>
 			<li style="font-size:14.5px;margin-bottom:-5px;font-family:sans-serif;line-height:1.5;">Cospace Auto-Driving U19 (Virtual Robot) 1st Place: Yu Jia Rong Zenden (4D1), Jay Yeo (4D8)</li>
@@ -260,7 +260,7 @@ Tay Kai Wen, Bryan (4D1), Lai Le Xin Grace (3I4), Ain Myeisha Arman (3I1), Chang
 <h6 style="color:#0B6623;font-family:sans-serif;font-weight:bold;margin-top:30px;"><strong style="font-family:sans-serif;font-size:17px;color:#0B6623;">CCA Activities</strong></h6>
 <ul style="margin-top:-5px">
 	<li style="font-size:14.5px; line-height:1.5; font-family:sans-serif;"> Robocup Singapore Open (Cospace Rescue, Cospace Autonomous Driving and Cospace OnStage)</li>
-<li style="font-size:14.5px; line-height:1.5; font-family:sans-serif;"> In-house Enrichments: Introduction to Python Programming Language, Intermediate Python, Data Science with Python</li>
+<li style="font-size:14.5px; line-height:1.5; font-family:sans-serif;">ESP32 Programming</li>
 		<li style="font-size:14.5px; line-height:1.5; font-family:sans-serif;"> Arduino Programming</li>
 <li style="font-size:14.5px; line-height:1.5; font-family:sans-serif;"> AI with Huskylens and Micro:bit</li>
 		<li style="font-size:14.5px; line-height:1.5; font-family:sans-serif;"> Lego Mindstorms EV3</li>
@@ -320,7 +320,7 @@ Tay Kai Wen, Bryan (4D1), Lai Le Xin Grace (3I4), Ain Myeisha Arman (3I1), Chang
 	<tbody style="border: none;">
 <tr>
 			<td style="font-weight: bold; font-size: 14.5px; border-bottom: 1px solid #dddddd;width:30%;font-family:sans-serif;">Teachers-in-Charge</td>
-			<td style="font-size: 14.5px; border-bottom: 1px solid #dddddd;font-family:sans-serif;line-height:1.5">Mr Nicholas Ng, Mr Ronnie, Ms Lian Jane</td>
+			<td style="font-size: 14.5px; border-bottom: 1px solid #dddddd;font-family:sans-serif;line-height:1.5">Mr Nicholas Ng, Mr Ronnie Goh, Ms Lian Jane</td>
 		</tr>
 <tr>
 			<td style="font-weight: bold; font-size: 14.5px; border-bottom: 1px solid #dddddd;width:30%;font-family:sans-serif;">CCA Schedule</td>
@@ -333,7 +333,7 @@ Fridays 2.30pm - 6.00pm
 		
 <tr>
 			<td style="font-weight: bold; font-size: 14.5px; border-bottom: 1px solid #dddddd;width:30%;font-family:sans-serif;">Venues</td>
-			<td style="font-size: 14.5px; border-bottom: 1px solid #dddddd;font-family:sans-serif;">Technology Room 1 and 2, Computer Lab 4
+			<td style="font-size: 14.5px; border-bottom: 1px solid #dddddd;font-family:sans-serif;">SparkLab at Level 3, Computer Lab 4
 </td>
 		</tr>
 		
