@@ -56,5 +56,3 @@ Programme</strong></td>
 <img style="width: 100%; height: auto;margin-top:30px;margin-bottom:30px;" alt="Image" src="/images/Uniquely%20Pei%20Hwa/Sharing_with_STEM_Inc____Innovation_and_ALP_2025__1_.png">
 
 <p style="font-size:14.5px; line-height:2;margin-top:0; font-family:sans-serif">From problem-finding to project showcase, the Future Leaders Programme equips students with the full journey of innovation.</p>
-
-
