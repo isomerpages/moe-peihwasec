@@ -51,6 +51,10 @@ Programme</strong></td>
 <p style="font-size:14.5px; line-height:2;margin-top:0; font-family:sans-serif">From problem-finding to project showcase, the Future Leaders Programme equips students with the full journey of innovation.</p>
 
 <h6 style="color:#0B6623;font-family:sans-serif;font-weight:bold;margin-top:30px;"><strong style="font-family:sans-serif;font-size:17px;color:#0B6623;">Opportunities to Shine</strong></h6>
-<p style="font-size:14.5px; line-height:2;margin-top:0; font-family:sans-serif">Tech for Good Challenge, SG:D Techblazer Awards (Student Techblazer) and the annual STEM ALP Learning Festival. These opportunities provide real world exposure, networking and a platform for students to inspire others with their creativity, leadership and future ready mindset.</p>
+<p style="font-size:14.5px; line-height:2;margin-top:0; font-family:sans-serif">Platforms such as Tech for Good Challenge SG:D Techblazer Awards (Student Techblazer) and are opportunities that provide real world exposure, networking and a platform for students to inspire others with their creativity, leadership and future ready mindset.</p>
 
 <img style="width: 100%; height: auto;margin-top:30px;margin-bottom:30px;" alt="Image" src="/images/Uniquely%20Pei%20Hwa/Sharing_with_STEM_Inc____Innovation_and_ALP_2025__1_.png">
+
+<p style="font-size:14.5px; line-height:2;margin-top:0; font-family:sans-serif">From problem-finding to project showcase, the Future Leaders Programme equips students with the full journey of innovation.</p>
+
+
