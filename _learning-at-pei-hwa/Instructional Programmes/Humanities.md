@@ -38,3 +38,10 @@ variant: markdown
 	<li style="font-size:14.5px; line-height:1.5;font-family:sans-serif;">Historical Scene Challenge</li>
 	<li style="font-size:14.5px; line-height:1.5;font-family:sans-serif;">NUS Geography Challenge</li>
 	</ul>
+	
+<h6 style="color:#0B6623;font-family:sans-serif;font-weight:bold;margin-top:30px;"><strong style="font-family:sans-serif;font-size:17px;color:#0B6623;">Department of Humanities Programmes &amp; Accolades</strong></h6>
+
+<div style="display: flex;" class="image-container"> 
+	<img alt="Image 1" style="display: inline-block;  width: calc(45% - 0px);" src="/images/Learning%20@%20Pei%20Hwa/Instructional%20Programme/Others/fcecurriculum01.png"> 
+	<img alt="Image 1" style="display: inline-block;  width: calc(45% - 0px);" src="/images/Learning%20@%20Pei%20Hwa/Instructional%20Programme/Others/fcecurriculum02.png"> 
+</div>
