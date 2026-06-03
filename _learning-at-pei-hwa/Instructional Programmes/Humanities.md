@@ -41,7 +41,22 @@ variant: markdown
 	
 <h6 style="color:#0B6623;font-family:sans-serif;font-weight:bold;margin-top:30px;"><strong style="font-family:sans-serif;font-size:17px;color:#0B6623;">Department of Humanities Programmes &amp; Accolades</strong></h6>
 
-<div style="display: flex;" class="image-container"> 
-	<img alt="Image 1" style="display: inline-block;  width: calc(45% - 0px);" src="/images/Learning%20@%20Pei%20Hwa/Instructional%20Programme/Others/fcecurriculum01.png"> 
-	<img alt="Image 1" style="display: inline-block;  width: calc(45% - 0px);" src="/images/Learning%20@%20Pei%20Hwa/Instructional%20Programme/Others/fcecurriculum02.png"> 
+<div style="display: flex; flex-wrap: wrap; justify-content: space-between; max-width: 800px; margin: 0 auto;" class="image-container">
+	<div style="width: 45%; margin-bottom: 20px; box-sizing: border-box; text-align: center;" class="image-box">
+    <img style="width: 100%; margin-bottom: 10px;" alt="Image 1" src="/images/Learning%20@%20Pei%20Hwa/unnamed_6.jpg">
+    <p style="text-align: center; font-size:10px;margin-top:-5px;font-family:sans-serif;line-height:1.5;">Historical Investigation: National Museum of Singapore </p>
+  </div>
+	<div style="width: 45%; margin-bottom: 20px; box-sizing: border-box; text-align: center;" class="image-box">
+    <img style="width: 100%; margin-bottom: 10px;" alt="Image 1" src="/images/Learning%20@%20Pei%20Hwa/unnamed_7.jpg">
+    <p style="text-align: center; font-size:10px;margin-top:-5px;font-family:sans-serif;line-height:1.5;">Geographical Investigation: Sengkang River</p>
+  </div>
+	<div style="width: 45%; margin-bottom: 20px; box-sizing: border-box; text-align: center;" class="image-box">
+    <img style="width: 100%; margin-bottom: 10px;" alt="Image 1" src="/images/Learning%20@%20Pei%20Hwa/unnamed_8.jpg">
+    <p style="text-align: center; font-size:10px;margin-top:-5px;font-family:sans-serif;line-height:1.5;">Learning Journey to Kampong Lorong Buangkok</p>
+  </div>
+	<div style="width: 45%; margin-bottom: 20px; box-sizing: border-box; text-align: center;" class="image-box">
+    <img style="width: 100%; margin-bottom: 10px;" alt="Image 1" src="/images/Learning%20@%20Pei%20Hwa/Screenshot_2026_06_03_at_2_35_43_PM.png">
+    <p style="text-align: center; font-size:10px;margin-top:-5px;font-family:sans-serif;line-height:1.5;">Issues Investigation:&nbsp;Voxpop Performance Task&nbsp; (MOE Innergy Award Bronze)</p>
+  </div>
+
 </div>
