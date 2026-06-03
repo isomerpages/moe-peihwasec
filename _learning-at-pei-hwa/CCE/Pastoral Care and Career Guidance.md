@@ -79,10 +79,15 @@ professional ethics to maintain confidentiality of matters discussed during coun
 	<li style="font-size:14.5px; line-height:1.5;font-family:sans-serif;">consulting and working closely with external partners such as REACH</li>
 	</ul>
 	
-<p style="margin-top:0px;font-size:14.5px; line-height:2;font-family:sans-serif;">The SEN Officer in Pei Hwa Secondary School is:<br>
+<p style="margin-top:0px;font-size:14.5px; line-height:2;font-family:sans-serif;">The SEN Officer in Pei Hwa Secondary School is:
+<br>
 Mr Joel Lim<br>
 Tel: 65009580 ext 205<br>
 Email: joel_lim_defeng@moe.edu.sg</p>
+<br>
+Ms Clara Cheong<br>
+Tel: 65009580 ext 205  <br>
+Email: cheong_yu_tong_b@moe.edu.sg<p></p>
 
 <h6 style="color:#0B6623;font-family:sans-serif;font-size:17px;margin-top:30px;"><strong style="color:#0B6623;font-weight:bold;font-family:sans-serif;font-size:17px;">4. Education and Career Guidance (ECG) Counselling</strong></h6>
 
