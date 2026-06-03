@@ -101,4 +101,5 @@ Email: cheong_yu_tong_b@moe.edu.sg<p></p>
 
 <p style="font-size:14.5px; line-height:2;margin-top:0px;font-family:sans-serif;">Mr Muhammad Sabir | Senior School Counsellor | 65009580 ext 225 <br> Ms Dhivyaa | School Counsellor | 65009580 ext 225 
 <br> Ms Jacqueline Ong | Education and Career Guidance | 65009580 ext 208 
-<br> Mr Joel Lim | Special Education Needs Officer | 65009580 ext 205 </p>
+<br> Mr Joel Lim | Special Education Needs Officer | 65009580 ext 205 
+&nbsp;<br> Ms Clara Cheong &nbsp;| Special Education Needs Officer | 65009580 ext 205</p>
