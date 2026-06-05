@@ -60,13 +60,13 @@ variant: markdown
 	</blockquote> 
 
 <blockquote style="font-size: 15px;width:100%;margin:50px auto;margin-top:5px;font-family:serif;font-style:italic;color: #555555;padding:1.2em 25px 1.2em 25px;border-left:8px solid #0C6523;line-height:1.6;position: relative;background:#EDEDED;">
-<img align="left" src="/images/CCA/basketballtestimonial02.png" style="width: 23%; border-radius: 7%;  margin-right:15px;">
+<img align="left" src="/images/Learning%20@%20Pei%20Hwa/CCA/Sec_3_Vice_Captain.jpg" style="width: 23%; border-radius: 7%;  margin-right:15px;">
 	"Since joining the Basketball CCA in Secondary 1, I have learned to become a better player both on and off the court. On the court, I developed my dribbling, shooting, and game sense through regular training and matches. Off the court, the CCA has taught me discipline, teamwork, and resilience. Pushing through tough drills and bouncing back from losses showed me how to stay focused and support my teammates. Ultimately, the CCA has given me close friends, as well as lessons in responsibility and consistency that I now apply to my schoolwork and daily life."
   <span style="display:block; color:#333333; margin-top:1em;font-size:15px;font-family:sans-serif;"><em style="font-family:sans-serif;">2026 Sec 3 Vice-Captain, Raphael Li Junle</em></span>
 	</blockquote> 
 	
 <blockquote style="font-size: 15px;width:100%;margin:50px auto;margin-top:5px;font-family:serif;font-style:italic;color: #555555;padding:1.2em 25px 1.2em 25px;border-left:8px solid #0C6523;line-height:1.6;position: relative;background:#EDEDED;">
-<img align="left" src="/images/CCA/basketballtestimonial03.png" style="width: 23%; border-radius: 7%;  margin-right:15px;">
+<img align="left" src="/images/Learning%20@%20Pei%20Hwa/CCA/Sec_2_Captain.jpg" style="width: 23%; border-radius: 7%;  margin-right:15px;">
 	"Over the past one and a half years in the basketball CCA, my passion for the sport has grown greatly. Through the CCA, I have met many people who share the same love for basketball and have formed strong friendships with my teammates. I enjoy every training session, from the drills to learning new tactics from my coach. My coaches and teachers-in-charge have also helped me grow as both a player and the captain of the C Division basketball team by guiding me in developing leadership, teamwork, discipline, and responsibility."
   <span style="display:block; color:#333333; margin-top:1em;font-size:15px;font-family:sans-serif;"><em style="font-family:sans-serif;">2026 Sec 2 Captain, Yang Boxiong</em></span>
 	</blockquote> 
