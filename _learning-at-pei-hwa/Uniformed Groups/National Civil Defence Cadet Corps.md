@@ -175,13 +175,12 @@ variant: markdown
 <p style="font-size:14.5px; line-height:2;margin-top:0px; font-family:sans-serif;">Programmes and training activities which include:</p>
 <ul style="margin-top:-5px;">
 	<li style="font-size:14.5px; line-height:2;font-family:sans-serif;">Year One Cadets Affirmation Day</li>
-	<li style="font-size:14.5px; line-height:2;font-family:sans-serif;">Annual Unit Day Camp</li>
-	<li style="font-size:14.5px; line-height:2;font-family:sans-serif;">Basic Cardiac Life Support (BCLS) Course</li>
-		<li style="font-size:14.5px; line-height:2;font-family:sans-serif;">Instructional Video Competition</li>
+	<li style="font-size:14.5px; line-height:2;font-family:sans-serif;">Annual Unit Camp</li>
+		<li style="font-size:14.5px; line-height:2;font-family:sans-serif;">GOTC Campus Legend Tournament</li>
 		<li style="font-size:14.5px; line-height:2;font-family:sans-serif;">NCO Course</li>
-	<li style="font-size:14.5px; line-height:2;font-family:sans-serif;">Precision Drills Challenge</li>
-		<li style="font-size:14.5px; line-height:2;font-family:sans-serif;">Service Month project (PHNCD Community Day)</li>
-			<li style="font-size:14.5px; line-height:2;font-family:sans-serif;">Specialisation Courses (Fire Safety, Medical Response, Urban Rescue)</li>
+	<li style="font-size:14.5px; line-height:2;font-family:sans-serif;">Precision Drill Challenge</li>
+		<li style="font-size:14.5px; line-height:2;font-family:sans-serif;">Service Month Project (PHNCD Community Day)</li>
+			<li style="font-size:14.5px; line-height:2;font-family:sans-serif;">Specialisation Courses (Fire Safety, Medical Response, Urban Rescue, Marine Fire &amp; Rescue)</li>
 	<li style="font-size:14.5px; line-height:2;font-family:sans-serif;">Tour of Exhibition in Civil Defence Academy (CDA)</li>
 	<li style="font-size:14.5px; line-height:2;font-family:sans-serif;">Unit Drill Instructor (UDI) Course</li>
 		<li style="font-size:14.5px; line-height:2;font-family:sans-serif;margin-bottom:-5px;">Urban Adventure Civil Defence Knowledge Challenge (UACDC)</li>
@@ -233,7 +232,7 @@ variant: markdown
 		</tr>
 <tr>
 			<td style="font-weight: bold; font-size: 14.5px; border-bottom: 1px solid #dddddd;width:30%;font-family:sans-serif;letter-spacing:0.2px">CCA Schedule</td>
-			<td style="font-size: 14.5px; border-bottom: 1px solid #dddddd;font-family:sans-serif;letter-spacing:0.2px">Fridays 2.30pm - 5.40pm
+			<td style="font-size: 14.5px; border-bottom: 1px solid #dddddd;font-family:sans-serif;letter-spacing:0.2px">Tuesdays 3.30pm - 5.40pm (selected)<br>Fridays 2.30pm - 5.40pm
 </td>
 		</tr>
 		
