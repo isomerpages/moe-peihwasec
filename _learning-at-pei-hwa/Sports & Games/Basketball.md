@@ -5,7 +5,17 @@ description: ""
 third_nav_title: Sports & Games
 variant: markdown
 ---
-<img style="width: 100%; height: auto;margin-top:30px;margin-bottom:30px;" alt="Image" src="/images/CCA/basketballbanner.png">
+<div style="display: flex; flex-wrap: wrap; justify-content: space-between; max-width: 800px; margin: 0 auto;" class="image-container">
+	<div style="width: 45%; margin-bottom: 20px; box-sizing: border-box; text-align: center;" class="image-box">
+    <img style="width: 100%; margin-bottom: 10px;" alt="Image 1" src="/images/Learning%20@%20Pei%20Hwa/CCA/WhatsApp_Image_2026_06_03_at_18_02_39.jpg">
+    <p style="text-align: center; font-size:10px;margin-top:-5px;font-family:sans-serif;line-height:1.5;">B Division 2026 </p>
+  </div>
+	<div style="width: 45%; margin-bottom: 20px; box-sizing: border-box; text-align: center;" class="image-box">
+    <img style="width: 100%; margin-bottom: 10px;" alt="Image 1" src="/images/Learning%20@%20Pei%20Hwa/CCA/WhatsApp_Image_2026_06_03_at_18_01_44.jpg">
+    <p style="text-align: center; font-size:10px;margin-top:-5px;font-family:sans-serif;line-height:1.5;">C Division 2026</p>
+  </div>
+
+</div>
 
 <p style="font-size:14.5px; line-height:2 ;margin-top:0px; font-family:sans-serif;" class="description">At <strong style="font-size:14.5px; line-height:2; font-family:sans-serif;">Pei Hwa Basketball</strong>, we take pride in a rigorous training programme designed to nurture talent and inspire students to reach their full potential. We believe that discipline and determination are the cornerstones of success, and we strive to instill these values in every player.</p>
 
