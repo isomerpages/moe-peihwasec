@@ -32,7 +32,7 @@ programmes.</p>
 
 <img style="width: 100%; height: auto;margin-top:30px;margin-bottom:30px;" alt="Image" src="/images/Links/peihwaalumni01.png">
 
-<img style="width: 100%; height: auto;margin-bottom:30px;" alt="Image" src="/images/WhatsApp_Image_2024_05_27_at_11_19_41_AM.jpg">
+<img style="width: 100%; height: auto;margin-bottom:30px;" alt="Image" src="/images/Uniquely%20Pei%20Hwa/PHAlumni2026.jpg">
 
 <h5 style="margin-top:10px;color:#0B6623;"><strong style="font-family:sans-serif;color:#0B6623;">Pei Hwa Foundation Scholarship for Alumni Youth Wing Members</strong></h5>
 
