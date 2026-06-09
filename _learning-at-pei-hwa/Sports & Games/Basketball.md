@@ -5,15 +5,29 @@ description: ""
 third_nav_title: Sports & Games
 variant: markdown
 ---
-<img style="width: 100%; height: auto;margin-top:30px;margin-bottom:30px;" alt="Image" src="/images/CCA/basketballbanner.png">
+<div style="display: flex; flex-wrap: wrap; justify-content: space-between; max-width: 800px; margin: 0 auto;" class="image-container">
+	<div style="width: 45%; margin-bottom: 20px; box-sizing: border-box; text-align: center;" class="image-box">
+    <img style="width: 100%; margin-bottom: 10px;" alt="Image 1" src="/images/Learning%20@%20Pei%20Hwa/CCA/WhatsApp_Image_2026_06_03_at_18_02_39.jpg">
+    <p style="text-align: center; font-size:10px;margin-top:-5px;font-family:sans-serif;line-height:1.5;">B Division 2026 </p>
+  </div>
+	<div style="width: 45%; margin-bottom: 20px; box-sizing: border-box; text-align: center;" class="image-box">
+    <img style="width: 100%; margin-bottom: 10px;" alt="Image 1" src="/images/Learning%20@%20Pei%20Hwa/CCA/WhatsApp_Image_2026_06_03_at_18_01_44.jpg">
+    <p style="text-align: center; font-size:10px;margin-top:-5px;font-family:sans-serif;line-height:1.5;">C Division 2026</p>
+  </div>
 
-<p style="font-size:14.5px; line-height:2 ;margin-top:0px; font-family:sans-serif;" class="description">At <strong style="font-size:14.5px; line-height:2; font-family:sans-serif;">Pei Hwa Basketball</strong>, we take great pride in our rigorous training programme which is designed to nurture the talents of our students and inspire them to achieve their potential. We firmly believe that discipline and determination are essential qualities for success, and we strive to instill these values in our students as they pursue their passion for basketball</p>
+</div>
 
-<p style="font-size:14.5px; line-height:2 ;margin-top:0px; font-family:sans-serif;" class="description">Our basketball CCA is dedicated to improve teamwork and communication in our students, enabling them to perform their best during basketball trainings and competitions. Through trainings, students’ physical and mental capacities are enhanced, allowing them to develop better decision-making skills. Students also learn important skills like coordination, balance, and body control, which are essential for success on the basketball court. Students will also develop other important values such as resilience, respect and self-discipline through weekly training sessions, friendly matches and National School Games.</p>
+<p style="font-size:14.5px; line-height:2 ;margin-top:0px; font-family:sans-serif;" class="description">At <strong style="font-size:14.5px; line-height:2; font-family:sans-serif;">Pei Hwa Basketball</strong>, we take pride in a rigorous training programme designed to nurture talent and inspire students to reach their full potential. We believe that discipline and determination are the cornerstones of success, and we strive to instill these values in every player.</p>
 
-<p style="font-size:14.5px; line-height:2 ;margin-top:0px; font-family:sans-serif;" class="description">Every year is a fresh start for us. Each student will have an opportunity to represent the school to play for National School Games. At Pei Hwa Basketball, we are proud to say that we are one big family, united by a group of like-minded students who enjoy playing basketball.</p>
+<h6 style="color:#0B6623;font-family:sans-serif;font-weight:bold;margin-top:30px;"><strong style="font-family:sans-serif;font-size:16px;color:#0B6623;">Developing Excellence</strong></h6>
 
-<h6 style="color:#0B6623;font-family:sans-serif;font-weight:bold;margin-top:30px;"><strong style="font-family:sans-serif;font-size:17px;color:#0B6623;">Achievements</strong></h6>
+<p style="font-size:14.5px; line-height:2 ;margin-top:0px; font-family:sans-serif;" class="description">Our CCA focuses on fostering teamwork and communication, ensuring students perform at their peak during training and competitions. Through our sessions, players enhance their mental fortitude, decision-making, and physical coordination. Beyond the court, students internalize core values of resilience, respect, and self-discipline through weekly practices and the National School Games.</p>
+
+<h6 style="color:#0B6623;font-family:sans-serif;font-weight:bold;margin-top:30px;"><strong style="font-family:sans-serif;font-size:16px;color:#0B6623;">One Team, One Family</strong></h6>
+
+<p style="font-size:14.5px; line-height:2 ;margin-top:0px; font-family:sans-serif;" class="description">Every year offers a fresh start and a chance for every member to represent the school on the national stage. At Pei Hwa, we are more than just a CCA; we are a united family of like-minded athletes driven by a shared love for the game.</p>
+
+<h6 style="color:#0B6623;font-family:sans-serif;font-weight:bold;margin-top:30px;"><strong style="font-family:sans-serif;font-size:16px;color:#0B6623;">Achievements</strong></h6>
 
 <table style="border-collapse: collapse;margin: 25px 0;margin-top:5px;font-family: sans-serif;box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);width:100%" border="1">
 	
@@ -27,55 +41,44 @@ variant: markdown
 <tbody>
 
 <tr>
-<td><strong style="font-family:sans-serif;font-size:14.5px;">2023</strong></td>
+<td><strong style="font-family:sans-serif;font-size:14.5px;">2025</strong></td>
 	<td><strong style="font-family:sans-serif;font-size:15px;">NSG B &amp; C Division Boys  – Group Stage</strong>
 	</td>
 </tr>
 															
 <tr style="background-color: #f3f3f3;">
-<td><strong style="font-family:sans-serif;font-size:14.5px;">2022</strong></td>
+<td><strong style="font-family:sans-serif;font-size:14.5px;">2024</strong></td>
 	<td><strong style="font-family:sans-serif;font-size:15px;">NSG B &amp; C Division Boys  – Group Stage</strong>
 	</td>
 </tr>
 		
 <tr>
-<td><strong style="font-family:sans-serif;font-size:14.5px;">2020</strong></td>
+<td><strong style="font-family:sans-serif;font-size:14.5px;">2023</strong></td>
 	<td><strong style="font-family:sans-serif;font-size:15px;">NSG B &amp; C Division Boys  – Group Stage</strong>
 	</td>
 </tr>
-	
-<tr style="background-color: #f3f3f3;">
-<td><strong style="font-family:sans-serif;font-size:14.5px;">2019</strong></td>
-	<td><strong style="font-family:sans-serif;font-size:15px;">NSG B &amp; C Division Boys  – Group Stage</strong>
-	</td>
-</tr>
-		
-<tr style="border-bottom: 2px solid #0C6523; font-size:15px;">
-<td><strong style="font-family:sans-serif;font-size:14.5px;">2018</strong></td>
-	<td><strong style="font-family:sans-serif;font-size:15px;">NSG B &amp; C Division Boys  – Group Stage</strong>
-	</td>
-</tr>
+
 										
 </tbody>
 </table>
 
 <h6 style="color:#0B6623;font-family:sans-serif;font-weight:bold;margin-top:30px;"><strong style="font-family:sans-serif;font-size:17px;color:#0B6623;">Student Testament</strong></h6>
 
-<blockquote style="font-size: 15px;width:100%;margin:50px auto;margin-top:5px;font-family:serif;font-style:italic;color: #555555;padding:1.2em 25px 1.2em 25px;border-left:8px solid #0C6523;line-height:1.6;position: relative;background:#EDEDED;">
-<img align="left" src="/images/CCA/basketballtestimonial01.png" style="width: 23%; border-radius: 7%;  margin-right:15px;">"My time in the CCA has shaped me into a more resilient, determined, and confident individual. Firstly, the dedication, expertise, and passion of my coach and teachers for the sport have fostered a supportive and encouraging environment that has allowed me to grow as a player. Their guidance and coaching have helped me to improve my skills and reach new levels of performance for the sport. Moreover, the CCA has given me the privilege of playing alongside talented and driven seniors and teammates who share the same love for the game. Through many hours of training and competing together, we have formed strong friendships and created unforgettable memories. Through the training, our physical conditioning, mental resilience, and understanding of the game have improved as well. These few years in my CCA have not only improved my basketball skills but have also instilled valuable life lessons such as discipline, perseverance, and leadership."
-  <span style="display:block; color:#333333; margin-top:1em;font-size:15px;font-family:sans-serif;"><em style="font-family:sans-serif;">B division Captain, Cardano Ryen Chris Esguerra</em></span>
+<blockquote style="font-size: 15px;width:100%;margin:50px auto;margin-top:5px;font-family:serif;font-style:italic;color: #555555;padding:1.2em 25px 3em 25px;border-left:8px solid #0C6523;line-height:1.6;position: relative;background:#EDEDED;">
+<img align="left" src="/images/Learning%20@%20Pei%20Hwa/CCA/Sec_3_Captain.jpg" style="width: 23%; border-radius: 7%;  margin-right:15px;">"In my three years of playing basketball, I have learned to be resilient and work well in a team. Although I had no prior experience in Secondary 1, my seniors motivated me and pushed me to work hard. From then until now, I have seen a huge improvement in not only my basketball skills, but also my ability to communicate and collaborate with my teammates. I am grateful to my teachers and coach for the opportunity to lead, which has allowed me to develop my leadership skills and care for my peers. As I continue to lead and serve the team, I hope to inspire future captains and instill the right values in my teammates."
+  <span style="display:block; color:#333333; margin-top:1em;font-size:15px;font-family:sans-serif;"><em style="font-family:sans-serif;">2026 Sec 3 Captain, Evan Tan Yee Jun</em></span>
 	</blockquote> 
 
-<blockquote style="font-size: 15px;width:100%;margin:50px auto;margin-top:5px;font-family:serif;font-style:italic;color: #555555;padding:1.2em 25px 1.2em 25px;border-left:8px solid #0C6523;line-height:1.6;position: relative;background:#EDEDED;">
-<img align="left" src="/images/CCA/basketballtestimonial02.png" style="width: 23%; border-radius: 7%;  margin-right:15px;">
-	"Joining this CCA has changed me, both on and off the court. The teachers and coach’s commitment to encouraging teamwork has given us a sense of unity through our experiences in practices and games. The memories, friendships, and lessons I have gained from my time in the CCA will stay with me for a long time to come. The CCA’s commitment to holistic development has allowed me to demonstrate discipline in my studies while leading in the CCA at the same time, instilling values in me such as leadership and determination. The CCA has not only made me a better basketball player but has also developed my passion for Basketball and given me the opportunity to thrive both in the game and in the real world through the values and lessons they have taught me."
-  <span style="display:block; color:#333333; margin-top:1em;font-size:15px;font-family:sans-serif;"><em style="font-family:sans-serif;">B division Vice-Captain, Ritz Ng (Huang Zijun)</em></span>
+<blockquote style="font-size: 15px;width:100%;margin:50px auto;margin-top:5px;font-family:serif;font-style:italic;color: #555555;padding:1.2em 25px 5em 25px;border-left:8px solid #0C6523;line-height:1.6;position: relative;background:#EDEDED;">
+<img align="left" src="/images/Learning%20@%20Pei%20Hwa/CCA/Sec_3_Vice_Captain.jpg" style="width: 23%; border-radius: 7%;  margin-right:15px;">
+	"Since joining the Basketball CCA in Secondary 1, I have learned to become a better player both on and off the court. On the court, I developed my dribbling, shooting, and game sense through regular training and matches. Off the court, the CCA has taught me discipline, teamwork, and resilience. Pushing through tough drills and bouncing back from losses showed me how to stay focused and support my teammates. Ultimately, the CCA has given me close friends, as well as lessons in responsibility and consistency that I now apply to my schoolwork and daily life."
+  <span style="display:block; color:#333333; margin-top:1em;font-size:15px;font-family:sans-serif;"><em style="font-family:sans-serif;">2026 Sec 3 Vice-Captain, Raphael Li Junle</em></span>
 	</blockquote> 
 	
-<blockquote style="font-size: 15px;width:100%;margin:50px auto;margin-top:5px;font-family:serif;font-style:italic;color: #555555;padding:1.2em 25px 1.2em 25px;border-left:8px solid #0C6523;line-height:1.6;position: relative;background:#EDEDED;">
-<img align="left" src="/images/CCA/basketballtestimonial03.png" style="width: 23%; border-radius: 7%;  margin-right:15px;">
-	"In my one and a half years of basketball CCA so far, my passion for basketball has been growing. Through my time in the basketball CCA, I have gotten to know many different types of people from all walks of life who share the same passion and love for the game of basketball. I enjoy almost every minute of basketball CCA, from the warmups, the drills and even the tactics my coach has set for the team to learn. I have made so many friends along the way as well. In addition, my CCA teachers in charge and coaches have really groomed me as a player and as a captain for the C Division basketball team as well, allowing me to take on a greater leadership role and nurturing my leadership capabilities. As a C Division captain, I feel that I play an important role in shaping my team and influencing them as well."
-  <span style="display:block; color:#333333; margin-top:1em;font-size:15px;font-family:sans-serif;"><em style="font-family:sans-serif;">C division Captain, Muhammad Zaheer Bin Zahid </em></span>
+<blockquote style="font-size: 15px;width:100%;margin:50px auto;margin-top:5px;font-family:serif;font-style:italic;color: #555555;padding:1.2em 25px 5em 25px;border-left:8px solid #0C6523;line-height:1.6;position: relative;background:#EDEDED;">
+<img align="left" src="/images/Learning%20@%20Pei%20Hwa/CCA/Sec_2_Captain.jpg" style="width: 23%; border-radius: 7%;  margin-right:15px;">
+	"Over the past one and a half years in the basketball CCA, my passion for the sport has grown greatly. Through the CCA, I have met many people who share the same love for basketball and have formed strong friendships with my teammates. I enjoy every training session, from the drills to learning new tactics from my coach. My coaches and teachers-in-charge have also helped me grow as both a player and the captain of the C Division basketball team by guiding me in developing leadership, teamwork, discipline, and responsibility."
+  <span style="display:block; color:#333333; margin-top:1em;font-size:15px;font-family:sans-serif;"><em style="font-family:sans-serif;">2026 Sec 2 Captain, Yang Boxiong</em></span>
 	</blockquote> 
 	
 

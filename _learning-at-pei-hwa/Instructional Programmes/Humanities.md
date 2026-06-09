@@ -38,3 +38,54 @@ variant: markdown
 	<li style="font-size:14.5px; line-height:1.5;font-family:sans-serif;">Historical Scene Challenge</li>
 	<li style="font-size:14.5px; line-height:1.5;font-family:sans-serif;">NUS Geography Challenge</li>
 	</ul>
+	
+<h6 style="color:#0B6623;font-family:sans-serif;font-weight:bold;margin-top:30px;"><strong style="font-family:sans-serif;font-size:17px;color:#0B6623;">Department of Humanities Programmes &amp; Accolades</strong></h6>
+
+<div style="display: flex; flex-wrap: wrap; justify-content: space-between; max-width: 800px; margin: 0 auto;" class="image-container">
+	<div style="width: 45%; margin-bottom: 20px; box-sizing: border-box; text-align: center;" class="image-box">
+    <img style="width: 100%; margin-bottom: 10px;" alt="Image 1" src="/images/Learning%20@%20Pei%20Hwa/unnamed_6.jpg">
+    <p style="text-align: center; font-size:10px;margin-top:-5px;font-family:sans-serif;line-height:1.5;">Historical Investigation: National Museum of Singapore </p>
+  </div>
+	<div style="width: 45%; margin-bottom: 20px; box-sizing: border-box; text-align: center;" class="image-box">
+    <img style="width: 100%; margin-bottom: 10px;" alt="Image 1" src="/images/Learning%20@%20Pei%20Hwa/unnamed_7.jpg">
+    <p style="text-align: center; font-size:10px;margin-top:-5px;font-family:sans-serif;line-height:1.5;">Geographical Investigation: Sengkang River</p>
+  </div>
+	<div style="width: 45%; margin-bottom: 20px; box-sizing: border-box; text-align: center;" class="image-box">
+    <img style="width: 100%; margin-bottom: 10px;" alt="Image 1" src="/images/Learning%20@%20Pei%20Hwa/unnamed_8.jpg">
+    <p style="text-align: center; font-size:10px;margin-top:-5px;font-family:sans-serif;line-height:1.5;">Learning Journey to Kampong Lorong Buangkok</p>
+  </div>
+	<div style="width: 45%; margin-bottom: 20px; box-sizing: border-box; text-align: center;" class="image-box">
+    <img style="width: 100%; margin-bottom: 10px;" alt="Image 1" src="/images/Learning%20@%20Pei%20Hwa/Screenshot_2026_06_03_at_2_35_43_PM.png">
+    <p style="text-align: center; font-size:10px;margin-top:-5px;font-family:sans-serif;line-height:1.5;">Issues Investigation:&nbsp;Voxpop Performance Task&nbsp; (MOE Innergy Award Bronze)</p>
+  </div>
+
+</div>
+
+<table style="border-collapse: collapse;margin: 25px 0;margin-top:5px;font-family: sans-serif;box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);width:100%" border="1">
+	
+<thead style="background-color:#0C6523; font-weight: bold; font-size: 15.5px;">
+	<tr>
+			<td style="text-align:left;color:white;font-family:sans-serif;width:17%;">Year of <br>Competition</td>
+			<td style="text-align:left;color:white;font-family:sans-serif;">Attainment</td>
+		</tr>
+	</thead>
+	
+<tbody>
+
+<tr>
+<td><strong style="font-family:sans-serif;font-size:14.5px;">2025</strong></td>
+<td><strong style="font-family:sans-serif;font-size:15px;">NUS Geography Challenge – Bronze Award</strong>
+<img style="width: 100%; margin-bottom: 10px;" alt="Image 1" src="/images/Learning%20@%20Pei%20Hwa/unnamed_9.jpg">
+</td>
+</tr>	
+	
+<tr style="background-color: #f3f3f3;">
+<td><strong style="font-family:sans-serif;font-size:14.5px;">2024</strong></td>
+<td><strong style="font-family:sans-serif;font-size:15px;">1. War and Diplomacy Challenge – Merit Award</strong>
+	<img style="width: 100%; margin-bottom: 10px;" alt="Image 1" src="/images/Learning%20@%20Pei%20Hwa/unnamed_10.jpg">
+	<img style="width: 100%; margin-bottom: 10px;" alt="Image 1" src="/images/Learning%20@%20Pei%20Hwa/unnamed_11.jpg">
+	</td>
+</tr>
+	
+</tbody>
+</table>

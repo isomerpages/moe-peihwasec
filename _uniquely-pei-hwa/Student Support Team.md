@@ -66,3 +66,5 @@ variant: markdown
 <p style="font-size:14.5px; line-height:2;margin-top:-15px;font-family:sans-serif;">Ms Jacqueline Ong | Education and Career Guidance Counsellor | 65009580 ext 208</p>
 
 <p style="font-size:14.5px; line-height:2;margin-top:-15px;font-family:sans-serif;">Mr Joel Lim | Special Education Needs Officer | 65009580 ext 205</p>
+
+<p style="font-size:14.5px; line-height:2;margin-top:-15px;font-family:sans-serif;">Clara Cheong | Special Education Needs Officer | 65009580 ext 205</p>
