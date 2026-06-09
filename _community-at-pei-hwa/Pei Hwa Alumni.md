@@ -43,10 +43,16 @@ programmes.</p>
 Objectives</strong></h6>
 <p style="font-size:14.5px; line-height:2;font-family:sans-serif;margin-top:0px;">The scholarship aims to foster a sense of belonging amongst all Pei Hwa Alumni members and Pei Hwa Secondary School graduates to the Pei Hwa Family. It also aims to support and encourage Pei Hwa Alumni Youth Wing members to strive for academic excellence and contribute to the community in a meaningful manner.</p>
 
-<p style="font-size:14.5px; line-height:2;font-family:sans-serif;margin-top:0px;">For more information on the scholarship you may refer to the following document:  <a href="https://drive.google.com/file/d/1nlw_RtLJzW4ivnwIENbmjNhfyfAZcjVS/view?usp=sharing" style="font-size:14.5px; line-height:1.5;font-family:sans-serif;font-weight:bold;text-decoration: none;">General Info</a> </p>
+<p style="font-size:14.5px; line-height:2;font-family:sans-serif;margin-top:0px;">For more information on the scholarship you may refer to the following document:  <a href="https://drive.google.com/file/d/1pwpI-Q1_k4km0oRkHnLwA0gjBpofcb0A/view?usp=share_link" style="font-size:14.5px; line-height:1.5;font-family:sans-serif;font-weight:bold;text-decoration: none;">General Info</a> </p>
 
-<p style="font-size:14.5px; line-height:2;font-family:sans-serif;margin-top:0px;">Application for Pei Hwa Foundation Scholarship 2025 is now OPEN!!! <a href="https://go.gov.sg/2025phfscholarship" style="font-size:14.5px; line-height:1.5;font-family:sans-serif;font-weight:bold;text-decoration: none;">https://go.gov.sg/2025phfscholarship</a></p>
+<p style="font-size:14.5px; line-height:2;font-family:sans-serif;margin-top:0px;">Pei Hwa Foundation Scholarship (JC/Poly/ITE) 2026 is now <a href="https://form.gov.sg/6a257244d6a317074be1e0f1" style="font-size:14.5px; line-height:1.5;font-family:sans-serif;font-weight:bold;text-decoration: none;">OPEN</a>!!! </p>
+
+<p style="font-size:14.5px; line-height:2;font-family:sans-serif;margin-top:0px;">Pei Hwa Foundation Scholarship (University) 2026 is now <a href="https://docs.google.com/forms/d/1j_GAiwJHCzkO7RwMAiixK5C1_5BU7ViA78-_3XySD0I/edit" style="font-size:14.5px; line-height:1.5;font-family:sans-serif;font-weight:bold;text-decoration: none;">OPEN</a>!!! </p>
 
 <p style="font-size:14.5px; line-height:2;font-family:sans-serif;margin-top:0px;">The Pei Hwa Foundation (PHF) is offering the Pei Hwa Foundation Scholarship to outstanding Pei Hwa Alumni Youth Wing students who have been achieving good results in their tertiary education and also consistently contributed back to Pei Hwa Secondary School as an Alumni member.</p>
 
-<p style="font-size:14.5px; line-height:2;font-family:sans-serif;margin-top:0px;">Period for application: 9th June 2025 to 22nd June 2025</p>
+<p style="font-size:14.5px; line-height:2;font-family:sans-serif;margin-top:0px;">Period for application</p>
+<ul style="margin-top:-5px">
+	<li style="font-size:14.5px; line-height:1.5;font-family:sans-serif;">9th June 2026 to 22nd June 2026 for Pei Hwa Foundation Scholarship (JC/Poly/ITE)</li>
+	<li style="font-size:14.5px; line-height:1.5;font-family:sans-serif;">9th June 2026 to 15th July 2026 for Pei Hwa Foundation Scholarship (University)</li>
+</ul>
