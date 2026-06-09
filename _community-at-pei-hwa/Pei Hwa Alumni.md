@@ -53,6 +53,6 @@ Objectives</strong></h6>
 
 <p style="font-size:14.5px; line-height:2;font-family:sans-serif;margin-top:0px;">Period for application</p>
 <ul style="margin-top:-5px">
-	<li style="font-size:14.5px; line-height:1.5;font-family:sans-serif;">9th June 2026 to 22nd June 2026 for Pei Hwa Foundation Scholarship (JC/Poly/ITE)</li>
-	<li style="font-size:14.5px; line-height:1.5;font-family:sans-serif;">9th June 2026 to 15th July 2026 for Pei Hwa Foundation Scholarship (University)</li>
+	<li style="font-size:14.5px; line-height:1.5;font-family:sans-serif;">Pei Hwa Foundation Scholarship (JC/Poly/ITE): <strong style="font-family:sans-serif;">9th June 2026 to 22nd June 2026</strong></li>
+	<li style="font-size:14.5px; line-height:1.5;font-family:sans-serif;">Pei Hwa Foundation Scholarship (University): <strong style="font-family:sans-serif;">9th June 2026 to 15th July 2026</strong></li>
 </ul>
