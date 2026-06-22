@@ -140,7 +140,7 @@ variant: markdown
   <span style="display:block; color:#333333; margin-top:1em;font-size:15px;font-family:sans-serif;"><em style="font-family:sans-serif;">Unit Sergeant Major, Keenan Tan Zhihui (3I1)</em></span>
 	</blockquote> 
 
-<blockquote style="font-size: 15px;width:100%;margin:50px auto;margin-top:5px;font-family:serif;font-style:italic;color: #555555;padding:1.2em 25px 1.2em 25px;border-left:8px solid #0C6523;line-height:1.6;position: relative;background:#EDEDED;">
+<blockquote style="font-size: 15px;width:100%;margin:50px auto;margin-top:5px;font-family:serif;font-style:italic;color: #555555;padding:1em 25px 0.8em 25px;border-left:8px solid #0C6523;line-height:1.6;position: relative;background:#EDEDED;">
 <img align="left" src="/images/CCA/NCC02.jpg" style="width: 23%; border-radius: 7%;  margin-right:15px;">
 	"When I first joined NCC in Secondary 1, I never expected to enjoy it so much. However, over time, it became a very important part of my secondary school life. Throughout the past few years, there were many challenging moments, but I learned to embrace them. These experiences taught me valuable lessons and helped me grow mentally stronger. NCC helped me become more disciplined and responsible, but my biggest takeaway was the friendships and memories made throughout this journey. I am truly grateful to everyone who supported me along the way and helped me become a better person. I will never forget my time in NCC and will always cherish those memories."
   <span style="display:block; color:#333333; margin-top:1em;font-size:15px;font-family:sans-serif;"><em style="font-family:sans-serif;">Asst Sergeant Major (Admin), Goh Zhan Shuo (3I2)</em></span>
