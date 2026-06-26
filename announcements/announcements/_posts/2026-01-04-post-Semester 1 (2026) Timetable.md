@@ -5,10 +5,13 @@ date: 2026-01-04
 layout: post
 description: ""
 image: ""
-variant: markdown
+variant: tiptap
 ---
-<p style="font-size:14.5px; line-height:2 ;margin-top:0px; font-family:sans-serif;" class="description">The Semester 1 2026 timetable is out. Please see the link below:</p>
-
-<ol style="margin-top:-5px;">
-	<li style="font-size:14.5px; line-height:2;margin-left:17px;font-family:sans-serif;"><a href="https://drive.google.com/file/d/1oHZKa19EEcL_BUi8h23cHXhXsDGD1hue/view?usp=drive_link" style="font-size:14.5px; line-height:1.5;font-family:sans-serif;font-weight:bold;text-decoration: none;">Secondary 1 - 5 Timetable </a></li>
-	</ol>
+<p>The Semester 2 2026 timetable is out. Please see the link below:</p>
+<ol data-tight="true" class="tight">
+<li>
+<p><strong><a href="https://drive.google.com/file/d/1oHZKa19EEcL_BUi8h23cHXhXsDGD1hue/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">Secondary 1 - 5 Timetable</a></strong>
+</p>
+</li>
+</ol>
+<p></p>
