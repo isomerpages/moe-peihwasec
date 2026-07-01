@@ -93,7 +93,7 @@ Email: cheong_yu_tong_b@moe.edu.sg<p></p>
 
 <p style="margin-top:0px;font-size:14.5px; line-height:2;font-family:sans-serif;">ECG Counsellors have been deployed to enhance ECG efforts in school. ECG Counsellors provide individual and group counselling to students to guide them to make informed decisions based on their interests and strengths, so that they can contribute meaningfully to society through their future professions. ECG Counsellors also conduct workshops for educators and students.</p>
 
-<p style="margin-top:0px;font-size:14.5px; line-height:2;font-family:sans-serif;">Our school’s ECG Counsellor is Ms Adeline Ng and she is stationed in our school every Monday and Thursday of the week to provide ECG counselling to students.</p>
+<p style="margin-top:0px;font-size:14.5px; line-height:2;font-family:sans-serif;">Our school’s ECG Counsellor is Ms Jacqueline Ong and she is stationed in our school every Monday and Thursday of the week to provide ECG counselling to students.</p>
 
 <p style="margin-top:0px;font-size:14.5px; line-height:2;font-family:sans-serif;">Students can visit this <a href="https://go.gov.sg/apptecgc" style="font-size:14.5px; line-height:1.5;font-family:sans-serif;font-weight:bold;text-decoration: none;">link</a> to book an appointment to see her at the school library to discover their values, interests, personalities and strengths as well as explore and make informed decisions about their post-secondary education pathways.</p>
 
