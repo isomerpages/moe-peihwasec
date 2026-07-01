@@ -1,6 +1,6 @@
 ---
-title: Pei Hwa Choir
-permalink: /learning-at-pei-hwa/cca/performing-arts/pei-hwa-choir/
+title: Pei Hwa Voices
+permalink: /learning-at-pei-hwa/cca/performing-arts/pei-hwa-voices/
 description: ""
 third_nav_title: Performing Arts
 variant: markdown
@@ -112,17 +112,17 @@ variant: markdown
 <h6 style="color:#0B6623;font-family:sans-serif;font-weight:bold;margin-top:30px;"><strong style="font-family:sans-serif;font-size:17px;color:#0B6623;">CCA Activities</strong></h6>
 
 <ul style="margin-top:-5px">
-	<li style="font-size:14.5px; line-height:2;font-family:sans-serif;"> Training in basic music theory and vocal technique.<br>
+	<li style="font-size:14.5px; line-height:2;font-family:sans-serif;"> Training in basic music theory and vocal technique. - (no period)<br>
 All singers learn about how to read basic musical notations, and how to maintain good vocal health. Singers with a greater interest in developing their musical talent may also have opportunities to learn basic conducting. 
 </li>
-<li style="font-size:14.5px; line-height:2; font-family:sans-serif;"> Learning songs from different cultures, genres, and time-periods.<br>
+<li style="font-size:14.5px; line-height:2; font-family:sans-serif;"> Learning songs from different cultures, genres, and time-periods.- (no period)<br>
 We sing a diverse array of songs from different cultures, languages, time-periods and genres. This gives each singer an appreciation of different cultures, languages and the rich history of choral singing.
 </li>
 <li style="font-size:14.5px; line-height:2; font-family:sans-serif;"> Choral exchanges with choirs from other schools<br>
 The Pei Hwa Voices frequently collaborates with choirs from other schools through choral exchanges where we share our learning and repertoire with fellow choristers from all over Singapore. We build a community of passionate singers through combined performances.
 </li>
 	<li style="font-size:14.5px; line-height:2; font-family:sans-serif;"> Public performances and participation in choral festivals<br>
-The Pei Hwa Voices has many opportunities to perform for school events, SYF Arts Presentations, choral festivals, and PHiesta, our biennial combined performing arts concert.
+The Pei Hwa Voices has many opportunities to perform for school events, Singapore Youth Festival (SYF) Arts Presentations, choral festivals, and PHiesta, our biennial combined performing arts concert.
 </li>
 	<li style="font-size:14.5px; line-height:2; font-family:sans-serif;margin-bottom:-5px;"> Participation in school camps<br>
 Our singers are exposed to different art forms through our collaboration with other Performing Arts CCAs during our annual Combined Performing Arts Camp.
@@ -137,7 +137,7 @@ Our singers are exposed to different art forms through our collaboration with ot
 	<tbody style="border: none;">
 <tr>
 			<td style="font-weight: bold; font-size: 14.5px; border-bottom: 1px solid #dddddd;width:30%;font-family:sans-serif;letter-spacing:0.2px">Teachers-in-Charge</td>
-			<td style="font-size: 14.5px; border-bottom: 1px solid #dddddd;font-family:sans-serif;letter-spacing:0.2px">Mdm Wong Ping Fang (Claire), Mdm Tan Jiewen, Mr Yeo Wei Qiang, Kenneth</td>
+			<td style="font-size: 14.5px; border-bottom: 1px solid #dddddd;font-family:sans-serif;letter-spacing:0.2px">Mdm Wong Ping Fang (Claire), Mdm Tan Jiewen, Ms Oh Yi Qi Dora</td>
 		</tr>
 <tr>
 			<td style="font-weight: bold; font-size: 14.5px; border-bottom: 1px solid #dddddd;width:30%;font-family:sans-serif;letter-spacing:0.2px">CCA Schedule</td>
@@ -148,7 +148,7 @@ Our singers are exposed to different art forms through our collaboration with ot
 		
 <tr>
 			<td style="font-weight: bold; font-size: 14.5px; border-bottom: 1px solid #dddddd;width:30%;font-family:sans-serif;letter-spacing:0.2px">Venues</td>
-			<td style="font-size: 14.5px; border-bottom: 1px solid #dddddd;font-family:sans-serif;letter-spacing:0.2px">iMac Room / INT 7 / INT 8 / RES 1 / RES 2 
+			<td style="font-size: 14.5px; border-bottom: 1px solid #dddddd;font-family:sans-serif;letter-spacing:0.2px">AVA Room 1 &amp; 2 
 </td>
 		</tr>
 		
