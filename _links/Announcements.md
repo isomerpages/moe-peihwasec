@@ -4,7 +4,8 @@ permalink: /links/announcements/
 description: ""
 variant: tiptap
 ---
-<h5><strong><a href="/lp-announcement/timetable/" rel="noopener noreferrer nofollow" target="_blank">Semester 2 (2026) Timetable</a></strong><br><br><strong><a href="/lp-announcement/2026-preliminary-examination-timetable/" rel="noopener noreferrer nofollow" target="_blank">2026 Sec 4 and 5 MT Preliminary Examination Timetable</a></strong></h5>
+<h5><strong><a href="/lp-announcement/2026-preliminary-examination-timetable/" rel="noopener noreferrer nofollow" target="_blank">2026 N Level and O Level Preliminary Examination Timetable</a></strong></h5>
+<h5><strong><a href="/lp-announcement/timetable/" rel="noopener noreferrer nofollow" target="_blank">Semester 2 (2026) Timetable</a></strong></h5>
 <h5><strong><a href="/lp-announcement/secondary-1-registration/" rel="noopener noreferrer nofollow" target="_blank">Secondary 1 Registration 2026</a></strong></h5>
 <h5><strong><a href="/lp-announcement/book-list/" rel="noopener noreferrer nofollow" target="_blank">Book List 2026</a></strong></h5>
 <h5><strong><a href="/lp-announcement/moe-fas-application/" rel="noopener noreferrer nofollow" target="_blank">MOE FAS Application</a></strong></h5>
