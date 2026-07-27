@@ -4,6 +4,8 @@ permalink: /uniquely-pei-hwa/student-support-team/
 description: ""
 variant: markdown
 ---
+<img style="width: 100%; height: auto;margin-top:30px;margin-bottom:30px;" alt="Image" src="/images/WhatsApp_Image_2026_07_22_at_09_49_09.jpg">
+
 <p style="margin-top:0px;font-size:14.5px; line-height:2;font-family:sans-serif;">We believe that psychological, emotional and cognitive well-being is essential for a student’s overall growth. When students feel supported, they can reach key personal milestones and thrive in all areas of life.</p>
 
 <p style="margin-top:0px;font-size:14.5px; line-height:2;font-family:sans-serif;">Together with teachers, our Student Support Team partners parents, and relevant professionals to develop resilience and competence, both in and beyond the classroom.</p>
@@ -67,4 +69,4 @@ variant: markdown
 
 <p style="font-size:14.5px; line-height:2;margin-top:-15px;font-family:sans-serif;">Mr Joel Lim | Special Education Needs Officer | 65009580 ext 205</p>
 
-<p style="font-size:14.5px; line-height:2;margin-top:-15px;font-family:sans-serif;">Clara Cheong | Special Education Needs Officer | 65009580 ext 205</p>
+<p style="font-size:14.5px; line-height:2;margin-top:-15px;font-family:sans-serif;">Ms Clara Cheong | Special Education Needs Officer | 65009580 ext 205</p>
