@@ -166,7 +166,7 @@ variant: markdown
 	
 <h6 style="color:#0B6623;font-family:sans-serif;font-weight:bold;margin-top:30px;"><strong style="font-family:sans-serif;font-size:17px;color:#0B6623;">Student Testament</strong></h6>
 
-<blockquote style="font-size: 15px;width:100%;margin:50px auto;margin-top:5px;font-family:serif;font-style:italic;color: #555555;padding:1.2em 25px 1.2em 25px;border-left:8px solid #0C6523;line-height:1.6;position: relative;background:#EDEDED;">
+<blockquote style="font-size: 15px;width:100%;margin:50px auto;margin-top:5px;font-family:serif;color: #555555;padding:1.2em 25px 1.2em 25px;border-left:8px solid #0C6523;line-height:1.6;position: relative;background:#EDEDED;">
 <img align="left" src="/images/CCA/odacXT.jpg" style="width: 23%; border-radius: 7%;  margin-right:15px;">
 	“When I first joined ODAC, I was a quiet and reserved Secondary 1 student who rarely stepped out of my comfort zone. Although I had successfully appealed into the CCA, I was unsure of what to expect. Back then, I simply thought ODAC was a CCA centred around hiking, camping and outdoor adventures. Looking back now, I can confidently say that joining ODAC was one of the best decisions I have made during my secondary school journey.<br><br>
 From my very first session, I was warmly welcomed by my seniors and peers. Despite being shy and hesitant, I never felt left out. Their constant encouragement and support helped me gradually open up and gain confidence. Through them, I learnt the true meaning of ODAC's motto, "One for All, All for One." It is not merely a motto but a value that every member embodies. In ODAC, everyone looks out for one another and no one is left behind.<br><br>
@@ -180,7 +180,7 @@ I am deeply grateful to my teachers, seniors, peers and juniors for making my OD
   <span style="display:block; color:#333333; margin-top:1em;font-size:15px;font-family:sans-serif;"><em style="font-family:sans-serif;">President 2026, Teo Xue Ting</em></span>
 	</blockquote> 
 
-<blockquote style="font-size: 15px;width:100%;margin:50px auto;margin-top:5px;font-family:serif;font-style:italic;color: #555555;padding:1.2em 25px 1.2em 25px;border-left:8px solid #0C6523;line-height:1.6;position: relative;background:#EDEDED;">
+<blockquote style="font-size: 15px;width:100%;margin:50px auto;margin-top:5px;font-family:serif;color: #555555;padding:1.2em 25px 1.2em 25px;border-left:8px solid #0C6523;line-height:1.6;position: relative;background:#EDEDED;">
 <img align="left" src="/images/CCA/odacKL.jpg" style="width: 23%; border-radius: 7%;  margin-right:15px;">
 	“My experience in ODAC has been one of the most memorable and meaningful chapters of my secondary school life. In fact, ODAC was one of the main reasons why I wanted to join Pei Hwa Secondary School, and it was the only CCA that truly caught my interest. Therefore, I am incredibly grateful that my appeal into the CCA was successful after not being posted to it initially.<br><br>
 When I first joined ODAC in Secondary 1, I was extremely introverted and physically unfit. Coming from a Drama Club background in primary school, the world of outdoor adventure was completely new to me. I often struggled to keep up during training sessions and felt left behind as my fitness level and practical skills were not as strong as those of my teammates. Learning new outdoor skills while coping with the rigorous physical training was challenging, and there were times when I doubted whether I could keep up.<br><br>
@@ -194,7 +194,7 @@ I will always be grateful for the opportunities, experiences and friendships tha
   <span style="display:block; color:#333333; margin-top:1em;font-size:15px;font-family:sans-serif;"><em style="font-family:sans-serif;">Vice President – Special Project 2025,&nbsp; Chong Kathleen</em></span>
 	</blockquote> 
 	
-<blockquote style="font-size: 15px;width:100%;margin:50px auto;margin-top:5px;font-family:serif;font-style:italic;color: #555555;padding:1.2em 25px 1.2em 25px;border-left:8px solid #0C6523;line-height:1.6;position: relative;background:#EDEDED;">
+<blockquote style="font-size: 15px;width:100%;margin:50px auto;margin-top:5px;font-family:serif;color: #555555;padding:1.2em 25px 1.2em 25px;border-left:8px solid #0C6523;line-height:1.6;position: relative;background:#EDEDED;">
 <img align="left" src="/images/CCA/odacZK.jpg" style="width: 23%; border-radius: 7%;  margin-right:15px;">
 	“ODAC has been a significant part of my secondary school life and has played a major role in shaping me into the person I am today. From learning the four basic knots and pitching a tent to navigating unfamiliar terrain and earning my first competition medal, ODAC has provided me with countless opportunities to grow and challenge myself. Through these experiences, I have become a fitter, more resilient and adventurous individual who is willing to step out of my comfort zone and pursue goals with determination.<br><br>
 Coming from the Board Games Club in primary school, I was definitely more of an indoor person. However, I wanted a fresh and unique experience when I entered secondary school, which led me to join ODAC. Looking back, that decision became a turning point in my life.<br><br>
@@ -207,7 +207,7 @@ I am deeply grateful for the teachers, seniors, peers and juniors who have been 
   <span style="display:block; color:#333333; margin-top:1em;font-size:15px;font-family:sans-serif;"><em style="font-family:sans-serif;">President 2025, Zack Leow Bo Jun </em></span>
 	</blockquote>
 	
-<blockquote style="font-size: 15px;width:100%;margin:50px auto;margin-top:5px;font-family:serif;font-style:italic;color: #555555;padding:1.2em 25px 1.2em 25px;border-left:8px solid #0C6523;line-height:1.6;position: relative;background:#EDEDED;">
+<blockquote style="font-size: 15px;width:100%;margin:50px auto;margin-top:5px;font-family:serif;color: #555555;padding:1.2em 25px 1.2em 25px;border-left:8px solid #0C6523;line-height:1.6;position: relative;background:#EDEDED;">
 <img align="left" src="/images/CCA/odacYQ.jpg" style="width: 23%; border-radius: 7%;  margin-right:15px;">
 “My overall experience in ODAC has been unlike any other experience I have had in school. When I first joined the CCA, I was practically at the bottom of the ladder. I struggled with many aspects of ODAC, especially the physical components such as running and push-ups. I was not particularly strong in other areas either, such as campcraft and tent pitching. At times, I found it difficult to keep up with my peers and questioned whether I was capable of meeting the demands of the CCA.<br><br> 
 However, as time passed, I gradually adapted to the environment and culture of ODAC. Through the many enriching training sessions, camps and activities, I became more comfortable and confident. More importantly, I formed many meaningful friendships with both my seniors and juniors. The strong sense of camaraderie within the CCA made every challenge feel more manageable and every achievement more rewarding.<br><br>
