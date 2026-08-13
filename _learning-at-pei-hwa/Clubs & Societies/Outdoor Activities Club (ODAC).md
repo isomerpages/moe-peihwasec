@@ -25,6 +25,7 @@ variant: markdown
 </thead>
 <tbody>	
 <tr>
+	
 <td><strong style="font-family:sans-serif;font-size:14.5px;">2026</strong></td>
 	<td>
 		<strong style="font-family:sans-serif;font-size:15px;">GREENDALE ADVENTURE RACE</strong>
@@ -85,8 +86,7 @@ variant: markdown
 	</td>
 </tr>		
 
-	<tr style="background-color: #f3f3f3;border-bottom: 2px solid #0C6523;">
-<td><strong style="font-family:sans-serif;font-size:14.5px;">2024</strong></td>
+<tr><td><strong style="font-family:sans-serif;font-size:14.5px;">2024</strong></td>
 	<td><strong style="font-family:sans-serif;font-size:15px;">PAssion Wave Orienteering Championship ‘C’ Division Girls Category</strong>
 		<br>
 		<ul style="margin-top:-5px"> 
@@ -102,9 +102,7 @@ variant: markdown
 			<li style="font-size:14.5px;margin-bottom:-5px;font-family:sans-serif;line-height:1.5;"> Boys Team 2<sup style="font-family:sans-serif;">nd</sup> Place</li>
 		</ul>
 	</td>
-</tr>
-
-<tr>
+</tr><tr>
 <td><strong style="font-family:sans-serif;font-size:14.5px;">2023</strong></td>
 	<td>
 		<strong style="font-family:sans-serif;font-size:15px;">GREENDALE ADVENTURE RACE
