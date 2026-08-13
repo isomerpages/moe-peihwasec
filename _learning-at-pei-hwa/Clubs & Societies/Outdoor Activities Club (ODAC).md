@@ -177,7 +177,7 @@ Today, as President, I hope to lead by example and create a welcoming environmen
 I am deeply grateful to my teachers, seniors, peers and juniors for making my ODAC journey such a meaningful one. ODAC has given me lifelong friendships, unforgettable memories, valuable life skills and the confidence to embrace new challenges. These are lessons and experiences that I will continue to carry with me long after I leave secondary school.”<br><br>
 "Every accomplishment starts with the decision to try."
 
-  <span style="display:block; color:#333333; margin-top:-2em;font-size:15px;font-family:sans-serif;"><em style="font-family:sans-serif;">President 2026, Teo Xue Ting</em></span>
+  <span style="display:block; color:#333333; margin-top:1em;font-size:15px;font-family:sans-serif;"><em style="font-family:sans-serif;">President 2026, Teo Xue Ting</em></span>
 	</blockquote> 
 
 <blockquote style="font-size: 15px;width:100%;margin:50px auto;margin-top:5px;font-family:serif;font-style:italic;color: #555555;padding:1.2em 25px 1.2em 25px;border-left:8px solid #0C6523;line-height:1.6;position: relative;background:#EDEDED;">
@@ -191,7 +191,7 @@ ODAC has transformed me from a quiet and reserved student into someone who is mo
 To me, ODAC was more than just a CCA. It was the highlight of every Tuesday and Friday, a place where I could relieve stress, challenge myself and spend time with people who genuinely cared for one another. It was a community where I felt supported, valued and encouraged to grow.<br><br>
 I will always be grateful for the opportunities, experiences and friendships that ODAC has given me. Looking back, I can confidently say that joining ODAC was one of the best decisions I have ever made. The memories, lessons and relationships I have gained will stay with me long after I leave secondary school. Most importantly, ODAC has given me a second family that I will always cherish. “
 
-  <span style="display:block; color:#333333; margin-top:-2em;font-size:15px;font-family:sans-serif;"><em style="font-family:sans-serif;">Vice President – Special Project 2025,&nbsp; Chong Kathleen</em></span>
+  <span style="display:block; color:#333333; margin-top:1em;font-size:15px;font-family:sans-serif;"><em style="font-family:sans-serif;">Vice President – Special Project 2025,&nbsp; Chong Kathleen</em></span>
 	</blockquote> 
 	
 <blockquote style="font-size: 15px;width:100%;margin:50px auto;margin-top:5px;font-family:serif;font-style:italic;color: #555555;padding:1.2em 25px 1.2em 25px;border-left:8px solid #0C6523;line-height:1.6;position: relative;background:#EDEDED;">
@@ -204,7 +204,7 @@ Being President came with its own set of challenges and responsibilities. There 
 Beyond the outdoor skills and leadership opportunities, ODAC has taught me valuable lessons in resilience, teamwork, responsibility and perseverance. More importantly, it has shown me the importance of supporting one another and striving together towards a common goal. The friendships, memories and experiences that I have gained through ODAC are things that I will always cherish.<br><br>
 I am deeply grateful for the teachers, seniors, peers and juniors who have been part of my journey in ODAC and have helped me grow along the way. Looking back, I can confidently say that joining ODAC was one of the best decisions I have ever made, and the lessons I have learnt here will stay with me long after I leave secondary school.”
 
-  <span style="display:block; color:#333333; margin-top:-2em;font-size:15px;font-family:sans-serif;"><em style="font-family:sans-serif;">President 2025, Zack Leow Bo Jun </em></span>
+  <span style="display:block; color:#333333; margin-top:1em;font-size:15px;font-family:sans-serif;"><em style="font-family:sans-serif;">President 2025, Zack Leow Bo Jun </em></span>
 	</blockquote>
 	
 <blockquote style="font-size: 15px;width:100%;margin:50px auto;margin-top:5px;font-family:serif;font-style:italic;color: #555555;padding:1.2em 25px 1.2em 25px;border-left:8px solid #0C6523;line-height:1.6;position: relative;background:#EDEDED;">
@@ -217,7 +217,7 @@ Although I may not be the most physically fit member in ODAC, that never stopped
 Without a doubt, joining ODAC was one of the best decisions I have made. It has taught me valuable life lessons, helped me discover strengths I never knew I had and introduced me to a community that I am proud to be a part of. Looking back, I can confidently say that I have no regrets joining this CCA. If I had not taken that first step, I would not be the person I am today.”
 
 
-  <span style="display:block; color:#333333; margin-top:-2em;font-size:15px;font-family:sans-serif;"><em style="font-family:sans-serif;">Group IC 2025, Jian Yiqi </em></span>
+  <span style="display:block; color:#333333; margin-top:1em;font-size:15px;font-family:sans-serif;"><em style="font-family:sans-serif;">Group IC 2025, Jian Yiqi </em></span>
 	</blockquote> 
 	
 <h6 style="color:#0B6623;font-family:sans-serif;font-weight:bold;margin-top:30px;"><strong style="font-family:sans-serif;font-size:17px;color:#0B6623;">CCA Details</strong></h6>
