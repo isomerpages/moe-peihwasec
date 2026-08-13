@@ -9,7 +9,7 @@ variant: markdown
 
 <p style="font-size:14.5px; line-height:2 ;margin-top:0px; font-family:sans-serif;" class="description"> <strong style="font-size:14.5px; line-height:2; font-family:sans-serif;">Pei Hwa Outdoor Adventure Club (ODAC) </strong>offers our students the opportunity to engage in a wide range of outdoor activities and training programmes that are designed to develop their skills and inspire them to achieve their full potential. Through outdoor experiences, we aim to instill values such as perseverance and discipline, while also fostering an appreciation for nature and our urban surroundings.</p>
 
-<p style="font-size:14.5px; line-height:2 ;margin-top:0px; font-family:sans-serif;" class="description">Our club is open to students who are willing to step out of their comfort zones and challenge themselves. Through a series of tasks and challenges, our members learn to work together as a team and to innovate in order to solve problems effectively. This often requires them to learn to adapt and communicate well with each other, allowing them to develop important soft skills while also earning certificates for their achievements.</p>
+<p style="font-size:14.5px; line-height:2 ;margin-top:0px; font-family:sans-serif;" class="description">Our club is open to students who are willing to step out of their comfort zones and challenge themselves. Through a series of tasks and challenges, our members learn to work together as a team and to innovate in order to solve problems effectively. The ODACians also get to learn useful skills such as orienteering, campcraft, and outdoor cooking, while taking part in activities that promote fitness development. These experiences require members to adapt and communicate well with one another, allowing them to develop important soft skills while also earning certificates for their achievements.</p>
 
 <p style="font-size:14.5px; line-height:2 ;margin-top:0px; font-family:sans-serif;" class="description">At ODAC, we are committed to exploring options that help our students develop important outdoor skills in a holistic manner. Guided by our motto <strong style="font-size:14.5px; line-height:2; font-family:sans-serif;">"One for All, All for One"</strong>, we are proud to be one big family that celebrates and embraces each other's differences. Overall, ODAC offers an excellent opportunity for students to grow and learn in a supportive and challenging environment. We encourage all students who are interested in outdoor adventure and personal development to join us and become part of our community.</p>
 
@@ -130,9 +130,7 @@ variant: markdown
 			<li style="font-size:14.5px;margin-bottom:-5px;font-family:sans-serif;line-height:1.5;">C Div 1<sup style="font-family:sans-serif;">st</sup>, 2<sup style="font-family:sans-serif;">nd</sup> and 3<sup style="font-family:sans-serif;">rd</sup> Place</li>
 	</ul></td>
 	</tr>
-															
-<tr style="background-color: #f3f3f3;border-bottom: 2px solid #0C6523;">
-<td><strong style="font-family:sans-serif;font-size:14.5px;">2022</strong></td>
+<tr><td><strong style="font-family:sans-serif;font-size:14.5px;">2022</strong></td>
 	<td><strong style="font-family:sans-serif;font-size:15px;">GREENDALE ADVENTURE RACE </strong>
 		<br>
 		<ul style="margin-top:-5px"> 
@@ -144,8 +142,7 @@ variant: markdown
 			<li style="font-size:14.5px;margin-bottom:-5px;font-family:sans-serif;line-height:1.5;"> C Div 3<sup style="font-family:sans-serif;">rd</sup> Place</li>
 		</ul>
 	</td>
-</tr>
-</tbody>
+</tr></tbody>
 </table>
 
 <h6 style="color:#0B6623;font-family:sans-serif;font-weight:bold;margin-top:30px;"><strong style="font-family:sans-serif;font-size:17px;color:#0B6623;">CCA Activities and Enrichment Activities</strong></h6>
