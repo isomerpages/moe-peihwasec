@@ -303,6 +303,19 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><strong>SH English</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Cheong Ming Li Emily</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:emily_cheong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">emily_cheong@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><strong>SH Student Leadership</strong>
 </p>
 </td>
