@@ -154,12 +154,12 @@ variant: markdown
 <li style="font-size:14.5px; line-height:1.5; font-family:sans-serif;"> Camp craft and outdoor cooking skills training</li>
 <li style="font-size:14.5px; line-height:1.5; font-family:sans-serif;">Inter- School Orienteering Competitions </li>
 	<li style="font-size:14.5px; line-height:1.5; font-family:sans-serif;margin-bottom:-5px;"> School overnight camps</li>
-	<li style="font-size:14.5px; line-height:1.5; font-family:sans-serif;margin-top:1em;margin-bottom:-5px;"> Enrichment Courses
-		<ul style="font-size:14.5px; line-height:1.5; font-family:sans-serif;margin-top:-0.5em;margin-bottom:-5px;">
-			<li style="font-family:sans-serif;">Kayaking - 1-Star and 2-Star</li>
-			<li style="margin-top:-1em;font-family:sans-serif;">Sports Climbing (Rockwall)</li>
-			<li style="margin-top:-1em;font-family:sans-serif;">Abseiling</li>
-			<li style="margin-top:-1em;font-family:sans-serif;">Orienteering Level 1</li>
+	<li style="line-height:1.5;margin-top:1em;margin-bottom:-5px;"> Enrichment Courses
+		<ul style="line-height:1.5;margin-top:-0.5em;margin-bottom:-5px;">
+			<li>Kayaking - 1-Star and 2-Star</li>
+      <li style="margin-top:-1em;">Sports Climbing (Rockwall)</li>
+      <li style="margin-top:-1em;">Abseiling</li>
+      <li style="margin-top:-1em;">Orienteering Level 1</li>
 		</ul>
 	</li>
 	</ul>
