@@ -146,23 +146,24 @@ variant: markdown
 <h6 style="color:#0B6623;font-family:sans-serif;font-weight:bold;margin-top:30px;"><strong style="font-family:sans-serif;font-size:17px;color:#0B6623;">CCA Activities and Enrichment Activities</strong></h6>
 
 <ul style="margin-top:-5px;font-family:sans-serif;">
-	<li style="font-size:14.5px; line-height:1.5"> Orienteering Sessions ( in and out of school)</li>
-<li style="font-size:14.5px; line-height:1.5">Fitness &amp; Conditioning (2.4km run, Beep Test. Strengthening)</li>
-<li style="font-size:14.5px; line-height:1.5;"> Staircase Training</li>
-	<li style="font-size:14.5px; line-height:1.5;"> Park Connector Runs</li>
-<li style="font-size:14.5px; line-height:1.5;"> Bonding games</li>
-<li style="font-size:14.5px; line-height:1.5;"> Camp craft and outdoor cooking skills training</li>
-<li style="font-size:14.5px; line-height:1.5;">Inter- School Orienteering Competitions </li>
-	<li style="font-size:14.5px; line-height:1.5;margin-bottom:-5px;"> School overnight camps</li>
-	<li style="line-height:1.5;margin-top:1em;margin-bottom:-5px;"> Enrichment Courses
-		<ul style="line-height:1.5;margin-top:-0.5em;margin-bottom:-5px;">
-			<li>Kayaking - 1-Star and 2-Star</li>
-      <li style="margin-top:-1em">Sports Climbing (Rockwall)</li>
-      <li style="margin-top:-1em;">Abseiling</li>
-      <li style="margin-top:-1em;">Orienteering Level 1</li>
-		</ul>
-	</li>
-	</ul>
+  <li style="font-size:14.5px;line-height:1.5;">Orienteering Sessions (in and out of school)</li>
+  <li style="font-size:14.5px;line-height:1.5;">Fitness &amp; Conditioning (2.4km run, Beep Test. Strengthening)</li>
+  <li style="font-size:14.5px;line-height:1.5;">Staircase Training</li>
+  <li style="font-size:14.5px;line-height:1.5;">Park Connector Runs</li>
+  <li style="font-size:14.5px;line-height:1.5;">Bonding games</li>
+  <li style="font-size:14.5px;line-height:1.5;">Camp craft and outdoor cooking skills training</li>
+  <li style="font-size:14.5px;line-height:1.5;">Inter-School Orienteering Competitions</li>
+  <li style="font-size:14.5px;line-height:1.5;">School overnight camps</li>
+  <li style="font-size:14.5px;line-height:1.5;margin-top:0.5em;">
+    Enrichment Courses
+    <ul style="font-size:14.5px;line-height:1.5;">
+      <li style="font-size:14.5px;line-height:1.5;margin-top:-1.5em;">Kayaking - 1-Star and 2-Star</li>
+      <li style="font-size:14.5px;line-height:1.5;">Sports Climbing (Rockwall)</li>
+      <li style="font-size:14.5px;line-height:1.5;">Abseiling</li>
+      <li style="font-size:14.5px;line-height:1.5;">Orienteering Level 1</li>
+    </ul>
+  </li>
+</ul>
 	
 <h6 style="color:#0B6623;font-family:sans-serif;font-weight:bold;margin-top:30px;"><strong style="font-family:sans-serif;font-size:17px;color:#0B6623;">Student Testament</strong></h6>
 
