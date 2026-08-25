@@ -48,5 +48,5 @@ time in a school-based programme that all students participate in)</li>
 
 	
 <p style="margin-top:10px;font-size:14.5px; line-height:2;font-family:sans-serif;">Students and parents are invited to nominate eligible and deserving students via this
-link:<a href="https://form.gov.sg/68ab20b88f1c29e8370f225b" style="font-size:14.5px; line-height:1.5;font-family:sans-serif;font-weight:bold;text-decoration: none;"> https://form.gov.sg/68ab20b88f1c29e8370f225b</a></p>
-<p style="margin-top:10px;font-size:14.5px; line-height:2;font-family:sans-serif;">The closing date for nominations is 10 Oct 2025.</p>
+link:<a href="https://go.gov.sg/phsseaglesps" style="font-size:14.5px; line-height:1.5;font-family:sans-serif;font-weight:bold;text-decoration: none;"> https://go.gov.sg/phsseaglesps</a></p>
+<p style="margin-top:10px;font-size:14.5px; line-height:2;font-family:sans-serif;">The closing date for nominations is <strong style="font-family:sans-serif;">25 Sep 2026</strong>.</p>
