@@ -5,7 +5,7 @@ variant: markdown
 description: ""
 third_nav_title: Direct School Admission
 ---
-<h6 style="color:#0B6623;font-family:sans-serif;font-weight:bold;margin-top:30px;"><strong style="font-family:sans-serif;font-size:17px;color:#0B6623;">DSA – Robotics (Programming)</strong></h6>
+<h6 style="color:#0B6623;font-family:sans-serif;font-weight:bold;margin-top:30px;"><strong style="font-family:sans-serif;font-size:17px;color:#0B6623;">DSA – Robotics</strong></h6>
 
 <p style="font-size:14.5px; line-height:2;margin-top:0px; font-family:sans-serif">Robotics is not just a CCA in Pei Hwa Secondary School. It is a platform for us to provide holistic development for all Pei Hwa Students. We have a structured <strong style="font-family:sans-serif;font-size:14.5px"> Robotics Experiential Education Programme </strong> for all staff and students, such as <strong style="font-family:sans-serif;font-size:14.5px">Teachers’ Training Programme, M5Go training for Secondary 1 and 2 students</strong> to equip them with Maker and Programming skills. </p>
 
